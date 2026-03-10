@@ -1,11 +1,11 @@
 # Chatbot Suport Tehnic
 
 ## Echipa
-- **Coordonator**: Terry
-- **Responsabil date și preprocesare NLP**:
-- **Responsabil model și clasificare intenții**:
-- **Responsabil backend și integrare API**:
-- **Responsabil frontend și interfață web**:
+- **Coordonator**: Carai Terentie 
+- **Responsabil date și preprocesare NLP**: Juncu vasile 
+- **Responsabil model și clasificare intenții**: Carai Maria
+- **Responsabil backend și integrare API**: Vasilache Dumitru
+- **Responsabil frontend și interfață web**: Naghi Debora 
 
 ## Descriere
 Proiect pentru facultate - Un chatbot care răspunde la întrebări frecvente.
