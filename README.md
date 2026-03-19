@@ -1,10 +1,12 @@
 # Chatbot Suport Tehnic
 
 ## Echipa
-- **Coordonator**: [Terry]
+- **Coordonator**: Carai Terentie 
+- **Responsabil backend și integrare API**: Vasilache Dumitru
+
 
 ## Descriere
-Proiect pentru facultate - Un chatbot care răspunde la întrebări frecvente.
+Proiect pentru facultate - Un chatbot care răspunde la întrebări culoinare.
 
 ## Tehnologii folosite
 - Python
