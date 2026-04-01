@@ -23,13 +23,13 @@ Proiect pentru facultate - Un chatbot care răspunde la întrebări culinare.
 
 ---
 
-## 📋 Descriere
+##  Descriere
 
 Acest modul implementează API-ul RESTful pentru Chatbot-ul Culinar "Bucătarul Virtual". API-ul primește întrebări de la utilizatori și returnează răspunsuri generate pe baza bazei de date culinare.
 
 ---
 
-## 🚀 Pornirea serverului
+##  Pornirea serverului
 
 ### 1. Deschide un terminal (Command Prompt / Terminal)
 ```bash
