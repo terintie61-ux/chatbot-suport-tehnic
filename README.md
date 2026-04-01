@@ -12,7 +12,7 @@ Proiect pentru facultate - Un chatbot care răspunde la întrebări culinare.
 - Python
 - Git
 - GitHub
-# README.md pentru Vasilache Dumitru (Backend & API)
+#  Vasilache Dumitru (Backend & API)
 
 ```markdown
 # API Chatbot Culinar - Backend
@@ -40,13 +40,13 @@ python src/api/app.py
 ### 2. Serverul va porni și vei vedea:
 ```
 ==================================================
-🍳 API CHATBOT CULINAR - 'BUCĂTARUL VIRTUAL'
+ API CHATBOT CULINAR - 'BUCĂTARUL VIRTUAL'
 ==================================================
-📊 Răspunsuri încărcate: 100
-📊 Întrebări încărcate: 100
+ Răspunsuri încărcate: 100
+ Întrebări încărcate: 100
 ==================================================
-🚀 Serverul pornește la http://localhost:5000
-📋 Endpoint-uri disponibile:
+ Serverul pornește la http://localhost:5000
+ Endpoint-uri disponibile:
    GET  /health  - verifică starea
    GET  /ping    - test rapid
    GET  /stats   - statistici
@@ -189,7 +189,7 @@ src/api/
 
 ---
 
-## 🔧 Dependențe
+##  Dependențe
 
 Asigură-te că ai instalat pachetele necesare:
 
@@ -205,7 +205,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🐛 Depanare (Troubleshooting)
+##  Depanare (Troubleshooting)
 
 ### Eroare: "ModuleNotFoundError: No module named 'flask'"
 **Soluție:**
@@ -241,7 +241,7 @@ mkdir src\api\logs
 
 ---
 
-## 🔗 Integrare cu Frontend
+##  Integrare cu Frontend
 
 Pentru ca Debora (frontend) să poată folosi API-ul, aceasta va face cereri la:
 ```
@@ -261,7 +261,7 @@ fetch('http://localhost:5000/chat', {
 
 ---
 
-## 📊 Log-uri
+##  Log-uri
 
 Toate cererile sunt salvate în `src/api/logs/requests.log` pentru debugging.
 
@@ -274,7 +274,7 @@ Toate cererile sunt salvate în `src/api/logs/requests.log` pentru debugging.
 
 ---
 
-## ✅ Checklist pentru Vasilache Dumitru
+##  Checklist pentru Vasilache Dumitru
 
 - [ ] Serverul pornește fără erori (`python src/api/app.py`)
 - [ ] Endpoint-ul `/health` funcționează
@@ -284,14 +284,6 @@ Toate cererile sunt salvate în `src/api/logs/requests.log` pentru debugging.
 - [ ] Răspunsurile sunt încărcate din JSON
 - [ ] Log-urile se scriu corect
 - [ ] Codul este în Git pe branch-ul `feature/backend-api`
-
----
-
-## 📞 Suport
-
-Pentru întrebări legate de API, contactează-l pe **Vasilache Dumitru**.
-
-Pentru integrare cu frontend, contactează-l pe **Naghi Debora**.
 
 ---
 
