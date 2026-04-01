@@ -153,7 +153,7 @@ Invoke-RestMethod -Uri http://localhost:5000/chat `
 
 ---
 
-## 🧪 Testare rapidă
+##  Testare rapidă
 
 ### Test 1: Verifică sănătatea API-ului
 Deschide browserul și accesează:
