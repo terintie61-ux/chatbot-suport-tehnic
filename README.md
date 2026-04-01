@@ -12,13 +12,11 @@ Proiect pentru facultate - Un chatbot care răspunde la întrebări culinare.
 - Python
 - Git
 - GitHub
-#  Vasilache Dumitru (Backend & API)
+#  Structura Backend & API
 
 ```markdown
 # API Chatbot Culinar - Backend
 
-**Responsabil:** Vasilache Dumitru  
-**Rol:** Backend și integrare API  
 **Branch:** `feature/backend-api`
 
 ---
@@ -59,7 +57,7 @@ Apasă `CTRL + C` în terminal
 
 ---
 
-## 📡 Endpoint-uri API
+##  Endpoint-uri API
 
 ### GET `/health`
 Verifică dacă API-ul funcționează.
