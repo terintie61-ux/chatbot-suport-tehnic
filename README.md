@@ -7,6 +7,8 @@
 - **Responsabil backend și integrare API**: Vasilache Dumitru
 - **Responsabil frontend și interfață web**: Nagy Rahela Debora 
 
+feature/data-preprocessing
+
 ## Descriere
 Proiect pentru facultate - Un chatbot care răspunde la întrebări culinare.
 
