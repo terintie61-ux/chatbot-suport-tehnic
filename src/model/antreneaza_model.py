@@ -20,6 +20,8 @@ from sklearn.pipeline import make_pipeline
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
+import warnings
+warnings.filterwarnings('ignore')  # Ascunde avertismentele
 
 def incarca_date():
     """Încarcă datele de antrenare de la Vasile"""
@@ -96,6 +98,8 @@ def vizualizeaza_rezultate(y_test, y_pred, X_test, model):
     plt.tight_layout()
     
     # Salvează imaginea
+    import os
+    os.makedirs('models', exist_ok=True)
     plt.savefig('models/matrice_confuzie.png', dpi=150)
     print("   ✅ Salvat: models/matrice_confuzie.png")
     
@@ -116,6 +120,10 @@ def vizualizeaza_rezultate(y_test, y_pred, X_test, model):
 def salveaza_model(model):
     """Salvează modelul antrenat pentru a fi folosit de API"""
     print("\n💾 Salvez modelul...")
+    
+    # Creează folderul dacă nu există
+    import os
+    os.makedirs('models/saved', exist_ok=True)
     
     # Creează numele fișierului cu data
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -147,16 +155,8 @@ def testeaza_model_cu_exemple(model):
     
     for exemplu in exemple_noi:
         predictie = model.predict([exemplu])[0]
-        # Obține și probabilitatea (pentru SVM linear putem folosi decision_function)
-        try:
-            scor = model.decision_function([exemplu])
-            confidenta = max(scor[0]) if len(scor[0]) > 0 else 0
-        except:
-            confidenta = "N/A"
-        
         print(f"   📝 '{exemplu}'")
         print(f"      → Intenție: {predictie}")
-        print(f"      → Confidență: {confidenta if confidenta != 'N/A' else 'calculată'}")
 
 def main():
     print("=" * 60)
@@ -170,7 +170,7 @@ def main():
     model, X_test, y_test, y_pred = antreneaza_model(df)
     
     # 3. Vizualizează rezultatele
-    vizualizeaza_rezultate(y_test, y_pred, model)
+    vizualizeaza_rezultate(y_test, y_pred, X_test, model)
     
     # 4. Salvează modelul
     nume_model = salveaza_model(model)
