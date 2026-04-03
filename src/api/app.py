@@ -1,20 +1,54 @@
 """
 API pentru Chatbot Culinar - "Bucătarul Virtual"
+Cu integrare model machine learning antrenat de Carai Maria
 Autor: Vasilache Dumitru
 Data: 2024
 """
 
 from flask import Flask, jsonify, request
+from flask_cors import CORS
 import json
 import os
 from datetime import datetime
-import random
+import joblib
+import warnings
+warnings.filterwarnings('ignore')
 
 # Creează aplicația Flask
 app = Flask(__name__)
+CORS(app)  # Permite cereri de la frontend (Debora)
 
-# Încarcă răspunsurile predefinite
+# ==================== ÎNCĂRCARE MODEL ====================
+
+def incarca_modelul():
+    """Încarcă modelul antrenat de Carai Maria"""
+    try:
+        # Încearcă mai întâi în folderul API
+        model_path = 'src/api/models/model_latest.pkl'
+        if not os.path.exists(model_path):
+            # Alternativ, încearcă în folderul principal
+            model_path = 'models/saved/model_latest.pkl'
+        
+        if os.path.exists(model_path):
+            model = joblib.load(model_path)
+            print(f"✅ Model încărcat cu succes din: {model_path}")
+            return model
+        else:
+            print(f"❌ Modelul nu a fost găsit la: {model_path}")
+            print("   Asigură-te că ai preluat modelul de la Maria cu:")
+            print("   git checkout origin/feature/model-training -- models/")
+            return None
+    except Exception as e:
+        print(f"❌ Eroare la încărcarea modelului: {e}")
+        return None
+
+# Încarcă modelul la pornirea API-ului
+model_ml = incarca_modelul()
+
+# ==================== ÎNCĂRCARE DATE ====================
+
 def incarca_raspunsuri():
+    """Încarcă răspunsurile predefinite"""
     try:
         with open('src/api/data/scheme_raspuns.json', 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -22,8 +56,8 @@ def incarca_raspunsuri():
         print("Fișierul scheme_raspuns.json nu a fost găsit!")
         return {"raspunsuri": []}
 
-# Încarcă întrebările și răspunsurile
 def incarca_intrebari():
+    """Încarcă întrebările și răspunsurile"""
     try:
         with open('data/raw/intrebari_culinare.json', 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -35,25 +69,118 @@ def incarca_intrebari():
 raspunsuri_predefinite = incarca_raspunsuri()
 intrebari_culinare = incarca_intrebari()
 
+# Dicționar de răspunsuri pentru fiecare intenție
+RASPUNSURI_INTENTII = {
+    'reteta': "Iată rețeta pe care o cauți! 🍳",
+    'timp': "Timpul de preparare este... ⏱️",
+    'ingrediente': "Iată ingredientele necesare! 📝",
+    'inlocuitori': "Poți înlocui cu... 🔄",
+    'dificultate': "Nivelul de dificultate este... 📊",
+    'salut': "Salut! Cu ce te pot ajuta în bucătărie? 👨‍🍳",
+    'multumesc': "Cu plăcere! Poftă bună! 😊",
+    'la_revedere': "La revedere! Pe curând! 👋",
+    'general': "Te pot ajuta cu rețete, timpi de preparare sau ingrediente!"
+}
+
+# ==================== FUNCȚII DE AJUTOR ====================
+
+def gaseste_raspuns_intentie(intentie, mesaj):
+    """Găsește răspunsul potrivit pentru intenția detectată"""
+    
+    # Caută în întrebările predefinite (dacă există potrivire exactă)
+    for item in intrebari_culinare:
+        if item.get('intrebare', '').lower() in mesaj.lower():
+            return item.get('raspuns', RASPUNSURI_INTENTII.get(intentie, "Îmi pare rău, nu am un răspuns."))
+    
+    # Caută în răspunsurile predefinite după cuvinte cheie
+    for raspuns in raspunsuri_predefinite.get('raspunsuri', []):
+        for keyword in raspuns.get('keywords', []):
+            if keyword in mesaj.lower():
+                return raspuns['raspuns']
+    
+    # Răspuns bazat pe intenție
+    return RASPUNSURI_INTENTII.get(intentie, "Îmi pare rău, nu am înțeles întrebarea. Încearcă să mă întrebi despre rețete, ingrediente sau timpi de preparare!")
+
+def obtine_intentie_cu_model(mesaj):
+    """
+    Folosește modelul ML pentru a detecta intenția
+    Dacă modelul nu e disponibil, folosește reguli simple (fallback)
+    """
+    # Folosește modelul ML dacă e disponibil
+    if model_ml is not None:
+        try:
+            intentie = model_ml.predict([mesaj])[0]
+            print(f"   [ML] Intenție detectată: {intentie}")
+            return intentie
+        except Exception as e:
+            print(f"   [ML] Eroare: {e}, folosesc fallback")
+    
+    # FALLBACK: Reguli simple dacă modelul nu e disponibil
+    mesaj_lower = mesaj.lower()
+    
+    if any(word in mesaj_lower for word in ['reteta', 'cum se face', 'cum fac', 'prepar']):
+        return 'reteta'
+    elif any(word in mesaj_lower for word in ['timp', 'cat timp', 'cate minute', 'dureaza']):
+        return 'timp'
+    elif any(word in mesaj_lower for word in ['ingrediente', 'ce pun', 'ce am nevoie', 'lista']):
+        return 'ingrediente'
+    elif any(word in mesaj_lower for word in ['inlocuiesc', 'inlocuitor', 'alternative', 'in loc de']):
+        return 'inlocuitori'
+    elif any(word in mesaj_lower for word in ['greu', 'dificil', 'complicat', 'dificultate']):
+        return 'dificultate'
+    elif any(word in mesaj_lower for word in ['salut', 'buna', 'bună', 'hey', 'hello', 'hi']):
+        return 'salut'
+    elif any(word in mesaj_lower for word in ['multumesc', 'mersi', 'merci', 'thanks']):
+        return 'multumesc'
+    elif any(word in mesaj_lower for word in ['la revedere', 'pa', 'bye', 'ne vedem']):
+        return 'la_revedere'
+    else:
+        return 'general'
+
+def log_cerere(mesaj, intentie, raspuns):
+    """Salvează cererile în fișierul de log"""
+    try:
+        os.makedirs('src/api/logs', exist_ok=True)
+        with open('src/api/logs/requests.log', 'a', encoding='utf-8') as f:
+            f.write(f"{datetime.now().isoformat()} | Intenție: {intentie} | Mesaj: {mesaj}\n")
+    except:
+        pass  # Dacă nu se poate scrie, ignoră
+
 # ==================== RUTE API ====================
 
 @app.route('/health', methods=['GET'])
 def health():
-    """
-    Verifică dacă API-ul funcționează
-    """
+    """Verifică dacă API-ul funcționează"""
     return jsonify({
         "status": "ok",
         "timestamp": datetime.now().isoformat(),
-        "versiune": "1.0",
+        "versiune": "2.0",
+        "model_incarcat": model_ml is not None,
         "raspunsuri_incarcate": len(raspunsuri_predefinite.get('raspunsuri', [])),
         "intrebari_incarcate": len(intrebari_culinare)
+    })
+
+@app.route('/ping', methods=['GET'])
+def ping():
+    """Endpoint simplu pentru testare rapidă"""
+    return jsonify({"pong": "API-ul funcționează!", "model_ready": model_ml is not None})
+
+@app.route('/stats', methods=['GET'])
+def stats():
+    """Afișează statistici despre API și model"""
+    return jsonify({
+        "api_status": "active",
+        "model_incarcat": model_ml is not None,
+        "total_raspunsuri": len(raspunsuri_predefinite.get('raspunsuri', [])),
+        "total_intrebari": len(intrebari_culinare),
+        "categorii_raspunsuri": get_categorii_raspunsuri(),
+        "intentii_disponibile": list(RASPUNSURI_INTENTII.keys())
     })
 
 @app.route('/chat', methods=['POST'])
 def chat():
     """
-    Primește un mesaj și returnează un răspuns
+    Primește un mesaj și returnează un răspuns folosind modelul ML
     """
     try:
         # Primește datele de la utilizator
@@ -65,130 +192,81 @@ def chat():
                 "exemplu": {"mesaj": "Cum se face pizza?"}
             }), 400
         
-        mesaj = data['mesaj'].lower()
+        mesaj = data['mesaj']
+        mesaj_original = mesaj
         
-        # Loghează cererea
-        log_cerere(mesaj)
+        # 1. Detectează intenția folosind modelul ML
+        intentie = obtine_intentie_cu_model(mesaj)
         
-        # Caută răspunsul potrivit
-        raspuns, intentie = gaseste_raspuns(mesaj)
+        # 2. Găsește răspunsul potrivit
+        raspuns = gaseste_raspuns_intentie(intentie, mesaj)
         
-        # Returnează răspunsul
+        # 3. Loghează cererea
+        log_cerere(mesaj, intentie, raspuns)
+        
+        # 4. Returnează răspunsul
         return jsonify({
-            "mesaj_original": data['mesaj'],
+            "success": True,
+            "mesaj_original": mesaj_original,
             "raspuns": raspuns,
             "intentie_detectata": intentie,
+            "model_folosit": model_ml is not None,
             "timestamp": datetime.now().isoformat()
         })
         
     except Exception as e:
         return jsonify({
+            "success": False,
             "error": "A apărut o eroare",
             "details": str(e)
         }), 500
 
-@app.route('/stats', methods=['GET'])
-def stats():
+@app.route('/chat/test', methods=['POST'])
+def chat_test():
     """
-    Afișează statistici despre API
+    Endpoint special pentru testare - afișează și intenția detectată
     """
+    data = request.json
+    mesaj = data.get('mesaj', '')
+    
+    intentie = obtine_intentie_cu_model(mesaj)
+    raspuns = gaseste_raspuns_intentie(intentie, mesaj)
+    
     return jsonify({
-        "total_raspunsuri": len(raspunsuri_predefinite.get('raspunsuri', [])),
-        "total_intrebari": len(intrebari_culinare),
-        "categorii_raspunsuri": get_categorii_raspunsuri(),
-        "api_status": "active"
+        "mesaj": mesaj,
+        "intentie_detectata": intentie,
+        "raspuns": raspuns,
+        "model_folosit": model_ml is not None,
+        "timestamp": datetime.now().isoformat()
     })
 
-@app.route('/ping', methods=['GET'])
-def ping():
-    """
-    Endpoint simplu pentru testare rapidă
-    """
-    return jsonify({"pong": "API-ul funcționează!"})
-
-# ==================== FUNCȚII DE AJUTOR ====================
-
-def gaseste_raspuns(mesaj):
-    """
-    Găsește cel mai potrivit răspuns pentru mesajul primit
-    """
-    # 1. Caută în întrebările predefinite (intrebari_culinare.json)
-    for item in intrebari_culinare:
-        if item.get('intrebare', '').lower() in mesaj or mesaj in item.get('intrebare', '').lower():
-            return item.get('raspuns', 'Îmi pare rău, nu am un răspuns'), 'intrebare_predefinita'
-    
-    # 2. Caută în răspunsurile predefinite după cuvinte cheie
-    for raspuns in raspunsuri_predefinite.get('raspunsuri', []):
-        for keyword in raspuns.get('keywords', []):
-            if keyword in mesaj:
-                return raspuns['raspuns'], raspuns['categorie']
-    
-    # 3. Salut
-    if any(word in mesaj for word in ['salut', 'buna', 'bună', 'hey', 'hello', 'hi']):
-        return gaseste_raspuns_categorie('salut'), 'salut'
-    
-    # 4. Mulțumesc
-    if any(word in mesaj for word in ['multumesc', 'mersi', 'merci', 'thanks']):
-        return gaseste_raspuns_categorie('multumesc'), 'multumesc'
-    
-    # 5. Răspuns default
-    return "Îmi pare rău, nu am înțeles întrebarea. Încearcă să mă întrebi despre rețete, ingrediente sau timpi de preparare!", 'necunoscut'
-
-def gaseste_raspuns_categorie(categorie):
-    """
-    Găsește un răspuns aleatoriu dintr-o categorie
-    """
-    raspunsuri_categorie = [r for r in raspunsuri_predefinite.get('raspunsuri', []) 
-                           if r.get('categorie') == categorie]
-    
-    if raspunsuri_categorie:
-        return random.choice(raspunsuri_categorie)['raspuns']
-    
-    # Răspuns fallback
-    if categorie == 'salut':
-        return "Salut! Cu ce te pot ajuta în bucătărie?"
-    elif categorie == 'multumesc':
-        return "Cu plăcere! Poftă bună!"
-    else:
-        return "Te rog să reformulezi întrebarea."
-
 def get_categorii_raspunsuri():
-    """
-    Returnează numărul de răspunsuri pe categorii
-    """
+    """Returnează numărul de răspunsuri pe categorii"""
     categorii = {}
     for r in raspunsuri_predefinite.get('raspunsuri', []):
         cat = r.get('categorie', 'necunoscut')
         categorii[cat] = categorii.get(cat, 0) + 1
     return categorii
 
-def log_cerere(mesaj):
-    """
-    Salvează cererile în fișierul de log
-    """
-    try:
-        with open('src/api/logs/requests.log', 'a', encoding='utf-8') as f:
-            f.write(f"{datetime.now().isoformat()} - {mesaj}\n")
-    except:
-        pass  # Dacă nu se poate scrie, ignoră
-
 # ==================== PORNIRE SERVER ====================
 
 if __name__ == '__main__':
-    print("=" * 50)
+    print("=" * 60)
     print("🍳 API CHATBOT CULINAR - 'BUCĂTARUL VIRTUAL'")
-    print("=" * 50)
+    print("=" * 60)
+    print(f"🤖 Model ML: {'ÎNCĂRCAT ✅' if model_ml is not None else 'NEDISPONIBIL ⚠️'}")
     print(f"📊 Răspunsuri încărcate: {len(raspunsuri_predefinite.get('raspunsuri', []))}")
     print(f"📊 Întrebări încărcate: {len(intrebari_culinare)}")
-    print("=" * 50)
+    print("=" * 60)
     print("🚀 Serverul pornește la http://localhost:5000")
     print("📋 Endpoint-uri disponibile:")
-    print("   GET  /health  - verifică starea")
-    print("   GET  /ping    - test rapid")
-    print("   GET  /stats   - statistici")
-    print("   POST /chat    - trimite un mesaj")
-    print("=" * 50)
+    print("   GET  /health      - verifică starea")
+    print("   GET  /ping        - test rapid")
+    print("   GET  /stats       - statistici")
+    print("   POST /chat        - trimite un mesaj (folosește modelul ML)")
+    print("   POST /chat/test   - test cu afișare intenție")
+    print("=" * 60)
     print("ℹ️  Pentru a opri serverul: CTRL + C")
-    print("=" * 50)
+    print("=" * 60)
     
     app.run(debug=True, host='0.0.0.0', port=5000)
