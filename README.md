@@ -10,8 +10,6 @@
 ## Descriere
 Proiect pentru facultate - Un chatbot care răspunde la întrebări frecvente.
 
-
-
 ## 🔧 TEHNOLOGII FOLOSITE
 - **Python 3.9+**
 - **Git & GitHub** - controlul versiunilor
