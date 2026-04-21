@@ -122,7 +122,7 @@ def genereaza_statistici():
     
     # Statistici din date_antrenare.csv
     try:
-        with open( os.path.join(PROCESSED_DATA_PATH, 'date_antrenare.csv'), 'r', encoding='utf-8') as f:
+        with open( os.path.join(RAW_DATA_PATH, 'date_antrenare.csv'), 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 intent = row.get('intentie', 'necunoscut')
@@ -156,7 +156,7 @@ def main():
     # 2. Preprocesează datele de antrenare
     print("\n2. Preprocesare date antrenare...")
     preproceseaza_date_antrenare(
-        os.path.join(PROCESSED_DATA_PATH, 'date_antrenare.csv'),
+        os.path.join(RAW_DATA_PATH, 'date_antrenare.csv'),
         os.path.join(PROCESSED_DATA_PATH, 'date_antrenare_curatate.csv')
     )
     

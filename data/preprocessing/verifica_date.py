@@ -75,9 +75,9 @@ def main():
     print("\n📁 FIȘIERE PROCESATE (pentru model):")
     print("-" * 40)
     
-    total += verifica_csv(os.path.join(PROCESSED_DATA_PATH, 'date_antrenare.csv'), 'Date antrenare')
-    total += verifica_json(os.path.join(PROCESSED_DATA_PATH, 'intentii_antrenare.json'), 'Intenții antrenare')
-    total += verifica_json(os.path.join(PROCESSED_DATA_PATH, 'scheme_raspuns.json'), 'Scheme răspunsuri')
+    total += verifica_csv(os.path.join(RAW_DATA_PATH, 'date_antrenare.csv'), 'Date antrenare')
+    total += verifica_json(os.path.join(RAW_DATA_PATH, 'intentii_antrenare.json'), 'Intenții antrenare')
+    total += verifica_json(os.path.join(RAW_DATA_PATH, 'scheme_raspuns.json'), 'Scheme răspunsuri')
     
     # Rezumat
     print("\n" + "=" * 60)

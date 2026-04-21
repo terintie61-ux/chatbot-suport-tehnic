@@ -77,7 +77,7 @@ def main():
     
     # ========== 3. Citește datele de antrenare ==========
     try:
-        with open(os.path.join(PROCESSED_DATA_PATH, 'date_antrenare.csv'), 'r', encoding='utf-8') as f:
+        with open(os.path.join(RAW_DATA_PATH, 'date_antrenare.csv'), 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             rows = list(reader)
         
