@@ -16,7 +16,7 @@ app = Flask(__name__)
 # Încarcă răspunsurile predefinite
 def incarca_raspunsuri():
     try:
-        with open('src/api/data/scheme_raspuns.json', 'r', encoding='utf-8') as f:
+        with open('data/raw_data/scheme_raspuns.json', 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Fișierul scheme_raspuns.json nu a fost găsit!")
@@ -25,7 +25,7 @@ def incarca_raspunsuri():
 # Încarcă întrebările și răspunsurile
 def incarca_intrebari():
     try:
-        with open('data/raw/intrebari_culinare.json', 'r', encoding='utf-8') as f:
+        with open('data/raw_data/intrebari_culinare.json', 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Fișierul intrebari_culinare.json nu a fost găsit!")
@@ -50,10 +50,13 @@ def health():
         "intrebari_incarcate": len(intrebari_culinare)
     })
 
+
 @app.route('/chat', methods=['POST'])
 def chat():
     """
     Primește un mesaj și returnează un răspuns
+    """
+    
     """
     try:
         # Primește datele de la utilizator
@@ -86,6 +89,11 @@ def chat():
             "error": "A apărut o eroare",
             "details": str(e)
         }), 500
+    """
+
+    
+    
+
 
 @app.route('/stats', methods=['GET'])
 def stats():
@@ -98,6 +106,7 @@ def stats():
         "categorii_raspunsuri": get_categorii_raspunsuri(),
         "api_status": "active"
     })
+
 
 @app.route('/ping', methods=['GET'])
 def ping():
