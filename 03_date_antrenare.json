@@ -1,0 +1,22 @@
+{
+  "intrebari": [
+    {
+      "text": "Cum se face pizza?",
+      "intentie": "reteta",
+      "entitati": {"preparat": "pizza"},
+      "raspuns": "Pentru pizza ai nevoie de aluat, sos de rosii si mozzarella."
+    },
+    {
+      "text": "Ce ingrediente pentru clatite?",
+      "intentie": "ingrediente",
+      "entitati": {"preparat": "clatite"},
+      "raspuns": "Faina, lapte, oua, zahar si ulei."
+    },
+    {
+      "text": "Cat se coace cozonacul?",
+      "intentie": "timp",
+      "entitati": {"preparat": "cozonac"},
+      "raspuns": "Aproximativ 45-50 minute la 180°C."
+    }
+  ]
+}
