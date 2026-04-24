@@ -1,0 +1,1461 @@
+[
+    {
+        "recipe_title": "Creamy Bacon and Broccoli Salad",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "Broccoli florets, bacon pieces, shredded cheese, chopped onions, and sunflower seeds are tossed together in a creamy garlic sauce.",
+        "ingredients": [
+            "1 (270 g) tub PHILADELPHIA Savoury Garlic Cooking Creme",
+            "3 tablespoons white vinegar",
+            "8 cups small broccoli florets",
+            "½ cup Oscar Mayer Real Bacon Recipe Pieces",
+            "½ cup shredded Cracker Barrel Old Cheddar Cheese",
+            "½ cup chopped red onions",
+            "¼ cup sunflower seeds"
+        ],
+        "directions": [
+            "Mix first 2 ingredients in large bowl.",
+            "Add remaining ingredients; toss to coat.",
+            "Refrigerate 1 hour."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "tub philadelphia savoury garlic cooking creme white vinegar small broccoli florets ½ oscar mayer real bacon recipe pieces ½ shredded cracker barrel old cheddar cheese ½ chopped red onions ¼ sunflower seeds",
+        "directions_text": "mix first 2 ingredients in large bowl. add remaining ingredients; toss to coat. refrigerate 1 hour.",
+        "combined_text": "creamy bacon and broccoli salad broccoli salads broccoli salads 1 (270 g) tub philadelphia savoury garlic cooking creme 3 tablespoons white vinegar 8 cups small broccoli florets ½ cup oscar mayer real bacon recipe pieces ½ cup shredded cracker barrel old cheddar cheese ½ cup chopped red onions ¼ cup sunflower seeds mix first 2 ingredients in large bowl. add remaining ingredients; toss to coat. refrigerate 1 hour.",
+        "ingredients_raw": [
+            "1 (270 g) tub PHILADELPHIA Savoury Garlic Cooking Creme",
+            "3 tablespoons white vinegar",
+            "8 cups small broccoli florets",
+            "½ cup Oscar Mayer Real Bacon Recipe Pieces",
+            "½ cup shredded Cracker Barrel Old Cheddar Cheese",
+            "½ cup chopped red onions",
+            "¼ cup sunflower seeds"
+        ],
+        "directions_raw": [
+            "Mix first 2 ingredients in large bowl.",
+            "Add remaining ingredients; toss to coat.",
+            "Refrigerate 1 hour."
+        ],
+        "ingredients_canonical": [
+            "tub philadelphia savoury garlic cooking creme",
+            "white vinegar",
+            "small broccoli florets",
+            "½ oscar mayer real bacon recipe pieces",
+            "½ shredded cracker barrel old cheddar cheese",
+            "½ chopped red onions",
+            "¼ sunflower seeds"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "filipino",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Southern Broccoli and Cauliflower Salad",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "Creamy Southern-inspired broccoli and cauliflower salad with a few extra ingredients. Delicious. Fantastic for a potluck.",
+        "ingredients": [
+            "1 (12 ounce) package bacon",
+            "6 cups broccoli florets",
+            "6 cups cauliflower florets",
+            "2 cups slivered almonds",
+            "1 ½ cups golden raisins",
+            "1 cup grated sharp Cheddar cheese",
+            "1 medium red onion, finely chopped",
+            "2 stalks celery, finely chopped"
+        ],
+        "directions": [
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels until cool enough to handle, then chop into small pieces.",
+            "Place bacon in a very large bowl with broccoli, cauliflower, almonds, raisins, Cheddar cheese, red onion, and celery.",
+            "Whisk together mayonnaise, sour cream, cream cheese, sugar, and lemon juice in a separate bowl until creamy. Pour over broccoli-cauliflower mixture; stir until well combined. Refrigerate until flavors have melded, at least 30 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "ounce package bacon broccoli florets cauliflower florets slivered almonds ½ golden raisins grated sharp cheddar cheese medium red onion finely chopped stalks celery finely chopped",
+        "directions_text": "place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. drain bacon slices on paper towels until cool enough to handle, then chop into small pieces. place bacon in a very large bowl with broccoli, cauliflower, almonds, raisins, cheddar cheese, red onion, and celery. whisk together mayonnaise, sour cream, cream cheese, sugar, and lemon juice in a separate bowl until creamy. pour over broccoli-cauliflower mixture; stir until well combined. refrigerate until flavors have melded, at least 30 minutes.",
+        "combined_text": "southern broccoli and cauliflower salad broccoli salads broccoli salads 1 (12 ounce) package bacon 6 cups broccoli florets 6 cups cauliflower florets 2 cups slivered almonds 1 ½ cups golden raisins 1 cup grated sharp cheddar cheese 1 medium red onion, finely chopped 2 stalks celery, finely chopped place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. drain bacon slices on paper towels until cool enough to handle, then chop into small pieces. place bacon in a very large bowl with broccoli, cauliflower, almonds, raisins, cheddar cheese, red onion, and celery. whisk together mayonnaise, sour cream, cream cheese, sugar, and lemon juice in a separate bowl until creamy. pour over broccoli-cauliflower mixture; stir until well combined. refrigerate until flavors have melded, at least 30 minutes.",
+        "ingredients_raw": [
+            "1 (12 ounce) package bacon",
+            "6 cups broccoli florets",
+            "6 cups cauliflower florets",
+            "2 cups slivered almonds",
+            "1 ½ cups golden raisins",
+            "1 cup grated sharp Cheddar cheese",
+            "1 medium red onion, finely chopped",
+            "2 stalks celery, finely chopped"
+        ],
+        "directions_raw": [
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels until cool enough to handle, then chop into small pieces.",
+            "Place bacon in a very large bowl with broccoli, cauliflower, almonds, raisins, Cheddar cheese, red onion, and celery.",
+            "Whisk together mayonnaise, sour cream, cream cheese, sugar, and lemon juice in a separate bowl until creamy. Pour over broccoli-cauliflower mixture; stir until well combined. Refrigerate until flavors have melded, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package bacon",
+            "broccoli florets",
+            "cauliflower florets",
+            "slivered almonds",
+            "½ golden raisins",
+            "grated sharp cheddar cheese",
+            "medium red onion finely chopped",
+            "stalks celery finely chopped"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "greek",
+            "middle eastern region",
+            "russian"
+        ],
+        "course_list": [
+            "side",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Ramen Noodle Broccoli Salad",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "This incredible dish is chock-full of fantastic flavor. Fresh veggies, garlic, soy sauce, sugar, peanut butter and a ginger flavor infused broth are tossed with noodles. Give them a try, they're absolutely delicious and sure to impress your guests!",
+        "ingredients": [
+            "3 (3 ounce) packages uncooked chicken flavored ramen noodle soup",
+            "⅓ cup creamy peanut butter",
+            "1 ½ cups Swanson® Thai Ginger Flavor Infused Broth",
+            "¼ cup soy sauce",
+            "1 tablespoon sugar",
+            "1 small red bell pepper, chopped",
+            "1 large onion, chopped",
+            "1 tablespoon minced garlic",
+            "1 pound broccoli florets"
+        ],
+        "directions": [
+            "Remove and discard the seasoning packets from the soup or reserve for another use. Fill a 6-quart saucepot with water and heat over medium-high heat to a boil. Add the noodles and broccoli and cook for 3 minutes or until the noodles and broccoli are tender. Drain the noodles and broccoli well in a colander.",
+            "Beat the peanut butter, broth, soy sauce and sugar in a large bowl. Add the noodles, broccoli, pepper, onion and garlic and toss to coat. Cover and refrigerate for 2 hours, stirring occasionally."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "ounce packages uncooked chicken flavored ramen noodle soup ⅓ creamy peanut butter ½ swanson thai ginger flavor infused broth ¼ soy sauce sugar small red bell pepper chopped large onion chopped minced garlic pound broccoli florets",
+        "directions_text": "remove and discard the seasoning packets from the soup or reserve for another use. fill a 6-quart saucepot with water and heat over medium-high heat to a boil. add the noodles and broccoli and cook for 3 minutes or until the noodles and broccoli are tender. drain the noodles and broccoli well in a colander. beat the peanut butter, broth, soy sauce and sugar in a large bowl. add the noodles, broccoli, pepper, onion and garlic and toss to coat. cover and refrigerate for 2 hours, stirring occasionally.",
+        "combined_text": "ramen noodle broccoli salad broccoli salads broccoli salads 3 (3 ounce) packages uncooked chicken flavored ramen noodle soup ⅓ cup creamy peanut butter 1 ½ cups swanson® thai ginger flavor infused broth ¼ cup soy sauce 1 tablespoon sugar 1 small red bell pepper, chopped 1 large onion, chopped 1 tablespoon minced garlic 1 pound broccoli florets remove and discard the seasoning packets from the soup or reserve for another use. fill a 6-quart saucepot with water and heat over medium-high heat to a boil. add the noodles and broccoli and cook for 3 minutes or until the noodles and broccoli are tender. drain the noodles and broccoli well in a colander. beat the peanut butter, broth, soy sauce and sugar in a large bowl. add the noodles, broccoli, pepper, onion and garlic and toss to coat. cover and refrigerate for 2 hours, stirring occasionally.",
+        "ingredients_raw": [
+            "3 (3 ounce) packages uncooked chicken flavored ramen noodle soup",
+            "⅓ cup creamy peanut butter",
+            "1 ½ cups Swanson® Thai Ginger Flavor Infused Broth",
+            "¼ cup soy sauce",
+            "1 tablespoon sugar",
+            "1 small red bell pepper, chopped",
+            "1 large onion, chopped",
+            "1 tablespoon minced garlic",
+            "1 pound broccoli florets"
+        ],
+        "directions_raw": [
+            "Remove and discard the seasoning packets from the soup or reserve for another use. Fill a 6-quart saucepot with water and heat over medium-high heat to a boil. Add the noodles and broccoli and cook for 3 minutes or until the noodles and broccoli are tender. Drain the noodles and broccoli well in a colander.",
+            "Beat the peanut butter, broth, soy sauce and sugar in a large bowl. Add the noodles, broccoli, pepper, onion and garlic and toss to coat. Cover and refrigerate for 2 hours, stirring occasionally."
+        ],
+        "ingredients_canonical": [
+            "ounce packages uncooked chicken flavored ramen noodle soup",
+            "⅓ creamy peanut butter",
+            "½ swanson thai ginger flavor infused broth",
+            "¼ soy sauce",
+            "sugar",
+            "small red bell pepper chopped",
+            "large onion chopped",
+            "minced garlic",
+            "pound broccoli florets"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "japanese",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "main",
+            "soup",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Crunchy Ramen Broccoli Slaw",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "This broccoli slaw recipe was passed around for years in my grandmother's beauty salon. She took it to every church supper. It was on the table every Thanksgiving and Christmas.",
+        "ingredients": [
+            "¼ cup butter",
+            "2 (3 ounce) packages Oriental-flavor ramen noodle soup, seasoning packet reserved",
+            "½ cup slivered almonds",
+            "¼ cup sesame seeds",
+            "1 (16 ounce) package broccoli coleslaw mix",
+            "½ cup chopped green onion"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Melt butter in a microwave-safe bowl in the microwave. Crush ramen noodles into small pieces; stir crushed noodles, almonds, and sesame seeds into melted butter. Spread mixture onto a baking sheet.",
+            "Bake in the preheated oven until golden brown and crunchy, 8 to 10 minutes; allow to cool completely.",
+            "Toss together coleslaw mix and green onion in a large serving bowl.",
+            "Make dressing: Whisk together oil, sugar, vinegar, soy sauce, and reserved seasoning packets in a separate bowl until well combined.",
+            "Stir cooled noodle mixture into dressing. Pour dressing over coleslaw-onion mixture; toss to coat."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 6,
+        "ingredient_text": "¼ butter ounce packages oriental-flavor ramen noodle soup seasoning packet reserved ½ slivered almonds ¼ sesame seeds ounce package broccoli coleslaw mix ½ chopped green onion",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). melt butter in a microwave-safe bowl in the microwave. crush ramen noodles into small pieces; stir crushed noodles, almonds, and sesame seeds into melted butter. spread mixture onto a baking sheet. bake in the preheated oven until golden brown and crunchy, 8 to 10 minutes; allow to cool completely. toss together coleslaw mix and green onion in a large serving bowl. make dressing: whisk together oil, sugar, vinegar, soy sauce, and reserved seasoning packets in a separate bowl until well combined. stir cooled noodle mixture into dressing. pour dressing over coleslaw-onion mixture; toss to coat.",
+        "combined_text": "crunchy ramen broccoli slaw broccoli salads broccoli salads ¼ cup butter 2 (3 ounce) packages oriental-flavor ramen noodle soup, seasoning packet reserved ½ cup slivered almonds ¼ cup sesame seeds 1 (16 ounce) package broccoli coleslaw mix ½ cup chopped green onion preheat the oven to 350 degrees f (175 degrees c). melt butter in a microwave-safe bowl in the microwave. crush ramen noodles into small pieces; stir crushed noodles, almonds, and sesame seeds into melted butter. spread mixture onto a baking sheet. bake in the preheated oven until golden brown and crunchy, 8 to 10 minutes; allow to cool completely. toss together coleslaw mix and green onion in a large serving bowl. make dressing: whisk together oil, sugar, vinegar, soy sauce, and reserved seasoning packets in a separate bowl until well combined. stir cooled noodle mixture into dressing. pour dressing over coleslaw-onion mixture; toss to coat.",
+        "ingredients_raw": [
+            "¼ cup butter",
+            "2 (3 ounce) packages Oriental-flavor ramen noodle soup, seasoning packet reserved",
+            "½ cup slivered almonds",
+            "¼ cup sesame seeds",
+            "1 (16 ounce) package broccoli coleslaw mix",
+            "½ cup chopped green onion"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Melt butter in a microwave-safe bowl in the microwave. Crush ramen noodles into small pieces; stir crushed noodles, almonds, and sesame seeds into melted butter. Spread mixture onto a baking sheet.",
+            "Bake in the preheated oven until golden brown and crunchy, 8 to 10 minutes; allow to cool completely.",
+            "Toss together coleslaw mix and green onion in a large serving bowl.",
+            "Make dressing: Whisk together oil, sugar, vinegar, soy sauce, and reserved seasoning packets in a separate bowl until well combined.",
+            "Stir cooled noodle mixture into dressing. Pour dressing over coleslaw-onion mixture; toss to coat."
+        ],
+        "ingredients_canonical": [
+            "¼ butter",
+            "ounce packages oriental-flavor ramen noodle soup seasoning packet reserved",
+            "½ slivered almonds",
+            "¼ sesame seeds",
+            "ounce package broccoli coleslaw mix",
+            "½ chopped green onion"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "soup"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 12,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cabbage and Broccoli Slaw with Vinegar Dressing",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "This cabbage and broccoli slaw with vinegar dressing recipe is a light version of coleslaw because it doesn't have a heavy mayonnaise dressing—but it's still delicious! It's best if refrigerated overnight.",
+        "ingredients": [
+            "1 (10 ounce) package shredded purple cabbage",
+            "1 (10 ounce) package broccoli coleslaw mix",
+            "1 (8 ounce) container grape tomatoes, halved",
+            "2 tablespoons rice wine vinegar",
+            "1 tablespoon olive oil",
+            "½ teaspoon white sugar",
+            "¼ teaspoon salt",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon ground black pepper",
+            "3 scallions, sliced",
+            "¼ cup dried cranberries",
+            "¼ cup sliced almonds"
+        ],
+        "directions": [
+            "Place cabbage, broccoli coleslaw mix, and tomatoes in a large bowl.",
+            "Whisk vinegar, oil, sugar, salt, garlic powder, and black pepper together in a small bowl until combined; pour over coleslaw and toss to coat. Stir in scallions, cranberries, and almonds. Cover with plastic wrap and refrigerate until flavors meld, 8 hours to overnight."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 2,
+        "ingredient_text": "ounce package shredded purple cabbage ounce package broccoli coleslaw mix ounce container grape tomatoes halved rice wine vinegar olive oil ½ white sugar ¼ salt ⅛ garlic powder ⅛ ground black pepper scallions sliced ¼ dried cranberries ¼ sliced almonds",
+        "directions_text": "place cabbage, broccoli coleslaw mix, and tomatoes in a large bowl. whisk vinegar, oil, sugar, salt, garlic powder, and black pepper together in a small bowl until combined; pour over coleslaw and toss to coat. stir in scallions, cranberries, and almonds. cover with plastic wrap and refrigerate until flavors meld, 8 hours to overnight.",
+        "combined_text": "cabbage and broccoli slaw with vinegar dressing broccoli salads broccoli salads 1 (10 ounce) package shredded purple cabbage 1 (10 ounce) package broccoli coleslaw mix 1 (8 ounce) container grape tomatoes, halved 2 tablespoons rice wine vinegar 1 tablespoon olive oil ½ teaspoon white sugar ¼ teaspoon salt ⅛ teaspoon garlic powder ⅛ teaspoon ground black pepper 3 scallions, sliced ¼ cup dried cranberries ¼ cup sliced almonds place cabbage, broccoli coleslaw mix, and tomatoes in a large bowl. whisk vinegar, oil, sugar, salt, garlic powder, and black pepper together in a small bowl until combined; pour over coleslaw and toss to coat. stir in scallions, cranberries, and almonds. cover with plastic wrap and refrigerate until flavors meld, 8 hours to overnight.",
+        "ingredients_raw": [
+            "1 (10 ounce) package shredded purple cabbage",
+            "1 (10 ounce) package broccoli coleslaw mix",
+            "1 (8 ounce) container grape tomatoes, halved",
+            "2 tablespoons rice wine vinegar",
+            "1 tablespoon olive oil",
+            "½ teaspoon white sugar",
+            "¼ teaspoon salt",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon ground black pepper",
+            "3 scallions, sliced",
+            "¼ cup dried cranberries",
+            "¼ cup sliced almonds"
+        ],
+        "directions_raw": [
+            "Place cabbage, broccoli coleslaw mix, and tomatoes in a large bowl.",
+            "Whisk vinegar, oil, sugar, salt, garlic powder, and black pepper together in a small bowl until combined; pour over coleslaw and toss to coat. Stir in scallions, cranberries, and almonds. Cover with plastic wrap and refrigerate until flavors meld, 8 hours to overnight."
+        ],
+        "ingredients_canonical": [
+            "ounce package shredded purple cabbage",
+            "ounce package broccoli coleslaw mix",
+            "ounce container grape tomatoes halved",
+            "rice wine vinegar",
+            "olive oil",
+            "½ white sugar",
+            "¼ salt",
+            "⅛ garlic powder",
+            "⅛ ground black pepper",
+            "scallions sliced",
+            "¼ dried cranberries",
+            "¼ sliced almonds"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "sauce"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Asian Broccoli Slaw",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "This Asian broccoli slaw is a delicious, tangy side dish. It tastes even better if you chill the slaw overnight.",
+        "ingredients": [
+            "2 (3 ounce) packages any flavor ramen noodles",
+            "½ cup sunflower seeds",
+            "1 (16 ounce) package broccoli coleslaw mix",
+            "½ cup chopped fresh pineapple",
+            "½ cup chopped fresh cilantro (Optional)",
+            "2 green onions (white and green parts), chopped, or more to taste"
+        ],
+        "directions": [
+            "Crush ramen noodles and set seasoning packets aside.",
+            "Heat a large skillet over medium-low heat. Cook and stir crushed ramen noodles and sunflower seeds in the hot skillet until toasted and fragrant, 5 to 10 minutes. Remove from heat and set aside.",
+            "Combine broccoli coleslaw mix, pineapple, cilantro, and green onions in a large serving bowl.",
+            "Make dressing: Whisk together sugar, vinegar, olive oil, sesame oil, black pepper, cayenne pepper, and ramen seasoning packets in a medium bowl until smooth. Pour over slaw mixture; toss to coat.",
+            "Mix in toasted ramen noodles and sunflower seeds just before serving."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "ounce packages any flavor ramen noodles ½ sunflower seeds ounce package broccoli coleslaw mix ½ chopped fresh pineapple ½ chopped fresh cilantro optional green onions white green parts chopped more taste",
+        "directions_text": "crush ramen noodles and set seasoning packets aside. heat a large skillet over medium-low heat. cook and stir crushed ramen noodles and sunflower seeds in the hot skillet until toasted and fragrant, 5 to 10 minutes. remove from heat and set aside. combine broccoli coleslaw mix, pineapple, cilantro, and green onions in a large serving bowl. make dressing: whisk together sugar, vinegar, olive oil, sesame oil, black pepper, cayenne pepper, and ramen seasoning packets in a medium bowl until smooth. pour over slaw mixture; toss to coat. mix in toasted ramen noodles and sunflower seeds just before serving.",
+        "combined_text": "asian broccoli slaw broccoli salads broccoli salads 2 (3 ounce) packages any flavor ramen noodles ½ cup sunflower seeds 1 (16 ounce) package broccoli coleslaw mix ½ cup chopped fresh pineapple ½ cup chopped fresh cilantro (optional) 2 green onions (white and green parts), chopped, or more to taste crush ramen noodles and set seasoning packets aside. heat a large skillet over medium-low heat. cook and stir crushed ramen noodles and sunflower seeds in the hot skillet until toasted and fragrant, 5 to 10 minutes. remove from heat and set aside. combine broccoli coleslaw mix, pineapple, cilantro, and green onions in a large serving bowl. make dressing: whisk together sugar, vinegar, olive oil, sesame oil, black pepper, cayenne pepper, and ramen seasoning packets in a medium bowl until smooth. pour over slaw mixture; toss to coat. mix in toasted ramen noodles and sunflower seeds just before serving.",
+        "ingredients_raw": [
+            "2 (3 ounce) packages any flavor ramen noodles",
+            "½ cup sunflower seeds",
+            "1 (16 ounce) package broccoli coleslaw mix",
+            "½ cup chopped fresh pineapple",
+            "½ cup chopped fresh cilantro (Optional)",
+            "2 green onions (white and green parts), chopped, or more to taste"
+        ],
+        "directions_raw": [
+            "Crush ramen noodles and set seasoning packets aside.",
+            "Heat a large skillet over medium-low heat. Cook and stir crushed ramen noodles and sunflower seeds in the hot skillet until toasted and fragrant, 5 to 10 minutes. Remove from heat and set aside.",
+            "Combine broccoli coleslaw mix, pineapple, cilantro, and green onions in a large serving bowl.",
+            "Make dressing: Whisk together sugar, vinegar, olive oil, sesame oil, black pepper, cayenne pepper, and ramen seasoning packets in a medium bowl until smooth. Pour over slaw mixture; toss to coat.",
+            "Mix in toasted ramen noodles and sunflower seeds just before serving."
+        ],
+        "ingredients_canonical": [
+            "ounce packages any flavor ramen noodles",
+            "½ sunflower seeds",
+            "ounce package broccoli coleslaw mix",
+            "½ chopped fresh pineapple",
+            "½ chopped fresh cilantro optional",
+            "green onions white green parts chopped more taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "chinese",
+            "european",
+            "filipino",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coleslaw With Grapes and Spinach",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "Different version of coleslaw I came up with because my husband HATES carrots. Everybody loved it! Great both crunchy or soft. Add more grapes to cut the onion if the onion is really strong. You'll be amazed!",
+        "ingredients": [
+            "1 cup mayonnaise",
+            "½ cup white sugar",
+            "3 tablespoons vinegar",
+            "salt and ground black pepper to taste",
+            "½ head cabbage, thinly sliced",
+            "2 heads broccoli, trimmed and cut into thin strips",
+            "1 red onion, thinly sliced",
+            "½ (10 ounce) bag fresh spinach leaves, thinly sliced",
+            "1 pound seedless red grapes, quartered"
+        ],
+        "directions": [
+            "Whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. Stir to coat with dressing."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 1,
+        "ingredient_text": "mayonnaise ½ white sugar vinegar salt ground black pepper taste ½ head cabbage thinly sliced heads broccoli trimmed cut into thin strips red onion thinly sliced ½ ounce bag fresh spinach leaves thinly sliced pound seedless red grapes quartered",
+        "directions_text": "whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. stir to coat with dressing.",
+        "combined_text": "coleslaw with grapes and spinach broccoli salads broccoli salads 1 cup mayonnaise ½ cup white sugar 3 tablespoons vinegar salt and ground black pepper to taste ½ head cabbage, thinly sliced 2 heads broccoli, trimmed and cut into thin strips 1 red onion, thinly sliced ½ (10 ounce) bag fresh spinach leaves, thinly sliced 1 pound seedless red grapes, quartered whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. stir to coat with dressing.",
+        "ingredients_raw": [
+            "1 cup mayonnaise",
+            "½ cup white sugar",
+            "3 tablespoons vinegar",
+            "salt and ground black pepper to taste",
+            "½ head cabbage, thinly sliced",
+            "2 heads broccoli, trimmed and cut into thin strips",
+            "1 red onion, thinly sliced",
+            "½ (10 ounce) bag fresh spinach leaves, thinly sliced",
+            "1 pound seedless red grapes, quartered"
+        ],
+        "directions_raw": [
+            "Whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. Stir to coat with dressing."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise",
+            "½ white sugar",
+            "vinegar",
+            "salt ground black pepper taste",
+            "½ head cabbage thinly sliced",
+            "heads broccoli trimmed cut into thin strips",
+            "red onion thinly sliced",
+            "½ ounce bag fresh spinach leaves thinly sliced",
+            "pound seedless red grapes quartered"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Donna Leigh's Creamy Broccoli Slaw",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "Donna Leigh's creamy broccoli slaw recipe is delicious! It's a combination of several recipes I've tried with my own tweaks. I've used different ramen noodle flavors, so feel free to experiment based on your tastes.",
+        "ingredients": [
+            "1 cup mayonnaise",
+            "1 (3 ounce) package Oriental-flavored ramen noodles, broken into small pieces, flavor packet reserved",
+            "¼ cup apple cider vinegar",
+            "2 tablespoons white sugar",
+            "⅛ teaspoon celery seeds",
+            "1 tablespoon olive oil",
+            "1 tablespoon sesame oil",
+            "¼ cup slivered almonds",
+            "1 (12 ounce) package broccoli coleslaw mix",
+            "½ cup chopped onion",
+            "¼ cup unsalted sunflower seeds"
+        ],
+        "directions": [
+            "Combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use.",
+            "Heat olive oil and sesame oil in a skillet over medium heat. Add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. Cool.",
+            "Combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "mayonnaise ounce package oriental-flavored ramen noodles broken into small pieces flavor packet reserved ¼ apple cider vinegar white sugar ⅛ celery seeds olive oil sesame oil ¼ slivered almonds ounce package broccoli coleslaw mix ½ chopped onion ¼ unsalted sunflower seeds",
+        "directions_text": "combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use. heat olive oil and sesame oil in a skillet over medium heat. add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. cool. combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat.",
+        "combined_text": "donna leigh's creamy broccoli slaw broccoli salads broccoli salads 1 cup mayonnaise 1 (3 ounce) package oriental-flavored ramen noodles, broken into small pieces, flavor packet reserved ¼ cup apple cider vinegar 2 tablespoons white sugar ⅛ teaspoon celery seeds 1 tablespoon olive oil 1 tablespoon sesame oil ¼ cup slivered almonds 1 (12 ounce) package broccoli coleslaw mix ½ cup chopped onion ¼ cup unsalted sunflower seeds combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use. heat olive oil and sesame oil in a skillet over medium heat. add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. cool. combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat.",
+        "ingredients_raw": [
+            "1 cup mayonnaise",
+            "1 (3 ounce) package Oriental-flavored ramen noodles, broken into small pieces, flavor packet reserved",
+            "¼ cup apple cider vinegar",
+            "2 tablespoons white sugar",
+            "⅛ teaspoon celery seeds",
+            "1 tablespoon olive oil",
+            "1 tablespoon sesame oil",
+            "¼ cup slivered almonds",
+            "1 (12 ounce) package broccoli coleslaw mix",
+            "½ cup chopped onion",
+            "¼ cup unsalted sunflower seeds"
+        ],
+        "directions_raw": [
+            "Combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use.",
+            "Heat olive oil and sesame oil in a skillet over medium heat. Add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. Cool.",
+            "Combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise",
+            "ounce package oriental-flavored ramen noodles broken into small pieces flavor packet reserved",
+            "¼ apple cider vinegar",
+            "white sugar",
+            "⅛ celery seeds",
+            "olive oil",
+            "sesame oil",
+            "¼ slivered almonds",
+            "ounce package broccoli coleslaw mix",
+            "½ chopped onion",
+            "¼ unsalted sunflower seeds"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Andrea's Broccoli Slaw",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "This is a nice twist on the traditional slaw and is a great accompaniment to any summer meal! This can easily be doubled to take to a potluck.",
+        "ingredients": [
+            "⅓ cup light mayonnaise",
+            "¼ cup crumbled blue cheese, or more to taste",
+            "2 tablespoons white sugar, or more to taste",
+            "1 tablespoon olive oil",
+            "1 tablespoon stone-ground mustard",
+            "2 ½ teaspoons red wine vinegar",
+            "½ teaspoon red pepper flakes",
+            "½ teaspoon onion powder",
+            "½ teaspoon celery salt",
+            "½ head cabbage, shredded",
+            "2 carrots, grated",
+            "1 cup chopped broccoli florets",
+            "½ cup raisins"
+        ],
+        "directions": [
+            "Mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. Add cabbage, carrots, broccoli, and raisins; stir to coat. Chill in refrigerator at least 2 hours before serving."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 1,
+        "ingredient_text": "⅓ light mayonnaise ¼ crumbled blue cheese more taste white sugar more taste olive oil stone-ground mustard ½ red wine vinegar ½ red pepper flakes ½ onion powder ½ celery salt ½ head cabbage shredded carrots grated chopped broccoli florets ½ raisins",
+        "directions_text": "mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. add cabbage, carrots, broccoli, and raisins; stir to coat. chill in refrigerator at least 2 hours before serving.",
+        "combined_text": "andrea's broccoli slaw broccoli salads broccoli salads ⅓ cup light mayonnaise ¼ cup crumbled blue cheese, or more to taste 2 tablespoons white sugar, or more to taste 1 tablespoon olive oil 1 tablespoon stone-ground mustard 2 ½ teaspoons red wine vinegar ½ teaspoon red pepper flakes ½ teaspoon onion powder ½ teaspoon celery salt ½ head cabbage, shredded 2 carrots, grated 1 cup chopped broccoli florets ½ cup raisins mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. add cabbage, carrots, broccoli, and raisins; stir to coat. chill in refrigerator at least 2 hours before serving.",
+        "ingredients_raw": [
+            "⅓ cup light mayonnaise",
+            "¼ cup crumbled blue cheese, or more to taste",
+            "2 tablespoons white sugar, or more to taste",
+            "1 tablespoon olive oil",
+            "1 tablespoon stone-ground mustard",
+            "2 ½ teaspoons red wine vinegar",
+            "½ teaspoon red pepper flakes",
+            "½ teaspoon onion powder",
+            "½ teaspoon celery salt",
+            "½ head cabbage, shredded",
+            "2 carrots, grated",
+            "1 cup chopped broccoli florets",
+            "½ cup raisins"
+        ],
+        "directions_raw": [
+            "Mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. Add cabbage, carrots, broccoli, and raisins; stir to coat. Chill in refrigerator at least 2 hours before serving."
+        ],
+        "ingredients_canonical": [
+            "⅓ light mayonnaise",
+            "¼ crumbled blue cheese more taste",
+            "white sugar more taste",
+            "olive oil",
+            "stone-ground mustard",
+            "½ red wine vinegar",
+            "½ red pepper flakes",
+            "½ onion powder",
+            "½ celery salt",
+            "½ head cabbage shredded",
+            "carrots grated",
+            "chopped broccoli florets",
+            "½ raisins"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 15,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Trees, Seeds, and Beans (Broccoli Slaw)",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Salads",
+        "description": "I came up with this broccoli slaw side dish when I was trying to clear the fridge out prior to leaving for a vacation. Grabbed what I saw, stirred up a bowl, and gave it a cheeky title based on some of the cute terms my daughter uses for food. I used lite mayo and Splenda, and I'm sure it would be great with full-fat mayo and sugar. Saved the other half-can of garbanzos for tossing with a salad. I also used half fresh, half frozen broccoli (as that's what I had on hand), and it was all tasty.",
+        "ingredients": [
+            "2 ½ cups broccoli florets, cut into bite-size pieces",
+            "4 cups ice water, or as needed",
+            "½ (15 ounce) can garbanzo beans, drained and rinsed",
+            "¼ cup matchstick-cut carrots",
+            "2 tablespoons raisins",
+            "2 tablespoons sunflower seeds",
+            "⅓ cup mayonnaise",
+            "2 tablespoons white sugar",
+            "1 tablespoon white vinegar",
+            "¼ teaspoon red pepper flakes",
+            "salt and ground black pepper to taste",
+            "2 tablespoons sunflower seeds, or to taste"
+        ],
+        "directions": [
+            "Bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. Transfer to a bowl of ice water; drain.",
+            "Combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. Whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. Stir dressing into broccoli mixture. Cover and refrigerate for at least 1 hour for flavors to blend. Garnish with about 2 tablespoons sunflower seeds."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 2,
+        "ingredient_text": "½ broccoli florets cut into bite-size pieces ice water as needed ½ ounce can garbanzo beans drained rinsed ¼ matchstick-cut carrots raisins sunflower seeds ⅓ mayonnaise white sugar white vinegar ¼ red pepper flakes salt ground black pepper taste sunflower seeds taste",
+        "directions_text": "bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. transfer to a bowl of ice water; drain. combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. stir dressing into broccoli mixture. cover and refrigerate for at least 1 hour for flavors to blend. garnish with about 2 tablespoons sunflower seeds.",
+        "combined_text": "trees, seeds, and beans (broccoli slaw) broccoli salads broccoli salads 2 ½ cups broccoli florets, cut into bite-size pieces 4 cups ice water, or as needed ½ (15 ounce) can garbanzo beans, drained and rinsed ¼ cup matchstick-cut carrots 2 tablespoons raisins 2 tablespoons sunflower seeds ⅓ cup mayonnaise 2 tablespoons white sugar 1 tablespoon white vinegar ¼ teaspoon red pepper flakes salt and ground black pepper to taste 2 tablespoons sunflower seeds, or to taste bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. transfer to a bowl of ice water; drain. combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. stir dressing into broccoli mixture. cover and refrigerate for at least 1 hour for flavors to blend. garnish with about 2 tablespoons sunflower seeds.",
+        "ingredients_raw": [
+            "2 ½ cups broccoli florets, cut into bite-size pieces",
+            "4 cups ice water, or as needed",
+            "½ (15 ounce) can garbanzo beans, drained and rinsed",
+            "¼ cup matchstick-cut carrots",
+            "2 tablespoons raisins",
+            "2 tablespoons sunflower seeds",
+            "⅓ cup mayonnaise",
+            "2 tablespoons white sugar",
+            "1 tablespoon white vinegar",
+            "¼ teaspoon red pepper flakes",
+            "salt and ground black pepper to taste",
+            "2 tablespoons sunflower seeds, or to taste"
+        ],
+        "directions_raw": [
+            "Bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. Transfer to a bowl of ice water; drain.",
+            "Combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. Whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. Stir dressing into broccoli mixture. Cover and refrigerate for at least 1 hour for flavors to blend. Garnish with about 2 tablespoons sunflower seeds."
+        ],
+        "ingredients_canonical": [
+            "½ broccoli florets cut into bite-size pieces",
+            "ice water as needed",
+            "½ ounce can garbanzo beans drained rinsed",
+            "¼ matchstick-cut carrots",
+            "raisins",
+            "sunflower seeds",
+            "⅓ mayonnaise",
+            "white sugar",
+            "white vinegar",
+            "¼ red pepper flakes",
+            "salt ground black pepper taste",
+            "sunflower seeds taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coleslaw With Grapes and Spinach",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Coleslaw",
+        "description": "Different version of coleslaw I came up with because my husband HATES carrots. Everybody loved it! Great both crunchy or soft. Add more grapes to cut the onion if the onion is really strong. You'll be amazed!",
+        "ingredients": [
+            "1 cup mayonnaise",
+            "½ cup white sugar",
+            "3 tablespoons vinegar",
+            "salt and ground black pepper to taste",
+            "½ head cabbage, thinly sliced",
+            "2 heads broccoli, trimmed and cut into thin strips",
+            "1 red onion, thinly sliced",
+            "½ (10 ounce) bag fresh spinach leaves, thinly sliced",
+            "1 pound seedless red grapes, quartered"
+        ],
+        "directions": [
+            "Whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. Stir to coat with dressing."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 1,
+        "ingredient_text": "mayonnaise ½ white sugar vinegar salt ground black pepper taste ½ head cabbage thinly sliced heads broccoli trimmed cut into thin strips red onion thinly sliced ½ ounce bag fresh spinach leaves thinly sliced pound seedless red grapes quartered",
+        "directions_text": "whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. stir to coat with dressing.",
+        "combined_text": "coleslaw with grapes and spinach broccoli salads broccoli coleslaw 1 cup mayonnaise ½ cup white sugar 3 tablespoons vinegar salt and ground black pepper to taste ½ head cabbage, thinly sliced 2 heads broccoli, trimmed and cut into thin strips 1 red onion, thinly sliced ½ (10 ounce) bag fresh spinach leaves, thinly sliced 1 pound seedless red grapes, quartered whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. stir to coat with dressing.",
+        "ingredients_raw": [
+            "1 cup mayonnaise",
+            "½ cup white sugar",
+            "3 tablespoons vinegar",
+            "salt and ground black pepper to taste",
+            "½ head cabbage, thinly sliced",
+            "2 heads broccoli, trimmed and cut into thin strips",
+            "1 red onion, thinly sliced",
+            "½ (10 ounce) bag fresh spinach leaves, thinly sliced",
+            "1 pound seedless red grapes, quartered"
+        ],
+        "directions_raw": [
+            "Whisk mayonnaise, sugar, vinegar, salt, and black pepper in a large salad bowl; fold in cabbage, broccoli, red onion, spinach, and red grapes. Stir to coat with dressing."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise",
+            "½ white sugar",
+            "vinegar",
+            "salt ground black pepper taste",
+            "½ head cabbage thinly sliced",
+            "heads broccoli trimmed cut into thin strips",
+            "red onion thinly sliced",
+            "½ ounce bag fresh spinach leaves thinly sliced",
+            "pound seedless red grapes quartered"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Donna Leigh's Creamy Broccoli Slaw",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Coleslaw",
+        "description": "Donna Leigh's creamy broccoli slaw recipe is delicious! It's a combination of several recipes I've tried with my own tweaks. I've used different ramen noodle flavors, so feel free to experiment based on your tastes.",
+        "ingredients": [
+            "1 cup mayonnaise",
+            "1 (3 ounce) package Oriental-flavored ramen noodles, broken into small pieces, flavor packet reserved",
+            "¼ cup apple cider vinegar",
+            "2 tablespoons white sugar",
+            "⅛ teaspoon celery seeds",
+            "1 tablespoon olive oil",
+            "1 tablespoon sesame oil",
+            "¼ cup slivered almonds",
+            "1 (12 ounce) package broccoli coleslaw mix",
+            "½ cup chopped onion",
+            "¼ cup unsalted sunflower seeds"
+        ],
+        "directions": [
+            "Combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use.",
+            "Heat olive oil and sesame oil in a skillet over medium heat. Add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. Cool.",
+            "Combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "mayonnaise ounce package oriental-flavored ramen noodles broken into small pieces flavor packet reserved ¼ apple cider vinegar white sugar ⅛ celery seeds olive oil sesame oil ¼ slivered almonds ounce package broccoli coleslaw mix ½ chopped onion ¼ unsalted sunflower seeds",
+        "directions_text": "combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use. heat olive oil and sesame oil in a skillet over medium heat. add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. cool. combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat.",
+        "combined_text": "donna leigh's creamy broccoli slaw broccoli salads broccoli coleslaw 1 cup mayonnaise 1 (3 ounce) package oriental-flavored ramen noodles, broken into small pieces, flavor packet reserved ¼ cup apple cider vinegar 2 tablespoons white sugar ⅛ teaspoon celery seeds 1 tablespoon olive oil 1 tablespoon sesame oil ¼ cup slivered almonds 1 (12 ounce) package broccoli coleslaw mix ½ cup chopped onion ¼ cup unsalted sunflower seeds combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use. heat olive oil and sesame oil in a skillet over medium heat. add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. cool. combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat.",
+        "ingredients_raw": [
+            "1 cup mayonnaise",
+            "1 (3 ounce) package Oriental-flavored ramen noodles, broken into small pieces, flavor packet reserved",
+            "¼ cup apple cider vinegar",
+            "2 tablespoons white sugar",
+            "⅛ teaspoon celery seeds",
+            "1 tablespoon olive oil",
+            "1 tablespoon sesame oil",
+            "¼ cup slivered almonds",
+            "1 (12 ounce) package broccoli coleslaw mix",
+            "½ cup chopped onion",
+            "¼ cup unsalted sunflower seeds"
+        ],
+        "directions_raw": [
+            "Combine mayonnaise, seasoning packet, vinegar, sugar, and celery seeds in a bowl; chill dressing in the refrigerator until ready to use.",
+            "Heat olive oil and sesame oil in a skillet over medium heat. Add ramen noodles and almonds; cook and stir until toasted, stirring frequently, 3 to 5 minutes. Cool.",
+            "Combine ramen noodle mixture, broccoli coleslaw mix, onion, sunflower seeds, and dressing in a bowl; stir to coat."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise",
+            "ounce package oriental-flavored ramen noodles broken into small pieces flavor packet reserved",
+            "¼ apple cider vinegar",
+            "white sugar",
+            "⅛ celery seeds",
+            "olive oil",
+            "sesame oil",
+            "¼ slivered almonds",
+            "ounce package broccoli coleslaw mix",
+            "½ chopped onion",
+            "¼ unsalted sunflower seeds"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Andrea's Broccoli Slaw",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Coleslaw",
+        "description": "This is a nice twist on the traditional slaw and is a great accompaniment to any summer meal! This can easily be doubled to take to a potluck.",
+        "ingredients": [
+            "⅓ cup light mayonnaise",
+            "¼ cup crumbled blue cheese, or more to taste",
+            "2 tablespoons white sugar, or more to taste",
+            "1 tablespoon olive oil",
+            "1 tablespoon stone-ground mustard",
+            "2 ½ teaspoons red wine vinegar",
+            "½ teaspoon red pepper flakes",
+            "½ teaspoon onion powder",
+            "½ teaspoon celery salt",
+            "½ head cabbage, shredded",
+            "2 carrots, grated",
+            "1 cup chopped broccoli florets",
+            "½ cup raisins"
+        ],
+        "directions": [
+            "Mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. Add cabbage, carrots, broccoli, and raisins; stir to coat. Chill in refrigerator at least 2 hours before serving."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 1,
+        "ingredient_text": "⅓ light mayonnaise ¼ crumbled blue cheese more taste white sugar more taste olive oil stone-ground mustard ½ red wine vinegar ½ red pepper flakes ½ onion powder ½ celery salt ½ head cabbage shredded carrots grated chopped broccoli florets ½ raisins",
+        "directions_text": "mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. add cabbage, carrots, broccoli, and raisins; stir to coat. chill in refrigerator at least 2 hours before serving.",
+        "combined_text": "andrea's broccoli slaw broccoli salads broccoli coleslaw ⅓ cup light mayonnaise ¼ cup crumbled blue cheese, or more to taste 2 tablespoons white sugar, or more to taste 1 tablespoon olive oil 1 tablespoon stone-ground mustard 2 ½ teaspoons red wine vinegar ½ teaspoon red pepper flakes ½ teaspoon onion powder ½ teaspoon celery salt ½ head cabbage, shredded 2 carrots, grated 1 cup chopped broccoli florets ½ cup raisins mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. add cabbage, carrots, broccoli, and raisins; stir to coat. chill in refrigerator at least 2 hours before serving.",
+        "ingredients_raw": [
+            "⅓ cup light mayonnaise",
+            "¼ cup crumbled blue cheese, or more to taste",
+            "2 tablespoons white sugar, or more to taste",
+            "1 tablespoon olive oil",
+            "1 tablespoon stone-ground mustard",
+            "2 ½ teaspoons red wine vinegar",
+            "½ teaspoon red pepper flakes",
+            "½ teaspoon onion powder",
+            "½ teaspoon celery salt",
+            "½ head cabbage, shredded",
+            "2 carrots, grated",
+            "1 cup chopped broccoli florets",
+            "½ cup raisins"
+        ],
+        "directions_raw": [
+            "Mix mayonnaise, blue cheese, sugar, olive oil, mustard, vinegar, red pepper flakes, onion powder, and celery salt together in a large bowl. Add cabbage, carrots, broccoli, and raisins; stir to coat. Chill in refrigerator at least 2 hours before serving."
+        ],
+        "ingredients_canonical": [
+            "⅓ light mayonnaise",
+            "¼ crumbled blue cheese more taste",
+            "white sugar more taste",
+            "olive oil",
+            "stone-ground mustard",
+            "½ red wine vinegar",
+            "½ red pepper flakes",
+            "½ onion powder",
+            "½ celery salt",
+            "½ head cabbage shredded",
+            "carrots grated",
+            "chopped broccoli florets",
+            "½ raisins"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 15,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Trees, Seeds, and Beans (Broccoli Slaw)",
+        "category": "Broccoli Salads",
+        "subcategory": "Broccoli Coleslaw",
+        "description": "I came up with this broccoli slaw side dish when I was trying to clear the fridge out prior to leaving for a vacation. Grabbed what I saw, stirred up a bowl, and gave it a cheeky title based on some of the cute terms my daughter uses for food. I used lite mayo and Splenda, and I'm sure it would be great with full-fat mayo and sugar. Saved the other half-can of garbanzos for tossing with a salad. I also used half fresh, half frozen broccoli (as that's what I had on hand), and it was all tasty.",
+        "ingredients": [
+            "2 ½ cups broccoli florets, cut into bite-size pieces",
+            "4 cups ice water, or as needed",
+            "½ (15 ounce) can garbanzo beans, drained and rinsed",
+            "¼ cup matchstick-cut carrots",
+            "2 tablespoons raisins",
+            "2 tablespoons sunflower seeds",
+            "⅓ cup mayonnaise",
+            "2 tablespoons white sugar",
+            "1 tablespoon white vinegar",
+            "¼ teaspoon red pepper flakes",
+            "salt and ground black pepper to taste",
+            "2 tablespoons sunflower seeds, or to taste"
+        ],
+        "directions": [
+            "Bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. Transfer to a bowl of ice water; drain.",
+            "Combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. Whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. Stir dressing into broccoli mixture. Cover and refrigerate for at least 1 hour for flavors to blend. Garnish with about 2 tablespoons sunflower seeds."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 2,
+        "ingredient_text": "½ broccoli florets cut into bite-size pieces ice water as needed ½ ounce can garbanzo beans drained rinsed ¼ matchstick-cut carrots raisins sunflower seeds ⅓ mayonnaise white sugar white vinegar ¼ red pepper flakes salt ground black pepper taste sunflower seeds taste",
+        "directions_text": "bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. transfer to a bowl of ice water; drain. combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. stir dressing into broccoli mixture. cover and refrigerate for at least 1 hour for flavors to blend. garnish with about 2 tablespoons sunflower seeds.",
+        "combined_text": "trees, seeds, and beans (broccoli slaw) broccoli salads broccoli coleslaw 2 ½ cups broccoli florets, cut into bite-size pieces 4 cups ice water, or as needed ½ (15 ounce) can garbanzo beans, drained and rinsed ¼ cup matchstick-cut carrots 2 tablespoons raisins 2 tablespoons sunflower seeds ⅓ cup mayonnaise 2 tablespoons white sugar 1 tablespoon white vinegar ¼ teaspoon red pepper flakes salt and ground black pepper to taste 2 tablespoons sunflower seeds, or to taste bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. transfer to a bowl of ice water; drain. combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. stir dressing into broccoli mixture. cover and refrigerate for at least 1 hour for flavors to blend. garnish with about 2 tablespoons sunflower seeds.",
+        "ingredients_raw": [
+            "2 ½ cups broccoli florets, cut into bite-size pieces",
+            "4 cups ice water, or as needed",
+            "½ (15 ounce) can garbanzo beans, drained and rinsed",
+            "¼ cup matchstick-cut carrots",
+            "2 tablespoons raisins",
+            "2 tablespoons sunflower seeds",
+            "⅓ cup mayonnaise",
+            "2 tablespoons white sugar",
+            "1 tablespoon white vinegar",
+            "¼ teaspoon red pepper flakes",
+            "salt and ground black pepper to taste",
+            "2 tablespoons sunflower seeds, or to taste"
+        ],
+        "directions_raw": [
+            "Bring a large pot of water to a boil; cook broccoli until bright green, about 1 minute. Transfer to a bowl of ice water; drain.",
+            "Combine broccoli, garbanzo beans, carrots, raisins, and 2 tablespoons sunflower seeds in a bowl. Whisk mayonnaise, sugar, vinegar, red pepper flakes, salt, and black pepper in a separate bowl. Stir dressing into broccoli mixture. Cover and refrigerate for at least 1 hour for flavors to blend. Garnish with about 2 tablespoons sunflower seeds."
+        ],
+        "ingredients_canonical": [
+            "½ broccoli florets cut into bite-size pieces",
+            "ice water as needed",
+            "½ ounce can garbanzo beans drained rinsed",
+            "¼ matchstick-cut carrots",
+            "raisins",
+            "sunflower seeds",
+            "⅓ mayonnaise",
+            "white sugar",
+            "white vinegar",
+            "¼ red pepper flakes",
+            "salt ground black pepper taste",
+            "sunflower seeds taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "moderate"
+    }
+]

@@ -1,0 +1,1534 @@
+[
+    {
+        "recipe_title": "Chicken Piccata with Capers",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This chicken piccata with caper sauce is a quick and easy recipe.",
+        "ingredients": [
+            "4 (6 ounce) skinless, boneless chicken breast halves",
+            "¼ cup all-purpose flour",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "½ cup white wine",
+            "¼ cup fresh lemon juice",
+            "2 tablespoons capers",
+            "2 teaspoons minced garlic",
+            "¼ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper",
+            "2 tablespoons chopped fresh flat-leaf parsley"
+        ],
+        "directions": [
+            "Place each chicken breast between 2 sheets of heavy-duty plastic wrap. Pound breasts to 1/2-inch thickness using a meat mallet or small heavy skillet.",
+            "Spread flour into a wide, shallow dish. Press chicken into flour to coat completely.",
+            "Melt butter with olive oil in a large skillet over medium-high heat; cook chicken in hot butter mixture until no longer pink in the center and the juices run clear, 3 to 5 minutes per side. Remove chicken to a serving platter and cover with a lid to keep warm.",
+            "Pour white wine, lemon juice, capers, and garlic into the skillet. Bring to a boil while scraping the browned bits of food from the bottom of the skillet with a wooden spoon; cook at a boil until slightly thickened, about 2 minutes. Season with salt and pepper.",
+            "Drizzle sauce over and around chicken; garnish with parsley."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 5,
+        "ingredient_text": "ounce skinless boneless chicken breast halves ¼ all-purpose flour butter olive oil ½ white wine ¼ fresh lemon juice capers minced garlic ¼ salt ¼ freshly ground black pepper chopped fresh flat-leaf parsley",
+        "directions_text": "place each chicken breast between 2 sheets of heavy-duty plastic wrap. pound breasts to 1/2-inch thickness using a meat mallet or small heavy skillet. spread flour into a wide, shallow dish. press chicken into flour to coat completely. melt butter with olive oil in a large skillet over medium-high heat; cook chicken in hot butter mixture until no longer pink in the center and the juices run clear, 3 to 5 minutes per side. remove chicken to a serving platter and cover with a lid to keep warm. pour white wine, lemon juice, capers, and garlic into the skillet. bring to a boil while scraping the browned bits of food from the bottom of the skillet with a wooden spoon; cook at a boil until slightly thickened, about 2 minutes. season with salt and pepper. drizzle sauce over and around chicken; garnish with parsley.",
+        "combined_text": "chicken piccata with capers chicken piccata chicken piccata 4 (6 ounce) skinless, boneless chicken breast halves ¼ cup all-purpose flour 1 tablespoon butter 1 tablespoon olive oil ½ cup white wine ¼ cup fresh lemon juice 2 tablespoons capers 2 teaspoons minced garlic ¼ teaspoon salt ¼ teaspoon freshly ground black pepper 2 tablespoons chopped fresh flat-leaf parsley place each chicken breast between 2 sheets of heavy-duty plastic wrap. pound breasts to 1/2-inch thickness using a meat mallet or small heavy skillet. spread flour into a wide, shallow dish. press chicken into flour to coat completely. melt butter with olive oil in a large skillet over medium-high heat; cook chicken in hot butter mixture until no longer pink in the center and the juices run clear, 3 to 5 minutes per side. remove chicken to a serving platter and cover with a lid to keep warm. pour white wine, lemon juice, capers, and garlic into the skillet. bring to a boil while scraping the browned bits of food from the bottom of the skillet with a wooden spoon; cook at a boil until slightly thickened, about 2 minutes. season with salt and pepper. drizzle sauce over and around chicken; garnish with parsley.",
+        "ingredients_raw": [
+            "4 (6 ounce) skinless, boneless chicken breast halves",
+            "¼ cup all-purpose flour",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "½ cup white wine",
+            "¼ cup fresh lemon juice",
+            "2 tablespoons capers",
+            "2 teaspoons minced garlic",
+            "¼ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper",
+            "2 tablespoons chopped fresh flat-leaf parsley"
+        ],
+        "directions_raw": [
+            "Place each chicken breast between 2 sheets of heavy-duty plastic wrap. Pound breasts to 1/2-inch thickness using a meat mallet or small heavy skillet.",
+            "Spread flour into a wide, shallow dish. Press chicken into flour to coat completely.",
+            "Melt butter with olive oil in a large skillet over medium-high heat; cook chicken in hot butter mixture until no longer pink in the center and the juices run clear, 3 to 5 minutes per side. Remove chicken to a serving platter and cover with a lid to keep warm.",
+            "Pour white wine, lemon juice, capers, and garlic into the skillet. Bring to a boil while scraping the browned bits of food from the bottom of the skillet with a wooden spoon; cook at a boil until slightly thickened, about 2 minutes. Season with salt and pepper.",
+            "Drizzle sauce over and around chicken; garnish with parsley."
+        ],
+        "ingredients_canonical": [
+            "ounce skinless boneless chicken breast halves",
+            "¼ all-purpose flour",
+            "butter",
+            "olive oil",
+            "½ white wine",
+            "¼ fresh lemon juice",
+            "capers",
+            "minced garlic",
+            "¼ salt",
+            "¼ freshly ground black pepper",
+            "chopped fresh flat-leaf parsley"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mushroom Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This chicken piccata recipe is a favorite in our family. This dish reaches a new peak with the marvelous addition of mushrooms! Serve with rice and a green salad if desired.",
+        "ingredients": [
+            "1 egg",
+            "2 tablespoons milk",
+            "½ cup all-purpose flour",
+            "1 teaspoon salt",
+            "½ teaspoon paprika",
+            "6 skinless, boneless chicken breast halves",
+            "4 tablespoons butter",
+            "½ pound sliced fresh mushrooms",
+            "¼ cup chopped onion",
+            "1 cup chicken broth",
+            "½ cup white wine",
+            "2 tablespoons lemon juice",
+            "1 tablespoon cornstarch",
+            "1 tablespoon chopped fresh parsley, for garnish"
+        ],
+        "directions": [
+            "Mix egg and milk together in a shallow bowl. Mix flour, salt, and paprika together in a second shallow bowl. Dip chicken into egg mixture, then lift up so excess egg drips back into the bowl. Press into flour mixture to coat both sides.",
+            "Melt butter in a large skillet over medium-high heat. Add chicken and sauté until golden brown, 2 to 3 minutes per side. Add mushrooms and onion; sauté for 3 to 5 minutes.",
+            "Mix broth, wine, lemon juice, and cornstarch together in a medium bowl; pour over chicken and mushrooms. Reduce the heat to medium-low and simmer until chicken is cooked through and the juices run clear, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with parsley and serve."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 3,
+        "ingredient_text": "egg milk ½ all-purpose flour salt ½ paprika skinless boneless chicken breast halves butter ½ pound sliced fresh mushrooms ¼ chopped onion chicken broth ½ white wine lemon juice cornstarch chopped fresh parsley for garnish",
+        "directions_text": "mix egg and milk together in a shallow bowl. mix flour, salt, and paprika together in a second shallow bowl. dip chicken into egg mixture, then lift up so excess egg drips back into the bowl. press into flour mixture to coat both sides. melt butter in a large skillet over medium-high heat. add chicken and sauté until golden brown, 2 to 3 minutes per side. add mushrooms and onion; sauté for 3 to 5 minutes. mix broth, wine, lemon juice, and cornstarch together in a medium bowl; pour over chicken and mushrooms. reduce the heat to medium-low and simmer until chicken is cooked through and the juices run clear, about 25 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). sprinkle with parsley and serve.",
+        "combined_text": "mushroom chicken piccata chicken piccata chicken piccata 1 egg 2 tablespoons milk ½ cup all-purpose flour 1 teaspoon salt ½ teaspoon paprika 6 skinless, boneless chicken breast halves 4 tablespoons butter ½ pound sliced fresh mushrooms ¼ cup chopped onion 1 cup chicken broth ½ cup white wine 2 tablespoons lemon juice 1 tablespoon cornstarch 1 tablespoon chopped fresh parsley, for garnish mix egg and milk together in a shallow bowl. mix flour, salt, and paprika together in a second shallow bowl. dip chicken into egg mixture, then lift up so excess egg drips back into the bowl. press into flour mixture to coat both sides. melt butter in a large skillet over medium-high heat. add chicken and sauté until golden brown, 2 to 3 minutes per side. add mushrooms and onion; sauté for 3 to 5 minutes. mix broth, wine, lemon juice, and cornstarch together in a medium bowl; pour over chicken and mushrooms. reduce the heat to medium-low and simmer until chicken is cooked through and the juices run clear, about 25 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). sprinkle with parsley and serve.",
+        "ingredients_raw": [
+            "1 egg",
+            "2 tablespoons milk",
+            "½ cup all-purpose flour",
+            "1 teaspoon salt",
+            "½ teaspoon paprika",
+            "6 skinless, boneless chicken breast halves",
+            "4 tablespoons butter",
+            "½ pound sliced fresh mushrooms",
+            "¼ cup chopped onion",
+            "1 cup chicken broth",
+            "½ cup white wine",
+            "2 tablespoons lemon juice",
+            "1 tablespoon cornstarch",
+            "1 tablespoon chopped fresh parsley, for garnish"
+        ],
+        "directions_raw": [
+            "Mix egg and milk together in a shallow bowl. Mix flour, salt, and paprika together in a second shallow bowl. Dip chicken into egg mixture, then lift up so excess egg drips back into the bowl. Press into flour mixture to coat both sides.",
+            "Melt butter in a large skillet over medium-high heat. Add chicken and sauté until golden brown, 2 to 3 minutes per side. Add mushrooms and onion; sauté for 3 to 5 minutes.",
+            "Mix broth, wine, lemon juice, and cornstarch together in a medium bowl; pour over chicken and mushrooms. Reduce the heat to medium-low and simmer until chicken is cooked through and the juices run clear, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with parsley and serve."
+        ],
+        "ingredients_canonical": [
+            "egg",
+            "milk",
+            "½ all-purpose flour",
+            "salt",
+            "½ paprika",
+            "skinless boneless chicken breast halves",
+            "butter",
+            "½ pound sliced fresh mushrooms",
+            "¼ chopped onion",
+            "chicken broth",
+            "½ white wine",
+            "lemon juice",
+            "cornstarch",
+            "chopped fresh parsley for garnish"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 27,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Piccata with Artichoke Hearts",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "After eating chicken piccata in many restaurants and finding many that were 'greasy,' I came up with this recipe through much trial and error. It has wonderful flavor and is even better the next day! I like to serve it over angel hair pasta or linguine.",
+        "ingredients": [
+            "¾ cup all-purpose flour",
+            "⅛ teaspoon garlic powder",
+            "¼ teaspoon salt",
+            "⅛ teaspoon black pepper",
+            "½ teaspoon Italian seasoning",
+            "4 skinless, boneless chicken breast halves, pounded 1/2 inch thick and cut into thirds",
+            "2 tablespoons olive oil",
+            "1 clove garlic, minced",
+            "1 onion, minced",
+            "½ cup white wine",
+            "1 (14.5 ounce) can chicken broth",
+            "2 tablespoons lemon juice",
+            "1 (13.75 ounce) can artichoke hearts, drained and chopped, liquid reserved",
+            "¼ cup capers, with liquid",
+            "2 tablespoons butter"
+        ],
+        "directions": [
+            "Mix together the flour, garlic powder, salt, pepper, and Italian seasoning on a plate. One by one, dredge the chicken pieces lightly in the prepared flour mixture.",
+            "Heat the olive oil in a large skillet over medium-high heat. Cook the chicken pieces for 2 minutes per side, or until nicely browned. Remove from the skillet and set aside.",
+            "Using the same skillet, cook and stir the garlic and onion until translucent, about 5 minutes. Pour the white wine into the skillet, turn the heat to high, and cook until the wine reduces by half, 4 to 5 minutes. Add the chicken broth, lemon juice, artichoke hearts, reserved artichoke liquid, and browned chicken to the skillet. Reduce the heat to medium and cook until the sauce thickens, about 20 minutes. Stir in the capers and butter."
+        ],
+        "num_ingredients": 15,
+        "num_steps": 3,
+        "ingredient_text": "¾ all-purpose flour ⅛ garlic powder ¼ salt ⅛ black pepper ½ italian seasoning skinless boneless chicken breast halves pounded inch thick cut into thirds olive oil clove garlic minced onion minced ½ white wine ounce can chicken broth lemon juice ounce can artichoke hearts drained chopped liquid reserved ¼ capers with liquid butter",
+        "directions_text": "mix together the flour, garlic powder, salt, pepper, and italian seasoning on a plate. one by one, dredge the chicken pieces lightly in the prepared flour mixture. heat the olive oil in a large skillet over medium-high heat. cook the chicken pieces for 2 minutes per side, or until nicely browned. remove from the skillet and set aside. using the same skillet, cook and stir the garlic and onion until translucent, about 5 minutes. pour the white wine into the skillet, turn the heat to high, and cook until the wine reduces by half, 4 to 5 minutes. add the chicken broth, lemon juice, artichoke hearts, reserved artichoke liquid, and browned chicken to the skillet. reduce the heat to medium and cook until the sauce thickens, about 20 minutes. stir in the capers and butter.",
+        "combined_text": "chicken piccata with artichoke hearts chicken piccata chicken piccata ¾ cup all-purpose flour ⅛ teaspoon garlic powder ¼ teaspoon salt ⅛ teaspoon black pepper ½ teaspoon italian seasoning 4 skinless, boneless chicken breast halves, pounded 1/2 inch thick and cut into thirds 2 tablespoons olive oil 1 clove garlic, minced 1 onion, minced ½ cup white wine 1 (14.5 ounce) can chicken broth 2 tablespoons lemon juice 1 (13.75 ounce) can artichoke hearts, drained and chopped, liquid reserved ¼ cup capers, with liquid 2 tablespoons butter mix together the flour, garlic powder, salt, pepper, and italian seasoning on a plate. one by one, dredge the chicken pieces lightly in the prepared flour mixture. heat the olive oil in a large skillet over medium-high heat. cook the chicken pieces for 2 minutes per side, or until nicely browned. remove from the skillet and set aside. using the same skillet, cook and stir the garlic and onion until translucent, about 5 minutes. pour the white wine into the skillet, turn the heat to high, and cook until the wine reduces by half, 4 to 5 minutes. add the chicken broth, lemon juice, artichoke hearts, reserved artichoke liquid, and browned chicken to the skillet. reduce the heat to medium and cook until the sauce thickens, about 20 minutes. stir in the capers and butter.",
+        "ingredients_raw": [
+            "¾ cup all-purpose flour",
+            "⅛ teaspoon garlic powder",
+            "¼ teaspoon salt",
+            "⅛ teaspoon black pepper",
+            "½ teaspoon Italian seasoning",
+            "4 skinless, boneless chicken breast halves, pounded 1/2 inch thick and cut into thirds",
+            "2 tablespoons olive oil",
+            "1 clove garlic, minced",
+            "1 onion, minced",
+            "½ cup white wine",
+            "1 (14.5 ounce) can chicken broth",
+            "2 tablespoons lemon juice",
+            "1 (13.75 ounce) can artichoke hearts, drained and chopped, liquid reserved",
+            "¼ cup capers, with liquid",
+            "2 tablespoons butter"
+        ],
+        "directions_raw": [
+            "Mix together the flour, garlic powder, salt, pepper, and Italian seasoning on a plate. One by one, dredge the chicken pieces lightly in the prepared flour mixture.",
+            "Heat the olive oil in a large skillet over medium-high heat. Cook the chicken pieces for 2 minutes per side, or until nicely browned. Remove from the skillet and set aside.",
+            "Using the same skillet, cook and stir the garlic and onion until translucent, about 5 minutes. Pour the white wine into the skillet, turn the heat to high, and cook until the wine reduces by half, 4 to 5 minutes. Add the chicken broth, lemon juice, artichoke hearts, reserved artichoke liquid, and browned chicken to the skillet. Reduce the heat to medium and cook until the sauce thickens, about 20 minutes. Stir in the capers and butter."
+        ],
+        "ingredients_canonical": [
+            "¾ all-purpose flour",
+            "⅛ garlic powder",
+            "¼ salt",
+            "⅛ black pepper",
+            "½ italian seasoning",
+            "skinless boneless chicken breast halves pounded inch thick cut into thirds",
+            "olive oil",
+            "clove garlic minced",
+            "onion minced",
+            "½ white wine",
+            "ounce can chicken broth",
+            "lemon juice",
+            "ounce can artichoke hearts drained chopped liquid reserved",
+            "¼ capers with liquid",
+            "butter"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 8,
+        "cook_speed": "medium",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 61,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Piccata II",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "Lemony flavored chicken with a heavenly coating. Prepare this dish and get ready to have your tummy 'touched by an angel'!",
+        "ingredients": [
+            "4 skinless, boneless chicken breasts",
+            "1 egg",
+            "3 tablespoons lemon juice",
+            "¼ cup all-purpose flour",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon paprika",
+            "¼ cup butter",
+            "2 teaspoons chicken bouillon powder",
+            "½ cup boiling water"
+        ],
+        "directions": [
+            "In a small bowl, beat the egg together with 1 tablespoon of the lemon juice. Set aside.",
+            "In a shallow bowl or dish mix together the flour, garlic powder and paprika. Dip the chicken in the egg/lemon mixture, then in the seasoned flour.",
+            "In a large skillet, melt butter/margarine and brown the coated chicken pieces.",
+            "Dissolve the bouillon in the boiling water, then add the remaining 2 tablespoons of lemon juice. Pour liquid into skillet. Cover and let simmer for 20 minutes, turning chicken pieces after 10 minutes, until chicken is tender. Garnish as desired and serve."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "skinless boneless chicken breasts egg lemon juice ¼ all-purpose flour ⅛ garlic powder ⅛ paprika ¼ butter chicken bouillon powder ½ boiling water",
+        "directions_text": "in a small bowl, beat the egg together with 1 tablespoon of the lemon juice. set aside. in a shallow bowl or dish mix together the flour, garlic powder and paprika. dip the chicken in the egg/lemon mixture, then in the seasoned flour. in a large skillet, melt butter/margarine and brown the coated chicken pieces. dissolve the bouillon in the boiling water, then add the remaining 2 tablespoons of lemon juice. pour liquid into skillet. cover and let simmer for 20 minutes, turning chicken pieces after 10 minutes, until chicken is tender. garnish as desired and serve.",
+        "combined_text": "chicken piccata ii chicken piccata chicken piccata 4 skinless, boneless chicken breasts 1 egg 3 tablespoons lemon juice ¼ cup all-purpose flour ⅛ teaspoon garlic powder ⅛ teaspoon paprika ¼ cup butter 2 teaspoons chicken bouillon powder ½ cup boiling water in a small bowl, beat the egg together with 1 tablespoon of the lemon juice. set aside. in a shallow bowl or dish mix together the flour, garlic powder and paprika. dip the chicken in the egg/lemon mixture, then in the seasoned flour. in a large skillet, melt butter/margarine and brown the coated chicken pieces. dissolve the bouillon in the boiling water, then add the remaining 2 tablespoons of lemon juice. pour liquid into skillet. cover and let simmer for 20 minutes, turning chicken pieces after 10 minutes, until chicken is tender. garnish as desired and serve.",
+        "ingredients_raw": [
+            "4 skinless, boneless chicken breasts",
+            "1 egg",
+            "3 tablespoons lemon juice",
+            "¼ cup all-purpose flour",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon paprika",
+            "¼ cup butter",
+            "2 teaspoons chicken bouillon powder",
+            "½ cup boiling water"
+        ],
+        "directions_raw": [
+            "In a small bowl, beat the egg together with 1 tablespoon of the lemon juice. Set aside.",
+            "In a shallow bowl or dish mix together the flour, garlic powder and paprika. Dip the chicken in the egg/lemon mixture, then in the seasoned flour.",
+            "In a large skillet, melt butter/margarine and brown the coated chicken pieces.",
+            "Dissolve the bouillon in the boiling water, then add the remaining 2 tablespoons of lemon juice. Pour liquid into skillet. Cover and let simmer for 20 minutes, turning chicken pieces after 10 minutes, until chicken is tender. Garnish as desired and serve."
+        ],
+        "ingredients_canonical": [
+            "skinless boneless chicken breasts",
+            "egg",
+            "lemon juice",
+            "¼ all-purpose flour",
+            "⅛ garlic powder",
+            "⅛ paprika",
+            "¼ butter",
+            "chicken bouillon powder",
+            "½ boiling water"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "My Best Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This is the most requested dish by my teens' friends! Great even as leftovers, if there ever are any! Best served with a risotto or fettucine alfredo with a side of broccoli. Not for the diet conscious!",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "4 skinless, boneless chicken breast halves - trimmed and cut in half crosswise",
+            "½ cup butter",
+            "¾ cup dry white wine",
+            "1 lemon, juiced",
+            "1 teaspoon capers",
+            "1 lemon, sliced",
+            "2 teaspoons chopped fresh parsley"
+        ],
+        "directions": [
+            "Mix flour, salt, and black pepper in a bowl. Dredge the chicken breast pieces in the seasoned flour to coat; tap off excess flour.",
+            "Melt butter in a skillet over medium heat until hot but not starting to brown. Pan-fry coated chicken breast pieces in the hot butter until golden brown, the juices run clear, and the chicken is no longer pink inside, about 10 minutes. Turn the chicken pieces often. Remove chicken from skillet and keep warm.",
+            "Pour white wine into the skillet and scrape pan to dissolve any browned bits of food on the bottom. Mix in lemon juice, reduce heat to low, and simmer until sauce is slightly thickened, about 10 minutes. Stir often. Stir capers into sauce and place chicken back into skillet, turning to coat with sauce.",
+            "To serve, transfer chicken to a serving platter, top with sauce, and garnish with lemon slices and fresh parsley."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "all-purpose flour salt ½ ground black pepper skinless boneless chicken breast halves - trimmed cut in half crosswise ½ butter ¾ dry white wine lemon juiced capers lemon sliced chopped fresh parsley",
+        "directions_text": "mix flour, salt, and black pepper in a bowl. dredge the chicken breast pieces in the seasoned flour to coat; tap off excess flour. melt butter in a skillet over medium heat until hot but not starting to brown. pan-fry coated chicken breast pieces in the hot butter until golden brown, the juices run clear, and the chicken is no longer pink inside, about 10 minutes. turn the chicken pieces often. remove chicken from skillet and keep warm. pour white wine into the skillet and scrape pan to dissolve any browned bits of food on the bottom. mix in lemon juice, reduce heat to low, and simmer until sauce is slightly thickened, about 10 minutes. stir often. stir capers into sauce and place chicken back into skillet, turning to coat with sauce. to serve, transfer chicken to a serving platter, top with sauce, and garnish with lemon slices and fresh parsley.",
+        "combined_text": "my best chicken piccata chicken piccata chicken piccata 1 cup all-purpose flour 1 teaspoon salt ½ teaspoon ground black pepper 4 skinless, boneless chicken breast halves - trimmed and cut in half crosswise ½ cup butter ¾ cup dry white wine 1 lemon, juiced 1 teaspoon capers 1 lemon, sliced 2 teaspoons chopped fresh parsley mix flour, salt, and black pepper in a bowl. dredge the chicken breast pieces in the seasoned flour to coat; tap off excess flour. melt butter in a skillet over medium heat until hot but not starting to brown. pan-fry coated chicken breast pieces in the hot butter until golden brown, the juices run clear, and the chicken is no longer pink inside, about 10 minutes. turn the chicken pieces often. remove chicken from skillet and keep warm. pour white wine into the skillet and scrape pan to dissolve any browned bits of food on the bottom. mix in lemon juice, reduce heat to low, and simmer until sauce is slightly thickened, about 10 minutes. stir often. stir capers into sauce and place chicken back into skillet, turning to coat with sauce. to serve, transfer chicken to a serving platter, top with sauce, and garnish with lemon slices and fresh parsley.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "4 skinless, boneless chicken breast halves - trimmed and cut in half crosswise",
+            "½ cup butter",
+            "¾ cup dry white wine",
+            "1 lemon, juiced",
+            "1 teaspoon capers",
+            "1 lemon, sliced",
+            "2 teaspoons chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "Mix flour, salt, and black pepper in a bowl. Dredge the chicken breast pieces in the seasoned flour to coat; tap off excess flour.",
+            "Melt butter in a skillet over medium heat until hot but not starting to brown. Pan-fry coated chicken breast pieces in the hot butter until golden brown, the juices run clear, and the chicken is no longer pink inside, about 10 minutes. Turn the chicken pieces often. Remove chicken from skillet and keep warm.",
+            "Pour white wine into the skillet and scrape pan to dissolve any browned bits of food on the bottom. Mix in lemon juice, reduce heat to low, and simmer until sauce is slightly thickened, about 10 minutes. Stir often. Stir capers into sauce and place chicken back into skillet, turning to coat with sauce.",
+            "To serve, transfer chicken to a serving platter, top with sauce, and garnish with lemon slices and fresh parsley."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "salt",
+            "½ ground black pepper",
+            "skinless boneless chicken breast halves - trimmed cut in half crosswise",
+            "½ butter",
+            "¾ dry white wine",
+            "lemon juiced",
+            "capers",
+            "lemon sliced",
+            "chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 14,
+        "slow_hits": 2,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 66,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Oven-Baked Chicken Piccata Recipe",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This chicken piccata is baked in a cast-iron skillet. It is delicious served on top of angel hair pasta and garnished with lemon slices.",
+        "ingredients": [
+            "¼ cup butter",
+            "½ cup all-purpose flour",
+            "¼ cup grated Parmesan cheese",
+            "1 teaspoon Cantanzaro herbs or Italian seasoning",
+            "1 teaspoon garlic salt, divided",
+            "1 pound boneless, skinless chicken breasts, sliced horizontally",
+            "½ teaspoon black pepper",
+            "½ cup chicken bone broth",
+            "¼ cup lemon juice, or to taste",
+            "2 tablespoons capers",
+            "¼ cup dry white wine, such as Pinot Grigio",
+            "1 lemon, sliced (Optional)"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Add butter to a large cast iron skillet and place into the oven to allow butter to melt — careful not to burn the butter.",
+            "Combine flour, Parmesan cheese, herbs, and 1/2 teaspoon garlic salt in a shallow dish; mix to combine.",
+            "Season chicken with remaining 1/2 teaspoon garlic salt and black pepper. Dredge in the flour mixture to coat evenly.",
+            "Carefully remove the skillet from the oven using oven mitts and mix bone broth and lemon juice into the melted butter. Place the flour-seasoned chicken breasts in the skillet and sprinkle with capers. Spoon some of the melted butter mixture over the chicken.",
+            "Return skillet to the oven and bake until chicken is no longer pink in the center and the juices run clear, 25 to 30 minutes. If the skillet liquid evaporates too quickly, add additional bone broth and lemon juice.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Carefully pour wine into the bottom of the skillet. Broil chicken until lightly browned on top. Spoon the sauce over the chicken. Garnish with lemon slices."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 6,
+        "ingredient_text": "¼ butter ½ all-purpose flour ¼ grated parmesan cheese cantanzaro herbs italian seasoning garlic salt divided pound boneless skinless chicken breasts sliced horizontally ½ black pepper ½ chicken bone broth ¼ lemon juice taste capers ¼ dry white wine such as pinot grigio lemon sliced optional",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). add butter to a large cast iron skillet and place into the oven to allow butter to melt — careful not to burn the butter. combine flour, parmesan cheese, herbs, and 1/2 teaspoon garlic salt in a shallow dish; mix to combine. season chicken with remaining 1/2 teaspoon garlic salt and black pepper. dredge in the flour mixture to coat evenly. carefully remove the skillet from the oven using oven mitts and mix bone broth and lemon juice into the melted butter. place the flour-seasoned chicken breasts in the skillet and sprinkle with capers. spoon some of the melted butter mixture over the chicken. return skillet to the oven and bake until chicken is no longer pink in the center and the juices run clear, 25 to 30 minutes. if the skillet liquid evaporates too quickly, add additional bone broth and lemon juice. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. carefully pour wine into the bottom of the skillet. broil chicken until lightly browned on top. spoon the sauce over the chicken. garnish with lemon slices.",
+        "combined_text": "oven-baked chicken piccata recipe chicken piccata chicken piccata ¼ cup butter ½ cup all-purpose flour ¼ cup grated parmesan cheese 1 teaspoon cantanzaro herbs or italian seasoning 1 teaspoon garlic salt, divided 1 pound boneless, skinless chicken breasts, sliced horizontally ½ teaspoon black pepper ½ cup chicken bone broth ¼ cup lemon juice, or to taste 2 tablespoons capers ¼ cup dry white wine, such as pinot grigio 1 lemon, sliced (optional) preheat the oven to 400 degrees f (200 degrees c). add butter to a large cast iron skillet and place into the oven to allow butter to melt — careful not to burn the butter. combine flour, parmesan cheese, herbs, and 1/2 teaspoon garlic salt in a shallow dish; mix to combine. season chicken with remaining 1/2 teaspoon garlic salt and black pepper. dredge in the flour mixture to coat evenly. carefully remove the skillet from the oven using oven mitts and mix bone broth and lemon juice into the melted butter. place the flour-seasoned chicken breasts in the skillet and sprinkle with capers. spoon some of the melted butter mixture over the chicken. return skillet to the oven and bake until chicken is no longer pink in the center and the juices run clear, 25 to 30 minutes. if the skillet liquid evaporates too quickly, add additional bone broth and lemon juice. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. carefully pour wine into the bottom of the skillet. broil chicken until lightly browned on top. spoon the sauce over the chicken. garnish with lemon slices.",
+        "ingredients_raw": [
+            "¼ cup butter",
+            "½ cup all-purpose flour",
+            "¼ cup grated Parmesan cheese",
+            "1 teaspoon Cantanzaro herbs or Italian seasoning",
+            "1 teaspoon garlic salt, divided",
+            "1 pound boneless, skinless chicken breasts, sliced horizontally",
+            "½ teaspoon black pepper",
+            "½ cup chicken bone broth",
+            "¼ cup lemon juice, or to taste",
+            "2 tablespoons capers",
+            "¼ cup dry white wine, such as Pinot Grigio",
+            "1 lemon, sliced (Optional)"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Add butter to a large cast iron skillet and place into the oven to allow butter to melt — careful not to burn the butter.",
+            "Combine flour, Parmesan cheese, herbs, and 1/2 teaspoon garlic salt in a shallow dish; mix to combine.",
+            "Season chicken with remaining 1/2 teaspoon garlic salt and black pepper. Dredge in the flour mixture to coat evenly.",
+            "Carefully remove the skillet from the oven using oven mitts and mix bone broth and lemon juice into the melted butter. Place the flour-seasoned chicken breasts in the skillet and sprinkle with capers. Spoon some of the melted butter mixture over the chicken.",
+            "Return skillet to the oven and bake until chicken is no longer pink in the center and the juices run clear, 25 to 30 minutes. If the skillet liquid evaporates too quickly, add additional bone broth and lemon juice.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Carefully pour wine into the bottom of the skillet. Broil chicken until lightly browned on top. Spoon the sauce over the chicken. Garnish with lemon slices."
+        ],
+        "ingredients_canonical": [
+            "¼ butter",
+            "½ all-purpose flour",
+            "¼ grated parmesan cheese",
+            "cantanzaro herbs italian seasoning",
+            "garlic salt divided",
+            "pound boneless skinless chicken breasts sliced horizontally",
+            "½ black pepper",
+            "½ chicken bone broth",
+            "¼ lemon juice taste",
+            "capers",
+            "¼ dry white wine such as pinot grigio",
+            "lemon sliced optional"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 13,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 55,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This chicken piccata recipe is super easy to make. It's my son's favorite dish so I make it often. Serve this chicken recipe over white rice.",
+        "ingredients": [
+            "2 large skinless, boneless chicken breasts",
+            "1 cup all-purpose flour",
+            "½ stick butter",
+            "salt and ground black pepper to taste",
+            "½ cup white wine",
+            "3 medium lemons, juiced",
+            "2 tablespoons drained capers",
+            "2 tablespoons chopped fresh parsley"
+        ],
+        "directions": [
+            "Slice chicken breasts horizontally to yield 4 pieces. Place breasts between 2 sheets of plastic wrap and pound to 1/4-inch thin. Place flour on a plate and dredge each breast on both sides in flour.",
+            "Melt butter in a large skillet over medium heat. Put chicken into the skillet and season tops with salt and pepper. Turn when nicely browned, about 4 minutes, and season again. Cook second side until browned, about 4 minutes. Transfer breasts to a plate, reserving skillet drippings.",
+            "Add wine and lemon juice to the skillet, stirring to scrape up any browned bits. Simmer to reduce and thicken sauce, about 5 minutes more. Add capers and pour sauce over chicken breasts on the plate. Sprinkle with parsley."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "large skinless boneless chicken breasts all-purpose flour ½ stick butter salt ground black pepper taste ½ white wine medium lemons juiced drained capers chopped fresh parsley",
+        "directions_text": "slice chicken breasts horizontally to yield 4 pieces. place breasts between 2 sheets of plastic wrap and pound to 1/4-inch thin. place flour on a plate and dredge each breast on both sides in flour. melt butter in a large skillet over medium heat. put chicken into the skillet and season tops with salt and pepper. turn when nicely browned, about 4 minutes, and season again. cook second side until browned, about 4 minutes. transfer breasts to a plate, reserving skillet drippings. add wine and lemon juice to the skillet, stirring to scrape up any browned bits. simmer to reduce and thicken sauce, about 5 minutes more. add capers and pour sauce over chicken breasts on the plate. sprinkle with parsley.",
+        "combined_text": "easy chicken piccata chicken piccata chicken piccata 2 large skinless, boneless chicken breasts 1 cup all-purpose flour ½ stick butter salt and ground black pepper to taste ½ cup white wine 3 medium lemons, juiced 2 tablespoons drained capers 2 tablespoons chopped fresh parsley slice chicken breasts horizontally to yield 4 pieces. place breasts between 2 sheets of plastic wrap and pound to 1/4-inch thin. place flour on a plate and dredge each breast on both sides in flour. melt butter in a large skillet over medium heat. put chicken into the skillet and season tops with salt and pepper. turn when nicely browned, about 4 minutes, and season again. cook second side until browned, about 4 minutes. transfer breasts to a plate, reserving skillet drippings. add wine and lemon juice to the skillet, stirring to scrape up any browned bits. simmer to reduce and thicken sauce, about 5 minutes more. add capers and pour sauce over chicken breasts on the plate. sprinkle with parsley.",
+        "ingredients_raw": [
+            "2 large skinless, boneless chicken breasts",
+            "1 cup all-purpose flour",
+            "½ stick butter",
+            "salt and ground black pepper to taste",
+            "½ cup white wine",
+            "3 medium lemons, juiced",
+            "2 tablespoons drained capers",
+            "2 tablespoons chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "Slice chicken breasts horizontally to yield 4 pieces. Place breasts between 2 sheets of plastic wrap and pound to 1/4-inch thin. Place flour on a plate and dredge each breast on both sides in flour.",
+            "Melt butter in a large skillet over medium heat. Put chicken into the skillet and season tops with salt and pepper. Turn when nicely browned, about 4 minutes, and season again. Cook second side until browned, about 4 minutes. Transfer breasts to a plate, reserving skillet drippings.",
+            "Add wine and lemon juice to the skillet, stirring to scrape up any browned bits. Simmer to reduce and thicken sauce, about 5 minutes more. Add capers and pour sauce over chicken breasts on the plate. Sprinkle with parsley."
+        ],
+        "ingredients_canonical": [
+            "large skinless boneless chicken breasts",
+            "all-purpose flour",
+            "½ stick butter",
+            "salt ground black pepper taste",
+            "½ white wine",
+            "medium lemons juiced",
+            "drained capers",
+            "chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Perfect Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This quick chicken piccata recipe makes it easy to have this classic Italian restaurant dish at home. The pounded chicken breasts are so tender and juicy, and the buttery lemon caper sauce is so delicious, you'll want to drink it! I like to serve the chicken with pasta.",
+        "ingredients": [
+            "4 (4 ounce) boneless, skinless chicken breast halves",
+            "1 ½ teaspoons kosher salt",
+            "1 teaspoon ground black pepper",
+            "⅔ cup all-purpose flour",
+            "3 tablespoons olive oil, divided",
+            "3 tablespoons butter, divided",
+            "¼ cup dry white wine, such as Pinot Grigio",
+            "3 tablespoons capers, rinsed and drained",
+            "¾ cup chicken stock",
+            "¼ cup fresh lemon juice",
+            "1 teaspoon lemon zest",
+            "¼ cup chopped fresh parsley"
+        ],
+        "directions": [
+            "Slice chicken breasts in half lengthwise and lightly pound to 1/2-inch thick. Season evenly on both sides with salt and pepper. Dredge each piece in flour to coat the surface and shake off any excess flour.",
+            "Heat 2 tablespoons oil and 1 ½ tablespoons butter in a large skillet over medium-high heat until just beginning to smoke. Add 1/2 of the chicken and cook, undisturbed, until browned and easily released from the skillet, 2 ½ to 3 minutes. Flip and cook for 2 more minutes. Remove from the skillet. Add remaining 1 tablespoon oil to the drippings and repeat the cooking process with remaining chicken. Reserve all chicken on a plate.",
+            "Reduce heat to medium and melt remaining 1 ½ tablespoons butter in the skillet. Add wine and capers and stir, scraping to release any browned bits from the skillet; bring to a simmer. Cook for 2 minutes to slightly reduce. Add chicken stock, lemon juice, and lemon zest; stir to combine. Bring to a simmer and cook for 2 minutes.",
+            "Return chicken to the skillet and cook, turning occasionally in the sauce, until chicken is no longer pink in the center, the juices run clear, and the sauce has thickened slightly, 3 to 5 minutes.",
+            "Remove from heat and sprinkle with parsley to serve."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "ounce boneless skinless chicken breast halves ½ kosher salt ground black pepper ⅔ all-purpose flour olive oil divided butter divided ¼ dry white wine such as pinot grigio capers rinsed drained ¾ chicken stock ¼ fresh lemon juice lemon zest ¼ chopped fresh parsley",
+        "directions_text": "slice chicken breasts in half lengthwise and lightly pound to 1/2-inch thick. season evenly on both sides with salt and pepper. dredge each piece in flour to coat the surface and shake off any excess flour. heat 2 tablespoons oil and 1 ½ tablespoons butter in a large skillet over medium-high heat until just beginning to smoke. add 1/2 of the chicken and cook, undisturbed, until browned and easily released from the skillet, 2 ½ to 3 minutes. flip and cook for 2 more minutes. remove from the skillet. add remaining 1 tablespoon oil to the drippings and repeat the cooking process with remaining chicken. reserve all chicken on a plate. reduce heat to medium and melt remaining 1 ½ tablespoons butter in the skillet. add wine and capers and stir, scraping to release any browned bits from the skillet; bring to a simmer. cook for 2 minutes to slightly reduce. add chicken stock, lemon juice, and lemon zest; stir to combine. bring to a simmer and cook for 2 minutes. return chicken to the skillet and cook, turning occasionally in the sauce, until chicken is no longer pink in the center, the juices run clear, and the sauce has thickened slightly, 3 to 5 minutes. remove from heat and sprinkle with parsley to serve.",
+        "combined_text": "perfect chicken piccata chicken piccata chicken piccata 4 (4 ounce) boneless, skinless chicken breast halves 1 ½ teaspoons kosher salt 1 teaspoon ground black pepper ⅔ cup all-purpose flour 3 tablespoons olive oil, divided 3 tablespoons butter, divided ¼ cup dry white wine, such as pinot grigio 3 tablespoons capers, rinsed and drained ¾ cup chicken stock ¼ cup fresh lemon juice 1 teaspoon lemon zest ¼ cup chopped fresh parsley slice chicken breasts in half lengthwise and lightly pound to 1/2-inch thick. season evenly on both sides with salt and pepper. dredge each piece in flour to coat the surface and shake off any excess flour. heat 2 tablespoons oil and 1 ½ tablespoons butter in a large skillet over medium-high heat until just beginning to smoke. add 1/2 of the chicken and cook, undisturbed, until browned and easily released from the skillet, 2 ½ to 3 minutes. flip and cook for 2 more minutes. remove from the skillet. add remaining 1 tablespoon oil to the drippings and repeat the cooking process with remaining chicken. reserve all chicken on a plate. reduce heat to medium and melt remaining 1 ½ tablespoons butter in the skillet. add wine and capers and stir, scraping to release any browned bits from the skillet; bring to a simmer. cook for 2 minutes to slightly reduce. add chicken stock, lemon juice, and lemon zest; stir to combine. bring to a simmer and cook for 2 minutes. return chicken to the skillet and cook, turning occasionally in the sauce, until chicken is no longer pink in the center, the juices run clear, and the sauce has thickened slightly, 3 to 5 minutes. remove from heat and sprinkle with parsley to serve.",
+        "ingredients_raw": [
+            "4 (4 ounce) boneless, skinless chicken breast halves",
+            "1 ½ teaspoons kosher salt",
+            "1 teaspoon ground black pepper",
+            "⅔ cup all-purpose flour",
+            "3 tablespoons olive oil, divided",
+            "3 tablespoons butter, divided",
+            "¼ cup dry white wine, such as Pinot Grigio",
+            "3 tablespoons capers, rinsed and drained",
+            "¾ cup chicken stock",
+            "¼ cup fresh lemon juice",
+            "1 teaspoon lemon zest",
+            "¼ cup chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "Slice chicken breasts in half lengthwise and lightly pound to 1/2-inch thick. Season evenly on both sides with salt and pepper. Dredge each piece in flour to coat the surface and shake off any excess flour.",
+            "Heat 2 tablespoons oil and 1 ½ tablespoons butter in a large skillet over medium-high heat until just beginning to smoke. Add 1/2 of the chicken and cook, undisturbed, until browned and easily released from the skillet, 2 ½ to 3 minutes. Flip and cook for 2 more minutes. Remove from the skillet. Add remaining 1 tablespoon oil to the drippings and repeat the cooking process with remaining chicken. Reserve all chicken on a plate.",
+            "Reduce heat to medium and melt remaining 1 ½ tablespoons butter in the skillet. Add wine and capers and stir, scraping to release any browned bits from the skillet; bring to a simmer. Cook for 2 minutes to slightly reduce. Add chicken stock, lemon juice, and lemon zest; stir to combine. Bring to a simmer and cook for 2 minutes.",
+            "Return chicken to the skillet and cook, turning occasionally in the sauce, until chicken is no longer pink in the center, the juices run clear, and the sauce has thickened slightly, 3 to 5 minutes.",
+            "Remove from heat and sprinkle with parsley to serve."
+        ],
+        "ingredients_canonical": [
+            "ounce boneless skinless chicken breast halves",
+            "½ kosher salt",
+            "ground black pepper",
+            "⅔ all-purpose flour",
+            "olive oil divided",
+            "butter divided",
+            "¼ dry white wine such as pinot grigio",
+            "capers rinsed drained",
+            "¾ chicken stock",
+            "¼ fresh lemon juice",
+            "lemon zest",
+            "¼ chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 12,
+        "slow_hits": 5,
+        "medium_hits": 11,
+        "cook_speed": "fast",
+        "est_prep_time_min": 35,
+        "est_cook_time_min": 130,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Piccata III",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "This variation on the original uses mushrooms and artichoke hearts as a tasty twist. Yum! Serve over pasta or rice. White wine or water may be substituted for chicken broth.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "½ teaspoon paprika",
+            "1 pinch salt and pepper to taste",
+            "1 pound skinless, boneless chicken breast halves - cut into thin strips",
+            "¼ cup vegetable oil",
+            "4 ounces fresh mushrooms, sliced",
+            "¼ cup lemon juice",
+            "¾ cup chicken stock",
+            "½ teaspoon garlic powder",
+            "1 (14 ounce) can artichoke hearts, drained and quartered"
+        ],
+        "directions": [
+            "In a shallow bowl, mix together flour, paprika, and salt and pepper. Dredge chicken pieces in the seasoned flour.",
+            "Heat oil in a large skillet over medium heat, and saute chicken until light golden brown (about 45 seconds each side). Remove chicken from skillet, and set aside.",
+            "To skillet, add mushrooms, lemon juice, and chicken stock. Simmer until a smooth, light sauce develops. Season with garlic powder. Return chicken to the skillet, and simmer until chicken is no longer pink and juices run clear. Stir in artichoke hearts, and remove from heat."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour ½ paprika pinch salt pepper taste pound skinless boneless chicken breast halves - cut into thin strips ¼ vegetable oil ounces fresh mushrooms sliced ¼ lemon juice ¾ chicken stock ½ garlic powder ounce can artichoke hearts drained quartered",
+        "directions_text": "in a shallow bowl, mix together flour, paprika, and salt and pepper. dredge chicken pieces in the seasoned flour. heat oil in a large skillet over medium heat, and saute chicken until light golden brown (about 45 seconds each side). remove chicken from skillet, and set aside. to skillet, add mushrooms, lemon juice, and chicken stock. simmer until a smooth, light sauce develops. season with garlic powder. return chicken to the skillet, and simmer until chicken is no longer pink and juices run clear. stir in artichoke hearts, and remove from heat.",
+        "combined_text": "chicken piccata iii chicken piccata chicken piccata 1 cup all-purpose flour ½ teaspoon paprika 1 pinch salt and pepper to taste 1 pound skinless, boneless chicken breast halves - cut into thin strips ¼ cup vegetable oil 4 ounces fresh mushrooms, sliced ¼ cup lemon juice ¾ cup chicken stock ½ teaspoon garlic powder 1 (14 ounce) can artichoke hearts, drained and quartered in a shallow bowl, mix together flour, paprika, and salt and pepper. dredge chicken pieces in the seasoned flour. heat oil in a large skillet over medium heat, and saute chicken until light golden brown (about 45 seconds each side). remove chicken from skillet, and set aside. to skillet, add mushrooms, lemon juice, and chicken stock. simmer until a smooth, light sauce develops. season with garlic powder. return chicken to the skillet, and simmer until chicken is no longer pink and juices run clear. stir in artichoke hearts, and remove from heat.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour",
+            "½ teaspoon paprika",
+            "1 pinch salt and pepper to taste",
+            "1 pound skinless, boneless chicken breast halves - cut into thin strips",
+            "¼ cup vegetable oil",
+            "4 ounces fresh mushrooms, sliced",
+            "¼ cup lemon juice",
+            "¾ cup chicken stock",
+            "½ teaspoon garlic powder",
+            "1 (14 ounce) can artichoke hearts, drained and quartered"
+        ],
+        "directions_raw": [
+            "In a shallow bowl, mix together flour, paprika, and salt and pepper. Dredge chicken pieces in the seasoned flour.",
+            "Heat oil in a large skillet over medium heat, and saute chicken until light golden brown (about 45 seconds each side). Remove chicken from skillet, and set aside.",
+            "To skillet, add mushrooms, lemon juice, and chicken stock. Simmer until a smooth, light sauce develops. Season with garlic powder. Return chicken to the skillet, and simmer until chicken is no longer pink and juices run clear. Stir in artichoke hearts, and remove from heat."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "½ paprika",
+            "pinch salt pepper taste",
+            "pound skinless boneless chicken breast halves - cut into thin strips",
+            "¼ vegetable oil",
+            "ounces fresh mushrooms sliced",
+            "¼ lemon juice",
+            "¾ chicken stock",
+            "½ garlic powder",
+            "ounce can artichoke hearts drained quartered"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Piccata with Fettuccine",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "Mmm...A yummy pasta dish that stays in the limits of pasta town but still very hearty and healthy meal. This meal is easy to prepare and good to make for a nice fall or summer lunch.",
+        "ingredients": [
+            "6 ounces fettuccine",
+            "¼ cup all-purpose flour",
+            "½ teaspoon lemon-pepper seasoning",
+            "1 pound chicken breasts, cut into four 1/2-inch thick pieces",
+            "2 tablespoons olive oil",
+            "⅓ cup white wine",
+            "2 tablespoons lemon juice",
+            "2 tablespoons water",
+            "½ teaspoon chicken bouillon granules",
+            "1 tablespoon capers, rinsed and drained (Optional)",
+            "½ lemon, cut into wedges, or as desired (Optional)",
+            "4 sprigs fresh parsley, or as desired (Optional)"
+        ],
+        "directions": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in the fettuccine, bring back to a boil, and cook pasta over medium heat until cooked through but still firm to the bite, about 8 minutes. Drain.",
+            "Whisk flour and lemon-pepper seasoning together in a shallow bowl; dredge chicken through mixture until evenly coated, shaking excess back into bowl.",
+            "Heat olive oil in a large skillet over medium-high heat; cook chicken until light golden brown and no longer pink in the center, 6 to 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Transfer chicken to a plate, retaining oil mixture in the skillet.",
+            "Mix white wine, lemon juice, water, and chicken bouillon granules into oil mixture in the skillet. Bring liquid to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon until sauce is slightly reduced, 2 to 4 minutes. Stir capers into sauce.",
+            "Divide pasta among serving plates; top with chicken. Spoon sauce over chicken and garnish with lemon wedges and parsley."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "ounces fettuccine ¼ all-purpose flour ½ lemon-pepper seasoning pound chicken breasts cut into four -inch thick pieces olive oil ⅓ white wine lemon juice water ½ chicken bouillon granules capers rinsed drained optional ½ lemon cut into wedges as desired optional sprigs fresh parsley as desired optional",
+        "directions_text": "fill a large pot with lightly salted water and bring to a rolling boil. stir in the fettuccine, bring back to a boil, and cook pasta over medium heat until cooked through but still firm to the bite, about 8 minutes. drain. whisk flour and lemon-pepper seasoning together in a shallow bowl; dredge chicken through mixture until evenly coated, shaking excess back into bowl. heat olive oil in a large skillet over medium-high heat; cook chicken until light golden brown and no longer pink in the center, 6 to 10 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). transfer chicken to a plate, retaining oil mixture in the skillet. mix white wine, lemon juice, water, and chicken bouillon granules into oil mixture in the skillet. bring liquid to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon until sauce is slightly reduced, 2 to 4 minutes. stir capers into sauce. divide pasta among serving plates; top with chicken. spoon sauce over chicken and garnish with lemon wedges and parsley.",
+        "combined_text": "chicken piccata with fettuccine chicken piccata chicken piccata 6 ounces fettuccine ¼ cup all-purpose flour ½ teaspoon lemon-pepper seasoning 1 pound chicken breasts, cut into four 1/2-inch thick pieces 2 tablespoons olive oil ⅓ cup white wine 2 tablespoons lemon juice 2 tablespoons water ½ teaspoon chicken bouillon granules 1 tablespoon capers, rinsed and drained (optional) ½ lemon, cut into wedges, or as desired (optional) 4 sprigs fresh parsley, or as desired (optional) fill a large pot with lightly salted water and bring to a rolling boil. stir in the fettuccine, bring back to a boil, and cook pasta over medium heat until cooked through but still firm to the bite, about 8 minutes. drain. whisk flour and lemon-pepper seasoning together in a shallow bowl; dredge chicken through mixture until evenly coated, shaking excess back into bowl. heat olive oil in a large skillet over medium-high heat; cook chicken until light golden brown and no longer pink in the center, 6 to 10 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). transfer chicken to a plate, retaining oil mixture in the skillet. mix white wine, lemon juice, water, and chicken bouillon granules into oil mixture in the skillet. bring liquid to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon until sauce is slightly reduced, 2 to 4 minutes. stir capers into sauce. divide pasta among serving plates; top with chicken. spoon sauce over chicken and garnish with lemon wedges and parsley.",
+        "ingredients_raw": [
+            "6 ounces fettuccine",
+            "¼ cup all-purpose flour",
+            "½ teaspoon lemon-pepper seasoning",
+            "1 pound chicken breasts, cut into four 1/2-inch thick pieces",
+            "2 tablespoons olive oil",
+            "⅓ cup white wine",
+            "2 tablespoons lemon juice",
+            "2 tablespoons water",
+            "½ teaspoon chicken bouillon granules",
+            "1 tablespoon capers, rinsed and drained (Optional)",
+            "½ lemon, cut into wedges, or as desired (Optional)",
+            "4 sprigs fresh parsley, or as desired (Optional)"
+        ],
+        "directions_raw": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in the fettuccine, bring back to a boil, and cook pasta over medium heat until cooked through but still firm to the bite, about 8 minutes. Drain.",
+            "Whisk flour and lemon-pepper seasoning together in a shallow bowl; dredge chicken through mixture until evenly coated, shaking excess back into bowl.",
+            "Heat olive oil in a large skillet over medium-high heat; cook chicken until light golden brown and no longer pink in the center, 6 to 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Transfer chicken to a plate, retaining oil mixture in the skillet.",
+            "Mix white wine, lemon juice, water, and chicken bouillon granules into oil mixture in the skillet. Bring liquid to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon until sauce is slightly reduced, 2 to 4 minutes. Stir capers into sauce.",
+            "Divide pasta among serving plates; top with chicken. Spoon sauce over chicken and garnish with lemon wedges and parsley."
+        ],
+        "ingredients_canonical": [
+            "ounces fettuccine",
+            "¼ all-purpose flour",
+            "½ lemon-pepper seasoning",
+            "pound chicken breasts cut into four -inch thick pieces",
+            "olive oil",
+            "⅓ white wine",
+            "lemon juice",
+            "water",
+            "½ chicken bouillon granules",
+            "capers rinsed drained optional",
+            "½ lemon cut into wedges as desired optional",
+            "sprigs fresh parsley as desired optional"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 12,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 40,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Baked Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "Do you need the convenience of an oven meal? Try this baked chicken piccata to serve with pasta or rice. If you have a picky eater, just serve their chicken without the sauce!",
+        "ingredients": [
+            "1 gallon lukewarm water",
+            "¼ cup kosher salt",
+            "8 chicken cutlets",
+            "salt and pepper to taste",
+            "1 cup all-purpose flour",
+            "8 tablespoons unsalted butter, divided",
+            "4 tablespoons extra virgin olive oil",
+            "1 cup chicken stock",
+            "2 large lemons, juiced",
+            "3 ½ ounces capers, drained",
+            "1 clove garlic, minced",
+            "1 tablespoon chopped fresh parsley"
+        ],
+        "directions": [
+            "For the brine: Combine lukewarm water and salt in a large bowl, stirring until the salt dissolves. Add chicken cutlets and let stand at room temperature for 15 minutes. Remove chicken and pat dry, discarding brine.",
+            "Season each cutlet with salt and pepper, then dredge in flour; shake off any excess flour. Place seasoned and floured cutlets on a plate.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease a 9 x 13-inch baking dish.",
+            "Heat half the butter and olive oil in a large skillet over medium high-heat until butter is melted and oil is shimmering. Add 4 floured cutlets and cook until browned, about 3 minutes per side. Transfer to the prepared baking dish. Repeat with the remaining cutlets.",
+            "Bake chicken cutlets in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "While chicken bakes, heat the original skillet over medium-high heat for the sauce. Stir in chicken stock, lemon juice, and capers, scraping up any browned bits from the bottom of the skillet. Season with garlic, salt, and pepper. Stir in remaining 4 tablespoons butter, 1 tablespoon at a time, and cook, stirring constantly, until a spoonable consistency is reached, about 4 minutes.",
+            "Drizzle sauce over the baked chicken to serve."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 7,
+        "ingredient_text": "gallon lukewarm water ¼ kosher salt chicken cutlets salt pepper taste all-purpose flour unsalted butter divided extra virgin olive oil chicken stock large lemons juiced ½ ounces capers drained clove garlic minced chopped fresh parsley",
+        "directions_text": "for the brine: combine lukewarm water and salt in a large bowl, stirring until the salt dissolves. add chicken cutlets and let stand at room temperature for 15 minutes. remove chicken and pat dry, discarding brine. season each cutlet with salt and pepper, then dredge in flour; shake off any excess flour. place seasoned and floured cutlets on a plate. preheat the oven to 400 degrees f (200 degrees c). grease a 9 x 13-inch baking dish. heat half the butter and olive oil in a large skillet over medium high-heat until butter is melted and oil is shimmering. add 4 floured cutlets and cook until browned, about 3 minutes per side. transfer to the prepared baking dish. repeat with the remaining cutlets. bake chicken cutlets in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 10 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). while chicken bakes, heat the original skillet over medium-high heat for the sauce. stir in chicken stock, lemon juice, and capers, scraping up any browned bits from the bottom of the skillet. season with garlic, salt, and pepper. stir in remaining 4 tablespoons butter, 1 tablespoon at a time, and cook, stirring constantly, until a spoonable consistency is reached, about 4 minutes. drizzle sauce over the baked chicken to serve.",
+        "combined_text": "baked chicken piccata chicken piccata chicken piccata 1 gallon lukewarm water ¼ cup kosher salt 8 chicken cutlets salt and pepper to taste 1 cup all-purpose flour 8 tablespoons unsalted butter, divided 4 tablespoons extra virgin olive oil 1 cup chicken stock 2 large lemons, juiced 3 ½ ounces capers, drained 1 clove garlic, minced 1 tablespoon chopped fresh parsley for the brine: combine lukewarm water and salt in a large bowl, stirring until the salt dissolves. add chicken cutlets and let stand at room temperature for 15 minutes. remove chicken and pat dry, discarding brine. season each cutlet with salt and pepper, then dredge in flour; shake off any excess flour. place seasoned and floured cutlets on a plate. preheat the oven to 400 degrees f (200 degrees c). grease a 9 x 13-inch baking dish. heat half the butter and olive oil in a large skillet over medium high-heat until butter is melted and oil is shimmering. add 4 floured cutlets and cook until browned, about 3 minutes per side. transfer to the prepared baking dish. repeat with the remaining cutlets. bake chicken cutlets in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 10 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). while chicken bakes, heat the original skillet over medium-high heat for the sauce. stir in chicken stock, lemon juice, and capers, scraping up any browned bits from the bottom of the skillet. season with garlic, salt, and pepper. stir in remaining 4 tablespoons butter, 1 tablespoon at a time, and cook, stirring constantly, until a spoonable consistency is reached, about 4 minutes. drizzle sauce over the baked chicken to serve.",
+        "ingredients_raw": [
+            "1 gallon lukewarm water",
+            "¼ cup kosher salt",
+            "8 chicken cutlets",
+            "salt and pepper to taste",
+            "1 cup all-purpose flour",
+            "8 tablespoons unsalted butter, divided",
+            "4 tablespoons extra virgin olive oil",
+            "1 cup chicken stock",
+            "2 large lemons, juiced",
+            "3 ½ ounces capers, drained",
+            "1 clove garlic, minced",
+            "1 tablespoon chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "For the brine: Combine lukewarm water and salt in a large bowl, stirring until the salt dissolves. Add chicken cutlets and let stand at room temperature for 15 minutes. Remove chicken and pat dry, discarding brine.",
+            "Season each cutlet with salt and pepper, then dredge in flour; shake off any excess flour. Place seasoned and floured cutlets on a plate.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease a 9 x 13-inch baking dish.",
+            "Heat half the butter and olive oil in a large skillet over medium high-heat until butter is melted and oil is shimmering. Add 4 floured cutlets and cook until browned, about 3 minutes per side. Transfer to the prepared baking dish. Repeat with the remaining cutlets.",
+            "Bake chicken cutlets in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "While chicken bakes, heat the original skillet over medium-high heat for the sauce. Stir in chicken stock, lemon juice, and capers, scraping up any browned bits from the bottom of the skillet. Season with garlic, salt, and pepper. Stir in remaining 4 tablespoons butter, 1 tablespoon at a time, and cook, stirring constantly, until a spoonable consistency is reached, about 4 minutes.",
+            "Drizzle sauce over the baked chicken to serve."
+        ],
+        "ingredients_canonical": [
+            "gallon lukewarm water",
+            "¼ kosher salt",
+            "chicken cutlets",
+            "salt pepper taste",
+            "all-purpose flour",
+            "unsalted butter divided",
+            "extra virgin olive oil",
+            "chicken stock",
+            "large lemons juiced",
+            "½ ounces capers drained",
+            "clove garlic minced",
+            "chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 11,
+        "slow_hits": 2,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 31,
+        "est_cook_time_min": 85,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Light Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "A nice, healthy version of chicken piccata. Very light dish. My boyfriend requests it at least once a week!",
+        "ingredients": [
+            "8 ounces lowfat plain yogurt",
+            "4 boned and skinned chicken breast halves",
+            "½ cup all-purpose flour",
+            "1 teaspoon paprika",
+            "salt and pepper to taste",
+            "1 tablespoon olive oil",
+            "1 teaspoon margarine",
+            "1 ½ tablespoons lemon juice",
+            "1 cup white vermouth",
+            "2 cloves garlic, minced",
+            "½ cup lemon juice",
+            "½ cup water",
+            "2 tablespoons capers"
+        ],
+        "directions": [
+            "Coat chicken with yogurt, cover, and refrigerate at least 2 hours, preferably overnight.",
+            "Rinse chicken, and pat dry with paper towels.",
+            "In a bowl, stir together flour, paprika, salt, and pepper.",
+            "Heat oil, margarine, and 1 1/2 tablespoons lemon juice in skillet over medium heat. Dredge chicken in flour mixture. Place chicken in skillet; cook, turning to brown both sides, about 15 minutes. Remove chicken to a plate, and keep warm.",
+            "Pour vermouth into skillet, and scrape brown bits with a wooden spoon. Stir in garlic, 1/4 cup lemon juice, water, and capers. Cook until reduced by half.",
+            "Return chicken to the pan, and simmer 3 minutes."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 6,
+        "ingredient_text": "ounces lowfat plain yogurt boned skinned chicken breast halves ½ all-purpose flour paprika salt pepper taste olive oil margarine ½ lemon juice white vermouth cloves garlic minced ½ lemon juice ½ water capers",
+        "directions_text": "coat chicken with yogurt, cover, and refrigerate at least 2 hours, preferably overnight. rinse chicken, and pat dry with paper towels. in a bowl, stir together flour, paprika, salt, and pepper. heat oil, margarine, and 1 1/2 tablespoons lemon juice in skillet over medium heat. dredge chicken in flour mixture. place chicken in skillet; cook, turning to brown both sides, about 15 minutes. remove chicken to a plate, and keep warm. pour vermouth into skillet, and scrape brown bits with a wooden spoon. stir in garlic, 1/4 cup lemon juice, water, and capers. cook until reduced by half. return chicken to the pan, and simmer 3 minutes.",
+        "combined_text": "light chicken piccata chicken piccata chicken piccata 8 ounces lowfat plain yogurt 4 boned and skinned chicken breast halves ½ cup all-purpose flour 1 teaspoon paprika salt and pepper to taste 1 tablespoon olive oil 1 teaspoon margarine 1 ½ tablespoons lemon juice 1 cup white vermouth 2 cloves garlic, minced ½ cup lemon juice ½ cup water 2 tablespoons capers coat chicken with yogurt, cover, and refrigerate at least 2 hours, preferably overnight. rinse chicken, and pat dry with paper towels. in a bowl, stir together flour, paprika, salt, and pepper. heat oil, margarine, and 1 1/2 tablespoons lemon juice in skillet over medium heat. dredge chicken in flour mixture. place chicken in skillet; cook, turning to brown both sides, about 15 minutes. remove chicken to a plate, and keep warm. pour vermouth into skillet, and scrape brown bits with a wooden spoon. stir in garlic, 1/4 cup lemon juice, water, and capers. cook until reduced by half. return chicken to the pan, and simmer 3 minutes.",
+        "ingredients_raw": [
+            "8 ounces lowfat plain yogurt",
+            "4 boned and skinned chicken breast halves",
+            "½ cup all-purpose flour",
+            "1 teaspoon paprika",
+            "salt and pepper to taste",
+            "1 tablespoon olive oil",
+            "1 teaspoon margarine",
+            "1 ½ tablespoons lemon juice",
+            "1 cup white vermouth",
+            "2 cloves garlic, minced",
+            "½ cup lemon juice",
+            "½ cup water",
+            "2 tablespoons capers"
+        ],
+        "directions_raw": [
+            "Coat chicken with yogurt, cover, and refrigerate at least 2 hours, preferably overnight.",
+            "Rinse chicken, and pat dry with paper towels.",
+            "In a bowl, stir together flour, paprika, salt, and pepper.",
+            "Heat oil, margarine, and 1 1/2 tablespoons lemon juice in skillet over medium heat. Dredge chicken in flour mixture. Place chicken in skillet; cook, turning to brown both sides, about 15 minutes. Remove chicken to a plate, and keep warm.",
+            "Pour vermouth into skillet, and scrape brown bits with a wooden spoon. Stir in garlic, 1/4 cup lemon juice, water, and capers. Cook until reduced by half.",
+            "Return chicken to the pan, and simmer 3 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounces lowfat plain yogurt",
+            "boned skinned chicken breast halves",
+            "½ all-purpose flour",
+            "paprika",
+            "salt pepper taste",
+            "olive oil",
+            "margarine",
+            "½ lemon juice",
+            "white vermouth",
+            "cloves garlic minced",
+            "½ lemon juice",
+            "½ water",
+            "capers"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 4,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 96,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Air Fryer Chicken Piccata with Lemon-Caper Sauce",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "The chicken is tender and juicy with a crispy breading with a peppery flavor. The sauce is acidic from the lemon juice and zest, with well-balanced flavors and a little brininess from the capers. The flavor from the garlic is present, but not overwhelming and works well with the lemon, white wine, and butter. Great with pasta, a side salad, or sauteed veggies.",
+        "ingredients": [
+            "4 tablespoons unsalted butter",
+            "4 cloves garlic, minced",
+            "2 tablespoons all-purpose flour",
+            "½ cup chicken broth",
+            "½ cup dry white wine",
+            "¼ cup fresh lemon juice",
+            "2 tablespoons capers, drained",
+            "1 tablespoon finely chopped fresh parsley",
+            "1 teaspoon lemon zest",
+            "½ teaspoon kosher salt",
+            "¼ teaspoon black pepper"
+        ],
+        "directions": [
+            "Prepare the lemon-caper sauce: Melt butter in a small saucepan over medium heat. Add garlic and cook, stirring occasionally, until aromatic, about 1 minute. Whisk in flour and cook, whisking constantly, until slightly thickened, about 2 minutes.",
+            "Whisk in chicken broth, white wine, and lemon juice and bring to a boil. Remove saucepan from heat and whisk in capers, parsley, lemon zest, salt, and pepper. Cover to keep warm until ready to use and gently whisk before serving.",
+            "Prepare chicken: Preheat an air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions for 10 minutes. Lightly coat the air fryer basket with nonstick spray.",
+            "Cut each chicken breast in half crosswise. Line a large cutting board with plastic wrap and place chicken breast halves on the cutting board; cover chicken breasts with plastic wrap. Pound each chicken breast half until 1/2-inch thick.",
+            "Place flour in a medium bowl. Whisk together egg and lemon juice in a second medium bowl. Stir together bread crumbs and cheeses in a third medium bowl. Sprinkle chicken breast halves evenly with pepper and salt.",
+            "Working in batches, dredge a piece of chicken in flour until well coated. Transfer to the egg mixture and gently toss to coat, then place in the bread crumb mixture and toss again to coat. Transfer to a sheet pan. Repeat process until all chicken has been breaded.",
+            "Place 2 pieces of breaded chicken in the prepared fryer basket. Spray the top side with nonstick spray, and cook until golden brown, crispy, and a thermometer inserted into thickest portion registers 165 degrees F (74 degrees C), 8 to 10 minutes. Halfway through cook time, flip chicken pieces and spray the top again. Transfer to a platter and repeat to cook remaining chicken.",
+            "Drizzle with lemon-caper sauce and serve immediately."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 8,
+        "ingredient_text": "unsalted butter cloves garlic minced all-purpose flour ½ chicken broth ½ dry white wine ¼ fresh lemon juice capers drained finely chopped fresh parsley lemon zest ½ kosher salt ¼ black pepper",
+        "directions_text": "prepare the lemon-caper sauce: melt butter in a small saucepan over medium heat. add garlic and cook, stirring occasionally, until aromatic, about 1 minute. whisk in flour and cook, whisking constantly, until slightly thickened, about 2 minutes. whisk in chicken broth, white wine, and lemon juice and bring to a boil. remove saucepan from heat and whisk in capers, parsley, lemon zest, salt, and pepper. cover to keep warm until ready to use and gently whisk before serving. prepare chicken: preheat an air fryer to 400 degrees f (200 degrees c) according to manufacturer's instructions for 10 minutes. lightly coat the air fryer basket with nonstick spray. cut each chicken breast in half crosswise. line a large cutting board with plastic wrap and place chicken breast halves on the cutting board; cover chicken breasts with plastic wrap. pound each chicken breast half until 1/2-inch thick. place flour in a medium bowl. whisk together egg and lemon juice in a second medium bowl. stir together bread crumbs and cheeses in a third medium bowl. sprinkle chicken breast halves evenly with pepper and salt. working in batches, dredge a piece of chicken in flour until well coated. transfer to the egg mixture and gently toss to coat, then place in the bread crumb mixture and toss again to coat. transfer to a sheet pan. repeat process until all chicken has been breaded. place 2 pieces of breaded chicken in the prepared fryer basket. spray the top side with nonstick spray, and cook until golden brown, crispy, and a thermometer inserted into thickest portion registers 165 degrees f (74 degrees c), 8 to 10 minutes. halfway through cook time, flip chicken pieces and spray the top again. transfer to a platter and repeat to cook remaining chicken. drizzle with lemon-caper sauce and serve immediately.",
+        "combined_text": "air fryer chicken piccata with lemon-caper sauce chicken piccata chicken piccata 4 tablespoons unsalted butter 4 cloves garlic, minced 2 tablespoons all-purpose flour ½ cup chicken broth ½ cup dry white wine ¼ cup fresh lemon juice 2 tablespoons capers, drained 1 tablespoon finely chopped fresh parsley 1 teaspoon lemon zest ½ teaspoon kosher salt ¼ teaspoon black pepper prepare the lemon-caper sauce: melt butter in a small saucepan over medium heat. add garlic and cook, stirring occasionally, until aromatic, about 1 minute. whisk in flour and cook, whisking constantly, until slightly thickened, about 2 minutes. whisk in chicken broth, white wine, and lemon juice and bring to a boil. remove saucepan from heat and whisk in capers, parsley, lemon zest, salt, and pepper. cover to keep warm until ready to use and gently whisk before serving. prepare chicken: preheat an air fryer to 400 degrees f (200 degrees c) according to manufacturer's instructions for 10 minutes. lightly coat the air fryer basket with nonstick spray. cut each chicken breast in half crosswise. line a large cutting board with plastic wrap and place chicken breast halves on the cutting board; cover chicken breasts with plastic wrap. pound each chicken breast half until 1/2-inch thick. place flour in a medium bowl. whisk together egg and lemon juice in a second medium bowl. stir together bread crumbs and cheeses in a third medium bowl. sprinkle chicken breast halves evenly with pepper and salt. working in batches, dredge a piece of chicken in flour until well coated. transfer to the egg mixture and gently toss to coat, then place in the bread crumb mixture and toss again to coat. transfer to a sheet pan. repeat process until all chicken has been breaded. place 2 pieces of breaded chicken in the prepared fryer basket. spray the top side with nonstick spray, and cook until golden brown, crispy, and a thermometer inserted into thickest portion registers 165 degrees f (74 degrees c), 8 to 10 minutes. halfway through cook time, flip chicken pieces and spray the top again. transfer to a platter and repeat to cook remaining chicken. drizzle with lemon-caper sauce and serve immediately.",
+        "ingredients_raw": [
+            "4 tablespoons unsalted butter",
+            "4 cloves garlic, minced",
+            "2 tablespoons all-purpose flour",
+            "½ cup chicken broth",
+            "½ cup dry white wine",
+            "¼ cup fresh lemon juice",
+            "2 tablespoons capers, drained",
+            "1 tablespoon finely chopped fresh parsley",
+            "1 teaspoon lemon zest",
+            "½ teaspoon kosher salt",
+            "¼ teaspoon black pepper"
+        ],
+        "directions_raw": [
+            "Prepare the lemon-caper sauce: Melt butter in a small saucepan over medium heat. Add garlic and cook, stirring occasionally, until aromatic, about 1 minute. Whisk in flour and cook, whisking constantly, until slightly thickened, about 2 minutes.",
+            "Whisk in chicken broth, white wine, and lemon juice and bring to a boil. Remove saucepan from heat and whisk in capers, parsley, lemon zest, salt, and pepper. Cover to keep warm until ready to use and gently whisk before serving.",
+            "Prepare chicken: Preheat an air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions for 10 minutes. Lightly coat the air fryer basket with nonstick spray.",
+            "Cut each chicken breast in half crosswise. Line a large cutting board with plastic wrap and place chicken breast halves on the cutting board; cover chicken breasts with plastic wrap. Pound each chicken breast half until 1/2-inch thick.",
+            "Place flour in a medium bowl. Whisk together egg and lemon juice in a second medium bowl. Stir together bread crumbs and cheeses in a third medium bowl. Sprinkle chicken breast halves evenly with pepper and salt.",
+            "Working in batches, dredge a piece of chicken in flour until well coated. Transfer to the egg mixture and gently toss to coat, then place in the bread crumb mixture and toss again to coat. Transfer to a sheet pan. Repeat process until all chicken has been breaded.",
+            "Place 2 pieces of breaded chicken in the prepared fryer basket. Spray the top side with nonstick spray, and cook until golden brown, crispy, and a thermometer inserted into thickest portion registers 165 degrees F (74 degrees C), 8 to 10 minutes. Halfway through cook time, flip chicken pieces and spray the top again. Transfer to a platter and repeat to cook remaining chicken.",
+            "Drizzle with lemon-caper sauce and serve immediately."
+        ],
+        "ingredients_canonical": [
+            "unsalted butter",
+            "cloves garlic minced",
+            "all-purpose flour",
+            "½ chicken broth",
+            "½ dry white wine",
+            "¼ fresh lemon juice",
+            "capers drained",
+            "finely chopped fresh parsley",
+            "lemon zest",
+            "½ kosher salt",
+            "¼ black pepper"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "sauce",
+            "drink",
+            "side",
+            "soup",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 25,
+        "slow_hits": 0,
+        "medium_hits": 16,
+        "cook_speed": "fast",
+        "est_prep_time_min": 49,
+        "est_cook_time_min": 104,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Home-Style Chicken Piccata",
+        "category": "Chicken Piccata",
+        "subcategory": "Chicken Piccata",
+        "description": "Boneless skinless chicken breasts that are deceptively simple. Easy and tasty. Perfect quick chicken dinner served with buttered noodles and string beans. This is a kid- and family-favorite.",
+        "ingredients": [
+            "½ cup all-purpose flour",
+            "2 teaspoons garlic powder",
+            "1 teaspoon paprika",
+            "1 egg",
+            "¼ cup butter",
+            "1 pound skinless, boneless chicken breast halves",
+            "1 cup chicken broth",
+            "½ lemon"
+        ],
+        "directions": [
+            "Whisk flour, garlic powder, and paprika together in a bowl. Beat egg in a separate bowl. Melt butter in a skillet over medium heat.",
+            "Dip chicken in egg until coated. Dredge chicken through flour mixture until evenly coated, shaking off excess.",
+            "Fry chicken in the melted butter until browned, 2 to 3 minutes per side. Add chicken broth to skillet, cover, and cook until chicken is not longer pink in the center, about 20 minutes. Squeeze lemon over chicken."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ all-purpose flour garlic powder paprika egg ¼ butter pound skinless boneless chicken breast halves chicken broth ½ lemon",
+        "directions_text": "whisk flour, garlic powder, and paprika together in a bowl. beat egg in a separate bowl. melt butter in a skillet over medium heat. dip chicken in egg until coated. dredge chicken through flour mixture until evenly coated, shaking off excess. fry chicken in the melted butter until browned, 2 to 3 minutes per side. add chicken broth to skillet, cover, and cook until chicken is not longer pink in the center, about 20 minutes. squeeze lemon over chicken.",
+        "combined_text": "home-style chicken piccata chicken piccata chicken piccata ½ cup all-purpose flour 2 teaspoons garlic powder 1 teaspoon paprika 1 egg ¼ cup butter 1 pound skinless, boneless chicken breast halves 1 cup chicken broth ½ lemon whisk flour, garlic powder, and paprika together in a bowl. beat egg in a separate bowl. melt butter in a skillet over medium heat. dip chicken in egg until coated. dredge chicken through flour mixture until evenly coated, shaking off excess. fry chicken in the melted butter until browned, 2 to 3 minutes per side. add chicken broth to skillet, cover, and cook until chicken is not longer pink in the center, about 20 minutes. squeeze lemon over chicken.",
+        "ingredients_raw": [
+            "½ cup all-purpose flour",
+            "2 teaspoons garlic powder",
+            "1 teaspoon paprika",
+            "1 egg",
+            "¼ cup butter",
+            "1 pound skinless, boneless chicken breast halves",
+            "1 cup chicken broth",
+            "½ lemon"
+        ],
+        "directions_raw": [
+            "Whisk flour, garlic powder, and paprika together in a bowl. Beat egg in a separate bowl. Melt butter in a skillet over medium heat.",
+            "Dip chicken in egg until coated. Dredge chicken through flour mixture until evenly coated, shaking off excess.",
+            "Fry chicken in the melted butter until browned, 2 to 3 minutes per side. Add chicken broth to skillet, cover, and cook until chicken is not longer pink in the center, about 20 minutes. Squeeze lemon over chicken."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "garlic powder",
+            "paprika",
+            "egg",
+            "¼ butter",
+            "pound skinless boneless chicken breast halves",
+            "chicken broth",
+            "½ lemon"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    }
+]

@@ -1,0 +1,2065 @@
+[
+    {
+        "recipe_title": "Brown Sugar Pie I",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "Brown sugar pie is a basic pie from Quebec, Canada. In French, it is Tarte au Sucre Brun. Delicious!!",
+        "ingredients": [
+            "6 tablespoons all-purpose flour",
+            "2 cups packed brown sugar",
+            "1 ½ cups evaporated milk",
+            "4 tablespoons butter",
+            "½ teaspoon salt",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "In a saucepan, combine flour and sugar. Stir in milk, butter, salt and vanilla. Cook, stirring constantly, until mixture comes to a boil. Pour into an unbaked pie shell.",
+            "Bake at 400 degrees F (200 degrees C) for 5 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue baking for 25 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour packed brown sugar ½ evaporated milk butter ½ salt vanilla extract",
+        "directions_text": "preheat oven to 400 degrees f (200 degrees c). in a saucepan, combine flour and sugar. stir in milk, butter, salt and vanilla. cook, stirring constantly, until mixture comes to a boil. pour into an unbaked pie shell. bake at 400 degrees f (200 degrees c) for 5 minutes. reduce heat to 350 degrees f (175 degrees c) and continue baking for 25 minutes.",
+        "combined_text": "brown sugar pie i chess pie chess pie 6 tablespoons all-purpose flour 2 cups packed brown sugar 1 ½ cups evaporated milk 4 tablespoons butter ½ teaspoon salt 1 teaspoon vanilla extract preheat oven to 400 degrees f (200 degrees c). in a saucepan, combine flour and sugar. stir in milk, butter, salt and vanilla. cook, stirring constantly, until mixture comes to a boil. pour into an unbaked pie shell. bake at 400 degrees f (200 degrees c) for 5 minutes. reduce heat to 350 degrees f (175 degrees c) and continue baking for 25 minutes.",
+        "ingredients_raw": [
+            "6 tablespoons all-purpose flour",
+            "2 cups packed brown sugar",
+            "1 ½ cups evaporated milk",
+            "4 tablespoons butter",
+            "½ teaspoon salt",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "In a saucepan, combine flour and sugar. Stir in milk, butter, salt and vanilla. Cook, stirring constantly, until mixture comes to a boil. Pour into an unbaked pie shell.",
+            "Bake at 400 degrees F (200 degrees C) for 5 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue baking for 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "packed brown sugar",
+            "½ evaporated milk",
+            "butter",
+            "½ salt",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bill Clinton's Lemon Chess Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "Some say lemon chess pie was Bill Clinton's favorite pie! This recipe makes a deliciously sweet and tangy filling flavored with lemon juice and the zest of three lemons.",
+        "ingredients": [
+            "1 (9 inch) prepared pie crust",
+            "2 cups white sugar",
+            "½ cup butter, softened",
+            "5 large eggs, beaten",
+            "1 cup milk",
+            "1 tablespoon all-purpose flour",
+            "1 tablespoon cornmeal",
+            "¼ cup fresh lemon juice",
+            "3 tablespoons lemon zest"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat sugar and butter together in a large mixing bowl until light and fluffy. Beat in eggs and milk. Add flour, cornmeal, lemon juice, and lemon zest. Mix until smooth. Pour mixture into prepared pastry crust.",
+            "Bake pie in the preheated oven until center is set, about 40 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "inch prepared pie crust white sugar ½ butter softened large eggs beaten milk all-purpose flour cornmeal ¼ fresh lemon juice lemon zest",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). beat sugar and butter together in a large mixing bowl until light and fluffy. beat in eggs and milk. add flour, cornmeal, lemon juice, and lemon zest. mix until smooth. pour mixture into prepared pastry crust. bake pie in the preheated oven until center is set, about 40 minutes.",
+        "combined_text": "bill clinton's lemon chess pie chess pie chess pie 1 (9 inch) prepared pie crust 2 cups white sugar ½ cup butter, softened 5 large eggs, beaten 1 cup milk 1 tablespoon all-purpose flour 1 tablespoon cornmeal ¼ cup fresh lemon juice 3 tablespoons lemon zest preheat the oven to 350 degrees f (175 degrees c). beat sugar and butter together in a large mixing bowl until light and fluffy. beat in eggs and milk. add flour, cornmeal, lemon juice, and lemon zest. mix until smooth. pour mixture into prepared pastry crust. bake pie in the preheated oven until center is set, about 40 minutes.",
+        "ingredients_raw": [
+            "1 (9 inch) prepared pie crust",
+            "2 cups white sugar",
+            "½ cup butter, softened",
+            "5 large eggs, beaten",
+            "1 cup milk",
+            "1 tablespoon all-purpose flour",
+            "1 tablespoon cornmeal",
+            "¼ cup fresh lemon juice",
+            "3 tablespoons lemon zest"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat sugar and butter together in a large mixing bowl until light and fluffy. Beat in eggs and milk. Add flour, cornmeal, lemon juice, and lemon zest. Mix until smooth. Pour mixture into prepared pastry crust.",
+            "Bake pie in the preheated oven until center is set, about 40 minutes."
+        ],
+        "ingredients_canonical": [
+            "inch prepared pie crust",
+            "white sugar",
+            "½ butter softened",
+            "large eggs beaten",
+            "milk",
+            "all-purpose flour",
+            "cornmeal",
+            "¼ fresh lemon juice",
+            "lemon zest"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Simple Canadian Butter Tarts",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This recipe for baked tarts is from my seventh-grade Home Economics class. These are the only butter tarts my husband will eat!",
+        "ingredients": [
+            "1 egg",
+            "½ cup brown sugar",
+            "⅛ teaspoon salt",
+            "½ teaspoon vanilla extract",
+            "¼ teaspoon lemon extract",
+            "1 tablespoon melted butter",
+            "½ cup raisins",
+            "8 (3 inch) unbaked tart shells"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C.)",
+            "Beat egg in a large bowl. Mix in brown sugar and salt. Stir in vanilla and lemon extract. Beat until light and bubbly, then stir in melted butter. Fold in raisins. Drop filling by spoonfuls into tart shells.",
+            "Bake in the preheated oven for 10 minutes. Reduce oven temperature to 350 degrees F (175 degrees C); bake until filling is set and pastry is golden brown, 20 to 25 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "egg ½ brown sugar ⅛ salt ½ vanilla extract ¼ lemon extract melted butter ½ raisins inch unbaked tart shells",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c.) beat egg in a large bowl. mix in brown sugar and salt. stir in vanilla and lemon extract. beat until light and bubbly, then stir in melted butter. fold in raisins. drop filling by spoonfuls into tart shells. bake in the preheated oven for 10 minutes. reduce oven temperature to 350 degrees f (175 degrees c); bake until filling is set and pastry is golden brown, 20 to 25 minutes.",
+        "combined_text": "simple canadian butter tarts chess pie chess pie 1 egg ½ cup brown sugar ⅛ teaspoon salt ½ teaspoon vanilla extract ¼ teaspoon lemon extract 1 tablespoon melted butter ½ cup raisins 8 (3 inch) unbaked tart shells preheat the oven to 400 degrees f (200 degrees c.) beat egg in a large bowl. mix in brown sugar and salt. stir in vanilla and lemon extract. beat until light and bubbly, then stir in melted butter. fold in raisins. drop filling by spoonfuls into tart shells. bake in the preheated oven for 10 minutes. reduce oven temperature to 350 degrees f (175 degrees c); bake until filling is set and pastry is golden brown, 20 to 25 minutes.",
+        "ingredients_raw": [
+            "1 egg",
+            "½ cup brown sugar",
+            "⅛ teaspoon salt",
+            "½ teaspoon vanilla extract",
+            "¼ teaspoon lemon extract",
+            "1 tablespoon melted butter",
+            "½ cup raisins",
+            "8 (3 inch) unbaked tart shells"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C.)",
+            "Beat egg in a large bowl. Mix in brown sugar and salt. Stir in vanilla and lemon extract. Beat until light and bubbly, then stir in melted butter. Fold in raisins. Drop filling by spoonfuls into tart shells.",
+            "Bake in the preheated oven for 10 minutes. Reduce oven temperature to 350 degrees F (175 degrees C); bake until filling is set and pastry is golden brown, 20 to 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "egg",
+            "½ brown sugar",
+            "⅛ salt",
+            "½ vanilla extract",
+            "¼ lemon extract",
+            "melted butter",
+            "½ raisins",
+            "inch unbaked tart shells"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 45,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pineapple Coconut Chess Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "A delicious chess pie with the tropical flavors of pineapple and coconut.",
+        "ingredients": [
+            "1 ½ cups white sugar",
+            "3 tablespoons cornmeal",
+            "2 tablespoons all-purpose flour",
+            "¼ teaspoon salt",
+            "4 eggs, lightly beaten",
+            "1 teaspoon vanilla extract",
+            "¼ cup butter, melted",
+            "1 (3.5 ounce) package flaked coconut",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C.)",
+            "In a large bowl, combine sugar, cornmeal, flour and salt. Blend in eggs and vanilla. Stir in butter, coconut and pineapple. Pour filling into pie shell.",
+            "Bake in the preheated oven for 60 minutes, or until filling is set. Cover with aluminum foil after 40 minutes. Cool on a wire rack."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "½ white sugar cornmeal all-purpose flour ¼ salt eggs lightly beaten vanilla extract ¼ butter melted ounce package flaked coconut ounce can crushed pineapple drained inch unbaked pie crust",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c.) in a large bowl, combine sugar, cornmeal, flour and salt. blend in eggs and vanilla. stir in butter, coconut and pineapple. pour filling into pie shell. bake in the preheated oven for 60 minutes, or until filling is set. cover with aluminum foil after 40 minutes. cool on a wire rack.",
+        "combined_text": "pineapple coconut chess pie chess pie chess pie 1 ½ cups white sugar 3 tablespoons cornmeal 2 tablespoons all-purpose flour ¼ teaspoon salt 4 eggs, lightly beaten 1 teaspoon vanilla extract ¼ cup butter, melted 1 (3.5 ounce) package flaked coconut 1 (15 ounce) can crushed pineapple, drained 1 (9 inch) unbaked pie crust preheat oven to 350 degrees f (175 degrees c.) in a large bowl, combine sugar, cornmeal, flour and salt. blend in eggs and vanilla. stir in butter, coconut and pineapple. pour filling into pie shell. bake in the preheated oven for 60 minutes, or until filling is set. cover with aluminum foil after 40 minutes. cool on a wire rack.",
+        "ingredients_raw": [
+            "1 ½ cups white sugar",
+            "3 tablespoons cornmeal",
+            "2 tablespoons all-purpose flour",
+            "¼ teaspoon salt",
+            "4 eggs, lightly beaten",
+            "1 teaspoon vanilla extract",
+            "¼ cup butter, melted",
+            "1 (3.5 ounce) package flaked coconut",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C.)",
+            "In a large bowl, combine sugar, cornmeal, flour and salt. Blend in eggs and vanilla. Stir in butter, coconut and pineapple. Pour filling into pie shell.",
+            "Bake in the preheated oven for 60 minutes, or until filling is set. Cover with aluminum foil after 40 minutes. Cool on a wire rack."
+        ],
+        "ingredients_canonical": [
+            "½ white sugar",
+            "cornmeal",
+            "all-purpose flour",
+            "¼ salt",
+            "eggs lightly beaten",
+            "vanilla extract",
+            "¼ butter melted",
+            "ounce package flaked coconut",
+            "ounce can crushed pineapple drained",
+            "inch unbaked pie crust"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Tar Heel Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This tar heel pie recipe is best if it is underbaked and a bit gooey, like a brownie. It is a very rich pie, so small slices are advised.",
+        "ingredients": [
+            "½ cup butter, melted and warm",
+            "1 cup chocolate chips, divided",
+            "½ cup all-purpose flour",
+            "½ cup brown sugar",
+            "½ cup white sugar",
+            "2 eggs, beaten",
+            "1 teaspoon vanilla extract",
+            "1 cup chopped pecans",
+            "½ cup flaked coconut",
+            "1 (9 inch) deep-dish pie crust"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C.)",
+            "Pour warm melted butter over ¾ cup chocolate chips in a large bowl; stir until smooth. Whisk flour, brown sugar, and white sugar together in a separate bowl; stir into chocolate mixture. Stir in eggs and vanilla extract. Fold in pecans, coconut, and remaining ¼ cup chocolate chips; pour into pie crust.",
+            "Bake in the preheated oven until top is set (it might crack slightly), 35 to 40 minutes. The pie is best if underbaked."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "½ butter melted warm chocolate chips divided ½ all-purpose flour ½ brown sugar ½ white sugar eggs beaten vanilla extract chopped pecans ½ flaked coconut inch deep-dish pie crust",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c.) pour warm melted butter over ¾ cup chocolate chips in a large bowl; stir until smooth. whisk flour, brown sugar, and white sugar together in a separate bowl; stir into chocolate mixture. stir in eggs and vanilla extract. fold in pecans, coconut, and remaining ¼ cup chocolate chips; pour into pie crust. bake in the preheated oven until top is set (it might crack slightly), 35 to 40 minutes. the pie is best if underbaked.",
+        "combined_text": "tar heel pie chess pie chess pie ½ cup butter, melted and warm 1 cup chocolate chips, divided ½ cup all-purpose flour ½ cup brown sugar ½ cup white sugar 2 eggs, beaten 1 teaspoon vanilla extract 1 cup chopped pecans ½ cup flaked coconut 1 (9 inch) deep-dish pie crust preheat the oven to 350 degrees f (175 degrees c.) pour warm melted butter over ¾ cup chocolate chips in a large bowl; stir until smooth. whisk flour, brown sugar, and white sugar together in a separate bowl; stir into chocolate mixture. stir in eggs and vanilla extract. fold in pecans, coconut, and remaining ¼ cup chocolate chips; pour into pie crust. bake in the preheated oven until top is set (it might crack slightly), 35 to 40 minutes. the pie is best if underbaked.",
+        "ingredients_raw": [
+            "½ cup butter, melted and warm",
+            "1 cup chocolate chips, divided",
+            "½ cup all-purpose flour",
+            "½ cup brown sugar",
+            "½ cup white sugar",
+            "2 eggs, beaten",
+            "1 teaspoon vanilla extract",
+            "1 cup chopped pecans",
+            "½ cup flaked coconut",
+            "1 (9 inch) deep-dish pie crust"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C.)",
+            "Pour warm melted butter over ¾ cup chocolate chips in a large bowl; stir until smooth. Whisk flour, brown sugar, and white sugar together in a separate bowl; stir into chocolate mixture. Stir in eggs and vanilla extract. Fold in pecans, coconut, and remaining ¼ cup chocolate chips; pour into pie crust.",
+            "Bake in the preheated oven until top is set (it might crack slightly), 35 to 40 minutes. The pie is best if underbaked."
+        ],
+        "ingredients_canonical": [
+            "½ butter melted warm",
+            "chocolate chips divided",
+            "½ all-purpose flour",
+            "½ brown sugar",
+            "½ white sugar",
+            "eggs beaten",
+            "vanilla extract",
+            "chopped pecans",
+            "½ flaked coconut",
+            "inch deep-dish pie crust"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Custard Pecan Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This is a simple, yet delicious recipe to make without the syrup that most pecan pie recipes call for. It's more like a custard pie with pecans.",
+        "ingredients": [
+            "1 (9 inch) deep dish pie crust",
+            "2 cups light brown sugar",
+            "1 tablespoon all-purpose flour",
+            "½ cup melted margarine",
+            "1 cup evaporated milk",
+            "1 teaspoon vanilla extract",
+            "3 eggs",
+            "1 cup chopped pecans",
+            "1 cup pecan halves"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C.)",
+            "In a large bowl, combine brown sugar, flour, margarine, milk, vanilla and eggs. Blend until smooth. Stir in chopped pecans. Pour into pie crust. Place whole pecan meats gently on top in decorative manner.",
+            "Bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "inch deep dish pie crust light brown sugar all-purpose flour ½ melted margarine evaporated milk vanilla extract eggs chopped pecans pecan halves",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c.) in a large bowl, combine brown sugar, flour, margarine, milk, vanilla and eggs. blend until smooth. stir in chopped pecans. pour into pie crust. place whole pecan meats gently on top in decorative manner. bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set.",
+        "combined_text": "custard pecan pie chess pie chess pie 1 (9 inch) deep dish pie crust 2 cups light brown sugar 1 tablespoon all-purpose flour ½ cup melted margarine 1 cup evaporated milk 1 teaspoon vanilla extract 3 eggs 1 cup chopped pecans 1 cup pecan halves preheat the oven to 350 degrees f (175 degrees c.) in a large bowl, combine brown sugar, flour, margarine, milk, vanilla and eggs. blend until smooth. stir in chopped pecans. pour into pie crust. place whole pecan meats gently on top in decorative manner. bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set.",
+        "ingredients_raw": [
+            "1 (9 inch) deep dish pie crust",
+            "2 cups light brown sugar",
+            "1 tablespoon all-purpose flour",
+            "½ cup melted margarine",
+            "1 cup evaporated milk",
+            "1 teaspoon vanilla extract",
+            "3 eggs",
+            "1 cup chopped pecans",
+            "1 cup pecan halves"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C.)",
+            "In a large bowl, combine brown sugar, flour, margarine, milk, vanilla and eggs. Blend until smooth. Stir in chopped pecans. Pour into pie crust. Place whole pecan meats gently on top in decorative manner.",
+            "Bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set."
+        ],
+        "ingredients_canonical": [
+            "inch deep dish pie crust",
+            "light brown sugar",
+            "all-purpose flour",
+            "½ melted margarine",
+            "evaporated milk",
+            "vanilla extract",
+            "eggs",
+            "chopped pecans",
+            "pecan halves"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Brown Sugar Pie II",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This is a brown sugar pie!!!",
+        "ingredients": [
+            "1 cup brown sugar",
+            "½ cup white sugar",
+            "1 teaspoon all-purpose flour",
+            "2 eggs",
+            "2 tablespoons milk",
+            "1 teaspoon vanilla extract",
+            "½ cup melted butter"
+        ],
+        "directions": [
+            "Preheat oven to 325 degrees F (165 degrees C.)",
+            "In a large bowl, combine brown sugar, white sugar, flour, eggs, milk and vanilla. Beat until smooth. Mix in the melted butter. Pour filling into pie crust.",
+            "Bake in the preheated oven for 35 to 40 minutes, or until filling is set."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "brown sugar ½ white sugar all-purpose flour eggs milk vanilla extract ½ melted butter",
+        "directions_text": "preheat oven to 325 degrees f (165 degrees c.) in a large bowl, combine brown sugar, white sugar, flour, eggs, milk and vanilla. beat until smooth. mix in the melted butter. pour filling into pie crust. bake in the preheated oven for 35 to 40 minutes, or until filling is set.",
+        "combined_text": "brown sugar pie ii chess pie chess pie 1 cup brown sugar ½ cup white sugar 1 teaspoon all-purpose flour 2 eggs 2 tablespoons milk 1 teaspoon vanilla extract ½ cup melted butter preheat oven to 325 degrees f (165 degrees c.) in a large bowl, combine brown sugar, white sugar, flour, eggs, milk and vanilla. beat until smooth. mix in the melted butter. pour filling into pie crust. bake in the preheated oven for 35 to 40 minutes, or until filling is set.",
+        "ingredients_raw": [
+            "1 cup brown sugar",
+            "½ cup white sugar",
+            "1 teaspoon all-purpose flour",
+            "2 eggs",
+            "2 tablespoons milk",
+            "1 teaspoon vanilla extract",
+            "½ cup melted butter"
+        ],
+        "directions_raw": [
+            "Preheat oven to 325 degrees F (165 degrees C.)",
+            "In a large bowl, combine brown sugar, white sugar, flour, eggs, milk and vanilla. Beat until smooth. Mix in the melted butter. Pour filling into pie crust.",
+            "Bake in the preheated oven for 35 to 40 minutes, or until filling is set."
+        ],
+        "ingredients_canonical": [
+            "brown sugar",
+            "½ white sugar",
+            "all-purpose flour",
+            "eggs",
+            "milk",
+            "vanilla extract",
+            "½ melted butter"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Southern Pecan Pie II",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "I received this recipe from my friend Joyce three years ago, she in turn got it from a elderly southern lady. It is a real classic Southern style pecan pie and is very pretty too!",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "3 tablespoons white sugar",
+            "½ teaspoon salt",
+            "½ cup butter, chilled and diced",
+            "1 egg yolk",
+            "3 tablespoons ice water",
+            "1 ½ cups pecan halves",
+            "3 eggs",
+            "1 cup light corn syrup",
+            "¾ cup white sugar",
+            "2 tablespoons all-purpose flour",
+            "3 tablespoons milk",
+            "3 tablespoons butter, melted",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "In a large bowl, combine 1 1/2 cups flour, 3 tablespoons sugar and salt. Cut in butter until mixture resembles coarse crumbs. Mix yolk with water and stir in until mixture forms a ball. Wrap in plastic and refrigerate for 1 hour or overnight. Roll out and place in a 9 inch pie plate.",
+            "Preheat oven to 450 degrees F (230 degrees C.)",
+            "Place pecans in the bottom of pie crust. In a large bowl, Stir together 3/4 cup of sugar and flour. Mix in the eggs, corn syrup, milk, melted butter and vanilla. Blend well and pour over pecans in crust.",
+            "Bake in the preheated oven for 10 minutes. Reduce temperature to 350 degrees F (175 degrees C) and bake for 40 to 50 minutes, or until golden brown and filling is set."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 4,
+        "ingredient_text": "½ all-purpose flour white sugar ½ salt ½ butter chilled diced egg yolk ice water ½ pecan halves eggs light corn syrup ¾ white sugar all-purpose flour milk butter melted vanilla extract",
+        "directions_text": "in a large bowl, combine 1 1/2 cups flour, 3 tablespoons sugar and salt. cut in butter until mixture resembles coarse crumbs. mix yolk with water and stir in until mixture forms a ball. wrap in plastic and refrigerate for 1 hour or overnight. roll out and place in a 9 inch pie plate. preheat oven to 450 degrees f (230 degrees c.) place pecans in the bottom of pie crust. in a large bowl, stir together 3/4 cup of sugar and flour. mix in the eggs, corn syrup, milk, melted butter and vanilla. blend well and pour over pecans in crust. bake in the preheated oven for 10 minutes. reduce temperature to 350 degrees f (175 degrees c) and bake for 40 to 50 minutes, or until golden brown and filling is set.",
+        "combined_text": "southern pecan pie ii chess pie chess pie 1 ½ cups all-purpose flour 3 tablespoons white sugar ½ teaspoon salt ½ cup butter, chilled and diced 1 egg yolk 3 tablespoons ice water 1 ½ cups pecan halves 3 eggs 1 cup light corn syrup ¾ cup white sugar 2 tablespoons all-purpose flour 3 tablespoons milk 3 tablespoons butter, melted 1 teaspoon vanilla extract in a large bowl, combine 1 1/2 cups flour, 3 tablespoons sugar and salt. cut in butter until mixture resembles coarse crumbs. mix yolk with water and stir in until mixture forms a ball. wrap in plastic and refrigerate for 1 hour or overnight. roll out and place in a 9 inch pie plate. preheat oven to 450 degrees f (230 degrees c.) place pecans in the bottom of pie crust. in a large bowl, stir together 3/4 cup of sugar and flour. mix in the eggs, corn syrup, milk, melted butter and vanilla. blend well and pour over pecans in crust. bake in the preheated oven for 10 minutes. reduce temperature to 350 degrees f (175 degrees c) and bake for 40 to 50 minutes, or until golden brown and filling is set.",
+        "ingredients_raw": [
+            "1 ½ cups all-purpose flour",
+            "3 tablespoons white sugar",
+            "½ teaspoon salt",
+            "½ cup butter, chilled and diced",
+            "1 egg yolk",
+            "3 tablespoons ice water",
+            "1 ½ cups pecan halves",
+            "3 eggs",
+            "1 cup light corn syrup",
+            "¾ cup white sugar",
+            "2 tablespoons all-purpose flour",
+            "3 tablespoons milk",
+            "3 tablespoons butter, melted",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "In a large bowl, combine 1 1/2 cups flour, 3 tablespoons sugar and salt. Cut in butter until mixture resembles coarse crumbs. Mix yolk with water and stir in until mixture forms a ball. Wrap in plastic and refrigerate for 1 hour or overnight. Roll out and place in a 9 inch pie plate.",
+            "Preheat oven to 450 degrees F (230 degrees C.)",
+            "Place pecans in the bottom of pie crust. In a large bowl, Stir together 3/4 cup of sugar and flour. Mix in the eggs, corn syrup, milk, melted butter and vanilla. Blend well and pour over pecans in crust.",
+            "Bake in the preheated oven for 10 minutes. Reduce temperature to 350 degrees F (175 degrees C) and bake for 40 to 50 minutes, or until golden brown and filling is set."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "white sugar",
+            "½ salt",
+            "½ butter chilled diced",
+            "egg yolk",
+            "ice water",
+            "½ pecan halves",
+            "eggs",
+            "light corn syrup",
+            "¾ white sugar",
+            "all-purpose flour",
+            "milk",
+            "butter melted",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 4,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 75,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Maple Walnut Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This might be the one you're looking for. It's easy, sweet and delicious!!!",
+        "ingredients": [
+            "1 (9 inch) unbaked pie crust",
+            "½ cup brown sugar",
+            "2 tablespoons all-purpose flour",
+            "1 ¼ cups maple syrup",
+            "3 tablespoons butter",
+            "¼ teaspoon salt",
+            "3 eggs",
+            "1 ½ teaspoons maple flavored extract",
+            "1 cup walnut halves"
+        ],
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C.)",
+            "In a saucepan, Mix brown sugar and flour. Add maple syrup, butter and salt. Heat until butter melts, stirring constantly.",
+            "In a medium bowl, beat eggs with maple flavoring. Stir in sugar mixture. Pour into unbaked pie shell and sprinkle with walnuts.",
+            "Bake in the preheated oven for 40 to 45 minutes, or until filling is set."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "inch unbaked pie crust ½ brown sugar all-purpose flour ¼ maple syrup butter ¼ salt eggs ½ maple flavored extract walnut halves",
+        "directions_text": "preheat oven to 375 degrees f (190 degrees c.) in a saucepan, mix brown sugar and flour. add maple syrup, butter and salt. heat until butter melts, stirring constantly. in a medium bowl, beat eggs with maple flavoring. stir in sugar mixture. pour into unbaked pie shell and sprinkle with walnuts. bake in the preheated oven for 40 to 45 minutes, or until filling is set.",
+        "combined_text": "maple walnut pie chess pie chess pie 1 (9 inch) unbaked pie crust ½ cup brown sugar 2 tablespoons all-purpose flour 1 ¼ cups maple syrup 3 tablespoons butter ¼ teaspoon salt 3 eggs 1 ½ teaspoons maple flavored extract 1 cup walnut halves preheat oven to 375 degrees f (190 degrees c.) in a saucepan, mix brown sugar and flour. add maple syrup, butter and salt. heat until butter melts, stirring constantly. in a medium bowl, beat eggs with maple flavoring. stir in sugar mixture. pour into unbaked pie shell and sprinkle with walnuts. bake in the preheated oven for 40 to 45 minutes, or until filling is set.",
+        "ingredients_raw": [
+            "1 (9 inch) unbaked pie crust",
+            "½ cup brown sugar",
+            "2 tablespoons all-purpose flour",
+            "1 ¼ cups maple syrup",
+            "3 tablespoons butter",
+            "¼ teaspoon salt",
+            "3 eggs",
+            "1 ½ teaspoons maple flavored extract",
+            "1 cup walnut halves"
+        ],
+        "directions_raw": [
+            "Preheat oven to 375 degrees F (190 degrees C.)",
+            "In a saucepan, Mix brown sugar and flour. Add maple syrup, butter and salt. Heat until butter melts, stirring constantly.",
+            "In a medium bowl, beat eggs with maple flavoring. Stir in sugar mixture. Pour into unbaked pie shell and sprinkle with walnuts.",
+            "Bake in the preheated oven for 40 to 45 minutes, or until filling is set."
+        ],
+        "ingredients_canonical": [
+            "inch unbaked pie crust",
+            "½ brown sugar",
+            "all-purpose flour",
+            "¼ maple syrup",
+            "butter",
+            "¼ salt",
+            "eggs",
+            "½ maple flavored extract",
+            "walnut halves"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Highway Cafe Chess Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "I obtained this recipe 40-years ago from the cook at the Highway Cafe in Scappoose, Oregon. I have never found its equal. Whenever I serve it, I am always asked for the recipe.",
+        "ingredients": [
+            "1 ¼ cups raisins",
+            "1 cup white sugar",
+            "½ cup butter",
+            "3 eggs",
+            "1 teaspoon vanilla extract",
+            "¼ cup sour cream",
+            "1 cup chopped walnuts",
+            "1 (9 inch) pie crust, baked and cooled"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Soak raisins in boiling water for 10 minutes. Drain, and chop.",
+            "In a medium bowl, cream together the sugar and butter until light and fluffy. Beat in the eggs one at a time, mixing well after each one. Stir in the vanilla, sour cream, walnuts and chopped raisins. Pour into the baked pie shell.",
+            "Bake for 30 minutes in the preheated oven, or until firm in the center. Allow to cool completely before slicing."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "¼ raisins white sugar ½ butter eggs vanilla extract ¼ sour cream chopped walnuts inch pie crust baked cooled",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). soak raisins in boiling water for 10 minutes. drain, and chop. in a medium bowl, cream together the sugar and butter until light and fluffy. beat in the eggs one at a time, mixing well after each one. stir in the vanilla, sour cream, walnuts and chopped raisins. pour into the baked pie shell. bake for 30 minutes in the preheated oven, or until firm in the center. allow to cool completely before slicing.",
+        "combined_text": "highway cafe chess pie chess pie chess pie 1 ¼ cups raisins 1 cup white sugar ½ cup butter 3 eggs 1 teaspoon vanilla extract ¼ cup sour cream 1 cup chopped walnuts 1 (9 inch) pie crust, baked and cooled preheat the oven to 325 degrees f (165 degrees c). soak raisins in boiling water for 10 minutes. drain, and chop. in a medium bowl, cream together the sugar and butter until light and fluffy. beat in the eggs one at a time, mixing well after each one. stir in the vanilla, sour cream, walnuts and chopped raisins. pour into the baked pie shell. bake for 30 minutes in the preheated oven, or until firm in the center. allow to cool completely before slicing.",
+        "ingredients_raw": [
+            "1 ¼ cups raisins",
+            "1 cup white sugar",
+            "½ cup butter",
+            "3 eggs",
+            "1 teaspoon vanilla extract",
+            "¼ cup sour cream",
+            "1 cup chopped walnuts",
+            "1 (9 inch) pie crust, baked and cooled"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Soak raisins in boiling water for 10 minutes. Drain, and chop.",
+            "In a medium bowl, cream together the sugar and butter until light and fluffy. Beat in the eggs one at a time, mixing well after each one. Stir in the vanilla, sour cream, walnuts and chopped raisins. Pour into the baked pie shell.",
+            "Bake for 30 minutes in the preheated oven, or until firm in the center. Allow to cool completely before slicing."
+        ],
+        "ingredients_canonical": [
+            "¼ raisins",
+            "white sugar",
+            "½ butter",
+            "eggs",
+            "vanilla extract",
+            "¼ sour cream",
+            "chopped walnuts",
+            "inch pie crust baked cooled"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheryl's Lemon Chess Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "A true Southern favorite, this is a wonderful chess pie with the tart taste of lemon. My great grandmother gave me this recipe and I make it every year for the holidays. This pie must be refrigerated.",
+        "ingredients": [
+            "1 refrigerated pie crust (such as Pillsbury®)",
+            "4 extra large eggs",
+            "2 small lemons, juiced",
+            "2 cups white sugar",
+            "½ cup unsalted butter, at room temperature",
+            "½ cup whole milk",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons corn muffin mix (such as Jiffy®)",
+            "¼ teaspoon salt"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Let pie crust come to room temperature for 10 minutes.",
+            "Unroll crust gently onto a floured surface. Use a rolling pin to gently flatten and smooth out the crust; do not press too hard. Gently transfer crust into a 9x5/8-inch glass deep-dish pie plate. Make sure the crust is sitting flat on the bottom of the plate. Gently form the sides and pinch the top edge to form the crust; do not stretch. Place in a refrigerator.",
+            "Beat eggs and lemon juice with an electric mixer until fluffy. Mix sugar and butter together in another bowl until creamy. Add to egg mixture and beat until mixed, for 1 minute. Add milk, flour, corn muffin mix, and salt; beat until just blended. Pour into the prepared pie crust.",
+            "Bake in the preheated oven until center is slightly browned, set, and does not wiggle, 50 to 60 minutes. Place on a wire rack until completely cool, 20 to 30 minutes. Refrigerate for at least 2 hours."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "refrigerated pie crust such as pillsbury extra large eggs small lemons juiced white sugar ½ unsalted butter at room temperature ½ whole milk all-purpose flour corn muffin mix such as jiffy ¼ salt",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). let pie crust come to room temperature for 10 minutes. unroll crust gently onto a floured surface. use a rolling pin to gently flatten and smooth out the crust; do not press too hard. gently transfer crust into a 9x5/8-inch glass deep-dish pie plate. make sure the crust is sitting flat on the bottom of the plate. gently form the sides and pinch the top edge to form the crust; do not stretch. place in a refrigerator. beat eggs and lemon juice with an electric mixer until fluffy. mix sugar and butter together in another bowl until creamy. add to egg mixture and beat until mixed, for 1 minute. add milk, flour, corn muffin mix, and salt; beat until just blended. pour into the prepared pie crust. bake in the preheated oven until center is slightly browned, set, and does not wiggle, 50 to 60 minutes. place on a wire rack until completely cool, 20 to 30 minutes. refrigerate for at least 2 hours.",
+        "combined_text": "cheryl's lemon chess pie chess pie chess pie 1 refrigerated pie crust (such as pillsbury®) 4 extra large eggs 2 small lemons, juiced 2 cups white sugar ½ cup unsalted butter, at room temperature ½ cup whole milk 2 tablespoons all-purpose flour 2 tablespoons corn muffin mix (such as jiffy®) ¼ teaspoon salt preheat the oven to 350 degrees f (175 degrees c). let pie crust come to room temperature for 10 minutes. unroll crust gently onto a floured surface. use a rolling pin to gently flatten and smooth out the crust; do not press too hard. gently transfer crust into a 9x5/8-inch glass deep-dish pie plate. make sure the crust is sitting flat on the bottom of the plate. gently form the sides and pinch the top edge to form the crust; do not stretch. place in a refrigerator. beat eggs and lemon juice with an electric mixer until fluffy. mix sugar and butter together in another bowl until creamy. add to egg mixture and beat until mixed, for 1 minute. add milk, flour, corn muffin mix, and salt; beat until just blended. pour into the prepared pie crust. bake in the preheated oven until center is slightly browned, set, and does not wiggle, 50 to 60 minutes. place on a wire rack until completely cool, 20 to 30 minutes. refrigerate for at least 2 hours.",
+        "ingredients_raw": [
+            "1 refrigerated pie crust (such as Pillsbury®)",
+            "4 extra large eggs",
+            "2 small lemons, juiced",
+            "2 cups white sugar",
+            "½ cup unsalted butter, at room temperature",
+            "½ cup whole milk",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons corn muffin mix (such as Jiffy®)",
+            "¼ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Let pie crust come to room temperature for 10 minutes.",
+            "Unroll crust gently onto a floured surface. Use a rolling pin to gently flatten and smooth out the crust; do not press too hard. Gently transfer crust into a 9x5/8-inch glass deep-dish pie plate. Make sure the crust is sitting flat on the bottom of the plate. Gently form the sides and pinch the top edge to form the crust; do not stretch. Place in a refrigerator.",
+            "Beat eggs and lemon juice with an electric mixer until fluffy. Mix sugar and butter together in another bowl until creamy. Add to egg mixture and beat until mixed, for 1 minute. Add milk, flour, corn muffin mix, and salt; beat until just blended. Pour into the prepared pie crust.",
+            "Bake in the preheated oven until center is slightly browned, set, and does not wiggle, 50 to 60 minutes. Place on a wire rack until completely cool, 20 to 30 minutes. Refrigerate for at least 2 hours."
+        ],
+        "ingredients_canonical": [
+            "refrigerated pie crust such as pillsbury",
+            "extra large eggs",
+            "small lemons juiced",
+            "white sugar",
+            "½ unsalted butter at room temperature",
+            "½ whole milk",
+            "all-purpose flour",
+            "corn muffin mix such as jiffy",
+            "¼ salt"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "breakfast",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 61,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lemon Chess Pie I",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "The recipe has been handed down in the family, and temperatures were for a wood stove. I've adjusted them over the years, and it seems to work fine!",
+        "ingredients": [
+            "4 eggs",
+            "1 ½ cups white sugar",
+            "2 tablespoons white cornmeal",
+            "¼ cup butter, melted",
+            "½ cup milk",
+            "2 lemons, juiced",
+            "1 recipe pastry for a 9 inch single crust pie"
+        ],
+        "directions": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Combine eggs, sugar, cornmeal, melted butter, milk, and lemon juice in a large bowl. Mix until sugar is dissolved, but do not beat. Pour filling into unbaked pie shell.",
+            "Bake at 425 degrees F (220 degrees C) for 10 minutes. Reduce temperature to 350 degrees F (175 degrees C), and continue to bake until set, about 45 minutes more. Serve at room temperature."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "eggs ½ white sugar white cornmeal ¼ butter melted ½ milk lemons juiced recipe pastry for a inch single crust pie",
+        "directions_text": "preheat oven to 425 degrees f (220 degrees c). combine eggs, sugar, cornmeal, melted butter, milk, and lemon juice in a large bowl. mix until sugar is dissolved, but do not beat. pour filling into unbaked pie shell. bake at 425 degrees f (220 degrees c) for 10 minutes. reduce temperature to 350 degrees f (175 degrees c), and continue to bake until set, about 45 minutes more. serve at room temperature.",
+        "combined_text": "lemon chess pie i chess pie chess pie 4 eggs 1 ½ cups white sugar 2 tablespoons white cornmeal ¼ cup butter, melted ½ cup milk 2 lemons, juiced 1 recipe pastry for a 9 inch single crust pie preheat oven to 425 degrees f (220 degrees c). combine eggs, sugar, cornmeal, melted butter, milk, and lemon juice in a large bowl. mix until sugar is dissolved, but do not beat. pour filling into unbaked pie shell. bake at 425 degrees f (220 degrees c) for 10 minutes. reduce temperature to 350 degrees f (175 degrees c), and continue to bake until set, about 45 minutes more. serve at room temperature.",
+        "ingredients_raw": [
+            "4 eggs",
+            "1 ½ cups white sugar",
+            "2 tablespoons white cornmeal",
+            "¼ cup butter, melted",
+            "½ cup milk",
+            "2 lemons, juiced",
+            "1 recipe pastry for a 9 inch single crust pie"
+        ],
+        "directions_raw": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Combine eggs, sugar, cornmeal, melted butter, milk, and lemon juice in a large bowl. Mix until sugar is dissolved, but do not beat. Pour filling into unbaked pie shell.",
+            "Bake at 425 degrees F (220 degrees C) for 10 minutes. Reduce temperature to 350 degrees F (175 degrees C), and continue to bake until set, about 45 minutes more. Serve at room temperature."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "½ white sugar",
+            "white cornmeal",
+            "¼ butter melted",
+            "½ milk",
+            "lemons juiced",
+            "recipe pastry for a inch single crust pie"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 45,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Buttermilk Pie with Whiskey and Almonds",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This chocolate buttermilk pie with whiskey and almonds is reminiscent of an old-fashioned chess pie. The whiskey and dark cocoa give it an added kick and the crunch from the almonds adds texture.",
+        "ingredients": [
+            "1 pastry for a 9-inch pie crust",
+            "1 cup white sugar",
+            "½ cup light brown sugar",
+            "¼ cup all-purpose flour",
+            "2 ½ tablespoons dark cocoa powder",
+            "1 ½ tablespoons cornmeal",
+            "½ teaspoon salt",
+            "3 large eggs",
+            "½ cup buttermilk",
+            "½ cup butter, melted",
+            "¼ cup whiskey",
+            "1 teaspoon vanilla bean paste",
+            "¾ cup toasted sliced almonds"
+        ],
+        "directions": [
+            "Place pastry crust in a pie plate. Refrigerate for 20 to 30 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine white sugar, brown sugar, flour, cocoa powder, cornmeal, and salt in a small bowl.",
+            "Whisk eggs, buttermilk, butter, whiskey, and vanilla paste together in a large bowl. Add sugar mixture and blend until smooth. Stir in almonds by hand until incorporated. Pour mixture into the chilled pastry crust.",
+            "Bake in the preheated oven until crust is golden and center is set, 50 to 60 minutes. Transfer pie to a wire rack and cool to room temperature before serving."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 5,
+        "ingredient_text": "pastry for a -inch pie crust white sugar ½ light brown sugar ¼ all-purpose flour ½ dark cocoa powder ½ cornmeal ½ salt large eggs ½ buttermilk ½ butter melted ¼ whiskey vanilla bean paste ¾ toasted sliced almonds",
+        "directions_text": "place pastry crust in a pie plate. refrigerate for 20 to 30 minutes. preheat the oven to 350 degrees f (175 degrees c). combine white sugar, brown sugar, flour, cocoa powder, cornmeal, and salt in a small bowl. whisk eggs, buttermilk, butter, whiskey, and vanilla paste together in a large bowl. add sugar mixture and blend until smooth. stir in almonds by hand until incorporated. pour mixture into the chilled pastry crust. bake in the preheated oven until crust is golden and center is set, 50 to 60 minutes. transfer pie to a wire rack and cool to room temperature before serving.",
+        "combined_text": "chocolate buttermilk pie with whiskey and almonds chess pie chess pie 1 pastry for a 9-inch pie crust 1 cup white sugar ½ cup light brown sugar ¼ cup all-purpose flour 2 ½ tablespoons dark cocoa powder 1 ½ tablespoons cornmeal ½ teaspoon salt 3 large eggs ½ cup buttermilk ½ cup butter, melted ¼ cup whiskey 1 teaspoon vanilla bean paste ¾ cup toasted sliced almonds place pastry crust in a pie plate. refrigerate for 20 to 30 minutes. preheat the oven to 350 degrees f (175 degrees c). combine white sugar, brown sugar, flour, cocoa powder, cornmeal, and salt in a small bowl. whisk eggs, buttermilk, butter, whiskey, and vanilla paste together in a large bowl. add sugar mixture and blend until smooth. stir in almonds by hand until incorporated. pour mixture into the chilled pastry crust. bake in the preheated oven until crust is golden and center is set, 50 to 60 minutes. transfer pie to a wire rack and cool to room temperature before serving.",
+        "ingredients_raw": [
+            "1 pastry for a 9-inch pie crust",
+            "1 cup white sugar",
+            "½ cup light brown sugar",
+            "¼ cup all-purpose flour",
+            "2 ½ tablespoons dark cocoa powder",
+            "1 ½ tablespoons cornmeal",
+            "½ teaspoon salt",
+            "3 large eggs",
+            "½ cup buttermilk",
+            "½ cup butter, melted",
+            "¼ cup whiskey",
+            "1 teaspoon vanilla bean paste",
+            "¾ cup toasted sliced almonds"
+        ],
+        "directions_raw": [
+            "Place pastry crust in a pie plate. Refrigerate for 20 to 30 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine white sugar, brown sugar, flour, cocoa powder, cornmeal, and salt in a small bowl.",
+            "Whisk eggs, buttermilk, butter, whiskey, and vanilla paste together in a large bowl. Add sugar mixture and blend until smooth. Stir in almonds by hand until incorporated. Pour mixture into the chilled pastry crust.",
+            "Bake in the preheated oven until crust is golden and center is set, 50 to 60 minutes. Transfer pie to a wire rack and cool to room temperature before serving."
+        ],
+        "ingredients_canonical": [
+            "pastry for a -inch pie crust",
+            "white sugar",
+            "½ light brown sugar",
+            "¼ all-purpose flour",
+            "½ dark cocoa powder",
+            "½ cornmeal",
+            "½ salt",
+            "large eggs",
+            "½ buttermilk",
+            "½ butter melted",
+            "¼ whiskey",
+            "vanilla bean paste",
+            "¾ toasted sliced almonds"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 44,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Chess Pie III",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "It's grandma's chocolate pie that's good to the last piece. Serve with whipped cream, if desired.",
+        "ingredients": [
+            "1 ¾ cups white sugar",
+            "⅓ cup unsweetened cocoa powder",
+            "1 ¼ cups melted butter",
+            "4 eggs, beaten",
+            "¼ cup evaporated milk",
+            "1 teaspoon vanilla extract",
+            "2 (9 inch) unbaked pie crusts"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C.)",
+            "In a large bowl, combine sugar, cocoa and melted butter. Beat until smooth. Beat in eggs, milk and vanilla. Pour filling into pie shells.",
+            "Bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "¾ white sugar ⅓ unsweetened cocoa powder ¼ melted butter eggs beaten ¼ evaporated milk vanilla extract inch unbaked pie crusts",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c.) in a large bowl, combine sugar, cocoa and melted butter. beat until smooth. beat in eggs, milk and vanilla. pour filling into pie shells. bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set.",
+        "combined_text": "chocolate chess pie iii chess pie chess pie 1 ¾ cups white sugar ⅓ cup unsweetened cocoa powder 1 ¼ cups melted butter 4 eggs, beaten ¼ cup evaporated milk 1 teaspoon vanilla extract 2 (9 inch) unbaked pie crusts preheat oven to 350 degrees f (175 degrees c.) in a large bowl, combine sugar, cocoa and melted butter. beat until smooth. beat in eggs, milk and vanilla. pour filling into pie shells. bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set.",
+        "ingredients_raw": [
+            "1 ¾ cups white sugar",
+            "⅓ cup unsweetened cocoa powder",
+            "1 ¼ cups melted butter",
+            "4 eggs, beaten",
+            "¼ cup evaporated milk",
+            "1 teaspoon vanilla extract",
+            "2 (9 inch) unbaked pie crusts"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C.)",
+            "In a large bowl, combine sugar, cocoa and melted butter. Beat until smooth. Beat in eggs, milk and vanilla. Pour filling into pie shells.",
+            "Bake in the preheated oven for 35 to 40 minutes, or until golden brown and filling is set."
+        ],
+        "ingredients_canonical": [
+            "¾ white sugar",
+            "⅓ unsweetened cocoa powder",
+            "¼ melted butter",
+            "eggs beaten",
+            "¼ evaporated milk",
+            "vanilla extract",
+            "inch unbaked pie crusts"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Maple Chess Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "I was in the middle of making a Chess pie and realized I was out of vanilla extract. I substituted some maple extract I had on hand, added some pecans and the result was delicious. This pie is decadent and rich, so fortunately a small slice will do. I think this would be a great pie for Thanksgiving. Top with sweetened whipped cream or whipped topping if desired.",
+        "ingredients": [
+            "1 (9 inch) unbaked pie crust",
+            "½ cup butter or margarine, softened",
+            "1 ½ cups white sugar",
+            "3 eggs",
+            "1 tablespoon yellow cornmeal",
+            "1 tablespoon white vinegar",
+            "1 teaspoon maple extract",
+            "⅝ cup chopped pecans"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Press the pie crust into the bottom and up the sides of a 9 inch deep dish pie plate.",
+            "In a medium bowl, beat the butter, sugar, and eggs until light and fluffy. Stir in the cornmeal, vinegar, and maple extract until well blended. Fold in pecans so they are evenly distributed. Pour into the unbaked pie crust.",
+            "Bake for 10 minutes in the preheated oven, then reduce the heat to 350 degrees F (175 degrees C). Bake for 30 additional minutes, or until the top of the pie is golden brown, and the filling is set. When removing the pie from the oven, give it a gentle shake. If there is no movement, the pie is set. The pie will thicken and shrink slightly upon cooling."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "inch unbaked pie crust ½ butter margarine softened ½ white sugar eggs yellow cornmeal white vinegar maple extract ⅝ chopped pecans",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). press the pie crust into the bottom and up the sides of a 9 inch deep dish pie plate. in a medium bowl, beat the butter, sugar, and eggs until light and fluffy. stir in the cornmeal, vinegar, and maple extract until well blended. fold in pecans so they are evenly distributed. pour into the unbaked pie crust. bake for 10 minutes in the preheated oven, then reduce the heat to 350 degrees f (175 degrees c). bake for 30 additional minutes, or until the top of the pie is golden brown, and the filling is set. when removing the pie from the oven, give it a gentle shake. if there is no movement, the pie is set. the pie will thicken and shrink slightly upon cooling.",
+        "combined_text": "maple chess pie chess pie chess pie 1 (9 inch) unbaked pie crust ½ cup butter or margarine, softened 1 ½ cups white sugar 3 eggs 1 tablespoon yellow cornmeal 1 tablespoon white vinegar 1 teaspoon maple extract ⅝ cup chopped pecans preheat the oven to 425 degrees f (220 degrees c). press the pie crust into the bottom and up the sides of a 9 inch deep dish pie plate. in a medium bowl, beat the butter, sugar, and eggs until light and fluffy. stir in the cornmeal, vinegar, and maple extract until well blended. fold in pecans so they are evenly distributed. pour into the unbaked pie crust. bake for 10 minutes in the preheated oven, then reduce the heat to 350 degrees f (175 degrees c). bake for 30 additional minutes, or until the top of the pie is golden brown, and the filling is set. when removing the pie from the oven, give it a gentle shake. if there is no movement, the pie is set. the pie will thicken and shrink slightly upon cooling.",
+        "ingredients_raw": [
+            "1 (9 inch) unbaked pie crust",
+            "½ cup butter or margarine, softened",
+            "1 ½ cups white sugar",
+            "3 eggs",
+            "1 tablespoon yellow cornmeal",
+            "1 tablespoon white vinegar",
+            "1 teaspoon maple extract",
+            "⅝ cup chopped pecans"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Press the pie crust into the bottom and up the sides of a 9 inch deep dish pie plate.",
+            "In a medium bowl, beat the butter, sugar, and eggs until light and fluffy. Stir in the cornmeal, vinegar, and maple extract until well blended. Fold in pecans so they are evenly distributed. Pour into the unbaked pie crust.",
+            "Bake for 10 minutes in the preheated oven, then reduce the heat to 350 degrees F (175 degrees C). Bake for 30 additional minutes, or until the top of the pie is golden brown, and the filling is set. When removing the pie from the oven, give it a gentle shake. If there is no movement, the pie is set. The pie will thicken and shrink slightly upon cooling."
+        ],
+        "ingredients_canonical": [
+            "inch unbaked pie crust",
+            "½ butter margarine softened",
+            "½ white sugar",
+            "eggs",
+            "yellow cornmeal",
+            "white vinegar",
+            "maple extract",
+            "⅝ chopped pecans"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 50,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pecan Pie VI",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This recipe has been requested every time I bring this pie to a gathering. Top with whipped cream if desired.",
+        "ingredients": [
+            "1 (9 inch) unbaked pie crust",
+            "4 tablespoons butter",
+            "½ cup brown sugar",
+            "1 cup light corn syrup",
+            "3 eggs",
+            "⅛ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "1 cup coarsely chopped pecans"
+        ],
+        "directions": [
+            "Preheat oven to 450 degrees F (230 degrees C.)",
+            "In a large bowl, cream the butter and brown sugar. Beat in the corn syrup, eggs, salt and vanilla. Stir in the chopped pecans. Pour filling into pie shell.",
+            "Bake in the preheated oven for 10 minutes. Reduce temperature to 325 degrees F (165 degrees C) and bake for 30 to 40 minutes, or until golden brown."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "inch unbaked pie crust butter ½ brown sugar light corn syrup eggs ⅛ salt vanilla extract coarsely chopped pecans",
+        "directions_text": "preheat oven to 450 degrees f (230 degrees c.) in a large bowl, cream the butter and brown sugar. beat in the corn syrup, eggs, salt and vanilla. stir in the chopped pecans. pour filling into pie shell. bake in the preheated oven for 10 minutes. reduce temperature to 325 degrees f (165 degrees c) and bake for 30 to 40 minutes, or until golden brown.",
+        "combined_text": "pecan pie vi chess pie chess pie 1 (9 inch) unbaked pie crust 4 tablespoons butter ½ cup brown sugar 1 cup light corn syrup 3 eggs ⅛ teaspoon salt 1 teaspoon vanilla extract 1 cup coarsely chopped pecans preheat oven to 450 degrees f (230 degrees c.) in a large bowl, cream the butter and brown sugar. beat in the corn syrup, eggs, salt and vanilla. stir in the chopped pecans. pour filling into pie shell. bake in the preheated oven for 10 minutes. reduce temperature to 325 degrees f (165 degrees c) and bake for 30 to 40 minutes, or until golden brown.",
+        "ingredients_raw": [
+            "1 (9 inch) unbaked pie crust",
+            "4 tablespoons butter",
+            "½ cup brown sugar",
+            "1 cup light corn syrup",
+            "3 eggs",
+            "⅛ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "1 cup coarsely chopped pecans"
+        ],
+        "directions_raw": [
+            "Preheat oven to 450 degrees F (230 degrees C.)",
+            "In a large bowl, cream the butter and brown sugar. Beat in the corn syrup, eggs, salt and vanilla. Stir in the chopped pecans. Pour filling into pie shell.",
+            "Bake in the preheated oven for 10 minutes. Reduce temperature to 325 degrees F (165 degrees C) and bake for 30 to 40 minutes, or until golden brown."
+        ],
+        "ingredients_canonical": [
+            "inch unbaked pie crust",
+            "butter",
+            "½ brown sugar",
+            "light corn syrup",
+            "eggs",
+            "⅛ salt",
+            "vanilla extract",
+            "coarsely chopped pecans"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 45,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Sugar Pie IV",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "Sugar pie made with brown sugar, cream and pecans.",
+        "ingredients": [
+            "2 cups brown sugar",
+            "1 ¼ cups all-purpose flour",
+            "½ cup heavy cream",
+            "1 egg",
+            "1 tablespoon corn syrup",
+            "1 teaspoon vanilla extract",
+            "¾ cup chopped pecans",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). In a medium bowl, mix together brown sugar and flour; set aside.",
+            "In a large bowl, whisk together the cream, egg, corn syrup and vanilla. Stir in brown sugar mixture until blended. Fold in the pecans.",
+            "Pour filling into pie crust. Bake in preheated oven for 30 to 40 minutes, or until golden brown."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "brown sugar ¼ all-purpose flour ½ heavy cream egg corn syrup vanilla extract ¾ chopped pecans inch unbaked pie crust",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). in a medium bowl, mix together brown sugar and flour; set aside. in a large bowl, whisk together the cream, egg, corn syrup and vanilla. stir in brown sugar mixture until blended. fold in the pecans. pour filling into pie crust. bake in preheated oven for 30 to 40 minutes, or until golden brown.",
+        "combined_text": "sugar pie iv chess pie chess pie 2 cups brown sugar 1 ¼ cups all-purpose flour ½ cup heavy cream 1 egg 1 tablespoon corn syrup 1 teaspoon vanilla extract ¾ cup chopped pecans 1 (9 inch) unbaked pie crust preheat oven to 350 degrees f (175 degrees c). in a medium bowl, mix together brown sugar and flour; set aside. in a large bowl, whisk together the cream, egg, corn syrup and vanilla. stir in brown sugar mixture until blended. fold in the pecans. pour filling into pie crust. bake in preheated oven for 30 to 40 minutes, or until golden brown.",
+        "ingredients_raw": [
+            "2 cups brown sugar",
+            "1 ¼ cups all-purpose flour",
+            "½ cup heavy cream",
+            "1 egg",
+            "1 tablespoon corn syrup",
+            "1 teaspoon vanilla extract",
+            "¾ cup chopped pecans",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). In a medium bowl, mix together brown sugar and flour; set aside.",
+            "In a large bowl, whisk together the cream, egg, corn syrup and vanilla. Stir in brown sugar mixture until blended. Fold in the pecans.",
+            "Pour filling into pie crust. Bake in preheated oven for 30 to 40 minutes, or until golden brown."
+        ],
+        "ingredients_canonical": [
+            "brown sugar",
+            "¼ all-purpose flour",
+            "½ heavy cream",
+            "egg",
+            "corn syrup",
+            "vanilla extract",
+            "¾ chopped pecans",
+            "inch unbaked pie crust"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Southern Raisin and Coconut Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This sweet, rich, custardy pie has raisins, nuts, and coconut. A favorite in the Deep South! If you're a big fan of cinnamon, you can add a couple extra teaspoons to the recipe. Garnish each slice of pie with whipped cream and chopped nuts for a delicious and attractive presentation..",
+        "ingredients": [
+            "2 (9 inch) pie shells, partially baked",
+            "1 ½ cups raisins",
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "6 eggs",
+            "2 teaspoons vanilla extract",
+            "2 teaspoons ground cinnamon",
+            "1 cup chopped walnuts",
+            "1 cup shredded coconut"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Place raisins in a small saucepan. Pour in enough water to cover. Place over low heat and bring to a boil. Remove from heat and set aside.",
+            "In a large mixing bowl, cream together butter, white sugar, and brown sugar. Beat in eggs, vanilla extract, and cinnamon. Mix until smooth. Drain excess water from raisins. Fold into mixture along with nuts and coconut. Mixture will appear curdled. Pour half of mixture into each pastry shell.",
+            "Bake in preheated oven for 30 to 35 minutes, until filling is set. Cool on wire racks. Garnish with whipped topping and chopped nuts if desired."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "inch pie shells partially baked ½ raisins butter softened white sugar packed brown sugar eggs vanilla extract ground cinnamon chopped walnuts shredded coconut",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). place raisins in a small saucepan. pour in enough water to cover. place over low heat and bring to a boil. remove from heat and set aside. in a large mixing bowl, cream together butter, white sugar, and brown sugar. beat in eggs, vanilla extract, and cinnamon. mix until smooth. drain excess water from raisins. fold into mixture along with nuts and coconut. mixture will appear curdled. pour half of mixture into each pastry shell. bake in preheated oven for 30 to 35 minutes, until filling is set. cool on wire racks. garnish with whipped topping and chopped nuts if desired.",
+        "combined_text": "southern raisin and coconut pie chess pie chess pie 2 (9 inch) pie shells, partially baked 1 ½ cups raisins 1 cup butter, softened 1 cup white sugar 1 cup packed brown sugar 6 eggs 2 teaspoons vanilla extract 2 teaspoons ground cinnamon 1 cup chopped walnuts 1 cup shredded coconut preheat oven to 350 degrees f (175 degrees c). place raisins in a small saucepan. pour in enough water to cover. place over low heat and bring to a boil. remove from heat and set aside. in a large mixing bowl, cream together butter, white sugar, and brown sugar. beat in eggs, vanilla extract, and cinnamon. mix until smooth. drain excess water from raisins. fold into mixture along with nuts and coconut. mixture will appear curdled. pour half of mixture into each pastry shell. bake in preheated oven for 30 to 35 minutes, until filling is set. cool on wire racks. garnish with whipped topping and chopped nuts if desired.",
+        "ingredients_raw": [
+            "2 (9 inch) pie shells, partially baked",
+            "1 ½ cups raisins",
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "6 eggs",
+            "2 teaspoons vanilla extract",
+            "2 teaspoons ground cinnamon",
+            "1 cup chopped walnuts",
+            "1 cup shredded coconut"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Place raisins in a small saucepan. Pour in enough water to cover. Place over low heat and bring to a boil. Remove from heat and set aside.",
+            "In a large mixing bowl, cream together butter, white sugar, and brown sugar. Beat in eggs, vanilla extract, and cinnamon. Mix until smooth. Drain excess water from raisins. Fold into mixture along with nuts and coconut. Mixture will appear curdled. Pour half of mixture into each pastry shell.",
+            "Bake in preheated oven for 30 to 35 minutes, until filling is set. Cool on wire racks. Garnish with whipped topping and chopped nuts if desired."
+        ],
+        "ingredients_canonical": [
+            "inch pie shells partially baked",
+            "½ raisins",
+            "butter softened",
+            "white sugar",
+            "packed brown sugar",
+            "eggs",
+            "vanilla extract",
+            "ground cinnamon",
+            "chopped walnuts",
+            "shredded coconut"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Colonial Chess Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "I'm a guy that does almost no cooking, but I can bake this. Turns out good every time. Not for someone on a diet, or with sugar problems. A big hit, with the young and old alike!",
+        "ingredients": [
+            "½ cup white sugar",
+            "½ cup light brown sugar",
+            "⅛ cup sifted all-purpose flour",
+            "¼ teaspoon salt",
+            "¼ cup milk",
+            "¼ cup margarine",
+            "1 egg yolk",
+            "1 egg",
+            "½ teaspoon vanilla extract",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "In a saucepan, combine white sugar, brown sugar, flour and salt. Pour in milk and add margarine. Heat, stirring constantly, until sugar dissolves and margarine is melted. Remove from heat and set aside to cool.",
+            "In a large bowl, whisk egg yolk, egg and vanilla until smooth. Whisk in cooled sugar mixture. Pour into pie crust.",
+            "Bake for 25 minutes in the preheated oven, then reduce the temperature to 250 degrees F (120 degrees C) and bake for an additional 25 minutes, or until top is puffed and edges are golden brown. Allow to cool before slicing."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "½ white sugar ½ light brown sugar ⅛ sifted all-purpose flour ¼ salt ¼ milk ¼ margarine egg yolk egg ½ vanilla extract inch unbaked pie crust",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). in a saucepan, combine white sugar, brown sugar, flour and salt. pour in milk and add margarine. heat, stirring constantly, until sugar dissolves and margarine is melted. remove from heat and set aside to cool. in a large bowl, whisk egg yolk, egg and vanilla until smooth. whisk in cooled sugar mixture. pour into pie crust. bake for 25 minutes in the preheated oven, then reduce the temperature to 250 degrees f (120 degrees c) and bake for an additional 25 minutes, or until top is puffed and edges are golden brown. allow to cool before slicing.",
+        "combined_text": "colonial chess pie chess pie chess pie ½ cup white sugar ½ cup light brown sugar ⅛ cup sifted all-purpose flour ¼ teaspoon salt ¼ cup milk ¼ cup margarine 1 egg yolk 1 egg ½ teaspoon vanilla extract 1 (9 inch) unbaked pie crust preheat the oven to 350 degrees f (175 degrees c). in a saucepan, combine white sugar, brown sugar, flour and salt. pour in milk and add margarine. heat, stirring constantly, until sugar dissolves and margarine is melted. remove from heat and set aside to cool. in a large bowl, whisk egg yolk, egg and vanilla until smooth. whisk in cooled sugar mixture. pour into pie crust. bake for 25 minutes in the preheated oven, then reduce the temperature to 250 degrees f (120 degrees c) and bake for an additional 25 minutes, or until top is puffed and edges are golden brown. allow to cool before slicing.",
+        "ingredients_raw": [
+            "½ cup white sugar",
+            "½ cup light brown sugar",
+            "⅛ cup sifted all-purpose flour",
+            "¼ teaspoon salt",
+            "¼ cup milk",
+            "¼ cup margarine",
+            "1 egg yolk",
+            "1 egg",
+            "½ teaspoon vanilla extract",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "In a saucepan, combine white sugar, brown sugar, flour and salt. Pour in milk and add margarine. Heat, stirring constantly, until sugar dissolves and margarine is melted. Remove from heat and set aside to cool.",
+            "In a large bowl, whisk egg yolk, egg and vanilla until smooth. Whisk in cooled sugar mixture. Pour into pie crust.",
+            "Bake for 25 minutes in the preheated oven, then reduce the temperature to 250 degrees F (120 degrees C) and bake for an additional 25 minutes, or until top is puffed and edges are golden brown. Allow to cool before slicing."
+        ],
+        "ingredients_canonical": [
+            "½ white sugar",
+            "½ light brown sugar",
+            "⅛ sifted all-purpose flour",
+            "¼ salt",
+            "¼ milk",
+            "¼ margarine",
+            "egg yolk",
+            "egg",
+            "½ vanilla extract",
+            "inch unbaked pie crust"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 58,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Run For The Roses Pie",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This \"Run for the Roses\" pie recipe is a true Kentucky favorite, combining semisweet chocolate with walnuts for a truly decadent experience. Serve it with ice cream if desired.",
+        "ingredients": [
+            "1 cup brown sugar",
+            "⅓ cup light corn syrup",
+            "⅓ cup unsulfured molasses",
+            "3 tablespoons butter",
+            "3 tablespoons bourbon",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "4 large eggs",
+            "3 tablespoons half-and-half",
+            "2 cups chopped walnuts",
+            "⅓ cup semisweet chocolate chips",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine brown sugar, corn syrup, molasses, butter, bourbon, vanilla extract, and salt in a large, heavy saucepan; bring to a boil, stirring frequently. Continue to boil for 1 minute, stirring constantly. Cool.",
+            "Beat eggs and half-and-half together in a medium bowl until blended; stir into cooled syrup mixture until combined. Stir in walnuts and chocolate chips; pour into pie crust.",
+            "Bake in the preheated oven until a toothpick inserted into center comes out clean, 45 to 50 minutes. Serve warm or at room temperature."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "brown sugar ⅓ light corn syrup ⅓ unsulfured molasses butter bourbon ½ vanilla extract ½ salt large eggs half- -half chopped walnuts ⅓ semisweet chocolate chips inch unbaked pie crust",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). combine brown sugar, corn syrup, molasses, butter, bourbon, vanilla extract, and salt in a large, heavy saucepan; bring to a boil, stirring frequently. continue to boil for 1 minute, stirring constantly. cool. beat eggs and half-and-half together in a medium bowl until blended; stir into cooled syrup mixture until combined. stir in walnuts and chocolate chips; pour into pie crust. bake in the preheated oven until a toothpick inserted into center comes out clean, 45 to 50 minutes. serve warm or at room temperature.",
+        "combined_text": "run for the roses pie chess pie chess pie 1 cup brown sugar ⅓ cup light corn syrup ⅓ cup unsulfured molasses 3 tablespoons butter 3 tablespoons bourbon ½ teaspoon vanilla extract ½ teaspoon salt 4 large eggs 3 tablespoons half-and-half 2 cups chopped walnuts ⅓ cup semisweet chocolate chips 1 (9 inch) unbaked pie crust preheat the oven to 350 degrees f (175 degrees c). combine brown sugar, corn syrup, molasses, butter, bourbon, vanilla extract, and salt in a large, heavy saucepan; bring to a boil, stirring frequently. continue to boil for 1 minute, stirring constantly. cool. beat eggs and half-and-half together in a medium bowl until blended; stir into cooled syrup mixture until combined. stir in walnuts and chocolate chips; pour into pie crust. bake in the preheated oven until a toothpick inserted into center comes out clean, 45 to 50 minutes. serve warm or at room temperature.",
+        "ingredients_raw": [
+            "1 cup brown sugar",
+            "⅓ cup light corn syrup",
+            "⅓ cup unsulfured molasses",
+            "3 tablespoons butter",
+            "3 tablespoons bourbon",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "4 large eggs",
+            "3 tablespoons half-and-half",
+            "2 cups chopped walnuts",
+            "⅓ cup semisweet chocolate chips",
+            "1 (9 inch) unbaked pie crust"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine brown sugar, corn syrup, molasses, butter, bourbon, vanilla extract, and salt in a large, heavy saucepan; bring to a boil, stirring frequently. Continue to boil for 1 minute, stirring constantly. Cool.",
+            "Beat eggs and half-and-half together in a medium bowl until blended; stir into cooled syrup mixture until combined. Stir in walnuts and chocolate chips; pour into pie crust.",
+            "Bake in the preheated oven until a toothpick inserted into center comes out clean, 45 to 50 minutes. Serve warm or at room temperature."
+        ],
+        "ingredients_canonical": [
+            "brown sugar",
+            "⅓ light corn syrup",
+            "⅓ unsulfured molasses",
+            "butter",
+            "bourbon",
+            "½ vanilla extract",
+            "½ salt",
+            "large eggs",
+            "half- -half",
+            "chopped walnuts",
+            "⅓ semisweet chocolate chips",
+            "inch unbaked pie crust"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 29,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 48,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Oatmeal Pie V",
+        "category": "Chess Pie",
+        "subcategory": "Chess Pie",
+        "description": "This pie is exactly like a pecan pie with the exception that it has oatmeal in it, rather than pecans. During baking, the oatmeal forms a chewy, \"nutty\" crust on top For a delicious variation, try the chocolate version. Just substitute 1/4 cup cocoa for the spices; this makes it taste very fudgy.",
+        "ingredients": [
+            "1 (9 inch) pie shell",
+            "¼ cup butter",
+            "½ cup white sugar",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon ground cloves",
+            "¼ teaspoon salt",
+            "1 cup light corn syrup",
+            "3 eggs",
+            "1 cup quick cooking oats"
+        ],
+        "directions": [
+            "Cream together butter or margarine and sugar. Stir in cinnamon, cloves, and salt. Stir in syrup. Add eggs one at a time, stirring after each addition until blended. Stir in oats. Pour filling into pie shell.",
+            "Bake at 350 degrees F (175 degrees C) for about 1 hour, or until knife inserted in center comes out clean."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "inch pie shell ¼ butter ½ white sugar ½ ground cinnamon ½ ground cloves ¼ salt light corn syrup eggs quick cooking oats",
+        "directions_text": "cream together butter or margarine and sugar. stir in cinnamon, cloves, and salt. stir in syrup. add eggs one at a time, stirring after each addition until blended. stir in oats. pour filling into pie shell. bake at 350 degrees f (175 degrees c) for about 1 hour, or until knife inserted in center comes out clean.",
+        "combined_text": "oatmeal pie v chess pie chess pie 1 (9 inch) pie shell ¼ cup butter ½ cup white sugar ½ teaspoon ground cinnamon ½ teaspoon ground cloves ¼ teaspoon salt 1 cup light corn syrup 3 eggs 1 cup quick cooking oats cream together butter or margarine and sugar. stir in cinnamon, cloves, and salt. stir in syrup. add eggs one at a time, stirring after each addition until blended. stir in oats. pour filling into pie shell. bake at 350 degrees f (175 degrees c) for about 1 hour, or until knife inserted in center comes out clean.",
+        "ingredients_raw": [
+            "1 (9 inch) pie shell",
+            "¼ cup butter",
+            "½ cup white sugar",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon ground cloves",
+            "¼ teaspoon salt",
+            "1 cup light corn syrup",
+            "3 eggs",
+            "1 cup quick cooking oats"
+        ],
+        "directions_raw": [
+            "Cream together butter or margarine and sugar. Stir in cinnamon, cloves, and salt. Stir in syrup. Add eggs one at a time, stirring after each addition until blended. Stir in oats. Pour filling into pie shell.",
+            "Bake at 350 degrees F (175 degrees C) for about 1 hour, or until knife inserted in center comes out clean."
+        ],
+        "ingredients_canonical": [
+            "inch pie shell",
+            "¼ butter",
+            "½ white sugar",
+            "½ ground cinnamon",
+            "½ ground cloves",
+            "¼ salt",
+            "light corn syrup",
+            "eggs",
+            "quick cooking oats"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

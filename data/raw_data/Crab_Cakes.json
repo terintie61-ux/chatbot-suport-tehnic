@@ -1,0 +1,2676 @@
+[
+    {
+        "recipe_title": "Maryland Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These Maryland crab cakes are authentic. Growing up near the Chesapeake Bay, you learn that crabs are as valuable as gold. My mom made crab cakes every Friday in the summer, but I like my recipe just a tad better. Don't tell Mom.",
+        "ingredients": [
+            "1 pound crabmeat",
+            "2 slices white bread, crusts trimmed",
+            "1 large egg, beaten",
+            "1 tablespoon Old Bay Seasoning TM",
+            "1 tablespoon mayonnaise",
+            "1 teaspoon Dijon-style prepared mustard",
+            "1 teaspoon Worcestershire sauce",
+            "2 tablespoons butter"
+        ],
+        "directions": [
+            "Place crab meat in a large bowl and remove any remaining shell pieces.",
+            "Break bread into small pieces and add to crab meat. Add beaten egg, Old Bay seasoning, mayonnaise, mustard, and Worcestershire sauce to the bowl. Mix by hand to avoid overworking crab meat; you want to keep the lumps of meat as much as possible. Form into 6 patties.",
+            "Heat butter in a skillet over medium heat.",
+            "Fry patties in hot butter until golden brown, about 4 minutes per side."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "pound crabmeat slices white bread crusts trimmed large egg beaten old bay seasoning tm mayonnaise dijon-style prepared mustard worcestershire sauce butter",
+        "directions_text": "place crab meat in a large bowl and remove any remaining shell pieces. break bread into small pieces and add to crab meat. add beaten egg, old bay seasoning, mayonnaise, mustard, and worcestershire sauce to the bowl. mix by hand to avoid overworking crab meat; you want to keep the lumps of meat as much as possible. form into 6 patties. heat butter in a skillet over medium heat. fry patties in hot butter until golden brown, about 4 minutes per side.",
+        "combined_text": "maryland crab cakes crab cakes crab cakes 1 pound crabmeat 2 slices white bread, crusts trimmed 1 large egg, beaten 1 tablespoon old bay seasoning tm 1 tablespoon mayonnaise 1 teaspoon dijon-style prepared mustard 1 teaspoon worcestershire sauce 2 tablespoons butter place crab meat in a large bowl and remove any remaining shell pieces. break bread into small pieces and add to crab meat. add beaten egg, old bay seasoning, mayonnaise, mustard, and worcestershire sauce to the bowl. mix by hand to avoid overworking crab meat; you want to keep the lumps of meat as much as possible. form into 6 patties. heat butter in a skillet over medium heat. fry patties in hot butter until golden brown, about 4 minutes per side.",
+        "ingredients_raw": [
+            "1 pound crabmeat",
+            "2 slices white bread, crusts trimmed",
+            "1 large egg, beaten",
+            "1 tablespoon Old Bay Seasoning TM",
+            "1 tablespoon mayonnaise",
+            "1 teaspoon Dijon-style prepared mustard",
+            "1 teaspoon Worcestershire sauce",
+            "2 tablespoons butter"
+        ],
+        "directions_raw": [
+            "Place crab meat in a large bowl and remove any remaining shell pieces.",
+            "Break bread into small pieces and add to crab meat. Add beaten egg, Old Bay seasoning, mayonnaise, mustard, and Worcestershire sauce to the bowl. Mix by hand to avoid overworking crab meat; you want to keep the lumps of meat as much as possible. Form into 6 patties.",
+            "Heat butter in a skillet over medium heat.",
+            "Fry patties in hot butter until golden brown, about 4 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "pound crabmeat",
+            "slices white bread crusts trimmed",
+            "large egg beaten",
+            "old bay seasoning tm",
+            "mayonnaise",
+            "dijon-style prepared mustard",
+            "worcestershire sauce",
+            "butter"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 32,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Try this crab cake recipe to see what crab cakes are supposed to be like. They're basically fried lumps of crabmeat that are held together with minimal filler. Delicious!",
+        "ingredients": [
+            "8 saltine crackers, finely crushed",
+            "2 tablespoons mayonnaise",
+            "½ teaspoon Dijon mustard",
+            "½ teaspoon seafood seasoning (such as Old Bay)",
+            "¼ teaspoon Worcestershire sauce",
+            "1 egg, beaten",
+            "1 pinch cayenne pepper (Optional)",
+            "salt to taste",
+            "1 pound fresh crabmeat, well drained",
+            "¼ cup dry bread crumbs",
+            "2 tablespoons butter"
+        ],
+        "directions": [
+            "Mix crushed crackers, mayonnaise, Dijon, seafood seasoning, Worcestershire sauce, egg, cayenne, and salt together in a large bowl. Add crabmeat and stir until combined but still chunky. Cover and refrigerate for 1 hour.",
+            "Sprinkle bread crumbs onto a plate. Shape chilled crab mixture into four small, thick patties. Coat patties completely with bread crumbs.",
+            "Melt butter in a skillet over medium heat. Add crab cakes and cook until golden brown, about 4 minutes per side."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "saltine crackers finely crushed mayonnaise ½ dijon mustard ½ seafood seasoning such as old bay ¼ worcestershire sauce egg beaten pinch cayenne pepper optional salt taste pound fresh crabmeat well drained ¼ dry bread crumbs butter",
+        "directions_text": "mix crushed crackers, mayonnaise, dijon, seafood seasoning, worcestershire sauce, egg, cayenne, and salt together in a large bowl. add crabmeat and stir until combined but still chunky. cover and refrigerate for 1 hour. sprinkle bread crumbs onto a plate. shape chilled crab mixture into four small, thick patties. coat patties completely with bread crumbs. melt butter in a skillet over medium heat. add crab cakes and cook until golden brown, about 4 minutes per side.",
+        "combined_text": "chef john's crab cakes crab cakes crab cakes 8 saltine crackers, finely crushed 2 tablespoons mayonnaise ½ teaspoon dijon mustard ½ teaspoon seafood seasoning (such as old bay) ¼ teaspoon worcestershire sauce 1 egg, beaten 1 pinch cayenne pepper (optional) salt to taste 1 pound fresh crabmeat, well drained ¼ cup dry bread crumbs 2 tablespoons butter mix crushed crackers, mayonnaise, dijon, seafood seasoning, worcestershire sauce, egg, cayenne, and salt together in a large bowl. add crabmeat and stir until combined but still chunky. cover and refrigerate for 1 hour. sprinkle bread crumbs onto a plate. shape chilled crab mixture into four small, thick patties. coat patties completely with bread crumbs. melt butter in a skillet over medium heat. add crab cakes and cook until golden brown, about 4 minutes per side.",
+        "ingredients_raw": [
+            "8 saltine crackers, finely crushed",
+            "2 tablespoons mayonnaise",
+            "½ teaspoon Dijon mustard",
+            "½ teaspoon seafood seasoning (such as Old Bay)",
+            "¼ teaspoon Worcestershire sauce",
+            "1 egg, beaten",
+            "1 pinch cayenne pepper (Optional)",
+            "salt to taste",
+            "1 pound fresh crabmeat, well drained",
+            "¼ cup dry bread crumbs",
+            "2 tablespoons butter"
+        ],
+        "directions_raw": [
+            "Mix crushed crackers, mayonnaise, Dijon, seafood seasoning, Worcestershire sauce, egg, cayenne, and salt together in a large bowl. Add crabmeat and stir until combined but still chunky. Cover and refrigerate for 1 hour.",
+            "Sprinkle bread crumbs onto a plate. Shape chilled crab mixture into four small, thick patties. Coat patties completely with bread crumbs.",
+            "Melt butter in a skillet over medium heat. Add crab cakes and cook until golden brown, about 4 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "saltine crackers finely crushed",
+            "mayonnaise",
+            "½ dijon mustard",
+            "½ seafood seasoning such as old bay",
+            "¼ worcestershire sauce",
+            "egg beaten",
+            "pinch cayenne pepper optional",
+            "salt taste",
+            "pound fresh crabmeat well drained",
+            "¼ dry bread crumbs",
+            "butter"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Air Fryer Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These air fryer crab cakes are flavorful, crisp, and lighter than if cooked with oil in a skillet. Air-frying crab cakes means less mess and less cleanup but at no sacrifice to taste. Serve with your favorite dipping sauce, aïoli, or tartar sauce, as well as fresh lemon wedges.",
+        "ingredients": [
+            "1 large egg, beaten",
+            "2 tablespoons mayonnaise",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon Dijon mustard",
+            "1 teaspoon seafood seasoning (such as Old Bay)",
+            "½ teaspoon hot pepper sauce",
+            "2 tablespoons finely chopped green onion",
+            "1 pound lump crabmeat, drained and picked over",
+            "3 tablespoons milk",
+            "salt and ground black pepper to taste",
+            "11 saltine crackers, crushed",
+            "1 teaspoon baking powder",
+            "4 wedges lemon",
+            "olive oil cooking spray"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Combine beaten egg, mayonnaise, Worcestershire sauce, mustard, seafood seasoning, and hot pepper sauce in a large bowl. Stir in green onion and set aside.",
+            "Place crabmeat in a medium bowl and break up with a fork. Add milk, salt, and black pepper; toss to coat. Add saltine crackers and baking powder; toss lightly to combine. Add to egg mixture, stirring gently and being careful not to break apart crab lumps.",
+            "Scoop crab with a 1/3-cup measure and form into 8 patties. Place patties on a plate, cover, and refrigerate until firm, 1 to 8 hours.",
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Spray crab cakes on both sides with cooking spray and place in the air fryer basket.",
+            "Cook in the preheated air fryer for 5 minutes. Turn crab cakes over gently and continue cooking until crispy brown, about 5 minutes more."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 7,
+        "ingredient_text": "large egg beaten mayonnaise worcestershire sauce dijon mustard seafood seasoning such as old bay ½ hot pepper sauce finely chopped green onion pound lump crabmeat drained picked over milk salt ground black pepper taste saltine crackers crushed baking powder wedges lemon olive oil cooking spray",
+        "directions_text": "gather all ingredients. combine beaten egg, mayonnaise, worcestershire sauce, mustard, seafood seasoning, and hot pepper sauce in a large bowl. stir in green onion and set aside. place crabmeat in a medium bowl and break up with a fork. add milk, salt, and black pepper; toss to coat. add saltine crackers and baking powder; toss lightly to combine. add to egg mixture, stirring gently and being careful not to break apart crab lumps. scoop crab with a 1/3-cup measure and form into 8 patties. place patties on a plate, cover, and refrigerate until firm, 1 to 8 hours. preheat an air fryer to 400 degrees f (200 degrees c). spray crab cakes on both sides with cooking spray and place in the air fryer basket. cook in the preheated air fryer for 5 minutes. turn crab cakes over gently and continue cooking until crispy brown, about 5 minutes more.",
+        "combined_text": "air fryer crab cakes crab cakes crab cakes 1 large egg, beaten 2 tablespoons mayonnaise 1 teaspoon worcestershire sauce 1 teaspoon dijon mustard 1 teaspoon seafood seasoning (such as old bay) ½ teaspoon hot pepper sauce 2 tablespoons finely chopped green onion 1 pound lump crabmeat, drained and picked over 3 tablespoons milk salt and ground black pepper to taste 11 saltine crackers, crushed 1 teaspoon baking powder 4 wedges lemon olive oil cooking spray gather all ingredients. combine beaten egg, mayonnaise, worcestershire sauce, mustard, seafood seasoning, and hot pepper sauce in a large bowl. stir in green onion and set aside. place crabmeat in a medium bowl and break up with a fork. add milk, salt, and black pepper; toss to coat. add saltine crackers and baking powder; toss lightly to combine. add to egg mixture, stirring gently and being careful not to break apart crab lumps. scoop crab with a 1/3-cup measure and form into 8 patties. place patties on a plate, cover, and refrigerate until firm, 1 to 8 hours. preheat an air fryer to 400 degrees f (200 degrees c). spray crab cakes on both sides with cooking spray and place in the air fryer basket. cook in the preheated air fryer for 5 minutes. turn crab cakes over gently and continue cooking until crispy brown, about 5 minutes more.",
+        "ingredients_raw": [
+            "1 large egg, beaten",
+            "2 tablespoons mayonnaise",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon Dijon mustard",
+            "1 teaspoon seafood seasoning (such as Old Bay)",
+            "½ teaspoon hot pepper sauce",
+            "2 tablespoons finely chopped green onion",
+            "1 pound lump crabmeat, drained and picked over",
+            "3 tablespoons milk",
+            "salt and ground black pepper to taste",
+            "11 saltine crackers, crushed",
+            "1 teaspoon baking powder",
+            "4 wedges lemon",
+            "olive oil cooking spray"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Combine beaten egg, mayonnaise, Worcestershire sauce, mustard, seafood seasoning, and hot pepper sauce in a large bowl. Stir in green onion and set aside.",
+            "Place crabmeat in a medium bowl and break up with a fork. Add milk, salt, and black pepper; toss to coat. Add saltine crackers and baking powder; toss lightly to combine. Add to egg mixture, stirring gently and being careful not to break apart crab lumps.",
+            "Scoop crab with a 1/3-cup measure and form into 8 patties. Place patties on a plate, cover, and refrigerate until firm, 1 to 8 hours.",
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Spray crab cakes on both sides with cooking spray and place in the air fryer basket.",
+            "Cook in the preheated air fryer for 5 minutes. Turn crab cakes over gently and continue cooking until crispy brown, about 5 minutes more."
+        ],
+        "ingredients_canonical": [
+            "large egg beaten",
+            "mayonnaise",
+            "worcestershire sauce",
+            "dijon mustard",
+            "seafood seasoning such as old bay",
+            "½ hot pepper sauce",
+            "finely chopped green onion",
+            "pound lump crabmeat drained picked over",
+            "milk",
+            "salt ground black pepper taste",
+            "saltine crackers crushed",
+            "baking powder",
+            "wedges lemon",
+            "olive oil cooking spray"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 27,
+        "est_cook_time_min": 70,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "New England Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This recipe comes from Maine and is EXCELLENT! These cakes are so yummy they almost melt in your mouth! They're great served with a seafood pasta salad, boiled potatoes, or fresh steamed veggies.",
+        "ingredients": [
+            "1 pound crabmeat",
+            "½ cup dry bread crumbs",
+            "1 egg, beaten",
+            "1 tablespoon mayonnaise",
+            "1 teaspoon prepared Dijon-style mustard",
+            "1 teaspoon Worcestershire sauce",
+            "1 tablespoon Old Bay Seasoning TM",
+            "2 tablespoons butter"
+        ],
+        "directions": [
+            "In a medium size bowl, combine the bread crumbs and the crab meat. Stir the beaten egg, mayonnaise, mustard, Worcestershire and Old Bay Seasoning. Lightly mix these ingredients being careful not to overwork the crab meat. Form into 8 round, flat crab cakes.",
+            "Heat butter in a skillet over medium heat. Fry the cakes on each side until crusty and golden brown. Serve warm."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "pound crabmeat ½ dry bread crumbs egg beaten mayonnaise prepared dijon-style mustard worcestershire sauce old bay seasoning tm butter",
+        "directions_text": "in a medium size bowl, combine the bread crumbs and the crab meat. stir the beaten egg, mayonnaise, mustard, worcestershire and old bay seasoning. lightly mix these ingredients being careful not to overwork the crab meat. form into 8 round, flat crab cakes. heat butter in a skillet over medium heat. fry the cakes on each side until crusty and golden brown. serve warm.",
+        "combined_text": "new england crab cakes crab cakes crab cakes 1 pound crabmeat ½ cup dry bread crumbs 1 egg, beaten 1 tablespoon mayonnaise 1 teaspoon prepared dijon-style mustard 1 teaspoon worcestershire sauce 1 tablespoon old bay seasoning tm 2 tablespoons butter in a medium size bowl, combine the bread crumbs and the crab meat. stir the beaten egg, mayonnaise, mustard, worcestershire and old bay seasoning. lightly mix these ingredients being careful not to overwork the crab meat. form into 8 round, flat crab cakes. heat butter in a skillet over medium heat. fry the cakes on each side until crusty and golden brown. serve warm.",
+        "ingredients_raw": [
+            "1 pound crabmeat",
+            "½ cup dry bread crumbs",
+            "1 egg, beaten",
+            "1 tablespoon mayonnaise",
+            "1 teaspoon prepared Dijon-style mustard",
+            "1 teaspoon Worcestershire sauce",
+            "1 tablespoon Old Bay Seasoning TM",
+            "2 tablespoons butter"
+        ],
+        "directions_raw": [
+            "In a medium size bowl, combine the bread crumbs and the crab meat. Stir the beaten egg, mayonnaise, mustard, Worcestershire and Old Bay Seasoning. Lightly mix these ingredients being careful not to overwork the crab meat. Form into 8 round, flat crab cakes.",
+            "Heat butter in a skillet over medium heat. Fry the cakes on each side until crusty and golden brown. Serve warm."
+        ],
+        "ingredients_canonical": [
+            "pound crabmeat",
+            "½ dry bread crumbs",
+            "egg beaten",
+            "mayonnaise",
+            "prepared dijon-style mustard",
+            "worcestershire sauce",
+            "old bay seasoning tm",
+            "butter"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cajun Crab Cakes (No Breadcrumbs)",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Two of the most crucial ingredients used in New Orleans cooking are Cajun spice and local seafood! Crab has always been my favorite type of shellfish, but I have never really cared much for crab cakes. The overpowering presence of seasoned breadcrumbs used in most recipes interferes with the sweet and delicate flavors of the fresh lump crabmeat. After years of experimenting with many of New Orleans' most famous crab cake recipes, I have created a flavorful, mouth-watering, delicious piece of work! The key is to use a small amount of crumbled crackers instead of breadcrumbs. I hope you enjoy!",
+        "ingredients": [
+            "2 tablespoons salted butter",
+            "½ onion, finely chopped",
+            "2 stalks celery, finely chopped",
+            "½ large red bell pepper, finely chopped",
+            "1 bunch green onions (green portion only), chopped",
+            "½ large carrot, finely chopped",
+            "3 cloves garlic, minced",
+            "1 tablespoon parsley flakes",
+            "2 teaspoons Creole seasoning (such as Tony Chachere's®)",
+            "2 teaspoons dried basil",
+            "2 teaspoons ground black pepper",
+            "1 teaspoon dried dill weed",
+            "½ teaspoon oregano",
+            "½ teaspoon dried thyme",
+            "2 large eggs, beaten",
+            "1 pound lump crabmeat, picked free of shell",
+            "9 buttery crackers (such as Keebler Club® crackers), crushed",
+            "3 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "Melt butter in a large, heavy skillet over medium heat. Stir in onion; cook and stir until the onion has softened and turned translucent, about 5 minutes.",
+            "Stir in the celery, bell pepper, green onion, carrot, and garlic. Continue to cook and stir until vegetables are tender, about 10 minutes more.",
+            "Season with 1 tablespoon parsley flakes, 2 teaspoons Creole seasoning, basil, pepper, dill weed, oregano, and thyme. Cook and stir until fragrant, 5 minutes more.",
+            "Transfer cooked vegetables to a large bowl; allow to cool for about 10 minutes. Set skillet aside for later use.",
+            "Stir the beaten eggs into the vegetables. Mix in the crabmeat and cracker crumbs with your hands, making sure not to break up the chunks of crab too much.",
+            "Shape the crab mixture into 12 small cakes.",
+            "Heat vegetable oil in the skillet over medium high heat.",
+            "Pan-fry the crab cakes in batches until golden brown on each side, about 3 minutes.",
+            "To make dipping sauce: Whisk together the mayonnaise, chile-garlic sauce, 2 teaspoon Creole seasoning, 2 teaspoon parsley flakes, and paprika."
+        ],
+        "num_ingredients": 18,
+        "num_steps": 9,
+        "ingredient_text": "salted butter ½ onion finely chopped stalks celery finely chopped ½ large red bell pepper finely chopped bunch green onions green portion only chopped ½ large carrot finely chopped cloves garlic minced parsley flakes creole seasoning such as tony chachere s dried basil ground black pepper dried dill weed ½ oregano ½ dried thyme large eggs beaten pound lump crabmeat picked free shell buttery crackers such as keebler club crackers crushed vegetable oil",
+        "directions_text": "melt butter in a large, heavy skillet over medium heat. stir in onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. stir in the celery, bell pepper, green onion, carrot, and garlic. continue to cook and stir until vegetables are tender, about 10 minutes more. season with 1 tablespoon parsley flakes, 2 teaspoons creole seasoning, basil, pepper, dill weed, oregano, and thyme. cook and stir until fragrant, 5 minutes more. transfer cooked vegetables to a large bowl; allow to cool for about 10 minutes. set skillet aside for later use. stir the beaten eggs into the vegetables. mix in the crabmeat and cracker crumbs with your hands, making sure not to break up the chunks of crab too much. shape the crab mixture into 12 small cakes. heat vegetable oil in the skillet over medium high heat. pan-fry the crab cakes in batches until golden brown on each side, about 3 minutes. to make dipping sauce: whisk together the mayonnaise, chile-garlic sauce, 2 teaspoon creole seasoning, 2 teaspoon parsley flakes, and paprika.",
+        "combined_text": "cajun crab cakes (no breadcrumbs) crab cakes crab cakes 2 tablespoons salted butter ½ onion, finely chopped 2 stalks celery, finely chopped ½ large red bell pepper, finely chopped 1 bunch green onions (green portion only), chopped ½ large carrot, finely chopped 3 cloves garlic, minced 1 tablespoon parsley flakes 2 teaspoons creole seasoning (such as tony chachere's®) 2 teaspoons dried basil 2 teaspoons ground black pepper 1 teaspoon dried dill weed ½ teaspoon oregano ½ teaspoon dried thyme 2 large eggs, beaten 1 pound lump crabmeat, picked free of shell 9 buttery crackers (such as keebler club® crackers), crushed 3 tablespoons vegetable oil melt butter in a large, heavy skillet over medium heat. stir in onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. stir in the celery, bell pepper, green onion, carrot, and garlic. continue to cook and stir until vegetables are tender, about 10 minutes more. season with 1 tablespoon parsley flakes, 2 teaspoons creole seasoning, basil, pepper, dill weed, oregano, and thyme. cook and stir until fragrant, 5 minutes more. transfer cooked vegetables to a large bowl; allow to cool for about 10 minutes. set skillet aside for later use. stir the beaten eggs into the vegetables. mix in the crabmeat and cracker crumbs with your hands, making sure not to break up the chunks of crab too much. shape the crab mixture into 12 small cakes. heat vegetable oil in the skillet over medium high heat. pan-fry the crab cakes in batches until golden brown on each side, about 3 minutes. to make dipping sauce: whisk together the mayonnaise, chile-garlic sauce, 2 teaspoon creole seasoning, 2 teaspoon parsley flakes, and paprika.",
+        "ingredients_raw": [
+            "2 tablespoons salted butter",
+            "½ onion, finely chopped",
+            "2 stalks celery, finely chopped",
+            "½ large red bell pepper, finely chopped",
+            "1 bunch green onions (green portion only), chopped",
+            "½ large carrot, finely chopped",
+            "3 cloves garlic, minced",
+            "1 tablespoon parsley flakes",
+            "2 teaspoons Creole seasoning (such as Tony Chachere's®)",
+            "2 teaspoons dried basil",
+            "2 teaspoons ground black pepper",
+            "1 teaspoon dried dill weed",
+            "½ teaspoon oregano",
+            "½ teaspoon dried thyme",
+            "2 large eggs, beaten",
+            "1 pound lump crabmeat, picked free of shell",
+            "9 buttery crackers (such as Keebler Club® crackers), crushed",
+            "3 tablespoons vegetable oil"
+        ],
+        "directions_raw": [
+            "Melt butter in a large, heavy skillet over medium heat. Stir in onion; cook and stir until the onion has softened and turned translucent, about 5 minutes.",
+            "Stir in the celery, bell pepper, green onion, carrot, and garlic. Continue to cook and stir until vegetables are tender, about 10 minutes more.",
+            "Season with 1 tablespoon parsley flakes, 2 teaspoons Creole seasoning, basil, pepper, dill weed, oregano, and thyme. Cook and stir until fragrant, 5 minutes more.",
+            "Transfer cooked vegetables to a large bowl; allow to cool for about 10 minutes. Set skillet aside for later use.",
+            "Stir the beaten eggs into the vegetables. Mix in the crabmeat and cracker crumbs with your hands, making sure not to break up the chunks of crab too much.",
+            "Shape the crab mixture into 12 small cakes.",
+            "Heat vegetable oil in the skillet over medium high heat.",
+            "Pan-fry the crab cakes in batches until golden brown on each side, about 3 minutes.",
+            "To make dipping sauce: Whisk together the mayonnaise, chile-garlic sauce, 2 teaspoon Creole seasoning, 2 teaspoon parsley flakes, and paprika."
+        ],
+        "ingredients_canonical": [
+            "salted butter",
+            "½ onion finely chopped",
+            "stalks celery finely chopped",
+            "½ large red bell pepper finely chopped",
+            "bunch green onions green portion only chopped",
+            "½ large carrot finely chopped",
+            "cloves garlic minced",
+            "parsley flakes",
+            "creole seasoning such as tony chachere s",
+            "dried basil",
+            "ground black pepper",
+            "dried dill weed",
+            "½ oregano",
+            "½ dried thyme",
+            "large eggs beaten",
+            "pound lump crabmeat picked free shell",
+            "buttery crackers such as keebler club crackers crushed",
+            "vegetable oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 0,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 38,
+        "est_cook_time_min": 67,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Maryland Crab Cakes III",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These crab cakes are rich and moist with lots of meat and very little filling. Typical of finer restaurants!",
+        "ingredients": [
+            "1 ⅛ cups crushed saltine crackers",
+            "1 cup mayonnaise",
+            "1 teaspoon prepared brown mustard",
+            "¼ cup chopped onion",
+            "1 stalk celery, chopped",
+            "1 teaspoon Old Bay Seasoning TM",
+            "1 pound crabmeat"
+        ],
+        "directions": [
+            "Preheat oven on broiler setting. Lightly grease a baking sheet.",
+            "In a medium bowl, mix together crushed saltine crackers, mayonnaise, brown mustard, onion, celery, and Old Bay seasoning. Gently stir in the crabmeat. Shape into 6 patties. Place on prepared baking sheet.",
+            "Broil crab cakes 8 to 10 minutes on each side, or until golden brown."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "⅛ crushed saltine crackers mayonnaise prepared brown mustard ¼ chopped onion stalk celery chopped old bay seasoning tm pound crabmeat",
+        "directions_text": "preheat oven on broiler setting. lightly grease a baking sheet. in a medium bowl, mix together crushed saltine crackers, mayonnaise, brown mustard, onion, celery, and old bay seasoning. gently stir in the crabmeat. shape into 6 patties. place on prepared baking sheet. broil crab cakes 8 to 10 minutes on each side, or until golden brown.",
+        "combined_text": "maryland crab cakes iii crab cakes crab cakes 1 ⅛ cups crushed saltine crackers 1 cup mayonnaise 1 teaspoon prepared brown mustard ¼ cup chopped onion 1 stalk celery, chopped 1 teaspoon old bay seasoning tm 1 pound crabmeat preheat oven on broiler setting. lightly grease a baking sheet. in a medium bowl, mix together crushed saltine crackers, mayonnaise, brown mustard, onion, celery, and old bay seasoning. gently stir in the crabmeat. shape into 6 patties. place on prepared baking sheet. broil crab cakes 8 to 10 minutes on each side, or until golden brown.",
+        "ingredients_raw": [
+            "1 ⅛ cups crushed saltine crackers",
+            "1 cup mayonnaise",
+            "1 teaspoon prepared brown mustard",
+            "¼ cup chopped onion",
+            "1 stalk celery, chopped",
+            "1 teaspoon Old Bay Seasoning TM",
+            "1 pound crabmeat"
+        ],
+        "directions_raw": [
+            "Preheat oven on broiler setting. Lightly grease a baking sheet.",
+            "In a medium bowl, mix together crushed saltine crackers, mayonnaise, brown mustard, onion, celery, and Old Bay seasoning. Gently stir in the crabmeat. Shape into 6 patties. Place on prepared baking sheet.",
+            "Broil crab cakes 8 to 10 minutes on each side, or until golden brown."
+        ],
+        "ingredients_canonical": [
+            "⅛ crushed saltine crackers",
+            "mayonnaise",
+            "prepared brown mustard",
+            "¼ chopped onion",
+            "stalk celery chopped",
+            "old bay seasoning tm",
+            "pound crabmeat"
+        ],
+        "cuisine_list": [
+            "european",
+            "german"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "True Maryland Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This true Maryland crab cake recipe is the true crab cake with no fillers and no heavy spices, all crabmeat. This recipe has been in my family for generations.",
+        "ingredients": [
+            "3 tablespoons pancake mix",
+            "3 tablespoons mayonnaise, or to taste",
+            "1 tablespoon prepared yellow mustard",
+            "1 tablespoon chopped fresh parsley",
+            "1 egg, beaten",
+            "1 pound cooked crabmeat, flaked",
+            "3 cups vegetable oil for frying"
+        ],
+        "directions": [
+            "Combine pancake mix, mayonnaise, mustard, parsley, and egg in a medium bowl until well blended. Fold in crabmeat. Form into 3-inch cakes.",
+            "Heat oil in a large skillet over medium to medium-high heat. (There should be enough oil to reach half way up the sides of the crab cakes.) When oil is hot, carefully place crab cakes in the pan. Fry until golden brown, about 8 minutes per side. If patties are browning too fast, reduce the heat. Drain on paper towels and serve immediately."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "pancake mix mayonnaise taste prepared yellow mustard chopped fresh parsley egg beaten pound cooked crabmeat flaked vegetable oil for frying",
+        "directions_text": "combine pancake mix, mayonnaise, mustard, parsley, and egg in a medium bowl until well blended. fold in crabmeat. form into 3-inch cakes. heat oil in a large skillet over medium to medium-high heat. (there should be enough oil to reach half way up the sides of the crab cakes.) when oil is hot, carefully place crab cakes in the pan. fry until golden brown, about 8 minutes per side. if patties are browning too fast, reduce the heat. drain on paper towels and serve immediately.",
+        "combined_text": "true maryland crab cakes crab cakes crab cakes 3 tablespoons pancake mix 3 tablespoons mayonnaise, or to taste 1 tablespoon prepared yellow mustard 1 tablespoon chopped fresh parsley 1 egg, beaten 1 pound cooked crabmeat, flaked 3 cups vegetable oil for frying combine pancake mix, mayonnaise, mustard, parsley, and egg in a medium bowl until well blended. fold in crabmeat. form into 3-inch cakes. heat oil in a large skillet over medium to medium-high heat. (there should be enough oil to reach half way up the sides of the crab cakes.) when oil is hot, carefully place crab cakes in the pan. fry until golden brown, about 8 minutes per side. if patties are browning too fast, reduce the heat. drain on paper towels and serve immediately.",
+        "ingredients_raw": [
+            "3 tablespoons pancake mix",
+            "3 tablespoons mayonnaise, or to taste",
+            "1 tablespoon prepared yellow mustard",
+            "1 tablespoon chopped fresh parsley",
+            "1 egg, beaten",
+            "1 pound cooked crabmeat, flaked",
+            "3 cups vegetable oil for frying"
+        ],
+        "directions_raw": [
+            "Combine pancake mix, mayonnaise, mustard, parsley, and egg in a medium bowl until well blended. Fold in crabmeat. Form into 3-inch cakes.",
+            "Heat oil in a large skillet over medium to medium-high heat. (There should be enough oil to reach half way up the sides of the crab cakes.) When oil is hot, carefully place crab cakes in the pan. Fry until golden brown, about 8 minutes per side. If patties are browning too fast, reduce the heat. Drain on paper towels and serve immediately."
+        ],
+        "ingredients_canonical": [
+            "pancake mix",
+            "mayonnaise taste",
+            "prepared yellow mustard",
+            "chopped fresh parsley",
+            "egg beaten",
+            "pound cooked crabmeat flaked",
+            "vegetable oil for frying"
+        ],
+        "cuisine_list": [
+            "european",
+            "german",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lori's Famous Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These famous crab cakes are just the best. I make these often at home, and I make smaller appetizers for parties. They are always a hit. They are easy and delicious. I won't eat crab cakes out anymore! Serve with fresh squeezed lemon and tartar sauce!",
+        "ingredients": [
+            "⅓ cup dry bread crumbs",
+            "¼ green bell pepper, seeded and diced",
+            "¼ red bell pepper, seeded and diced",
+            "2 green onions, thinly sliced",
+            "4 sprigs fresh parsley, chopped",
+            "½ teaspoon hot pepper sauce",
+            "1 egg white",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon fresh lemon juice",
+            "½ teaspoon Worcestershire sauce",
+            "2 teaspoons Dijon mustard",
+            "¼ teaspoon Old Bay TM seasoning",
+            "¼ teaspoon dry mustard",
+            "¼ teaspoon onion powder",
+            "3 (6 ounce) cans crabmeat, drained and flaked",
+            "½ cup dry bread crumbs",
+            "1 cup canola oil for frying"
+        ],
+        "directions": [
+            "In a bowl, toss together dry bread crumbs, green bell pepper, red bell pepper, green onions, and parsley. Mix in egg white, mayonnaise, lemon juice, Worcestershire sauce, and Dijon mustard. Season with Old Bay seasoning, dry mustard, and onion powder. Fold crabmeat into mixture. Form into 6 large cakes. Coat in remaining bread crumbs.",
+            "Heat oil in a large, heavy skillet. Fry cakes 5 minutes on each side, or until evenly brown. Drain on paper towels."
+        ],
+        "num_ingredients": 17,
+        "num_steps": 2,
+        "ingredient_text": "⅓ dry bread crumbs ¼ green bell pepper seeded diced ¼ red bell pepper seeded diced green onions thinly sliced sprigs fresh parsley chopped ½ hot pepper sauce egg white mayonnaise fresh lemon juice ½ worcestershire sauce dijon mustard ¼ old bay tm seasoning ¼ dry mustard ¼ onion powder ounce cans crabmeat drained flaked ½ dry bread crumbs canola oil for frying",
+        "directions_text": "in a bowl, toss together dry bread crumbs, green bell pepper, red bell pepper, green onions, and parsley. mix in egg white, mayonnaise, lemon juice, worcestershire sauce, and dijon mustard. season with old bay seasoning, dry mustard, and onion powder. fold crabmeat into mixture. form into 6 large cakes. coat in remaining bread crumbs. heat oil in a large, heavy skillet. fry cakes 5 minutes on each side, or until evenly brown. drain on paper towels.",
+        "combined_text": "lori's famous crab cakes crab cakes crab cakes ⅓ cup dry bread crumbs ¼ green bell pepper, seeded and diced ¼ red bell pepper, seeded and diced 2 green onions, thinly sliced 4 sprigs fresh parsley, chopped ½ teaspoon hot pepper sauce 1 egg white 2 tablespoons mayonnaise 1 tablespoon fresh lemon juice ½ teaspoon worcestershire sauce 2 teaspoons dijon mustard ¼ teaspoon old bay tm seasoning ¼ teaspoon dry mustard ¼ teaspoon onion powder 3 (6 ounce) cans crabmeat, drained and flaked ½ cup dry bread crumbs 1 cup canola oil for frying in a bowl, toss together dry bread crumbs, green bell pepper, red bell pepper, green onions, and parsley. mix in egg white, mayonnaise, lemon juice, worcestershire sauce, and dijon mustard. season with old bay seasoning, dry mustard, and onion powder. fold crabmeat into mixture. form into 6 large cakes. coat in remaining bread crumbs. heat oil in a large, heavy skillet. fry cakes 5 minutes on each side, or until evenly brown. drain on paper towels.",
+        "ingredients_raw": [
+            "⅓ cup dry bread crumbs",
+            "¼ green bell pepper, seeded and diced",
+            "¼ red bell pepper, seeded and diced",
+            "2 green onions, thinly sliced",
+            "4 sprigs fresh parsley, chopped",
+            "½ teaspoon hot pepper sauce",
+            "1 egg white",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon fresh lemon juice",
+            "½ teaspoon Worcestershire sauce",
+            "2 teaspoons Dijon mustard",
+            "¼ teaspoon Old Bay TM seasoning",
+            "¼ teaspoon dry mustard",
+            "¼ teaspoon onion powder",
+            "3 (6 ounce) cans crabmeat, drained and flaked",
+            "½ cup dry bread crumbs",
+            "1 cup canola oil for frying"
+        ],
+        "directions_raw": [
+            "In a bowl, toss together dry bread crumbs, green bell pepper, red bell pepper, green onions, and parsley. Mix in egg white, mayonnaise, lemon juice, Worcestershire sauce, and Dijon mustard. Season with Old Bay seasoning, dry mustard, and onion powder. Fold crabmeat into mixture. Form into 6 large cakes. Coat in remaining bread crumbs.",
+            "Heat oil in a large, heavy skillet. Fry cakes 5 minutes on each side, or until evenly brown. Drain on paper towels."
+        ],
+        "ingredients_canonical": [
+            "⅓ dry bread crumbs",
+            "¼ green bell pepper seeded diced",
+            "¼ red bell pepper seeded diced",
+            "green onions thinly sliced",
+            "sprigs fresh parsley chopped",
+            "½ hot pepper sauce",
+            "egg white",
+            "mayonnaise",
+            "fresh lemon juice",
+            "½ worcestershire sauce",
+            "dijon mustard",
+            "¼ old bay tm seasoning",
+            "¼ dry mustard",
+            "¼ onion powder",
+            "ounce cans crabmeat drained flaked",
+            "½ dry bread crumbs",
+            "canola oil for frying"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 40,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mini Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Crab cakes made with Greek nonfat yogurt are mini bites of bliss. A fun, festive appetizer!",
+        "ingredients": [
+            "1 (16 ounce) can fancy lump crabmeat, well drained and picked through for cartilage",
+            "1 egg, lightly beaten",
+            "1 cup Dannon Oikos Plain Greek Nonfat Yogurt",
+            "¼ cup finely chopped red bell pepper",
+            "¼ cup thinly sliced green onion",
+            "1 teaspoon finely grated zest of one lemon",
+            "Fresh cracked pepper to taste",
+            "1 cup plain or panko breadcrumbs, divided",
+            "Cooking spray",
+            "2 tablespoons chopped parsley",
+            "2 tablespoons chopped basil",
+            "2 tablespoons lemon juice"
+        ],
+        "directions": [
+            "Mix together crabmeat, egg, 1/3 cup yogurt, red pepper, green onion, lemon zest fresh cracked pepper, and 1/2 cup breadcrumbs.",
+            "Form mini crab cakes using a tablespoon or small ice cream scoop, and coat the crab cakes in remaining breadcrumbs, placing them onto a parchment lined baking sheet. Spray lightly with cooking spray.",
+            "Bake in a 400 degrees F preheated oven for 12-15 minutes or until lightly golden.",
+            "Mix remaining yogurt, lemon juice, chopped parsley and basil. Season with cracked black pepper. Serve sauce with crab cakes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "ounce can fancy lump crabmeat well drained picked through for cartilage egg lightly beaten dannon oikos plain greek nonfat yogurt ¼ finely chopped red bell pepper ¼ thinly sliced green onion finely grated zest one lemon fresh cracked pepper taste plain panko breadcrumbs divided cooking spray chopped parsley chopped basil lemon juice",
+        "directions_text": "mix together crabmeat, egg, 1/3 cup yogurt, red pepper, green onion, lemon zest fresh cracked pepper, and 1/2 cup breadcrumbs. form mini crab cakes using a tablespoon or small ice cream scoop, and coat the crab cakes in remaining breadcrumbs, placing them onto a parchment lined baking sheet. spray lightly with cooking spray. bake in a 400 degrees f preheated oven for 12-15 minutes or until lightly golden. mix remaining yogurt, lemon juice, chopped parsley and basil. season with cracked black pepper. serve sauce with crab cakes.",
+        "combined_text": "mini crab cakes crab cakes crab cakes 1 (16 ounce) can fancy lump crabmeat, well drained and picked through for cartilage 1 egg, lightly beaten 1 cup dannon oikos plain greek nonfat yogurt ¼ cup finely chopped red bell pepper ¼ cup thinly sliced green onion 1 teaspoon finely grated zest of one lemon fresh cracked pepper to taste 1 cup plain or panko breadcrumbs, divided cooking spray 2 tablespoons chopped parsley 2 tablespoons chopped basil 2 tablespoons lemon juice mix together crabmeat, egg, 1/3 cup yogurt, red pepper, green onion, lemon zest fresh cracked pepper, and 1/2 cup breadcrumbs. form mini crab cakes using a tablespoon or small ice cream scoop, and coat the crab cakes in remaining breadcrumbs, placing them onto a parchment lined baking sheet. spray lightly with cooking spray. bake in a 400 degrees f preheated oven for 12-15 minutes or until lightly golden. mix remaining yogurt, lemon juice, chopped parsley and basil. season with cracked black pepper. serve sauce with crab cakes.",
+        "ingredients_raw": [
+            "1 (16 ounce) can fancy lump crabmeat, well drained and picked through for cartilage",
+            "1 egg, lightly beaten",
+            "1 cup Dannon Oikos Plain Greek Nonfat Yogurt",
+            "¼ cup finely chopped red bell pepper",
+            "¼ cup thinly sliced green onion",
+            "1 teaspoon finely grated zest of one lemon",
+            "Fresh cracked pepper to taste",
+            "1 cup plain or panko breadcrumbs, divided",
+            "Cooking spray",
+            "2 tablespoons chopped parsley",
+            "2 tablespoons chopped basil",
+            "2 tablespoons lemon juice"
+        ],
+        "directions_raw": [
+            "Mix together crabmeat, egg, 1/3 cup yogurt, red pepper, green onion, lemon zest fresh cracked pepper, and 1/2 cup breadcrumbs.",
+            "Form mini crab cakes using a tablespoon or small ice cream scoop, and coat the crab cakes in remaining breadcrumbs, placing them onto a parchment lined baking sheet. Spray lightly with cooking spray.",
+            "Bake in a 400 degrees F preheated oven for 12-15 minutes or until lightly golden.",
+            "Mix remaining yogurt, lemon juice, chopped parsley and basil. Season with cracked black pepper. Serve sauce with crab cakes."
+        ],
+        "ingredients_canonical": [
+            "ounce can fancy lump crabmeat well drained picked through for cartilage",
+            "egg lightly beaten",
+            "dannon oikos plain greek nonfat yogurt",
+            "¼ finely chopped red bell pepper",
+            "¼ thinly sliced green onion",
+            "finely grated zest one lemon",
+            "fresh cracked pepper taste",
+            "plain panko breadcrumbs divided",
+            "cooking spray",
+            "chopped parsley",
+            "chopped basil",
+            "lemon juice"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "japanese",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink",
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Paleo Maryland Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These Maryland crab cakes are made with jumbo lump crabmeat, traditional seasonings, and an almond flour breading. Add celery, jalapeños, or other ingredients — feel free to get creative! You can also use chopped shrimp in this recipe to make shrimp cakes.",
+        "ingredients": [
+            "1 large egg",
+            "2 tablespoons mayonnaise",
+            "1 ½ teaspoons seafood seasoning, such as Old Bay™",
+            "1 teaspoon Dijon mustard",
+            "½ teaspoon Worcestershire sauce",
+            "¼ teaspoon hot pepper sauce (such as Tabasco®)",
+            "¼ teaspoon lemon juice",
+            "ground black pepper to taste",
+            "1 pound jumbo lump crabmeat",
+            "¼ cup almond flour",
+            "1 tablespoon minced red bell pepper",
+            "2 teaspoons sliced green onion",
+            "1 tablespoon chopped fresh parsley",
+            "⅓ cup almond flour"
+        ],
+        "directions": [
+            "Whisk egg, mayonnaise, seafood seasoning, Dijon, Worcestershire sauce, hot sauce, lemon juice, and pepper together in a bowl.",
+            "Place crabmeat into a separate bowl; add mayonnaise mixture and gently mix with your hands to combine. Mix in 1/4 cup almond flour, bell pepper, green onion, and parsley. Form mixture into six round cakes.",
+            "Dredge each cake in remaining 1/3 cup almond flour and place onto a parchment-lined sheet pan. Cover and refrigerate for at least 1 hour.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Bake crab cakes, uncovered, in the preheated oven until golden brown, 15 to 20 minutes."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 5,
+        "ingredient_text": "large egg mayonnaise ½ seafood seasoning such as old bay dijon mustard ½ worcestershire sauce ¼ hot pepper sauce such as tabasco ¼ lemon juice ground black pepper taste pound jumbo lump crabmeat ¼ almond flour minced red bell pepper sliced green onion chopped fresh parsley ⅓ almond flour",
+        "directions_text": "whisk egg, mayonnaise, seafood seasoning, dijon, worcestershire sauce, hot sauce, lemon juice, and pepper together in a bowl. place crabmeat into a separate bowl; add mayonnaise mixture and gently mix with your hands to combine. mix in 1/4 cup almond flour, bell pepper, green onion, and parsley. form mixture into six round cakes. dredge each cake in remaining 1/3 cup almond flour and place onto a parchment-lined sheet pan. cover and refrigerate for at least 1 hour. preheat the oven to 400 degrees f (200 degrees c). bake crab cakes, uncovered, in the preheated oven until golden brown, 15 to 20 minutes.",
+        "combined_text": "paleo maryland crab cakes crab cakes crab cakes 1 large egg 2 tablespoons mayonnaise 1 ½ teaspoons seafood seasoning, such as old bay™ 1 teaspoon dijon mustard ½ teaspoon worcestershire sauce ¼ teaspoon hot pepper sauce (such as tabasco®) ¼ teaspoon lemon juice ground black pepper to taste 1 pound jumbo lump crabmeat ¼ cup almond flour 1 tablespoon minced red bell pepper 2 teaspoons sliced green onion 1 tablespoon chopped fresh parsley ⅓ cup almond flour whisk egg, mayonnaise, seafood seasoning, dijon, worcestershire sauce, hot sauce, lemon juice, and pepper together in a bowl. place crabmeat into a separate bowl; add mayonnaise mixture and gently mix with your hands to combine. mix in 1/4 cup almond flour, bell pepper, green onion, and parsley. form mixture into six round cakes. dredge each cake in remaining 1/3 cup almond flour and place onto a parchment-lined sheet pan. cover and refrigerate for at least 1 hour. preheat the oven to 400 degrees f (200 degrees c). bake crab cakes, uncovered, in the preheated oven until golden brown, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 large egg",
+            "2 tablespoons mayonnaise",
+            "1 ½ teaspoons seafood seasoning, such as Old Bay™",
+            "1 teaspoon Dijon mustard",
+            "½ teaspoon Worcestershire sauce",
+            "¼ teaspoon hot pepper sauce (such as Tabasco®)",
+            "¼ teaspoon lemon juice",
+            "ground black pepper to taste",
+            "1 pound jumbo lump crabmeat",
+            "¼ cup almond flour",
+            "1 tablespoon minced red bell pepper",
+            "2 teaspoons sliced green onion",
+            "1 tablespoon chopped fresh parsley",
+            "⅓ cup almond flour"
+        ],
+        "directions_raw": [
+            "Whisk egg, mayonnaise, seafood seasoning, Dijon, Worcestershire sauce, hot sauce, lemon juice, and pepper together in a bowl.",
+            "Place crabmeat into a separate bowl; add mayonnaise mixture and gently mix with your hands to combine. Mix in 1/4 cup almond flour, bell pepper, green onion, and parsley. Form mixture into six round cakes.",
+            "Dredge each cake in remaining 1/3 cup almond flour and place onto a parchment-lined sheet pan. Cover and refrigerate for at least 1 hour.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Bake crab cakes, uncovered, in the preheated oven until golden brown, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "large egg",
+            "mayonnaise",
+            "½ seafood seasoning such as old bay",
+            "dijon mustard",
+            "½ worcestershire sauce",
+            "¼ hot pepper sauce such as tabasco",
+            "¼ lemon juice",
+            "ground black pepper taste",
+            "pound jumbo lump crabmeat",
+            "¼ almond flour",
+            "minced red bell pepper",
+            "sliced green onion",
+            "chopped fresh parsley",
+            "⅓ almond flour"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Deviled Crab Cakes on Mixed Greens with Ginger-Citrus Vinaigrette",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These deviled crab cakes are served over mixed greens with a ginger-citrus vinaigrette. They're very tasty!",
+        "ingredients": [
+            "3 tablespoons butter",
+            "1 cup finely chopped onion",
+            "⅓ cup finely chopped celery",
+            "¼ cup finely chopped red bell pepper",
+            "1 tablespoon dry mustard",
+            "½ teaspoon cayenne pepper",
+            "⅓ cup mayonnaise",
+            "½ cup soft bread crumbs",
+            "1 large egg, lightly beaten",
+            "¼ cup chopped fresh parsley",
+            "1 tablespoon lemon zest",
+            "1 pound cooked crabmeat",
+            "salt and black pepper to taste",
+            "1 cup dry bread crumbs"
+        ],
+        "directions": [
+            "Make crab cakes: Melt butter in a large skillet over medium heat. Stir in onion and cook until softened and translucent, about 5 minutes. Add celery and bell pepper; continue cooking until vegetables are tender, about 5 minutes. Stir in mustard and cayenne pepper; cook for 2 minutes. Scrape vegetable mixture into a mixing bowl and refrigerate until cold.",
+            "Stir mayonnaise into chilled vegetable mixture along with soft bread crumbs, beaten egg, lemon zest, and parsley until combined. Gently fold in crab meat. Season with salt and pepper. Form crab mixture into 8 cakes, 1/2 inch thick.",
+            "Pour dry bread crumbs into a shallow bowl. Press crab cakes into bread crumbs one at a time until coated on all sides. Gently shake off excess crumbs and place crab cakes onto a plate. Cover with plastic wrap and refrigerate for 1 hour to overnight.",
+            "Make vinaigrette: Whisk together 3/4 cup vegetable oil, lemon juice, lemon zest, jalapeño, ginger, sugar, and salt in a small bowl until well combined. Store in the refrigerator until ready to use.",
+            "Heat 2 cups vegetable oil in a large skillet over medium-high heat. While oil is heating, toss mixed salad greens with vinaigrette in a mixing bowl until evenly coated and divide onto 8 serving plates. Arrange avocado slices over salads and set aside.",
+            "Once oil is shimmering with heat, fry crab cakes in hot oil until golden brown on each side, 2 to 3 minutes per side. Briefly drain on a paper towel-lined plate to remove excess grease. Place a crab cake on top of each salad and serve immediately."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 6,
+        "ingredient_text": "butter finely chopped onion ⅓ finely chopped celery ¼ finely chopped red bell pepper dry mustard ½ cayenne pepper ⅓ mayonnaise ½ soft bread crumbs large egg lightly beaten ¼ chopped fresh parsley lemon zest pound cooked crabmeat salt black pepper taste dry bread crumbs",
+        "directions_text": "make crab cakes: melt butter in a large skillet over medium heat. stir in onion and cook until softened and translucent, about 5 minutes. add celery and bell pepper; continue cooking until vegetables are tender, about 5 minutes. stir in mustard and cayenne pepper; cook for 2 minutes. scrape vegetable mixture into a mixing bowl and refrigerate until cold. stir mayonnaise into chilled vegetable mixture along with soft bread crumbs, beaten egg, lemon zest, and parsley until combined. gently fold in crab meat. season with salt and pepper. form crab mixture into 8 cakes, 1/2 inch thick. pour dry bread crumbs into a shallow bowl. press crab cakes into bread crumbs one at a time until coated on all sides. gently shake off excess crumbs and place crab cakes onto a plate. cover with plastic wrap and refrigerate for 1 hour to overnight. make vinaigrette: whisk together 3/4 cup vegetable oil, lemon juice, lemon zest, jalapeño, ginger, sugar, and salt in a small bowl until well combined. store in the refrigerator until ready to use. heat 2 cups vegetable oil in a large skillet over medium-high heat. while oil is heating, toss mixed salad greens with vinaigrette in a mixing bowl until evenly coated and divide onto 8 serving plates. arrange avocado slices over salads and set aside. once oil is shimmering with heat, fry crab cakes in hot oil until golden brown on each side, 2 to 3 minutes per side. briefly drain on a paper towel-lined plate to remove excess grease. place a crab cake on top of each salad and serve immediately.",
+        "combined_text": "deviled crab cakes on mixed greens with ginger-citrus vinaigrette crab cakes crab cakes 3 tablespoons butter 1 cup finely chopped onion ⅓ cup finely chopped celery ¼ cup finely chopped red bell pepper 1 tablespoon dry mustard ½ teaspoon cayenne pepper ⅓ cup mayonnaise ½ cup soft bread crumbs 1 large egg, lightly beaten ¼ cup chopped fresh parsley 1 tablespoon lemon zest 1 pound cooked crabmeat salt and black pepper to taste 1 cup dry bread crumbs make crab cakes: melt butter in a large skillet over medium heat. stir in onion and cook until softened and translucent, about 5 minutes. add celery and bell pepper; continue cooking until vegetables are tender, about 5 minutes. stir in mustard and cayenne pepper; cook for 2 minutes. scrape vegetable mixture into a mixing bowl and refrigerate until cold. stir mayonnaise into chilled vegetable mixture along with soft bread crumbs, beaten egg, lemon zest, and parsley until combined. gently fold in crab meat. season with salt and pepper. form crab mixture into 8 cakes, 1/2 inch thick. pour dry bread crumbs into a shallow bowl. press crab cakes into bread crumbs one at a time until coated on all sides. gently shake off excess crumbs and place crab cakes onto a plate. cover with plastic wrap and refrigerate for 1 hour to overnight. make vinaigrette: whisk together 3/4 cup vegetable oil, lemon juice, lemon zest, jalapeño, ginger, sugar, and salt in a small bowl until well combined. store in the refrigerator until ready to use. heat 2 cups vegetable oil in a large skillet over medium-high heat. while oil is heating, toss mixed salad greens with vinaigrette in a mixing bowl until evenly coated and divide onto 8 serving plates. arrange avocado slices over salads and set aside. once oil is shimmering with heat, fry crab cakes in hot oil until golden brown on each side, 2 to 3 minutes per side. briefly drain on a paper towel-lined plate to remove excess grease. place a crab cake on top of each salad and serve immediately.",
+        "ingredients_raw": [
+            "3 tablespoons butter",
+            "1 cup finely chopped onion",
+            "⅓ cup finely chopped celery",
+            "¼ cup finely chopped red bell pepper",
+            "1 tablespoon dry mustard",
+            "½ teaspoon cayenne pepper",
+            "⅓ cup mayonnaise",
+            "½ cup soft bread crumbs",
+            "1 large egg, lightly beaten",
+            "¼ cup chopped fresh parsley",
+            "1 tablespoon lemon zest",
+            "1 pound cooked crabmeat",
+            "salt and black pepper to taste",
+            "1 cup dry bread crumbs"
+        ],
+        "directions_raw": [
+            "Make crab cakes: Melt butter in a large skillet over medium heat. Stir in onion and cook until softened and translucent, about 5 minutes. Add celery and bell pepper; continue cooking until vegetables are tender, about 5 minutes. Stir in mustard and cayenne pepper; cook for 2 minutes. Scrape vegetable mixture into a mixing bowl and refrigerate until cold.",
+            "Stir mayonnaise into chilled vegetable mixture along with soft bread crumbs, beaten egg, lemon zest, and parsley until combined. Gently fold in crab meat. Season with salt and pepper. Form crab mixture into 8 cakes, 1/2 inch thick.",
+            "Pour dry bread crumbs into a shallow bowl. Press crab cakes into bread crumbs one at a time until coated on all sides. Gently shake off excess crumbs and place crab cakes onto a plate. Cover with plastic wrap and refrigerate for 1 hour to overnight.",
+            "Make vinaigrette: Whisk together 3/4 cup vegetable oil, lemon juice, lemon zest, jalapeño, ginger, sugar, and salt in a small bowl until well combined. Store in the refrigerator until ready to use.",
+            "Heat 2 cups vegetable oil in a large skillet over medium-high heat. While oil is heating, toss mixed salad greens with vinaigrette in a mixing bowl until evenly coated and divide onto 8 serving plates. Arrange avocado slices over salads and set aside.",
+            "Once oil is shimmering with heat, fry crab cakes in hot oil until golden brown on each side, 2 to 3 minutes per side. Briefly drain on a paper towel-lined plate to remove excess grease. Place a crab cake on top of each salad and serve immediately."
+        ],
+        "ingredients_canonical": [
+            "butter",
+            "finely chopped onion",
+            "⅓ finely chopped celery",
+            "¼ finely chopped red bell pepper",
+            "dry mustard",
+            "½ cayenne pepper",
+            "⅓ mayonnaise",
+            "½ soft bread crumbs",
+            "large egg lightly beaten",
+            "¼ chopped fresh parsley",
+            "lemon zest",
+            "pound cooked crabmeat",
+            "salt black pepper taste",
+            "dry bread crumbs"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 15,
+        "slow_hits": 3,
+        "medium_hits": 11,
+        "cook_speed": "fast",
+        "est_prep_time_min": 40,
+        "est_cook_time_min": 109,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Crab Cakes with Panko",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Easy, restaurant-grade crab cakes with panko. Serve them warm with lemon wedges, cocktail sauce, or tartar sauce alongside a salad.",
+        "ingredients": [
+            "⅓ cup mayonnaise",
+            "1 large egg, beaten",
+            "2 tablespoons Dijon mustard",
+            "2 teaspoons Worcestershire sauce",
+            "½ teaspoon hot sauce",
+            "kosher salt and ground black pepper to taste",
+            "1 pound cooked jumbo lump crabmeat, drained and picked over for shells",
+            "¾ cup panko bread crumbs",
+            "2 tablespoons chopped fresh parsley",
+            "2 tablespoons canola oil, or more as needed"
+        ],
+        "directions": [
+            "Whisk mayonnaise, egg, Dijon, Worcestershire, and hot sauce together in a small bowl. Season with salt and pepper.",
+            "Mix crabmeat, panko, and parsley together in a medium bowl. Gently fold in mayonnaise mixture. Form into 8 patties.",
+            "Heat 2 tablespoons oil in a skillet over medium-high heat. Add patties in batches and cook until golden brown and crisp, 3 to 5 minutes on each side. Transfer to a plate lined with paper towels. Repeat with remaining patties, adding more oil as needed."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "⅓ mayonnaise large egg beaten dijon mustard worcestershire sauce ½ hot sauce kosher salt ground black pepper taste pound cooked jumbo lump crabmeat drained picked over for shells ¾ panko bread crumbs chopped fresh parsley canola oil more as needed",
+        "directions_text": "whisk mayonnaise, egg, dijon, worcestershire, and hot sauce together in a small bowl. season with salt and pepper. mix crabmeat, panko, and parsley together in a medium bowl. gently fold in mayonnaise mixture. form into 8 patties. heat 2 tablespoons oil in a skillet over medium-high heat. add patties in batches and cook until golden brown and crisp, 3 to 5 minutes on each side. transfer to a plate lined with paper towels. repeat with remaining patties, adding more oil as needed.",
+        "combined_text": "easy crab cakes with panko crab cakes crab cakes ⅓ cup mayonnaise 1 large egg, beaten 2 tablespoons dijon mustard 2 teaspoons worcestershire sauce ½ teaspoon hot sauce kosher salt and ground black pepper to taste 1 pound cooked jumbo lump crabmeat, drained and picked over for shells ¾ cup panko bread crumbs 2 tablespoons chopped fresh parsley 2 tablespoons canola oil, or more as needed whisk mayonnaise, egg, dijon, worcestershire, and hot sauce together in a small bowl. season with salt and pepper. mix crabmeat, panko, and parsley together in a medium bowl. gently fold in mayonnaise mixture. form into 8 patties. heat 2 tablespoons oil in a skillet over medium-high heat. add patties in batches and cook until golden brown and crisp, 3 to 5 minutes on each side. transfer to a plate lined with paper towels. repeat with remaining patties, adding more oil as needed.",
+        "ingredients_raw": [
+            "⅓ cup mayonnaise",
+            "1 large egg, beaten",
+            "2 tablespoons Dijon mustard",
+            "2 teaspoons Worcestershire sauce",
+            "½ teaspoon hot sauce",
+            "kosher salt and ground black pepper to taste",
+            "1 pound cooked jumbo lump crabmeat, drained and picked over for shells",
+            "¾ cup panko bread crumbs",
+            "2 tablespoons chopped fresh parsley",
+            "2 tablespoons canola oil, or more as needed"
+        ],
+        "directions_raw": [
+            "Whisk mayonnaise, egg, Dijon, Worcestershire, and hot sauce together in a small bowl. Season with salt and pepper.",
+            "Mix crabmeat, panko, and parsley together in a medium bowl. Gently fold in mayonnaise mixture. Form into 8 patties.",
+            "Heat 2 tablespoons oil in a skillet over medium-high heat. Add patties in batches and cook until golden brown and crisp, 3 to 5 minutes on each side. Transfer to a plate lined with paper towels. Repeat with remaining patties, adding more oil as needed."
+        ],
+        "ingredients_canonical": [
+            "⅓ mayonnaise",
+            "large egg beaten",
+            "dijon mustard",
+            "worcestershire sauce",
+            "½ hot sauce",
+            "kosher salt ground black pepper taste",
+            "pound cooked jumbo lump crabmeat drained picked over for shells",
+            "¾ panko bread crumbs",
+            "chopped fresh parsley",
+            "canola oil more as needed"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "japanese",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Aunt Ruth's Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This down-home crab cake recipe made with claw meat is heavy on the crab and light on the filler.",
+        "ingredients": [
+            "16 saltine crackers, finely crushed",
+            "2 tablespoons water",
+            "1 pound flaked cooked crabmeat",
+            "1 large egg, beaten",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon prepared mustard",
+            "1 tablespoon seafood seasoning (such as Old Bay®) (Optional)",
+            "1 ½ teaspoons Worcestershire sauce",
+            "⅛ teaspoon salt",
+            "⅛ teaspoon black pepper",
+            "½ cup vegetable oil for frying"
+        ],
+        "directions": [
+            "Stir together crushed crackers and water in a large bowl. Let stand until softened, about 1 minute. Fold in crabmeat, egg, mayonnaise, and mustard. Add seafood seasoning, Worcestershire sauce, salt, and pepper; stir gently until evenly mixed. Form crab mixture into 3/4-inch-thick patties and place on a tray.",
+            "Heat vegetable oil in a large skillet over medium heat.",
+            "Cook patties in hot oil until golden brown and hot in the center, about 2 minutes per side. Drain on a paper towel-lined plate before serving."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "saltine crackers finely crushed water pound flaked cooked crabmeat large egg beaten mayonnaise prepared mustard seafood seasoning such as old bay optional ½ worcestershire sauce ⅛ salt ⅛ black pepper ½ vegetable oil for frying",
+        "directions_text": "stir together crushed crackers and water in a large bowl. let stand until softened, about 1 minute. fold in crabmeat, egg, mayonnaise, and mustard. add seafood seasoning, worcestershire sauce, salt, and pepper; stir gently until evenly mixed. form crab mixture into 3/4-inch-thick patties and place on a tray. heat vegetable oil in a large skillet over medium heat. cook patties in hot oil until golden brown and hot in the center, about 2 minutes per side. drain on a paper towel-lined plate before serving.",
+        "combined_text": "aunt ruth's crab cakes crab cakes crab cakes 16 saltine crackers, finely crushed 2 tablespoons water 1 pound flaked cooked crabmeat 1 large egg, beaten 2 tablespoons mayonnaise 1 tablespoon prepared mustard 1 tablespoon seafood seasoning (such as old bay®) (optional) 1 ½ teaspoons worcestershire sauce ⅛ teaspoon salt ⅛ teaspoon black pepper ½ cup vegetable oil for frying stir together crushed crackers and water in a large bowl. let stand until softened, about 1 minute. fold in crabmeat, egg, mayonnaise, and mustard. add seafood seasoning, worcestershire sauce, salt, and pepper; stir gently until evenly mixed. form crab mixture into 3/4-inch-thick patties and place on a tray. heat vegetable oil in a large skillet over medium heat. cook patties in hot oil until golden brown and hot in the center, about 2 minutes per side. drain on a paper towel-lined plate before serving.",
+        "ingredients_raw": [
+            "16 saltine crackers, finely crushed",
+            "2 tablespoons water",
+            "1 pound flaked cooked crabmeat",
+            "1 large egg, beaten",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon prepared mustard",
+            "1 tablespoon seafood seasoning (such as Old Bay®) (Optional)",
+            "1 ½ teaspoons Worcestershire sauce",
+            "⅛ teaspoon salt",
+            "⅛ teaspoon black pepper",
+            "½ cup vegetable oil for frying"
+        ],
+        "directions_raw": [
+            "Stir together crushed crackers and water in a large bowl. Let stand until softened, about 1 minute. Fold in crabmeat, egg, mayonnaise, and mustard. Add seafood seasoning, Worcestershire sauce, salt, and pepper; stir gently until evenly mixed. Form crab mixture into 3/4-inch-thick patties and place on a tray.",
+            "Heat vegetable oil in a large skillet over medium heat.",
+            "Cook patties in hot oil until golden brown and hot in the center, about 2 minutes per side. Drain on a paper towel-lined plate before serving."
+        ],
+        "ingredients_canonical": [
+            "saltine crackers finely crushed",
+            "water",
+            "pound flaked cooked crabmeat",
+            "large egg beaten",
+            "mayonnaise",
+            "prepared mustard",
+            "seafood seasoning such as old bay optional",
+            "½ worcestershire sauce",
+            "⅛ salt",
+            "⅛ black pepper",
+            "½ vegetable oil for frying"
+        ],
+        "cuisine_list": [
+            "european",
+            "german"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Perfect Crab Cakes With Green Onions",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Perfect Crab Cakes -- heavy on crab and light on filler -- anchor a dinner. Be sure to form them compactly so the cakes hold together during frying.",
+        "ingredients": [
+            "1 egg, beaten",
+            "2 tablespoons mayonnaise",
+            "2 tablespoons green onion tops",
+            "¼ teaspoon Chesapeake seasoning, such as Old Bay(r)",
+            "¼ teaspoon hot red pepper sauce",
+            "1 pound lump or backfin crabmeat, drained and picked over for shells",
+            "4 teaspoons milk",
+            "10 saltine crackers, finely crushed",
+            "6 tablespoons olive oil, for frying",
+            "Lemon wedges, for serving"
+        ],
+        "directions": [
+            "Mix egg, mayonnaise, green onions, Old Bay and hot sauce in a small bowl until mayo is completely incorporated, then set aside.",
+            "Lightly break up crabmeat in a medium bowl. Add milk; toss gently to coat. Add crushed saltines; toss gently to combine. Add egg mixture; gently toss, once again, to combine. Using a 1/3-cup measuring cup, scoop up a portion of crab, forming the mixture into a very compact cake. Repeat to make 8 cakes (can be covered with plastic wrap and refrigerated up to 8 hours ahead).",
+            "About 10 minutes before serving, heat oil in a 12-inch skillet over medium to medium-high heat. Carefully add crab cakes; sautee turning once, until golden brown, about 3 minutes per side. Transfer to a paper towel-lined plate. Serve immediately with lemon wedges."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "egg beaten mayonnaise green onion tops ¼ chesapeake seasoning such as old bay r ¼ hot red pepper sauce pound lump backfin crabmeat drained picked over for shells milk saltine crackers finely crushed olive oil for frying lemon wedges for serving",
+        "directions_text": "mix egg, mayonnaise, green onions, old bay and hot sauce in a small bowl until mayo is completely incorporated, then set aside. lightly break up crabmeat in a medium bowl. add milk; toss gently to coat. add crushed saltines; toss gently to combine. add egg mixture; gently toss, once again, to combine. using a 1/3-cup measuring cup, scoop up a portion of crab, forming the mixture into a very compact cake. repeat to make 8 cakes (can be covered with plastic wrap and refrigerated up to 8 hours ahead). about 10 minutes before serving, heat oil in a 12-inch skillet over medium to medium-high heat. carefully add crab cakes; sautee turning once, until golden brown, about 3 minutes per side. transfer to a paper towel-lined plate. serve immediately with lemon wedges.",
+        "combined_text": "perfect crab cakes with green onions crab cakes crab cakes 1 egg, beaten 2 tablespoons mayonnaise 2 tablespoons green onion tops ¼ teaspoon chesapeake seasoning, such as old bay(r) ¼ teaspoon hot red pepper sauce 1 pound lump or backfin crabmeat, drained and picked over for shells 4 teaspoons milk 10 saltine crackers, finely crushed 6 tablespoons olive oil, for frying lemon wedges, for serving mix egg, mayonnaise, green onions, old bay and hot sauce in a small bowl until mayo is completely incorporated, then set aside. lightly break up crabmeat in a medium bowl. add milk; toss gently to coat. add crushed saltines; toss gently to combine. add egg mixture; gently toss, once again, to combine. using a 1/3-cup measuring cup, scoop up a portion of crab, forming the mixture into a very compact cake. repeat to make 8 cakes (can be covered with plastic wrap and refrigerated up to 8 hours ahead). about 10 minutes before serving, heat oil in a 12-inch skillet over medium to medium-high heat. carefully add crab cakes; sautee turning once, until golden brown, about 3 minutes per side. transfer to a paper towel-lined plate. serve immediately with lemon wedges.",
+        "ingredients_raw": [
+            "1 egg, beaten",
+            "2 tablespoons mayonnaise",
+            "2 tablespoons green onion tops",
+            "¼ teaspoon Chesapeake seasoning, such as Old Bay(r)",
+            "¼ teaspoon hot red pepper sauce",
+            "1 pound lump or backfin crabmeat, drained and picked over for shells",
+            "4 teaspoons milk",
+            "10 saltine crackers, finely crushed",
+            "6 tablespoons olive oil, for frying",
+            "Lemon wedges, for serving"
+        ],
+        "directions_raw": [
+            "Mix egg, mayonnaise, green onions, Old Bay and hot sauce in a small bowl until mayo is completely incorporated, then set aside.",
+            "Lightly break up crabmeat in a medium bowl. Add milk; toss gently to coat. Add crushed saltines; toss gently to combine. Add egg mixture; gently toss, once again, to combine. Using a 1/3-cup measuring cup, scoop up a portion of crab, forming the mixture into a very compact cake. Repeat to make 8 cakes (can be covered with plastic wrap and refrigerated up to 8 hours ahead).",
+            "About 10 minutes before serving, heat oil in a 12-inch skillet over medium to medium-high heat. Carefully add crab cakes; sautee turning once, until golden brown, about 3 minutes per side. Transfer to a paper towel-lined plate. Serve immediately with lemon wedges."
+        ],
+        "ingredients_canonical": [
+            "egg beaten",
+            "mayonnaise",
+            "green onion tops",
+            "¼ chesapeake seasoning such as old bay r",
+            "¼ hot red pepper sauce",
+            "pound lump backfin crabmeat drained picked over for shells",
+            "milk",
+            "saltine crackers finely crushed",
+            "olive oil for frying",
+            "lemon wedges for serving"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 10,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Easy Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "These fresh-tasting, easy crab cakes are perfect for dinner any night of the week--just serve them with a simple, low-carb mustard sauce or 1/2 tablespoon of mayonnaise.",
+        "ingredients": [
+            "1 ¾ pounds cooked crabmeat",
+            "2 large eggs",
+            "1 ½ tablespoons mayonnaise",
+            "1 tablespoon diced red bell pepper",
+            "1 tablespoon diced green bell pepper",
+            "1 tablespoon chopped fresh parsley",
+            "1 tablespoon baking powder",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon seafood seasoning (such as Old Bay®)",
+            "1 serving cooking spray"
+        ],
+        "directions": [
+            "Mix crabmeat, eggs, mayonnaise, red and green bell peppers, parsley, baking powder, Worcestershire sauce, and seafood seasoning in a large bowl until blended.",
+            "Spray a large skillet with cooking spray and heat over medium-high heat.",
+            "Working in batches, use a tablespoon to carefully spoon poker chip-sized mini \"cakes\" into the skillet; batter will be loose. Cook on one side until firm, about 2 minutes. Flip and cook until lightly browned and heated through, about 1 minute more."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "¾ pounds cooked crabmeat large eggs ½ mayonnaise diced red bell pepper diced green bell pepper chopped fresh parsley baking powder worcestershire sauce seafood seasoning such as old bay serving cooking spray",
+        "directions_text": "mix crabmeat, eggs, mayonnaise, red and green bell peppers, parsley, baking powder, worcestershire sauce, and seafood seasoning in a large bowl until blended. spray a large skillet with cooking spray and heat over medium-high heat. working in batches, use a tablespoon to carefully spoon poker chip-sized mini \"cakes\" into the skillet; batter will be loose. cook on one side until firm, about 2 minutes. flip and cook until lightly browned and heated through, about 1 minute more.",
+        "combined_text": "easy crab cakes crab cakes crab cakes 1 ¾ pounds cooked crabmeat 2 large eggs 1 ½ tablespoons mayonnaise 1 tablespoon diced red bell pepper 1 tablespoon diced green bell pepper 1 tablespoon chopped fresh parsley 1 tablespoon baking powder 1 teaspoon worcestershire sauce 1 teaspoon seafood seasoning (such as old bay®) 1 serving cooking spray mix crabmeat, eggs, mayonnaise, red and green bell peppers, parsley, baking powder, worcestershire sauce, and seafood seasoning in a large bowl until blended. spray a large skillet with cooking spray and heat over medium-high heat. working in batches, use a tablespoon to carefully spoon poker chip-sized mini \"cakes\" into the skillet; batter will be loose. cook on one side until firm, about 2 minutes. flip and cook until lightly browned and heated through, about 1 minute more.",
+        "ingredients_raw": [
+            "1 ¾ pounds cooked crabmeat",
+            "2 large eggs",
+            "1 ½ tablespoons mayonnaise",
+            "1 tablespoon diced red bell pepper",
+            "1 tablespoon diced green bell pepper",
+            "1 tablespoon chopped fresh parsley",
+            "1 tablespoon baking powder",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon seafood seasoning (such as Old Bay®)",
+            "1 serving cooking spray"
+        ],
+        "directions_raw": [
+            "Mix crabmeat, eggs, mayonnaise, red and green bell peppers, parsley, baking powder, Worcestershire sauce, and seafood seasoning in a large bowl until blended.",
+            "Spray a large skillet with cooking spray and heat over medium-high heat.",
+            "Working in batches, use a tablespoon to carefully spoon poker chip-sized mini \"cakes\" into the skillet; batter will be loose. Cook on one side until firm, about 2 minutes. Flip and cook until lightly browned and heated through, about 1 minute more."
+        ],
+        "ingredients_canonical": [
+            "¾ pounds cooked crabmeat",
+            "large eggs",
+            "½ mayonnaise",
+            "diced red bell pepper",
+            "diced green bell pepper",
+            "chopped fresh parsley",
+            "baking powder",
+            "worcestershire sauce",
+            "seafood seasoning such as old bay",
+            "serving cooking spray"
+        ],
+        "cuisine_list": [
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Fried Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This is a recipe I came up with after trying so many crab cake recipes. I think it is fantastic, and the sauce complements the fried crab cakes. Enjoy! I'm sure you will make this recipe again and again.",
+        "ingredients": [
+            "⅓ cup panko bread crumbs",
+            "1 large egg, beaten",
+            "3 tablespoons chopped fresh parsley",
+            "2 tablespoons mayonnaise",
+            "2 teaspoons seafood seasoning (such as Old Bay®)",
+            "1 teaspoon yellow mustard",
+            "½ pound cooked lump crabmeat, drained",
+            "¼ cup panko bread crumbs, or as needed",
+            "2 tablespoons coconut oil"
+        ],
+        "directions": [
+            "Mix 1/3 cup panko, egg, parsley, mayonnaise, seafood seasoning, and mustard together in a medium bowl. Gently fold in crabmeat. Form into 4 patties and coat with remaining panko.",
+            "Heat coconut oil in a nonstick skillet over medium-high heat. Fry patties until crispy, flipping once, about 12 minutes total.",
+            "While patties cook, prepare the sauce: Combine mayonnaise, chipotle pepper, adobo sauce, and lemon juice in the bowl of a food processor; process until smooth.",
+            "Serve crab cakes with sauce on the side."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "⅓ panko bread crumbs large egg beaten chopped fresh parsley mayonnaise seafood seasoning such as old bay yellow mustard ½ pound cooked lump crabmeat drained ¼ panko bread crumbs as needed coconut oil",
+        "directions_text": "mix 1/3 cup panko, egg, parsley, mayonnaise, seafood seasoning, and mustard together in a medium bowl. gently fold in crabmeat. form into 4 patties and coat with remaining panko. heat coconut oil in a nonstick skillet over medium-high heat. fry patties until crispy, flipping once, about 12 minutes total. while patties cook, prepare the sauce: combine mayonnaise, chipotle pepper, adobo sauce, and lemon juice in the bowl of a food processor; process until smooth. serve crab cakes with sauce on the side.",
+        "combined_text": "fried crab cakes crab cakes crab cakes ⅓ cup panko bread crumbs 1 large egg, beaten 3 tablespoons chopped fresh parsley 2 tablespoons mayonnaise 2 teaspoons seafood seasoning (such as old bay®) 1 teaspoon yellow mustard ½ pound cooked lump crabmeat, drained ¼ cup panko bread crumbs, or as needed 2 tablespoons coconut oil mix 1/3 cup panko, egg, parsley, mayonnaise, seafood seasoning, and mustard together in a medium bowl. gently fold in crabmeat. form into 4 patties and coat with remaining panko. heat coconut oil in a nonstick skillet over medium-high heat. fry patties until crispy, flipping once, about 12 minutes total. while patties cook, prepare the sauce: combine mayonnaise, chipotle pepper, adobo sauce, and lemon juice in the bowl of a food processor; process until smooth. serve crab cakes with sauce on the side.",
+        "ingredients_raw": [
+            "⅓ cup panko bread crumbs",
+            "1 large egg, beaten",
+            "3 tablespoons chopped fresh parsley",
+            "2 tablespoons mayonnaise",
+            "2 teaspoons seafood seasoning (such as Old Bay®)",
+            "1 teaspoon yellow mustard",
+            "½ pound cooked lump crabmeat, drained",
+            "¼ cup panko bread crumbs, or as needed",
+            "2 tablespoons coconut oil"
+        ],
+        "directions_raw": [
+            "Mix 1/3 cup panko, egg, parsley, mayonnaise, seafood seasoning, and mustard together in a medium bowl. Gently fold in crabmeat. Form into 4 patties and coat with remaining panko.",
+            "Heat coconut oil in a nonstick skillet over medium-high heat. Fry patties until crispy, flipping once, about 12 minutes total.",
+            "While patties cook, prepare the sauce: Combine mayonnaise, chipotle pepper, adobo sauce, and lemon juice in the bowl of a food processor; process until smooth.",
+            "Serve crab cakes with sauce on the side."
+        ],
+        "ingredients_canonical": [
+            "⅓ panko bread crumbs",
+            "large egg beaten",
+            "chopped fresh parsley",
+            "mayonnaise",
+            "seafood seasoning such as old bay",
+            "yellow mustard",
+            "½ pound cooked lump crabmeat drained",
+            "¼ panko bread crumbs as needed",
+            "coconut oil"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "filipino",
+            "german",
+            "greek",
+            "japanese",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 8,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 32,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Poor Man's Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Economical way to make tasty crab cakes. Use whatever cheese you have on hand or enjoy to make these.",
+        "ingredients": [
+            "3 cold baked potatoes",
+            "½ cup butter",
+            "½ cup chopped bell pepper",
+            "½ cup chopped onion",
+            "½ cup diced celery",
+            "½ cup milk",
+            "1 pound imitation crabmeat, flaked and chopped",
+            "½ cup shredded Cheddar cheese",
+            "¼ cup chopped fresh dill",
+            "1 pinch salt to taste",
+            "2 eggs, beaten",
+            "1 tablespoon olive oil"
+        ],
+        "directions": [
+            "Split and mash the potatoes in a mixing bowl; set aside. The potato skins may be left on if desired.",
+            "Melt the butter in a saucepan over medium-high heat; cook and stir the bell pepper, onion, and celery in the melted butter until they begin to soften, 5 to 7 minutes. Remove from heat and stir the milk into the mixture; pour the mixture over the mashed potatoes and stir to combine. The consistency should not be too runny. Allow the mixture to cool completely.",
+            "Preheat an oven to 350 degrees F (175 degrees C).",
+            "Add the crabmeat, Cheddar cheese, and dill to the potato mixture; season with salt. Lightly mix. Pour the beaten eggs into the mixture and stir to combine. If the mixture is too thin, bread crumbs or flour can be added to make more firm. Form the mixture into 24 small patties.",
+            "Heat the olive oil in a large skillet over medium heat; cook the patties in small batches in the skillet until completely browned and crisp, 3 to 5 minutes per side. Do not flip until bottom is fully browned and crisp; this ensures the patties will not break. Transfer to a baking dish in the oven to keep hot until all are cooked. Serve hot."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "cold baked potatoes ½ butter ½ chopped bell pepper ½ chopped onion ½ diced celery ½ milk pound imitation crabmeat flaked chopped ½ shredded cheddar cheese ¼ chopped fresh dill pinch salt taste eggs beaten olive oil",
+        "directions_text": "split and mash the potatoes in a mixing bowl; set aside. the potato skins may be left on if desired. melt the butter in a saucepan over medium-high heat; cook and stir the bell pepper, onion, and celery in the melted butter until they begin to soften, 5 to 7 minutes. remove from heat and stir the milk into the mixture; pour the mixture over the mashed potatoes and stir to combine. the consistency should not be too runny. allow the mixture to cool completely. preheat an oven to 350 degrees f (175 degrees c). add the crabmeat, cheddar cheese, and dill to the potato mixture; season with salt. lightly mix. pour the beaten eggs into the mixture and stir to combine. if the mixture is too thin, bread crumbs or flour can be added to make more firm. form the mixture into 24 small patties. heat the olive oil in a large skillet over medium heat; cook the patties in small batches in the skillet until completely browned and crisp, 3 to 5 minutes per side. do not flip until bottom is fully browned and crisp; this ensures the patties will not break. transfer to a baking dish in the oven to keep hot until all are cooked. serve hot.",
+        "combined_text": "poor man's crab cakes crab cakes crab cakes 3 cold baked potatoes ½ cup butter ½ cup chopped bell pepper ½ cup chopped onion ½ cup diced celery ½ cup milk 1 pound imitation crabmeat, flaked and chopped ½ cup shredded cheddar cheese ¼ cup chopped fresh dill 1 pinch salt to taste 2 eggs, beaten 1 tablespoon olive oil split and mash the potatoes in a mixing bowl; set aside. the potato skins may be left on if desired. melt the butter in a saucepan over medium-high heat; cook and stir the bell pepper, onion, and celery in the melted butter until they begin to soften, 5 to 7 minutes. remove from heat and stir the milk into the mixture; pour the mixture over the mashed potatoes and stir to combine. the consistency should not be too runny. allow the mixture to cool completely. preheat an oven to 350 degrees f (175 degrees c). add the crabmeat, cheddar cheese, and dill to the potato mixture; season with salt. lightly mix. pour the beaten eggs into the mixture and stir to combine. if the mixture is too thin, bread crumbs or flour can be added to make more firm. form the mixture into 24 small patties. heat the olive oil in a large skillet over medium heat; cook the patties in small batches in the skillet until completely browned and crisp, 3 to 5 minutes per side. do not flip until bottom is fully browned and crisp; this ensures the patties will not break. transfer to a baking dish in the oven to keep hot until all are cooked. serve hot.",
+        "ingredients_raw": [
+            "3 cold baked potatoes",
+            "½ cup butter",
+            "½ cup chopped bell pepper",
+            "½ cup chopped onion",
+            "½ cup diced celery",
+            "½ cup milk",
+            "1 pound imitation crabmeat, flaked and chopped",
+            "½ cup shredded Cheddar cheese",
+            "¼ cup chopped fresh dill",
+            "1 pinch salt to taste",
+            "2 eggs, beaten",
+            "1 tablespoon olive oil"
+        ],
+        "directions_raw": [
+            "Split and mash the potatoes in a mixing bowl; set aside. The potato skins may be left on if desired.",
+            "Melt the butter in a saucepan over medium-high heat; cook and stir the bell pepper, onion, and celery in the melted butter until they begin to soften, 5 to 7 minutes. Remove from heat and stir the milk into the mixture; pour the mixture over the mashed potatoes and stir to combine. The consistency should not be too runny. Allow the mixture to cool completely.",
+            "Preheat an oven to 350 degrees F (175 degrees C).",
+            "Add the crabmeat, Cheddar cheese, and dill to the potato mixture; season with salt. Lightly mix. Pour the beaten eggs into the mixture and stir to combine. If the mixture is too thin, bread crumbs or flour can be added to make more firm. Form the mixture into 24 small patties.",
+            "Heat the olive oil in a large skillet over medium heat; cook the patties in small batches in the skillet until completely browned and crisp, 3 to 5 minutes per side. Do not flip until bottom is fully browned and crisp; this ensures the patties will not break. Transfer to a baking dish in the oven to keep hot until all are cooked. Serve hot."
+        ],
+        "ingredients_canonical": [
+            "cold baked potatoes",
+            "½ butter",
+            "½ chopped bell pepper",
+            "½ chopped onion",
+            "½ diced celery",
+            "½ milk",
+            "pound imitation crabmeat flaked chopped",
+            "½ shredded cheddar cheese",
+            "¼ chopped fresh dill",
+            "pinch salt taste",
+            "eggs beaten",
+            "olive oil"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 13,
+        "slow_hits": 0,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 32,
+        "est_cook_time_min": 50,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Dorsey's Fish & Oyster House Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This recipe makes traditional crab cakes. Enjoy!",
+        "ingredients": [
+            "1 ½ teaspoons Old Bay Seasoning™",
+            "2 tablespoons biscuit baking mix",
+            "1 tablespoon dried parsley",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon prepared mustard",
+            "1 egg, beaten",
+            "¼ teaspoon Worcestershire sauce",
+            "1 pound crabmeat",
+            "2 quarts vegetable oil for frying"
+        ],
+        "directions": [
+            "Mix together Old Bay™ seasoning, baking mix, and parsley in a medium size mixing bowl. Stir mayonnaise, mustard, egg, and Worcestershire sauce into dry ingredients. Mix in crab meat gently. Form mixture into 6 to 8 balls.",
+            "Heat 1 inch oil in a large, heavy bottomed skillet to 365 degrees F (185 degrees C). Place balls in pan, and flatten slightly with a spatula. Flip the crab cakes over after 3 minutes, or when the crab cake is browned on one side. Continue frying until done. Drain on paper towels."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "½ old bay seasoning biscuit baking mix dried parsley mayonnaise prepared mustard egg beaten ¼ worcestershire sauce pound crabmeat quarts vegetable oil for frying",
+        "directions_text": "mix together old bay™ seasoning, baking mix, and parsley in a medium size mixing bowl. stir mayonnaise, mustard, egg, and worcestershire sauce into dry ingredients. mix in crab meat gently. form mixture into 6 to 8 balls. heat 1 inch oil in a large, heavy bottomed skillet to 365 degrees f (185 degrees c). place balls in pan, and flatten slightly with a spatula. flip the crab cakes over after 3 minutes, or when the crab cake is browned on one side. continue frying until done. drain on paper towels.",
+        "combined_text": "dorsey's fish & oyster house crab cakes crab cakes crab cakes 1 ½ teaspoons old bay seasoning™ 2 tablespoons biscuit baking mix 1 tablespoon dried parsley 2 tablespoons mayonnaise 1 tablespoon prepared mustard 1 egg, beaten ¼ teaspoon worcestershire sauce 1 pound crabmeat 2 quarts vegetable oil for frying mix together old bay™ seasoning, baking mix, and parsley in a medium size mixing bowl. stir mayonnaise, mustard, egg, and worcestershire sauce into dry ingredients. mix in crab meat gently. form mixture into 6 to 8 balls. heat 1 inch oil in a large, heavy bottomed skillet to 365 degrees f (185 degrees c). place balls in pan, and flatten slightly with a spatula. flip the crab cakes over after 3 minutes, or when the crab cake is browned on one side. continue frying until done. drain on paper towels.",
+        "ingredients_raw": [
+            "1 ½ teaspoons Old Bay Seasoning™",
+            "2 tablespoons biscuit baking mix",
+            "1 tablespoon dried parsley",
+            "2 tablespoons mayonnaise",
+            "1 tablespoon prepared mustard",
+            "1 egg, beaten",
+            "¼ teaspoon Worcestershire sauce",
+            "1 pound crabmeat",
+            "2 quarts vegetable oil for frying"
+        ],
+        "directions_raw": [
+            "Mix together Old Bay™ seasoning, baking mix, and parsley in a medium size mixing bowl. Stir mayonnaise, mustard, egg, and Worcestershire sauce into dry ingredients. Mix in crab meat gently. Form mixture into 6 to 8 balls.",
+            "Heat 1 inch oil in a large, heavy bottomed skillet to 365 degrees F (185 degrees C). Place balls in pan, and flatten slightly with a spatula. Flip the crab cakes over after 3 minutes, or when the crab cake is browned on one side. Continue frying until done. Drain on paper towels."
+        ],
+        "ingredients_canonical": [
+            "½ old bay seasoning",
+            "biscuit baking mix",
+            "dried parsley",
+            "mayonnaise",
+            "prepared mustard",
+            "egg beaten",
+            "¼ worcestershire sauce",
+            "pound crabmeat",
+            "quarts vegetable oil for frying"
+        ],
+        "cuisine_list": [
+            "european",
+            "german",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Air Fryer Cajun Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This is a small batch recipe making just three crab cakes in an air fryer, but can be doubled easily. The seasoning is a starting point and can be adjusted as needed.",
+        "ingredients": [
+            "¾ cup panko bread crumbs",
+            "¼ cup mayonnaise",
+            "1 egg",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon Dijon mustard",
+            "¾ teaspoon Cajun seasoning",
+            "½ teaspoon salt",
+            "¼ teaspoon cayenne pepper",
+            "¼ teaspoon ground white pepper (Optional)",
+            "4 ounces fresh lump crabmeat",
+            "3 tablespoons remoulade sauce, or to taste",
+            "3 brioche slider buns (Optional)"
+        ],
+        "directions": [
+            "Preheat an air fryer to 370 degrees F (188 degrees C) according to manufacturer's instructions.",
+            "Mix bread crumbs, mayonnaise, egg, Worcestershire, mustard, Cajun seasoning, salt, cayenne, and pepper together in a small mixing bowl. Fold in crabmeat gently.",
+            "Form into 3 equal-size crab cakes using a biscuit cutter. Place cakes on a parchment round and transfer to the air fryer basket.",
+            "Cook in the preheated air fryer for 6 minutes. Flip and continue to cook until browned, about 6 minutes more. Serve with remoulade sauce on slider buns."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "¾ panko bread crumbs ¼ mayonnaise egg worcestershire sauce dijon mustard ¾ cajun seasoning ½ salt ¼ cayenne pepper ¼ ground white pepper optional ounces fresh lump crabmeat remoulade sauce taste brioche slider buns optional",
+        "directions_text": "preheat an air fryer to 370 degrees f (188 degrees c) according to manufacturer's instructions. mix bread crumbs, mayonnaise, egg, worcestershire, mustard, cajun seasoning, salt, cayenne, and pepper together in a small mixing bowl. fold in crabmeat gently. form into 3 equal-size crab cakes using a biscuit cutter. place cakes on a parchment round and transfer to the air fryer basket. cook in the preheated air fryer for 6 minutes. flip and continue to cook until browned, about 6 minutes more. serve with remoulade sauce on slider buns.",
+        "combined_text": "air fryer cajun crab cakes crab cakes crab cakes ¾ cup panko bread crumbs ¼ cup mayonnaise 1 egg 2 teaspoons worcestershire sauce 1 teaspoon dijon mustard ¾ teaspoon cajun seasoning ½ teaspoon salt ¼ teaspoon cayenne pepper ¼ teaspoon ground white pepper (optional) 4 ounces fresh lump crabmeat 3 tablespoons remoulade sauce, or to taste 3 brioche slider buns (optional) preheat an air fryer to 370 degrees f (188 degrees c) according to manufacturer's instructions. mix bread crumbs, mayonnaise, egg, worcestershire, mustard, cajun seasoning, salt, cayenne, and pepper together in a small mixing bowl. fold in crabmeat gently. form into 3 equal-size crab cakes using a biscuit cutter. place cakes on a parchment round and transfer to the air fryer basket. cook in the preheated air fryer for 6 minutes. flip and continue to cook until browned, about 6 minutes more. serve with remoulade sauce on slider buns.",
+        "ingredients_raw": [
+            "¾ cup panko bread crumbs",
+            "¼ cup mayonnaise",
+            "1 egg",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon Dijon mustard",
+            "¾ teaspoon Cajun seasoning",
+            "½ teaspoon salt",
+            "¼ teaspoon cayenne pepper",
+            "¼ teaspoon ground white pepper (Optional)",
+            "4 ounces fresh lump crabmeat",
+            "3 tablespoons remoulade sauce, or to taste",
+            "3 brioche slider buns (Optional)"
+        ],
+        "directions_raw": [
+            "Preheat an air fryer to 370 degrees F (188 degrees C) according to manufacturer's instructions.",
+            "Mix bread crumbs, mayonnaise, egg, Worcestershire, mustard, Cajun seasoning, salt, cayenne, and pepper together in a small mixing bowl. Fold in crabmeat gently.",
+            "Form into 3 equal-size crab cakes using a biscuit cutter. Place cakes on a parchment round and transfer to the air fryer basket.",
+            "Cook in the preheated air fryer for 6 minutes. Flip and continue to cook until browned, about 6 minutes more. Serve with remoulade sauce on slider buns."
+        ],
+        "ingredients_canonical": [
+            "¾ panko bread crumbs",
+            "¼ mayonnaise",
+            "egg",
+            "worcestershire sauce",
+            "dijon mustard",
+            "¾ cajun seasoning",
+            "½ salt",
+            "¼ cayenne pepper",
+            "¼ ground white pepper optional",
+            "ounces fresh lump crabmeat",
+            "remoulade sauce taste",
+            "brioche slider buns optional"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "japanese"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Laura's Maryland Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "It is so hard to find a true Maryland crab cake recipe out there. This is basically the recipe my grandmother used, but I've tweaked it just a bit. I also usually double the recipe.",
+        "ingredients": [
+            "1 egg",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon mayonnaise",
+            "1 tablespoon dried parsley flakes",
+            "1 teaspoon seafood seasoning (such as Old Bay®)",
+            "1 teaspoon baking powder",
+            "¼ teaspoon salt",
+            "2 slices white bread, crusts removed",
+            "1 pound fresh crabmeat"
+        ],
+        "directions": [
+            "Mix egg, Worcestershire sauce, mayonnaise, parsley, seafood seasoning, baking powder, and salt together with your hands in a large mixing bowl. Tear bread into tiny bits; add to the egg mixture. Gently fold in crabmeat; form into 4 cakes and arrange onto a lined baking sheet.",
+            "Refrigerate at least 30 minutes.",
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Bake crab cakes until heated through and lightly browned, about 30 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "egg worcestershire sauce mayonnaise dried parsley flakes seafood seasoning such as old bay baking powder ¼ salt slices white bread crusts removed pound fresh crabmeat",
+        "directions_text": "mix egg, worcestershire sauce, mayonnaise, parsley, seafood seasoning, baking powder, and salt together with your hands in a large mixing bowl. tear bread into tiny bits; add to the egg mixture. gently fold in crabmeat; form into 4 cakes and arrange onto a lined baking sheet. refrigerate at least 30 minutes. preheat oven to 375 degrees f (190 degrees c). bake crab cakes until heated through and lightly browned, about 30 minutes.",
+        "combined_text": "laura's maryland crab cakes crab cakes crab cakes 1 egg 1 tablespoon worcestershire sauce 1 tablespoon mayonnaise 1 tablespoon dried parsley flakes 1 teaspoon seafood seasoning (such as old bay®) 1 teaspoon baking powder ¼ teaspoon salt 2 slices white bread, crusts removed 1 pound fresh crabmeat mix egg, worcestershire sauce, mayonnaise, parsley, seafood seasoning, baking powder, and salt together with your hands in a large mixing bowl. tear bread into tiny bits; add to the egg mixture. gently fold in crabmeat; form into 4 cakes and arrange onto a lined baking sheet. refrigerate at least 30 minutes. preheat oven to 375 degrees f (190 degrees c). bake crab cakes until heated through and lightly browned, about 30 minutes.",
+        "ingredients_raw": [
+            "1 egg",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon mayonnaise",
+            "1 tablespoon dried parsley flakes",
+            "1 teaspoon seafood seasoning (such as Old Bay®)",
+            "1 teaspoon baking powder",
+            "¼ teaspoon salt",
+            "2 slices white bread, crusts removed",
+            "1 pound fresh crabmeat"
+        ],
+        "directions_raw": [
+            "Mix egg, Worcestershire sauce, mayonnaise, parsley, seafood seasoning, baking powder, and salt together with your hands in a large mixing bowl. Tear bread into tiny bits; add to the egg mixture. Gently fold in crabmeat; form into 4 cakes and arrange onto a lined baking sheet.",
+            "Refrigerate at least 30 minutes.",
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Bake crab cakes until heated through and lightly browned, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "egg",
+            "worcestershire sauce",
+            "mayonnaise",
+            "dried parsley flakes",
+            "seafood seasoning such as old bay",
+            "baking powder",
+            "¼ salt",
+            "slices white bread crusts removed",
+            "pound fresh crabmeat"
+        ],
+        "cuisine_list": [
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mini Crab Cakes with Curried Tartar Sauce",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "My family loves these. You don't need to use the curried tartar--you can use regular, but the curried tartar is what sets this recipe apart. I ask you to give it a try before deciding against it!",
+        "ingredients": [
+            "¼ cup mayonnaise",
+            "2 teaspoons relish",
+            "1 teaspoon spicy mustard",
+            "½ teaspoon hot sauce",
+            "1 teaspoon garam masala",
+            "1 teaspoon minced cilantro"
+        ],
+        "directions": [
+            "Mix mayonnaise, relish, mustard, hot sauce, garam masala, and cilantro for tartar sauce in a bowl until well blended. Cover and chill in the refrigerator until flavors have blended, about 1 hour.",
+            "Melt butter in a frying pan. Add celery, onion, and bell peppers; saute until soft, about 5 minutes. Transfer to a bowl and set aside to cool.",
+            "Place bread crumbs and crabmeat in a large bowl. Add cooled vegetables, eggs, seafood seasoning, pepper, and cayenne; mix until well blended and moist. Form crab mixture into 1 1/2- to 2-inch balls.",
+            "Heat oil in a frying pan over medium or medium-low heat. Add crab balls and flatten the tops with a spatula. Fry to a golden brown, about 5 minutes. Carefully flip and repeat to brown the other side. Drain on a wire rack.",
+            "Serve with curried tartar sauce."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "¼ mayonnaise relish spicy mustard ½ hot sauce garam masala minced cilantro",
+        "directions_text": "mix mayonnaise, relish, mustard, hot sauce, garam masala, and cilantro for tartar sauce in a bowl until well blended. cover and chill in the refrigerator until flavors have blended, about 1 hour. melt butter in a frying pan. add celery, onion, and bell peppers; saute until soft, about 5 minutes. transfer to a bowl and set aside to cool. place bread crumbs and crabmeat in a large bowl. add cooled vegetables, eggs, seafood seasoning, pepper, and cayenne; mix until well blended and moist. form crab mixture into 1 1/2- to 2-inch balls. heat oil in a frying pan over medium or medium-low heat. add crab balls and flatten the tops with a spatula. fry to a golden brown, about 5 minutes. carefully flip and repeat to brown the other side. drain on a wire rack. serve with curried tartar sauce.",
+        "combined_text": "mini crab cakes with curried tartar sauce crab cakes crab cakes ¼ cup mayonnaise 2 teaspoons relish 1 teaspoon spicy mustard ½ teaspoon hot sauce 1 teaspoon garam masala 1 teaspoon minced cilantro mix mayonnaise, relish, mustard, hot sauce, garam masala, and cilantro for tartar sauce in a bowl until well blended. cover and chill in the refrigerator until flavors have blended, about 1 hour. melt butter in a frying pan. add celery, onion, and bell peppers; saute until soft, about 5 minutes. transfer to a bowl and set aside to cool. place bread crumbs and crabmeat in a large bowl. add cooled vegetables, eggs, seafood seasoning, pepper, and cayenne; mix until well blended and moist. form crab mixture into 1 1/2- to 2-inch balls. heat oil in a frying pan over medium or medium-low heat. add crab balls and flatten the tops with a spatula. fry to a golden brown, about 5 minutes. carefully flip and repeat to brown the other side. drain on a wire rack. serve with curried tartar sauce.",
+        "ingredients_raw": [
+            "¼ cup mayonnaise",
+            "2 teaspoons relish",
+            "1 teaspoon spicy mustard",
+            "½ teaspoon hot sauce",
+            "1 teaspoon garam masala",
+            "1 teaspoon minced cilantro"
+        ],
+        "directions_raw": [
+            "Mix mayonnaise, relish, mustard, hot sauce, garam masala, and cilantro for tartar sauce in a bowl until well blended. Cover and chill in the refrigerator until flavors have blended, about 1 hour.",
+            "Melt butter in a frying pan. Add celery, onion, and bell peppers; saute until soft, about 5 minutes. Transfer to a bowl and set aside to cool.",
+            "Place bread crumbs and crabmeat in a large bowl. Add cooled vegetables, eggs, seafood seasoning, pepper, and cayenne; mix until well blended and moist. Form crab mixture into 1 1/2- to 2-inch balls.",
+            "Heat oil in a frying pan over medium or medium-low heat. Add crab balls and flatten the tops with a spatula. Fry to a golden brown, about 5 minutes. Carefully flip and repeat to brown the other side. Drain on a wire rack.",
+            "Serve with curried tartar sauce."
+        ],
+        "ingredients_canonical": [
+            "¼ mayonnaise",
+            "relish",
+            "spicy mustard",
+            "½ hot sauce",
+            "garam masala",
+            "minced cilantro"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "indian"
+        ],
+        "course_list": [
+            "sauce",
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Crab Cakes with Cilantro-Sour Cream Sauce",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This crab cakes recipe can be used to make a hearty dinner or bite-sized hors d'oeuvres!",
+        "ingredients": [
+            "2 large eggs, beaten",
+            "¼ cup fresh lemon juice",
+            "¼ cup mayonnaise",
+            "¼ cup minced red bell pepper",
+            "¼ cup diced red onion",
+            "2 tablespoons chopped fresh cilantro",
+            "¼ teaspoon salt",
+            "1 pinch cayenne pepper",
+            "freshly ground black pepper to taste",
+            "1 pound fresh crabmeat, well picked over",
+            "2 cups dry bread crumbs, divided",
+            "Sauce:",
+            "1 ⅓ cups sour cream, or more to taste",
+            "⅔ cup mayonnaise",
+            "¼ cup minced red bell pepper",
+            "2 cloves garlic, minced",
+            "2 tablespoons lemon juice",
+            "2 teaspoons finely chopped fresh cilantro",
+            "1 pinch cayenne pepper",
+            "salt and freshly ground black pepper to taste",
+            "¼ cup corn oil for frying"
+        ],
+        "directions": [
+            "Put eggs, lemon juice, mayonnaise, bell pepper, onion, cilantro, salt, cayenne pepper, and black pepper in a mixing bowl and mix well. Gently fold in crabmeat and 1/2 of the bread crumbs.",
+            "Form crabmeat mixture into 8 patties. Coat both sides in remaining bread crumbs. Place patties on waxed paper and freeze for 15 minutes.",
+            "Meanwhile, preheat the oven to 350 degrees F (175 degrees C).",
+            "Prepare the sauce: Mix sour cream, mayonnaise, bell pepper, garlic, lemon juice, cilantro, and cayenne pepper together in a bowl. Season with salt and black pepper.",
+            "Heat 1/2 of the oil in a skillet over medium heat. Carefully add patties to hot oil in batches. Fry until golden, about 30 seconds on each side. Transfer to a paper towel-lined plate to drain. Repeat with remaining patties, adding remaining oil as needed.",
+            "Transfer patties to a baking sheet and bake in the preheated oven for 10 minutes. An instant-read thermometer inserted into the center of a patty should read at least 165 degrees F (74 degrees C).",
+            "Serve patties with sauce."
+        ],
+        "num_ingredients": 21,
+        "num_steps": 7,
+        "ingredient_text": "large eggs beaten ¼ fresh lemon juice ¼ mayonnaise ¼ minced red bell pepper ¼ diced red onion chopped fresh cilantro ¼ salt pinch cayenne pepper freshly ground black pepper taste pound fresh crabmeat well picked over dry bread crumbs divided sauce ⅓ sour cream more taste ⅔ mayonnaise ¼ minced red bell pepper cloves garlic minced lemon juice finely chopped fresh cilantro pinch cayenne pepper salt freshly ground black pepper taste ¼ corn oil for frying",
+        "directions_text": "put eggs, lemon juice, mayonnaise, bell pepper, onion, cilantro, salt, cayenne pepper, and black pepper in a mixing bowl and mix well. gently fold in crabmeat and 1/2 of the bread crumbs. form crabmeat mixture into 8 patties. coat both sides in remaining bread crumbs. place patties on waxed paper and freeze for 15 minutes. meanwhile, preheat the oven to 350 degrees f (175 degrees c). prepare the sauce: mix sour cream, mayonnaise, bell pepper, garlic, lemon juice, cilantro, and cayenne pepper together in a bowl. season with salt and black pepper. heat 1/2 of the oil in a skillet over medium heat. carefully add patties to hot oil in batches. fry until golden, about 30 seconds on each side. transfer to a paper towel-lined plate to drain. repeat with remaining patties, adding remaining oil as needed. transfer patties to a baking sheet and bake in the preheated oven for 10 minutes. an instant-read thermometer inserted into the center of a patty should read at least 165 degrees f (74 degrees c). serve patties with sauce.",
+        "combined_text": "crab cakes with cilantro-sour cream sauce crab cakes crab cakes 2 large eggs, beaten ¼ cup fresh lemon juice ¼ cup mayonnaise ¼ cup minced red bell pepper ¼ cup diced red onion 2 tablespoons chopped fresh cilantro ¼ teaspoon salt 1 pinch cayenne pepper freshly ground black pepper to taste 1 pound fresh crabmeat, well picked over 2 cups dry bread crumbs, divided sauce: 1 ⅓ cups sour cream, or more to taste ⅔ cup mayonnaise ¼ cup minced red bell pepper 2 cloves garlic, minced 2 tablespoons lemon juice 2 teaspoons finely chopped fresh cilantro 1 pinch cayenne pepper salt and freshly ground black pepper to taste ¼ cup corn oil for frying put eggs, lemon juice, mayonnaise, bell pepper, onion, cilantro, salt, cayenne pepper, and black pepper in a mixing bowl and mix well. gently fold in crabmeat and 1/2 of the bread crumbs. form crabmeat mixture into 8 patties. coat both sides in remaining bread crumbs. place patties on waxed paper and freeze for 15 minutes. meanwhile, preheat the oven to 350 degrees f (175 degrees c). prepare the sauce: mix sour cream, mayonnaise, bell pepper, garlic, lemon juice, cilantro, and cayenne pepper together in a bowl. season with salt and black pepper. heat 1/2 of the oil in a skillet over medium heat. carefully add patties to hot oil in batches. fry until golden, about 30 seconds on each side. transfer to a paper towel-lined plate to drain. repeat with remaining patties, adding remaining oil as needed. transfer patties to a baking sheet and bake in the preheated oven for 10 minutes. an instant-read thermometer inserted into the center of a patty should read at least 165 degrees f (74 degrees c). serve patties with sauce.",
+        "ingredients_raw": [
+            "2 large eggs, beaten",
+            "¼ cup fresh lemon juice",
+            "¼ cup mayonnaise",
+            "¼ cup minced red bell pepper",
+            "¼ cup diced red onion",
+            "2 tablespoons chopped fresh cilantro",
+            "¼ teaspoon salt",
+            "1 pinch cayenne pepper",
+            "freshly ground black pepper to taste",
+            "1 pound fresh crabmeat, well picked over",
+            "2 cups dry bread crumbs, divided",
+            "Sauce:",
+            "1 ⅓ cups sour cream, or more to taste",
+            "⅔ cup mayonnaise",
+            "¼ cup minced red bell pepper",
+            "2 cloves garlic, minced",
+            "2 tablespoons lemon juice",
+            "2 teaspoons finely chopped fresh cilantro",
+            "1 pinch cayenne pepper",
+            "salt and freshly ground black pepper to taste",
+            "¼ cup corn oil for frying"
+        ],
+        "directions_raw": [
+            "Put eggs, lemon juice, mayonnaise, bell pepper, onion, cilantro, salt, cayenne pepper, and black pepper in a mixing bowl and mix well. Gently fold in crabmeat and 1/2 of the bread crumbs.",
+            "Form crabmeat mixture into 8 patties. Coat both sides in remaining bread crumbs. Place patties on waxed paper and freeze for 15 minutes.",
+            "Meanwhile, preheat the oven to 350 degrees F (175 degrees C).",
+            "Prepare the sauce: Mix sour cream, mayonnaise, bell pepper, garlic, lemon juice, cilantro, and cayenne pepper together in a bowl. Season with salt and black pepper.",
+            "Heat 1/2 of the oil in a skillet over medium heat. Carefully add patties to hot oil in batches. Fry until golden, about 30 seconds on each side. Transfer to a paper towel-lined plate to drain. Repeat with remaining patties, adding remaining oil as needed.",
+            "Transfer patties to a baking sheet and bake in the preheated oven for 10 minutes. An instant-read thermometer inserted into the center of a patty should read at least 165 degrees F (74 degrees C).",
+            "Serve patties with sauce."
+        ],
+        "ingredients_canonical": [
+            "large eggs beaten",
+            "¼ fresh lemon juice",
+            "¼ mayonnaise",
+            "¼ minced red bell pepper",
+            "¼ diced red onion",
+            "chopped fresh cilantro",
+            "¼ salt",
+            "pinch cayenne pepper",
+            "freshly ground black pepper taste",
+            "pound fresh crabmeat well picked over",
+            "dry bread crumbs divided",
+            "sauce",
+            "⅓ sour cream more taste",
+            "⅔ mayonnaise",
+            "¼ minced red bell pepper",
+            "cloves garlic minced",
+            "lemon juice",
+            "finely chopped fresh cilantro",
+            "pinch cayenne pepper",
+            "salt freshly ground black pepper taste",
+            "¼ corn oil for frying"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "middle eastern region",
+            "russian"
+        ],
+        "course_list": [
+            "sauce",
+            "drink",
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 39,
+        "est_cook_time_min": 58,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Fried Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "A really easy and very tasty crab cake recipe I put together with my 5-year-old son.",
+        "ingredients": [
+            "½ (4 ounce) packet saltine crackers, crushed",
+            "1 medium bell pepper, minced",
+            "2 stalks green onions, white parts only, minced",
+            "1 large egg, lightly beaten",
+            "3 tablespoons mayonnaise, or more to taste",
+            "1 teaspoon Dijon mustard, or more to taste",
+            "2 pounds cooked blue crabmeat, drained",
+            "2 tablespoons seafood seasoning (such as Old Bay®)",
+            "1 teaspoon ground black pepper",
+            "1 cup Italian-seasoned bread crumbs, or more as needed",
+            "2 tablespoons canola oil, or more as needed"
+        ],
+        "directions": [
+            "Mix crushed crackers, bell pepper, green onions, egg, mayonnaise, and Dijon together in a large bowl. Gently fold in crabmeat, seafood seasoning, and black pepper using a wooden spoon or spatula. Form crabmeat mixture into 1/2-inch-thick patties, 2 to 3 inches in diameter.",
+            "Put bread crumbs on a plate. Coat patties with bread crumbs.",
+            "Heat 2 tablespoons oil in a skillet over medium-high heat. Add patties in batches and cook until golden brown, 3 to 5 minutes on each side. Transfer to a plate lined with paper towels. Repeat with remaining patties, adding more oil as needed."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "½ ounce packet saltine crackers crushed medium bell pepper minced stalks green onions white parts only minced large egg lightly beaten mayonnaise more taste dijon mustard more taste pounds cooked blue crabmeat drained seafood seasoning such as old bay ground black pepper italian-seasoned bread crumbs more as needed canola oil more as needed",
+        "directions_text": "mix crushed crackers, bell pepper, green onions, egg, mayonnaise, and dijon together in a large bowl. gently fold in crabmeat, seafood seasoning, and black pepper using a wooden spoon or spatula. form crabmeat mixture into 1/2-inch-thick patties, 2 to 3 inches in diameter. put bread crumbs on a plate. coat patties with bread crumbs. heat 2 tablespoons oil in a skillet over medium-high heat. add patties in batches and cook until golden brown, 3 to 5 minutes on each side. transfer to a plate lined with paper towels. repeat with remaining patties, adding more oil as needed.",
+        "combined_text": "easy fried crab cakes crab cakes crab cakes ½ (4 ounce) packet saltine crackers, crushed 1 medium bell pepper, minced 2 stalks green onions, white parts only, minced 1 large egg, lightly beaten 3 tablespoons mayonnaise, or more to taste 1 teaspoon dijon mustard, or more to taste 2 pounds cooked blue crabmeat, drained 2 tablespoons seafood seasoning (such as old bay®) 1 teaspoon ground black pepper 1 cup italian-seasoned bread crumbs, or more as needed 2 tablespoons canola oil, or more as needed mix crushed crackers, bell pepper, green onions, egg, mayonnaise, and dijon together in a large bowl. gently fold in crabmeat, seafood seasoning, and black pepper using a wooden spoon or spatula. form crabmeat mixture into 1/2-inch-thick patties, 2 to 3 inches in diameter. put bread crumbs on a plate. coat patties with bread crumbs. heat 2 tablespoons oil in a skillet over medium-high heat. add patties in batches and cook until golden brown, 3 to 5 minutes on each side. transfer to a plate lined with paper towels. repeat with remaining patties, adding more oil as needed.",
+        "ingredients_raw": [
+            "½ (4 ounce) packet saltine crackers, crushed",
+            "1 medium bell pepper, minced",
+            "2 stalks green onions, white parts only, minced",
+            "1 large egg, lightly beaten",
+            "3 tablespoons mayonnaise, or more to taste",
+            "1 teaspoon Dijon mustard, or more to taste",
+            "2 pounds cooked blue crabmeat, drained",
+            "2 tablespoons seafood seasoning (such as Old Bay®)",
+            "1 teaspoon ground black pepper",
+            "1 cup Italian-seasoned bread crumbs, or more as needed",
+            "2 tablespoons canola oil, or more as needed"
+        ],
+        "directions_raw": [
+            "Mix crushed crackers, bell pepper, green onions, egg, mayonnaise, and Dijon together in a large bowl. Gently fold in crabmeat, seafood seasoning, and black pepper using a wooden spoon or spatula. Form crabmeat mixture into 1/2-inch-thick patties, 2 to 3 inches in diameter.",
+            "Put bread crumbs on a plate. Coat patties with bread crumbs.",
+            "Heat 2 tablespoons oil in a skillet over medium-high heat. Add patties in batches and cook until golden brown, 3 to 5 minutes on each side. Transfer to a plate lined with paper towels. Repeat with remaining patties, adding more oil as needed."
+        ],
+        "ingredients_canonical": [
+            "½ ounce packet saltine crackers crushed",
+            "medium bell pepper minced",
+            "stalks green onions white parts only minced",
+            "large egg lightly beaten",
+            "mayonnaise more taste",
+            "dijon mustard more taste",
+            "pounds cooked blue crabmeat drained",
+            "seafood seasoning such as old bay",
+            "ground black pepper",
+            "italian-seasoned bread crumbs more as needed",
+            "canola oil more as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Crushed Pretzel Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "This is a very simple and quick recipe. Can be made in large or small quantities and you can use any type of crab. The crushed pretzels make them light and fluffy.",
+        "ingredients": [
+            "6 tablespoons butter, divided",
+            "½ small onion, chopped",
+            "¼ cup crushed pretzels",
+            "1 teaspoon garlic powder",
+            "1 teaspoon paprika",
+            "1 teaspoon black pepper",
+            "1 (6 ounce) can crabmeat",
+            "1 jumbo egg"
+        ],
+        "directions": [
+            "Heat 3 tablespoons butter in a skillet over medium-high heat. Saute onion in the hot butter until soft, 5 to 7 minutes. Set aside.",
+            "Mix crushed pretzels, garlic powder, paprika, and pepper together in a bowl. Add crabmeat and egg, followed by onion. Mix together and form into small, palm-size patties.",
+            "Melt remaining butter in a pan over medium-high heat. Cook the patties until golden brown, about 4 minutes per side. Serve."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "butter divided ½ small onion chopped ¼ crushed pretzels garlic powder paprika black pepper ounce can crabmeat jumbo egg",
+        "directions_text": "heat 3 tablespoons butter in a skillet over medium-high heat. saute onion in the hot butter until soft, 5 to 7 minutes. set aside. mix crushed pretzels, garlic powder, paprika, and pepper together in a bowl. add crabmeat and egg, followed by onion. mix together and form into small, palm-size patties. melt remaining butter in a pan over medium-high heat. cook the patties until golden brown, about 4 minutes per side. serve.",
+        "combined_text": "crushed pretzel crab cakes crab cakes crab cakes 6 tablespoons butter, divided ½ small onion, chopped ¼ cup crushed pretzels 1 teaspoon garlic powder 1 teaspoon paprika 1 teaspoon black pepper 1 (6 ounce) can crabmeat 1 jumbo egg heat 3 tablespoons butter in a skillet over medium-high heat. saute onion in the hot butter until soft, 5 to 7 minutes. set aside. mix crushed pretzels, garlic powder, paprika, and pepper together in a bowl. add crabmeat and egg, followed by onion. mix together and form into small, palm-size patties. melt remaining butter in a pan over medium-high heat. cook the patties until golden brown, about 4 minutes per side. serve.",
+        "ingredients_raw": [
+            "6 tablespoons butter, divided",
+            "½ small onion, chopped",
+            "¼ cup crushed pretzels",
+            "1 teaspoon garlic powder",
+            "1 teaspoon paprika",
+            "1 teaspoon black pepper",
+            "1 (6 ounce) can crabmeat",
+            "1 jumbo egg"
+        ],
+        "directions_raw": [
+            "Heat 3 tablespoons butter in a skillet over medium-high heat. Saute onion in the hot butter until soft, 5 to 7 minutes. Set aside.",
+            "Mix crushed pretzels, garlic powder, paprika, and pepper together in a bowl. Add crabmeat and egg, followed by onion. Mix together and form into small, palm-size patties.",
+            "Melt remaining butter in a pan over medium-high heat. Cook the patties until golden brown, about 4 minutes per side. Serve."
+        ],
+        "ingredients_canonical": [
+            "butter divided",
+            "½ small onion chopped",
+            "¼ crushed pretzels",
+            "garlic powder",
+            "paprika",
+            "black pepper",
+            "ounce can crabmeat",
+            "jumbo egg"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Fabienne's 'Black-Eyed' Crab Cakes",
+        "category": "Crab Cakes",
+        "subcategory": "Crab Cakes",
+        "description": "Black-eyed peas replace the traditional crackers or breadcrumbs in this recipe. The delicate flavor from the peas help bring out the crab's savory taste. There's no need to add lemon juice to these cakes: the zest ties the seasonings together. This is definitely a winning recipe: a must try!",
+        "ingredients": [
+            "1 lemon lemon, zested",
+            "1 teaspoon mustard powder",
+            "1 teaspoon seafood seasoning (such as Old Bay®)",
+            "1 teaspoon onion powder",
+            "¼ teaspoon cayenne pepper",
+            "⅓ cup rinsed and drained canned black-eyed peas",
+            "1 egg",
+            "1 tablespoon mayonnaise",
+            "1 (16 ounce) can crab meat, drained and chunked",
+            "⅓ cup grated Parmesan cheese",
+            "1 cup panko bread crumbs",
+            "¼ cup olive oil"
+        ],
+        "directions": [
+            "Whisk lemon zest, mustard powder, seafood seasoning, onion powder, and cayenne pepper together in a bowl. Add black-eyed peas to lemon zest mixture and smash with a fork until mixture is crumbly. Stir egg and mayonnaise into pea mixture; gently fold in crab meat and Parmesan cheese until combined.",
+            "Form pea mixture into 5-ounce patties. Pour bread crumbs into a shallow bowl and press patties into bread crumbs, coating both sides. Place patties on a plate and refrigerate until chilled, at least 30 minutes.",
+            "Heat olive oil in a skillet over medium heat; fry patties until golden brown, about 4 minutes per side."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 3,
+        "ingredient_text": "lemon lemon zested mustard powder seafood seasoning such as old bay onion powder ¼ cayenne pepper ⅓ rinsed drained canned black-eyed peas egg mayonnaise ounce can crab meat drained chunked ⅓ grated parmesan cheese panko bread crumbs ¼ olive oil",
+        "directions_text": "whisk lemon zest, mustard powder, seafood seasoning, onion powder, and cayenne pepper together in a bowl. add black-eyed peas to lemon zest mixture and smash with a fork until mixture is crumbly. stir egg and mayonnaise into pea mixture; gently fold in crab meat and parmesan cheese until combined. form pea mixture into 5-ounce patties. pour bread crumbs into a shallow bowl and press patties into bread crumbs, coating both sides. place patties on a plate and refrigerate until chilled, at least 30 minutes. heat olive oil in a skillet over medium heat; fry patties until golden brown, about 4 minutes per side.",
+        "combined_text": "fabienne's 'black-eyed' crab cakes crab cakes crab cakes 1 lemon lemon, zested 1 teaspoon mustard powder 1 teaspoon seafood seasoning (such as old bay®) 1 teaspoon onion powder ¼ teaspoon cayenne pepper ⅓ cup rinsed and drained canned black-eyed peas 1 egg 1 tablespoon mayonnaise 1 (16 ounce) can crab meat, drained and chunked ⅓ cup grated parmesan cheese 1 cup panko bread crumbs ¼ cup olive oil whisk lemon zest, mustard powder, seafood seasoning, onion powder, and cayenne pepper together in a bowl. add black-eyed peas to lemon zest mixture and smash with a fork until mixture is crumbly. stir egg and mayonnaise into pea mixture; gently fold in crab meat and parmesan cheese until combined. form pea mixture into 5-ounce patties. pour bread crumbs into a shallow bowl and press patties into bread crumbs, coating both sides. place patties on a plate and refrigerate until chilled, at least 30 minutes. heat olive oil in a skillet over medium heat; fry patties until golden brown, about 4 minutes per side.",
+        "ingredients_raw": [
+            "1 lemon lemon, zested",
+            "1 teaspoon mustard powder",
+            "1 teaspoon seafood seasoning (such as Old Bay®)",
+            "1 teaspoon onion powder",
+            "¼ teaspoon cayenne pepper",
+            "⅓ cup rinsed and drained canned black-eyed peas",
+            "1 egg",
+            "1 tablespoon mayonnaise",
+            "1 (16 ounce) can crab meat, drained and chunked",
+            "⅓ cup grated Parmesan cheese",
+            "1 cup panko bread crumbs",
+            "¼ cup olive oil"
+        ],
+        "directions_raw": [
+            "Whisk lemon zest, mustard powder, seafood seasoning, onion powder, and cayenne pepper together in a bowl. Add black-eyed peas to lemon zest mixture and smash with a fork until mixture is crumbly. Stir egg and mayonnaise into pea mixture; gently fold in crab meat and Parmesan cheese until combined.",
+            "Form pea mixture into 5-ounce patties. Pour bread crumbs into a shallow bowl and press patties into bread crumbs, coating both sides. Place patties on a plate and refrigerate until chilled, at least 30 minutes.",
+            "Heat olive oil in a skillet over medium heat; fry patties until golden brown, about 4 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "lemon lemon zested",
+            "mustard powder",
+            "seafood seasoning such as old bay",
+            "onion powder",
+            "¼ cayenne pepper",
+            "⅓ rinsed drained canned black-eyed peas",
+            "egg",
+            "mayonnaise",
+            "ounce can crab meat drained chunked",
+            "⅓ grated parmesan cheese",
+            "panko bread crumbs",
+            "¼ olive oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "german",
+            "greek",
+            "italian",
+            "japanese",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "healthy"
+    }
+]

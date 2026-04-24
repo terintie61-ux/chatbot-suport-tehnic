@@ -1,0 +1,1378 @@
+[
+    {
+        "recipe_title": "Slow Cooker Adobo Chicken",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "An easy slow cooker recipe for a whole chicken. This is such a simple recipe for something SO good! Serve hot with steamed rice.",
+        "ingredients": [
+            "1 small sweet onion, sliced",
+            "8 cloves garlic, crushed",
+            "¾ cup low sodium soy sauce",
+            "½ cup vinegar",
+            "1 (3 pound) whole chicken, cut into pieces"
+        ],
+        "directions": [
+            "Place chicken in a slow cooker. In a small bowl mix the onion, garlic, soy sauce, and vinegar, and pour over the chicken. Cook on Low for 6 to 8 hours."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "small sweet onion sliced cloves garlic crushed ¾ low sodium soy sauce ½ vinegar pound whole chicken cut into pieces",
+        "directions_text": "place chicken in a slow cooker. in a small bowl mix the onion, garlic, soy sauce, and vinegar, and pour over the chicken. cook on low for 6 to 8 hours.",
+        "combined_text": "slow cooker adobo chicken chicken adobo chicken adobo 1 small sweet onion, sliced 8 cloves garlic, crushed ¾ cup low sodium soy sauce ½ cup vinegar 1 (3 pound) whole chicken, cut into pieces place chicken in a slow cooker. in a small bowl mix the onion, garlic, soy sauce, and vinegar, and pour over the chicken. cook on low for 6 to 8 hours.",
+        "ingredients_raw": [
+            "1 small sweet onion, sliced",
+            "8 cloves garlic, crushed",
+            "¾ cup low sodium soy sauce",
+            "½ cup vinegar",
+            "1 (3 pound) whole chicken, cut into pieces"
+        ],
+        "directions_raw": [
+            "Place chicken in a slow cooker. In a small bowl mix the onion, garlic, soy sauce, and vinegar, and pour over the chicken. Cook on Low for 6 to 8 hours."
+        ],
+        "ingredients_canonical": [
+            "small sweet onion sliced",
+            "cloves garlic crushed",
+            "¾ low sodium soy sauce",
+            "½ vinegar",
+            "pound whole chicken cut into pieces"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 25,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lolah's Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "My Filipino Mom taught me how to make this traditional dish following the recipe her mother taught her. And though I've made a couple of changes, I guarantee they're Mom-approved. 'Lolah' is 'Grandma' in the Philippines, in case you were wondering. Serve over steamed rice.",
+        "ingredients": [
+            "3 tablespoons vegetable oil",
+            "3 pounds boneless, skinless chicken thighs, rinsed and patted dry",
+            "6 cloves garlic, peeled and thinly sliced",
+            "½ cup soy sauce",
+            "½ cup apple cider vinegar",
+            "½ cup water",
+            "2 tablespoons pickling spice, wrapped in cheesecloth"
+        ],
+        "directions": [
+            "Heat oil in a large pot over medium heat until oil is shimmering. Cook garlic in oil for no more than 30 seconds. Add all of the chicken to the pot; cook, stirring frequently, until chicken is white all over. Do not brown.",
+            "Pour in soy sauce, vinegar, and water, and add the pickling spice. Make sure the spice ball is submerged. Bring to a boil, reduce heat to simmer, and place lid on pot so that some steam can escape. Simmer for 1 hour, or until chicken is very tender."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "vegetable oil pounds boneless skinless chicken thighs rinsed patted dry cloves garlic peeled thinly sliced ½ soy sauce ½ apple cider vinegar ½ water pickling spice wrapped in cheesecloth",
+        "directions_text": "heat oil in a large pot over medium heat until oil is shimmering. cook garlic in oil for no more than 30 seconds. add all of the chicken to the pot; cook, stirring frequently, until chicken is white all over. do not brown. pour in soy sauce, vinegar, and water, and add the pickling spice. make sure the spice ball is submerged. bring to a boil, reduce heat to simmer, and place lid on pot so that some steam can escape. simmer for 1 hour, or until chicken is very tender.",
+        "combined_text": "lolah's chicken adobo chicken adobo chicken adobo 3 tablespoons vegetable oil 3 pounds boneless, skinless chicken thighs, rinsed and patted dry 6 cloves garlic, peeled and thinly sliced ½ cup soy sauce ½ cup apple cider vinegar ½ cup water 2 tablespoons pickling spice, wrapped in cheesecloth heat oil in a large pot over medium heat until oil is shimmering. cook garlic in oil for no more than 30 seconds. add all of the chicken to the pot; cook, stirring frequently, until chicken is white all over. do not brown. pour in soy sauce, vinegar, and water, and add the pickling spice. make sure the spice ball is submerged. bring to a boil, reduce heat to simmer, and place lid on pot so that some steam can escape. simmer for 1 hour, or until chicken is very tender.",
+        "ingredients_raw": [
+            "3 tablespoons vegetable oil",
+            "3 pounds boneless, skinless chicken thighs, rinsed and patted dry",
+            "6 cloves garlic, peeled and thinly sliced",
+            "½ cup soy sauce",
+            "½ cup apple cider vinegar",
+            "½ cup water",
+            "2 tablespoons pickling spice, wrapped in cheesecloth"
+        ],
+        "directions_raw": [
+            "Heat oil in a large pot over medium heat until oil is shimmering. Cook garlic in oil for no more than 30 seconds. Add all of the chicken to the pot; cook, stirring frequently, until chicken is white all over. Do not brown.",
+            "Pour in soy sauce, vinegar, and water, and add the pickling spice. Make sure the spice ball is submerged. Bring to a boil, reduce heat to simmer, and place lid on pot so that some steam can escape. Simmer for 1 hour, or until chicken is very tender."
+        ],
+        "ingredients_canonical": [
+            "vegetable oil",
+            "pounds boneless skinless chicken thighs rinsed patted dry",
+            "cloves garlic peeled thinly sliced",
+            "½ soy sauce",
+            "½ apple cider vinegar",
+            "½ water",
+            "pickling spice wrapped in cheesecloth"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 3,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 72,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grilled Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This is a very tasty and easy-to-make Filipino chicken dish made with soy sauce, garlic, and vinegar. I can just as easily double or triple the chicken in this recipe to serve guests at a party. Serve over rice with just a little of the sauce (not too much).",
+        "ingredients": [
+            "1 ½ cups soy sauce",
+            "1 ½ cups water",
+            "¾ cup vinegar",
+            "3 tablespoons honey",
+            "1 ½ tablespoons minced garlic",
+            "3 bay leaves",
+            "½ teaspoon black pepper",
+            "3 pounds skinless, boneless chicken thighs"
+        ],
+        "directions": [
+            "Preheat an outdoor grill for high heat, and lightly oil grate.",
+            "In a large pot, mix soy sauce, water, vinegar, honey, garlic, bay leaves, and pepper. Bring the mixture to a boil, and place the chicken into the pot. Reduce heat, cover, and cook 35 to 40 minutes.",
+            "Remove chicken, drain on paper towels, and set aside. Discard bay leaves. Return the mixture to a boil, and cook until reduced to about 1 1/2 cups.",
+            "Place chicken on the prepared grill, about 5 minutes on each side, until browned and crisp. Serve with the remaining soy sauce mixture."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "½ soy sauce ½ water ¾ vinegar honey ½ minced garlic bay leaves ½ black pepper pounds skinless boneless chicken thighs",
+        "directions_text": "preheat an outdoor grill for high heat, and lightly oil grate. in a large pot, mix soy sauce, water, vinegar, honey, garlic, bay leaves, and pepper. bring the mixture to a boil, and place the chicken into the pot. reduce heat, cover, and cook 35 to 40 minutes. remove chicken, drain on paper towels, and set aside. discard bay leaves. return the mixture to a boil, and cook until reduced to about 1 1/2 cups. place chicken on the prepared grill, about 5 minutes on each side, until browned and crisp. serve with the remaining soy sauce mixture.",
+        "combined_text": "grilled chicken adobo chicken adobo chicken adobo 1 ½ cups soy sauce 1 ½ cups water ¾ cup vinegar 3 tablespoons honey 1 ½ tablespoons minced garlic 3 bay leaves ½ teaspoon black pepper 3 pounds skinless, boneless chicken thighs preheat an outdoor grill for high heat, and lightly oil grate. in a large pot, mix soy sauce, water, vinegar, honey, garlic, bay leaves, and pepper. bring the mixture to a boil, and place the chicken into the pot. reduce heat, cover, and cook 35 to 40 minutes. remove chicken, drain on paper towels, and set aside. discard bay leaves. return the mixture to a boil, and cook until reduced to about 1 1/2 cups. place chicken on the prepared grill, about 5 minutes on each side, until browned and crisp. serve with the remaining soy sauce mixture.",
+        "ingredients_raw": [
+            "1 ½ cups soy sauce",
+            "1 ½ cups water",
+            "¾ cup vinegar",
+            "3 tablespoons honey",
+            "1 ½ tablespoons minced garlic",
+            "3 bay leaves",
+            "½ teaspoon black pepper",
+            "3 pounds skinless, boneless chicken thighs"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill for high heat, and lightly oil grate.",
+            "In a large pot, mix soy sauce, water, vinegar, honey, garlic, bay leaves, and pepper. Bring the mixture to a boil, and place the chicken into the pot. Reduce heat, cover, and cook 35 to 40 minutes.",
+            "Remove chicken, drain on paper towels, and set aside. Discard bay leaves. Return the mixture to a boil, and cook until reduced to about 1 1/2 cups.",
+            "Place chicken on the prepared grill, about 5 minutes on each side, until browned and crisp. Serve with the remaining soy sauce mixture."
+        ],
+        "ingredients_canonical": [
+            "½ soy sauce",
+            "½ water",
+            "¾ vinegar",
+            "honey",
+            "½ minced garlic",
+            "bay leaves",
+            "½ black pepper",
+            "pounds skinless boneless chicken thighs"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 78,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pork and Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This recipe is adapted from a famous Filipino restaurant in Manila, Philippines. The longer you marinate in the refrigerator, the better it gets! This is one dish that doesn't spoil right away. Best served hot over steamed rice.",
+        "ingredients": [
+            "1 ¼ pounds boneless pork loin roast, cut into 2-inch pieces",
+            "1 ¼ pounds boneless, skinless chicken thighs, trimmed and cut into 2-inch pieces",
+            "2 tablespoons crushed garlic",
+            "2 bay leaves, torn",
+            "freshly ground black pepper",
+            "1 cup white vinegar",
+            "¼ cup soy sauce",
+            "1 tablespoon vegetable oil",
+            "2 cloves garlic, smashed"
+        ],
+        "directions": [
+            "Place pork and chicken into a stock pot. Rub with crushed garlic and torn bay leaf, season lightly with pepper, and coat with vinegar and soy sauce. Cover, and marinate in the refrigerator at least 2 hours or overnight.",
+            "Bring meat and marinating liquid to a boil in a cast iron casserole or Dutch oven. Reduce heat to a simmer and cook until meat is tender, about 30 minutes. If necessary, add water to prevent sauce from drying out.",
+            "Strain liquid from meat and set aside; discard bay leaves. Heat 1 tablespoon oil in a large skillet over medium-high heat. Brown the pork and chicken on all sides; reduce heat and stir in remaining 2 cloves of smashed garlic. Cook and stir for 2 minutes more. Pour in reserved cooking liquid, and continue simmering until sauce is slightly thickened. Serve hot."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "¼ pounds boneless pork loin roast cut into -inch pieces ¼ pounds boneless skinless chicken thighs trimmed cut into -inch pieces crushed garlic bay leaves torn freshly ground black pepper white vinegar ¼ soy sauce vegetable oil cloves garlic smashed",
+        "directions_text": "place pork and chicken into a stock pot. rub with crushed garlic and torn bay leaf, season lightly with pepper, and coat with vinegar and soy sauce. cover, and marinate in the refrigerator at least 2 hours or overnight. bring meat and marinating liquid to a boil in a cast iron casserole or dutch oven. reduce heat to a simmer and cook until meat is tender, about 30 minutes. if necessary, add water to prevent sauce from drying out. strain liquid from meat and set aside; discard bay leaves. heat 1 tablespoon oil in a large skillet over medium-high heat. brown the pork and chicken on all sides; reduce heat and stir in remaining 2 cloves of smashed garlic. cook and stir for 2 minutes more. pour in reserved cooking liquid, and continue simmering until sauce is slightly thickened. serve hot.",
+        "combined_text": "pork and chicken adobo chicken adobo chicken adobo 1 ¼ pounds boneless pork loin roast, cut into 2-inch pieces 1 ¼ pounds boneless, skinless chicken thighs, trimmed and cut into 2-inch pieces 2 tablespoons crushed garlic 2 bay leaves, torn freshly ground black pepper 1 cup white vinegar ¼ cup soy sauce 1 tablespoon vegetable oil 2 cloves garlic, smashed place pork and chicken into a stock pot. rub with crushed garlic and torn bay leaf, season lightly with pepper, and coat with vinegar and soy sauce. cover, and marinate in the refrigerator at least 2 hours or overnight. bring meat and marinating liquid to a boil in a cast iron casserole or dutch oven. reduce heat to a simmer and cook until meat is tender, about 30 minutes. if necessary, add water to prevent sauce from drying out. strain liquid from meat and set aside; discard bay leaves. heat 1 tablespoon oil in a large skillet over medium-high heat. brown the pork and chicken on all sides; reduce heat and stir in remaining 2 cloves of smashed garlic. cook and stir for 2 minutes more. pour in reserved cooking liquid, and continue simmering until sauce is slightly thickened. serve hot.",
+        "ingredients_raw": [
+            "1 ¼ pounds boneless pork loin roast, cut into 2-inch pieces",
+            "1 ¼ pounds boneless, skinless chicken thighs, trimmed and cut into 2-inch pieces",
+            "2 tablespoons crushed garlic",
+            "2 bay leaves, torn",
+            "freshly ground black pepper",
+            "1 cup white vinegar",
+            "¼ cup soy sauce",
+            "1 tablespoon vegetable oil",
+            "2 cloves garlic, smashed"
+        ],
+        "directions_raw": [
+            "Place pork and chicken into a stock pot. Rub with crushed garlic and torn bay leaf, season lightly with pepper, and coat with vinegar and soy sauce. Cover, and marinate in the refrigerator at least 2 hours or overnight.",
+            "Bring meat and marinating liquid to a boil in a cast iron casserole or Dutch oven. Reduce heat to a simmer and cook until meat is tender, about 30 minutes. If necessary, add water to prevent sauce from drying out.",
+            "Strain liquid from meat and set aside; discard bay leaves. Heat 1 tablespoon oil in a large skillet over medium-high heat. Brown the pork and chicken on all sides; reduce heat and stir in remaining 2 cloves of smashed garlic. Cook and stir for 2 minutes more. Pour in reserved cooking liquid, and continue simmering until sauce is slightly thickened. Serve hot."
+        ],
+        "ingredients_canonical": [
+            "¼ pounds boneless pork loin roast cut into -inch pieces",
+            "¼ pounds boneless skinless chicken thighs trimmed cut into -inch pieces",
+            "crushed garlic",
+            "bay leaves torn",
+            "freshly ground black pepper",
+            "white vinegar",
+            "¼ soy sauce",
+            "vegetable oil",
+            "cloves garlic smashed"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 4,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 92,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Adobo Chicken with Ginger",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "Chicken adobo is considered the national dish of the Philippines. The combination of soy sauce, vinegar, garlic, ginger, and peppercorns is delicious and actually preserves the chicken! My mother taught me how to cook this using her variation on the original recipe. It's a delicious, cheap, and easy dish. Serve with hot, steamed Jasmine rice.",
+        "ingredients": [
+            "1 (3 pound) whole chicken, cut into 8 pieces",
+            "¾ cup distilled white vinegar",
+            "½ cup soy sauce",
+            "2 tablespoons thinly sliced fresh ginger root",
+            "½ tablespoon black peppercorns",
+            "1 bulb garlic, peeled and crushed",
+            "2 bay leaves"
+        ],
+        "directions": [
+            "Combine chicken, vinegar, soy sauce, ginger, peppercorns, garlic, and bay leaves in a Dutch oven; bring to a boil over medium heat. Reduce heat, cover, and simmer for 30 minutes, basting chicken occasionally with the sauce.",
+            "Remove the lid and continue to simmer until liquid has reduced by half, 5 to 10 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Transfer chicken to a serving plate. Strain liquid from the pot to remove bay leaves and other solids.",
+            "Serve chicken hot and drizzle with strained sauce."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "pound whole chicken cut into pieces ¾ distilled white vinegar ½ soy sauce thinly sliced fresh ginger root ½ black peppercorns bulb garlic peeled crushed bay leaves",
+        "directions_text": "combine chicken, vinegar, soy sauce, ginger, peppercorns, garlic, and bay leaves in a dutch oven; bring to a boil over medium heat. reduce heat, cover, and simmer for 30 minutes, basting chicken occasionally with the sauce. remove the lid and continue to simmer until liquid has reduced by half, 5 to 10 minutes. an instant-read thermometer inserted near the bone should read 165 degrees f (74 degrees c). transfer chicken to a serving plate. strain liquid from the pot to remove bay leaves and other solids. serve chicken hot and drizzle with strained sauce.",
+        "combined_text": "adobo chicken with ginger chicken adobo chicken adobo 1 (3 pound) whole chicken, cut into 8 pieces ¾ cup distilled white vinegar ½ cup soy sauce 2 tablespoons thinly sliced fresh ginger root ½ tablespoon black peppercorns 1 bulb garlic, peeled and crushed 2 bay leaves combine chicken, vinegar, soy sauce, ginger, peppercorns, garlic, and bay leaves in a dutch oven; bring to a boil over medium heat. reduce heat, cover, and simmer for 30 minutes, basting chicken occasionally with the sauce. remove the lid and continue to simmer until liquid has reduced by half, 5 to 10 minutes. an instant-read thermometer inserted near the bone should read 165 degrees f (74 degrees c). transfer chicken to a serving plate. strain liquid from the pot to remove bay leaves and other solids. serve chicken hot and drizzle with strained sauce.",
+        "ingredients_raw": [
+            "1 (3 pound) whole chicken, cut into 8 pieces",
+            "¾ cup distilled white vinegar",
+            "½ cup soy sauce",
+            "2 tablespoons thinly sliced fresh ginger root",
+            "½ tablespoon black peppercorns",
+            "1 bulb garlic, peeled and crushed",
+            "2 bay leaves"
+        ],
+        "directions_raw": [
+            "Combine chicken, vinegar, soy sauce, ginger, peppercorns, garlic, and bay leaves in a Dutch oven; bring to a boil over medium heat. Reduce heat, cover, and simmer for 30 minutes, basting chicken occasionally with the sauce.",
+            "Remove the lid and continue to simmer until liquid has reduced by half, 5 to 10 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Transfer chicken to a serving plate. Strain liquid from the pot to remove bay leaves and other solids.",
+            "Serve chicken hot and drizzle with strained sauce."
+        ],
+        "ingredients_canonical": [
+            "pound whole chicken cut into pieces",
+            "¾ distilled white vinegar",
+            "½ soy sauce",
+            "thinly sliced fresh ginger root",
+            "½ black peppercorns",
+            "bulb garlic peeled crushed",
+            "bay leaves"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Authentic Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "Adobo is a simple and hearty Filipino dish. In this version, chicken is marinated in vinegar and soy sauce, then slowly cooked with garlic and spices. Serve over steamed white rice.",
+        "ingredients": [
+            "2 cups coconut vinegar",
+            "½ cup soy sauce",
+            "2 heads garlic, peeled and coarsely chopped, divided",
+            "10 bay leaves",
+            "1 tablespoon garlic powder",
+            "1 ½ teaspoons ground black pepper",
+            "3 teaspoons annatto powder, divided",
+            "5 ½ pounds cut-up chicken parts",
+            "3 tablespoons vegetable oil, divided"
+        ],
+        "directions": [
+            "Combine vinegar, soy sauce, 1/2 of the chopped garlic, bay leaves, garlic powder, pepper, and 1 ½ teaspoons annatto powder in a large bowl. Add chicken, stir to coat, cover, and refrigerate for at least 4 hours.",
+            "Remove chicken from marinade and pat dry. Reserve marinade.",
+            "Heat 2 tablespoons vegetable oil in a large skillet over medium-high heat. Cook chicken until brown, about 4 minutes per side. Remove skillet from heat and set aside.",
+            "Heat remaining 1 tablespoon vegetable oil in a small skillet over medium heat. Cook and stir remaining 1/2 of the chopped garlic until brown, about 3 minutes. Add remaining 1 ½ teaspoons annatto powder, lower heat and simmer, about 3 minutes.",
+            "Pour annatto mixture over chicken and add reserved marinade. Bring to a simmer, cover, and cook until chicken is tender, about 45 minutes. Uncover and cook until sauce has reduced slightly, about 10 minutes more."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "coconut vinegar ½ soy sauce heads garlic peeled coarsely chopped divided bay leaves garlic powder ½ ground black pepper annatto powder divided ½ pounds cut-up chicken parts vegetable oil divided",
+        "directions_text": "combine vinegar, soy sauce, 1/2 of the chopped garlic, bay leaves, garlic powder, pepper, and 1 ½ teaspoons annatto powder in a large bowl. add chicken, stir to coat, cover, and refrigerate for at least 4 hours. remove chicken from marinade and pat dry. reserve marinade. heat 2 tablespoons vegetable oil in a large skillet over medium-high heat. cook chicken until brown, about 4 minutes per side. remove skillet from heat and set aside. heat remaining 1 tablespoon vegetable oil in a small skillet over medium heat. cook and stir remaining 1/2 of the chopped garlic until brown, about 3 minutes. add remaining 1 ½ teaspoons annatto powder, lower heat and simmer, about 3 minutes. pour annatto mixture over chicken and add reserved marinade. bring to a simmer, cover, and cook until chicken is tender, about 45 minutes. uncover and cook until sauce has reduced slightly, about 10 minutes more.",
+        "combined_text": "authentic chicken adobo chicken adobo chicken adobo 2 cups coconut vinegar ½ cup soy sauce 2 heads garlic, peeled and coarsely chopped, divided 10 bay leaves 1 tablespoon garlic powder 1 ½ teaspoons ground black pepper 3 teaspoons annatto powder, divided 5 ½ pounds cut-up chicken parts 3 tablespoons vegetable oil, divided combine vinegar, soy sauce, 1/2 of the chopped garlic, bay leaves, garlic powder, pepper, and 1 ½ teaspoons annatto powder in a large bowl. add chicken, stir to coat, cover, and refrigerate for at least 4 hours. remove chicken from marinade and pat dry. reserve marinade. heat 2 tablespoons vegetable oil in a large skillet over medium-high heat. cook chicken until brown, about 4 minutes per side. remove skillet from heat and set aside. heat remaining 1 tablespoon vegetable oil in a small skillet over medium heat. cook and stir remaining 1/2 of the chopped garlic until brown, about 3 minutes. add remaining 1 ½ teaspoons annatto powder, lower heat and simmer, about 3 minutes. pour annatto mixture over chicken and add reserved marinade. bring to a simmer, cover, and cook until chicken is tender, about 45 minutes. uncover and cook until sauce has reduced slightly, about 10 minutes more.",
+        "ingredients_raw": [
+            "2 cups coconut vinegar",
+            "½ cup soy sauce",
+            "2 heads garlic, peeled and coarsely chopped, divided",
+            "10 bay leaves",
+            "1 tablespoon garlic powder",
+            "1 ½ teaspoons ground black pepper",
+            "3 teaspoons annatto powder, divided",
+            "5 ½ pounds cut-up chicken parts",
+            "3 tablespoons vegetable oil, divided"
+        ],
+        "directions_raw": [
+            "Combine vinegar, soy sauce, 1/2 of the chopped garlic, bay leaves, garlic powder, pepper, and 1 ½ teaspoons annatto powder in a large bowl. Add chicken, stir to coat, cover, and refrigerate for at least 4 hours.",
+            "Remove chicken from marinade and pat dry. Reserve marinade.",
+            "Heat 2 tablespoons vegetable oil in a large skillet over medium-high heat. Cook chicken until brown, about 4 minutes per side. Remove skillet from heat and set aside.",
+            "Heat remaining 1 tablespoon vegetable oil in a small skillet over medium heat. Cook and stir remaining 1/2 of the chopped garlic until brown, about 3 minutes. Add remaining 1 ½ teaspoons annatto powder, lower heat and simmer, about 3 minutes.",
+            "Pour annatto mixture over chicken and add reserved marinade. Bring to a simmer, cover, and cook until chicken is tender, about 45 minutes. Uncover and cook until sauce has reduced slightly, about 10 minutes more."
+        ],
+        "ingredients_canonical": [
+            "coconut vinegar",
+            "½ soy sauce",
+            "heads garlic peeled coarsely chopped divided",
+            "bay leaves",
+            "garlic powder",
+            "½ ground black pepper",
+            "annatto powder divided",
+            "½ pounds cut-up chicken parts",
+            "vegetable oil divided"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 5,
+        "medium_hits": 10,
+        "cook_speed": "medium",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 125,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Slow Cooker Filipino Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This chicken adobo is a Filipino favorite made in the slow cooker. Serve with rice.",
+        "ingredients": [
+            "6 pounds skin-on, bone-in chicken thighs",
+            "2 teaspoons whole black peppercorns",
+            "12 cloves garlic, smashed and peeled",
+            "4 bay leaves",
+            "½ cup soy sauce",
+            "1 cup distilled white vinegar"
+        ],
+        "directions": [
+            "Place chicken thighs, peppercorns, garlic, bay leaves, soy sauce, and vinegar into the bottom of a slow cooker in that order, making sure peppercorns and bay leaves are submerged into the liquid.",
+            "Cover and cook on High until chicken thighs are no longer pink in the centers, about 5 hours. An instant-read thermometer inserted near the bone of a thigh should read 165 degrees F (74 degrees C)."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "pounds skin-on bone-in chicken thighs whole black peppercorns cloves garlic smashed peeled bay leaves ½ soy sauce distilled white vinegar",
+        "directions_text": "place chicken thighs, peppercorns, garlic, bay leaves, soy sauce, and vinegar into the bottom of a slow cooker in that order, making sure peppercorns and bay leaves are submerged into the liquid. cover and cook on high until chicken thighs are no longer pink in the centers, about 5 hours. an instant-read thermometer inserted near the bone of a thigh should read 165 degrees f (74 degrees c).",
+        "combined_text": "slow cooker filipino chicken adobo chicken adobo chicken adobo 6 pounds skin-on, bone-in chicken thighs 2 teaspoons whole black peppercorns 12 cloves garlic, smashed and peeled 4 bay leaves ½ cup soy sauce 1 cup distilled white vinegar place chicken thighs, peppercorns, garlic, bay leaves, soy sauce, and vinegar into the bottom of a slow cooker in that order, making sure peppercorns and bay leaves are submerged into the liquid. cover and cook on high until chicken thighs are no longer pink in the centers, about 5 hours. an instant-read thermometer inserted near the bone of a thigh should read 165 degrees f (74 degrees c).",
+        "ingredients_raw": [
+            "6 pounds skin-on, bone-in chicken thighs",
+            "2 teaspoons whole black peppercorns",
+            "12 cloves garlic, smashed and peeled",
+            "4 bay leaves",
+            "½ cup soy sauce",
+            "1 cup distilled white vinegar"
+        ],
+        "directions_raw": [
+            "Place chicken thighs, peppercorns, garlic, bay leaves, soy sauce, and vinegar into the bottom of a slow cooker in that order, making sure peppercorns and bay leaves are submerged into the liquid.",
+            "Cover and cook on High until chicken thighs are no longer pink in the centers, about 5 hours. An instant-read thermometer inserted near the bone of a thigh should read 165 degrees F (74 degrees C)."
+        ],
+        "ingredients_canonical": [
+            "pounds skin-on bone-in chicken thighs",
+            "whole black peppercorns",
+            "cloves garlic smashed peeled",
+            "bay leaves",
+            "½ soy sauce",
+            "distilled white vinegar"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 0,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Slow Cooker Adobo Chicken with Bok Choy",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "Paleo Filipino dish.",
+        "ingredients": [
+            "2 onions, sliced",
+            "4 cloves garlic, smashed",
+            "⅔ cup apple cider vinegar",
+            "⅓ cup soy sauce",
+            "1 tablespoon brown sugar",
+            "1 bay leaf",
+            "ground black pepper to taste",
+            "8 skinless, bone-in chicken thighs",
+            "2 teaspoons paprika",
+            "1 large head bok choy, cut into 1-inch strips",
+            "2 green onions, sliced thinly"
+        ],
+        "directions": [
+            "Combine onions, garlic, apple cider vinegar, soy sauce, brown sugar, and bay leaf in slow cooker. Season with black pepper. Place chicken thighs atop mixture. Sprinkle paprika over chicken thighs.",
+            "Cover and cook on Low for 8 hours.",
+            "Switch slow cooker to High. Add bok choy to chicken mixture; cook another 5 minutes. Garnish with green onion."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "onions sliced cloves garlic smashed ⅔ apple cider vinegar ⅓ soy sauce brown sugar bay leaf ground black pepper taste skinless bone-in chicken thighs paprika large head bok choy cut into -inch strips green onions sliced thinly",
+        "directions_text": "combine onions, garlic, apple cider vinegar, soy sauce, brown sugar, and bay leaf in slow cooker. season with black pepper. place chicken thighs atop mixture. sprinkle paprika over chicken thighs. cover and cook on low for 8 hours. switch slow cooker to high. add bok choy to chicken mixture; cook another 5 minutes. garnish with green onion.",
+        "combined_text": "slow cooker adobo chicken with bok choy chicken adobo chicken adobo 2 onions, sliced 4 cloves garlic, smashed ⅔ cup apple cider vinegar ⅓ cup soy sauce 1 tablespoon brown sugar 1 bay leaf ground black pepper to taste 8 skinless, bone-in chicken thighs 2 teaspoons paprika 1 large head bok choy, cut into 1-inch strips 2 green onions, sliced thinly combine onions, garlic, apple cider vinegar, soy sauce, brown sugar, and bay leaf in slow cooker. season with black pepper. place chicken thighs atop mixture. sprinkle paprika over chicken thighs. cover and cook on low for 8 hours. switch slow cooker to high. add bok choy to chicken mixture; cook another 5 minutes. garnish with green onion.",
+        "ingredients_raw": [
+            "2 onions, sliced",
+            "4 cloves garlic, smashed",
+            "⅔ cup apple cider vinegar",
+            "⅓ cup soy sauce",
+            "1 tablespoon brown sugar",
+            "1 bay leaf",
+            "ground black pepper to taste",
+            "8 skinless, bone-in chicken thighs",
+            "2 teaspoons paprika",
+            "1 large head bok choy, cut into 1-inch strips",
+            "2 green onions, sliced thinly"
+        ],
+        "directions_raw": [
+            "Combine onions, garlic, apple cider vinegar, soy sauce, brown sugar, and bay leaf in slow cooker. Season with black pepper. Place chicken thighs atop mixture. Sprinkle paprika over chicken thighs.",
+            "Cover and cook on Low for 8 hours.",
+            "Switch slow cooker to High. Add bok choy to chicken mixture; cook another 5 minutes. Garnish with green onion."
+        ],
+        "ingredients_canonical": [
+            "onions sliced",
+            "cloves garlic smashed",
+            "⅔ apple cider vinegar",
+            "⅓ soy sauce",
+            "brown sugar",
+            "bay leaf",
+            "ground black pepper taste",
+            "skinless bone-in chicken thighs",
+            "paprika",
+            "large head bok choy cut into -inch strips",
+            "green onions sliced thinly"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Leyley's Spicy Chicken Adobo Wings",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This is a Filipino recipe for adobo chicken that was handed down to me. I just added the jalapeño for spice and used chicken wings. This is great as an appetizer, or you can serve it as a main dish with steamed jasmine rice. You'll never go back to the same ol' hot wings.",
+        "ingredients": [
+            "3 pounds chicken wings, separated at joints, tips discarded",
+            "1 cup distilled white vinegar",
+            "½ cup water",
+            "2 bay leaves",
+            "1 teaspoon whole or cracked black peppercorns",
+            "1 medium onion, chopped",
+            "2 jalapeño peppers",
+            "½ cup soy sauce, or to taste",
+            "1 whole head garlic - a few cloves whole, the rest minced, divided"
+        ],
+        "directions": [
+            "Bring a large pot of water to a boil. Add wings and boil for 5 to 8 minutes. Drain in a colander, run under warm water, then return to the dry pot. Add vinegar, water, bay leaves, peppercorns, onion, and jalapeños. Bring to a simmer, then simmer over low heat for 20 minutes.",
+            "Add soy sauce and simmer for another 10 to 15 minutes, or until the sauce has reduced by half. Transfer wings to a colander and set aside. Add whole garlic cloves to the liquid in the pan; simmer until the sauce has a syrupy consistency and the jalapeños have burst open, releasing all of their seeds into the reduction.",
+            "Heat a large nonstick skillet over medium heat. Add chicken wings and minced garlic. Cook and stir until garlic is tender and wings have browned, about 10 minutes. Return wings to the sauce to coat before serving."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "pounds chicken wings separated at joints tips discarded distilled white vinegar ½ water bay leaves whole cracked black peppercorns medium onion chopped jalapeño peppers ½ soy sauce taste whole head garlic - a few cloves whole the rest minced divided",
+        "directions_text": "bring a large pot of water to a boil. add wings and boil for 5 to 8 minutes. drain in a colander, run under warm water, then return to the dry pot. add vinegar, water, bay leaves, peppercorns, onion, and jalapeños. bring to a simmer, then simmer over low heat for 20 minutes. add soy sauce and simmer for another 10 to 15 minutes, or until the sauce has reduced by half. transfer wings to a colander and set aside. add whole garlic cloves to the liquid in the pan; simmer until the sauce has a syrupy consistency and the jalapeños have burst open, releasing all of their seeds into the reduction. heat a large nonstick skillet over medium heat. add chicken wings and minced garlic. cook and stir until garlic is tender and wings have browned, about 10 minutes. return wings to the sauce to coat before serving.",
+        "combined_text": "leyley's spicy chicken adobo wings chicken adobo chicken adobo 3 pounds chicken wings, separated at joints, tips discarded 1 cup distilled white vinegar ½ cup water 2 bay leaves 1 teaspoon whole or cracked black peppercorns 1 medium onion, chopped 2 jalapeño peppers ½ cup soy sauce, or to taste 1 whole head garlic - a few cloves whole, the rest minced, divided bring a large pot of water to a boil. add wings and boil for 5 to 8 minutes. drain in a colander, run under warm water, then return to the dry pot. add vinegar, water, bay leaves, peppercorns, onion, and jalapeños. bring to a simmer, then simmer over low heat for 20 minutes. add soy sauce and simmer for another 10 to 15 minutes, or until the sauce has reduced by half. transfer wings to a colander and set aside. add whole garlic cloves to the liquid in the pan; simmer until the sauce has a syrupy consistency and the jalapeños have burst open, releasing all of their seeds into the reduction. heat a large nonstick skillet over medium heat. add chicken wings and minced garlic. cook and stir until garlic is tender and wings have browned, about 10 minutes. return wings to the sauce to coat before serving.",
+        "ingredients_raw": [
+            "3 pounds chicken wings, separated at joints, tips discarded",
+            "1 cup distilled white vinegar",
+            "½ cup water",
+            "2 bay leaves",
+            "1 teaspoon whole or cracked black peppercorns",
+            "1 medium onion, chopped",
+            "2 jalapeño peppers",
+            "½ cup soy sauce, or to taste",
+            "1 whole head garlic - a few cloves whole, the rest minced, divided"
+        ],
+        "directions_raw": [
+            "Bring a large pot of water to a boil. Add wings and boil for 5 to 8 minutes. Drain in a colander, run under warm water, then return to the dry pot. Add vinegar, water, bay leaves, peppercorns, onion, and jalapeños. Bring to a simmer, then simmer over low heat for 20 minutes.",
+            "Add soy sauce and simmer for another 10 to 15 minutes, or until the sauce has reduced by half. Transfer wings to a colander and set aside. Add whole garlic cloves to the liquid in the pan; simmer until the sauce has a syrupy consistency and the jalapeños have burst open, releasing all of their seeds into the reduction.",
+            "Heat a large nonstick skillet over medium heat. Add chicken wings and minced garlic. Cook and stir until garlic is tender and wings have browned, about 10 minutes. Return wings to the sauce to coat before serving."
+        ],
+        "ingredients_canonical": [
+            "pounds chicken wings separated at joints tips discarded",
+            "distilled white vinegar",
+            "½ water",
+            "bay leaves",
+            "whole cracked black peppercorns",
+            "medium onion chopped",
+            "jalapeño peppers",
+            "½ soy sauce taste",
+            "whole head garlic - a few cloves whole the rest minced divided"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 5,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 94,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pinoy Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This is a family favorite from the Philippines and is served over rice. Easy to prepare, especially when you are in a hurry.",
+        "ingredients": [
+            "5 pounds chicken legs and thighs, rinsed and patted dry",
+            "¾ cup water",
+            "¾ cup white vinegar",
+            "¼ cup soy sauce",
+            "1 teaspoon white sugar",
+            "1 onion, chopped",
+            "2 cloves garlic, crushed",
+            "1 teaspoon whole black peppercorns, crushed",
+            "2 bay leaves",
+            "salt to taste"
+        ],
+        "directions": [
+            "Place the chicken in a 6-quart pot. Pour the water, vinegar, and soy sauce over the chicken. Add the sugar, onion, garlic, peppercorns, and bay leaves to the pot; bring the mixture to a boil for 2 minutes. Reduce heat to low; simmer until the chicken is no longer pink at the bone and the juices run clear, about 30 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees F (82 degrees C). Remove the chicken from the pot and continue cooking the sauce until it thickens, about 10 minutes; season with salt.",
+            "Return the chicken to the pot, making sure the chicken is covered entirely by the sauce. Cook together until the chicken is reheated, about 3 minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "pounds chicken legs thighs rinsed patted dry ¾ water ¾ white vinegar ¼ soy sauce white sugar onion chopped cloves garlic crushed whole black peppercorns crushed bay leaves salt taste",
+        "directions_text": "place the chicken in a 6-quart pot. pour the water, vinegar, and soy sauce over the chicken. add the sugar, onion, garlic, peppercorns, and bay leaves to the pot; bring the mixture to a boil for 2 minutes. reduce heat to low; simmer until the chicken is no longer pink at the bone and the juices run clear, about 30 minutes. an instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees f (82 degrees c). remove the chicken from the pot and continue cooking the sauce until it thickens, about 10 minutes; season with salt. return the chicken to the pot, making sure the chicken is covered entirely by the sauce. cook together until the chicken is reheated, about 3 minutes.",
+        "combined_text": "pinoy chicken adobo chicken adobo chicken adobo 5 pounds chicken legs and thighs, rinsed and patted dry ¾ cup water ¾ cup white vinegar ¼ cup soy sauce 1 teaspoon white sugar 1 onion, chopped 2 cloves garlic, crushed 1 teaspoon whole black peppercorns, crushed 2 bay leaves salt to taste place the chicken in a 6-quart pot. pour the water, vinegar, and soy sauce over the chicken. add the sugar, onion, garlic, peppercorns, and bay leaves to the pot; bring the mixture to a boil for 2 minutes. reduce heat to low; simmer until the chicken is no longer pink at the bone and the juices run clear, about 30 minutes. an instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees f (82 degrees c). remove the chicken from the pot and continue cooking the sauce until it thickens, about 10 minutes; season with salt. return the chicken to the pot, making sure the chicken is covered entirely by the sauce. cook together until the chicken is reheated, about 3 minutes.",
+        "ingredients_raw": [
+            "5 pounds chicken legs and thighs, rinsed and patted dry",
+            "¾ cup water",
+            "¾ cup white vinegar",
+            "¼ cup soy sauce",
+            "1 teaspoon white sugar",
+            "1 onion, chopped",
+            "2 cloves garlic, crushed",
+            "1 teaspoon whole black peppercorns, crushed",
+            "2 bay leaves",
+            "salt to taste"
+        ],
+        "directions_raw": [
+            "Place the chicken in a 6-quart pot. Pour the water, vinegar, and soy sauce over the chicken. Add the sugar, onion, garlic, peppercorns, and bay leaves to the pot; bring the mixture to a boil for 2 minutes. Reduce heat to low; simmer until the chicken is no longer pink at the bone and the juices run clear, about 30 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone should read 180 degrees F (82 degrees C). Remove the chicken from the pot and continue cooking the sauce until it thickens, about 10 minutes; season with salt.",
+            "Return the chicken to the pot, making sure the chicken is covered entirely by the sauce. Cook together until the chicken is reheated, about 3 minutes."
+        ],
+        "ingredients_canonical": [
+            "pounds chicken legs thighs rinsed patted dry",
+            "¾ water",
+            "¾ white vinegar",
+            "¼ soy sauce",
+            "white sugar",
+            "onion chopped",
+            "cloves garlic crushed",
+            "whole black peppercorns crushed",
+            "bay leaves",
+            "salt taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Guinataan Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "Not your usual adobo, the coconut milk in this chicken dish makes it more flavorful.",
+        "ingredients": [
+            "4 ½ pounds chicken leg quarters",
+            "¾ cup white vinegar",
+            "¾ cup water",
+            "1 teaspoon white sugar",
+            "¼ cup soy sauce",
+            "2 bay leaves",
+            "1 teaspoon whole black peppercorns, crushed",
+            "1 onion, chopped",
+            "2 cloves garlic, crushed",
+            "salt to taste",
+            "1 (14 ounce) can coconut milk"
+        ],
+        "directions": [
+            "Combine the chicken, vinegar, water, sugar, soy sauce, bay leaves, crushed peppercorns, onion, and garlic in a large pot; stir and bring the mixture to a boil for 2 minutes. Reduce heat to medium-low and cook at a simmer for 30 minutes.",
+            "Remove the chicken to a large serving platter and set aside. Increase the heat under the pot to medium and cook until the liquid reduces by about one-quarter, about 10 minutes. Season with salt; stir the coconut milk into the mixture. Cover and cook until the coconut milk appears oily, about 10 minutes. Pour the mixture over the chicken to serve."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 2,
+        "ingredient_text": "½ pounds chicken leg quarters ¾ white vinegar ¾ water white sugar ¼ soy sauce bay leaves whole black peppercorns crushed onion chopped cloves garlic crushed salt taste ounce can coconut milk",
+        "directions_text": "combine the chicken, vinegar, water, sugar, soy sauce, bay leaves, crushed peppercorns, onion, and garlic in a large pot; stir and bring the mixture to a boil for 2 minutes. reduce heat to medium-low and cook at a simmer for 30 minutes. remove the chicken to a large serving platter and set aside. increase the heat under the pot to medium and cook until the liquid reduces by about one-quarter, about 10 minutes. season with salt; stir the coconut milk into the mixture. cover and cook until the coconut milk appears oily, about 10 minutes. pour the mixture over the chicken to serve.",
+        "combined_text": "guinataan chicken adobo chicken adobo chicken adobo 4 ½ pounds chicken leg quarters ¾ cup white vinegar ¾ cup water 1 teaspoon white sugar ¼ cup soy sauce 2 bay leaves 1 teaspoon whole black peppercorns, crushed 1 onion, chopped 2 cloves garlic, crushed salt to taste 1 (14 ounce) can coconut milk combine the chicken, vinegar, water, sugar, soy sauce, bay leaves, crushed peppercorns, onion, and garlic in a large pot; stir and bring the mixture to a boil for 2 minutes. reduce heat to medium-low and cook at a simmer for 30 minutes. remove the chicken to a large serving platter and set aside. increase the heat under the pot to medium and cook until the liquid reduces by about one-quarter, about 10 minutes. season with salt; stir the coconut milk into the mixture. cover and cook until the coconut milk appears oily, about 10 minutes. pour the mixture over the chicken to serve.",
+        "ingredients_raw": [
+            "4 ½ pounds chicken leg quarters",
+            "¾ cup white vinegar",
+            "¾ cup water",
+            "1 teaspoon white sugar",
+            "¼ cup soy sauce",
+            "2 bay leaves",
+            "1 teaspoon whole black peppercorns, crushed",
+            "1 onion, chopped",
+            "2 cloves garlic, crushed",
+            "salt to taste",
+            "1 (14 ounce) can coconut milk"
+        ],
+        "directions_raw": [
+            "Combine the chicken, vinegar, water, sugar, soy sauce, bay leaves, crushed peppercorns, onion, and garlic in a large pot; stir and bring the mixture to a boil for 2 minutes. Reduce heat to medium-low and cook at a simmer for 30 minutes.",
+            "Remove the chicken to a large serving platter and set aside. Increase the heat under the pot to medium and cook until the liquid reduces by about one-quarter, about 10 minutes. Season with salt; stir the coconut milk into the mixture. Cover and cook until the coconut milk appears oily, about 10 minutes. Pour the mixture over the chicken to serve."
+        ],
+        "ingredients_canonical": [
+            "½ pounds chicken leg quarters",
+            "¾ white vinegar",
+            "¾ water",
+            "white sugar",
+            "¼ soy sauce",
+            "bay leaves",
+            "whole black peppercorns crushed",
+            "onion chopped",
+            "cloves garlic crushed",
+            "salt taste",
+            "ounce can coconut milk"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 55,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Filipino Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This Pinoy recipe is a popular Filipino main dish usually served with rice and veggie sides.",
+        "ingredients": [
+            "4 tablespoons low-sodium soy sauce",
+            "2 jalapeno peppers, seeded and sliced",
+            "3 cloves fresh garlic, minced",
+            "1 pound chicken wings",
+            "2 tablespoons vegetable oil",
+            "1 ½ cups water",
+            "3 bay leaves",
+            "1 teaspoon whole peppercorns",
+            "2 tablespoons white vinegar",
+            "1 teaspoon white sugar, or to taste",
+            "¼ teaspoon fine salt, or to taste"
+        ],
+        "directions": [
+            "Whisk soy sauce, jalapeno peppers, and garlic together in a large glass or ceramic bowl. Add chicken wings and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for at least 1 hour.",
+            "Remove chicken wings from the marinade and shake off excess. Reserve marinade.",
+            "Heat oil in a large saucepan over medium heat. Place chicken wings in the hot oil and pan-fry for 2 minutes per side. Slowly pour in reserved marinade (including garlic) and water. Bring to a boil. Add bay leaves and peppercorns and simmer until chicken is tender, about 20 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Stir in vinegar and cook for 5 minutes. Stir again and season with sugar and salt to taste. Serve hot."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "low-sodium soy sauce jalapeno peppers seeded sliced cloves fresh garlic minced pound chicken wings vegetable oil ½ water bay leaves whole peppercorns white vinegar white sugar taste ¼ fine salt taste",
+        "directions_text": "whisk soy sauce, jalapeno peppers, and garlic together in a large glass or ceramic bowl. add chicken wings and toss to evenly coat. cover the bowl with plastic wrap and marinate in the refrigerator for at least 1 hour. remove chicken wings from the marinade and shake off excess. reserve marinade. heat oil in a large saucepan over medium heat. place chicken wings in the hot oil and pan-fry for 2 minutes per side. slowly pour in reserved marinade (including garlic) and water. bring to a boil. add bay leaves and peppercorns and simmer until chicken is tender, about 20 minutes. an instant-read thermometer inserted near the bone should read 165 degrees f (74 degrees c). stir in vinegar and cook for 5 minutes. stir again and season with sugar and salt to taste. serve hot.",
+        "combined_text": "filipino chicken adobo chicken adobo chicken adobo 4 tablespoons low-sodium soy sauce 2 jalapeno peppers, seeded and sliced 3 cloves fresh garlic, minced 1 pound chicken wings 2 tablespoons vegetable oil 1 ½ cups water 3 bay leaves 1 teaspoon whole peppercorns 2 tablespoons white vinegar 1 teaspoon white sugar, or to taste ¼ teaspoon fine salt, or to taste whisk soy sauce, jalapeno peppers, and garlic together in a large glass or ceramic bowl. add chicken wings and toss to evenly coat. cover the bowl with plastic wrap and marinate in the refrigerator for at least 1 hour. remove chicken wings from the marinade and shake off excess. reserve marinade. heat oil in a large saucepan over medium heat. place chicken wings in the hot oil and pan-fry for 2 minutes per side. slowly pour in reserved marinade (including garlic) and water. bring to a boil. add bay leaves and peppercorns and simmer until chicken is tender, about 20 minutes. an instant-read thermometer inserted near the bone should read 165 degrees f (74 degrees c). stir in vinegar and cook for 5 minutes. stir again and season with sugar and salt to taste. serve hot.",
+        "ingredients_raw": [
+            "4 tablespoons low-sodium soy sauce",
+            "2 jalapeno peppers, seeded and sliced",
+            "3 cloves fresh garlic, minced",
+            "1 pound chicken wings",
+            "2 tablespoons vegetable oil",
+            "1 ½ cups water",
+            "3 bay leaves",
+            "1 teaspoon whole peppercorns",
+            "2 tablespoons white vinegar",
+            "1 teaspoon white sugar, or to taste",
+            "¼ teaspoon fine salt, or to taste"
+        ],
+        "directions_raw": [
+            "Whisk soy sauce, jalapeno peppers, and garlic together in a large glass or ceramic bowl. Add chicken wings and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for at least 1 hour.",
+            "Remove chicken wings from the marinade and shake off excess. Reserve marinade.",
+            "Heat oil in a large saucepan over medium heat. Place chicken wings in the hot oil and pan-fry for 2 minutes per side. Slowly pour in reserved marinade (including garlic) and water. Bring to a boil. Add bay leaves and peppercorns and simmer until chicken is tender, about 20 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Stir in vinegar and cook for 5 minutes. Stir again and season with sugar and salt to taste. Serve hot."
+        ],
+        "ingredients_canonical": [
+            "low-sodium soy sauce",
+            "jalapeno peppers seeded sliced",
+            "cloves fresh garlic minced",
+            "pound chicken wings",
+            "vegetable oil",
+            "½ water",
+            "bay leaves",
+            "whole peppercorns",
+            "white vinegar",
+            "white sugar taste",
+            "¼ fine salt taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 12,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Adobo I",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "This is a variation of a recipe my mother taught me after I got married and wanted to make Filipino food for my husband.",
+        "ingredients": [
+            "1 ½ cups water",
+            "1 cup distilled white vinegar",
+            "4 tablespoons soy sauce",
+            "1 teaspoon whole peppercorns",
+            "4 cloves garlic, crushed",
+            "2 tablespoons salt, or to taste",
+            "1 (2 to 3 pound) whole chicken, cut into pieces",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions": [
+            "In a large pot, combine the water, vinegar, soy sauce, peppercorns, garlic and salt. Mix together, add chicken pieces and simmer over low heat (uncovered) until chicken is cooked through and tender (25 to 35 minutes).",
+            "Remove chicken from pot and brown in oil in a large skillet over medium high heat.",
+            "Return chicken, with oil/juices, back to pot with reserved sauce. Cover and simmer over medium heat until sauce reaches desired consistency."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ water distilled white vinegar soy sauce whole peppercorns cloves garlic crushed salt taste pound whole chicken cut into pieces vegetable oil",
+        "directions_text": "in a large pot, combine the water, vinegar, soy sauce, peppercorns, garlic and salt. mix together, add chicken pieces and simmer over low heat (uncovered) until chicken is cooked through and tender (25 to 35 minutes). remove chicken from pot and brown in oil in a large skillet over medium high heat. return chicken, with oil/juices, back to pot with reserved sauce. cover and simmer over medium heat until sauce reaches desired consistency.",
+        "combined_text": "chicken adobo i chicken adobo chicken adobo 1 ½ cups water 1 cup distilled white vinegar 4 tablespoons soy sauce 1 teaspoon whole peppercorns 4 cloves garlic, crushed 2 tablespoons salt, or to taste 1 (2 to 3 pound) whole chicken, cut into pieces 2 tablespoons vegetable oil in a large pot, combine the water, vinegar, soy sauce, peppercorns, garlic and salt. mix together, add chicken pieces and simmer over low heat (uncovered) until chicken is cooked through and tender (25 to 35 minutes). remove chicken from pot and brown in oil in a large skillet over medium high heat. return chicken, with oil/juices, back to pot with reserved sauce. cover and simmer over medium heat until sauce reaches desired consistency.",
+        "ingredients_raw": [
+            "1 ½ cups water",
+            "1 cup distilled white vinegar",
+            "4 tablespoons soy sauce",
+            "1 teaspoon whole peppercorns",
+            "4 cloves garlic, crushed",
+            "2 tablespoons salt, or to taste",
+            "1 (2 to 3 pound) whole chicken, cut into pieces",
+            "2 tablespoons vegetable oil"
+        ],
+        "directions_raw": [
+            "In a large pot, combine the water, vinegar, soy sauce, peppercorns, garlic and salt. Mix together, add chicken pieces and simmer over low heat (uncovered) until chicken is cooked through and tender (25 to 35 minutes).",
+            "Remove chicken from pot and brown in oil in a large skillet over medium high heat.",
+            "Return chicken, with oil/juices, back to pot with reserved sauce. Cover and simmer over medium heat until sauce reaches desired consistency."
+        ],
+        "ingredients_canonical": [
+            "½ water",
+            "distilled white vinegar",
+            "soy sauce",
+            "whole peppercorns",
+            "cloves garlic crushed",
+            "salt taste",
+            "pound whole chicken cut into pieces",
+            "vegetable oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Margo's Chicken Adobo",
+        "category": "Chicken Adobo",
+        "subcategory": "Chicken Adobo",
+        "description": "Use equal parts vinegar, soy sauce and water. The secret ingredient is cinnamon. This can also be made in the slow cooker: after browning chicken, onion and garlic, transfer to slow cooker, add the rest of the ingredients, and cook on low for 6 to 8 hours, or 4 hours on high.",
+        "ingredients": [
+            "2 tablespoons canola oil",
+            "3 pounds chicken drumsticks and thighs",
+            "1 onion, coarsely chopped",
+            "2 tablespoons minced garlic",
+            "1 cup apple cider vinegar",
+            "1 cup low sodium soy sauce",
+            "1 cup water",
+            "2 bay leaves",
+            "10 whole black peppercorns",
+            "1 cinnamon stick"
+        ],
+        "directions": [
+            "Heat canola oil in a large Dutch oven over medium heat, and pan-fry the chicken drumsticks and thighs until golden brown, about 5 minutes per side. Remove the chicken pieces, and set aside. Stir onion and garlic into the hot skillet, and cook and stir until the vegetables are browned, about 8 minutes.",
+            "Pour in apple cider vinegar, soy sauce, and water; stir in bay leaves, peppercorns, and the cinnamon stick. Bring the mixture to a boil over medium heat, scraping up and dissolving any browned flavor bits from the bottom of the pan. Return chicken pieces and any juice that has formed to the pan.",
+            "Cover, reduce heat to a simmer, and simmer until the chicken is thoroughly cooked, about 45 minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "canola oil pounds chicken drumsticks thighs onion coarsely chopped minced garlic apple cider vinegar low sodium soy sauce water bay leaves whole black peppercorns cinnamon stick",
+        "directions_text": "heat canola oil in a large dutch oven over medium heat, and pan-fry the chicken drumsticks and thighs until golden brown, about 5 minutes per side. remove the chicken pieces, and set aside. stir onion and garlic into the hot skillet, and cook and stir until the vegetables are browned, about 8 minutes. pour in apple cider vinegar, soy sauce, and water; stir in bay leaves, peppercorns, and the cinnamon stick. bring the mixture to a boil over medium heat, scraping up and dissolving any browned flavor bits from the bottom of the pan. return chicken pieces and any juice that has formed to the pan. cover, reduce heat to a simmer, and simmer until the chicken is thoroughly cooked, about 45 minutes.",
+        "combined_text": "margo's chicken adobo chicken adobo chicken adobo 2 tablespoons canola oil 3 pounds chicken drumsticks and thighs 1 onion, coarsely chopped 2 tablespoons minced garlic 1 cup apple cider vinegar 1 cup low sodium soy sauce 1 cup water 2 bay leaves 10 whole black peppercorns 1 cinnamon stick heat canola oil in a large dutch oven over medium heat, and pan-fry the chicken drumsticks and thighs until golden brown, about 5 minutes per side. remove the chicken pieces, and set aside. stir onion and garlic into the hot skillet, and cook and stir until the vegetables are browned, about 8 minutes. pour in apple cider vinegar, soy sauce, and water; stir in bay leaves, peppercorns, and the cinnamon stick. bring the mixture to a boil over medium heat, scraping up and dissolving any browned flavor bits from the bottom of the pan. return chicken pieces and any juice that has formed to the pan. cover, reduce heat to a simmer, and simmer until the chicken is thoroughly cooked, about 45 minutes.",
+        "ingredients_raw": [
+            "2 tablespoons canola oil",
+            "3 pounds chicken drumsticks and thighs",
+            "1 onion, coarsely chopped",
+            "2 tablespoons minced garlic",
+            "1 cup apple cider vinegar",
+            "1 cup low sodium soy sauce",
+            "1 cup water",
+            "2 bay leaves",
+            "10 whole black peppercorns",
+            "1 cinnamon stick"
+        ],
+        "directions_raw": [
+            "Heat canola oil in a large Dutch oven over medium heat, and pan-fry the chicken drumsticks and thighs until golden brown, about 5 minutes per side. Remove the chicken pieces, and set aside. Stir onion and garlic into the hot skillet, and cook and stir until the vegetables are browned, about 8 minutes.",
+            "Pour in apple cider vinegar, soy sauce, and water; stir in bay leaves, peppercorns, and the cinnamon stick. Bring the mixture to a boil over medium heat, scraping up and dissolving any browned flavor bits from the bottom of the pan. Return chicken pieces and any juice that has formed to the pan.",
+            "Cover, reduce heat to a simmer, and simmer until the chicken is thoroughly cooked, about 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "canola oil",
+            "pounds chicken drumsticks thighs",
+            "onion coarsely chopped",
+            "minced garlic",
+            "apple cider vinegar",
+            "low sodium soy sauce",
+            "water",
+            "bay leaves",
+            "whole black peppercorns",
+            "cinnamon stick"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 75,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    }
+]

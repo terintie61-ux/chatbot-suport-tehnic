@@ -1,0 +1,3313 @@
+[
+    {
+        "recipe_title": "Strawberry-Balsamic Ricotta Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "If you've never tried strawberries and balsamic together, now's the time. This unexpected pairing is an ideal way to start a meal and the perfect snack to pass around at parties.",
+        "ingredients": [
+            "4 Mission® Artisan® Multigrain Tortillas",
+            "1 cup part-skim ricotta cheese",
+            "2 tablespoons honey",
+            "½ teaspoon kosher salt",
+            "1 serving non-stick cooking spray, as needed",
+            "2 cups sliced fresh strawberries",
+            "2 teaspoons chopped fresh basil",
+            "3 tablespoons balsamic glaze",
+            "½ cup baby arugula",
+            "2 tablespoons pine nuts, toasted"
+        ],
+        "directions": [
+            "Preheat a conventional oven to 400 degrees F.",
+            "Combine ricotta, honey, and salt in small mixing bowl; whisk to combine and set aside.",
+            "Coat tortillas evenly with non-stick spray. Place in single layer on baking pan and bake 8 to 10 minutes or until golden and crispy. Remove from oven and cut each tortilla into 4 equal strips; set aside to cool and crisp.",
+            "In second small mixing bowl, combine diced strawberries and chopped basil; set aside.",
+            "Spread ricotta mixture evenly across tortilla strips, drizzle each with balsamic glaze, layer with arugula greens, basil scented strawberries and a sprinkling of pine nuts."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "mission artisan multigrain tortillas part-skim ricotta cheese honey ½ kosher salt serving non-stick cooking spray as needed sliced fresh strawberries chopped fresh basil balsamic glaze ½ baby arugula pine nuts toasted",
+        "directions_text": "preheat a conventional oven to 400 degrees f. combine ricotta, honey, and salt in small mixing bowl; whisk to combine and set aside. coat tortillas evenly with non-stick spray. place in single layer on baking pan and bake 8 to 10 minutes or until golden and crispy. remove from oven and cut each tortilla into 4 equal strips; set aside to cool and crisp. in second small mixing bowl, combine diced strawberries and chopped basil; set aside. spread ricotta mixture evenly across tortilla strips, drizzle each with balsamic glaze, layer with arugula greens, basil scented strawberries and a sprinkling of pine nuts.",
+        "combined_text": "strawberry-balsamic ricotta bruschetta bruschetta bruschetta 4 mission® artisan® multigrain tortillas 1 cup part-skim ricotta cheese 2 tablespoons honey ½ teaspoon kosher salt 1 serving non-stick cooking spray, as needed 2 cups sliced fresh strawberries 2 teaspoons chopped fresh basil 3 tablespoons balsamic glaze ½ cup baby arugula 2 tablespoons pine nuts, toasted preheat a conventional oven to 400 degrees f. combine ricotta, honey, and salt in small mixing bowl; whisk to combine and set aside. coat tortillas evenly with non-stick spray. place in single layer on baking pan and bake 8 to 10 minutes or until golden and crispy. remove from oven and cut each tortilla into 4 equal strips; set aside to cool and crisp. in second small mixing bowl, combine diced strawberries and chopped basil; set aside. spread ricotta mixture evenly across tortilla strips, drizzle each with balsamic glaze, layer with arugula greens, basil scented strawberries and a sprinkling of pine nuts.",
+        "ingredients_raw": [
+            "4 Mission® Artisan® Multigrain Tortillas",
+            "1 cup part-skim ricotta cheese",
+            "2 tablespoons honey",
+            "½ teaspoon kosher salt",
+            "1 serving non-stick cooking spray, as needed",
+            "2 cups sliced fresh strawberries",
+            "2 teaspoons chopped fresh basil",
+            "3 tablespoons balsamic glaze",
+            "½ cup baby arugula",
+            "2 tablespoons pine nuts, toasted"
+        ],
+        "directions_raw": [
+            "Preheat a conventional oven to 400 degrees F.",
+            "Combine ricotta, honey, and salt in small mixing bowl; whisk to combine and set aside.",
+            "Coat tortillas evenly with non-stick spray. Place in single layer on baking pan and bake 8 to 10 minutes or until golden and crispy. Remove from oven and cut each tortilla into 4 equal strips; set aside to cool and crisp.",
+            "In second small mixing bowl, combine diced strawberries and chopped basil; set aside.",
+            "Spread ricotta mixture evenly across tortilla strips, drizzle each with balsamic glaze, layer with arugula greens, basil scented strawberries and a sprinkling of pine nuts."
+        ],
+        "ingredients_canonical": [
+            "mission artisan multigrain tortillas",
+            "part-skim ricotta cheese",
+            "honey",
+            "½ kosher salt",
+            "serving non-stick cooking spray as needed",
+            "sliced fresh strawberries",
+            "chopped fresh basil",
+            "balsamic glaze",
+            "½ baby arugula",
+            "pine nuts toasted"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "thai"
+        ],
+        "course_list": [
+            "appetizer",
+            "snack",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 47,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lazy Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Tomatoes and cheese are piled onto slices of bread and broiled. Easy bruschetta that even tomato haters will love.",
+        "ingredients": [
+            "4 slices Italian bread, 1/2 inch thick",
+            "½ cup olive oil",
+            "1 tablespoon garlic salt",
+            "1 large tomato, sliced",
+            "1 cup shredded Italian cheese blend"
+        ],
+        "directions": [
+            "Preheat your oven's broiler.",
+            "Arrange the slices of bread in a single layer on a baking sheet. Mix together the olive oil and garlic powder in a cup or small bowl. Brush onto the slices of bread. Cover each piece of bread with tomato slices, then sprinkle with as much cheese as you like. Drizzle just a bit of the olive oil over the cheese.",
+            "Broil for 3 to 5 minutes, until cheese is melted and bread is toasted. Make sure you keep an eye on it - it doesn't take long!"
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "slices italian bread inch thick ½ olive oil garlic salt large tomato sliced shredded italian cheese blend",
+        "directions_text": "preheat your oven's broiler. arrange the slices of bread in a single layer on a baking sheet. mix together the olive oil and garlic powder in a cup or small bowl. brush onto the slices of bread. cover each piece of bread with tomato slices, then sprinkle with as much cheese as you like. drizzle just a bit of the olive oil over the cheese. broil for 3 to 5 minutes, until cheese is melted and bread is toasted. make sure you keep an eye on it - it doesn't take long!",
+        "combined_text": "lazy bruschetta bruschetta bruschetta 4 slices italian bread, 1/2 inch thick ½ cup olive oil 1 tablespoon garlic salt 1 large tomato, sliced 1 cup shredded italian cheese blend preheat your oven's broiler. arrange the slices of bread in a single layer on a baking sheet. mix together the olive oil and garlic powder in a cup or small bowl. brush onto the slices of bread. cover each piece of bread with tomato slices, then sprinkle with as much cheese as you like. drizzle just a bit of the olive oil over the cheese. broil for 3 to 5 minutes, until cheese is melted and bread is toasted. make sure you keep an eye on it - it doesn't take long!",
+        "ingredients_raw": [
+            "4 slices Italian bread, 1/2 inch thick",
+            "½ cup olive oil",
+            "1 tablespoon garlic salt",
+            "1 large tomato, sliced",
+            "1 cup shredded Italian cheese blend"
+        ],
+        "directions_raw": [
+            "Preheat your oven's broiler.",
+            "Arrange the slices of bread in a single layer on a baking sheet. Mix together the olive oil and garlic powder in a cup or small bowl. Brush onto the slices of bread. Cover each piece of bread with tomato slices, then sprinkle with as much cheese as you like. Drizzle just a bit of the olive oil over the cheese.",
+            "Broil for 3 to 5 minutes, until cheese is melted and bread is toasted. Make sure you keep an eye on it - it doesn't take long!"
+        ],
+        "ingredients_canonical": [
+            "slices italian bread inch thick",
+            "½ olive oil",
+            "garlic salt",
+            "large tomato sliced",
+            "shredded italian cheese blend"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "appetizer"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Grilled Swordfish Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "There are two keys to this recipe. First, add enough oil and vinegar to your tomatoes to make a good amount of 'sauce' with which to douse the grilled fish and bread. Second, grill the bread very well over the coals. It should be golden brown with distinctive charred grill marks. The bitter hit from these stripes of charred bread actually makes the tomatoes even sweeter and more delicious.",
+        "ingredients": [
+            "1 cup cherry tomato halves",
+            "¼ cup balsamic vinegar",
+            "¼ cup extra virgin olive oil",
+            "2 tablespoons thinly sliced basil",
+            "1 pinch cayenne pepper",
+            "salt and freshly ground black pepper to taste",
+            "6 slices French bread",
+            "1 tablespoon olive oil",
+            "2 swordfish steaks",
+            "1 teaspoon grapeseed oil"
+        ],
+        "directions": [
+            "Stir tomatoes, balsamic vinegar, extra virgin olive oil, basil, cayenne pepper, salt, and black pepper together in a bowl. Let sit until flavors blend, at least 30 minutes.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Brush bread slices with olive oil.",
+            "Cook bread slices on the preheated grill until browned and crispy, 2 to 3 minutes per side.",
+            "Brush swordfish steaks with grapeseed oil and season with salt and black pepper.",
+            "Cook swordfish steaks on the preheated grill until fish flakes easily with a fork, about 4 minutes per side.",
+            "Divide bread slices between two plates and top each plate with 1 swordfish steak. Spoon 1/2 of the cherry tomato mixture over each steak."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 6,
+        "ingredient_text": "cherry tomato halves ¼ balsamic vinegar ¼ extra virgin olive oil thinly sliced basil pinch cayenne pepper salt freshly ground black pepper taste slices french bread olive oil swordfish steaks grapeseed oil",
+        "directions_text": "stir tomatoes, balsamic vinegar, extra virgin olive oil, basil, cayenne pepper, salt, and black pepper together in a bowl. let sit until flavors blend, at least 30 minutes. preheat an outdoor grill for medium-high heat and lightly oil the grate. brush bread slices with olive oil. cook bread slices on the preheated grill until browned and crispy, 2 to 3 minutes per side. brush swordfish steaks with grapeseed oil and season with salt and black pepper. cook swordfish steaks on the preheated grill until fish flakes easily with a fork, about 4 minutes per side. divide bread slices between two plates and top each plate with 1 swordfish steak. spoon 1/2 of the cherry tomato mixture over each steak.",
+        "combined_text": "chef john's grilled swordfish bruschetta bruschetta bruschetta 1 cup cherry tomato halves ¼ cup balsamic vinegar ¼ cup extra virgin olive oil 2 tablespoons thinly sliced basil 1 pinch cayenne pepper salt and freshly ground black pepper to taste 6 slices french bread 1 tablespoon olive oil 2 swordfish steaks 1 teaspoon grapeseed oil stir tomatoes, balsamic vinegar, extra virgin olive oil, basil, cayenne pepper, salt, and black pepper together in a bowl. let sit until flavors blend, at least 30 minutes. preheat an outdoor grill for medium-high heat and lightly oil the grate. brush bread slices with olive oil. cook bread slices on the preheated grill until browned and crispy, 2 to 3 minutes per side. brush swordfish steaks with grapeseed oil and season with salt and black pepper. cook swordfish steaks on the preheated grill until fish flakes easily with a fork, about 4 minutes per side. divide bread slices between two plates and top each plate with 1 swordfish steak. spoon 1/2 of the cherry tomato mixture over each steak.",
+        "ingredients_raw": [
+            "1 cup cherry tomato halves",
+            "¼ cup balsamic vinegar",
+            "¼ cup extra virgin olive oil",
+            "2 tablespoons thinly sliced basil",
+            "1 pinch cayenne pepper",
+            "salt and freshly ground black pepper to taste",
+            "6 slices French bread",
+            "1 tablespoon olive oil",
+            "2 swordfish steaks",
+            "1 teaspoon grapeseed oil"
+        ],
+        "directions_raw": [
+            "Stir tomatoes, balsamic vinegar, extra virgin olive oil, basil, cayenne pepper, salt, and black pepper together in a bowl. Let sit until flavors blend, at least 30 minutes.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Brush bread slices with olive oil.",
+            "Cook bread slices on the preheated grill until browned and crispy, 2 to 3 minutes per side.",
+            "Brush swordfish steaks with grapeseed oil and season with salt and black pepper.",
+            "Cook swordfish steaks on the preheated grill until fish flakes easily with a fork, about 4 minutes per side.",
+            "Divide bread slices between two plates and top each plate with 1 swordfish steak. Spoon 1/2 of the cherry tomato mixture over each steak."
+        ],
+        "ingredients_canonical": [
+            "cherry tomato halves",
+            "¼ balsamic vinegar",
+            "¼ extra virgin olive oil",
+            "thinly sliced basil",
+            "pinch cayenne pepper",
+            "salt freshly ground black pepper taste",
+            "slices french bread",
+            "olive oil",
+            "swordfish steaks",
+            "grapeseed oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main",
+            "appetizer"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 69,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bruschetta with Mozzarella",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Some people call it bruschetta caprese–we simply call it delicious! This is a quick and easy appetizer with classic Italian flavors that'll never let you down.",
+        "ingredients": [
+            "2 cups halved grape tomatoes, well drained",
+            "4 ounces fresh mozzarella cheese, cut into 1/4-inch cubes",
+            "2 tablespoons thinly sliced fresh basil leaves",
+            "2 cloves garlic, pressed",
+            "1 1/2 tablespoons olive oil, divided",
+            "1/2 tablespoon balsamic vinegar",
+            "salt and freshly ground black pepper to taste",
+            "8 (1/2-inch thick) diagonal slices baguette",
+            "fresh basil leaves for garnish (optional)"
+        ],
+        "directions": [
+            "Place tomatoes, mozzarella, sliced basil, garlic, 1 tablespoon olive oil, and balsamic vinegar in a bowl, and fold until well combined. Season to taste with salt and pepper. Set aside.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Brush baguette slices with remaining olive oil until lightly coated. Arrange in a single layer on a baking sheet; season with salt. Broil until lightly browned, about 1 minute, being careful not to burn.",
+            "Spoon tomato mixture onto toasted baguette immediately before serving, and garnish with fresh basil leaves."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "halved grape tomatoes well drained ounces fresh mozzarella cheese cut into -inch cubes thinly sliced fresh basil leaves cloves garlic pressed olive oil divided balsamic vinegar salt freshly ground black pepper taste -inch thick diagonal slices baguette fresh basil leaves for garnish optional",
+        "directions_text": "place tomatoes, mozzarella, sliced basil, garlic, 1 tablespoon olive oil, and balsamic vinegar in a bowl, and fold until well combined. season to taste with salt and pepper. set aside. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. brush baguette slices with remaining olive oil until lightly coated. arrange in a single layer on a baking sheet; season with salt. broil until lightly browned, about 1 minute, being careful not to burn. spoon tomato mixture onto toasted baguette immediately before serving, and garnish with fresh basil leaves.",
+        "combined_text": "bruschetta with mozzarella bruschetta bruschetta 2 cups halved grape tomatoes, well drained 4 ounces fresh mozzarella cheese, cut into 1/4-inch cubes 2 tablespoons thinly sliced fresh basil leaves 2 cloves garlic, pressed 1 1/2 tablespoons olive oil, divided 1/2 tablespoon balsamic vinegar salt and freshly ground black pepper to taste 8 (1/2-inch thick) diagonal slices baguette fresh basil leaves for garnish (optional) place tomatoes, mozzarella, sliced basil, garlic, 1 tablespoon olive oil, and balsamic vinegar in a bowl, and fold until well combined. season to taste with salt and pepper. set aside. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. brush baguette slices with remaining olive oil until lightly coated. arrange in a single layer on a baking sheet; season with salt. broil until lightly browned, about 1 minute, being careful not to burn. spoon tomato mixture onto toasted baguette immediately before serving, and garnish with fresh basil leaves.",
+        "ingredients_raw": [
+            "2 cups halved grape tomatoes, well drained",
+            "4 ounces fresh mozzarella cheese, cut into 1/4-inch cubes",
+            "2 tablespoons thinly sliced fresh basil leaves",
+            "2 cloves garlic, pressed",
+            "1 1/2 tablespoons olive oil, divided",
+            "1/2 tablespoon balsamic vinegar",
+            "salt and freshly ground black pepper to taste",
+            "8 (1/2-inch thick) diagonal slices baguette",
+            "fresh basil leaves for garnish (optional)"
+        ],
+        "directions_raw": [
+            "Place tomatoes, mozzarella, sliced basil, garlic, 1 tablespoon olive oil, and balsamic vinegar in a bowl, and fold until well combined. Season to taste with salt and pepper. Set aside.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Brush baguette slices with remaining olive oil until lightly coated. Arrange in a single layer on a baking sheet; season with salt. Broil until lightly browned, about 1 minute, being careful not to burn.",
+            "Spoon tomato mixture onto toasted baguette immediately before serving, and garnish with fresh basil leaves."
+        ],
+        "ingredients_canonical": [
+            "halved grape tomatoes well drained",
+            "ounces fresh mozzarella cheese cut into -inch cubes",
+            "thinly sliced fresh basil leaves",
+            "cloves garlic pressed",
+            "olive oil divided",
+            "balsamic vinegar",
+            "salt freshly ground black pepper taste",
+            "-inch thick diagonal slices baguette",
+            "fresh basil leaves for garnish optional"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Ali's Amazing Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This bruschetta will turn out every time you make it. Use small slices of bread for a unique appetizer, or serve with Italian dishes.",
+        "ingredients": [
+            "2 large tomatoes, coarsely chopped",
+            "½ sweet onion, chopped",
+            "2 tablespoons olive oil",
+            "1 tablespoon chopped fresh oregano",
+            "1 teaspoon chopped fresh basil",
+            "2 teaspoons chopped fresh parsley",
+            "½ (1 pound) loaf Italian bread, cut into 1 inch slices",
+            "¼ cup freshly grated Parmesan cheese"
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "In a medium bowl, combine tomatoes, onion, olive oil, oregano, basil and parsley. Place bread on a baking sheet, and top with tomato mixture. Sprinkle with Parmesan.",
+            "Bake in preheated oven for 8 to 10 minutes, or until bottom of bread is browned. Allow to cool 5 minutes before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "large tomatoes coarsely chopped ½ sweet onion chopped olive oil chopped fresh oregano chopped fresh basil chopped fresh parsley ½ pound loaf italian bread cut into inch slices ¼ freshly grated parmesan cheese",
+        "directions_text": "preheat oven to 400 degrees f (200 degrees c). in a medium bowl, combine tomatoes, onion, olive oil, oregano, basil and parsley. place bread on a baking sheet, and top with tomato mixture. sprinkle with parmesan. bake in preheated oven for 8 to 10 minutes, or until bottom of bread is browned. allow to cool 5 minutes before serving.",
+        "combined_text": "ali's amazing bruschetta bruschetta bruschetta 2 large tomatoes, coarsely chopped ½ sweet onion, chopped 2 tablespoons olive oil 1 tablespoon chopped fresh oregano 1 teaspoon chopped fresh basil 2 teaspoons chopped fresh parsley ½ (1 pound) loaf italian bread, cut into 1 inch slices ¼ cup freshly grated parmesan cheese preheat oven to 400 degrees f (200 degrees c). in a medium bowl, combine tomatoes, onion, olive oil, oregano, basil and parsley. place bread on a baking sheet, and top with tomato mixture. sprinkle with parmesan. bake in preheated oven for 8 to 10 minutes, or until bottom of bread is browned. allow to cool 5 minutes before serving.",
+        "ingredients_raw": [
+            "2 large tomatoes, coarsely chopped",
+            "½ sweet onion, chopped",
+            "2 tablespoons olive oil",
+            "1 tablespoon chopped fresh oregano",
+            "1 teaspoon chopped fresh basil",
+            "2 teaspoons chopped fresh parsley",
+            "½ (1 pound) loaf Italian bread, cut into 1 inch slices",
+            "¼ cup freshly grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "In a medium bowl, combine tomatoes, onion, olive oil, oregano, basil and parsley. Place bread on a baking sheet, and top with tomato mixture. Sprinkle with Parmesan.",
+            "Bake in preheated oven for 8 to 10 minutes, or until bottom of bread is browned. Allow to cool 5 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "large tomatoes coarsely chopped",
+            "½ sweet onion chopped",
+            "olive oil",
+            "chopped fresh oregano",
+            "chopped fresh basil",
+            "chopped fresh parsley",
+            "½ pound loaf italian bread cut into inch slices",
+            "¼ freshly grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Italian-Style Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This Italian-style bruschetta is light and fresh for a quick tasty appetizer.",
+        "ingredients": [
+            "1 ½ pounds plum tomatoes, seeded and cut into small dice",
+            "6 tablespoons extra-virgin olive oil, divided",
+            "¼ cup chopped fresh basil",
+            "2 tablespoons finely chopped red onion",
+            "2 large cloves garlic, minced",
+            "2 teaspoons red wine vinegar",
+            "freshly ground black pepper to taste",
+            "1 French baguette, cut into 1/2-inch thick slices",
+            "1 tablespoon high-quality balsamic vinegar, or to taste"
+        ],
+        "directions": [
+            "Combine tomatoes, 3 tablespoons olive oil, basil, red onion, garlic, red wine vinegar, and pepper in a bowl; let stand at room temperature for 15 minutes, then marinate in the refrigerator for 45 minutes.",
+            "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Brush one side of Baguette slices with remaining 3 tablespoons olive oil; place, oiled-sides-up, onto a baking sheet.",
+            "Broil until golden brown, about 2 minutes",
+            "Spoon tomato mixture onto toasted Baguette slices; drizzle with balsamic vinegar. Serve immediately."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "½ pounds plum tomatoes seeded cut into small dice extra-virgin olive oil divided ¼ chopped fresh basil finely chopped red onion large cloves garlic minced red wine vinegar freshly ground black pepper taste french baguette cut into -inch thick slices high-quality balsamic vinegar taste",
+        "directions_text": "combine tomatoes, 3 tablespoons olive oil, basil, red onion, garlic, red wine vinegar, and pepper in a bowl; let stand at room temperature for 15 minutes, then marinate in the refrigerator for 45 minutes. set oven rack about 6 inches from the heat source and preheat the oven's broiler. brush one side of baguette slices with remaining 3 tablespoons olive oil; place, oiled-sides-up, onto a baking sheet. broil until golden brown, about 2 minutes spoon tomato mixture onto toasted baguette slices; drizzle with balsamic vinegar. serve immediately.",
+        "combined_text": "italian-style bruschetta bruschetta bruschetta 1 ½ pounds plum tomatoes, seeded and cut into small dice 6 tablespoons extra-virgin olive oil, divided ¼ cup chopped fresh basil 2 tablespoons finely chopped red onion 2 large cloves garlic, minced 2 teaspoons red wine vinegar freshly ground black pepper to taste 1 french baguette, cut into 1/2-inch thick slices 1 tablespoon high-quality balsamic vinegar, or to taste combine tomatoes, 3 tablespoons olive oil, basil, red onion, garlic, red wine vinegar, and pepper in a bowl; let stand at room temperature for 15 minutes, then marinate in the refrigerator for 45 minutes. set oven rack about 6 inches from the heat source and preheat the oven's broiler. brush one side of baguette slices with remaining 3 tablespoons olive oil; place, oiled-sides-up, onto a baking sheet. broil until golden brown, about 2 minutes spoon tomato mixture onto toasted baguette slices; drizzle with balsamic vinegar. serve immediately.",
+        "ingredients_raw": [
+            "1 ½ pounds plum tomatoes, seeded and cut into small dice",
+            "6 tablespoons extra-virgin olive oil, divided",
+            "¼ cup chopped fresh basil",
+            "2 tablespoons finely chopped red onion",
+            "2 large cloves garlic, minced",
+            "2 teaspoons red wine vinegar",
+            "freshly ground black pepper to taste",
+            "1 French baguette, cut into 1/2-inch thick slices",
+            "1 tablespoon high-quality balsamic vinegar, or to taste"
+        ],
+        "directions_raw": [
+            "Combine tomatoes, 3 tablespoons olive oil, basil, red onion, garlic, red wine vinegar, and pepper in a bowl; let stand at room temperature for 15 minutes, then marinate in the refrigerator for 45 minutes.",
+            "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Brush one side of Baguette slices with remaining 3 tablespoons olive oil; place, oiled-sides-up, onto a baking sheet.",
+            "Broil until golden brown, about 2 minutes",
+            "Spoon tomato mixture onto toasted Baguette slices; drizzle with balsamic vinegar. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "½ pounds plum tomatoes seeded cut into small dice",
+            "extra-virgin olive oil divided",
+            "¼ chopped fresh basil",
+            "finely chopped red onion",
+            "large cloves garlic minced",
+            "red wine vinegar",
+            "freshly ground black pepper taste",
+            "french baguette cut into -inch thick slices",
+            "high-quality balsamic vinegar taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 30,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Easy Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "I always serve this as a starter at dinner parties. Everyone loves it because it is so light and tasty.",
+        "ingredients": [
+            "1 French baguette, cut into 1/2 inch thick circles",
+            "8 plum tomatoes, diced",
+            "1 cup chopped fresh basil",
+            "½ red onion, minced",
+            "freshly ground black pepper",
+            "3 cloves garlic"
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Combine tomato, basil, and red onion in a small mixing bowl; stir well. Season with freshly ground black pepper. Set aside.",
+            "Arrange bread on a baking sheet. Place in oven, and bake until well toasted, approximately 5 minutes.",
+            "Remove bread from oven, and transfer to a large serving platter. Let bread cool 3 to 5 minutes. Rub garlic into the top of each slice of toast; the toast should glisten with the garlic. Spoon the tomato mixture generously onto each slice, and serve."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "french baguette cut into inch thick circles plum tomatoes diced chopped fresh basil ½ red onion minced freshly ground black pepper cloves garlic",
+        "directions_text": "preheat oven to 400 degrees f (200 degrees c). combine tomato, basil, and red onion in a small mixing bowl; stir well. season with freshly ground black pepper. set aside. arrange bread on a baking sheet. place in oven, and bake until well toasted, approximately 5 minutes. remove bread from oven, and transfer to a large serving platter. let bread cool 3 to 5 minutes. rub garlic into the top of each slice of toast; the toast should glisten with the garlic. spoon the tomato mixture generously onto each slice, and serve.",
+        "combined_text": "easy bruschetta bruschetta bruschetta 1 french baguette, cut into 1/2 inch thick circles 8 plum tomatoes, diced 1 cup chopped fresh basil ½ red onion, minced freshly ground black pepper 3 cloves garlic preheat oven to 400 degrees f (200 degrees c). combine tomato, basil, and red onion in a small mixing bowl; stir well. season with freshly ground black pepper. set aside. arrange bread on a baking sheet. place in oven, and bake until well toasted, approximately 5 minutes. remove bread from oven, and transfer to a large serving platter. let bread cool 3 to 5 minutes. rub garlic into the top of each slice of toast; the toast should glisten with the garlic. spoon the tomato mixture generously onto each slice, and serve.",
+        "ingredients_raw": [
+            "1 French baguette, cut into 1/2 inch thick circles",
+            "8 plum tomatoes, diced",
+            "1 cup chopped fresh basil",
+            "½ red onion, minced",
+            "freshly ground black pepper",
+            "3 cloves garlic"
+        ],
+        "directions_raw": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Combine tomato, basil, and red onion in a small mixing bowl; stir well. Season with freshly ground black pepper. Set aside.",
+            "Arrange bread on a baking sheet. Place in oven, and bake until well toasted, approximately 5 minutes.",
+            "Remove bread from oven, and transfer to a large serving platter. Let bread cool 3 to 5 minutes. Rub garlic into the top of each slice of toast; the toast should glisten with the garlic. Spoon the tomato mixture generously onto each slice, and serve."
+        ],
+        "ingredients_canonical": [
+            "french baguette cut into inch thick circles",
+            "plum tomatoes diced",
+            "chopped fresh basil",
+            "½ red onion minced",
+            "freshly ground black pepper",
+            "cloves garlic"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 11,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Double Tomato Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "A delicious and easy appetizer. The balsamic vinegar gives it a little bite. Dried basil can be substituted but it is best with fresh.",
+        "ingredients": [
+            "6 roma (plum) tomatoes, chopped",
+            "½ cup sun-dried tomatoes, packed in oil",
+            "3 cloves minced garlic",
+            "¼ cup olive oil",
+            "2 tablespoons balsamic vinegar",
+            "¼ cup fresh basil, stems removed",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 French baguette",
+            "2 cups shredded mozzarella cheese"
+        ],
+        "directions": [
+            "Preheat the oven on broiler setting.",
+            "In a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. Allow the mixture to sit for 10 minutes.",
+            "Cut the baguette into 3/4-inch slices. On a baking sheet, arrange the baguette slices in a single layer. Broil for 1 to 2 minutes, until slightly brown.",
+            "Divide the tomato mixture evenly over the baguette slices. Top the slices with mozzarella cheese.",
+            "Broil for 5 minutes, or until the cheese is melted."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "roma plum tomatoes chopped ½ sun-dried tomatoes packed in oil cloves minced garlic ¼ olive oil balsamic vinegar ¼ fresh basil stems removed ¼ salt ¼ ground black pepper french baguette shredded mozzarella cheese",
+        "directions_text": "preheat the oven on broiler setting. in a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. allow the mixture to sit for 10 minutes. cut the baguette into 3/4-inch slices. on a baking sheet, arrange the baguette slices in a single layer. broil for 1 to 2 minutes, until slightly brown. divide the tomato mixture evenly over the baguette slices. top the slices with mozzarella cheese. broil for 5 minutes, or until the cheese is melted.",
+        "combined_text": "double tomato bruschetta bruschetta bruschetta 6 roma (plum) tomatoes, chopped ½ cup sun-dried tomatoes, packed in oil 3 cloves minced garlic ¼ cup olive oil 2 tablespoons balsamic vinegar ¼ cup fresh basil, stems removed ¼ teaspoon salt ¼ teaspoon ground black pepper 1 french baguette 2 cups shredded mozzarella cheese preheat the oven on broiler setting. in a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. allow the mixture to sit for 10 minutes. cut the baguette into 3/4-inch slices. on a baking sheet, arrange the baguette slices in a single layer. broil for 1 to 2 minutes, until slightly brown. divide the tomato mixture evenly over the baguette slices. top the slices with mozzarella cheese. broil for 5 minutes, or until the cheese is melted.",
+        "ingredients_raw": [
+            "6 roma (plum) tomatoes, chopped",
+            "½ cup sun-dried tomatoes, packed in oil",
+            "3 cloves minced garlic",
+            "¼ cup olive oil",
+            "2 tablespoons balsamic vinegar",
+            "¼ cup fresh basil, stems removed",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 French baguette",
+            "2 cups shredded mozzarella cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven on broiler setting.",
+            "In a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. Allow the mixture to sit for 10 minutes.",
+            "Cut the baguette into 3/4-inch slices. On a baking sheet, arrange the baguette slices in a single layer. Broil for 1 to 2 minutes, until slightly brown.",
+            "Divide the tomato mixture evenly over the baguette slices. Top the slices with mozzarella cheese.",
+            "Broil for 5 minutes, or until the cheese is melted."
+        ],
+        "ingredients_canonical": [
+            "roma plum tomatoes chopped",
+            "½ sun-dried tomatoes packed in oil",
+            "cloves minced garlic",
+            "¼ olive oil",
+            "balsamic vinegar",
+            "¼ fresh basil stems removed",
+            "¼ salt",
+            "¼ ground black pepper",
+            "french baguette",
+            "shredded mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 40,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Artichoke Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a great bruschetta recipe based on an artichoke dip. It's always a huge hit! Try adding spinach or tomatoes!",
+        "ingredients": [
+            "1 (6.5 ounce) jar marinated artichoke hearts, drained and chopped",
+            "½ cup grated Romano cheese",
+            "⅓ cup finely chopped red onion",
+            "5 tablespoons mayonnaise",
+            "1 French baguette, cut into 1/3 inch thick slices"
+        ],
+        "directions": [
+            "Preheat the broiler.",
+            "In a medium bowl, mix marinated artichoke hearts, Romano cheese, red onion and mayonnaise. Top French baguette slices with equal amounts of the artichoke heart mixture. Arrange slices in a single layer on a large baking sheet.",
+            "Broil in the preheated oven 2 minutes, or until toppings are bubbly and lightly browned."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "ounce jar marinated artichoke hearts drained chopped ½ grated romano cheese ⅓ finely chopped red onion mayonnaise french baguette cut into inch thick slices",
+        "directions_text": "preheat the broiler. in a medium bowl, mix marinated artichoke hearts, romano cheese, red onion and mayonnaise. top french baguette slices with equal amounts of the artichoke heart mixture. arrange slices in a single layer on a large baking sheet. broil in the preheated oven 2 minutes, or until toppings are bubbly and lightly browned.",
+        "combined_text": "artichoke bruschetta bruschetta bruschetta 1 (6.5 ounce) jar marinated artichoke hearts, drained and chopped ½ cup grated romano cheese ⅓ cup finely chopped red onion 5 tablespoons mayonnaise 1 french baguette, cut into 1/3 inch thick slices preheat the broiler. in a medium bowl, mix marinated artichoke hearts, romano cheese, red onion and mayonnaise. top french baguette slices with equal amounts of the artichoke heart mixture. arrange slices in a single layer on a large baking sheet. broil in the preheated oven 2 minutes, or until toppings are bubbly and lightly browned.",
+        "ingredients_raw": [
+            "1 (6.5 ounce) jar marinated artichoke hearts, drained and chopped",
+            "½ cup grated Romano cheese",
+            "⅓ cup finely chopped red onion",
+            "5 tablespoons mayonnaise",
+            "1 French baguette, cut into 1/3 inch thick slices"
+        ],
+        "directions_raw": [
+            "Preheat the broiler.",
+            "In a medium bowl, mix marinated artichoke hearts, Romano cheese, red onion and mayonnaise. Top French baguette slices with equal amounts of the artichoke heart mixture. Arrange slices in a single layer on a large baking sheet.",
+            "Broil in the preheated oven 2 minutes, or until toppings are bubbly and lightly browned."
+        ],
+        "ingredients_canonical": [
+            "ounce jar marinated artichoke hearts drained chopped",
+            "½ grated romano cheese",
+            "⅓ finely chopped red onion",
+            "mayonnaise",
+            "french baguette cut into inch thick slices"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "appetizer",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Best Bruschetta Ever",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a great garlicky bruschetta recipe. Serve it on slices of French bread. It's a wonderful accompaniment to tomato pastas.",
+        "ingredients": [
+            "2 tomatoes, cubed",
+            "1 teaspoon dried basil",
+            "4 tablespoons grated Parmesan cheese",
+            "2 tablespoons olive oil",
+            "1 clove garlic, crushed",
+            "seasoning salt to taste",
+            "ground black pepper to taste"
+        ],
+        "directions": [
+            "In a medium bowl, mix tomatoes, dried basil, Parmesan cheese, olive oil, garlic, seasoning salt and ground black pepper. Cover and chill in the refrigerator 8 hours, or overnight, before serving."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "tomatoes cubed dried basil grated parmesan cheese olive oil clove garlic crushed seasoning salt taste ground black pepper taste",
+        "directions_text": "in a medium bowl, mix tomatoes, dried basil, parmesan cheese, olive oil, garlic, seasoning salt and ground black pepper. cover and chill in the refrigerator 8 hours, or overnight, before serving.",
+        "combined_text": "best bruschetta ever bruschetta bruschetta 2 tomatoes, cubed 1 teaspoon dried basil 4 tablespoons grated parmesan cheese 2 tablespoons olive oil 1 clove garlic, crushed seasoning salt to taste ground black pepper to taste in a medium bowl, mix tomatoes, dried basil, parmesan cheese, olive oil, garlic, seasoning salt and ground black pepper. cover and chill in the refrigerator 8 hours, or overnight, before serving.",
+        "ingredients_raw": [
+            "2 tomatoes, cubed",
+            "1 teaspoon dried basil",
+            "4 tablespoons grated Parmesan cheese",
+            "2 tablespoons olive oil",
+            "1 clove garlic, crushed",
+            "seasoning salt to taste",
+            "ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "In a medium bowl, mix tomatoes, dried basil, Parmesan cheese, olive oil, garlic, seasoning salt and ground black pepper. Cover and chill in the refrigerator 8 hours, or overnight, before serving."
+        ],
+        "ingredients_canonical": [
+            "tomatoes cubed",
+            "dried basil",
+            "grated parmesan cheese",
+            "olive oil",
+            "clove garlic crushed",
+            "seasoning salt taste",
+            "ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "appetizer"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Bruschetta with Cheese",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a bruschetta with cheese recipe I came up with for a dinner party.",
+        "ingredients": [
+            "1 French baguette",
+            "1 tablespoon olive oil",
+            "2 roma (plum) tomatoes, thinly sliced",
+            "1 tablespoon chopped fresh basil",
+            "1 tablespoon chopped fresh oregano",
+            "1 teaspoon garlic powder",
+            "1 pinch ground white pepper",
+            "1 (8 ounce) package sliced mozzarella cheese",
+            "1 (6 ounce) package sliced provolone cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Slice baguette into 1/2-inch thick diagonal slices. Arrange slices in a single layer on a baking sheet. Brush both sides of each slice with olive oil. Place tomato slices and a sprinkling of basil and oregano on bread slices. Sprinkle tomatoes, basil, and oregano with garlic powder and white pepper. Cover tomato slices with mozzarella and provolone. Place more basil, oregano, and tomato slices on top of the cheese.",
+            "Bake in the preheated oven until cheese is bubbly, 7 to 10 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "french baguette olive oil roma plum tomatoes thinly sliced chopped fresh basil chopped fresh oregano garlic powder pinch ground white pepper ounce package sliced mozzarella cheese ounce package sliced provolone cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). slice baguette into 1/2-inch thick diagonal slices. arrange slices in a single layer on a baking sheet. brush both sides of each slice with olive oil. place tomato slices and a sprinkling of basil and oregano on bread slices. sprinkle tomatoes, basil, and oregano with garlic powder and white pepper. cover tomato slices with mozzarella and provolone. place more basil, oregano, and tomato slices on top of the cheese. bake in the preheated oven until cheese is bubbly, 7 to 10 minutes.",
+        "combined_text": "bruschetta with cheese bruschetta bruschetta 1 french baguette 1 tablespoon olive oil 2 roma (plum) tomatoes, thinly sliced 1 tablespoon chopped fresh basil 1 tablespoon chopped fresh oregano 1 teaspoon garlic powder 1 pinch ground white pepper 1 (8 ounce) package sliced mozzarella cheese 1 (6 ounce) package sliced provolone cheese preheat the oven to 350 degrees f (175 degrees c). slice baguette into 1/2-inch thick diagonal slices. arrange slices in a single layer on a baking sheet. brush both sides of each slice with olive oil. place tomato slices and a sprinkling of basil and oregano on bread slices. sprinkle tomatoes, basil, and oregano with garlic powder and white pepper. cover tomato slices with mozzarella and provolone. place more basil, oregano, and tomato slices on top of the cheese. bake in the preheated oven until cheese is bubbly, 7 to 10 minutes.",
+        "ingredients_raw": [
+            "1 French baguette",
+            "1 tablespoon olive oil",
+            "2 roma (plum) tomatoes, thinly sliced",
+            "1 tablespoon chopped fresh basil",
+            "1 tablespoon chopped fresh oregano",
+            "1 teaspoon garlic powder",
+            "1 pinch ground white pepper",
+            "1 (8 ounce) package sliced mozzarella cheese",
+            "1 (6 ounce) package sliced provolone cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Slice baguette into 1/2-inch thick diagonal slices. Arrange slices in a single layer on a baking sheet. Brush both sides of each slice with olive oil. Place tomato slices and a sprinkling of basil and oregano on bread slices. Sprinkle tomatoes, basil, and oregano with garlic powder and white pepper. Cover tomato slices with mozzarella and provolone. Place more basil, oregano, and tomato slices on top of the cheese.",
+            "Bake in the preheated oven until cheese is bubbly, 7 to 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "french baguette",
+            "olive oil",
+            "roma plum tomatoes thinly sliced",
+            "chopped fresh basil",
+            "chopped fresh oregano",
+            "garlic powder",
+            "pinch ground white pepper",
+            "ounce package sliced mozzarella cheese",
+            "ounce package sliced provolone cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Bruschetta al Pomodoro",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This bruschetta al pomodoro recipe is a great summer appetizer featuring fresh tomato salsa on toasted Italian bread.",
+        "ingredients": [
+            "8 Roma (plum) tomatoes, seeded and chopped",
+            "5 leaves chopped fresh basil",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil, or as needed",
+            "1 pinch dried oregano",
+            "1 pinch red pepper flakes",
+            "1 pinch salt",
+            "1 pinch ground black pepper",
+            "1 (1 pound) loaf French or Italian-style bread"
+        ],
+        "directions": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Combine tomatoes, basil, garlic, 1 tablespoon olive oil, oregano, pepper flakes, salt, and black pepper in a bowl; add more olive oil to coat salsa, if needed. Set aside for 10 minutes.",
+            "Slice bread into ½-inch-thick slices; arrange on a baking sheet in a single layer.",
+            "Broil in the preheated broiler until lightly browned, about 1 minute per side.",
+            "Spread tomato salsa on toasted bread slices; return to the oven. Broil until salsa is hot but not cooked, 2 to 3 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "roma plum tomatoes seeded chopped leaves chopped fresh basil cloves garlic minced olive oil as needed pinch dried oregano pinch red pepper flakes pinch salt pinch ground black pepper pound loaf french italian-style bread",
+        "directions_text": "set an oven rack about 6 inches from the heat source and preheat the oven's broiler. combine tomatoes, basil, garlic, 1 tablespoon olive oil, oregano, pepper flakes, salt, and black pepper in a bowl; add more olive oil to coat salsa, if needed. set aside for 10 minutes. slice bread into ½-inch-thick slices; arrange on a baking sheet in a single layer. broil in the preheated broiler until lightly browned, about 1 minute per side. spread tomato salsa on toasted bread slices; return to the oven. broil until salsa is hot but not cooked, 2 to 3 minutes.",
+        "combined_text": "bruschetta al pomodoro bruschetta bruschetta 8 roma (plum) tomatoes, seeded and chopped 5 leaves chopped fresh basil 2 cloves garlic, minced 1 tablespoon olive oil, or as needed 1 pinch dried oregano 1 pinch red pepper flakes 1 pinch salt 1 pinch ground black pepper 1 (1 pound) loaf french or italian-style bread set an oven rack about 6 inches from the heat source and preheat the oven's broiler. combine tomatoes, basil, garlic, 1 tablespoon olive oil, oregano, pepper flakes, salt, and black pepper in a bowl; add more olive oil to coat salsa, if needed. set aside for 10 minutes. slice bread into ½-inch-thick slices; arrange on a baking sheet in a single layer. broil in the preheated broiler until lightly browned, about 1 minute per side. spread tomato salsa on toasted bread slices; return to the oven. broil until salsa is hot but not cooked, 2 to 3 minutes.",
+        "ingredients_raw": [
+            "8 Roma (plum) tomatoes, seeded and chopped",
+            "5 leaves chopped fresh basil",
+            "2 cloves garlic, minced",
+            "1 tablespoon olive oil, or as needed",
+            "1 pinch dried oregano",
+            "1 pinch red pepper flakes",
+            "1 pinch salt",
+            "1 pinch ground black pepper",
+            "1 (1 pound) loaf French or Italian-style bread"
+        ],
+        "directions_raw": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Combine tomatoes, basil, garlic, 1 tablespoon olive oil, oregano, pepper flakes, salt, and black pepper in a bowl; add more olive oil to coat salsa, if needed. Set aside for 10 minutes.",
+            "Slice bread into ½-inch-thick slices; arrange on a baking sheet in a single layer.",
+            "Broil in the preheated broiler until lightly browned, about 1 minute per side.",
+            "Spread tomato salsa on toasted bread slices; return to the oven. Broil until salsa is hot but not cooked, 2 to 3 minutes."
+        ],
+        "ingredients_canonical": [
+            "roma plum tomatoes seeded chopped",
+            "leaves chopped fresh basil",
+            "cloves garlic minced",
+            "olive oil as needed",
+            "pinch dried oregano",
+            "pinch red pepper flakes",
+            "pinch salt",
+            "pinch ground black pepper",
+            "pound loaf french italian-style bread"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer"
+        ],
+        "tastes": [
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 40,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Caprese Garlic Bread",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "I made this caprese garlic bread because just about everybody loves crusty garlic bread. And when you add tomatoes, mozzarella, basil, and a drizzle of balsamic, it kicks up the flavor to sensational. French, Italian and ciabatta are all good bread choices.",
+        "ingredients": [
+            "1 (12 ounce) loaf French bread",
+            "olive oil spray",
+            "4 tablespoons salted butter",
+            "5 cloves garlic",
+            "12 ounces mozzarella cheese",
+            "4 small tomatoes",
+            "salt and freshly ground black pepper",
+            "1/3 cup chopped fresh basil",
+            "balsamic glaze"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C), and line a baking sheet with parchment paper. Cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up.",
+            "In a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices.",
+            "Bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes.",
+            "Remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. Drizzle with balsamic glaze, cut into slices, and serve."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "ounce loaf french bread olive oil spray salted butter cloves garlic ounces mozzarella cheese small tomatoes salt freshly ground black pepper chopped fresh basil balsamic glaze",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c), and line a baking sheet with parchment paper. cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up. in a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices. bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes. remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. drizzle with balsamic glaze, cut into slices, and serve.",
+        "combined_text": "caprese garlic bread bruschetta bruschetta 1 (12 ounce) loaf french bread olive oil spray 4 tablespoons salted butter 5 cloves garlic 12 ounces mozzarella cheese 4 small tomatoes salt and freshly ground black pepper 1/3 cup chopped fresh basil balsamic glaze preheat the oven to 400 degrees f (200 degrees c), and line a baking sheet with parchment paper. cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up. in a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices. bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes. remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. drizzle with balsamic glaze, cut into slices, and serve.",
+        "ingredients_raw": [
+            "1 (12 ounce) loaf French bread",
+            "olive oil spray",
+            "4 tablespoons salted butter",
+            "5 cloves garlic",
+            "12 ounces mozzarella cheese",
+            "4 small tomatoes",
+            "salt and freshly ground black pepper",
+            "1/3 cup chopped fresh basil",
+            "balsamic glaze"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C), and line a baking sheet with parchment paper. Cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up.",
+            "In a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices.",
+            "Bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes.",
+            "Remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. Drizzle with balsamic glaze, cut into slices, and serve."
+        ],
+        "ingredients_canonical": [
+            "ounce loaf french bread",
+            "olive oil spray",
+            "salted butter",
+            "cloves garlic",
+            "ounces mozzarella cheese",
+            "small tomatoes",
+            "salt freshly ground black pepper",
+            "chopped fresh basil",
+            "balsamic glaze"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mushroom and Tomato Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Try this mushroom bruschetta recipe for a wonderful appetizer before a pasta meal. It's great paired with a glass of Chianti. Feel free to add your own touches.",
+        "ingredients": [
+            "1 loaf Italian bread, cut into 3/4-inch thick slices",
+            "½ cup olive oil",
+            "½ pound diced fresh mushrooms",
+            "5 green onions, minced",
+            "4 cloves garlic, minced",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon chopped fresh parsley",
+            "3 large tomatoes, diced",
+            "1 teaspoon balsamic vinegar",
+            "2 cups shredded mozzarella cheese"
+        ],
+        "directions": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Arrange bread slices on a baking sheet in a single layer.",
+            "Broil bread in the preheated oven until toasted, 1 to 2 minutes; watch carefully to prevent burning. Remove from the oven and place the baking sheet onto a wire rack. Keep the broiler on.",
+            "Heat olive oil in a skillet over medium heat. Add mushrooms, green onions, garlic, salt, black pepper, and parsley; cook and stir until mushrooms are soft and juicy, about 5 minutes. Remove from the heat.",
+            "While the mushrooms are cooking, mix tomatoes and balsamic vinegar together in a bowl.",
+            "Top each toasted bread slice with mushroom mixture, then spread tomato mixture over top and sprinkle with mozzarella cheese.",
+            "Return to the oven and broil until heated through and cheese has melted, about 5 minutes."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 6,
+        "ingredient_text": "loaf italian bread cut into -inch thick slices ½ olive oil ½ pound diced fresh mushrooms green onions minced cloves garlic minced salt ground black pepper chopped fresh parsley large tomatoes diced balsamic vinegar shredded mozzarella cheese",
+        "directions_text": "set an oven rack about 6 inches from the heat source and preheat the oven's broiler. arrange bread slices on a baking sheet in a single layer. broil bread in the preheated oven until toasted, 1 to 2 minutes; watch carefully to prevent burning. remove from the oven and place the baking sheet onto a wire rack. keep the broiler on. heat olive oil in a skillet over medium heat. add mushrooms, green onions, garlic, salt, black pepper, and parsley; cook and stir until mushrooms are soft and juicy, about 5 minutes. remove from the heat. while the mushrooms are cooking, mix tomatoes and balsamic vinegar together in a bowl. top each toasted bread slice with mushroom mixture, then spread tomato mixture over top and sprinkle with mozzarella cheese. return to the oven and broil until heated through and cheese has melted, about 5 minutes.",
+        "combined_text": "mushroom and tomato bruschetta bruschetta bruschetta 1 loaf italian bread, cut into 3/4-inch thick slices ½ cup olive oil ½ pound diced fresh mushrooms 5 green onions, minced 4 cloves garlic, minced 1 teaspoon salt 1 teaspoon ground black pepper 1 teaspoon chopped fresh parsley 3 large tomatoes, diced 1 teaspoon balsamic vinegar 2 cups shredded mozzarella cheese set an oven rack about 6 inches from the heat source and preheat the oven's broiler. arrange bread slices on a baking sheet in a single layer. broil bread in the preheated oven until toasted, 1 to 2 minutes; watch carefully to prevent burning. remove from the oven and place the baking sheet onto a wire rack. keep the broiler on. heat olive oil in a skillet over medium heat. add mushrooms, green onions, garlic, salt, black pepper, and parsley; cook and stir until mushrooms are soft and juicy, about 5 minutes. remove from the heat. while the mushrooms are cooking, mix tomatoes and balsamic vinegar together in a bowl. top each toasted bread slice with mushroom mixture, then spread tomato mixture over top and sprinkle with mozzarella cheese. return to the oven and broil until heated through and cheese has melted, about 5 minutes.",
+        "ingredients_raw": [
+            "1 loaf Italian bread, cut into 3/4-inch thick slices",
+            "½ cup olive oil",
+            "½ pound diced fresh mushrooms",
+            "5 green onions, minced",
+            "4 cloves garlic, minced",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon chopped fresh parsley",
+            "3 large tomatoes, diced",
+            "1 teaspoon balsamic vinegar",
+            "2 cups shredded mozzarella cheese"
+        ],
+        "directions_raw": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Arrange bread slices on a baking sheet in a single layer.",
+            "Broil bread in the preheated oven until toasted, 1 to 2 minutes; watch carefully to prevent burning. Remove from the oven and place the baking sheet onto a wire rack. Keep the broiler on.",
+            "Heat olive oil in a skillet over medium heat. Add mushrooms, green onions, garlic, salt, black pepper, and parsley; cook and stir until mushrooms are soft and juicy, about 5 minutes. Remove from the heat.",
+            "While the mushrooms are cooking, mix tomatoes and balsamic vinegar together in a bowl.",
+            "Top each toasted bread slice with mushroom mixture, then spread tomato mixture over top and sprinkle with mozzarella cheese.",
+            "Return to the oven and broil until heated through and cheese has melted, about 5 minutes."
+        ],
+        "ingredients_canonical": [
+            "loaf italian bread cut into -inch thick slices",
+            "½ olive oil",
+            "½ pound diced fresh mushrooms",
+            "green onions minced",
+            "cloves garlic minced",
+            "salt",
+            "ground black pepper",
+            "chopped fresh parsley",
+            "large tomatoes diced",
+            "balsamic vinegar",
+            "shredded mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 10,
+        "cook_speed": "medium",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 68,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Bruschetta with Roasted Sweet Red Peppers",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a fast and easy roasted red pepper bruschetta appetizer that is colorful and delicious. You'll get compliments. My sons devour this in minutes!",
+        "ingredients": [
+            "16 ounces Italian bread",
+            "2 tablespoons olive oil",
+            "1 (16 ounce) jar marinated roasted sweet red peppers",
+            "3 cloves garlic, chopped",
+            "1 tomato, seeded and chopped",
+            "1 cup chopped fresh basil",
+            "1 onion, chopped (Optional)",
+            "3 teaspoons balsamic vinegar"
+        ],
+        "directions": [
+            "Preheat your oven's broiler.",
+            "Slice bread loaf into 1-inch thick portions. Brush each slice on one side with olive oil. Broil, oil-side up, until barely golden. Remove from broiler pan and cool.",
+            "In a medium bowl, mix together roasted pepper, garlic, tomato, basil, and onion. Sprinkle mixture evenly on each toast portion. Drizzle with balsamic vinegar. Serve immediately."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "ounces italian bread olive oil ounce jar marinated roasted sweet red peppers cloves garlic chopped tomato seeded chopped chopped fresh basil onion chopped optional balsamic vinegar",
+        "directions_text": "preheat your oven's broiler. slice bread loaf into 1-inch thick portions. brush each slice on one side with olive oil. broil, oil-side up, until barely golden. remove from broiler pan and cool. in a medium bowl, mix together roasted pepper, garlic, tomato, basil, and onion. sprinkle mixture evenly on each toast portion. drizzle with balsamic vinegar. serve immediately.",
+        "combined_text": "bruschetta with roasted sweet red peppers bruschetta bruschetta 16 ounces italian bread 2 tablespoons olive oil 1 (16 ounce) jar marinated roasted sweet red peppers 3 cloves garlic, chopped 1 tomato, seeded and chopped 1 cup chopped fresh basil 1 onion, chopped (optional) 3 teaspoons balsamic vinegar preheat your oven's broiler. slice bread loaf into 1-inch thick portions. brush each slice on one side with olive oil. broil, oil-side up, until barely golden. remove from broiler pan and cool. in a medium bowl, mix together roasted pepper, garlic, tomato, basil, and onion. sprinkle mixture evenly on each toast portion. drizzle with balsamic vinegar. serve immediately.",
+        "ingredients_raw": [
+            "16 ounces Italian bread",
+            "2 tablespoons olive oil",
+            "1 (16 ounce) jar marinated roasted sweet red peppers",
+            "3 cloves garlic, chopped",
+            "1 tomato, seeded and chopped",
+            "1 cup chopped fresh basil",
+            "1 onion, chopped (Optional)",
+            "3 teaspoons balsamic vinegar"
+        ],
+        "directions_raw": [
+            "Preheat your oven's broiler.",
+            "Slice bread loaf into 1-inch thick portions. Brush each slice on one side with olive oil. Broil, oil-side up, until barely golden. Remove from broiler pan and cool.",
+            "In a medium bowl, mix together roasted pepper, garlic, tomato, basil, and onion. Sprinkle mixture evenly on each toast portion. Drizzle with balsamic vinegar. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "ounces italian bread",
+            "olive oil",
+            "ounce jar marinated roasted sweet red peppers",
+            "cloves garlic chopped",
+            "tomato seeded chopped",
+            "chopped fresh basil",
+            "onion chopped optional",
+            "balsamic vinegar"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 14,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Burrata Bruschetta with Figs",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "I can't guarantee you'll be able to find Burrata and fresh Black Mission figs, but if you can, you really must give this a try. I'll tell you right now that there really isn't a substitute for this heavenly cheese.",
+        "ingredients": [
+            "12 Black Mission figs, halved lengthwise",
+            "2 tablespoons balsamic vinegar",
+            "2 tablespoons extra virgin olive oil",
+            "6 ounces Burrata cheese, thickly sliced",
+            "6 (1/2 inch thick) slices Italian bread, toasted",
+            "sea salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+            "Place figs, skin-side down, on grill. Cook until figs start to swell and bubble, 2 to 4 minutes.",
+            "Whisk together balsamic vinegar and olive oil until completely combined, about 1 minute.",
+            "Place Burrata cheese on top of each piece of toast. Spread figs around bread and drizzle with balsamic vinegar mixture. Season with sea salt and black pepper to taste."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "black mission figs halved lengthwise balsamic vinegar extra virgin olive oil ounces burrata cheese thickly sliced inch thick slices italian bread toasted sea salt ground black pepper taste",
+        "directions_text": "preheat an outdoor grill for high heat, and lightly oil the grate. place figs, skin-side down, on grill. cook until figs start to swell and bubble, 2 to 4 minutes. whisk together balsamic vinegar and olive oil until completely combined, about 1 minute. place burrata cheese on top of each piece of toast. spread figs around bread and drizzle with balsamic vinegar mixture. season with sea salt and black pepper to taste.",
+        "combined_text": "burrata bruschetta with figs bruschetta bruschetta 12 black mission figs, halved lengthwise 2 tablespoons balsamic vinegar 2 tablespoons extra virgin olive oil 6 ounces burrata cheese, thickly sliced 6 (1/2 inch thick) slices italian bread, toasted sea salt and ground black pepper to taste preheat an outdoor grill for high heat, and lightly oil the grate. place figs, skin-side down, on grill. cook until figs start to swell and bubble, 2 to 4 minutes. whisk together balsamic vinegar and olive oil until completely combined, about 1 minute. place burrata cheese on top of each piece of toast. spread figs around bread and drizzle with balsamic vinegar mixture. season with sea salt and black pepper to taste.",
+        "ingredients_raw": [
+            "12 Black Mission figs, halved lengthwise",
+            "2 tablespoons balsamic vinegar",
+            "2 tablespoons extra virgin olive oil",
+            "6 ounces Burrata cheese, thickly sliced",
+            "6 (1/2 inch thick) slices Italian bread, toasted",
+            "sea salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+            "Place figs, skin-side down, on grill. Cook until figs start to swell and bubble, 2 to 4 minutes.",
+            "Whisk together balsamic vinegar and olive oil until completely combined, about 1 minute.",
+            "Place Burrata cheese on top of each piece of toast. Spread figs around bread and drizzle with balsamic vinegar mixture. Season with sea salt and black pepper to taste."
+        ],
+        "ingredients_canonical": [
+            "black mission figs halved lengthwise",
+            "balsamic vinegar",
+            "extra virgin olive oil",
+            "ounces burrata cheese thickly sliced",
+            "inch thick slices italian bread toasted",
+            "sea salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "appetizer",
+            "main",
+            "side",
+            "bread",
+            "breakfast"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 56,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Strawberry Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This strawberry bruschetta recipe makes a delicious variation of the popular tomato-based appetizer. The strawberries are warm and sweet, and the sugar becomes caramelized and crunchy. Your guests will love it!",
+        "ingredients": [
+            "1 tablespoon butter, softened",
+            "24 slices French baguette",
+            "2 cups chopped fresh strawberries",
+            "¼ cup white sugar, or as needed"
+        ],
+        "directions": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Spread thin layer butter on each bread slice; arrange slices in a single layer on a large baking sheet.",
+            "Broil under the preheated broiler until lightly toasted, 1 to 2 minutes. Divide strawberries among toast pieces; sprinkle with sugar.",
+            "Broil under the preheated broiler until sugar caramelizes, 3 to 5 minutes. Serve immediately."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 4,
+        "ingredient_text": "butter softened slices french baguette chopped fresh strawberries ¼ white sugar as needed",
+        "directions_text": "set an oven rack about 6 inches from the heat source and preheat the oven's broiler. spread thin layer butter on each bread slice; arrange slices in a single layer on a large baking sheet. broil under the preheated broiler until lightly toasted, 1 to 2 minutes. divide strawberries among toast pieces; sprinkle with sugar. broil under the preheated broiler until sugar caramelizes, 3 to 5 minutes. serve immediately.",
+        "combined_text": "strawberry bruschetta bruschetta bruschetta 1 tablespoon butter, softened 24 slices french baguette 2 cups chopped fresh strawberries ¼ cup white sugar, or as needed set an oven rack about 6 inches from the heat source and preheat the oven's broiler. spread thin layer butter on each bread slice; arrange slices in a single layer on a large baking sheet. broil under the preheated broiler until lightly toasted, 1 to 2 minutes. divide strawberries among toast pieces; sprinkle with sugar. broil under the preheated broiler until sugar caramelizes, 3 to 5 minutes. serve immediately.",
+        "ingredients_raw": [
+            "1 tablespoon butter, softened",
+            "24 slices French baguette",
+            "2 cups chopped fresh strawberries",
+            "¼ cup white sugar, or as needed"
+        ],
+        "directions_raw": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Spread thin layer butter on each bread slice; arrange slices in a single layer on a large baking sheet.",
+            "Broil under the preheated broiler until lightly toasted, 1 to 2 minutes. Divide strawberries among toast pieces; sprinkle with sugar.",
+            "Broil under the preheated broiler until sugar caramelizes, 3 to 5 minutes. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "butter softened",
+            "slices french baguette",
+            "chopped fresh strawberries",
+            "¼ white sugar as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "appetizer",
+            "bread",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 42,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Papaya Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "I love making this as an appetizer if we're planning on having a heavy dinner. It's a light, healthful treat made with papaya, tomato, and red pepper in a lovely papaya seed dressing. Awesome with pieces of fresh baguette, crackers, or tortilla chips.",
+        "ingredients": [
+            "1 small papaya",
+            "5 medium Roma (plum) tomatoes, diced",
+            "½ medium red onion, diced",
+            "1 medium red bell pepper, seeded and diced",
+            "¼ cup chopped fresh basil leaves",
+            "2 tablespoons white sugar",
+            "¼ cup red wine vinegar",
+            "¼ cup vegetable oil",
+            "½ teaspoon mustard powder",
+            "2 stalks green onions, chopped",
+            "1 (16 inch) French baguette, cut into 1/2 inch pieces"
+        ],
+        "directions": [
+            "Cut papaya in half and remove seeds. Reserve 2 tablespoons of seeds for the dressing. Peel and dice the papaya, and place in a medium bowl. Add tomatoes, red onion, red pepper and basil, and set aside.",
+            "In a food processor or blender, combine the papaya seeds, sugar, wine vinegar, oil, mustard and green onions. Process until smooth and thick, and most of the seeds have broken up. Pour over the papaya mixture and stir to coat all of the ingredients. Serve with slices of baguette."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 2,
+        "ingredient_text": "small papaya medium roma plum tomatoes diced ½ medium red onion diced medium red bell pepper seeded diced ¼ chopped fresh basil leaves white sugar ¼ red wine vinegar ¼ vegetable oil ½ mustard powder stalks green onions chopped inch french baguette cut into inch pieces",
+        "directions_text": "cut papaya in half and remove seeds. reserve 2 tablespoons of seeds for the dressing. peel and dice the papaya, and place in a medium bowl. add tomatoes, red onion, red pepper and basil, and set aside. in a food processor or blender, combine the papaya seeds, sugar, wine vinegar, oil, mustard and green onions. process until smooth and thick, and most of the seeds have broken up. pour over the papaya mixture and stir to coat all of the ingredients. serve with slices of baguette.",
+        "combined_text": "papaya bruschetta bruschetta bruschetta 1 small papaya 5 medium roma (plum) tomatoes, diced ½ medium red onion, diced 1 medium red bell pepper, seeded and diced ¼ cup chopped fresh basil leaves 2 tablespoons white sugar ¼ cup red wine vinegar ¼ cup vegetable oil ½ teaspoon mustard powder 2 stalks green onions, chopped 1 (16 inch) french baguette, cut into 1/2 inch pieces cut papaya in half and remove seeds. reserve 2 tablespoons of seeds for the dressing. peel and dice the papaya, and place in a medium bowl. add tomatoes, red onion, red pepper and basil, and set aside. in a food processor or blender, combine the papaya seeds, sugar, wine vinegar, oil, mustard and green onions. process until smooth and thick, and most of the seeds have broken up. pour over the papaya mixture and stir to coat all of the ingredients. serve with slices of baguette.",
+        "ingredients_raw": [
+            "1 small papaya",
+            "5 medium Roma (plum) tomatoes, diced",
+            "½ medium red onion, diced",
+            "1 medium red bell pepper, seeded and diced",
+            "¼ cup chopped fresh basil leaves",
+            "2 tablespoons white sugar",
+            "¼ cup red wine vinegar",
+            "¼ cup vegetable oil",
+            "½ teaspoon mustard powder",
+            "2 stalks green onions, chopped",
+            "1 (16 inch) French baguette, cut into 1/2 inch pieces"
+        ],
+        "directions_raw": [
+            "Cut papaya in half and remove seeds. Reserve 2 tablespoons of seeds for the dressing. Peel and dice the papaya, and place in a medium bowl. Add tomatoes, red onion, red pepper and basil, and set aside.",
+            "In a food processor or blender, combine the papaya seeds, sugar, wine vinegar, oil, mustard and green onions. Process until smooth and thick, and most of the seeds have broken up. Pour over the papaya mixture and stir to coat all of the ingredients. Serve with slices of baguette."
+        ],
+        "ingredients_canonical": [
+            "small papaya",
+            "medium roma plum tomatoes diced",
+            "½ medium red onion diced",
+            "medium red bell pepper seeded diced",
+            "¼ chopped fresh basil leaves",
+            "white sugar",
+            "¼ red wine vinegar",
+            "¼ vegetable oil",
+            "½ mustard powder",
+            "stalks green onions chopped",
+            "inch french baguette cut into inch pieces"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "german",
+            "italian",
+            "thai"
+        ],
+        "course_list": [
+            "appetizer",
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 16,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Apple Goat Cheese Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "If you like sweet and savory, this one is for you. Easy to make and a beautiful presentation.",
+        "ingredients": [
+            "¼ cup crumbled goat cheese",
+            "1 Fuji apple - peeled, cored, and chopped",
+            "¾ teaspoon chopped fresh thyme",
+            "½ teaspoon chopped fresh oregano",
+            "¼ teaspoon coarse ground black pepper",
+            "8 thin slices French bread"
+        ],
+        "directions": [
+            "Preheat the oven's broiler and set the oven rack 3 to 4 inches from the heat source.",
+            "Toss together the goat cheese, apple, thyme, oregano, and pepper in a bowl; set aside. Arrange the bread slices on a baking sheet; toast the bread under the broiler until golden brown, 1 to 2 minutes.",
+            "Sprinkle the goat cheese mixture evenly over the bread slices. Return bread to oven to broil until cheese is softened, about 1 minute more."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "¼ crumbled goat cheese fuji apple - peeled cored chopped ¾ chopped fresh thyme ½ chopped fresh oregano ¼ coarse ground black pepper thin slices french bread",
+        "directions_text": "preheat the oven's broiler and set the oven rack 3 to 4 inches from the heat source. toss together the goat cheese, apple, thyme, oregano, and pepper in a bowl; set aside. arrange the bread slices on a baking sheet; toast the bread under the broiler until golden brown, 1 to 2 minutes. sprinkle the goat cheese mixture evenly over the bread slices. return bread to oven to broil until cheese is softened, about 1 minute more.",
+        "combined_text": "apple goat cheese bruschetta bruschetta bruschetta ¼ cup crumbled goat cheese 1 fuji apple - peeled, cored, and chopped ¾ teaspoon chopped fresh thyme ½ teaspoon chopped fresh oregano ¼ teaspoon coarse ground black pepper 8 thin slices french bread preheat the oven's broiler and set the oven rack 3 to 4 inches from the heat source. toss together the goat cheese, apple, thyme, oregano, and pepper in a bowl; set aside. arrange the bread slices on a baking sheet; toast the bread under the broiler until golden brown, 1 to 2 minutes. sprinkle the goat cheese mixture evenly over the bread slices. return bread to oven to broil until cheese is softened, about 1 minute more.",
+        "ingredients_raw": [
+            "¼ cup crumbled goat cheese",
+            "1 Fuji apple - peeled, cored, and chopped",
+            "¾ teaspoon chopped fresh thyme",
+            "½ teaspoon chopped fresh oregano",
+            "¼ teaspoon coarse ground black pepper",
+            "8 thin slices French bread"
+        ],
+        "directions_raw": [
+            "Preheat the oven's broiler and set the oven rack 3 to 4 inches from the heat source.",
+            "Toss together the goat cheese, apple, thyme, oregano, and pepper in a bowl; set aside. Arrange the bread slices on a baking sheet; toast the bread under the broiler until golden brown, 1 to 2 minutes.",
+            "Sprinkle the goat cheese mixture evenly over the bread slices. Return bread to oven to broil until cheese is softened, about 1 minute more."
+        ],
+        "ingredients_canonical": [
+            "¼ crumbled goat cheese",
+            "fuji apple - peeled cored chopped",
+            "¾ chopped fresh thyme",
+            "½ chopped fresh oregano",
+            "¼ coarse ground black pepper",
+            "thin slices french bread"
+        ],
+        "cuisine_list": [
+            "african",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "appetizer",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mango Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This bruschetta is made with mango, basil, and Romano cheese, which yields an interesting combination of sweet, sour, and peppery flavors.",
+        "ingredients": [
+            "1 (1 pound) loaf French bread, cut into 1/2 inch pieces",
+            "1 mango - peeled, seeded and diced",
+            "1 tablespoon fresh basil, minced",
+            "1 cup grated Romano cheese"
+        ],
+        "directions": [
+            "Preheat the broiler.",
+            "Arrange French bread slices in a single layer on a large baking sheet. Broil in the preheated oven 1 to 2 minutes per side, until lightly toasted. Remove from heat.",
+            "In a medium bowl, mix mango and fresh basil.",
+            "Top each bread slice with equal amounts of the mango and basil mixture. Sprinkle with Romano cheese, adjusting the amount to taste.",
+            "Return topped bread to broiler. Broil 2 to 3 minutes, or until the cheese is melted and lightly browned. Serve hot."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 5,
+        "ingredient_text": "pound loaf french bread cut into inch pieces mango - peeled seeded diced fresh basil minced grated romano cheese",
+        "directions_text": "preheat the broiler. arrange french bread slices in a single layer on a large baking sheet. broil in the preheated oven 1 to 2 minutes per side, until lightly toasted. remove from heat. in a medium bowl, mix mango and fresh basil. top each bread slice with equal amounts of the mango and basil mixture. sprinkle with romano cheese, adjusting the amount to taste. return topped bread to broiler. broil 2 to 3 minutes, or until the cheese is melted and lightly browned. serve hot.",
+        "combined_text": "mango bruschetta bruschetta bruschetta 1 (1 pound) loaf french bread, cut into 1/2 inch pieces 1 mango - peeled, seeded and diced 1 tablespoon fresh basil, minced 1 cup grated romano cheese preheat the broiler. arrange french bread slices in a single layer on a large baking sheet. broil in the preheated oven 1 to 2 minutes per side, until lightly toasted. remove from heat. in a medium bowl, mix mango and fresh basil. top each bread slice with equal amounts of the mango and basil mixture. sprinkle with romano cheese, adjusting the amount to taste. return topped bread to broiler. broil 2 to 3 minutes, or until the cheese is melted and lightly browned. serve hot.",
+        "ingredients_raw": [
+            "1 (1 pound) loaf French bread, cut into 1/2 inch pieces",
+            "1 mango - peeled, seeded and diced",
+            "1 tablespoon fresh basil, minced",
+            "1 cup grated Romano cheese"
+        ],
+        "directions_raw": [
+            "Preheat the broiler.",
+            "Arrange French bread slices in a single layer on a large baking sheet. Broil in the preheated oven 1 to 2 minutes per side, until lightly toasted. Remove from heat.",
+            "In a medium bowl, mix mango and fresh basil.",
+            "Top each bread slice with equal amounts of the mango and basil mixture. Sprinkle with Romano cheese, adjusting the amount to taste.",
+            "Return topped bread to broiler. Broil 2 to 3 minutes, or until the cheese is melted and lightly browned. Serve hot."
+        ],
+        "ingredients_canonical": [
+            "pound loaf french bread cut into inch pieces",
+            "mango - peeled seeded diced",
+            "fresh basil minced",
+            "grated romano cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "thai"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 40,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Becca's Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a great appetizer, especially for entertaining guests. It goes well with any Italian entree, doesn't require a lot of work, and it tastes wonderful!",
+        "ingredients": [
+            "1 loaf French bread, sliced",
+            "½ sweet onion, finely chopped",
+            "2 cloves garlic, chopped",
+            "1 (2.25 ounce) can sliced black olives, drained",
+            "3 tablespoons extra virgin olive oil, divided",
+            "1 tablespoon chopped fresh oregano",
+            "2 teaspoons chopped fresh basil",
+            "2 teaspoons chopped fresh parsley",
+            "2 large fresh tomatoes, diced",
+            "1 cup crumbled feta cheese",
+            "¼ cup grated Parmesan cheese"
+        ],
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Arrange the bread slices in a single layer on a baking sheet. In a bowl, mix the onion, garlic, olives, 2 tablespoons olive oil, oregano, basil, and parsley. Gently toss in the tomatoes. Top bread slices with the tomato mixture. Sprinkle with feta cheese and Parmesan cheese. Drizzle with remaining olive oil.",
+            "Bake 10 minutes in the preheated oven, or until cheese is melted and bread is lightly toasted."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "loaf french bread sliced ½ sweet onion finely chopped cloves garlic chopped ounce can sliced black olives drained extra virgin olive oil divided chopped fresh oregano chopped fresh basil chopped fresh parsley large fresh tomatoes diced crumbled feta cheese ¼ grated parmesan cheese",
+        "directions_text": "preheat oven to 375 degrees f (190 degrees c). arrange the bread slices in a single layer on a baking sheet. in a bowl, mix the onion, garlic, olives, 2 tablespoons olive oil, oregano, basil, and parsley. gently toss in the tomatoes. top bread slices with the tomato mixture. sprinkle with feta cheese and parmesan cheese. drizzle with remaining olive oil. bake 10 minutes in the preheated oven, or until cheese is melted and bread is lightly toasted.",
+        "combined_text": "becca's bruschetta bruschetta bruschetta 1 loaf french bread, sliced ½ sweet onion, finely chopped 2 cloves garlic, chopped 1 (2.25 ounce) can sliced black olives, drained 3 tablespoons extra virgin olive oil, divided 1 tablespoon chopped fresh oregano 2 teaspoons chopped fresh basil 2 teaspoons chopped fresh parsley 2 large fresh tomatoes, diced 1 cup crumbled feta cheese ¼ cup grated parmesan cheese preheat oven to 375 degrees f (190 degrees c). arrange the bread slices in a single layer on a baking sheet. in a bowl, mix the onion, garlic, olives, 2 tablespoons olive oil, oregano, basil, and parsley. gently toss in the tomatoes. top bread slices with the tomato mixture. sprinkle with feta cheese and parmesan cheese. drizzle with remaining olive oil. bake 10 minutes in the preheated oven, or until cheese is melted and bread is lightly toasted.",
+        "ingredients_raw": [
+            "1 loaf French bread, sliced",
+            "½ sweet onion, finely chopped",
+            "2 cloves garlic, chopped",
+            "1 (2.25 ounce) can sliced black olives, drained",
+            "3 tablespoons extra virgin olive oil, divided",
+            "1 tablespoon chopped fresh oregano",
+            "2 teaspoons chopped fresh basil",
+            "2 teaspoons chopped fresh parsley",
+            "2 large fresh tomatoes, diced",
+            "1 cup crumbled feta cheese",
+            "¼ cup grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Arrange the bread slices in a single layer on a baking sheet. In a bowl, mix the onion, garlic, olives, 2 tablespoons olive oil, oregano, basil, and parsley. Gently toss in the tomatoes. Top bread slices with the tomato mixture. Sprinkle with feta cheese and Parmesan cheese. Drizzle with remaining olive oil.",
+            "Bake 10 minutes in the preheated oven, or until cheese is melted and bread is lightly toasted."
+        ],
+        "ingredients_canonical": [
+            "loaf french bread sliced",
+            "½ sweet onion finely chopped",
+            "cloves garlic chopped",
+            "ounce can sliced black olives drained",
+            "extra virgin olive oil divided",
+            "chopped fresh oregano",
+            "chopped fresh basil",
+            "chopped fresh parsley",
+            "large fresh tomatoes diced",
+            "crumbled feta cheese",
+            "¼ grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Bruschetta with Peas and Mint",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a fun take on bruschetta with peas, shallots, and mint that I invented one year when my neighbor brought me a bunch of fresh peas. I have also made it with frozen peas.",
+        "ingredients": [
+            "1 tablespoon butter",
+            "4 shallots, minced",
+            "¾ cup fresh or frozen peas",
+            "salt and freshly ground black pepper to taste",
+            "2 tablespoons chopped fresh mint",
+            "6 slices ciabatta bread",
+            "2 tablespoons extra-virgin olive oil, or as needed",
+            "1 clove garlic, peeled"
+        ],
+        "directions": [
+            "Melt butter in a skillet and cook shallots and peas until soft, but not browned, about 5 minutes. Season with salt and pepper. Transfer to the bowl of a food processor and pulse until coarsely pureed. Mix in mint.",
+            "Cut ciabatta slices in half and drizzle with olive oil. Cut garlic in half and rub onto each slice.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Place ciabatta slices on a baking sheet and toast in the oven until lightly browned, about 3 minutes.",
+            "Remove from oven and spread with pea mixture. Serve immediately."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "butter shallots minced ¾ fresh frozen peas salt freshly ground black pepper taste chopped fresh mint slices ciabatta bread extra-virgin olive oil as needed clove garlic peeled",
+        "directions_text": "melt butter in a skillet and cook shallots and peas until soft, but not browned, about 5 minutes. season with salt and pepper. transfer to the bowl of a food processor and pulse until coarsely pureed. mix in mint. cut ciabatta slices in half and drizzle with olive oil. cut garlic in half and rub onto each slice. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. place ciabatta slices on a baking sheet and toast in the oven until lightly browned, about 3 minutes. remove from oven and spread with pea mixture. serve immediately.",
+        "combined_text": "bruschetta with peas and mint bruschetta bruschetta 1 tablespoon butter 4 shallots, minced ¾ cup fresh or frozen peas salt and freshly ground black pepper to taste 2 tablespoons chopped fresh mint 6 slices ciabatta bread 2 tablespoons extra-virgin olive oil, or as needed 1 clove garlic, peeled melt butter in a skillet and cook shallots and peas until soft, but not browned, about 5 minutes. season with salt and pepper. transfer to the bowl of a food processor and pulse until coarsely pureed. mix in mint. cut ciabatta slices in half and drizzle with olive oil. cut garlic in half and rub onto each slice. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. place ciabatta slices on a baking sheet and toast in the oven until lightly browned, about 3 minutes. remove from oven and spread with pea mixture. serve immediately.",
+        "ingredients_raw": [
+            "1 tablespoon butter",
+            "4 shallots, minced",
+            "¾ cup fresh or frozen peas",
+            "salt and freshly ground black pepper to taste",
+            "2 tablespoons chopped fresh mint",
+            "6 slices ciabatta bread",
+            "2 tablespoons extra-virgin olive oil, or as needed",
+            "1 clove garlic, peeled"
+        ],
+        "directions_raw": [
+            "Melt butter in a skillet and cook shallots and peas until soft, but not browned, about 5 minutes. Season with salt and pepper. Transfer to the bowl of a food processor and pulse until coarsely pureed. Mix in mint.",
+            "Cut ciabatta slices in half and drizzle with olive oil. Cut garlic in half and rub onto each slice.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Place ciabatta slices on a baking sheet and toast in the oven until lightly browned, about 3 minutes.",
+            "Remove from oven and spread with pea mixture. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "butter",
+            "shallots minced",
+            "¾ fresh frozen peas",
+            "salt freshly ground black pepper taste",
+            "chopped fresh mint",
+            "slices ciabatta bread",
+            "extra-virgin olive oil as needed",
+            "clove garlic peeled"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "appetizer",
+            "side",
+            "breakfast",
+            "bread"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 10,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 42,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Best Ever Bruschetta!",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a fail proof version of bruschetta! They turn out so yummy, I can't keep them on the plate for more then 15 minutes. When I make this recipe, the pieces don't see the next day. No Complaints about this recipe!",
+        "ingredients": [
+            "4 English muffins, split",
+            "4 cloves garlic, minced",
+            "2 tablespoons butter",
+            "1 tablespoon chopped fresh basil",
+            "4 large fresh tomatoes, peeled and chopped",
+            "8 black olives, pitted and halved",
+            "1 tablespoon tomato paste",
+            "1 tablespoon olive oil",
+            "2 teaspoons lemon juice",
+            "1 teaspoon honey",
+            "4 slices mozzarella cheese, halved",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Toast muffin halves under broiler until golden, about 2 to 3 minutes. Mix garlic, butter, and basil together in a small bowl; spread butter mixture evenly onto each toasted muffin half.",
+            "Combine tomatoes, olives, and tomato paste in a large bowl; set aside. Whisk together the olive oil, lemon juice, and honey in a small bowl. Spoon some of the tomato mixture onto each muffin, then drizzle the olive oil mixture over the top, place a piece of mozzarella on top, and season with salt and pepper.",
+            "Return muffins to broiler; cook until the cheese has melted, 1 to 2 minutes. Serve immediately."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 3,
+        "ingredient_text": "english muffins split cloves garlic minced butter chopped fresh basil large fresh tomatoes peeled chopped black olives pitted halved tomato paste olive oil lemon juice honey slices mozzarella cheese halved salt pepper taste",
+        "directions_text": "preheat the oven's broiler and set the oven rack about 6 inches from the heat source. toast muffin halves under broiler until golden, about 2 to 3 minutes. mix garlic, butter, and basil together in a small bowl; spread butter mixture evenly onto each toasted muffin half. combine tomatoes, olives, and tomato paste in a large bowl; set aside. whisk together the olive oil, lemon juice, and honey in a small bowl. spoon some of the tomato mixture onto each muffin, then drizzle the olive oil mixture over the top, place a piece of mozzarella on top, and season with salt and pepper. return muffins to broiler; cook until the cheese has melted, 1 to 2 minutes. serve immediately.",
+        "combined_text": "best ever bruschetta! bruschetta bruschetta 4 english muffins, split 4 cloves garlic, minced 2 tablespoons butter 1 tablespoon chopped fresh basil 4 large fresh tomatoes, peeled and chopped 8 black olives, pitted and halved 1 tablespoon tomato paste 1 tablespoon olive oil 2 teaspoons lemon juice 1 teaspoon honey 4 slices mozzarella cheese, halved salt and pepper to taste preheat the oven's broiler and set the oven rack about 6 inches from the heat source. toast muffin halves under broiler until golden, about 2 to 3 minutes. mix garlic, butter, and basil together in a small bowl; spread butter mixture evenly onto each toasted muffin half. combine tomatoes, olives, and tomato paste in a large bowl; set aside. whisk together the olive oil, lemon juice, and honey in a small bowl. spoon some of the tomato mixture onto each muffin, then drizzle the olive oil mixture over the top, place a piece of mozzarella on top, and season with salt and pepper. return muffins to broiler; cook until the cheese has melted, 1 to 2 minutes. serve immediately.",
+        "ingredients_raw": [
+            "4 English muffins, split",
+            "4 cloves garlic, minced",
+            "2 tablespoons butter",
+            "1 tablespoon chopped fresh basil",
+            "4 large fresh tomatoes, peeled and chopped",
+            "8 black olives, pitted and halved",
+            "1 tablespoon tomato paste",
+            "1 tablespoon olive oil",
+            "2 teaspoons lemon juice",
+            "1 teaspoon honey",
+            "4 slices mozzarella cheese, halved",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Toast muffin halves under broiler until golden, about 2 to 3 minutes. Mix garlic, butter, and basil together in a small bowl; spread butter mixture evenly onto each toasted muffin half.",
+            "Combine tomatoes, olives, and tomato paste in a large bowl; set aside. Whisk together the olive oil, lemon juice, and honey in a small bowl. Spoon some of the tomato mixture onto each muffin, then drizzle the olive oil mixture over the top, place a piece of mozzarella on top, and season with salt and pepper.",
+            "Return muffins to broiler; cook until the cheese has melted, 1 to 2 minutes. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "english muffins split",
+            "cloves garlic minced",
+            "butter",
+            "chopped fresh basil",
+            "large fresh tomatoes peeled chopped",
+            "black olives pitted halved",
+            "tomato paste",
+            "olive oil",
+            "lemon juice",
+            "honey",
+            "slices mozzarella cheese halved",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "breakfast",
+            "appetizer",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Jen's Tomato Arugula Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This is a wonderful combination of ripe plum tomatoes, Parmesan cheese, fresh garlic and arugula that together pack a punch when served on a slice of French bread.",
+        "ingredients": [
+            "20 roma (plum) tomatoes",
+            "¼ cup olive oil",
+            "½ teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "8 cloves garlic, minced",
+            "1 bunch arugula - rinsed, dried and chopped",
+            "20 sun-dried tomatoes packed in oil, drained and chopped",
+            "3 tablespoons grated Parmesan cheese"
+        ],
+        "directions": [
+            "Bring 4 quarts of water to boil in a large saucepan. Place the roma tomatoes in the boiling water for about 1 minute to loosen the skins. Drain, and rinse with cold water. Peel, core, seed, and coarsely chop.",
+            "Heat the olive oil in a large skillet over medium heat. Slowly cook and stir the tomatoes with salt and pepper for 15 minutes.",
+            "Stir in the garlic and cook 5 minutes. Stir the arugula into the mixture, then remove skillet from heat. Transfer mixture to a large bowl.",
+            "Gently fold the sun-dried tomatoes and Parmesan cheese into the mixture. Cover and chill in the refrigerator approximately 4 hours before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "roma plum tomatoes ¼ olive oil ½ salt ground black pepper cloves garlic minced bunch arugula - rinsed dried chopped sun-dried tomatoes packed in oil drained chopped grated parmesan cheese",
+        "directions_text": "bring 4 quarts of water to boil in a large saucepan. place the roma tomatoes in the boiling water for about 1 minute to loosen the skins. drain, and rinse with cold water. peel, core, seed, and coarsely chop. heat the olive oil in a large skillet over medium heat. slowly cook and stir the tomatoes with salt and pepper for 15 minutes. stir in the garlic and cook 5 minutes. stir the arugula into the mixture, then remove skillet from heat. transfer mixture to a large bowl. gently fold the sun-dried tomatoes and parmesan cheese into the mixture. cover and chill in the refrigerator approximately 4 hours before serving.",
+        "combined_text": "jen's tomato arugula bruschetta bruschetta bruschetta 20 roma (plum) tomatoes ¼ cup olive oil ½ teaspoon salt 1 teaspoon ground black pepper 8 cloves garlic, minced 1 bunch arugula - rinsed, dried and chopped 20 sun-dried tomatoes packed in oil, drained and chopped 3 tablespoons grated parmesan cheese bring 4 quarts of water to boil in a large saucepan. place the roma tomatoes in the boiling water for about 1 minute to loosen the skins. drain, and rinse with cold water. peel, core, seed, and coarsely chop. heat the olive oil in a large skillet over medium heat. slowly cook and stir the tomatoes with salt and pepper for 15 minutes. stir in the garlic and cook 5 minutes. stir the arugula into the mixture, then remove skillet from heat. transfer mixture to a large bowl. gently fold the sun-dried tomatoes and parmesan cheese into the mixture. cover and chill in the refrigerator approximately 4 hours before serving.",
+        "ingredients_raw": [
+            "20 roma (plum) tomatoes",
+            "¼ cup olive oil",
+            "½ teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "8 cloves garlic, minced",
+            "1 bunch arugula - rinsed, dried and chopped",
+            "20 sun-dried tomatoes packed in oil, drained and chopped",
+            "3 tablespoons grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Bring 4 quarts of water to boil in a large saucepan. Place the roma tomatoes in the boiling water for about 1 minute to loosen the skins. Drain, and rinse with cold water. Peel, core, seed, and coarsely chop.",
+            "Heat the olive oil in a large skillet over medium heat. Slowly cook and stir the tomatoes with salt and pepper for 15 minutes.",
+            "Stir in the garlic and cook 5 minutes. Stir the arugula into the mixture, then remove skillet from heat. Transfer mixture to a large bowl.",
+            "Gently fold the sun-dried tomatoes and Parmesan cheese into the mixture. Cover and chill in the refrigerator approximately 4 hours before serving."
+        ],
+        "ingredients_canonical": [
+            "roma plum tomatoes",
+            "¼ olive oil",
+            "½ salt",
+            "ground black pepper",
+            "cloves garlic minced",
+            "bunch arugula - rinsed dried chopped",
+            "sun-dried tomatoes packed in oil drained chopped",
+            "grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "appetizer"
+        ],
+        "tastes": [
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 1,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 54,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Eggplant and Tomato Caponata",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Another form of bruschetta, this is a great low calorie and healthy appetizer. Serve bruschetta-style, on toasted French bread and topped with Parmesan cheese. Caponata can be frozen in resealable bags or in pint jars.",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "2 Japanese eggplant, cut into 1/2-inch cubes",
+            "1 yellow onion, chopped",
+            "3 cloves garlic, minced",
+            "1 (14.5 ounce) can fire-roasted tomatoes (such as Hunt's®)",
+            "⅓ cup red wine",
+            "1 ½ tablespoons capers",
+            "2 teaspoons dried oregano",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground allspice",
+            "1 teaspoon unsweetened cocoa powder",
+            "½ teaspoon white sugar",
+            "1 bay leaf"
+        ],
+        "directions": [
+            "Heat olive oil in a skillet over medium-high heat; saute eggplant, onion, and garlic until lightly browned, 5 to 7 minutes. Add tomatoes, red wine, and capers and simmer until heated through, about 5 minutes.",
+            "Mix oregano, cinnamon, allspice, cocoa powder, sugar, and bay leaf into eggplant mixture; simmer until thickened, 30 minutes. Add a few tablespoons water if mixture becomes too thick. Remove bay leaf."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 2,
+        "ingredient_text": "olive oil japanese eggplant cut into -inch cubes yellow onion chopped cloves garlic minced ounce can fire-roasted tomatoes such as hunt s ⅓ red wine ½ capers dried oregano ground cinnamon ground allspice unsweetened cocoa powder ½ white sugar bay leaf",
+        "directions_text": "heat olive oil in a skillet over medium-high heat; saute eggplant, onion, and garlic until lightly browned, 5 to 7 minutes. add tomatoes, red wine, and capers and simmer until heated through, about 5 minutes. mix oregano, cinnamon, allspice, cocoa powder, sugar, and bay leaf into eggplant mixture; simmer until thickened, 30 minutes. add a few tablespoons water if mixture becomes too thick. remove bay leaf.",
+        "combined_text": "eggplant and tomato caponata bruschetta bruschetta 1 tablespoon olive oil 2 japanese eggplant, cut into 1/2-inch cubes 1 yellow onion, chopped 3 cloves garlic, minced 1 (14.5 ounce) can fire-roasted tomatoes (such as hunt's®) ⅓ cup red wine 1 ½ tablespoons capers 2 teaspoons dried oregano 1 teaspoon ground cinnamon 1 teaspoon ground allspice 1 teaspoon unsweetened cocoa powder ½ teaspoon white sugar 1 bay leaf heat olive oil in a skillet over medium-high heat; saute eggplant, onion, and garlic until lightly browned, 5 to 7 minutes. add tomatoes, red wine, and capers and simmer until heated through, about 5 minutes. mix oregano, cinnamon, allspice, cocoa powder, sugar, and bay leaf into eggplant mixture; simmer until thickened, 30 minutes. add a few tablespoons water if mixture becomes too thick. remove bay leaf.",
+        "ingredients_raw": [
+            "1 tablespoon olive oil",
+            "2 Japanese eggplant, cut into 1/2-inch cubes",
+            "1 yellow onion, chopped",
+            "3 cloves garlic, minced",
+            "1 (14.5 ounce) can fire-roasted tomatoes (such as Hunt's®)",
+            "⅓ cup red wine",
+            "1 ½ tablespoons capers",
+            "2 teaspoons dried oregano",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground allspice",
+            "1 teaspoon unsweetened cocoa powder",
+            "½ teaspoon white sugar",
+            "1 bay leaf"
+        ],
+        "directions_raw": [
+            "Heat olive oil in a skillet over medium-high heat; saute eggplant, onion, and garlic until lightly browned, 5 to 7 minutes. Add tomatoes, red wine, and capers and simmer until heated through, about 5 minutes.",
+            "Mix oregano, cinnamon, allspice, cocoa powder, sugar, and bay leaf into eggplant mixture; simmer until thickened, 30 minutes. Add a few tablespoons water if mixture becomes too thick. Remove bay leaf."
+        ],
+        "ingredients_canonical": [
+            "olive oil",
+            "japanese eggplant cut into -inch cubes",
+            "yellow onion chopped",
+            "cloves garlic minced",
+            "ounce can fire-roasted tomatoes such as hunt s",
+            "⅓ red wine",
+            "½ capers",
+            "dried oregano",
+            "ground cinnamon",
+            "ground allspice",
+            "unsweetened cocoa powder",
+            "½ white sugar",
+            "bay leaf"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 40,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Caprese Grilled Bread",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Grilled bread with caprese toppings is a a quick and easy appetizer or side dish.",
+        "ingredients": [
+            "2 tablespoons olive oil, or to taste",
+            "½ French baguette, halved lengthwise",
+            "1 clove garlic, minced",
+            "salt and ground black pepper to taste",
+            "1 tomato, thinly sliced",
+            "1 teaspoon dried parsley",
+            "1 teaspoon dried basil",
+            "½ (8 ounce) package mozzarella cheese, thinly sliced",
+            "6 fresh basil leaves",
+            "1 sprig fresh parsley (Optional)"
+        ],
+        "directions": [
+            "Preheat an outdoor grill for low heat and lightly oil the grate.",
+            "Drizzle olive oil over baguette halves. Add minced garlic and season with salt and pepper. Layer tomato on top; season tomato with salt, pepper, dried parsley, and dried basil. Top tomato with mozzarella cheese.",
+            "Place baguette halves on foil and grill until cheese starts to melt, 5 to 8 minutes. Garnish with fresh basil and parsley. Cut into slices and serve."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "olive oil taste ½ french baguette halved lengthwise clove garlic minced salt ground black pepper taste tomato thinly sliced dried parsley dried basil ½ ounce package mozzarella cheese thinly sliced fresh basil leaves sprig fresh parsley optional",
+        "directions_text": "preheat an outdoor grill for low heat and lightly oil the grate. drizzle olive oil over baguette halves. add minced garlic and season with salt and pepper. layer tomato on top; season tomato with salt, pepper, dried parsley, and dried basil. top tomato with mozzarella cheese. place baguette halves on foil and grill until cheese starts to melt, 5 to 8 minutes. garnish with fresh basil and parsley. cut into slices and serve.",
+        "combined_text": "caprese grilled bread bruschetta bruschetta 2 tablespoons olive oil, or to taste ½ french baguette, halved lengthwise 1 clove garlic, minced salt and ground black pepper to taste 1 tomato, thinly sliced 1 teaspoon dried parsley 1 teaspoon dried basil ½ (8 ounce) package mozzarella cheese, thinly sliced 6 fresh basil leaves 1 sprig fresh parsley (optional) preheat an outdoor grill for low heat and lightly oil the grate. drizzle olive oil over baguette halves. add minced garlic and season with salt and pepper. layer tomato on top; season tomato with salt, pepper, dried parsley, and dried basil. top tomato with mozzarella cheese. place baguette halves on foil and grill until cheese starts to melt, 5 to 8 minutes. garnish with fresh basil and parsley. cut into slices and serve.",
+        "ingredients_raw": [
+            "2 tablespoons olive oil, or to taste",
+            "½ French baguette, halved lengthwise",
+            "1 clove garlic, minced",
+            "salt and ground black pepper to taste",
+            "1 tomato, thinly sliced",
+            "1 teaspoon dried parsley",
+            "1 teaspoon dried basil",
+            "½ (8 ounce) package mozzarella cheese, thinly sliced",
+            "6 fresh basil leaves",
+            "1 sprig fresh parsley (Optional)"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill for low heat and lightly oil the grate.",
+            "Drizzle olive oil over baguette halves. Add minced garlic and season with salt and pepper. Layer tomato on top; season tomato with salt, pepper, dried parsley, and dried basil. Top tomato with mozzarella cheese.",
+            "Place baguette halves on foil and grill until cheese starts to melt, 5 to 8 minutes. Garnish with fresh basil and parsley. Cut into slices and serve."
+        ],
+        "ingredients_canonical": [
+            "olive oil taste",
+            "½ french baguette halved lengthwise",
+            "clove garlic minced",
+            "salt ground black pepper taste",
+            "tomato thinly sliced",
+            "dried parsley",
+            "dried basil",
+            "½ ounce package mozzarella cheese thinly sliced",
+            "fresh basil leaves",
+            "sprig fresh parsley optional"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Heirloom Tomato Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Inspired by the Julie and Julia motion picture, here is a little twist on one of the most the delicious-looking recipes to grace the movie screen! Unless you and your guests are prepared to eat the bruschetta immediately, I suggest keeping the heirloom tomato mixture separate from the bread because it will become soggy. Serve the tomato mixture in one bowl and the bread on another serving platter. Be prepared to get a little messy!",
+        "ingredients": [
+            "1 pound small heirloom tomatoes, halved",
+            "¼ cup chopped fresh basil",
+            "2 tablespoons truffle-infused olive oil (such as Olevano)",
+            "kosher salt and ground black pepper to taste",
+            "2 tablespoons olive oil, or more as needed",
+            "1 tablespoon chopped garlic",
+            "1 French baguette, cut into 1-inch-thick slices",
+            "1 clove garlic, peeled and halved"
+        ],
+        "directions": [
+            "Toss heirloom tomatoes with chopped basil, truffle oil, salt, and pepper. Set aside.",
+            "Heat olive oil in a large skillet; add chopped garlic. Cook baguette slices until browned, 2 to 3 minutes per side. Rub each side of the baguette with the halved garlic clove.",
+            "Spoon tomato mixture over the baguette slices."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "pound small heirloom tomatoes halved ¼ chopped fresh basil truffle-infused olive oil such as olevano kosher salt ground black pepper taste olive oil more as needed chopped garlic french baguette cut into -inch-thick slices clove garlic peeled halved",
+        "directions_text": "toss heirloom tomatoes with chopped basil, truffle oil, salt, and pepper. set aside. heat olive oil in a large skillet; add chopped garlic. cook baguette slices until browned, 2 to 3 minutes per side. rub each side of the baguette with the halved garlic clove. spoon tomato mixture over the baguette slices.",
+        "combined_text": "heirloom tomato bruschetta bruschetta bruschetta 1 pound small heirloom tomatoes, halved ¼ cup chopped fresh basil 2 tablespoons truffle-infused olive oil (such as olevano) kosher salt and ground black pepper to taste 2 tablespoons olive oil, or more as needed 1 tablespoon chopped garlic 1 french baguette, cut into 1-inch-thick slices 1 clove garlic, peeled and halved toss heirloom tomatoes with chopped basil, truffle oil, salt, and pepper. set aside. heat olive oil in a large skillet; add chopped garlic. cook baguette slices until browned, 2 to 3 minutes per side. rub each side of the baguette with the halved garlic clove. spoon tomato mixture over the baguette slices.",
+        "ingredients_raw": [
+            "1 pound small heirloom tomatoes, halved",
+            "¼ cup chopped fresh basil",
+            "2 tablespoons truffle-infused olive oil (such as Olevano)",
+            "kosher salt and ground black pepper to taste",
+            "2 tablespoons olive oil, or more as needed",
+            "1 tablespoon chopped garlic",
+            "1 French baguette, cut into 1-inch-thick slices",
+            "1 clove garlic, peeled and halved"
+        ],
+        "directions_raw": [
+            "Toss heirloom tomatoes with chopped basil, truffle oil, salt, and pepper. Set aside.",
+            "Heat olive oil in a large skillet; add chopped garlic. Cook baguette slices until browned, 2 to 3 minutes per side. Rub each side of the baguette with the halved garlic clove.",
+            "Spoon tomato mixture over the baguette slices."
+        ],
+        "ingredients_canonical": [
+            "pound small heirloom tomatoes halved",
+            "¼ chopped fresh basil",
+            "truffle-infused olive oil such as olevano",
+            "kosher salt ground black pepper taste",
+            "olive oil more as needed",
+            "chopped garlic",
+            "french baguette cut into -inch-thick slices",
+            "clove garlic peeled halved"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Fantastic Fennel Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This bruschetta is really delicious, a little different than the average bruschetta. It always gets devoured around my house, or wherever I take it. The fennel seed really makes the dish.",
+        "ingredients": [
+            "6 large tomatoes, diced",
+            "½ large sweet Bermuda onion, diced",
+            "2 cloves garlic, minced",
+            "1 ½ tablespoons fennel seed",
+            "⅓ cup minced fresh basil",
+            "⅓ cup extra-virgin olive oil",
+            "salt and pepper to taste",
+            "1 (20 ounce) loaf French bread, sliced 1/2-inch thick",
+            "¼ cup extra-virgin olive oil, for brushing"
+        ],
+        "directions": [
+            "In a bowl, mix together the tomatoes, onion, garlic, fennel seed, basil, 1/3 cup olive oil, salt, and pepper. Chill for at least 1 hour to blend the flavors.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Brush both sides of bread slices with some of the 1/4 cup of olive oil; place slices onto a baking sheet. Toast the bread until golden brown and crunchy on the outside, about 3 minutes per side. To serve, spoon the tomato mixture onto the toasted bruschetta and arrange on a serving platter."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "large tomatoes diced ½ large sweet bermuda onion diced cloves garlic minced ½ fennel seed ⅓ minced fresh basil ⅓ extra-virgin olive oil salt pepper taste ounce loaf french bread sliced -inch thick ¼ extra-virgin olive oil for brushing",
+        "directions_text": "in a bowl, mix together the tomatoes, onion, garlic, fennel seed, basil, 1/3 cup olive oil, salt, and pepper. chill for at least 1 hour to blend the flavors. preheat oven to 350 degrees f (175 degrees c). brush both sides of bread slices with some of the 1/4 cup of olive oil; place slices onto a baking sheet. toast the bread until golden brown and crunchy on the outside, about 3 minutes per side. to serve, spoon the tomato mixture onto the toasted bruschetta and arrange on a serving platter.",
+        "combined_text": "fantastic fennel bruschetta bruschetta bruschetta 6 large tomatoes, diced ½ large sweet bermuda onion, diced 2 cloves garlic, minced 1 ½ tablespoons fennel seed ⅓ cup minced fresh basil ⅓ cup extra-virgin olive oil salt and pepper to taste 1 (20 ounce) loaf french bread, sliced 1/2-inch thick ¼ cup extra-virgin olive oil, for brushing in a bowl, mix together the tomatoes, onion, garlic, fennel seed, basil, 1/3 cup olive oil, salt, and pepper. chill for at least 1 hour to blend the flavors. preheat oven to 350 degrees f (175 degrees c). brush both sides of bread slices with some of the 1/4 cup of olive oil; place slices onto a baking sheet. toast the bread until golden brown and crunchy on the outside, about 3 minutes per side. to serve, spoon the tomato mixture onto the toasted bruschetta and arrange on a serving platter.",
+        "ingredients_raw": [
+            "6 large tomatoes, diced",
+            "½ large sweet Bermuda onion, diced",
+            "2 cloves garlic, minced",
+            "1 ½ tablespoons fennel seed",
+            "⅓ cup minced fresh basil",
+            "⅓ cup extra-virgin olive oil",
+            "salt and pepper to taste",
+            "1 (20 ounce) loaf French bread, sliced 1/2-inch thick",
+            "¼ cup extra-virgin olive oil, for brushing"
+        ],
+        "directions_raw": [
+            "In a bowl, mix together the tomatoes, onion, garlic, fennel seed, basil, 1/3 cup olive oil, salt, and pepper. Chill for at least 1 hour to blend the flavors.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Brush both sides of bread slices with some of the 1/4 cup of olive oil; place slices onto a baking sheet. Toast the bread until golden brown and crunchy on the outside, about 3 minutes per side. To serve, spoon the tomato mixture onto the toasted bruschetta and arrange on a serving platter."
+        ],
+        "ingredients_canonical": [
+            "large tomatoes diced",
+            "½ large sweet bermuda onion diced",
+            "cloves garlic minced",
+            "½ fennel seed",
+            "⅓ minced fresh basil",
+            "⅓ extra-virgin olive oil",
+            "salt pepper taste",
+            "ounce loaf french bread sliced -inch thick",
+            "¼ extra-virgin olive oil for brushing"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Healthier Double Tomato Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "A delicious and easy appetizer that's made healthier with whole grain bread, reduced-fat cheese, and less oil.",
+        "ingredients": [
+            "1 loaf whole grain artisan bread, cut into 3/4-inch slices",
+            "6 roma (plum) tomatoes, chopped",
+            "½ cup ready-to-eat sun-dried tomatoes, chopped",
+            "3 cloves minced garlic",
+            "2 tablespoons olive oil",
+            "1 tablespoon balsamic vinegar",
+            "¼ cup fresh basil, stems removed and leaves chopped",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 cup shredded part-skim mozzarella cheese"
+        ],
+        "directions": [
+            "Preheat the oven on broiler setting. Arrange the artisan bread slices in a single layer on a baking sheet.",
+            "Combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper in a large bowl. Allow the mixture to sit for 10 minutes.",
+            "Broil the bread until slightly brown, about 1 to 2 minutes.",
+            "Divide the tomato mixture evenly over the bread slices. Top the slices with mozzarella cheese.",
+            "Return the baking sheet to the oven and broil until the cheese is melted, about 1 to 2 minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "loaf whole grain artisan bread cut into -inch slices roma plum tomatoes chopped ½ ready- -eat sun-dried tomatoes chopped cloves minced garlic olive oil balsamic vinegar ¼ fresh basil stems removed leaves chopped ¼ salt ¼ ground black pepper shredded part-skim mozzarella cheese",
+        "directions_text": "preheat the oven on broiler setting. arrange the artisan bread slices in a single layer on a baking sheet. combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper in a large bowl. allow the mixture to sit for 10 minutes. broil the bread until slightly brown, about 1 to 2 minutes. divide the tomato mixture evenly over the bread slices. top the slices with mozzarella cheese. return the baking sheet to the oven and broil until the cheese is melted, about 1 to 2 minutes.",
+        "combined_text": "healthier double tomato bruschetta bruschetta bruschetta 1 loaf whole grain artisan bread, cut into 3/4-inch slices 6 roma (plum) tomatoes, chopped ½ cup ready-to-eat sun-dried tomatoes, chopped 3 cloves minced garlic 2 tablespoons olive oil 1 tablespoon balsamic vinegar ¼ cup fresh basil, stems removed and leaves chopped ¼ teaspoon salt ¼ teaspoon ground black pepper 1 cup shredded part-skim mozzarella cheese preheat the oven on broiler setting. arrange the artisan bread slices in a single layer on a baking sheet. combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper in a large bowl. allow the mixture to sit for 10 minutes. broil the bread until slightly brown, about 1 to 2 minutes. divide the tomato mixture evenly over the bread slices. top the slices with mozzarella cheese. return the baking sheet to the oven and broil until the cheese is melted, about 1 to 2 minutes.",
+        "ingredients_raw": [
+            "1 loaf whole grain artisan bread, cut into 3/4-inch slices",
+            "6 roma (plum) tomatoes, chopped",
+            "½ cup ready-to-eat sun-dried tomatoes, chopped",
+            "3 cloves minced garlic",
+            "2 tablespoons olive oil",
+            "1 tablespoon balsamic vinegar",
+            "¼ cup fresh basil, stems removed and leaves chopped",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 cup shredded part-skim mozzarella cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven on broiler setting. Arrange the artisan bread slices in a single layer on a baking sheet.",
+            "Combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper in a large bowl. Allow the mixture to sit for 10 minutes.",
+            "Broil the bread until slightly brown, about 1 to 2 minutes.",
+            "Divide the tomato mixture evenly over the bread slices. Top the slices with mozzarella cheese.",
+            "Return the baking sheet to the oven and broil until the cheese is melted, about 1 to 2 minutes."
+        ],
+        "ingredients_canonical": [
+            "loaf whole grain artisan bread cut into -inch slices",
+            "roma plum tomatoes chopped",
+            "½ ready- -eat sun-dried tomatoes chopped",
+            "cloves minced garlic",
+            "olive oil",
+            "balsamic vinegar",
+            "¼ fresh basil stems removed leaves chopped",
+            "¼ salt",
+            "¼ ground black pepper",
+            "shredded part-skim mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "appetizer"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Molletes",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "We like to eat molletes for breakfast, so I'll usually make the beans ahead of time and refrigerate them until we're ready to assemble the toast.",
+        "ingredients": [
+            "8 ounces dried pinto beans",
+            "2 tablespoons olive oil",
+            "1 ½ teaspoons salt",
+            "16 slices white whole wheat bread",
+            "1 cup shredded queso blanco",
+            "⅓ cup chile-garlic sauce (such as Sriracha®)"
+        ],
+        "directions": [
+            "Place beans in a saucepan and add enough water to cover them by 1 inch. Bring to a boil and remove from heat. Let stand for 1 hour.",
+            "Drain and rinse beans. Add enough fresh water to cover by 1 inch. Bring to a boil, reduce heat, and simmer for 2 hours. Drain, reserving 1/2 cup of the cooking water, and rinse.",
+            "Heat oil in a skillet over medium-high heat. Add beans and salt. Fry until beans are very soft, stirring and mashing frequently, 5 to 7 minutes.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler on low heat.",
+            "Spread an equal amount of beans on each slice of bread and sprinkle queso on top. Place bread slices on a baking sheet.",
+            "Broil until beans are warmed and cheese is melted, about 3 minutes. Remove from oven and top with chile-garlic sauce."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 6,
+        "ingredient_text": "ounces dried pinto beans olive oil ½ salt slices white whole wheat bread shredded queso blanco ⅓ chile-garlic sauce such as sriracha",
+        "directions_text": "place beans in a saucepan and add enough water to cover them by 1 inch. bring to a boil and remove from heat. let stand for 1 hour. drain and rinse beans. add enough fresh water to cover by 1 inch. bring to a boil, reduce heat, and simmer for 2 hours. drain, reserving 1/2 cup of the cooking water, and rinse. heat oil in a skillet over medium-high heat. add beans and salt. fry until beans are very soft, stirring and mashing frequently, 5 to 7 minutes. set an oven rack about 6 inches from the heat source and preheat the oven's broiler on low heat. spread an equal amount of beans on each slice of bread and sprinkle queso on top. place bread slices on a baking sheet. broil until beans are warmed and cheese is melted, about 3 minutes. remove from oven and top with chile-garlic sauce.",
+        "combined_text": "molletes bruschetta bruschetta 8 ounces dried pinto beans 2 tablespoons olive oil 1 ½ teaspoons salt 16 slices white whole wheat bread 1 cup shredded queso blanco ⅓ cup chile-garlic sauce (such as sriracha®) place beans in a saucepan and add enough water to cover them by 1 inch. bring to a boil and remove from heat. let stand for 1 hour. drain and rinse beans. add enough fresh water to cover by 1 inch. bring to a boil, reduce heat, and simmer for 2 hours. drain, reserving 1/2 cup of the cooking water, and rinse. heat oil in a skillet over medium-high heat. add beans and salt. fry until beans are very soft, stirring and mashing frequently, 5 to 7 minutes. set an oven rack about 6 inches from the heat source and preheat the oven's broiler on low heat. spread an equal amount of beans on each slice of bread and sprinkle queso on top. place bread slices on a baking sheet. broil until beans are warmed and cheese is melted, about 3 minutes. remove from oven and top with chile-garlic sauce.",
+        "ingredients_raw": [
+            "8 ounces dried pinto beans",
+            "2 tablespoons olive oil",
+            "1 ½ teaspoons salt",
+            "16 slices white whole wheat bread",
+            "1 cup shredded queso blanco",
+            "⅓ cup chile-garlic sauce (such as Sriracha®)"
+        ],
+        "directions_raw": [
+            "Place beans in a saucepan and add enough water to cover them by 1 inch. Bring to a boil and remove from heat. Let stand for 1 hour.",
+            "Drain and rinse beans. Add enough fresh water to cover by 1 inch. Bring to a boil, reduce heat, and simmer for 2 hours. Drain, reserving 1/2 cup of the cooking water, and rinse.",
+            "Heat oil in a skillet over medium-high heat. Add beans and salt. Fry until beans are very soft, stirring and mashing frequently, 5 to 7 minutes.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler on low heat.",
+            "Spread an equal amount of beans on each slice of bread and sprinkle queso on top. Place bread slices on a baking sheet.",
+            "Broil until beans are warmed and cheese is melted, about 3 minutes. Remove from oven and top with chile-garlic sauce."
+        ],
+        "ingredients_canonical": [
+            "ounces dried pinto beans",
+            "olive oil",
+            "½ salt",
+            "slices white whole wheat bread",
+            "shredded queso blanco",
+            "⅓ chile-garlic sauce such as sriracha"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 10,
+        "cook_speed": "medium",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 104,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Prosciutto Parmesan and Pine Nut Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "This fabulous appetizer was wonderful at our wine tasting group. Lightly toasted French baguette slices are spread with a diced prosciutto and Parmesan cheese blend, then sprinkled with toasted pine nuts.",
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup diced prosciutto",
+            "1 cup grated Parmesan cheese",
+            "ground black pepper to taste",
+            "2 French baguettes, cut into 1/2 inch slices",
+            "1 cup toasted pine nuts"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "In a medium bowl, cream the butter. Blend in prosciutto, Parmesan cheese and ground black pepper.",
+            "Place baguettes on a medium baking sheet. Heat in the preheated oven until lightly toasted, about 10 minutes.",
+            "Spread baguette slices with the butter mixture. Arrange on a large serving platter. Sprinkle with pine nuts."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "butter softened diced prosciutto grated parmesan cheese ground black pepper taste french baguettes cut into inch slices toasted pine nuts",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). in a medium bowl, cream the butter. blend in prosciutto, parmesan cheese and ground black pepper. place baguettes on a medium baking sheet. heat in the preheated oven until lightly toasted, about 10 minutes. spread baguette slices with the butter mixture. arrange on a large serving platter. sprinkle with pine nuts.",
+        "combined_text": "prosciutto parmesan and pine nut bruschetta bruschetta bruschetta 1 cup butter, softened 1 cup diced prosciutto 1 cup grated parmesan cheese ground black pepper to taste 2 french baguettes, cut into 1/2 inch slices 1 cup toasted pine nuts preheat oven to 350 degrees f (175 degrees c). in a medium bowl, cream the butter. blend in prosciutto, parmesan cheese and ground black pepper. place baguettes on a medium baking sheet. heat in the preheated oven until lightly toasted, about 10 minutes. spread baguette slices with the butter mixture. arrange on a large serving platter. sprinkle with pine nuts.",
+        "ingredients_raw": [
+            "1 cup butter, softened",
+            "1 cup diced prosciutto",
+            "1 cup grated Parmesan cheese",
+            "ground black pepper to taste",
+            "2 French baguettes, cut into 1/2 inch slices",
+            "1 cup toasted pine nuts"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "In a medium bowl, cream the butter. Blend in prosciutto, Parmesan cheese and ground black pepper.",
+            "Place baguettes on a medium baking sheet. Heat in the preheated oven until lightly toasted, about 10 minutes.",
+            "Spread baguette slices with the butter mixture. Arrange on a large serving platter. Sprinkle with pine nuts."
+        ],
+        "ingredients_canonical": [
+            "butter softened",
+            "diced prosciutto",
+            "grated parmesan cheese",
+            "ground black pepper taste",
+            "french baguettes cut into inch slices",
+            "toasted pine nuts"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "appetizer",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Hunt's® Easy Tomato Bruschetta",
+        "category": "Bruschetta",
+        "subcategory": "Bruschetta",
+        "description": "Classic bruschetta made with simple ingredients of petite diced tomatoes, basil, and garlic.",
+        "ingredients": [
+            "1 (18-inch) French baguette, cut into 3/4-inch slices",
+            "¼ cup extra-virgin olive oil, divided",
+            "1 (14.5 ounce) can Hunt's® Petite Diced Tomatoes, drained",
+            "⅓ cup chopped fresh basil",
+            "2 teaspoons minced garlic",
+            "¼ teaspoon kosher salt",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F.",
+            "Place bread slices on a baking sheet. Brush tops with 2 tablespoons olive oil. Bake 12 to 15 minutes or until lightly toasted.",
+            "Combine remaining 2 tablespoons olive oil, drained tomatoes, basil, garlic, salt, and pepper in a small bowl.",
+            "Divide tomato mixture evenly over toasted bread. Serve immediately."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "-inch french baguette cut into -inch slices ¼ extra-virgin olive oil divided ounce can hunt s petite diced tomatoes drained ⅓ chopped fresh basil minced garlic ¼ kosher salt ⅛ ground black pepper",
+        "directions_text": "preheat oven to 350 degrees f. place bread slices on a baking sheet. brush tops with 2 tablespoons olive oil. bake 12 to 15 minutes or until lightly toasted. combine remaining 2 tablespoons olive oil, drained tomatoes, basil, garlic, salt, and pepper in a small bowl. divide tomato mixture evenly over toasted bread. serve immediately.",
+        "combined_text": "hunt's® easy tomato bruschetta bruschetta bruschetta 1 (18-inch) french baguette, cut into 3/4-inch slices ¼ cup extra-virgin olive oil, divided 1 (14.5 ounce) can hunt's® petite diced tomatoes, drained ⅓ cup chopped fresh basil 2 teaspoons minced garlic ¼ teaspoon kosher salt ⅛ teaspoon ground black pepper preheat oven to 350 degrees f. place bread slices on a baking sheet. brush tops with 2 tablespoons olive oil. bake 12 to 15 minutes or until lightly toasted. combine remaining 2 tablespoons olive oil, drained tomatoes, basil, garlic, salt, and pepper in a small bowl. divide tomato mixture evenly over toasted bread. serve immediately.",
+        "ingredients_raw": [
+            "1 (18-inch) French baguette, cut into 3/4-inch slices",
+            "¼ cup extra-virgin olive oil, divided",
+            "1 (14.5 ounce) can Hunt's® Petite Diced Tomatoes, drained",
+            "⅓ cup chopped fresh basil",
+            "2 teaspoons minced garlic",
+            "¼ teaspoon kosher salt",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F.",
+            "Place bread slices on a baking sheet. Brush tops with 2 tablespoons olive oil. Bake 12 to 15 minutes or until lightly toasted.",
+            "Combine remaining 2 tablespoons olive oil, drained tomatoes, basil, garlic, salt, and pepper in a small bowl.",
+            "Divide tomato mixture evenly over toasted bread. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "-inch french baguette cut into -inch slices",
+            "¼ extra-virgin olive oil divided",
+            "ounce can hunt s petite diced tomatoes drained",
+            "⅓ chopped fresh basil",
+            "minced garlic",
+            "¼ kosher salt",
+            "⅛ ground black pepper"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "appetizer",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    }
+]

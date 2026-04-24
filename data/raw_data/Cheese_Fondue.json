@@ -1,0 +1,927 @@
+[
+    {
+        "recipe_title": "Cheddar-Beer Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "A great Cheddar-based fondue recipe for dipping cubed pieces of French bread, broccoli, cauliflower, baby carrots, or Granny Smith apples!",
+        "ingredients": [
+            "1 pound shredded sharp Cheddar cheese",
+            "1 tablespoon all-purpose flour",
+            "¾ cup lager beer",
+            "1 tablespoon minced garlic",
+            "2 teaspoons Worcestershire sauce",
+            "1 ½ teaspoons mustard powder"
+        ],
+        "directions": [
+            "Mix Cheddar cheese and flour together in a bowl.",
+            "Bring beer to a light boil in a fondue pot; add garlic, Worcestershire sauce, and mustard powder and stir. Gradually stir cheese mixture into beer mixture. Reduce heat to low; cook and stir mixture until cheese is melted, about 5 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "pound shredded sharp cheddar cheese all-purpose flour ¾ lager beer minced garlic worcestershire sauce ½ mustard powder",
+        "directions_text": "mix cheddar cheese and flour together in a bowl. bring beer to a light boil in a fondue pot; add garlic, worcestershire sauce, and mustard powder and stir. gradually stir cheese mixture into beer mixture. reduce heat to low; cook and stir mixture until cheese is melted, about 5 minutes.",
+        "combined_text": "cheddar-beer fondue cheese fondue cheese fondue 1 pound shredded sharp cheddar cheese 1 tablespoon all-purpose flour ¾ cup lager beer 1 tablespoon minced garlic 2 teaspoons worcestershire sauce 1 ½ teaspoons mustard powder mix cheddar cheese and flour together in a bowl. bring beer to a light boil in a fondue pot; add garlic, worcestershire sauce, and mustard powder and stir. gradually stir cheese mixture into beer mixture. reduce heat to low; cook and stir mixture until cheese is melted, about 5 minutes.",
+        "ingredients_raw": [
+            "1 pound shredded sharp Cheddar cheese",
+            "1 tablespoon all-purpose flour",
+            "¾ cup lager beer",
+            "1 tablespoon minced garlic",
+            "2 teaspoons Worcestershire sauce",
+            "1 ½ teaspoons mustard powder"
+        ],
+        "directions_raw": [
+            "Mix Cheddar cheese and flour together in a bowl.",
+            "Bring beer to a light boil in a fondue pot; add garlic, Worcestershire sauce, and mustard powder and stir. Gradually stir cheese mixture into beer mixture. Reduce heat to low; cook and stir mixture until cheese is melted, about 5 minutes."
+        ],
+        "ingredients_canonical": [
+            "pound shredded sharp cheddar cheese",
+            "all-purpose flour",
+            "¾ lager beer",
+            "minced garlic",
+            "worcestershire sauce",
+            "½ mustard powder"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "german",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Basic Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "A simple cheese fondue recipe without wine, but with big flavor. Your fondue party won't start hopping until the cheese starts melting. Get busy with this easy, basic Cheddar cheese fondue. It's perfect with pieces of bread or vegetables.",
+        "ingredients": [
+            "2 cups milk",
+            "3 tablespoons all-purpose flour",
+            "1 tablespoon Worcestershire sauce",
+            "2 teaspoons ground dry mustard",
+            "1 clove garlic, peeled and crushed",
+            "6 cups shredded Cheddar cheese"
+        ],
+        "directions": [
+            "Mix together milk, flour, Worcestershire sauce, mustard, and garlic in a medium saucepan over low heat. Heat until almost boiling.",
+            "Gradually stir in Cheddar cheese. Continue heating until all the cheese has melted.",
+            "Keep the mixture warm and melted in a fondue dish."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "milk all-purpose flour worcestershire sauce ground dry mustard clove garlic peeled crushed shredded cheddar cheese",
+        "directions_text": "mix together milk, flour, worcestershire sauce, mustard, and garlic in a medium saucepan over low heat. heat until almost boiling. gradually stir in cheddar cheese. continue heating until all the cheese has melted. keep the mixture warm and melted in a fondue dish.",
+        "combined_text": "basic fondue cheese fondue cheese fondue 2 cups milk 3 tablespoons all-purpose flour 1 tablespoon worcestershire sauce 2 teaspoons ground dry mustard 1 clove garlic, peeled and crushed 6 cups shredded cheddar cheese mix together milk, flour, worcestershire sauce, mustard, and garlic in a medium saucepan over low heat. heat until almost boiling. gradually stir in cheddar cheese. continue heating until all the cheese has melted. keep the mixture warm and melted in a fondue dish.",
+        "ingredients_raw": [
+            "2 cups milk",
+            "3 tablespoons all-purpose flour",
+            "1 tablespoon Worcestershire sauce",
+            "2 teaspoons ground dry mustard",
+            "1 clove garlic, peeled and crushed",
+            "6 cups shredded Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Mix together milk, flour, Worcestershire sauce, mustard, and garlic in a medium saucepan over low heat. Heat until almost boiling.",
+            "Gradually stir in Cheddar cheese. Continue heating until all the cheese has melted.",
+            "Keep the mixture warm and melted in a fondue dish."
+        ],
+        "ingredients_canonical": [
+            "milk",
+            "all-purpose flour",
+            "worcestershire sauce",
+            "ground dry mustard",
+            "clove garlic peeled crushed",
+            "shredded cheddar cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "german",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Parmesan Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "This warm, mild, creamy fondue is simple to make but tastes like you spent a lot more time on it. Delicious with bread cubes, vegetables, or even little meatballs. It's a great base recipe to put your own personal twist on with other cheeses or seasonings. Experiment with the types of cheese you like in this; it's great with Asiago, Romano, or even a little sharp Cheddar. For an extra kick, add a touch of cayenne pepper or hot sauce.",
+        "ingredients": [
+            "1 (8 ounce) package Neufchatel cheese",
+            "1 cup milk",
+            "¾ cup grated Parmesan cheese",
+            "½ teaspoon garlic salt",
+            "1 small loaf French bread, cut into cubes"
+        ],
+        "directions": [
+            "Stir Neufchatel cream cheese in milk in a saucepan over medium-low heat until melted, 2 to 3 minutes. Add Parmesan cheese and garlic salt. Cook and stir until the Parmesan melts, 2 to 3 minutes more. Serve with bread cubes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "ounce package neufchatel cheese milk ¾ grated parmesan cheese ½ garlic salt small loaf french bread cut into cubes",
+        "directions_text": "stir neufchatel cream cheese in milk in a saucepan over medium-low heat until melted, 2 to 3 minutes. add parmesan cheese and garlic salt. cook and stir until the parmesan melts, 2 to 3 minutes more. serve with bread cubes.",
+        "combined_text": "parmesan fondue cheese fondue cheese fondue 1 (8 ounce) package neufchatel cheese 1 cup milk ¾ cup grated parmesan cheese ½ teaspoon garlic salt 1 small loaf french bread, cut into cubes stir neufchatel cream cheese in milk in a saucepan over medium-low heat until melted, 2 to 3 minutes. add parmesan cheese and garlic salt. cook and stir until the parmesan melts, 2 to 3 minutes more. serve with bread cubes.",
+        "ingredients_raw": [
+            "1 (8 ounce) package Neufchatel cheese",
+            "1 cup milk",
+            "¾ cup grated Parmesan cheese",
+            "½ teaspoon garlic salt",
+            "1 small loaf French bread, cut into cubes"
+        ],
+        "directions_raw": [
+            "Stir Neufchatel cream cheese in milk in a saucepan over medium-low heat until melted, 2 to 3 minutes. Add Parmesan cheese and garlic salt. Cook and stir until the Parmesan melts, 2 to 3 minutes more. Serve with bread cubes."
+        ],
+        "ingredients_canonical": [
+            "ounce package neufchatel cheese",
+            "milk",
+            "¾ grated parmesan cheese",
+            "½ garlic salt",
+            "small loaf french bread cut into cubes"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 13,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Classic Cheese Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "Want to make fondue like a Swiss guru? Try this easy, simple, and foolproof method for making the ultimate cheese lover's dish! The combination of acidic wine with the rich, buttery cheeses is a wonder to behold. Besides the amazing taste and texture, there's just something fun about eating things off the end of a really long fork! Half the fun of this is customizing the platter of \"dippables\" to your taste, such as cubes of crusty bread, sausage, baby potatoes, broccoli, cauliflower, fennel, apples, or grapes.",
+        "ingredients": [
+            "1 ¼ cups dry white wine (such as Sauvignon Blanc)",
+            "1 tablespoon kirsch (cherry brandy)",
+            "1 clove garlic, slightly crushed",
+            "1 pinch cayenne pepper",
+            "1 pinch freshly grated nutmeg",
+            "4 teaspoons cornstarch",
+            "8 ounces shredded Gruyère cheese",
+            "8 ounces shredded Emmentaler cheese"
+        ],
+        "directions": [
+            "Add white wine, cherry brandy, garlic clove, cayenne, nutmeg, and cornstarch to a saucepan. Whisk to combine and place on the stove over medium heat. Cook, whisking occasionally, until mixture thickens slightly and you can see wisps of steam in the pan, 3 to 5 minutes.",
+            "Add Gruyère and Emmentaler cheeses, one handful at a time, slowly whisking after each addition until melted. Continue whisking until all cheese is melted and sauce is very smooth. Remove from the heat and transfer into a fondue pot to serve.",
+            "Keep sauce warm while serving so it doesn't solidify."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "¼ dry white wine such as sauvignon blanc kirsch cherry brandy clove garlic slightly crushed pinch cayenne pepper pinch freshly grated nutmeg cornstarch ounces shredded gruyère cheese ounces shredded emmentaler cheese",
+        "directions_text": "add white wine, cherry brandy, garlic clove, cayenne, nutmeg, and cornstarch to a saucepan. whisk to combine and place on the stove over medium heat. cook, whisking occasionally, until mixture thickens slightly and you can see wisps of steam in the pan, 3 to 5 minutes. add gruyère and emmentaler cheeses, one handful at a time, slowly whisking after each addition until melted. continue whisking until all cheese is melted and sauce is very smooth. remove from the heat and transfer into a fondue pot to serve. keep sauce warm while serving so it doesn't solidify.",
+        "combined_text": "classic cheese fondue cheese fondue cheese fondue 1 ¼ cups dry white wine (such as sauvignon blanc) 1 tablespoon kirsch (cherry brandy) 1 clove garlic, slightly crushed 1 pinch cayenne pepper 1 pinch freshly grated nutmeg 4 teaspoons cornstarch 8 ounces shredded gruyère cheese 8 ounces shredded emmentaler cheese add white wine, cherry brandy, garlic clove, cayenne, nutmeg, and cornstarch to a saucepan. whisk to combine and place on the stove over medium heat. cook, whisking occasionally, until mixture thickens slightly and you can see wisps of steam in the pan, 3 to 5 minutes. add gruyère and emmentaler cheeses, one handful at a time, slowly whisking after each addition until melted. continue whisking until all cheese is melted and sauce is very smooth. remove from the heat and transfer into a fondue pot to serve. keep sauce warm while serving so it doesn't solidify.",
+        "ingredients_raw": [
+            "1 ¼ cups dry white wine (such as Sauvignon Blanc)",
+            "1 tablespoon kirsch (cherry brandy)",
+            "1 clove garlic, slightly crushed",
+            "1 pinch cayenne pepper",
+            "1 pinch freshly grated nutmeg",
+            "4 teaspoons cornstarch",
+            "8 ounces shredded Gruyère cheese",
+            "8 ounces shredded Emmentaler cheese"
+        ],
+        "directions_raw": [
+            "Add white wine, cherry brandy, garlic clove, cayenne, nutmeg, and cornstarch to a saucepan. Whisk to combine and place on the stove over medium heat. Cook, whisking occasionally, until mixture thickens slightly and you can see wisps of steam in the pan, 3 to 5 minutes.",
+            "Add Gruyère and Emmentaler cheeses, one handful at a time, slowly whisking after each addition until melted. Continue whisking until all cheese is melted and sauce is very smooth. Remove from the heat and transfer into a fondue pot to serve.",
+            "Keep sauce warm while serving so it doesn't solidify."
+        ],
+        "ingredients_canonical": [
+            "¼ dry white wine such as sauvignon blanc",
+            "kirsch cherry brandy",
+            "clove garlic slightly crushed",
+            "pinch cayenne pepper",
+            "pinch freshly grated nutmeg",
+            "cornstarch",
+            "ounces shredded gruyère cheese",
+            "ounces shredded emmentaler cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Crab Cheese Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "This is a creamy, delicious fondue! It is a hit whenever I make it. Guests get so excited to get a big piece of crab and much noise is made when it slips and falls back into the pot! Someone always ends up with a spoon scraping the pot for one last taste! Serve with French bread cubes, using a fondue fork to spear bread and swirl in fondue to coat. Try dipping grapes, carrot slices, or rye bread, whatever you like. I usually serve this fondue with a light salad.",
+        "ingredients": [
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup dry white wine",
+            "6 ounces shredded Swiss cheese",
+            "1 teaspoon cornstarch",
+            "2 Snow Crab clusters, shelled and chopped",
+            "3 tablespoons milk",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon snipped fresh parsley"
+        ],
+        "directions": [
+            "Melt cream cheese and wine together in an electric fondue pot or saucepan over low heat, stirring constantly until smooth, about 5 minutes.",
+            "Toss Swiss cheese with cornstarch in a bowl to coat. Stir into wine mixture with crabmeat, milk, Worcestershire, and parsley until the cheese is smooth and crab is heated thoroughly, 5 to 10 minutes. Transfer to a fondue pot if not using already, or chafing dish; keep warm."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "ounce package cream cheese softened ½ dry white wine ounces shredded swiss cheese cornstarch snow crab clusters shelled chopped milk worcestershire sauce snipped fresh parsley",
+        "directions_text": "melt cream cheese and wine together in an electric fondue pot or saucepan over low heat, stirring constantly until smooth, about 5 minutes. toss swiss cheese with cornstarch in a bowl to coat. stir into wine mixture with crabmeat, milk, worcestershire, and parsley until the cheese is smooth and crab is heated thoroughly, 5 to 10 minutes. transfer to a fondue pot if not using already, or chafing dish; keep warm.",
+        "combined_text": "crab cheese fondue cheese fondue cheese fondue 1 (8 ounce) package cream cheese, softened ½ cup dry white wine 6 ounces shredded swiss cheese 1 teaspoon cornstarch 2 snow crab clusters, shelled and chopped 3 tablespoons milk 2 teaspoons worcestershire sauce 1 teaspoon snipped fresh parsley melt cream cheese and wine together in an electric fondue pot or saucepan over low heat, stirring constantly until smooth, about 5 minutes. toss swiss cheese with cornstarch in a bowl to coat. stir into wine mixture with crabmeat, milk, worcestershire, and parsley until the cheese is smooth and crab is heated thoroughly, 5 to 10 minutes. transfer to a fondue pot if not using already, or chafing dish; keep warm.",
+        "ingredients_raw": [
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup dry white wine",
+            "6 ounces shredded Swiss cheese",
+            "1 teaspoon cornstarch",
+            "2 Snow Crab clusters, shelled and chopped",
+            "3 tablespoons milk",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon snipped fresh parsley"
+        ],
+        "directions_raw": [
+            "Melt cream cheese and wine together in an electric fondue pot or saucepan over low heat, stirring constantly until smooth, about 5 minutes.",
+            "Toss Swiss cheese with cornstarch in a bowl to coat. Stir into wine mixture with crabmeat, milk, Worcestershire, and parsley until the cheese is smooth and crab is heated thoroughly, 5 to 10 minutes. Transfer to a fondue pot if not using already, or chafing dish; keep warm."
+        ],
+        "ingredients_canonical": [
+            "ounce package cream cheese softened",
+            "½ dry white wine",
+            "ounces shredded swiss cheese",
+            "cornstarch",
+            "snow crab clusters shelled chopped",
+            "milk",
+            "worcestershire sauce",
+            "snipped fresh parsley"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Pizza Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "This is one of my kids' favorite meals, and it's incredibly simple and quick. You can add a little beef bouillon for a beefier taste. Serve with French bread or breadsticks. Dip bread directly into the pot or ladle into bowls to serve.",
+        "ingredients": [
+            "1 tablespoon olive oil, or as needed",
+            "1 onion, finely minced",
+            "1 pound ground beef",
+            "2 (15 ounce) cans pizza sauce",
+            "10 ounces shredded mozzarella cheese, or more to taste",
+            "4 ounces shredded Cheddar cheese, or more to taste"
+        ],
+        "directions": [
+            "Heat olive oil in a skillet over medium-high heat. Saute onion in hot oil until soft and translucent, 4 to 6 minutes.",
+            "Heat a large pot over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+            "Stir beef, onion, and pizza sauce together in the same pot over medium-high heat. Add mozzarella cheese and Cheddar cheese one handful at a time, stirring until cheeses melt into the fondue before adding the next handfuls. Ladle fondue into bowls."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "olive oil as needed onion finely minced pound ground beef ounce cans pizza sauce ounces shredded mozzarella cheese more taste ounces shredded cheddar cheese more taste",
+        "directions_text": "heat olive oil in a skillet over medium-high heat. saute onion in hot oil until soft and translucent, 4 to 6 minutes. heat a large pot over medium-high heat. cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. stir beef, onion, and pizza sauce together in the same pot over medium-high heat. add mozzarella cheese and cheddar cheese one handful at a time, stirring until cheeses melt into the fondue before adding the next handfuls. ladle fondue into bowls.",
+        "combined_text": "easy pizza fondue cheese fondue cheese fondue 1 tablespoon olive oil, or as needed 1 onion, finely minced 1 pound ground beef 2 (15 ounce) cans pizza sauce 10 ounces shredded mozzarella cheese, or more to taste 4 ounces shredded cheddar cheese, or more to taste heat olive oil in a skillet over medium-high heat. saute onion in hot oil until soft and translucent, 4 to 6 minutes. heat a large pot over medium-high heat. cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. stir beef, onion, and pizza sauce together in the same pot over medium-high heat. add mozzarella cheese and cheddar cheese one handful at a time, stirring until cheeses melt into the fondue before adding the next handfuls. ladle fondue into bowls.",
+        "ingredients_raw": [
+            "1 tablespoon olive oil, or as needed",
+            "1 onion, finely minced",
+            "1 pound ground beef",
+            "2 (15 ounce) cans pizza sauce",
+            "10 ounces shredded mozzarella cheese, or more to taste",
+            "4 ounces shredded Cheddar cheese, or more to taste"
+        ],
+        "directions_raw": [
+            "Heat olive oil in a skillet over medium-high heat. Saute onion in hot oil until soft and translucent, 4 to 6 minutes.",
+            "Heat a large pot over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+            "Stir beef, onion, and pizza sauce together in the same pot over medium-high heat. Add mozzarella cheese and Cheddar cheese one handful at a time, stirring until cheeses melt into the fondue before adding the next handfuls. Ladle fondue into bowls."
+        ],
+        "ingredients_canonical": [
+            "olive oil as needed",
+            "onion finely minced",
+            "pound ground beef",
+            "ounce cans pizza sauce",
+            "ounces shredded mozzarella cheese more taste",
+            "ounces shredded cheddar cheese more taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Classic Swiss Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "Traditional Swiss fondue is so easy to make. My husband grew up in Switzerland and it's there where I truly began to appreciate fondue. There are many variations of fondue in Switzerland, but this is the most common version using Gruyère and Emmental cheeses. I love the ritual and it's so fun (and easy!) for entertaining. If you can find it, a splash of kirsch just before serving really gives fondue a nice kick. Enjoy with your favorite bread, boiled baby potatoes, cornichons, and pickled onions.",
+        "ingredients": [
+            "2 ½ cups shredded Gruyère cheese",
+            "2 ½ cups shredded Emmental cheese",
+            "2 tablespoons cornstarch",
+            "1 clove garlic, halved",
+            "1 ½ cups dry white wine"
+        ],
+        "directions": [
+            "Combine Gruyère cheese, Emmental cheese, and cornstarch in a bowl. Mix until the cheese is evenly coated. Set aside.",
+            "Rub the cut side of the garlic all over the inside of a fondue pot or heavy saucepan. Add wine and place over medium heat. Bring to a simmer, then gradually add cheese and cornstarch mixture. Stir with a spatula, gently stirring in a figure-of-eight motion, until all of the cheese is added and the fondue is smooth and homogenous. Reduce heat to medium-low if the fondue is boiling too vigorously.",
+            "Immediately serve fondue, preferably over a warmer. If you used a saucepan on the stove to heat the fondue, you can carefully transfer the fondue to a fondue pot to serve."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "½ shredded gruyère cheese ½ shredded emmental cheese cornstarch clove garlic halved ½ dry white wine",
+        "directions_text": "combine gruyère cheese, emmental cheese, and cornstarch in a bowl. mix until the cheese is evenly coated. set aside. rub the cut side of the garlic all over the inside of a fondue pot or heavy saucepan. add wine and place over medium heat. bring to a simmer, then gradually add cheese and cornstarch mixture. stir with a spatula, gently stirring in a figure-of-eight motion, until all of the cheese is added and the fondue is smooth and homogenous. reduce heat to medium-low if the fondue is boiling too vigorously. immediately serve fondue, preferably over a warmer. if you used a saucepan on the stove to heat the fondue, you can carefully transfer the fondue to a fondue pot to serve.",
+        "combined_text": "classic swiss fondue cheese fondue cheese fondue 2 ½ cups shredded gruyère cheese 2 ½ cups shredded emmental cheese 2 tablespoons cornstarch 1 clove garlic, halved 1 ½ cups dry white wine combine gruyère cheese, emmental cheese, and cornstarch in a bowl. mix until the cheese is evenly coated. set aside. rub the cut side of the garlic all over the inside of a fondue pot or heavy saucepan. add wine and place over medium heat. bring to a simmer, then gradually add cheese and cornstarch mixture. stir with a spatula, gently stirring in a figure-of-eight motion, until all of the cheese is added and the fondue is smooth and homogenous. reduce heat to medium-low if the fondue is boiling too vigorously. immediately serve fondue, preferably over a warmer. if you used a saucepan on the stove to heat the fondue, you can carefully transfer the fondue to a fondue pot to serve.",
+        "ingredients_raw": [
+            "2 ½ cups shredded Gruyère cheese",
+            "2 ½ cups shredded Emmental cheese",
+            "2 tablespoons cornstarch",
+            "1 clove garlic, halved",
+            "1 ½ cups dry white wine"
+        ],
+        "directions_raw": [
+            "Combine Gruyère cheese, Emmental cheese, and cornstarch in a bowl. Mix until the cheese is evenly coated. Set aside.",
+            "Rub the cut side of the garlic all over the inside of a fondue pot or heavy saucepan. Add wine and place over medium heat. Bring to a simmer, then gradually add cheese and cornstarch mixture. Stir with a spatula, gently stirring in a figure-of-eight motion, until all of the cheese is added and the fondue is smooth and homogenous. Reduce heat to medium-low if the fondue is boiling too vigorously.",
+            "Immediately serve fondue, preferably over a warmer. If you used a saucepan on the stove to heat the fondue, you can carefully transfer the fondue to a fondue pot to serve."
+        ],
+        "ingredients_canonical": [
+            "½ shredded gruyère cheese",
+            "½ shredded emmental cheese",
+            "cornstarch",
+            "clove garlic halved",
+            "½ dry white wine"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Tarek's Irish Stout Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "The best fondue ever; made with beer and three kinds of cheese! Enjoy this recipe as a snack or a meal! Great for parties or great to trick your kids into eating their veggies. You will love this smooth, flavorful dish. Serve with bread, veggies, and meats of all kinds. We like green peppers, grape tomatoes, carrots, mushrooms, cucumbers, celery, ham, and salami for dipping.",
+        "ingredients": [
+            "1 ⅛ cups shredded extra-sharp white Cheddar cheese",
+            "1 ⅛ cups shredded Swiss cheese",
+            "2 tablespoons freshly shredded Parmesan cheese",
+            "1 ½ tablespoons cornstarch",
+            "½ (12 fluid ounce) can or bottle Irish stout beer (such as Guinness®)",
+            "1 tablespoon steak sauce",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon garlic powder",
+            "½ teaspoon hot pepper sauce (such as Cholula®)",
+            "¼ teaspoon ground dry mustard",
+            "freshly ground black pepper to taste"
+        ],
+        "directions": [
+            "Combine white Cheddar cheese, Swiss cheese, Parmesan cheese, and cornstarch together in a bowl; set aside.",
+            "Stir Irish stout beer, steak sauce, Worcestershire sauce, garlic powder, hot pepper sauce, and mustard powder together in a fondue pot; set heat under fondue pot to medium.",
+            "Stir cheese mixture, 1/2 cup at a time, into stout beer mixture in fondue pot until cheese is completely melted and the fondue is thick and smooth. Do not let the fondue boil.",
+            "Season with black pepper to taste."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "⅛ shredded extra-sharp white cheddar cheese ⅛ shredded swiss cheese freshly shredded parmesan cheese ½ cornstarch ½ fluid ounce can bottle irish stout beer such as guinness steak sauce worcestershire sauce garlic powder ½ hot pepper sauce such as cholula ¼ ground dry mustard freshly ground black pepper taste",
+        "directions_text": "combine white cheddar cheese, swiss cheese, parmesan cheese, and cornstarch together in a bowl; set aside. stir irish stout beer, steak sauce, worcestershire sauce, garlic powder, hot pepper sauce, and mustard powder together in a fondue pot; set heat under fondue pot to medium. stir cheese mixture, 1/2 cup at a time, into stout beer mixture in fondue pot until cheese is completely melted and the fondue is thick and smooth. do not let the fondue boil. season with black pepper to taste.",
+        "combined_text": "tarek's irish stout fondue cheese fondue cheese fondue 1 ⅛ cups shredded extra-sharp white cheddar cheese 1 ⅛ cups shredded swiss cheese 2 tablespoons freshly shredded parmesan cheese 1 ½ tablespoons cornstarch ½ (12 fluid ounce) can or bottle irish stout beer (such as guinness®) 1 tablespoon steak sauce 1 teaspoon worcestershire sauce 1 teaspoon garlic powder ½ teaspoon hot pepper sauce (such as cholula®) ¼ teaspoon ground dry mustard freshly ground black pepper to taste combine white cheddar cheese, swiss cheese, parmesan cheese, and cornstarch together in a bowl; set aside. stir irish stout beer, steak sauce, worcestershire sauce, garlic powder, hot pepper sauce, and mustard powder together in a fondue pot; set heat under fondue pot to medium. stir cheese mixture, 1/2 cup at a time, into stout beer mixture in fondue pot until cheese is completely melted and the fondue is thick and smooth. do not let the fondue boil. season with black pepper to taste.",
+        "ingredients_raw": [
+            "1 ⅛ cups shredded extra-sharp white Cheddar cheese",
+            "1 ⅛ cups shredded Swiss cheese",
+            "2 tablespoons freshly shredded Parmesan cheese",
+            "1 ½ tablespoons cornstarch",
+            "½ (12 fluid ounce) can or bottle Irish stout beer (such as Guinness®)",
+            "1 tablespoon steak sauce",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon garlic powder",
+            "½ teaspoon hot pepper sauce (such as Cholula®)",
+            "¼ teaspoon ground dry mustard",
+            "freshly ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Combine white Cheddar cheese, Swiss cheese, Parmesan cheese, and cornstarch together in a bowl; set aside.",
+            "Stir Irish stout beer, steak sauce, Worcestershire sauce, garlic powder, hot pepper sauce, and mustard powder together in a fondue pot; set heat under fondue pot to medium.",
+            "Stir cheese mixture, 1/2 cup at a time, into stout beer mixture in fondue pot until cheese is completely melted and the fondue is thick and smooth. Do not let the fondue boil.",
+            "Season with black pepper to taste."
+        ],
+        "ingredients_canonical": [
+            "⅛ shredded extra-sharp white cheddar cheese",
+            "⅛ shredded swiss cheese",
+            "freshly shredded parmesan cheese",
+            "½ cornstarch",
+            "½ fluid ounce can bottle irish stout beer such as guinness",
+            "steak sauce",
+            "worcestershire sauce",
+            "garlic powder",
+            "½ hot pepper sauce such as cholula",
+            "¼ ground dry mustard",
+            "freshly ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "german",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 17,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Quick Fontina Cheese Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "This recipe is similar to a one from a well-known food chain. But I find it to be richer and have more flavor depth. Serve it with chunks of bread, apples, and pears.",
+        "ingredients": [
+            "¼ cup butter",
+            "¼ cup all-purpose flour",
+            "⅓ cup dry white wine",
+            "½ teaspoon dry mustard",
+            "¼ teaspoon cayenne pepper",
+            "2 cups heavy whipping cream",
+            "½ cup chicken stock",
+            "2 cups shredded fontina cheese"
+        ],
+        "directions": [
+            "Melt butter in a saucepan over medium heat until a pinch of flour sprinkled into the oil will just begin to bubble. Whisk in flour to form a thick paste the consistency of cake frosting. Continue cooking, whisking constantly, until flour has turned golden and begins to smell like toast, about 20 minutes. Whisk in wine, mustard, and cayenne.",
+            "Mix heavy whipping cream into the flour-butter mixture; cook and stir until thickened, about 5 minutes. Add fontina cheese; stir until melted, about 1 minute. Transfer to a fondue pot."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "¼ butter ¼ all-purpose flour ⅓ dry white wine ½ dry mustard ¼ cayenne pepper heavy whipping cream ½ chicken stock shredded fontina cheese",
+        "directions_text": "melt butter in a saucepan over medium heat until a pinch of flour sprinkled into the oil will just begin to bubble. whisk in flour to form a thick paste the consistency of cake frosting. continue cooking, whisking constantly, until flour has turned golden and begins to smell like toast, about 20 minutes. whisk in wine, mustard, and cayenne. mix heavy whipping cream into the flour-butter mixture; cook and stir until thickened, about 5 minutes. add fontina cheese; stir until melted, about 1 minute. transfer to a fondue pot.",
+        "combined_text": "quick fontina cheese fondue cheese fondue cheese fondue ¼ cup butter ¼ cup all-purpose flour ⅓ cup dry white wine ½ teaspoon dry mustard ¼ teaspoon cayenne pepper 2 cups heavy whipping cream ½ cup chicken stock 2 cups shredded fontina cheese melt butter in a saucepan over medium heat until a pinch of flour sprinkled into the oil will just begin to bubble. whisk in flour to form a thick paste the consistency of cake frosting. continue cooking, whisking constantly, until flour has turned golden and begins to smell like toast, about 20 minutes. whisk in wine, mustard, and cayenne. mix heavy whipping cream into the flour-butter mixture; cook and stir until thickened, about 5 minutes. add fontina cheese; stir until melted, about 1 minute. transfer to a fondue pot.",
+        "ingredients_raw": [
+            "¼ cup butter",
+            "¼ cup all-purpose flour",
+            "⅓ cup dry white wine",
+            "½ teaspoon dry mustard",
+            "¼ teaspoon cayenne pepper",
+            "2 cups heavy whipping cream",
+            "½ cup chicken stock",
+            "2 cups shredded fontina cheese"
+        ],
+        "directions_raw": [
+            "Melt butter in a saucepan over medium heat until a pinch of flour sprinkled into the oil will just begin to bubble. Whisk in flour to form a thick paste the consistency of cake frosting. Continue cooking, whisking constantly, until flour has turned golden and begins to smell like toast, about 20 minutes. Whisk in wine, mustard, and cayenne.",
+            "Mix heavy whipping cream into the flour-butter mixture; cook and stir until thickened, about 5 minutes. Add fontina cheese; stir until melted, about 1 minute. Transfer to a fondue pot."
+        ],
+        "ingredients_canonical": [
+            "¼ butter",
+            "¼ all-purpose flour",
+            "⅓ dry white wine",
+            "½ dry mustard",
+            "¼ cayenne pepper",
+            "heavy whipping cream",
+            "½ chicken stock",
+            "shredded fontina cheese"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "dessert",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Hillshire Farm Lit'l Smokies and Brie Fondue",
+        "category": "Cheese Fondue",
+        "subcategory": "Cheese Fondue",
+        "description": "This easy party dip is creamy, smoky, and perfect for a crowd of foodies ready to snack.",
+        "ingredients": [
+            "1 (14 ounce) package Hillshire Farm Lit'l Smokies® Smoked Sausage, divided",
+            "2 tablespoons olive oil",
+            "1 clove garlic, minced",
+            "½ cup white wine (sweet like Riesling)",
+            "2 cups whole milk",
+            "1 (8 ounce) wheel Brie cheese, rind removed and cheese diced",
+            "4 ounces shredded sharp Cheddar cheese",
+            "¼ cup all-purpose flour",
+            "Dash of salt and pepper",
+            "¼ teaspoon nutmeg",
+            "2 apples, cored and thinly sliced",
+            "1 small French baguette, sliced 1/4 inch thick and toasted",
+            "Honey for drizzling"
+        ],
+        "directions": [
+            "Chop 8 Lit'l Smokies smoked sausages and reserve the rest. In a saucepan over medium-high heat, heat chopped smoked sausages in olive oil with garlic until just browned.",
+            "Add white wine and milk. In a separate bowl, toss the brie and Cheddar cheeses with flour, thoroughly coat. Slowly whisk cheese mixture into the saucepan. Continue to whisk until smooth and thick, about 5 minutes. Remove from heat and season with salt, pepper and nutmeg.",
+            "Saute the remaining smoked sausages in a skillet until browned. Serve warm fondue with Lit'l Smokies smoked sausages, apple slices and toasted baguette. Drizzle fondue and apples with honey."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 3,
+        "ingredient_text": "ounce package hillshire farm lit l smokies smoked sausage divided olive oil clove garlic minced ½ white wine sweet like riesling whole milk ounce wheel brie cheese rind removed cheese diced ounces shredded sharp cheddar cheese ¼ all-purpose flour dash salt pepper ¼ nutmeg apples cored thinly sliced small french baguette sliced inch thick toasted honey for drizzling",
+        "directions_text": "chop 8 lit'l smokies smoked sausages and reserve the rest. in a saucepan over medium-high heat, heat chopped smoked sausages in olive oil with garlic until just browned. add white wine and milk. in a separate bowl, toss the brie and cheddar cheeses with flour, thoroughly coat. slowly whisk cheese mixture into the saucepan. continue to whisk until smooth and thick, about 5 minutes. remove from heat and season with salt, pepper and nutmeg. saute the remaining smoked sausages in a skillet until browned. serve warm fondue with lit'l smokies smoked sausages, apple slices and toasted baguette. drizzle fondue and apples with honey.",
+        "combined_text": "hillshire farm lit'l smokies and brie fondue cheese fondue cheese fondue 1 (14 ounce) package hillshire farm lit'l smokies® smoked sausage, divided 2 tablespoons olive oil 1 clove garlic, minced ½ cup white wine (sweet like riesling) 2 cups whole milk 1 (8 ounce) wheel brie cheese, rind removed and cheese diced 4 ounces shredded sharp cheddar cheese ¼ cup all-purpose flour dash of salt and pepper ¼ teaspoon nutmeg 2 apples, cored and thinly sliced 1 small french baguette, sliced 1/4 inch thick and toasted honey for drizzling chop 8 lit'l smokies smoked sausages and reserve the rest. in a saucepan over medium-high heat, heat chopped smoked sausages in olive oil with garlic until just browned. add white wine and milk. in a separate bowl, toss the brie and cheddar cheeses with flour, thoroughly coat. slowly whisk cheese mixture into the saucepan. continue to whisk until smooth and thick, about 5 minutes. remove from heat and season with salt, pepper and nutmeg. saute the remaining smoked sausages in a skillet until browned. serve warm fondue with lit'l smokies smoked sausages, apple slices and toasted baguette. drizzle fondue and apples with honey.",
+        "ingredients_raw": [
+            "1 (14 ounce) package Hillshire Farm Lit'l Smokies® Smoked Sausage, divided",
+            "2 tablespoons olive oil",
+            "1 clove garlic, minced",
+            "½ cup white wine (sweet like Riesling)",
+            "2 cups whole milk",
+            "1 (8 ounce) wheel Brie cheese, rind removed and cheese diced",
+            "4 ounces shredded sharp Cheddar cheese",
+            "¼ cup all-purpose flour",
+            "Dash of salt and pepper",
+            "¼ teaspoon nutmeg",
+            "2 apples, cored and thinly sliced",
+            "1 small French baguette, sliced 1/4 inch thick and toasted",
+            "Honey for drizzling"
+        ],
+        "directions_raw": [
+            "Chop 8 Lit'l Smokies smoked sausages and reserve the rest. In a saucepan over medium-high heat, heat chopped smoked sausages in olive oil with garlic until just browned.",
+            "Add white wine and milk. In a separate bowl, toss the brie and Cheddar cheeses with flour, thoroughly coat. Slowly whisk cheese mixture into the saucepan. Continue to whisk until smooth and thick, about 5 minutes. Remove from heat and season with salt, pepper and nutmeg.",
+            "Saute the remaining smoked sausages in a skillet until browned. Serve warm fondue with Lit'l Smokies smoked sausages, apple slices and toasted baguette. Drizzle fondue and apples with honey."
+        ],
+        "ingredients_canonical": [
+            "ounce package hillshire farm lit l smokies smoked sausage divided",
+            "olive oil",
+            "clove garlic minced",
+            "½ white wine sweet like riesling",
+            "whole milk",
+            "ounce wheel brie cheese rind removed cheese diced",
+            "ounces shredded sharp cheddar cheese",
+            "¼ all-purpose flour",
+            "dash salt pepper",
+            "¼ nutmeg",
+            "apples cored thinly sliced",
+            "small french baguette sliced inch thick toasted",
+            "honey for drizzling"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

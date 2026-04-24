@@ -1,0 +1,1538 @@
+[
+    {
+        "recipe_title": "Healthier Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "Give Buffalo chicken dip a healthy makeover with this recipe that uses light ranch dressing and reduced-fat cheese without sacrificing flavor. Serve with crisp celery and wholegrain crackers.",
+        "ingredients": [
+            "2 (10 ounce) cans natural chunk chicken, drained",
+            "¾ cup hot pepper sauce (such as Frank's RedHot)",
+            "2 (8 ounce) packages reduced-fat cream cheese, softened",
+            "1 cup light ranch dressing",
+            "1 cup shredded reduced-fat Cheddar cheese, divided",
+            "1 bunch celery, cleaned and cut into 4-inch pieces",
+            "8 ounces multigrain crackers"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Heat chicken and hot sauce in a skillet over medium heat until heated through, about 5 minutes. Stir in cream cheese and ranch dressing; cook and stir until well blended and warm, 5 to 7 minutes.",
+            "Mix in 1/2 of the Cheddar.",
+            "Transfer mixture to a slow cooker. Sprinkle remaining Cheddar over top. Cover and cook on Low until hot and bubbly, about 30 minutes.",
+            "Serve with celery sticks and crackers."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "ounce cans natural chunk chicken drained ¾ hot pepper sauce such as frank s redhot ounce packages reduced-fat cream cheese softened light ranch dressing shredded reduced-fat cheddar cheese divided bunch celery cleaned cut into -inch pieces ounces multigrain crackers",
+        "directions_text": "gather all ingredients. heat chicken and hot sauce in a skillet over medium heat until heated through, about 5 minutes. stir in cream cheese and ranch dressing; cook and stir until well blended and warm, 5 to 7 minutes. mix in 1/2 of the cheddar. transfer mixture to a slow cooker. sprinkle remaining cheddar over top. cover and cook on low until hot and bubbly, about 30 minutes. serve with celery sticks and crackers.",
+        "combined_text": "healthier buffalo chicken dip buffalo chicken dips buffalo chicken dips 2 (10 ounce) cans natural chunk chicken, drained ¾ cup hot pepper sauce (such as frank's redhot) 2 (8 ounce) packages reduced-fat cream cheese, softened 1 cup light ranch dressing 1 cup shredded reduced-fat cheddar cheese, divided 1 bunch celery, cleaned and cut into 4-inch pieces 8 ounces multigrain crackers gather all ingredients. heat chicken and hot sauce in a skillet over medium heat until heated through, about 5 minutes. stir in cream cheese and ranch dressing; cook and stir until well blended and warm, 5 to 7 minutes. mix in 1/2 of the cheddar. transfer mixture to a slow cooker. sprinkle remaining cheddar over top. cover and cook on low until hot and bubbly, about 30 minutes. serve with celery sticks and crackers.",
+        "ingredients_raw": [
+            "2 (10 ounce) cans natural chunk chicken, drained",
+            "¾ cup hot pepper sauce (such as Frank's RedHot)",
+            "2 (8 ounce) packages reduced-fat cream cheese, softened",
+            "1 cup light ranch dressing",
+            "1 cup shredded reduced-fat Cheddar cheese, divided",
+            "1 bunch celery, cleaned and cut into 4-inch pieces",
+            "8 ounces multigrain crackers"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Heat chicken and hot sauce in a skillet over medium heat until heated through, about 5 minutes. Stir in cream cheese and ranch dressing; cook and stir until well blended and warm, 5 to 7 minutes.",
+            "Mix in 1/2 of the Cheddar.",
+            "Transfer mixture to a slow cooker. Sprinkle remaining Cheddar over top. Cover and cook on Low until hot and bubbly, about 30 minutes.",
+            "Serve with celery sticks and crackers."
+        ],
+        "ingredients_canonical": [
+            "ounce cans natural chunk chicken drained",
+            "¾ hot pepper sauce such as frank s redhot",
+            "ounce packages reduced-fat cream cheese softened",
+            "light ranch dressing",
+            "shredded reduced-fat cheddar cheese divided",
+            "bunch celery cleaned cut into -inch pieces",
+            "ounces multigrain crackers"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Vegetarian Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "Creamy, cheesy, spicy, vegetarian dip. I have been a vegetarian for 19 years, and this is a great hot dip for parties — enjoyed by non-vegetarians too! Serve with wheat tortilla chips.",
+        "ingredients": [
+            "1 (8 ounce) package seasoned chicken-style vegetarian strips (such as Morningstar Farms® Chik'n Strips), diced",
+            "2 (8 ounce) packages reduced fat cream cheese, softened",
+            "1 (16 ounce) bottle reduced-fat ranch salad dressing",
+            "1 (12 fluid ounce) bottle hot buffalo wing sauce (such as Frank's® REDHOT Buffalo Wing Sauce)",
+            "1 cup Colby-Monterey Jack cheese blend"
+        ],
+        "directions": [
+            "Place the diced vegetarian chicken strips, cream cheese, ranch dressing, and buffalo wing sauce into a slow cooker. Cook on Low, stirring occasionally, until the cheese has melted and the dip is hot, 1 to 2 hours. Stir in the shredded cheese and serve."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "ounce package seasoned chicken-style vegetarian strips such as morningstar farms chik n strips diced ounce packages reduced fat cream cheese softened ounce bottle reduced-fat ranch salad dressing fluid ounce bottle hot buffalo wing sauce such as frank s redhot buffalo wing sauce colby-monterey jack cheese blend",
+        "directions_text": "place the diced vegetarian chicken strips, cream cheese, ranch dressing, and buffalo wing sauce into a slow cooker. cook on low, stirring occasionally, until the cheese has melted and the dip is hot, 1 to 2 hours. stir in the shredded cheese and serve.",
+        "combined_text": "vegetarian buffalo chicken dip buffalo chicken dips buffalo chicken dips 1 (8 ounce) package seasoned chicken-style vegetarian strips (such as morningstar farms® chik'n strips), diced 2 (8 ounce) packages reduced fat cream cheese, softened 1 (16 ounce) bottle reduced-fat ranch salad dressing 1 (12 fluid ounce) bottle hot buffalo wing sauce (such as frank's® redhot buffalo wing sauce) 1 cup colby-monterey jack cheese blend place the diced vegetarian chicken strips, cream cheese, ranch dressing, and buffalo wing sauce into a slow cooker. cook on low, stirring occasionally, until the cheese has melted and the dip is hot, 1 to 2 hours. stir in the shredded cheese and serve.",
+        "ingredients_raw": [
+            "1 (8 ounce) package seasoned chicken-style vegetarian strips (such as Morningstar Farms® Chik'n Strips), diced",
+            "2 (8 ounce) packages reduced fat cream cheese, softened",
+            "1 (16 ounce) bottle reduced-fat ranch salad dressing",
+            "1 (12 fluid ounce) bottle hot buffalo wing sauce (such as Frank's® REDHOT Buffalo Wing Sauce)",
+            "1 cup Colby-Monterey Jack cheese blend"
+        ],
+        "directions_raw": [
+            "Place the diced vegetarian chicken strips, cream cheese, ranch dressing, and buffalo wing sauce into a slow cooker. Cook on Low, stirring occasionally, until the cheese has melted and the dip is hot, 1 to 2 hours. Stir in the shredded cheese and serve."
+        ],
+        "ingredients_canonical": [
+            "ounce package seasoned chicken-style vegetarian strips such as morningstar farms chik n strips diced",
+            "ounce packages reduced fat cream cheese softened",
+            "ounce bottle reduced-fat ranch salad dressing",
+            "fluid ounce bottle hot buffalo wing sauce such as frank s redhot buffalo wing sauce",
+            "colby-monterey jack cheese blend"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 25,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Chicken Dip with Sour Cream",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "I came up with this Buffalo chicken dip with sour cream while looking for a recipe that did not include cream cheese. I couldn't find one, so here's what I came up with.",
+        "ingredients": [
+            "2 (5 ounce) skinless, boneless chicken breast halves",
+            "1 ½ cups ranch dressing",
+            "1 cup sour cream",
+            "½ cup hot sauce",
+            "1 ½ cups shredded Cheddar cheese, divided"
+        ],
+        "directions": [
+            "Bring a large pot of water to a boil. Add chicken; cover and reduce heat to medium. Simmer until chicken is no longer pink in the center and juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove chicken and shred when cool enough to handle.",
+            "Combine ranch dressing and sour cream in a saucepan over low heat. Stir and heat until warm, about 5 minutes. Stir in hot sauce and 1/2 cup Cheddar cheese, followed by shredded chicken.",
+            "Transfer mixture to an 8-inch round baking dish and top with remaining 1 cup Cheddar cheese. Place in the refrigerator to cool for 1 to 2 hours.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Remove dip from the refrigerator and bake in the preheated oven until cheese is bubbly, 20 to 30 minutes. Let cool slightly before serving."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "ounce skinless boneless chicken breast halves ½ ranch dressing sour cream ½ hot sauce ½ shredded cheddar cheese divided",
+        "directions_text": "bring a large pot of water to a boil. add chicken; cover and reduce heat to medium. simmer until chicken is no longer pink in the center and juices run clear, about 10 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). remove chicken and shred when cool enough to handle. combine ranch dressing and sour cream in a saucepan over low heat. stir and heat until warm, about 5 minutes. stir in hot sauce and 1/2 cup cheddar cheese, followed by shredded chicken. transfer mixture to an 8-inch round baking dish and top with remaining 1 cup cheddar cheese. place in the refrigerator to cool for 1 to 2 hours. preheat the oven to 350 degrees f (175 degrees c). remove dip from the refrigerator and bake in the preheated oven until cheese is bubbly, 20 to 30 minutes. let cool slightly before serving.",
+        "combined_text": "buffalo chicken dip with sour cream buffalo chicken dips buffalo chicken dips 2 (5 ounce) skinless, boneless chicken breast halves 1 ½ cups ranch dressing 1 cup sour cream ½ cup hot sauce 1 ½ cups shredded cheddar cheese, divided bring a large pot of water to a boil. add chicken; cover and reduce heat to medium. simmer until chicken is no longer pink in the center and juices run clear, about 10 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). remove chicken and shred when cool enough to handle. combine ranch dressing and sour cream in a saucepan over low heat. stir and heat until warm, about 5 minutes. stir in hot sauce and 1/2 cup cheddar cheese, followed by shredded chicken. transfer mixture to an 8-inch round baking dish and top with remaining 1 cup cheddar cheese. place in the refrigerator to cool for 1 to 2 hours. preheat the oven to 350 degrees f (175 degrees c). remove dip from the refrigerator and bake in the preheated oven until cheese is bubbly, 20 to 30 minutes. let cool slightly before serving.",
+        "ingredients_raw": [
+            "2 (5 ounce) skinless, boneless chicken breast halves",
+            "1 ½ cups ranch dressing",
+            "1 cup sour cream",
+            "½ cup hot sauce",
+            "1 ½ cups shredded Cheddar cheese, divided"
+        ],
+        "directions_raw": [
+            "Bring a large pot of water to a boil. Add chicken; cover and reduce heat to medium. Simmer until chicken is no longer pink in the center and juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove chicken and shred when cool enough to handle.",
+            "Combine ranch dressing and sour cream in a saucepan over low heat. Stir and heat until warm, about 5 minutes. Stir in hot sauce and 1/2 cup Cheddar cheese, followed by shredded chicken.",
+            "Transfer mixture to an 8-inch round baking dish and top with remaining 1 cup Cheddar cheese. Place in the refrigerator to cool for 1 to 2 hours.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Remove dip from the refrigerator and bake in the preheated oven until cheese is bubbly, 20 to 30 minutes. Let cool slightly before serving."
+        ],
+        "ingredients_canonical": [
+            "ounce skinless boneless chicken breast halves",
+            "½ ranch dressing",
+            "sour cream",
+            "½ hot sauce",
+            "½ shredded cheddar cheese divided"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 4,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 88,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "This easy Buffalo chicken dip recipe can be served with tortilla chips. Add celery if you like.",
+        "ingredients": [
+            "1 (15 ounce) jar chunky-style blue cheese salad dressing (such as Marzetti®)",
+            "1 (8 ounce) package cream cheese, softened",
+            "3 cooked chicken breasts, shredded",
+            "1 (12 ounce) bottle Buffalo wing sauce (such as Frank's RedHot®)",
+            "1 (4 ounce) package blue cheese crumbles"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Stir together blue cheese salad dressing and cream cheese in a mixing bowl until smooth. Stir in chicken, Buffalo wing sauce, and blue cheese crumbles; pour chicken mixture into a baking dish.",
+            "Bake in the preheated oven until bubbling, 15 to 20 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "ounce jar chunky-style blue cheese salad dressing such as marzetti ounce package cream cheese softened cooked chicken breasts shredded ounce bottle buffalo wing sauce such as frank s redhot ounce package blue cheese crumbles",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). stir together blue cheese salad dressing and cream cheese in a mixing bowl until smooth. stir in chicken, buffalo wing sauce, and blue cheese crumbles; pour chicken mixture into a baking dish. bake in the preheated oven until bubbling, 15 to 20 minutes.",
+        "combined_text": "easy buffalo chicken dip buffalo chicken dips buffalo chicken dips 1 (15 ounce) jar chunky-style blue cheese salad dressing (such as marzetti®) 1 (8 ounce) package cream cheese, softened 3 cooked chicken breasts, shredded 1 (12 ounce) bottle buffalo wing sauce (such as frank's redhot®) 1 (4 ounce) package blue cheese crumbles preheat the oven to 350 degrees f (175 degrees c). stir together blue cheese salad dressing and cream cheese in a mixing bowl until smooth. stir in chicken, buffalo wing sauce, and blue cheese crumbles; pour chicken mixture into a baking dish. bake in the preheated oven until bubbling, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 (15 ounce) jar chunky-style blue cheese salad dressing (such as Marzetti®)",
+            "1 (8 ounce) package cream cheese, softened",
+            "3 cooked chicken breasts, shredded",
+            "1 (12 ounce) bottle Buffalo wing sauce (such as Frank's RedHot®)",
+            "1 (4 ounce) package blue cheese crumbles"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Stir together blue cheese salad dressing and cream cheese in a mixing bowl until smooth. Stir in chicken, Buffalo wing sauce, and blue cheese crumbles; pour chicken mixture into a baking dish.",
+            "Bake in the preheated oven until bubbling, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce jar chunky-style blue cheese salad dressing such as marzetti",
+            "ounce package cream cheese softened",
+            "cooked chicken breasts shredded",
+            "ounce bottle buffalo wing sauce such as frank s redhot",
+            "ounce package blue cheese crumbles"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 21,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "This easy Buffalo chicken dip recipe is always a hit, for any occasion. Garnish as desired. Serve with crackers or vegetables.",
+        "ingredients": [
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup ranch salad dressing, or to taste",
+            "½ cup Buffalo wing sauce (such as Sweet Baby Ray's®)",
+            "½ cup shredded mozzarella cheese, or to taste",
+            "2 (12.5 fl oz) cans chicken chunks, drained"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat cream cheese in a deep baking dish until smooth. Add ranch dressing, Buffalo wing sauce, and mozzarella cheese to cream cheese and stir until smooth. Stir in chicken.",
+            "Bake in the preheated oven until heated through and bubbling, about 20 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "ounce package cream cheese softened ½ ranch salad dressing taste ½ buffalo wing sauce such as sweet baby ray s ½ shredded mozzarella cheese taste fl oz cans chicken chunks drained",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). beat cream cheese in a deep baking dish until smooth. add ranch dressing, buffalo wing sauce, and mozzarella cheese to cream cheese and stir until smooth. stir in chicken. bake in the preheated oven until heated through and bubbling, about 20 minutes.",
+        "combined_text": "buffalo dip buffalo chicken dips buffalo chicken dips 1 (8 ounce) package cream cheese, softened ½ cup ranch salad dressing, or to taste ½ cup buffalo wing sauce (such as sweet baby ray's®) ½ cup shredded mozzarella cheese, or to taste 2 (12.5 fl oz) cans chicken chunks, drained preheat the oven to 350 degrees f (175 degrees c). beat cream cheese in a deep baking dish until smooth. add ranch dressing, buffalo wing sauce, and mozzarella cheese to cream cheese and stir until smooth. stir in chicken. bake in the preheated oven until heated through and bubbling, about 20 minutes.",
+        "ingredients_raw": [
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup ranch salad dressing, or to taste",
+            "½ cup Buffalo wing sauce (such as Sweet Baby Ray's®)",
+            "½ cup shredded mozzarella cheese, or to taste",
+            "2 (12.5 fl oz) cans chicken chunks, drained"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat cream cheese in a deep baking dish until smooth. Add ranch dressing, Buffalo wing sauce, and mozzarella cheese to cream cheese and stir until smooth. Stir in chicken.",
+            "Bake in the preheated oven until heated through and bubbling, about 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package cream cheese softened",
+            "½ ranch salad dressing taste",
+            "½ buffalo wing sauce such as sweet baby ray s",
+            "½ shredded mozzarella cheese taste",
+            "fl oz cans chicken chunks drained"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 21,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Ranch Chicken and Cheese Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "This Buffalo ranch chicken dip is a creamy, hearty dip that works well for a gathering. It's a good option when you are serving close to mealtime, but don't want to prepare a full meal. I serve this with multigrain tortilla scoops.",
+        "ingredients": [
+            "2 cooked chicken breasts, shredded",
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup buffalo wing sauce",
+            "¼ cup ranch salad dressing",
+            "¼ cup sour cream",
+            "1 ½ cups shredded Colby-Monterey Jack cheese",
+            "1 (16 ounce) package scoop-shaped tortilla chips"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix chicken, cream cheese, buffalo wing sauce, ranch dressing, and sour cream together in a large bowl; transfer to a 9x13-inch baking dish. Sprinkle Colby-Monterey Jack cheese evenly on top.",
+            "Bake in the preheated oven until cheese is melted and lightly browned, 25 to 30 minutes. Serve with tortilla chips."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "cooked chicken breasts shredded ounce package cream cheese softened ½ buffalo wing sauce ¼ ranch salad dressing ¼ sour cream ½ shredded colby-monterey jack cheese ounce package scoop-shaped tortilla chips",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). mix chicken, cream cheese, buffalo wing sauce, ranch dressing, and sour cream together in a large bowl; transfer to a 9x13-inch baking dish. sprinkle colby-monterey jack cheese evenly on top. bake in the preheated oven until cheese is melted and lightly browned, 25 to 30 minutes. serve with tortilla chips.",
+        "combined_text": "buffalo ranch chicken and cheese dip buffalo chicken dips buffalo chicken dips 2 cooked chicken breasts, shredded 1 (8 ounce) package cream cheese, softened ½ cup buffalo wing sauce ¼ cup ranch salad dressing ¼ cup sour cream 1 ½ cups shredded colby-monterey jack cheese 1 (16 ounce) package scoop-shaped tortilla chips preheat the oven to 350 degrees f (175 degrees c). mix chicken, cream cheese, buffalo wing sauce, ranch dressing, and sour cream together in a large bowl; transfer to a 9x13-inch baking dish. sprinkle colby-monterey jack cheese evenly on top. bake in the preheated oven until cheese is melted and lightly browned, 25 to 30 minutes. serve with tortilla chips.",
+        "ingredients_raw": [
+            "2 cooked chicken breasts, shredded",
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup buffalo wing sauce",
+            "¼ cup ranch salad dressing",
+            "¼ cup sour cream",
+            "1 ½ cups shredded Colby-Monterey Jack cheese",
+            "1 (16 ounce) package scoop-shaped tortilla chips"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix chicken, cream cheese, buffalo wing sauce, ranch dressing, and sour cream together in a large bowl; transfer to a 9x13-inch baking dish. Sprinkle Colby-Monterey Jack cheese evenly on top.",
+            "Bake in the preheated oven until cheese is melted and lightly browned, 25 to 30 minutes. Serve with tortilla chips."
+        ],
+        "ingredients_canonical": [
+            "cooked chicken breasts shredded",
+            "ounce package cream cheese softened",
+            "½ buffalo wing sauce",
+            "¼ ranch salad dressing",
+            "¼ sour cream",
+            "½ shredded colby-monterey jack cheese",
+            "ounce package scoop-shaped tortilla chips"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "snack",
+            "bread",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Slow Cooker Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "This delicious Buffalo chicken dip can be prepped, cooked, and served in your crockpot or slow cooker! Cook the raw chicken breasts, shred them with a hand mixer, then add the rest of the ingredients, and voilà: this yummy dip is ready four hours later.",
+        "ingredients": [
+            "2 (8 ounce) skinless, boneless chicken breasts",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon garlic powder",
+            "1 (8 ounce) package reduced-fat cream cheese (Neufchatel)",
+            "1 (8 ounce) container sour cream",
+            "½ cup Buffalo wing sauce (such as Frank's® Red Hot)",
+            "½ cup shredded sharp Cheddar cheese"
+        ],
+        "directions": [
+            "Season chicken breasts with salt, pepper, and garlic powder. Place in the slow cooker and cover with the lid.",
+            "Cook on Low until chicken is cooked through, about 3 hours. Drain accumulated juices. Shred chicken using a hand mixer. Add cream cheese, sour cream, Buffalo wing sauce, and Cheddar cheese. Cook on Low for 1 more hour. Stir to combine."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "ounce skinless boneless chicken breasts ½ salt ¼ ground black pepper ¼ garlic powder ounce package reduced-fat cream cheese neufchatel ounce container sour cream ½ buffalo wing sauce such as frank s red hot ½ shredded sharp cheddar cheese",
+        "directions_text": "season chicken breasts with salt, pepper, and garlic powder. place in the slow cooker and cover with the lid. cook on low until chicken is cooked through, about 3 hours. drain accumulated juices. shred chicken using a hand mixer. add cream cheese, sour cream, buffalo wing sauce, and cheddar cheese. cook on low for 1 more hour. stir to combine.",
+        "combined_text": "slow cooker buffalo chicken dip buffalo chicken dips buffalo chicken dips 2 (8 ounce) skinless, boneless chicken breasts ½ teaspoon salt ¼ teaspoon ground black pepper ¼ teaspoon garlic powder 1 (8 ounce) package reduced-fat cream cheese (neufchatel) 1 (8 ounce) container sour cream ½ cup buffalo wing sauce (such as frank's® red hot) ½ cup shredded sharp cheddar cheese season chicken breasts with salt, pepper, and garlic powder. place in the slow cooker and cover with the lid. cook on low until chicken is cooked through, about 3 hours. drain accumulated juices. shred chicken using a hand mixer. add cream cheese, sour cream, buffalo wing sauce, and cheddar cheese. cook on low for 1 more hour. stir to combine.",
+        "ingredients_raw": [
+            "2 (8 ounce) skinless, boneless chicken breasts",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon garlic powder",
+            "1 (8 ounce) package reduced-fat cream cheese (Neufchatel)",
+            "1 (8 ounce) container sour cream",
+            "½ cup Buffalo wing sauce (such as Frank's® Red Hot)",
+            "½ cup shredded sharp Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Season chicken breasts with salt, pepper, and garlic powder. Place in the slow cooker and cover with the lid.",
+            "Cook on Low until chicken is cooked through, about 3 hours. Drain accumulated juices. Shred chicken using a hand mixer. Add cream cheese, sour cream, Buffalo wing sauce, and Cheddar cheese. Cook on Low for 1 more hour. Stir to combine."
+        ],
+        "ingredients_canonical": [
+            "ounce skinless boneless chicken breasts",
+            "½ salt",
+            "¼ ground black pepper",
+            "¼ garlic powder",
+            "ounce package reduced-fat cream cheese neufchatel",
+            "ounce container sour cream",
+            "½ buffalo wing sauce such as frank s red hot",
+            "½ shredded sharp cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "korean",
+            "russian"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 33,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Hot Chicken Wing Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "This recipe for hot chicken wing dip is an easy way to enjoy your hot wings and ranch dressing!",
+        "ingredients": [
+            "1 pound skinless boneless chicken breasts",
+            "2 (8 ounce) packages cream cheese, softened",
+            "1 (12 ounce) bottle hot pepper sauce",
+            "1 (8 ounce) bottle ranch dressing",
+            "1 (16 ounce) package shredded Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat a nonstick skillet over medium heat. Add chicken breasts; cook until juices run clear, about 4 minutes per side. Transfer to a cutting board; cool completely. Shred into strands using a fork.",
+            "Combine cream cheese, hot pepper sauce, and ranch dressing in a bowl until well blended. Add shredded chicken; mix well. Transfer mixture to a 9x13-inch baking dish; sprinkle Cheddar cheese over top.",
+            "Bake in the preheated oven until cheese is bubbling, about 10 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 4,
+        "ingredient_text": "pound skinless boneless chicken breasts ounce packages cream cheese softened ounce bottle hot pepper sauce ounce bottle ranch dressing ounce package shredded cheddar cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). heat a nonstick skillet over medium heat. add chicken breasts; cook until juices run clear, about 4 minutes per side. transfer to a cutting board; cool completely. shred into strands using a fork. combine cream cheese, hot pepper sauce, and ranch dressing in a bowl until well blended. add shredded chicken; mix well. transfer mixture to a 9x13-inch baking dish; sprinkle cheddar cheese over top. bake in the preheated oven until cheese is bubbling, about 10 minutes.",
+        "combined_text": "hot chicken wing dip buffalo chicken dips buffalo chicken dips 1 pound skinless boneless chicken breasts 2 (8 ounce) packages cream cheese, softened 1 (12 ounce) bottle hot pepper sauce 1 (8 ounce) bottle ranch dressing 1 (16 ounce) package shredded cheddar cheese preheat the oven to 350 degrees f (175 degrees c). heat a nonstick skillet over medium heat. add chicken breasts; cook until juices run clear, about 4 minutes per side. transfer to a cutting board; cool completely. shred into strands using a fork. combine cream cheese, hot pepper sauce, and ranch dressing in a bowl until well blended. add shredded chicken; mix well. transfer mixture to a 9x13-inch baking dish; sprinkle cheddar cheese over top. bake in the preheated oven until cheese is bubbling, about 10 minutes.",
+        "ingredients_raw": [
+            "1 pound skinless boneless chicken breasts",
+            "2 (8 ounce) packages cream cheese, softened",
+            "1 (12 ounce) bottle hot pepper sauce",
+            "1 (8 ounce) bottle ranch dressing",
+            "1 (16 ounce) package shredded Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat a nonstick skillet over medium heat. Add chicken breasts; cook until juices run clear, about 4 minutes per side. Transfer to a cutting board; cool completely. Shred into strands using a fork.",
+            "Combine cream cheese, hot pepper sauce, and ranch dressing in a bowl until well blended. Add shredded chicken; mix well. Transfer mixture to a 9x13-inch baking dish; sprinkle Cheddar cheese over top.",
+            "Bake in the preheated oven until cheese is bubbling, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "pound skinless boneless chicken breasts",
+            "ounce packages cream cheese softened",
+            "ounce bottle hot pepper sauce",
+            "ounce bottle ranch dressing",
+            "ounce package shredded cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Quick and Easy Baked Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "A spicy yet mild dip, this dish will be a crowd-pleaser at any occasion!",
+        "ingredients": [
+            "2 (8 ounce) packages cream cheese",
+            "¾ cup hot sauce (such as Frank's RedHot ®)",
+            "½ cup shredded pepper Jack cheese",
+            "½ cup blue cheese dressing",
+            "4 fully cooked chicken breasts, cut into bite-size pieces",
+            "½ cup crumbled blue cheese",
+            "⅓ cup shredded pepper Jack cheese"
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C). Grease a baking dish.",
+            "Beat cream cheese, hot sauce, 1/2 cup pepper Jack cheese, and blue cheese dressing together in a large bowl; fold in chicken until completely coated. Pour mixture into the prepared baking dish and top with crumbled blue cheese and 1/3 cup pepper Jack cheese.",
+            "Bake in the preheated oven until cheese is melted and dip is bubbling up the sides, 15 to 20 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "ounce packages cream cheese ¾ hot sauce such as frank s redhot ½ shredded pepper jack cheese ½ blue cheese dressing fully cooked chicken breasts cut into bite-size pieces ½ crumbled blue cheese ⅓ shredded pepper jack cheese",
+        "directions_text": "preheat oven to 400 degrees f (200 degrees c). grease a baking dish. beat cream cheese, hot sauce, 1/2 cup pepper jack cheese, and blue cheese dressing together in a large bowl; fold in chicken until completely coated. pour mixture into the prepared baking dish and top with crumbled blue cheese and 1/3 cup pepper jack cheese. bake in the preheated oven until cheese is melted and dip is bubbling up the sides, 15 to 20 minutes.",
+        "combined_text": "quick and easy baked buffalo chicken dip buffalo chicken dips buffalo chicken dips 2 (8 ounce) packages cream cheese ¾ cup hot sauce (such as frank's redhot ®) ½ cup shredded pepper jack cheese ½ cup blue cheese dressing 4 fully cooked chicken breasts, cut into bite-size pieces ½ cup crumbled blue cheese ⅓ cup shredded pepper jack cheese preheat oven to 400 degrees f (200 degrees c). grease a baking dish. beat cream cheese, hot sauce, 1/2 cup pepper jack cheese, and blue cheese dressing together in a large bowl; fold in chicken until completely coated. pour mixture into the prepared baking dish and top with crumbled blue cheese and 1/3 cup pepper jack cheese. bake in the preheated oven until cheese is melted and dip is bubbling up the sides, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "2 (8 ounce) packages cream cheese",
+            "¾ cup hot sauce (such as Frank's RedHot ®)",
+            "½ cup shredded pepper Jack cheese",
+            "½ cup blue cheese dressing",
+            "4 fully cooked chicken breasts, cut into bite-size pieces",
+            "½ cup crumbled blue cheese",
+            "⅓ cup shredded pepper Jack cheese"
+        ],
+        "directions_raw": [
+            "Preheat oven to 400 degrees F (200 degrees C). Grease a baking dish.",
+            "Beat cream cheese, hot sauce, 1/2 cup pepper Jack cheese, and blue cheese dressing together in a large bowl; fold in chicken until completely coated. Pour mixture into the prepared baking dish and top with crumbled blue cheese and 1/3 cup pepper Jack cheese.",
+            "Bake in the preheated oven until cheese is melted and dip is bubbling up the sides, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce packages cream cheese",
+            "¾ hot sauce such as frank s redhot",
+            "½ shredded pepper jack cheese",
+            "½ blue cheese dressing",
+            "fully cooked chicken breasts cut into bite-size pieces",
+            "½ crumbled blue cheese",
+            "⅓ shredded pepper jack cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Dip with Rotisserie Chicken",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "Use some leftover rotisserie chicken to create this dip that will remind you of Buffalo wings. You will find all the flavors you love, without the bones! Serve with celery and carrot sticks. Provide additional hot sauce for individual tastes.",
+        "ingredients": [
+            "cooking spray",
+            "1 ½ cups shredded skinless rotisserie chicken breast",
+            "½ (8 ounce) package cream cheese, cut into chunks",
+            "½ teaspoon cayenne pepper",
+            "⅓ cup ranch dressing",
+            "⅓ cup Buffalo-style hot pepper sauce (such as Frank's® Red Hot®)",
+            "3 ounces shredded Cheddar cheese",
+            "2 tablespoons crumbled blue cheese, or to taste"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 3-cup oven-proof serving dish with cooking spray.",
+            "Combine shredded chicken, cream cheese, and cayenne in a 10-inch nonstick skillet over medium heat. Stir until cream cheese has melted, 2 to 3 minutes. Stir in ranch dressing, remove from heat, and pour into the prepared dish. Spread Buffalo sauce evenly over top and sprinkle with Cheddar.",
+            "Bake in the preheated oven until dip is warmed through and cheese is melted, about 20 minutes. Remove from the oven and sprinkle with blue cheese. Serve warm."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "cooking spray ½ shredded skinless rotisserie chicken breast ½ ounce package cream cheese cut into chunks ½ cayenne pepper ⅓ ranch dressing ⅓ buffalo-style hot pepper sauce such as frank s red hot ounces shredded cheddar cheese crumbled blue cheese taste",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 3-cup oven-proof serving dish with cooking spray. combine shredded chicken, cream cheese, and cayenne in a 10-inch nonstick skillet over medium heat. stir until cream cheese has melted, 2 to 3 minutes. stir in ranch dressing, remove from heat, and pour into the prepared dish. spread buffalo sauce evenly over top and sprinkle with cheddar. bake in the preheated oven until dip is warmed through and cheese is melted, about 20 minutes. remove from the oven and sprinkle with blue cheese. serve warm.",
+        "combined_text": "buffalo dip with rotisserie chicken buffalo chicken dips buffalo chicken dips cooking spray 1 ½ cups shredded skinless rotisserie chicken breast ½ (8 ounce) package cream cheese, cut into chunks ½ teaspoon cayenne pepper ⅓ cup ranch dressing ⅓ cup buffalo-style hot pepper sauce (such as frank's® red hot®) 3 ounces shredded cheddar cheese 2 tablespoons crumbled blue cheese, or to taste preheat the oven to 350 degrees f (175 degrees c). grease a 3-cup oven-proof serving dish with cooking spray. combine shredded chicken, cream cheese, and cayenne in a 10-inch nonstick skillet over medium heat. stir until cream cheese has melted, 2 to 3 minutes. stir in ranch dressing, remove from heat, and pour into the prepared dish. spread buffalo sauce evenly over top and sprinkle with cheddar. bake in the preheated oven until dip is warmed through and cheese is melted, about 20 minutes. remove from the oven and sprinkle with blue cheese. serve warm.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 ½ cups shredded skinless rotisserie chicken breast",
+            "½ (8 ounce) package cream cheese, cut into chunks",
+            "½ teaspoon cayenne pepper",
+            "⅓ cup ranch dressing",
+            "⅓ cup Buffalo-style hot pepper sauce (such as Frank's® Red Hot®)",
+            "3 ounces shredded Cheddar cheese",
+            "2 tablespoons crumbled blue cheese, or to taste"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 3-cup oven-proof serving dish with cooking spray.",
+            "Combine shredded chicken, cream cheese, and cayenne in a 10-inch nonstick skillet over medium heat. Stir until cream cheese has melted, 2 to 3 minutes. Stir in ranch dressing, remove from heat, and pour into the prepared dish. Spread Buffalo sauce evenly over top and sprinkle with Cheddar.",
+            "Bake in the preheated oven until dip is warmed through and cheese is melted, about 20 minutes. Remove from the oven and sprinkle with blue cheese. Serve warm."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "½ shredded skinless rotisserie chicken breast",
+            "½ ounce package cream cheese cut into chunks",
+            "½ cayenne pepper",
+            "⅓ ranch dressing",
+            "⅓ buffalo-style hot pepper sauce such as frank s red hot",
+            "ounces shredded cheddar cheese",
+            "crumbled blue cheese taste"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Chicken-and-Artichoke Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "Chicken buffalo dip with a twist. This is a quick and easy recipe that goes over well at parties, luncheons, and family gatherings. A great tailgate item. For hotter dip, add more hot sauce. Dish can be prepared in a slow cooker.",
+        "ingredients": [
+            "2 (8 ounce) packages cream cheese",
+            "1 (15 ounce) can quartered artichoke hearts, diced",
+            "1 ½ cups shredded Cheddar cheese",
+            "1 cup ranch dressing",
+            "1 cup sour cream",
+            "⅓ cup hot sauce (such as Frank's RedHot ®), or more to taste",
+            "¼ cup bacon bits",
+            "2 (10 ounce) cans white meat chicken, drained and flaked"
+        ],
+        "directions": [
+            "Mix cream cheese, artichoke hearts, Cheddar cheese, ranch dressing, sour cream, hot sauce, and bacon bits together in a saucepan over medium heat; cook, stirring frequently, until cheeses are melted, 5 to 10 minutes. Add chicken to cream cheese mixture and cook until heated through, about 5 more minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "ounce packages cream cheese ounce can quartered artichoke hearts diced ½ shredded cheddar cheese ranch dressing sour cream ⅓ hot sauce such as frank s redhot more taste ¼ bacon bits ounce cans white meat chicken drained flaked",
+        "directions_text": "mix cream cheese, artichoke hearts, cheddar cheese, ranch dressing, sour cream, hot sauce, and bacon bits together in a saucepan over medium heat; cook, stirring frequently, until cheeses are melted, 5 to 10 minutes. add chicken to cream cheese mixture and cook until heated through, about 5 more minutes.",
+        "combined_text": "buffalo chicken-and-artichoke dip buffalo chicken dips buffalo chicken dips 2 (8 ounce) packages cream cheese 1 (15 ounce) can quartered artichoke hearts, diced 1 ½ cups shredded cheddar cheese 1 cup ranch dressing 1 cup sour cream ⅓ cup hot sauce (such as frank's redhot ®), or more to taste ¼ cup bacon bits 2 (10 ounce) cans white meat chicken, drained and flaked mix cream cheese, artichoke hearts, cheddar cheese, ranch dressing, sour cream, hot sauce, and bacon bits together in a saucepan over medium heat; cook, stirring frequently, until cheeses are melted, 5 to 10 minutes. add chicken to cream cheese mixture and cook until heated through, about 5 more minutes.",
+        "ingredients_raw": [
+            "2 (8 ounce) packages cream cheese",
+            "1 (15 ounce) can quartered artichoke hearts, diced",
+            "1 ½ cups shredded Cheddar cheese",
+            "1 cup ranch dressing",
+            "1 cup sour cream",
+            "⅓ cup hot sauce (such as Frank's RedHot ®), or more to taste",
+            "¼ cup bacon bits",
+            "2 (10 ounce) cans white meat chicken, drained and flaked"
+        ],
+        "directions_raw": [
+            "Mix cream cheese, artichoke hearts, Cheddar cheese, ranch dressing, sour cream, hot sauce, and bacon bits together in a saucepan over medium heat; cook, stirring frequently, until cheeses are melted, 5 to 10 minutes. Add chicken to cream cheese mixture and cook until heated through, about 5 more minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce packages cream cheese",
+            "ounce can quartered artichoke hearts diced",
+            "½ shredded cheddar cheese",
+            "ranch dressing",
+            "sour cream",
+            "⅓ hot sauce such as frank s redhot more taste",
+            "¼ bacon bits",
+            "ounce cans white meat chicken drained flaked"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Blue Cheese Chicken Wing Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "This is an absolutely addicting wing dip recipe. I have had countless requests for the recipe. The whole is greater than the sum of the its parts.",
+        "ingredients": [
+            "2 skinless, boneless chicken breast halves",
+            "1 (12 fluid ounce) can or bottle hot chicken wing sauce",
+            "6 tablespoons butter",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 (16 ounce) bottle blue cheese dressing"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Place chicken in a pot with enough water to cover. Bring to a boil and cook 25 minutes, until chicken juices run clear. Drain liquid from pot and shred chicken. Mix wing sauce and butter into pot. Bring to a boil, reduce heat to low and simmer 10 minutes.",
+            "Spread cream cheese over the bottom of an 8x8 inch baking dish. Pour chicken mixture over cream cheese. Top with dressing.",
+            "Bake 15 minutes in the preheated oven, until hot and bubbly."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 4,
+        "ingredient_text": "skinless boneless chicken breast halves fluid ounce can bottle hot chicken wing sauce butter ounce package cream cheese softened ounce bottle blue cheese dressing",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). place chicken in a pot with enough water to cover. bring to a boil and cook 25 minutes, until chicken juices run clear. drain liquid from pot and shred chicken. mix wing sauce and butter into pot. bring to a boil, reduce heat to low and simmer 10 minutes. spread cream cheese over the bottom of an 8x8 inch baking dish. pour chicken mixture over cream cheese. top with dressing. bake 15 minutes in the preheated oven, until hot and bubbly.",
+        "combined_text": "blue cheese chicken wing dip buffalo chicken dips buffalo chicken dips 2 skinless, boneless chicken breast halves 1 (12 fluid ounce) can or bottle hot chicken wing sauce 6 tablespoons butter 1 (8 ounce) package cream cheese, softened 1 (16 ounce) bottle blue cheese dressing preheat oven to 350 degrees f (175 degrees c). place chicken in a pot with enough water to cover. bring to a boil and cook 25 minutes, until chicken juices run clear. drain liquid from pot and shred chicken. mix wing sauce and butter into pot. bring to a boil, reduce heat to low and simmer 10 minutes. spread cream cheese over the bottom of an 8x8 inch baking dish. pour chicken mixture over cream cheese. top with dressing. bake 15 minutes in the preheated oven, until hot and bubbly.",
+        "ingredients_raw": [
+            "2 skinless, boneless chicken breast halves",
+            "1 (12 fluid ounce) can or bottle hot chicken wing sauce",
+            "6 tablespoons butter",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 (16 ounce) bottle blue cheese dressing"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Place chicken in a pot with enough water to cover. Bring to a boil and cook 25 minutes, until chicken juices run clear. Drain liquid from pot and shred chicken. Mix wing sauce and butter into pot. Bring to a boil, reduce heat to low and simmer 10 minutes.",
+            "Spread cream cheese over the bottom of an 8x8 inch baking dish. Pour chicken mixture over cream cheese. Top with dressing.",
+            "Bake 15 minutes in the preheated oven, until hot and bubbly."
+        ],
+        "ingredients_canonical": [
+            "skinless boneless chicken breast halves",
+            "fluid ounce can bottle hot chicken wing sauce",
+            "butter",
+            "ounce package cream cheese softened",
+            "ounce bottle blue cheese dressing"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 63,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cold Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "One of the best flavor combos there is... a Buffalo chicken wing dipped in blue cheese dressing, all incorporated into a tasty dip. Incredibly easy and addicting, takes 15 minutes, and served cold as opposed to the slow cooker recipes. I always have it with tortilla chips. The bacon and jalapeno are great additions, but I suggest trying the original recipe first.",
+        "ingredients": [
+            "¾ pound fully cooked breaded chicken breast tenderloins",
+            "1 cup mayonnaise",
+            "1 cup sour cream",
+            "½ cup Buffalo sauce, or to taste",
+            "4 ounces crumbled blue cheese",
+            "4 slices bacon strips, cooked and crumbled",
+            "3 stalks green onions, sliced",
+            "1 jalapeno pepper, seeded and minced"
+        ],
+        "directions": [
+            "Dice cooked chicken tenders. Transfer to a large bowl and add mayonnaise, sour cream, Buffalo sauce, blue cheese, bacon, green onions, and jalapeno. Stir to combine.",
+            "Allow to come together/thicken in the refrigerator for 1 hour before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "¾ pound fully cooked breaded chicken breast tenderloins mayonnaise sour cream ½ buffalo sauce taste ounces crumbled blue cheese slices bacon strips cooked crumbled stalks green onions sliced jalapeno pepper seeded minced",
+        "directions_text": "dice cooked chicken tenders. transfer to a large bowl and add mayonnaise, sour cream, buffalo sauce, blue cheese, bacon, green onions, and jalapeno. stir to combine. allow to come together/thicken in the refrigerator for 1 hour before serving.",
+        "combined_text": "cold buffalo chicken dip buffalo chicken dips buffalo chicken dips ¾ pound fully cooked breaded chicken breast tenderloins 1 cup mayonnaise 1 cup sour cream ½ cup buffalo sauce, or to taste 4 ounces crumbled blue cheese 4 slices bacon strips, cooked and crumbled 3 stalks green onions, sliced 1 jalapeno pepper, seeded and minced dice cooked chicken tenders. transfer to a large bowl and add mayonnaise, sour cream, buffalo sauce, blue cheese, bacon, green onions, and jalapeno. stir to combine. allow to come together/thicken in the refrigerator for 1 hour before serving.",
+        "ingredients_raw": [
+            "¾ pound fully cooked breaded chicken breast tenderloins",
+            "1 cup mayonnaise",
+            "1 cup sour cream",
+            "½ cup Buffalo sauce, or to taste",
+            "4 ounces crumbled blue cheese",
+            "4 slices bacon strips, cooked and crumbled",
+            "3 stalks green onions, sliced",
+            "1 jalapeno pepper, seeded and minced"
+        ],
+        "directions_raw": [
+            "Dice cooked chicken tenders. Transfer to a large bowl and add mayonnaise, sour cream, Buffalo sauce, blue cheese, bacon, green onions, and jalapeno. Stir to combine.",
+            "Allow to come together/thicken in the refrigerator for 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "¾ pound fully cooked breaded chicken breast tenderloins",
+            "mayonnaise",
+            "sour cream",
+            "½ buffalo sauce taste",
+            "ounces crumbled blue cheese",
+            "slices bacon strips cooked crumbled",
+            "stalks green onions sliced",
+            "jalapeno pepper seeded minced"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Chicken Dip in the Slow Cooker",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "Just in time for game day or any time you want an appetizer that tastes great, this slow cooker Buffalo chicken dip comes together quickly and is sure to please. Serve with assorted crackers, tortilla chips, or fresh vegetable sticks for dipping.",
+        "ingredients": [
+            "2 cups diced, cooked rotisserie chicken",
+            "8 ounces cream cheese, softened",
+            "8 ounces shredded Colby-Jack Cheese",
+            "4 ounces honey-flavored goat cheese, softened",
+            "½ cup Buffalo wing sauce",
+            "½ cup blue cheese salad dressing",
+            "2 tablespoons chopped green bell pepper",
+            "1 tablespoon onion, chopped",
+            "1 tablespoon chopped celery",
+            "1 tablespoon chopped scallions for garnish (Optional)"
+        ],
+        "directions": [
+            "Combine chicken, cream cheese, Colby-Jack cheese, goat cheese, Buffalo wing sauce, blue cheese dressing, bell pepper, onion, and celery in a slow cooker.",
+            "Cook on Low for 4 hours. Transfer dip to a bowl and sprinkle with chopped scallions."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "diced cooked rotisserie chicken ounces cream cheese softened ounces shredded colby-jack cheese ounces honey-flavored goat cheese softened ½ buffalo wing sauce ½ blue cheese salad dressing chopped green bell pepper onion chopped chopped celery chopped scallions for garnish optional",
+        "directions_text": "combine chicken, cream cheese, colby-jack cheese, goat cheese, buffalo wing sauce, blue cheese dressing, bell pepper, onion, and celery in a slow cooker. cook on low for 4 hours. transfer dip to a bowl and sprinkle with chopped scallions.",
+        "combined_text": "buffalo chicken dip in the slow cooker buffalo chicken dips buffalo chicken dips 2 cups diced, cooked rotisserie chicken 8 ounces cream cheese, softened 8 ounces shredded colby-jack cheese 4 ounces honey-flavored goat cheese, softened ½ cup buffalo wing sauce ½ cup blue cheese salad dressing 2 tablespoons chopped green bell pepper 1 tablespoon onion, chopped 1 tablespoon chopped celery 1 tablespoon chopped scallions for garnish (optional) combine chicken, cream cheese, colby-jack cheese, goat cheese, buffalo wing sauce, blue cheese dressing, bell pepper, onion, and celery in a slow cooker. cook on low for 4 hours. transfer dip to a bowl and sprinkle with chopped scallions.",
+        "ingredients_raw": [
+            "2 cups diced, cooked rotisserie chicken",
+            "8 ounces cream cheese, softened",
+            "8 ounces shredded Colby-Jack Cheese",
+            "4 ounces honey-flavored goat cheese, softened",
+            "½ cup Buffalo wing sauce",
+            "½ cup blue cheese salad dressing",
+            "2 tablespoons chopped green bell pepper",
+            "1 tablespoon onion, chopped",
+            "1 tablespoon chopped celery",
+            "1 tablespoon chopped scallions for garnish (Optional)"
+        ],
+        "directions_raw": [
+            "Combine chicken, cream cheese, Colby-Jack cheese, goat cheese, Buffalo wing sauce, blue cheese dressing, bell pepper, onion, and celery in a slow cooker.",
+            "Cook on Low for 4 hours. Transfer dip to a bowl and sprinkle with chopped scallions."
+        ],
+        "ingredients_canonical": [
+            "diced cooked rotisserie chicken",
+            "ounces cream cheese softened",
+            "ounces shredded colby-jack cheese",
+            "ounces honey-flavored goat cheese softened",
+            "½ buffalo wing sauce",
+            "½ blue cheese salad dressing",
+            "chopped green bell pepper",
+            "onion chopped",
+            "chopped celery",
+            "chopped scallions for garnish optional"
+        ],
+        "cuisine_list": [
+            "african",
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "4-Ingredient Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "The quickest dip recipe with spicy flavors that will keep everyone coming back for more.",
+        "ingredients": [
+            "½ cup sour cream",
+            "¼ cup blue cheese",
+            "1 tablespoon Trappey's Red Devil™ Cayenne Pepper Sauce",
+            "1 (4.25 ounce) can Underwood® White Meat Chicken Spread"
+        ],
+        "directions": [
+            "Combine all ingredients until well blended.",
+            "Serve with assorted vegetables or crackers.",
+            "If preferred served hot, bake in oven at 350 degrees F until bubbling."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "½ sour cream ¼ blue cheese trappey s red devil cayenne pepper sauce ounce can underwood white meat chicken spread",
+        "directions_text": "combine all ingredients until well blended. serve with assorted vegetables or crackers. if preferred served hot, bake in oven at 350 degrees f until bubbling.",
+        "combined_text": "4-ingredient buffalo chicken dip buffalo chicken dips buffalo chicken dips ½ cup sour cream ¼ cup blue cheese 1 tablespoon trappey's red devil™ cayenne pepper sauce 1 (4.25 ounce) can underwood® white meat chicken spread combine all ingredients until well blended. serve with assorted vegetables or crackers. if preferred served hot, bake in oven at 350 degrees f until bubbling.",
+        "ingredients_raw": [
+            "½ cup sour cream",
+            "¼ cup blue cheese",
+            "1 tablespoon Trappey's Red Devil™ Cayenne Pepper Sauce",
+            "1 (4.25 ounce) can Underwood® White Meat Chicken Spread"
+        ],
+        "directions_raw": [
+            "Combine all ingredients until well blended.",
+            "Serve with assorted vegetables or crackers.",
+            "If preferred served hot, bake in oven at 350 degrees F until bubbling."
+        ],
+        "ingredients_canonical": [
+            "½ sour cream",
+            "¼ blue cheese",
+            "trappey s red devil cayenne pepper sauce",
+            "ounce can underwood white meat chicken spread"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 6,
+        "est_cook_time_min": 21,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Skinny Buffalo Chicken Dip",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "Given to me by my mother-in-law and adapted to make it slightly less guilty, this skinny Buffalo chicken dip is a hit every time I make it! Great served with celery sticks, Tostitos® Baked Scoops® or Fritos® Scoops®.",
+        "ingredients": [
+            "½ tablespoon olive oil",
+            "2 skinless, boneless chicken breasts, diced",
+            "½ tablespoon garlic powder",
+            "1 (8 ounce) package fat-free cream cheese, softened",
+            "½ cup crumbled blue cheese (Optional)",
+            "½ cup fat-free blue cheese salad dressing",
+            "½ cup Buffalo wing sauce (such as Frank's RedHot®)",
+            "1 (8 ounce) package shredded smoked Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat olive oil in a skillet over medium heat. Saute chicken in the hot oil with garlic powder until no longer pink in the center and juices run clear, 5 to 8 minutes.",
+            "Spread cream cheese onto the bottom of an oven-proof round pie dish. Add cooked chicken and blue cheese crumbles.",
+            "Mix blue cheese salad dressing and Buffalo sauce together in a bowl; pour evenly over cream cheese and chicken. Top with smoked Cheddar cheese.",
+            "Bake in the preheated oven until heated through and cheese is melted, about 25 minutes. Remove from the oven and let rest for 2 to 3 minutes; stir to mix ingredients."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 5,
+        "ingredient_text": "½ olive oil skinless boneless chicken breasts diced ½ garlic powder ounce package fat-free cream cheese softened ½ crumbled blue cheese optional ½ fat-free blue cheese salad dressing ½ buffalo wing sauce such as frank s redhot ounce package shredded smoked cheddar cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). heat olive oil in a skillet over medium heat. saute chicken in the hot oil with garlic powder until no longer pink in the center and juices run clear, 5 to 8 minutes. spread cream cheese onto the bottom of an oven-proof round pie dish. add cooked chicken and blue cheese crumbles. mix blue cheese salad dressing and buffalo sauce together in a bowl; pour evenly over cream cheese and chicken. top with smoked cheddar cheese. bake in the preheated oven until heated through and cheese is melted, about 25 minutes. remove from the oven and let rest for 2 to 3 minutes; stir to mix ingredients.",
+        "combined_text": "skinny buffalo chicken dip buffalo chicken dips buffalo chicken dips ½ tablespoon olive oil 2 skinless, boneless chicken breasts, diced ½ tablespoon garlic powder 1 (8 ounce) package fat-free cream cheese, softened ½ cup crumbled blue cheese (optional) ½ cup fat-free blue cheese salad dressing ½ cup buffalo wing sauce (such as frank's redhot®) 1 (8 ounce) package shredded smoked cheddar cheese preheat the oven to 350 degrees f (175 degrees c). heat olive oil in a skillet over medium heat. saute chicken in the hot oil with garlic powder until no longer pink in the center and juices run clear, 5 to 8 minutes. spread cream cheese onto the bottom of an oven-proof round pie dish. add cooked chicken and blue cheese crumbles. mix blue cheese salad dressing and buffalo sauce together in a bowl; pour evenly over cream cheese and chicken. top with smoked cheddar cheese. bake in the preheated oven until heated through and cheese is melted, about 25 minutes. remove from the oven and let rest for 2 to 3 minutes; stir to mix ingredients.",
+        "ingredients_raw": [
+            "½ tablespoon olive oil",
+            "2 skinless, boneless chicken breasts, diced",
+            "½ tablespoon garlic powder",
+            "1 (8 ounce) package fat-free cream cheese, softened",
+            "½ cup crumbled blue cheese (Optional)",
+            "½ cup fat-free blue cheese salad dressing",
+            "½ cup Buffalo wing sauce (such as Frank's RedHot®)",
+            "1 (8 ounce) package shredded smoked Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat olive oil in a skillet over medium heat. Saute chicken in the hot oil with garlic powder until no longer pink in the center and juices run clear, 5 to 8 minutes.",
+            "Spread cream cheese onto the bottom of an oven-proof round pie dish. Add cooked chicken and blue cheese crumbles.",
+            "Mix blue cheese salad dressing and Buffalo sauce together in a bowl; pour evenly over cream cheese and chicken. Top with smoked Cheddar cheese.",
+            "Bake in the preheated oven until heated through and cheese is melted, about 25 minutes. Remove from the oven and let rest for 2 to 3 minutes; stir to mix ingredients."
+        ],
+        "ingredients_canonical": [
+            "½ olive oil",
+            "skinless boneless chicken breasts diced",
+            "½ garlic powder",
+            "ounce package fat-free cream cheese softened",
+            "½ crumbled blue cheese optional",
+            "½ fat-free blue cheese salad dressing",
+            "½ buffalo wing sauce such as frank s redhot",
+            "ounce package shredded smoked cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 61,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buffalo Chicken Cheese Ball",
+        "category": "Buffalo Chicken Dips",
+        "subcategory": "Buffalo Chicken Dips",
+        "description": "A family favorite that I kicked up a notch. The Buffalo sauce and extra chicken make this a tasty, zesty dish. Great for tailgating, as an appetizer for parties, or just a lazy day snack. The longer it sits the better the flavors mesh. Serve with crackers.",
+        "ingredients": [
+            "2 (8 ounce) packages cream cheese, at room temperature",
+            "2 (5 ounce) cans chicken chunks, drained",
+            "1 tablespoon Buffalo wing sauce (such as Frank's RedHot®), or to taste",
+            "1 tablespoon mayonnaise",
+            "¼ teaspoon minced garlic, or to taste",
+            "½ (1 ounce) package dry ranch dressing mix"
+        ],
+        "directions": [
+            "Stir cream cheese until smooth. Mix in chicken until well incorporated. Add Buffalo sauce, mayonnaise, garlic, and ranch dressing mix; mix well.",
+            "Scoop onto plastic wrap. Wrap and roll into a tight ball. Refrigerate for 8 hours, or overnight."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "ounce packages cream cheese at room temperature ounce cans chicken chunks drained buffalo wing sauce such as frank s redhot taste mayonnaise ¼ minced garlic taste ½ ounce package dry ranch dressing mix",
+        "directions_text": "stir cream cheese until smooth. mix in chicken until well incorporated. add buffalo sauce, mayonnaise, garlic, and ranch dressing mix; mix well. scoop onto plastic wrap. wrap and roll into a tight ball. refrigerate for 8 hours, or overnight.",
+        "combined_text": "buffalo chicken cheese ball buffalo chicken dips buffalo chicken dips 2 (8 ounce) packages cream cheese, at room temperature 2 (5 ounce) cans chicken chunks, drained 1 tablespoon buffalo wing sauce (such as frank's redhot®), or to taste 1 tablespoon mayonnaise ¼ teaspoon minced garlic, or to taste ½ (1 ounce) package dry ranch dressing mix stir cream cheese until smooth. mix in chicken until well incorporated. add buffalo sauce, mayonnaise, garlic, and ranch dressing mix; mix well. scoop onto plastic wrap. wrap and roll into a tight ball. refrigerate for 8 hours, or overnight.",
+        "ingredients_raw": [
+            "2 (8 ounce) packages cream cheese, at room temperature",
+            "2 (5 ounce) cans chicken chunks, drained",
+            "1 tablespoon Buffalo wing sauce (such as Frank's RedHot®), or to taste",
+            "1 tablespoon mayonnaise",
+            "¼ teaspoon minced garlic, or to taste",
+            "½ (1 ounce) package dry ranch dressing mix"
+        ],
+        "directions_raw": [
+            "Stir cream cheese until smooth. Mix in chicken until well incorporated. Add Buffalo sauce, mayonnaise, garlic, and ranch dressing mix; mix well.",
+            "Scoop onto plastic wrap. Wrap and roll into a tight ball. Refrigerate for 8 hours, or overnight."
+        ],
+        "ingredients_canonical": [
+            "ounce packages cream cheese at room temperature",
+            "ounce cans chicken chunks drained",
+            "buffalo wing sauce such as frank s redhot taste",
+            "mayonnaise",
+            "¼ minced garlic taste",
+            "½ ounce package dry ranch dressing mix"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 30,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    }
+]

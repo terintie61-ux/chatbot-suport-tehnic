@@ -1,0 +1,1949 @@
+[
+    {
+        "recipe_title": "California BLT Chopped Bagel",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "To make this California BLT chopped bagel, you'll chop bacon, tomato, avocado, and lettuce into a smear of chive cream cheese, then sandwich it into an everything bagel. It's quick, easy, and so, so good.",
+        "ingredients": [
+            "1 everything bagel",
+            "2 ounces chive and onion cream cheese, softened",
+            "3 slices bacon",
+            "2 leaves romaine lettuce",
+            "1 slice tomato",
+            "1/4 teaspoon kosher salt",
+            "1/4 teaspoon pepper",
+            "1/4 avocado, diced"
+        ],
+        "directions": [
+            "Toast bagel until golden brown, about 3 minutes.",
+            "Meanwhile, slightly spread cream cheese on a cutting board. Add bacon, lettuce, and tomato on top. Sprinkle with salt and pepper, and chop mixture until chunky and well incorporated. Add avocado and chop 5 to 7 more times.",
+            "Gather mixture together; scrape up with a spatula or bench scraper. Spread mixture onto bottom of toasted bagel and place top piece on top. Serve immediately."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "everything bagel ounces chive onion cream cheese softened slices bacon leaves romaine lettuce slice tomato kosher salt pepper avocado diced",
+        "directions_text": "toast bagel until golden brown, about 3 minutes. meanwhile, slightly spread cream cheese on a cutting board. add bacon, lettuce, and tomato on top. sprinkle with salt and pepper, and chop mixture until chunky and well incorporated. add avocado and chop 5 to 7 more times. gather mixture together; scrape up with a spatula or bench scraper. spread mixture onto bottom of toasted bagel and place top piece on top. serve immediately.",
+        "combined_text": "california blt chopped bagel bagels bagels 1 everything bagel 2 ounces chive and onion cream cheese, softened 3 slices bacon 2 leaves romaine lettuce 1 slice tomato 1/4 teaspoon kosher salt 1/4 teaspoon pepper 1/4 avocado, diced toast bagel until golden brown, about 3 minutes. meanwhile, slightly spread cream cheese on a cutting board. add bacon, lettuce, and tomato on top. sprinkle with salt and pepper, and chop mixture until chunky and well incorporated. add avocado and chop 5 to 7 more times. gather mixture together; scrape up with a spatula or bench scraper. spread mixture onto bottom of toasted bagel and place top piece on top. serve immediately.",
+        "ingredients_raw": [
+            "1 everything bagel",
+            "2 ounces chive and onion cream cheese, softened",
+            "3 slices bacon",
+            "2 leaves romaine lettuce",
+            "1 slice tomato",
+            "1/4 teaspoon kosher salt",
+            "1/4 teaspoon pepper",
+            "1/4 avocado, diced"
+        ],
+        "directions_raw": [
+            "Toast bagel until golden brown, about 3 minutes.",
+            "Meanwhile, slightly spread cream cheese on a cutting board. Add bacon, lettuce, and tomato on top. Sprinkle with salt and pepper, and chop mixture until chunky and well incorporated. Add avocado and chop 5 to 7 more times.",
+            "Gather mixture together; scrape up with a spatula or bench scraper. Spread mixture onto bottom of toasted bagel and place top piece on top. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "everything bagel",
+            "ounces chive onion cream cheese softened",
+            "slices bacon",
+            "leaves romaine lettuce",
+            "slice tomato",
+            "kosher salt",
+            "pepper",
+            "avocado diced"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 10,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Real Homemade Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "A delicious bagel recipe for that authentic bagel flavor and texture.",
+        "ingredients": [
+            "1 ¼ cups water",
+            "4 ½ cups bread flour",
+            "3 tablespoons white sugar",
+            "1 teaspoon salt",
+            "2 tablespoons vegetable oil",
+            "1 tablespoon instant yeast",
+            "4 quarts water",
+            "1 cup honey (Optional)"
+        ],
+        "directions": [
+            "Make bagels: Combine water, flour, sugar, salt, vegetable oil, and yeast in the bowl of a stand mixer fitted with the dough hook. Mix on low speed until dough is well-developed, about 8 minutes. To ensure the gluten has developed fully, cut off a walnut-sized piece of dough. Flour your fingers, and then stretch the dough: if it tears immediately, the dough needs more kneading. Fully developed dough should form a thin translucent \"windowpane.\"",
+            "Transfer dough to a lightly oiled bowl, cover it with plastic wrap and a kitchen towel, and let rise for 2 hours.",
+            "Punch dough down, place it on a lightly floured work surface, and use a knife or dough scraper to divide the dough into 6 pieces (or more, for smaller bagels). Roll each piece of dough into a sausage shape about 6 inches long. Join the ends to form a circle. Repeat with the remaining dough, and let the bagels rest for 15 minutes.",
+            "Preheat the oven to 475 degrees F (245 degrees C). Line a baking sheet with parchment paper. Arrange small plates with poppy seeds, sesame seeds, and onion flakes next to the baking sheet.",
+            "Bring 4 quarts of water to a boil in a large pot. Add honey, if desired (see Editor's Note). Boil three bagels at a time, until they rise to the surface of the pot, about 1 minute per side. Remove bagels with a slotted spoon and place them on the lined baking sheet.",
+            "Dip the tops of the wet bagels into the toppings and arrange them, seed-side up, on the baking sheet. Sprinkle with coarse salt, if desired.",
+            "Bake in the preheated oven until the bagels begin to brown, 15 to 20 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 7,
+        "ingredient_text": "¼ water ½ bread flour white sugar salt vegetable oil instant yeast quarts water honey optional",
+        "directions_text": "make bagels: combine water, flour, sugar, salt, vegetable oil, and yeast in the bowl of a stand mixer fitted with the dough hook. mix on low speed until dough is well-developed, about 8 minutes. to ensure the gluten has developed fully, cut off a walnut-sized piece of dough. flour your fingers, and then stretch the dough: if it tears immediately, the dough needs more kneading. fully developed dough should form a thin translucent \"windowpane.\" transfer dough to a lightly oiled bowl, cover it with plastic wrap and a kitchen towel, and let rise for 2 hours. punch dough down, place it on a lightly floured work surface, and use a knife or dough scraper to divide the dough into 6 pieces (or more, for smaller bagels). roll each piece of dough into a sausage shape about 6 inches long. join the ends to form a circle. repeat with the remaining dough, and let the bagels rest for 15 minutes. preheat the oven to 475 degrees f (245 degrees c). line a baking sheet with parchment paper. arrange small plates with poppy seeds, sesame seeds, and onion flakes next to the baking sheet. bring 4 quarts of water to a boil in a large pot. add honey, if desired (see editor's note). boil three bagels at a time, until they rise to the surface of the pot, about 1 minute per side. remove bagels with a slotted spoon and place them on the lined baking sheet. dip the tops of the wet bagels into the toppings and arrange them, seed-side up, on the baking sheet. sprinkle with coarse salt, if desired. bake in the preheated oven until the bagels begin to brown, 15 to 20 minutes.",
+        "combined_text": "real homemade bagels bagels bagels 1 ¼ cups water 4 ½ cups bread flour 3 tablespoons white sugar 1 teaspoon salt 2 tablespoons vegetable oil 1 tablespoon instant yeast 4 quarts water 1 cup honey (optional) make bagels: combine water, flour, sugar, salt, vegetable oil, and yeast in the bowl of a stand mixer fitted with the dough hook. mix on low speed until dough is well-developed, about 8 minutes. to ensure the gluten has developed fully, cut off a walnut-sized piece of dough. flour your fingers, and then stretch the dough: if it tears immediately, the dough needs more kneading. fully developed dough should form a thin translucent \"windowpane.\" transfer dough to a lightly oiled bowl, cover it with plastic wrap and a kitchen towel, and let rise for 2 hours. punch dough down, place it on a lightly floured work surface, and use a knife or dough scraper to divide the dough into 6 pieces (or more, for smaller bagels). roll each piece of dough into a sausage shape about 6 inches long. join the ends to form a circle. repeat with the remaining dough, and let the bagels rest for 15 minutes. preheat the oven to 475 degrees f (245 degrees c). line a baking sheet with parchment paper. arrange small plates with poppy seeds, sesame seeds, and onion flakes next to the baking sheet. bring 4 quarts of water to a boil in a large pot. add honey, if desired (see editor's note). boil three bagels at a time, until they rise to the surface of the pot, about 1 minute per side. remove bagels with a slotted spoon and place them on the lined baking sheet. dip the tops of the wet bagels into the toppings and arrange them, seed-side up, on the baking sheet. sprinkle with coarse salt, if desired. bake in the preheated oven until the bagels begin to brown, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 ¼ cups water",
+            "4 ½ cups bread flour",
+            "3 tablespoons white sugar",
+            "1 teaspoon salt",
+            "2 tablespoons vegetable oil",
+            "1 tablespoon instant yeast",
+            "4 quarts water",
+            "1 cup honey (Optional)"
+        ],
+        "directions_raw": [
+            "Make bagels: Combine water, flour, sugar, salt, vegetable oil, and yeast in the bowl of a stand mixer fitted with the dough hook. Mix on low speed until dough is well-developed, about 8 minutes. To ensure the gluten has developed fully, cut off a walnut-sized piece of dough. Flour your fingers, and then stretch the dough: if it tears immediately, the dough needs more kneading. Fully developed dough should form a thin translucent \"windowpane.\"",
+            "Transfer dough to a lightly oiled bowl, cover it with plastic wrap and a kitchen towel, and let rise for 2 hours.",
+            "Punch dough down, place it on a lightly floured work surface, and use a knife or dough scraper to divide the dough into 6 pieces (or more, for smaller bagels). Roll each piece of dough into a sausage shape about 6 inches long. Join the ends to form a circle. Repeat with the remaining dough, and let the bagels rest for 15 minutes.",
+            "Preheat the oven to 475 degrees F (245 degrees C). Line a baking sheet with parchment paper. Arrange small plates with poppy seeds, sesame seeds, and onion flakes next to the baking sheet.",
+            "Bring 4 quarts of water to a boil in a large pot. Add honey, if desired (see Editor's Note). Boil three bagels at a time, until they rise to the surface of the pot, about 1 minute per side. Remove bagels with a slotted spoon and place them on the lined baking sheet.",
+            "Dip the tops of the wet bagels into the toppings and arrange them, seed-side up, on the baking sheet. Sprinkle with coarse salt, if desired.",
+            "Bake in the preheated oven until the bagels begin to brown, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "¼ water",
+            "½ bread flour",
+            "white sugar",
+            "salt",
+            "vegetable oil",
+            "instant yeast",
+            "quarts water",
+            "honey optional"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 5,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 111,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bread Machine Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "This simple bagel recipe uses a bread machine to make the dough. Then shape, boil, and bake, topping the finished bagels with poppy seeds, sesame seeds, or everything seasoning.",
+        "ingredients": [
+            "1 cup warm water (110 degrees F/45 degrees C)",
+            "3 cups bread flour",
+            "2 tablespoons white sugar",
+            "1 ½ teaspoons salt",
+            "2 ¼ teaspoons active dry yeast",
+            "1 tablespoon cornmeal",
+            "3 tablespoons white sugar",
+            "1 large egg white, beaten",
+            "3 tablespoons poppy seeds"
+        ],
+        "directions": [
+            "Place water, flour, 2 tablespoons sugar, salt, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. Run 'Dough' cycle. Remove dough from the machine after the cycle is done, about 90 minutes.",
+            "Place dough onto a lightly floured surface and let rest for 10 to 15 minutes.",
+            "Cut dough into nine equal pieces. Roll each piece into a small ball and flatten into a circle. Poke a hole in the middle of each circle with your thumb. Poke your thumb through the hole and twirl each circle a bit to enlarge the hole and to even out dough around the hole. Place back onto the floured surface, cover with a clean cloth, and let rest for 10 minutes.",
+            "While dough is resting, bring 3 quarts water to a boil in a large pot. Preheat the oven to 375 degrees F (190 degrees C). Sprinkle cornmeal onto an ungreased baking sheet.",
+            "Stir 3 tablespoons sugar into boiling water. Working in batches, carefully transfer two bagels at a time to the boiling water and boil for 1 minute, turning halfway through. Drain briefly on a clean towel, then arrange on the prepared baking sheet. Brush with egg white and sprinkle with poppy seeds.",
+            "When all bagels have been boiled and topped with poppy seeds, bake in the preheated oven until golden brown, 20 to 25 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "warm water degrees f degrees c bread flour white sugar ½ salt ¼ active dry yeast cornmeal white sugar large egg white beaten poppy seeds",
+        "directions_text": "place water, flour, 2 tablespoons sugar, salt, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. run 'dough' cycle. remove dough from the machine after the cycle is done, about 90 minutes. place dough onto a lightly floured surface and let rest for 10 to 15 minutes. cut dough into nine equal pieces. roll each piece into a small ball and flatten into a circle. poke a hole in the middle of each circle with your thumb. poke your thumb through the hole and twirl each circle a bit to enlarge the hole and to even out dough around the hole. place back onto the floured surface, cover with a clean cloth, and let rest for 10 minutes. while dough is resting, bring 3 quarts water to a boil in a large pot. preheat the oven to 375 degrees f (190 degrees c). sprinkle cornmeal onto an ungreased baking sheet. stir 3 tablespoons sugar into boiling water. working in batches, carefully transfer two bagels at a time to the boiling water and boil for 1 minute, turning halfway through. drain briefly on a clean towel, then arrange on the prepared baking sheet. brush with egg white and sprinkle with poppy seeds. when all bagels have been boiled and topped with poppy seeds, bake in the preheated oven until golden brown, 20 to 25 minutes.",
+        "combined_text": "bread machine bagels bagels bagels 1 cup warm water (110 degrees f/45 degrees c) 3 cups bread flour 2 tablespoons white sugar 1 ½ teaspoons salt 2 ¼ teaspoons active dry yeast 1 tablespoon cornmeal 3 tablespoons white sugar 1 large egg white, beaten 3 tablespoons poppy seeds place water, flour, 2 tablespoons sugar, salt, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. run 'dough' cycle. remove dough from the machine after the cycle is done, about 90 minutes. place dough onto a lightly floured surface and let rest for 10 to 15 minutes. cut dough into nine equal pieces. roll each piece into a small ball and flatten into a circle. poke a hole in the middle of each circle with your thumb. poke your thumb through the hole and twirl each circle a bit to enlarge the hole and to even out dough around the hole. place back onto the floured surface, cover with a clean cloth, and let rest for 10 minutes. while dough is resting, bring 3 quarts water to a boil in a large pot. preheat the oven to 375 degrees f (190 degrees c). sprinkle cornmeal onto an ungreased baking sheet. stir 3 tablespoons sugar into boiling water. working in batches, carefully transfer two bagels at a time to the boiling water and boil for 1 minute, turning halfway through. drain briefly on a clean towel, then arrange on the prepared baking sheet. brush with egg white and sprinkle with poppy seeds. when all bagels have been boiled and topped with poppy seeds, bake in the preheated oven until golden brown, 20 to 25 minutes.",
+        "ingredients_raw": [
+            "1 cup warm water (110 degrees F/45 degrees C)",
+            "3 cups bread flour",
+            "2 tablespoons white sugar",
+            "1 ½ teaspoons salt",
+            "2 ¼ teaspoons active dry yeast",
+            "1 tablespoon cornmeal",
+            "3 tablespoons white sugar",
+            "1 large egg white, beaten",
+            "3 tablespoons poppy seeds"
+        ],
+        "directions_raw": [
+            "Place water, flour, 2 tablespoons sugar, salt, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. Run 'Dough' cycle. Remove dough from the machine after the cycle is done, about 90 minutes.",
+            "Place dough onto a lightly floured surface and let rest for 10 to 15 minutes.",
+            "Cut dough into nine equal pieces. Roll each piece into a small ball and flatten into a circle. Poke a hole in the middle of each circle with your thumb. Poke your thumb through the hole and twirl each circle a bit to enlarge the hole and to even out dough around the hole. Place back onto the floured surface, cover with a clean cloth, and let rest for 10 minutes.",
+            "While dough is resting, bring 3 quarts water to a boil in a large pot. Preheat the oven to 375 degrees F (190 degrees C). Sprinkle cornmeal onto an ungreased baking sheet.",
+            "Stir 3 tablespoons sugar into boiling water. Working in batches, carefully transfer two bagels at a time to the boiling water and boil for 1 minute, turning halfway through. Drain briefly on a clean towel, then arrange on the prepared baking sheet. Brush with egg white and sprinkle with poppy seeds.",
+            "When all bagels have been boiled and topped with poppy seeds, bake in the preheated oven until golden brown, 20 to 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "warm water degrees f degrees c",
+            "bread flour",
+            "white sugar",
+            "½ salt",
+            "¼ active dry yeast",
+            "cornmeal",
+            "white sugar",
+            "large egg white beaten",
+            "poppy seeds"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 6,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 115,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Boiled Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "Bagels that are boiled before being baked.",
+        "ingredients": [
+            "4 ¼ cups all-purpose flour, divided, or as needed",
+            "2 (.25 ounce) packages active dry yeast",
+            "1 ½ cups warm water (110 degrees F/45 degrees C)",
+            "4 tablespoons white sugar, divided",
+            "1 tablespoon salt"
+        ],
+        "directions": [
+            "Combine 1 1/2 cups flour and yeast in a large bowl. Mix water, 3 tablespoons sugar, and salt together; add to dry ingredients. Beat with a mixer for half a minute at low speed, scraping the sides of the bowl clean. Beat at a higher speed for 3 minutes. Then mix in enough flour by hand to make a moderately stiff dough.",
+            "Turn out onto a lightly floured surface and knead until smooth and elastic, 8 to 10 minutes. Cover and let rest for 15 minutes.",
+            "Cut into 12 portions and shape into smooth balls. Poke a hole in the center with your finger, and gently enlarge the hole while working the bagel into a uniform shape. Cover and let rise for 20 minutes.",
+            "Meanwhile, start a gallon of water boiling. Add in remaining 1 tablespoon sugar and mix it around a bit. Reduce to simmering.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "When bagels have risen, put 4 or 5 bagels into the water and cook for 7 minutes, turning once. Drain.",
+            "Place drained bagels on a greased baking sheet and bake in the preheated oven for 30 to 35 minutes. Remove from the oven and eat hot or cold."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 7,
+        "ingredient_text": "¼ all-purpose flour divided as needed ounce packages active dry yeast ½ warm water degrees f degrees c white sugar divided salt",
+        "directions_text": "combine 1 1/2 cups flour and yeast in a large bowl. mix water, 3 tablespoons sugar, and salt together; add to dry ingredients. beat with a mixer for half a minute at low speed, scraping the sides of the bowl clean. beat at a higher speed for 3 minutes. then mix in enough flour by hand to make a moderately stiff dough. turn out onto a lightly floured surface and knead until smooth and elastic, 8 to 10 minutes. cover and let rest for 15 minutes. cut into 12 portions and shape into smooth balls. poke a hole in the center with your finger, and gently enlarge the hole while working the bagel into a uniform shape. cover and let rise for 20 minutes. meanwhile, start a gallon of water boiling. add in remaining 1 tablespoon sugar and mix it around a bit. reduce to simmering. preheat the oven to 375 degrees f (190 degrees c). when bagels have risen, put 4 or 5 bagels into the water and cook for 7 minutes, turning once. drain. place drained bagels on a greased baking sheet and bake in the preheated oven for 30 to 35 minutes. remove from the oven and eat hot or cold.",
+        "combined_text": "boiled bagels bagels bagels 4 ¼ cups all-purpose flour, divided, or as needed 2 (.25 ounce) packages active dry yeast 1 ½ cups warm water (110 degrees f/45 degrees c) 4 tablespoons white sugar, divided 1 tablespoon salt combine 1 1/2 cups flour and yeast in a large bowl. mix water, 3 tablespoons sugar, and salt together; add to dry ingredients. beat with a mixer for half a minute at low speed, scraping the sides of the bowl clean. beat at a higher speed for 3 minutes. then mix in enough flour by hand to make a moderately stiff dough. turn out onto a lightly floured surface and knead until smooth and elastic, 8 to 10 minutes. cover and let rest for 15 minutes. cut into 12 portions and shape into smooth balls. poke a hole in the center with your finger, and gently enlarge the hole while working the bagel into a uniform shape. cover and let rise for 20 minutes. meanwhile, start a gallon of water boiling. add in remaining 1 tablespoon sugar and mix it around a bit. reduce to simmering. preheat the oven to 375 degrees f (190 degrees c). when bagels have risen, put 4 or 5 bagels into the water and cook for 7 minutes, turning once. drain. place drained bagels on a greased baking sheet and bake in the preheated oven for 30 to 35 minutes. remove from the oven and eat hot or cold.",
+        "ingredients_raw": [
+            "4 ¼ cups all-purpose flour, divided, or as needed",
+            "2 (.25 ounce) packages active dry yeast",
+            "1 ½ cups warm water (110 degrees F/45 degrees C)",
+            "4 tablespoons white sugar, divided",
+            "1 tablespoon salt"
+        ],
+        "directions_raw": [
+            "Combine 1 1/2 cups flour and yeast in a large bowl. Mix water, 3 tablespoons sugar, and salt together; add to dry ingredients. Beat with a mixer for half a minute at low speed, scraping the sides of the bowl clean. Beat at a higher speed for 3 minutes. Then mix in enough flour by hand to make a moderately stiff dough.",
+            "Turn out onto a lightly floured surface and knead until smooth and elastic, 8 to 10 minutes. Cover and let rest for 15 minutes.",
+            "Cut into 12 portions and shape into smooth balls. Poke a hole in the center with your finger, and gently enlarge the hole while working the bagel into a uniform shape. Cover and let rise for 20 minutes.",
+            "Meanwhile, start a gallon of water boiling. Add in remaining 1 tablespoon sugar and mix it around a bit. Reduce to simmering.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "When bagels have risen, put 4 or 5 bagels into the water and cook for 7 minutes, turning once. Drain.",
+            "Place drained bagels on a greased baking sheet and bake in the preheated oven for 30 to 35 minutes. Remove from the oven and eat hot or cold."
+        ],
+        "ingredients_canonical": [
+            "¼ all-purpose flour divided as needed",
+            "ounce packages active dry yeast",
+            "½ warm water degrees f degrees c",
+            "white sugar divided",
+            "salt"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 6,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 108,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Everything Bagel Grilled Cheese",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "This everything bagel grilled cheese is taken to another level just by starting with an everything-seasoned bagel. It's perfectly crunchy on the outside, and really, any melty cheese will work.",
+        "ingredients": [
+            "1 everything bagel,",
+            "1 tablespoon mayonnaise",
+            "1 slice American cheese",
+            "1 slice rovolone cheese"
+        ],
+        "directions": [
+            "Preheat a skillet over medium heat. Slather 1/2 tablespoon mayonnaise on each cut side of bagel.",
+            "Place 1 bagel half, mayonnaise side down, in the skillet. Place both slices of cheese on top; then place second bagel half, cut side up, on top of cheese.",
+            "Press down on sandwich with a spatula, and cook until golden brown, 2 to 4 minutes. Flip sandwich over, press down, and cook until browned, 2 to 4 minutes more."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "everything bagel mayonnaise slice american cheese slice rovolone cheese",
+        "directions_text": "preheat a skillet over medium heat. slather 1/2 tablespoon mayonnaise on each cut side of bagel. place 1 bagel half, mayonnaise side down, in the skillet. place both slices of cheese on top; then place second bagel half, cut side up, on top of cheese. press down on sandwich with a spatula, and cook until golden brown, 2 to 4 minutes. flip sandwich over, press down, and cook until browned, 2 to 4 minutes more.",
+        "combined_text": "everything bagel grilled cheese bagels bagels 1 everything bagel, 1 tablespoon mayonnaise 1 slice american cheese 1 slice rovolone cheese preheat a skillet over medium heat. slather 1/2 tablespoon mayonnaise on each cut side of bagel. place 1 bagel half, mayonnaise side down, in the skillet. place both slices of cheese on top; then place second bagel half, cut side up, on top of cheese. press down on sandwich with a spatula, and cook until golden brown, 2 to 4 minutes. flip sandwich over, press down, and cook until browned, 2 to 4 minutes more.",
+        "ingredients_raw": [
+            "1 everything bagel,",
+            "1 tablespoon mayonnaise",
+            "1 slice American cheese",
+            "1 slice rovolone cheese"
+        ],
+        "directions_raw": [
+            "Preheat a skillet over medium heat. Slather 1/2 tablespoon mayonnaise on each cut side of bagel.",
+            "Place 1 bagel half, mayonnaise side down, in the skillet. Place both slices of cheese on top; then place second bagel half, cut side up, on top of cheese.",
+            "Press down on sandwich with a spatula, and cook until golden brown, 2 to 4 minutes. Flip sandwich over, press down, and cook until browned, 2 to 4 minutes more."
+        ],
+        "ingredients_canonical": [
+            "everything bagel",
+            "mayonnaise",
+            "slice american cheese",
+            "slice rovolone cheese"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 8,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pumpernickel Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "These pumpernickel bagels can be made at home with hearty dark rye flour. Cocoa, coffee, and caraway seeds make these taste so good!",
+        "ingredients": [
+            "1 ¼ cups warm water",
+            "1 cup whole-wheat flour",
+            "4 teaspoons active dry yeast",
+            "1 cup rye flour",
+            "½ cup molasses",
+            "⅓ cup unsweetened cocoa powder",
+            "1 tablespoon vegetable oil",
+            "1 tablespoon instant coffee granules",
+            "1 tablespoon caraway seeds",
+            "1 ½ teaspoons salt",
+            "1 ¼ cups all-purpose flour",
+            "1 gallon water"
+        ],
+        "directions": [
+            "Combine warm water, whole-wheat flour, and yeast in a small bowl. Let stand until the yeast softens and begins to froth and bubble, about 10 minutes.",
+            "Mix rye flour, molasses, cocoa powder, vegetable oil, coffee granules, caraway seeds, and salt in a large bowl. Add yeast mixture and all-purpose flour. Turn dough onto a floured surface; knead until smooth and elastic, about 10 minutes. Grease a large bowl.",
+            "Transfer dough to greased bowl; cover with a warm damp towel or plastic wrap. Let rise in a warm area until doubled in size, about 1 hour.",
+            "Preheat the oven to 450 degrees F (230 degrees C). Grease a baking sheet.",
+            "Bring water to a boil in a large pot. Divide dough into 13 pieces; shape into balls. Press a hole into the center of each dough ball; pull dough to form a 1-inch hole in the center, keeping dough about 1/2-inch thick. Drop dough circles into boiling water, 3 or 4 at a time. Boil each side for 45 seconds. Remove with a slotted spoon and drain for about 1 minute. Arrange boiled bagels on the prepared baking sheet.",
+            "Bake bagels in the preheated oven until just starting to brown on the bottom, 8 to 10 minutes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 6,
+        "ingredient_text": "¼ warm water whole-wheat flour active dry yeast rye flour ½ molasses ⅓ unsweetened cocoa powder vegetable oil instant coffee granules caraway seeds ½ salt ¼ all-purpose flour gallon water",
+        "directions_text": "combine warm water, whole-wheat flour, and yeast in a small bowl. let stand until the yeast softens and begins to froth and bubble, about 10 minutes. mix rye flour, molasses, cocoa powder, vegetable oil, coffee granules, caraway seeds, and salt in a large bowl. add yeast mixture and all-purpose flour. turn dough onto a floured surface; knead until smooth and elastic, about 10 minutes. grease a large bowl. transfer dough to greased bowl; cover with a warm damp towel or plastic wrap. let rise in a warm area until doubled in size, about 1 hour. preheat the oven to 450 degrees f (230 degrees c). grease a baking sheet. bring water to a boil in a large pot. divide dough into 13 pieces; shape into balls. press a hole into the center of each dough ball; pull dough to form a 1-inch hole in the center, keeping dough about 1/2-inch thick. drop dough circles into boiling water, 3 or 4 at a time. boil each side for 45 seconds. remove with a slotted spoon and drain for about 1 minute. arrange boiled bagels on the prepared baking sheet. bake bagels in the preheated oven until just starting to brown on the bottom, 8 to 10 minutes.",
+        "combined_text": "pumpernickel bagels bagels bagels 1 ¼ cups warm water 1 cup whole-wheat flour 4 teaspoons active dry yeast 1 cup rye flour ½ cup molasses ⅓ cup unsweetened cocoa powder 1 tablespoon vegetable oil 1 tablespoon instant coffee granules 1 tablespoon caraway seeds 1 ½ teaspoons salt 1 ¼ cups all-purpose flour 1 gallon water combine warm water, whole-wheat flour, and yeast in a small bowl. let stand until the yeast softens and begins to froth and bubble, about 10 minutes. mix rye flour, molasses, cocoa powder, vegetable oil, coffee granules, caraway seeds, and salt in a large bowl. add yeast mixture and all-purpose flour. turn dough onto a floured surface; knead until smooth and elastic, about 10 minutes. grease a large bowl. transfer dough to greased bowl; cover with a warm damp towel or plastic wrap. let rise in a warm area until doubled in size, about 1 hour. preheat the oven to 450 degrees f (230 degrees c). grease a baking sheet. bring water to a boil in a large pot. divide dough into 13 pieces; shape into balls. press a hole into the center of each dough ball; pull dough to form a 1-inch hole in the center, keeping dough about 1/2-inch thick. drop dough circles into boiling water, 3 or 4 at a time. boil each side for 45 seconds. remove with a slotted spoon and drain for about 1 minute. arrange boiled bagels on the prepared baking sheet. bake bagels in the preheated oven until just starting to brown on the bottom, 8 to 10 minutes.",
+        "ingredients_raw": [
+            "1 ¼ cups warm water",
+            "1 cup whole-wheat flour",
+            "4 teaspoons active dry yeast",
+            "1 cup rye flour",
+            "½ cup molasses",
+            "⅓ cup unsweetened cocoa powder",
+            "1 tablespoon vegetable oil",
+            "1 tablespoon instant coffee granules",
+            "1 tablespoon caraway seeds",
+            "1 ½ teaspoons salt",
+            "1 ¼ cups all-purpose flour",
+            "1 gallon water"
+        ],
+        "directions_raw": [
+            "Combine warm water, whole-wheat flour, and yeast in a small bowl. Let stand until the yeast softens and begins to froth and bubble, about 10 minutes.",
+            "Mix rye flour, molasses, cocoa powder, vegetable oil, coffee granules, caraway seeds, and salt in a large bowl. Add yeast mixture and all-purpose flour. Turn dough onto a floured surface; knead until smooth and elastic, about 10 minutes. Grease a large bowl.",
+            "Transfer dough to greased bowl; cover with a warm damp towel or plastic wrap. Let rise in a warm area until doubled in size, about 1 hour.",
+            "Preheat the oven to 450 degrees F (230 degrees C). Grease a baking sheet.",
+            "Bring water to a boil in a large pot. Divide dough into 13 pieces; shape into balls. Press a hole into the center of each dough ball; pull dough to form a 1-inch hole in the center, keeping dough about 1/2-inch thick. Drop dough circles into boiling water, 3 or 4 at a time. Boil each side for 45 seconds. Remove with a slotted spoon and drain for about 1 minute. Arrange boiled bagels on the prepared baking sheet.",
+            "Bake bagels in the preheated oven until just starting to brown on the bottom, 8 to 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "¼ warm water",
+            "whole-wheat flour",
+            "active dry yeast",
+            "rye flour",
+            "½ molasses",
+            "⅓ unsweetened cocoa powder",
+            "vegetable oil",
+            "instant coffee granules",
+            "caraway seeds",
+            "½ salt",
+            "¼ all-purpose flour",
+            "gallon water"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 74,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Moist Passover Bagel",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "Moist Passover bagels that are soft and fluffy. They make matzo take on a new light. You can still have a sandwich on Passover.",
+        "ingredients": [
+            "cooking spray",
+            "1 ⅓ cups water",
+            "⅔ cup peanut oil",
+            "1 teaspoon salt",
+            "1 teaspoon white sugar",
+            "2 cups matzo meal",
+            "6 large eggs"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet with cooking spray.",
+            "Combine water, oil, salt, and sugar in a large saucepan and bring to a boil. Remove from heat. Stir in matzo meal until well combined; allow to cool for at least 5 minutes. Add eggs, 2 at a time, stirring to incorporate into dough after each addition.",
+            "Form 2 tablespoons dough into a ball using wet hands. Transfer to the prepared baking sheet. Repeat with remaining dough. Poke a hole into the middle of each ball.",
+            "Bake in the preheated oven until lightly brown, 50 to 60 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "cooking spray ⅓ water ⅔ peanut oil salt white sugar matzo meal large eggs",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). lightly grease a baking sheet with cooking spray. combine water, oil, salt, and sugar in a large saucepan and bring to a boil. remove from heat. stir in matzo meal until well combined; allow to cool for at least 5 minutes. add eggs, 2 at a time, stirring to incorporate into dough after each addition. form 2 tablespoons dough into a ball using wet hands. transfer to the prepared baking sheet. repeat with remaining dough. poke a hole into the middle of each ball. bake in the preheated oven until lightly brown, 50 to 60 minutes.",
+        "combined_text": "moist passover bagel bagels bagels cooking spray 1 ⅓ cups water ⅔ cup peanut oil 1 teaspoon salt 1 teaspoon white sugar 2 cups matzo meal 6 large eggs preheat the oven to 375 degrees f (190 degrees c). lightly grease a baking sheet with cooking spray. combine water, oil, salt, and sugar in a large saucepan and bring to a boil. remove from heat. stir in matzo meal until well combined; allow to cool for at least 5 minutes. add eggs, 2 at a time, stirring to incorporate into dough after each addition. form 2 tablespoons dough into a ball using wet hands. transfer to the prepared baking sheet. repeat with remaining dough. poke a hole into the middle of each ball. bake in the preheated oven until lightly brown, 50 to 60 minutes.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 ⅓ cups water",
+            "⅔ cup peanut oil",
+            "1 teaspoon salt",
+            "1 teaspoon white sugar",
+            "2 cups matzo meal",
+            "6 large eggs"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet with cooking spray.",
+            "Combine water, oil, salt, and sugar in a large saucepan and bring to a boil. Remove from heat. Stir in matzo meal until well combined; allow to cool for at least 5 minutes. Add eggs, 2 at a time, stirring to incorporate into dough after each addition.",
+            "Form 2 tablespoons dough into a ball using wet hands. Transfer to the prepared baking sheet. Repeat with remaining dough. Poke a hole into the middle of each ball.",
+            "Bake in the preheated oven until lightly brown, 50 to 60 minutes."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "⅓ water",
+            "⅔ peanut oil",
+            "salt",
+            "white sugar",
+            "matzo meal",
+            "large eggs"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Multigrain Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "I added flaxseed meal, wheat germ, rolled oats, and whole wheat flour to a recipe I adapted from the Minneapolis Star-Tribune. This multigrain bagel recipe yields 16 bagels that won't get lost in your toaster. These bagels are best served toasted. My kids love them topped with cream cheese and a thin layer of strawberry jam. Store in a resealable plastic bag.",
+        "ingredients": [
+            "½ cup warm water (105 degrees F/41 degrees C)",
+            "2 (.25 ounce) packages active dry yeast",
+            "½ teaspoon white sugar",
+            "4 cups whole wheat flour",
+            "2 cups bread flour",
+            "1 cup rolled oats",
+            "¼ cup vital wheat gluten",
+            "¼ cup wheat germ",
+            "¼ cup organic flaxseed meal",
+            "1 tablespoon sea salt",
+            "3 cups buttermilk",
+            "⅓ cup orange blossom honey",
+            "cooking spray",
+            "3 quarts water",
+            "1 ½ tablespoons brown sugar",
+            "1 tablespoon cornmeal, or as needed",
+            "1 egg white",
+            "1 teaspoon cool water"
+        ],
+        "directions": [
+            "Combine warm water, yeast, and sugar in a bowl. Let stand until yeast and sugar dissolved and a creamy foam begins to form, about 5 minutes.",
+            "Combine bread flour, whole wheat flour, rolled oats, vital wheat gluten, wheat germ, flaxseed meal, and sea salt in a large bowl; stir in buttermilk. Add yeast mixture and honey; stir until no dry spots remain. Cover the bowl with plastic wrap; let dough rest 20 minutes.",
+            "Turn dough out onto a floured surface; knead about 7 minutes, it will be soft and slightly sticky. Add more flour if needed. Shape into a ball. Coat a mixing bowl with cooking spray. Place dough in the bowl and turn to coat. Cover the bowl with plastic wrap; let rise in a warm, draft-free place for 2 hours.",
+            "Turn dough onto a floured surface; knead briefly. Cut dough in half; return half to the bowl and cover. Form other half into a cylinder. Cut into quarters and cut quarters in half, yielding 8 equal-sized pieces of dough. Shape dough pieces into balls. Repeat with remaining dough half.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line one 11x17-inch baking sheet with waxed paper, another baking sheet with a flour sack towel, and two other baking sheets with parchment paper sprinkled with cornmeal.",
+            "Combine 3 quarts water and brown sugar in a large pot; bring to a boil.",
+            "Meanwhile, flatten 1 dough ball slightly; press index fingers through the center until they meet. Rotate fingers to stretch a hole about 1 ¾-inch in diameter. Set bagel on waxed paper-lined baking sheet. Repeat with remaining dough balls.",
+            "Reduce heat under brown sugar water until simmering. Add 2 bagels at at time to water; boil 30 seconds per side. Transfer boiled bagels to the towel-lined baking sheet to drain, then transfer bagels to the parchment paper-lined baking sheets. Repeat with remaining bagels.",
+            "Whisk egg white and 1 teaspoon cool water together in a small bowl; brush onto tops of bagels.",
+            "Bake in the preheated oven for 12 minutes. Flip bagels and continue baking until golden brown, about 13 minutes more.",
+            "Transfer bagels to a wire rack to cool."
+        ],
+        "num_ingredients": 18,
+        "num_steps": 11,
+        "ingredient_text": "½ warm water degrees f degrees c ounce packages active dry yeast ½ white sugar whole wheat flour bread flour rolled oats ¼ vital wheat gluten ¼ wheat germ ¼ organic flaxseed meal sea salt buttermilk ⅓ orange blossom honey cooking spray quarts water ½ brown sugar cornmeal as needed egg white cool water",
+        "directions_text": "combine warm water, yeast, and sugar in a bowl. let stand until yeast and sugar dissolved and a creamy foam begins to form, about 5 minutes. combine bread flour, whole wheat flour, rolled oats, vital wheat gluten, wheat germ, flaxseed meal, and sea salt in a large bowl; stir in buttermilk. add yeast mixture and honey; stir until no dry spots remain. cover the bowl with plastic wrap; let dough rest 20 minutes. turn dough out onto a floured surface; knead about 7 minutes, it will be soft and slightly sticky. add more flour if needed. shape into a ball. coat a mixing bowl with cooking spray. place dough in the bowl and turn to coat. cover the bowl with plastic wrap; let rise in a warm, draft-free place for 2 hours. turn dough onto a floured surface; knead briefly. cut dough in half; return half to the bowl and cover. form other half into a cylinder. cut into quarters and cut quarters in half, yielding 8 equal-sized pieces of dough. shape dough pieces into balls. repeat with remaining dough half. preheat the oven to 400 degrees f (200 degrees c). line one 11x17-inch baking sheet with waxed paper, another baking sheet with a flour sack towel, and two other baking sheets with parchment paper sprinkled with cornmeal. combine 3 quarts water and brown sugar in a large pot; bring to a boil. meanwhile, flatten 1 dough ball slightly; press index fingers through the center until they meet. rotate fingers to stretch a hole about 1 ¾-inch in diameter. set bagel on waxed paper-lined baking sheet. repeat with remaining dough balls. reduce heat under brown sugar water until simmering. add 2 bagels at at time to water; boil 30 seconds per side. transfer boiled bagels to the towel-lined baking sheet to drain, then transfer bagels to the parchment paper-lined baking sheets. repeat with remaining bagels. whisk egg white and 1 teaspoon cool water together in a small bowl; brush onto tops of bagels. bake in the preheated oven for 12 minutes. flip bagels and continue baking until golden brown, about 13 minutes more. transfer bagels to a wire rack to cool.",
+        "combined_text": "multigrain bagels bagels bagels ½ cup warm water (105 degrees f/41 degrees c) 2 (.25 ounce) packages active dry yeast ½ teaspoon white sugar 4 cups whole wheat flour 2 cups bread flour 1 cup rolled oats ¼ cup vital wheat gluten ¼ cup wheat germ ¼ cup organic flaxseed meal 1 tablespoon sea salt 3 cups buttermilk ⅓ cup orange blossom honey cooking spray 3 quarts water 1 ½ tablespoons brown sugar 1 tablespoon cornmeal, or as needed 1 egg white 1 teaspoon cool water combine warm water, yeast, and sugar in a bowl. let stand until yeast and sugar dissolved and a creamy foam begins to form, about 5 minutes. combine bread flour, whole wheat flour, rolled oats, vital wheat gluten, wheat germ, flaxseed meal, and sea salt in a large bowl; stir in buttermilk. add yeast mixture and honey; stir until no dry spots remain. cover the bowl with plastic wrap; let dough rest 20 minutes. turn dough out onto a floured surface; knead about 7 minutes, it will be soft and slightly sticky. add more flour if needed. shape into a ball. coat a mixing bowl with cooking spray. place dough in the bowl and turn to coat. cover the bowl with plastic wrap; let rise in a warm, draft-free place for 2 hours. turn dough onto a floured surface; knead briefly. cut dough in half; return half to the bowl and cover. form other half into a cylinder. cut into quarters and cut quarters in half, yielding 8 equal-sized pieces of dough. shape dough pieces into balls. repeat with remaining dough half. preheat the oven to 400 degrees f (200 degrees c). line one 11x17-inch baking sheet with waxed paper, another baking sheet with a flour sack towel, and two other baking sheets with parchment paper sprinkled with cornmeal. combine 3 quarts water and brown sugar in a large pot; bring to a boil. meanwhile, flatten 1 dough ball slightly; press index fingers through the center until they meet. rotate fingers to stretch a hole about 1 ¾-inch in diameter. set bagel on waxed paper-lined baking sheet. repeat with remaining dough balls. reduce heat under brown sugar water until simmering. add 2 bagels at at time to water; boil 30 seconds per side. transfer boiled bagels to the towel-lined baking sheet to drain, then transfer bagels to the parchment paper-lined baking sheets. repeat with remaining bagels. whisk egg white and 1 teaspoon cool water together in a small bowl; brush onto tops of bagels. bake in the preheated oven for 12 minutes. flip bagels and continue baking until golden brown, about 13 minutes more. transfer bagels to a wire rack to cool.",
+        "ingredients_raw": [
+            "½ cup warm water (105 degrees F/41 degrees C)",
+            "2 (.25 ounce) packages active dry yeast",
+            "½ teaspoon white sugar",
+            "4 cups whole wheat flour",
+            "2 cups bread flour",
+            "1 cup rolled oats",
+            "¼ cup vital wheat gluten",
+            "¼ cup wheat germ",
+            "¼ cup organic flaxseed meal",
+            "1 tablespoon sea salt",
+            "3 cups buttermilk",
+            "⅓ cup orange blossom honey",
+            "cooking spray",
+            "3 quarts water",
+            "1 ½ tablespoons brown sugar",
+            "1 tablespoon cornmeal, or as needed",
+            "1 egg white",
+            "1 teaspoon cool water"
+        ],
+        "directions_raw": [
+            "Combine warm water, yeast, and sugar in a bowl. Let stand until yeast and sugar dissolved and a creamy foam begins to form, about 5 minutes.",
+            "Combine bread flour, whole wheat flour, rolled oats, vital wheat gluten, wheat germ, flaxseed meal, and sea salt in a large bowl; stir in buttermilk. Add yeast mixture and honey; stir until no dry spots remain. Cover the bowl with plastic wrap; let dough rest 20 minutes.",
+            "Turn dough out onto a floured surface; knead about 7 minutes, it will be soft and slightly sticky. Add more flour if needed. Shape into a ball. Coat a mixing bowl with cooking spray. Place dough in the bowl and turn to coat. Cover the bowl with plastic wrap; let rise in a warm, draft-free place for 2 hours.",
+            "Turn dough onto a floured surface; knead briefly. Cut dough in half; return half to the bowl and cover. Form other half into a cylinder. Cut into quarters and cut quarters in half, yielding 8 equal-sized pieces of dough. Shape dough pieces into balls. Repeat with remaining dough half.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line one 11x17-inch baking sheet with waxed paper, another baking sheet with a flour sack towel, and two other baking sheets with parchment paper sprinkled with cornmeal.",
+            "Combine 3 quarts water and brown sugar in a large pot; bring to a boil.",
+            "Meanwhile, flatten 1 dough ball slightly; press index fingers through the center until they meet. Rotate fingers to stretch a hole about 1 ¾-inch in diameter. Set bagel on waxed paper-lined baking sheet. Repeat with remaining dough balls.",
+            "Reduce heat under brown sugar water until simmering. Add 2 bagels at at time to water; boil 30 seconds per side. Transfer boiled bagels to the towel-lined baking sheet to drain, then transfer bagels to the parchment paper-lined baking sheets. Repeat with remaining bagels.",
+            "Whisk egg white and 1 teaspoon cool water together in a small bowl; brush onto tops of bagels.",
+            "Bake in the preheated oven for 12 minutes. Flip bagels and continue baking until golden brown, about 13 minutes more.",
+            "Transfer bagels to a wire rack to cool."
+        ],
+        "ingredients_canonical": [
+            "½ warm water degrees f degrees c",
+            "ounce packages active dry yeast",
+            "½ white sugar",
+            "whole wheat flour",
+            "bread flour",
+            "rolled oats",
+            "¼ vital wheat gluten",
+            "¼ wheat germ",
+            "¼ organic flaxseed meal",
+            "sea salt",
+            "buttermilk",
+            "⅓ orange blossom honey",
+            "cooking spray",
+            "quarts water",
+            "½ brown sugar",
+            "cornmeal as needed",
+            "egg white",
+            "cool water"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 17,
+        "slow_hits": 8,
+        "medium_hits": 11,
+        "cook_speed": "fast",
+        "est_prep_time_min": 46,
+        "est_cook_time_min": 184,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Air Fryer Everything Bagel Bites",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "Chewy bagel bites made with Boursin® cheese and the popular \"everything bagel seasoning\" will have everybody asking for more.",
+        "ingredients": [
+            "cooking spray",
+            "1 cup all-purpose flour",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 cup fat-free Greek yogurt (such as Fage®)",
+            "¼ cup garlic and herb cheese spread (such as Boursin®)",
+            "1 large egg white, beaten",
+            "2 teaspoons everything bagel seasoning"
+        ],
+        "directions": [
+            "Preheat an air fryer to 330 degrees F (165 degrees C). Spray the air fryer basket with cooking spray and set aside.",
+            "Whisk flour, baking powder, and salt together in a bowl. Add yogurt and mix with a fork until well combined.",
+            "Dust a work surface with flour. Remove dough from the bowl, and knead until no longer sticky, about 12 times. Add a little bit more flour if necessary.",
+            "Evenly divide dough into 8 pieces and flatten into circles with the palm of your hand. Place 1/2 tablespoon cheese spread in the center of each circle. Pull up the edges of the dough to cover the cheese, roll into a ball, and pinch the seams closed.",
+            "Brush each bagel bite with egg white and sprinkle with bagel seasoning.",
+            "Transfer bagel bites, seam sides down, into the prepared air fryer basket. Do not overcrowd. Depending on the size of your air fryer, you may have to do 2 batches.",
+            "Air fry until golden, 10 to 12 minutes. Remove bagel bites from the basket, and cool for about 10 minutes before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 7,
+        "ingredient_text": "cooking spray all-purpose flour baking powder ½ salt fat-free greek yogurt such as fage ¼ garlic herb cheese spread such as boursin large egg white beaten everything bagel seasoning",
+        "directions_text": "preheat an air fryer to 330 degrees f (165 degrees c). spray the air fryer basket with cooking spray and set aside. whisk flour, baking powder, and salt together in a bowl. add yogurt and mix with a fork until well combined. dust a work surface with flour. remove dough from the bowl, and knead until no longer sticky, about 12 times. add a little bit more flour if necessary. evenly divide dough into 8 pieces and flatten into circles with the palm of your hand. place 1/2 tablespoon cheese spread in the center of each circle. pull up the edges of the dough to cover the cheese, roll into a ball, and pinch the seams closed. brush each bagel bite with egg white and sprinkle with bagel seasoning. transfer bagel bites, seam sides down, into the prepared air fryer basket. do not overcrowd. depending on the size of your air fryer, you may have to do 2 batches. air fry until golden, 10 to 12 minutes. remove bagel bites from the basket, and cool for about 10 minutes before serving.",
+        "combined_text": "air fryer everything bagel bites bagels bagels cooking spray 1 cup all-purpose flour 2 teaspoons baking powder ½ teaspoon salt 1 cup fat-free greek yogurt (such as fage®) ¼ cup garlic and herb cheese spread (such as boursin®) 1 large egg white, beaten 2 teaspoons everything bagel seasoning preheat an air fryer to 330 degrees f (165 degrees c). spray the air fryer basket with cooking spray and set aside. whisk flour, baking powder, and salt together in a bowl. add yogurt and mix with a fork until well combined. dust a work surface with flour. remove dough from the bowl, and knead until no longer sticky, about 12 times. add a little bit more flour if necessary. evenly divide dough into 8 pieces and flatten into circles with the palm of your hand. place 1/2 tablespoon cheese spread in the center of each circle. pull up the edges of the dough to cover the cheese, roll into a ball, and pinch the seams closed. brush each bagel bite with egg white and sprinkle with bagel seasoning. transfer bagel bites, seam sides down, into the prepared air fryer basket. do not overcrowd. depending on the size of your air fryer, you may have to do 2 batches. air fry until golden, 10 to 12 minutes. remove bagel bites from the basket, and cool for about 10 minutes before serving.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 cup all-purpose flour",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 cup fat-free Greek yogurt (such as Fage®)",
+            "¼ cup garlic and herb cheese spread (such as Boursin®)",
+            "1 large egg white, beaten",
+            "2 teaspoons everything bagel seasoning"
+        ],
+        "directions_raw": [
+            "Preheat an air fryer to 330 degrees F (165 degrees C). Spray the air fryer basket with cooking spray and set aside.",
+            "Whisk flour, baking powder, and salt together in a bowl. Add yogurt and mix with a fork until well combined.",
+            "Dust a work surface with flour. Remove dough from the bowl, and knead until no longer sticky, about 12 times. Add a little bit more flour if necessary.",
+            "Evenly divide dough into 8 pieces and flatten into circles with the palm of your hand. Place 1/2 tablespoon cheese spread in the center of each circle. Pull up the edges of the dough to cover the cheese, roll into a ball, and pinch the seams closed.",
+            "Brush each bagel bite with egg white and sprinkle with bagel seasoning.",
+            "Transfer bagel bites, seam sides down, into the prepared air fryer basket. Do not overcrowd. Depending on the size of your air fryer, you may have to do 2 batches.",
+            "Air fry until golden, 10 to 12 minutes. Remove bagel bites from the basket, and cool for about 10 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "all-purpose flour",
+            "baking powder",
+            "½ salt",
+            "fat-free greek yogurt such as fage",
+            "¼ garlic herb cheese spread such as boursin",
+            "large egg white beaten",
+            "everything bagel seasoning"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Two-Ingredient Air Fryer Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "The base for these homemade bagels is a popular 2-ingredient pizza dough recipe. No yeast, no waiting for dough to rise, no boiling necessary. In and out of the air fryer in about 15 minutes. Optional toppings are everything bagel seasoning, poppy seeds, sesame seeds, or dried onion flakes.",
+        "ingredients": [
+            "1 ¼ cups self-rising flour",
+            "1 cup full-fat plain Greek yogurt"
+        ],
+        "directions": [
+            "Using a fork, mix flour and Greek yogurt together in a medium bowl until a crumbly dough forms. If mixture is too thick, add a little more yogurt or if too sticky, add a bit more flour.",
+            "Transfer dough to a lightly floured work surface, and knead until smooth, 5 to 7 minutes. Divide the dough evenly into 4 balls, rolling and stretching each into 3/4-inch thick ropes that are about 8- to 9-inches long. Connect both ends, pinching and sealing to form a bagel. Brush with egg white, and sprinkle with bagel seasoning.",
+            "Preheat an air fryer to 280 degrees F (137 degrees C). Line the fryer basket with a parchment liner or spray lightly with cooking spray.",
+            "Place the bagels in the basket, and cook until golden brown, 15 to 16 minutes. Do not crowd the basket, and cook in two batches if your air fryer is small.",
+            "Remove to a rack, and cool for about 15 minutes before slicing."
+        ],
+        "num_ingredients": 2,
+        "num_steps": 5,
+        "ingredient_text": "¼ self-rising flour full-fat plain greek yogurt",
+        "directions_text": "using a fork, mix flour and greek yogurt together in a medium bowl until a crumbly dough forms. if mixture is too thick, add a little more yogurt or if too sticky, add a bit more flour. transfer dough to a lightly floured work surface, and knead until smooth, 5 to 7 minutes. divide the dough evenly into 4 balls, rolling and stretching each into 3/4-inch thick ropes that are about 8- to 9-inches long. connect both ends, pinching and sealing to form a bagel. brush with egg white, and sprinkle with bagel seasoning. preheat an air fryer to 280 degrees f (137 degrees c). line the fryer basket with a parchment liner or spray lightly with cooking spray. place the bagels in the basket, and cook until golden brown, 15 to 16 minutes. do not crowd the basket, and cook in two batches if your air fryer is small. remove to a rack, and cool for about 15 minutes before slicing.",
+        "combined_text": "two-ingredient air fryer bagels bagels bagels 1 ¼ cups self-rising flour 1 cup full-fat plain greek yogurt using a fork, mix flour and greek yogurt together in a medium bowl until a crumbly dough forms. if mixture is too thick, add a little more yogurt or if too sticky, add a bit more flour. transfer dough to a lightly floured work surface, and knead until smooth, 5 to 7 minutes. divide the dough evenly into 4 balls, rolling and stretching each into 3/4-inch thick ropes that are about 8- to 9-inches long. connect both ends, pinching and sealing to form a bagel. brush with egg white, and sprinkle with bagel seasoning. preheat an air fryer to 280 degrees f (137 degrees c). line the fryer basket with a parchment liner or spray lightly with cooking spray. place the bagels in the basket, and cook until golden brown, 15 to 16 minutes. do not crowd the basket, and cook in two batches if your air fryer is small. remove to a rack, and cool for about 15 minutes before slicing.",
+        "ingredients_raw": [
+            "1 ¼ cups self-rising flour",
+            "1 cup full-fat plain Greek yogurt"
+        ],
+        "directions_raw": [
+            "Using a fork, mix flour and Greek yogurt together in a medium bowl until a crumbly dough forms. If mixture is too thick, add a little more yogurt or if too sticky, add a bit more flour.",
+            "Transfer dough to a lightly floured work surface, and knead until smooth, 5 to 7 minutes. Divide the dough evenly into 4 balls, rolling and stretching each into 3/4-inch thick ropes that are about 8- to 9-inches long. Connect both ends, pinching and sealing to form a bagel. Brush with egg white, and sprinkle with bagel seasoning.",
+            "Preheat an air fryer to 280 degrees F (137 degrees C). Line the fryer basket with a parchment liner or spray lightly with cooking spray.",
+            "Place the bagels in the basket, and cook until golden brown, 15 to 16 minutes. Do not crowd the basket, and cook in two batches if your air fryer is small.",
+            "Remove to a rack, and cool for about 15 minutes before slicing."
+        ],
+        "ingredients_canonical": [
+            "¼ self-rising flour",
+            "full-fat plain greek yogurt"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 42,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bagels II",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "Making bagels is fun, but it is a little bit of work. You may use any topping that you wish or none at all. We suggest sesame seeds, poppy seeds or Kosher salt.",
+        "ingredients": [
+            "2 cups warm water (110 degrees F/45 degrees C)",
+            "½ (.25 ounce) package active dry yeast",
+            "2 tablespoons white sugar",
+            "1 tablespoon vegetable oil",
+            "7 cups bread flour",
+            "1 tablespoon salt",
+            "1 tablespoon white sugar",
+            "3 tablespoons poppy seeds (Optional)"
+        ],
+        "directions": [
+            "In large bowl, sprinkle yeast over warm water to soften; stir to dissolve. Add 2 tablespoons sugar, oil, 6 cups of flour, and salt. Mix thoroughly until the dough forms up and leaves the sides of the bowl. Turn dough out on floured board and knead, adding small amounts of flour as necessary. Bagel dough should be pretty stiff. Work in as much extra flour as you can comfortably knead. Knead until smooth and elastic, 12-15 minutes.",
+            "Roll the dough into a ball, place it in a large oiled bowl, and turn to coat. Cover and let fully rise until an impression made with your finger remains and does not sink into the dough (about an hour).",
+            "Punch down and cut into thirds, and roll each piece between your palms into a rope. Cut each rope into 4 equal pieces and shape into balls. Roll the first ball into another rope that is about 2\" longer than the width of your hand. Make a ring with the dough, overlapping ends about 1/2\" and sealing the ends by rolling with your palm on the board. If the dough resists rolling, dab on a drop of water with your finger. Evenly place the bagels on 2 nonstick baking pans or very lightly oiled baking sheets. Cover and let stand until puffy, about 20 minutes.",
+            "While bagels are proofing, fill a 4 quart saucepan 2/3 full with cold water; add 1 tablespoon sugar and bring to a boil. When ready to cook, drop 2 or 3 bagels at a time into the boiling water and wait until they rise to the top. Cook for a total of 1 minute, turning once.",
+            "Carefully lift each bagel out with a slotted spoon or skimmer. Drain momentarily. Turn into a dish with topping, if desired. Evenly space bagels on 2 nonstick baking pans or very lightly oiled baking sheets.",
+            "Bake with steam in a preheated 500 degree F (260 degrees C) oven until well-browned, about 20 minutes. Turn bagels over when the tops begin to brown, and continue baking until done."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 6,
+        "ingredient_text": "warm water degrees f degrees c ½ ounce package active dry yeast white sugar vegetable oil bread flour salt white sugar poppy seeds optional",
+        "directions_text": "in large bowl, sprinkle yeast over warm water to soften; stir to dissolve. add 2 tablespoons sugar, oil, 6 cups of flour, and salt. mix thoroughly until the dough forms up and leaves the sides of the bowl. turn dough out on floured board and knead, adding small amounts of flour as necessary. bagel dough should be pretty stiff. work in as much extra flour as you can comfortably knead. knead until smooth and elastic, 12-15 minutes. roll the dough into a ball, place it in a large oiled bowl, and turn to coat. cover and let fully rise until an impression made with your finger remains and does not sink into the dough (about an hour). punch down and cut into thirds, and roll each piece between your palms into a rope. cut each rope into 4 equal pieces and shape into balls. roll the first ball into another rope that is about 2\" longer than the width of your hand. make a ring with the dough, overlapping ends about 1/2\" and sealing the ends by rolling with your palm on the board. if the dough resists rolling, dab on a drop of water with your finger. evenly place the bagels on 2 nonstick baking pans or very lightly oiled baking sheets. cover and let stand until puffy, about 20 minutes. while bagels are proofing, fill a 4 quart saucepan 2/3 full with cold water; add 1 tablespoon sugar and bring to a boil. when ready to cook, drop 2 or 3 bagels at a time into the boiling water and wait until they rise to the top. cook for a total of 1 minute, turning once. carefully lift each bagel out with a slotted spoon or skimmer. drain momentarily. turn into a dish with topping, if desired. evenly space bagels on 2 nonstick baking pans or very lightly oiled baking sheets. bake with steam in a preheated 500 degree f (260 degrees c) oven until well-browned, about 20 minutes. turn bagels over when the tops begin to brown, and continue baking until done.",
+        "combined_text": "bagels ii bagels bagels 2 cups warm water (110 degrees f/45 degrees c) ½ (.25 ounce) package active dry yeast 2 tablespoons white sugar 1 tablespoon vegetable oil 7 cups bread flour 1 tablespoon salt 1 tablespoon white sugar 3 tablespoons poppy seeds (optional) in large bowl, sprinkle yeast over warm water to soften; stir to dissolve. add 2 tablespoons sugar, oil, 6 cups of flour, and salt. mix thoroughly until the dough forms up and leaves the sides of the bowl. turn dough out on floured board and knead, adding small amounts of flour as necessary. bagel dough should be pretty stiff. work in as much extra flour as you can comfortably knead. knead until smooth and elastic, 12-15 minutes. roll the dough into a ball, place it in a large oiled bowl, and turn to coat. cover and let fully rise until an impression made with your finger remains and does not sink into the dough (about an hour). punch down and cut into thirds, and roll each piece between your palms into a rope. cut each rope into 4 equal pieces and shape into balls. roll the first ball into another rope that is about 2\" longer than the width of your hand. make a ring with the dough, overlapping ends about 1/2\" and sealing the ends by rolling with your palm on the board. if the dough resists rolling, dab on a drop of water with your finger. evenly place the bagels on 2 nonstick baking pans or very lightly oiled baking sheets. cover and let stand until puffy, about 20 minutes. while bagels are proofing, fill a 4 quart saucepan 2/3 full with cold water; add 1 tablespoon sugar and bring to a boil. when ready to cook, drop 2 or 3 bagels at a time into the boiling water and wait until they rise to the top. cook for a total of 1 minute, turning once. carefully lift each bagel out with a slotted spoon or skimmer. drain momentarily. turn into a dish with topping, if desired. evenly space bagels on 2 nonstick baking pans or very lightly oiled baking sheets. bake with steam in a preheated 500 degree f (260 degrees c) oven until well-browned, about 20 minutes. turn bagels over when the tops begin to brown, and continue baking until done.",
+        "ingredients_raw": [
+            "2 cups warm water (110 degrees F/45 degrees C)",
+            "½ (.25 ounce) package active dry yeast",
+            "2 tablespoons white sugar",
+            "1 tablespoon vegetable oil",
+            "7 cups bread flour",
+            "1 tablespoon salt",
+            "1 tablespoon white sugar",
+            "3 tablespoons poppy seeds (Optional)"
+        ],
+        "directions_raw": [
+            "In large bowl, sprinkle yeast over warm water to soften; stir to dissolve. Add 2 tablespoons sugar, oil, 6 cups of flour, and salt. Mix thoroughly until the dough forms up and leaves the sides of the bowl. Turn dough out on floured board and knead, adding small amounts of flour as necessary. Bagel dough should be pretty stiff. Work in as much extra flour as you can comfortably knead. Knead until smooth and elastic, 12-15 minutes.",
+            "Roll the dough into a ball, place it in a large oiled bowl, and turn to coat. Cover and let fully rise until an impression made with your finger remains and does not sink into the dough (about an hour).",
+            "Punch down and cut into thirds, and roll each piece between your palms into a rope. Cut each rope into 4 equal pieces and shape into balls. Roll the first ball into another rope that is about 2\" longer than the width of your hand. Make a ring with the dough, overlapping ends about 1/2\" and sealing the ends by rolling with your palm on the board. If the dough resists rolling, dab on a drop of water with your finger. Evenly place the bagels on 2 nonstick baking pans or very lightly oiled baking sheets. Cover and let stand until puffy, about 20 minutes.",
+            "While bagels are proofing, fill a 4 quart saucepan 2/3 full with cold water; add 1 tablespoon sugar and bring to a boil. When ready to cook, drop 2 or 3 bagels at a time into the boiling water and wait until they rise to the top. Cook for a total of 1 minute, turning once.",
+            "Carefully lift each bagel out with a slotted spoon or skimmer. Drain momentarily. Turn into a dish with topping, if desired. Evenly space bagels on 2 nonstick baking pans or very lightly oiled baking sheets.",
+            "Bake with steam in a preheated 500 degree F (260 degrees C) oven until well-browned, about 20 minutes. Turn bagels over when the tops begin to brown, and continue baking until done."
+        ],
+        "ingredients_canonical": [
+            "warm water degrees f degrees c",
+            "½ ounce package active dry yeast",
+            "white sugar",
+            "vegetable oil",
+            "bread flour",
+            "salt",
+            "white sugar",
+            "poppy seeds optional"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 6,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 125,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Whole Wheat Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "These yummy bagels can be made starting in the bread maker and are so simple you will wonder why you haven't been making your own bagels all along.",
+        "ingredients": [
+            "1 cup water",
+            "2 tablespoons honey",
+            "4 teaspoons vital wheat gluten",
+            "1 teaspoon salt",
+            "1 ¾ teaspoons yeast",
+            "3 cups whole wheat flour",
+            "1 tablespoon cornmeal (Optional)",
+            "2 tablespoons white sugar",
+            "1 egg white (Optional)"
+        ],
+        "directions": [
+            "Place water, honey, vital wheat gluten, salt, yeast, and whole wheat flour in the bread maker in that order. Select \"Dough\" setting. Let the bread maker work, about 2 hours.",
+            "Remove finished dough from bread maker and punch it down on a lightly floured surface. Cut the dough into 8 equal-sized sections and pat into balls. Push a thumb through each ball to make a hole; shape the bagels as round as possible. Place on a plate and cover with a clean towel; let rest for 15 minutes.",
+            "Preheat oven to 375 degrees F (190 degrees C). Line a baking sheet with a clean towel. Sprinkle a separate baking sheet with cornmeal.",
+            "Bring a large pot of water to a boil; add sugar. Add bagels to the water, 2 at a time. Boil for 1 minute, turning them over halfway through. Remove bagels from the water with a slotted spoon and drain on the towel-lined baking sheet.",
+            "Transfer bagels to the prepared baking sheet. Brush bagels with egg white.",
+            "Bake in the preheated oven until browned, 15 to 20 minutes. Transfer to a cooling rack."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "water honey vital wheat gluten salt ¾ yeast whole wheat flour cornmeal optional white sugar egg white optional",
+        "directions_text": "place water, honey, vital wheat gluten, salt, yeast, and whole wheat flour in the bread maker in that order. select \"dough\" setting. let the bread maker work, about 2 hours. remove finished dough from bread maker and punch it down on a lightly floured surface. cut the dough into 8 equal-sized sections and pat into balls. push a thumb through each ball to make a hole; shape the bagels as round as possible. place on a plate and cover with a clean towel; let rest for 15 minutes. preheat oven to 375 degrees f (190 degrees c). line a baking sheet with a clean towel. sprinkle a separate baking sheet with cornmeal. bring a large pot of water to a boil; add sugar. add bagels to the water, 2 at a time. boil for 1 minute, turning them over halfway through. remove bagels from the water with a slotted spoon and drain on the towel-lined baking sheet. transfer bagels to the prepared baking sheet. brush bagels with egg white. bake in the preheated oven until browned, 15 to 20 minutes. transfer to a cooling rack.",
+        "combined_text": "whole wheat bagels bagels bagels 1 cup water 2 tablespoons honey 4 teaspoons vital wheat gluten 1 teaspoon salt 1 ¾ teaspoons yeast 3 cups whole wheat flour 1 tablespoon cornmeal (optional) 2 tablespoons white sugar 1 egg white (optional) place water, honey, vital wheat gluten, salt, yeast, and whole wheat flour in the bread maker in that order. select \"dough\" setting. let the bread maker work, about 2 hours. remove finished dough from bread maker and punch it down on a lightly floured surface. cut the dough into 8 equal-sized sections and pat into balls. push a thumb through each ball to make a hole; shape the bagels as round as possible. place on a plate and cover with a clean towel; let rest for 15 minutes. preheat oven to 375 degrees f (190 degrees c). line a baking sheet with a clean towel. sprinkle a separate baking sheet with cornmeal. bring a large pot of water to a boil; add sugar. add bagels to the water, 2 at a time. boil for 1 minute, turning them over halfway through. remove bagels from the water with a slotted spoon and drain on the towel-lined baking sheet. transfer bagels to the prepared baking sheet. brush bagels with egg white. bake in the preheated oven until browned, 15 to 20 minutes. transfer to a cooling rack.",
+        "ingredients_raw": [
+            "1 cup water",
+            "2 tablespoons honey",
+            "4 teaspoons vital wheat gluten",
+            "1 teaspoon salt",
+            "1 ¾ teaspoons yeast",
+            "3 cups whole wheat flour",
+            "1 tablespoon cornmeal (Optional)",
+            "2 tablespoons white sugar",
+            "1 egg white (Optional)"
+        ],
+        "directions_raw": [
+            "Place water, honey, vital wheat gluten, salt, yeast, and whole wheat flour in the bread maker in that order. Select \"Dough\" setting. Let the bread maker work, about 2 hours.",
+            "Remove finished dough from bread maker and punch it down on a lightly floured surface. Cut the dough into 8 equal-sized sections and pat into balls. Push a thumb through each ball to make a hole; shape the bagels as round as possible. Place on a plate and cover with a clean towel; let rest for 15 minutes.",
+            "Preheat oven to 375 degrees F (190 degrees C). Line a baking sheet with a clean towel. Sprinkle a separate baking sheet with cornmeal.",
+            "Bring a large pot of water to a boil; add sugar. Add bagels to the water, 2 at a time. Boil for 1 minute, turning them over halfway through. Remove bagels from the water with a slotted spoon and drain on the towel-lined baking sheet.",
+            "Transfer bagels to the prepared baking sheet. Brush bagels with egg white.",
+            "Bake in the preheated oven until browned, 15 to 20 minutes. Transfer to a cooling rack."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "honey",
+            "vital wheat gluten",
+            "salt",
+            "¾ yeast",
+            "whole wheat flour",
+            "cornmeal optional",
+            "white sugar",
+            "egg white optional"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 4,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 81,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pumpkin Spice Bagel",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "These simple bagels have a wonderful cinnamon and pumpkin flavor.",
+        "ingredients": [
+            "1 (.25 ounce) envelope active dry yeast",
+            "⅔ cup warm water (110 degrees F/45 degrees C)",
+            "¾ cup canned pumpkin",
+            "⅓ cup packed brown sugar",
+            "1 ½ teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "¾ teaspoon ground nutmeg",
+            "½ teaspoon ground allspice",
+            "½ teaspoon ground cloves",
+            "3 cups all-purpose flour, or more as needed",
+            "1 tablespoon cornmeal",
+            "6 cups water, or more as needed",
+            "1 teaspoon white sugar",
+            "cooking spray"
+        ],
+        "directions": [
+            "Dissolve yeast in warm water in a large bowl; add pumpkin, brown sugar, cinnamon, salt, nutmeg, allspice, and cloves and mix well. Stir in enough flour to make a soft dough. Turn dough onto a work surface and knead by hand 6 to 8 minutes or mix in a stand mixer. Transfer dough to a greased bowl, cover with a damp towel, and let rise in a warm place until doubled in size, about 1 hour.",
+            "Punch dough down and divide into 8 balls. Poke a hole in the middle of each ball using your finger to create a bagel shape. Arrange bagels on a baking sheet and let rise, 10 to 15 minutes.",
+            "Fill a large pot with 6 cups water and white sugar and bring to a boil. Slightly flatten the bagels and drop a couple at a time into the boiling water; cook for 1 1/2 minutes. Flip bagels and boil for another 1 1/2 minutes; remove with a slotted spoon and dry on a clean towel. Repeat with remaining bagels.",
+            "Preheat oven to 400 degrees F (200 degrees C). Spray a baking sheet with cooking spray and sprinkle cornmeal on the sheet. Arrange bagels on the baking sheet about 2 inches apart.",
+            "Bake in the preheated oven until cooked through, 25 to 30 minutes."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 5,
+        "ingredient_text": "ounce envelope active dry yeast ⅔ warm water degrees f degrees c ¾ canned pumpkin ⅓ packed brown sugar ½ ground cinnamon salt ¾ ground nutmeg ½ ground allspice ½ ground cloves all-purpose flour more as needed cornmeal water more as needed white sugar cooking spray",
+        "directions_text": "dissolve yeast in warm water in a large bowl; add pumpkin, brown sugar, cinnamon, salt, nutmeg, allspice, and cloves and mix well. stir in enough flour to make a soft dough. turn dough onto a work surface and knead by hand 6 to 8 minutes or mix in a stand mixer. transfer dough to a greased bowl, cover with a damp towel, and let rise in a warm place until doubled in size, about 1 hour. punch dough down and divide into 8 balls. poke a hole in the middle of each ball using your finger to create a bagel shape. arrange bagels on a baking sheet and let rise, 10 to 15 minutes. fill a large pot with 6 cups water and white sugar and bring to a boil. slightly flatten the bagels and drop a couple at a time into the boiling water; cook for 1 1/2 minutes. flip bagels and boil for another 1 1/2 minutes; remove with a slotted spoon and dry on a clean towel. repeat with remaining bagels. preheat oven to 400 degrees f (200 degrees c). spray a baking sheet with cooking spray and sprinkle cornmeal on the sheet. arrange bagels on the baking sheet about 2 inches apart. bake in the preheated oven until cooked through, 25 to 30 minutes.",
+        "combined_text": "pumpkin spice bagel bagels bagels 1 (.25 ounce) envelope active dry yeast ⅔ cup warm water (110 degrees f/45 degrees c) ¾ cup canned pumpkin ⅓ cup packed brown sugar 1 ½ teaspoons ground cinnamon 1 teaspoon salt ¾ teaspoon ground nutmeg ½ teaspoon ground allspice ½ teaspoon ground cloves 3 cups all-purpose flour, or more as needed 1 tablespoon cornmeal 6 cups water, or more as needed 1 teaspoon white sugar cooking spray dissolve yeast in warm water in a large bowl; add pumpkin, brown sugar, cinnamon, salt, nutmeg, allspice, and cloves and mix well. stir in enough flour to make a soft dough. turn dough onto a work surface and knead by hand 6 to 8 minutes or mix in a stand mixer. transfer dough to a greased bowl, cover with a damp towel, and let rise in a warm place until doubled in size, about 1 hour. punch dough down and divide into 8 balls. poke a hole in the middle of each ball using your finger to create a bagel shape. arrange bagels on a baking sheet and let rise, 10 to 15 minutes. fill a large pot with 6 cups water and white sugar and bring to a boil. slightly flatten the bagels and drop a couple at a time into the boiling water; cook for 1 1/2 minutes. flip bagels and boil for another 1 1/2 minutes; remove with a slotted spoon and dry on a clean towel. repeat with remaining bagels. preheat oven to 400 degrees f (200 degrees c). spray a baking sheet with cooking spray and sprinkle cornmeal on the sheet. arrange bagels on the baking sheet about 2 inches apart. bake in the preheated oven until cooked through, 25 to 30 minutes.",
+        "ingredients_raw": [
+            "1 (.25 ounce) envelope active dry yeast",
+            "⅔ cup warm water (110 degrees F/45 degrees C)",
+            "¾ cup canned pumpkin",
+            "⅓ cup packed brown sugar",
+            "1 ½ teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "¾ teaspoon ground nutmeg",
+            "½ teaspoon ground allspice",
+            "½ teaspoon ground cloves",
+            "3 cups all-purpose flour, or more as needed",
+            "1 tablespoon cornmeal",
+            "6 cups water, or more as needed",
+            "1 teaspoon white sugar",
+            "cooking spray"
+        ],
+        "directions_raw": [
+            "Dissolve yeast in warm water in a large bowl; add pumpkin, brown sugar, cinnamon, salt, nutmeg, allspice, and cloves and mix well. Stir in enough flour to make a soft dough. Turn dough onto a work surface and knead by hand 6 to 8 minutes or mix in a stand mixer. Transfer dough to a greased bowl, cover with a damp towel, and let rise in a warm place until doubled in size, about 1 hour.",
+            "Punch dough down and divide into 8 balls. Poke a hole in the middle of each ball using your finger to create a bagel shape. Arrange bagels on a baking sheet and let rise, 10 to 15 minutes.",
+            "Fill a large pot with 6 cups water and white sugar and bring to a boil. Slightly flatten the bagels and drop a couple at a time into the boiling water; cook for 1 1/2 minutes. Flip bagels and boil for another 1 1/2 minutes; remove with a slotted spoon and dry on a clean towel. Repeat with remaining bagels.",
+            "Preheat oven to 400 degrees F (200 degrees C). Spray a baking sheet with cooking spray and sprinkle cornmeal on the sheet. Arrange bagels on the baking sheet about 2 inches apart.",
+            "Bake in the preheated oven until cooked through, 25 to 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce envelope active dry yeast",
+            "⅔ warm water degrees f degrees c",
+            "¾ canned pumpkin",
+            "⅓ packed brown sugar",
+            "½ ground cinnamon",
+            "salt",
+            "¾ ground nutmeg",
+            "½ ground allspice",
+            "½ ground cloves",
+            "all-purpose flour more as needed",
+            "cornmeal",
+            "water more as needed",
+            "white sugar",
+            "cooking spray"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 5,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 31,
+        "est_cook_time_min": 110,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cream Cheese-Filled Bagel Balls",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "These cream cheese-filled bagel balls are perfect for breakfast and are super easy to make! The dough requires no yeast, and is a healthier alternative to regular dough! Two-ingredient dough is packed with protein thanks to the yogurt, and is free of the preservatives and artificial ingredients found in many prepared doughs. Once made, you can work with it immediately. That means you don't have to spend time waiting for the dough to proof before you make a meal.",
+        "ingredients": [
+            "1 cup all-purpose flour, or as needed",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt, or more to taste",
+            "1 cup Greek yogurt",
+            "½ cup cream cheese, or as needed",
+            "1 large egg",
+            "2 teaspoons half-and-half",
+            "2 teaspoons everything bagel seasoning, or to taste",
+            "1 tablespoon butter, melted, or as needed"
+        ],
+        "directions": [
+            "Preheat the oven to 450 degrees F (230 degrees C). Grease a baking pan.",
+            "Mix 1 cup flour, baking powder, and 1/2 teaspoon salt together. Mix in Greek yogurt and knead until all flour is mixed in; if dough is sticky, add more flour.",
+            "Cut dough into 8 equal pieces. Roll each piece into a ball and press each ball into a flat circle; they should look like mini pizzas.",
+            "Scoop cream cheese into the center of each circle. Fold the edges up and pinch closed so you have a round ball of dough with cream cheese inside. Make sure you seal the edges so the cream cheese doesn't spill out during baking. Place seam side down on the prepared baking pan.",
+            "Mix egg, half-and-half, and a pinch of salt in a small bowl. Brush egg wash on top of each dough ball and sprinkle with bagel seasoning.",
+            "Bake in the preheated oven until golden brown, about 10 minutes. Remove from the oven and brush with melted butter before serving."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "all-purpose flour as needed baking powder ½ salt more taste greek yogurt ½ cream cheese as needed large egg half- -half everything bagel seasoning taste butter melted as needed",
+        "directions_text": "preheat the oven to 450 degrees f (230 degrees c). grease a baking pan. mix 1 cup flour, baking powder, and 1/2 teaspoon salt together. mix in greek yogurt and knead until all flour is mixed in; if dough is sticky, add more flour. cut dough into 8 equal pieces. roll each piece into a ball and press each ball into a flat circle; they should look like mini pizzas. scoop cream cheese into the center of each circle. fold the edges up and pinch closed so you have a round ball of dough with cream cheese inside. make sure you seal the edges so the cream cheese doesn't spill out during baking. place seam side down on the prepared baking pan. mix egg, half-and-half, and a pinch of salt in a small bowl. brush egg wash on top of each dough ball and sprinkle with bagel seasoning. bake in the preheated oven until golden brown, about 10 minutes. remove from the oven and brush with melted butter before serving.",
+        "combined_text": "cream cheese-filled bagel balls bagels bagels 1 cup all-purpose flour, or as needed 2 teaspoons baking powder ½ teaspoon salt, or more to taste 1 cup greek yogurt ½ cup cream cheese, or as needed 1 large egg 2 teaspoons half-and-half 2 teaspoons everything bagel seasoning, or to taste 1 tablespoon butter, melted, or as needed preheat the oven to 450 degrees f (230 degrees c). grease a baking pan. mix 1 cup flour, baking powder, and 1/2 teaspoon salt together. mix in greek yogurt and knead until all flour is mixed in; if dough is sticky, add more flour. cut dough into 8 equal pieces. roll each piece into a ball and press each ball into a flat circle; they should look like mini pizzas. scoop cream cheese into the center of each circle. fold the edges up and pinch closed so you have a round ball of dough with cream cheese inside. make sure you seal the edges so the cream cheese doesn't spill out during baking. place seam side down on the prepared baking pan. mix egg, half-and-half, and a pinch of salt in a small bowl. brush egg wash on top of each dough ball and sprinkle with bagel seasoning. bake in the preheated oven until golden brown, about 10 minutes. remove from the oven and brush with melted butter before serving.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour, or as needed",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt, or more to taste",
+            "1 cup Greek yogurt",
+            "½ cup cream cheese, or as needed",
+            "1 large egg",
+            "2 teaspoons half-and-half",
+            "2 teaspoons everything bagel seasoning, or to taste",
+            "1 tablespoon butter, melted, or as needed"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 450 degrees F (230 degrees C). Grease a baking pan.",
+            "Mix 1 cup flour, baking powder, and 1/2 teaspoon salt together. Mix in Greek yogurt and knead until all flour is mixed in; if dough is sticky, add more flour.",
+            "Cut dough into 8 equal pieces. Roll each piece into a ball and press each ball into a flat circle; they should look like mini pizzas.",
+            "Scoop cream cheese into the center of each circle. Fold the edges up and pinch closed so you have a round ball of dough with cream cheese inside. Make sure you seal the edges so the cream cheese doesn't spill out during baking. Place seam side down on the prepared baking pan.",
+            "Mix egg, half-and-half, and a pinch of salt in a small bowl. Brush egg wash on top of each dough ball and sprinkle with bagel seasoning.",
+            "Bake in the preheated oven until golden brown, about 10 minutes. Remove from the oven and brush with melted butter before serving."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour as needed",
+            "baking powder",
+            "½ salt more taste",
+            "greek yogurt",
+            "½ cream cheese as needed",
+            "large egg",
+            "half- -half",
+            "everything bagel seasoning taste",
+            "butter melted as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 52,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grandma Sherrill's Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "A homemade tradition in our family for 30 years!",
+        "ingredients": [
+            "9 cups all-purpose flour",
+            "3 cups hot water",
+            "¼ cup white sugar",
+            "1 tablespoon dry yeast",
+            "1 tablespoon salt"
+        ],
+        "directions": [
+            "Mix flour, hot water, sugar, yeast, and salt in a large bowl; transfer dough to a work surface and knead for 10 minutes. Place dough in a bowl and let rise for 15 minutes.",
+            "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet.",
+            "Form dough into 24 balls; punch a hole in the middle of each ball with a finger, creating a bagel shape. Place bagels on the prepared baking sheet; let rise for 20 minutes.",
+            "Bring a large pot of water to a boil; cook bagels, working in batches, in the boiling water, about 45 seconds per side. Place boiled bagels on a clean towel to drain. Return bagels to the baking sheet.",
+            "Bake in the preheated oven until cooked through and lightly browned, 30 to 35 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour hot water ¼ white sugar dry yeast salt",
+        "directions_text": "mix flour, hot water, sugar, yeast, and salt in a large bowl; transfer dough to a work surface and knead for 10 minutes. place dough in a bowl and let rise for 15 minutes. preheat oven to 375 degrees f (190 degrees c). grease a baking sheet. form dough into 24 balls; punch a hole in the middle of each ball with a finger, creating a bagel shape. place bagels on the prepared baking sheet; let rise for 20 minutes. bring a large pot of water to a boil; cook bagels, working in batches, in the boiling water, about 45 seconds per side. place boiled bagels on a clean towel to drain. return bagels to the baking sheet. bake in the preheated oven until cooked through and lightly browned, 30 to 35 minutes.",
+        "combined_text": "grandma sherrill's bagels bagels bagels 9 cups all-purpose flour 3 cups hot water ¼ cup white sugar 1 tablespoon dry yeast 1 tablespoon salt mix flour, hot water, sugar, yeast, and salt in a large bowl; transfer dough to a work surface and knead for 10 minutes. place dough in a bowl and let rise for 15 minutes. preheat oven to 375 degrees f (190 degrees c). grease a baking sheet. form dough into 24 balls; punch a hole in the middle of each ball with a finger, creating a bagel shape. place bagels on the prepared baking sheet; let rise for 20 minutes. bring a large pot of water to a boil; cook bagels, working in batches, in the boiling water, about 45 seconds per side. place boiled bagels on a clean towel to drain. return bagels to the baking sheet. bake in the preheated oven until cooked through and lightly browned, 30 to 35 minutes.",
+        "ingredients_raw": [
+            "9 cups all-purpose flour",
+            "3 cups hot water",
+            "¼ cup white sugar",
+            "1 tablespoon dry yeast",
+            "1 tablespoon salt"
+        ],
+        "directions_raw": [
+            "Mix flour, hot water, sugar, yeast, and salt in a large bowl; transfer dough to a work surface and knead for 10 minutes. Place dough in a bowl and let rise for 15 minutes.",
+            "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet.",
+            "Form dough into 24 balls; punch a hole in the middle of each ball with a finger, creating a bagel shape. Place bagels on the prepared baking sheet; let rise for 20 minutes.",
+            "Bring a large pot of water to a boil; cook bagels, working in batches, in the boiling water, about 45 seconds per side. Place boiled bagels on a clean towel to drain. Return bagels to the baking sheet.",
+            "Bake in the preheated oven until cooked through and lightly browned, 30 to 35 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "hot water",
+            "¼ white sugar",
+            "dry yeast",
+            "salt"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 4,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 83,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "2-Ingredient Dough Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "Homemade bagels have never been easier. With this \"magic\" two-ingredient dough, you can have fresh and fluffy bagels, hot out of the oven, in as much time as it takes to make a batch of pancakes. While not as dense as the traditional New York-style, these chewy, golden bagels, garnished with your favorite cream cheese and flavorful toppings, will satisfy any bagel craving.",
+        "ingredients": [
+            "1 ½ cups self-rising flour, plus more for kneading",
+            "1 cup plain Greek yogurt",
+            "1 large egg",
+            "2 teaspoons everything bagel seasoning, or to taste"
+        ],
+        "directions": [
+            "Mix flour and Greek yogurt together in a medium bowl until a shaggy dough forms. Transfer to a surface dusted with self-rising flour, and knead for 8 to 10 minutes. Continue adding flour as needed if the dough is too sticky.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cut the dough into 4 pieces, roughly 4 ounces each. Roll each segment into a smooth ball. Use your thumbs to poke a hole in the center of each round, then gently stretch the dough until it becomes a uniform-sized ring.",
+            "Transfer the dough to a parchment paper-lined baking sheet.",
+            "Whisk the egg in a small bowl to create an egg wash, then brush a light coating on top of the dough. Sprinkle with bagel seasoning.",
+            "Bake in the preheated oven for 20 to 22 minutes. Increase the oven's temperature to 450 degrees F (230 degrees C) and continue to bake until golden, 3 to 4 minutes more."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 6,
+        "ingredient_text": "½ self-rising flour plus more for kneading plain greek yogurt large egg everything bagel seasoning taste",
+        "directions_text": "mix flour and greek yogurt together in a medium bowl until a shaggy dough forms. transfer to a surface dusted with self-rising flour, and knead for 8 to 10 minutes. continue adding flour as needed if the dough is too sticky. preheat the oven to 375 degrees f (190 degrees c). cut the dough into 4 pieces, roughly 4 ounces each. roll each segment into a smooth ball. use your thumbs to poke a hole in the center of each round, then gently stretch the dough until it becomes a uniform-sized ring. transfer the dough to a parchment paper-lined baking sheet. whisk the egg in a small bowl to create an egg wash, then brush a light coating on top of the dough. sprinkle with bagel seasoning. bake in the preheated oven for 20 to 22 minutes. increase the oven's temperature to 450 degrees f (230 degrees c) and continue to bake until golden, 3 to 4 minutes more.",
+        "combined_text": "2-ingredient dough bagels bagels bagels 1 ½ cups self-rising flour, plus more for kneading 1 cup plain greek yogurt 1 large egg 2 teaspoons everything bagel seasoning, or to taste mix flour and greek yogurt together in a medium bowl until a shaggy dough forms. transfer to a surface dusted with self-rising flour, and knead for 8 to 10 minutes. continue adding flour as needed if the dough is too sticky. preheat the oven to 375 degrees f (190 degrees c). cut the dough into 4 pieces, roughly 4 ounces each. roll each segment into a smooth ball. use your thumbs to poke a hole in the center of each round, then gently stretch the dough until it becomes a uniform-sized ring. transfer the dough to a parchment paper-lined baking sheet. whisk the egg in a small bowl to create an egg wash, then brush a light coating on top of the dough. sprinkle with bagel seasoning. bake in the preheated oven for 20 to 22 minutes. increase the oven's temperature to 450 degrees f (230 degrees c) and continue to bake until golden, 3 to 4 minutes more.",
+        "ingredients_raw": [
+            "1 ½ cups self-rising flour, plus more for kneading",
+            "1 cup plain Greek yogurt",
+            "1 large egg",
+            "2 teaspoons everything bagel seasoning, or to taste"
+        ],
+        "directions_raw": [
+            "Mix flour and Greek yogurt together in a medium bowl until a shaggy dough forms. Transfer to a surface dusted with self-rising flour, and knead for 8 to 10 minutes. Continue adding flour as needed if the dough is too sticky.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cut the dough into 4 pieces, roughly 4 ounces each. Roll each segment into a smooth ball. Use your thumbs to poke a hole in the center of each round, then gently stretch the dough until it becomes a uniform-sized ring.",
+            "Transfer the dough to a parchment paper-lined baking sheet.",
+            "Whisk the egg in a small bowl to create an egg wash, then brush a light coating on top of the dough. Sprinkle with bagel seasoning.",
+            "Bake in the preheated oven for 20 to 22 minutes. Increase the oven's temperature to 450 degrees F (230 degrees C) and continue to bake until golden, 3 to 4 minutes more."
+        ],
+        "ingredients_canonical": [
+            "½ self-rising flour plus more for kneading",
+            "plain greek yogurt",
+            "large egg",
+            "everything bagel seasoning taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 59,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Two-Ingredient Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "These easy to make two-ingredient bagels are tender, soft, and chewy. You can use any combination of seeds for sprinkling, e.g. everything bagel seasoning, poppy seeds, sesame seeds, etc.",
+        "ingredients": [
+            "1 ¼ cups self-rising flour, or more as needed",
+            "1 cup plain whole-milk Greek yogurt"
+        ],
+        "directions": [
+            "Line a baking sheet with parchment paper.",
+            "Combine flour and yogurt in a large bowl and mixed until a soft dough forms. Turn out the mixture onto a lightly floured surface and knead the dough for 3 minutes.",
+            "Divide dough into 4 equal pieces. Working with 1 piece at a time roll into a ball. From dough ball into a bagel shape, using your finger to create a small hole in the center. Set on the prepared baking sheet. Repeat with remaining dough.",
+            "Allow the bagels to rest for 15 minutes. Spray with cooking spray and sprinkle with everything bagel seasoning.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bake in the preheated oven until the bagels begin to brown, 20 to 25 minutes."
+        ],
+        "num_ingredients": 2,
+        "num_steps": 6,
+        "ingredient_text": "¼ self-rising flour more as needed plain whole-milk greek yogurt",
+        "directions_text": "line a baking sheet with parchment paper. combine flour and yogurt in a large bowl and mixed until a soft dough forms. turn out the mixture onto a lightly floured surface and knead the dough for 3 minutes. divide dough into 4 equal pieces. working with 1 piece at a time roll into a ball. from dough ball into a bagel shape, using your finger to create a small hole in the center. set on the prepared baking sheet. repeat with remaining dough. allow the bagels to rest for 15 minutes. spray with cooking spray and sprinkle with everything bagel seasoning. preheat the oven to 350 degrees f (175 degrees c). bake in the preheated oven until the bagels begin to brown, 20 to 25 minutes.",
+        "combined_text": "two-ingredient bagels bagels bagels 1 ¼ cups self-rising flour, or more as needed 1 cup plain whole-milk greek yogurt line a baking sheet with parchment paper. combine flour and yogurt in a large bowl and mixed until a soft dough forms. turn out the mixture onto a lightly floured surface and knead the dough for 3 minutes. divide dough into 4 equal pieces. working with 1 piece at a time roll into a ball. from dough ball into a bagel shape, using your finger to create a small hole in the center. set on the prepared baking sheet. repeat with remaining dough. allow the bagels to rest for 15 minutes. spray with cooking spray and sprinkle with everything bagel seasoning. preheat the oven to 350 degrees f (175 degrees c). bake in the preheated oven until the bagels begin to brown, 20 to 25 minutes.",
+        "ingredients_raw": [
+            "1 ¼ cups self-rising flour, or more as needed",
+            "1 cup plain whole-milk Greek yogurt"
+        ],
+        "directions_raw": [
+            "Line a baking sheet with parchment paper.",
+            "Combine flour and yogurt in a large bowl and mixed until a soft dough forms. Turn out the mixture onto a lightly floured surface and knead the dough for 3 minutes.",
+            "Divide dough into 4 equal pieces. Working with 1 piece at a time roll into a ball. From dough ball into a bagel shape, using your finger to create a small hole in the center. Set on the prepared baking sheet. Repeat with remaining dough.",
+            "Allow the bagels to rest for 15 minutes. Spray with cooking spray and sprinkle with everything bagel seasoning.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bake in the preheated oven until the bagels begin to brown, 20 to 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "¼ self-rising flour more as needed",
+            "plain whole-milk greek yogurt"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 59,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Nova Lox Everything Breakfast Bagel",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "I don't have the finances to always grab my favorite breakfast treats so this is my rendition of a local offering from a nearby bagel joint.",
+        "ingredients": [
+            "8 everything bagel thins",
+            "1 (8 ounce) container whipped cream cheese",
+            "1 medium tomato, sliced",
+            "1 (4 ounce) jar capers"
+        ],
+        "directions": [
+            "Split bagel thins and toast the bagel thins until lightly golden.",
+            "Smear 2 tablespoons whipped cream cheese on each bagel. Top each bagel with a tomato slice, 1 ounce flaked smoked salmon, and capers. Serve immediately."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 2,
+        "ingredient_text": "everything bagel thins ounce container whipped cream cheese medium tomato sliced ounce jar capers",
+        "directions_text": "split bagel thins and toast the bagel thins until lightly golden. smear 2 tablespoons whipped cream cheese on each bagel. top each bagel with a tomato slice, 1 ounce flaked smoked salmon, and capers. serve immediately.",
+        "combined_text": "nova lox everything breakfast bagel bagels bagels 8 everything bagel thins 1 (8 ounce) container whipped cream cheese 1 medium tomato, sliced 1 (4 ounce) jar capers split bagel thins and toast the bagel thins until lightly golden. smear 2 tablespoons whipped cream cheese on each bagel. top each bagel with a tomato slice, 1 ounce flaked smoked salmon, and capers. serve immediately.",
+        "ingredients_raw": [
+            "8 everything bagel thins",
+            "1 (8 ounce) container whipped cream cheese",
+            "1 medium tomato, sliced",
+            "1 (4 ounce) jar capers"
+        ],
+        "directions_raw": [
+            "Split bagel thins and toast the bagel thins until lightly golden.",
+            "Smear 2 tablespoons whipped cream cheese on each bagel. Top each bagel with a tomato slice, 1 ounce flaked smoked salmon, and capers. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "everything bagel thins",
+            "ounce container whipped cream cheese",
+            "medium tomato sliced",
+            "ounce jar capers"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Tori's Air Fryer Pumpkin Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "This recipe was created by a grandma and a granddaughter sharing the love of cooking in the kitchen. A delicious bagel made with Greek yogurt and pumpkin topped with oatmeal, honey, Cheddar cheese, and cinnamon. Bake in an air fryer. So easy to make and kid friendly. Serve with cream cheese.",
+        "ingredients": [
+            "cooking spray",
+            "1 cup all-purpose flour, or more as needed",
+            "1 tablespoon brown sugar",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "½ cup pumpkin puree",
+            "½ cup fat-free Greek yogurt (such as Fage®)"
+        ],
+        "directions": [
+            "Preheat an air fryer to 280 degrees F (140 degrees C) according to manufacturer's instructions, about 3 minutes. Line the air fryer basket with parchment paper and spray with cooking spray.",
+            "Mix flour, brown sugar, baking powder, and salt together in a medium bowl. Add pumpkin puree and yogurt. Stir to combine.",
+            "Place dough on a lightly floured surface; divide into 4 balls. Roll each ball into 8-inch long ropes. Join the ends together to form bagels.",
+            "Mix oats and cinnamon together in a small bowl. Whisk egg white, honey, and water together in another small bowl until smooth. Brush bagels with egg mixture; sprinkle oats and cinnamon on both sides.",
+            "Place bagels in the prepared basket and bake for 13 minutes. Sprinkle Cheddar cheese over bagels and bake for 2 minutes more."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "cooking spray all-purpose flour more as needed brown sugar baking powder ½ salt ½ pumpkin puree ½ fat-free greek yogurt such as fage",
+        "directions_text": "preheat an air fryer to 280 degrees f (140 degrees c) according to manufacturer's instructions, about 3 minutes. line the air fryer basket with parchment paper and spray with cooking spray. mix flour, brown sugar, baking powder, and salt together in a medium bowl. add pumpkin puree and yogurt. stir to combine. place dough on a lightly floured surface; divide into 4 balls. roll each ball into 8-inch long ropes. join the ends together to form bagels. mix oats and cinnamon together in a small bowl. whisk egg white, honey, and water together in another small bowl until smooth. brush bagels with egg mixture; sprinkle oats and cinnamon on both sides. place bagels in the prepared basket and bake for 13 minutes. sprinkle cheddar cheese over bagels and bake for 2 minutes more.",
+        "combined_text": "tori's air fryer pumpkin bagels bagels bagels cooking spray 1 cup all-purpose flour, or more as needed 1 tablespoon brown sugar 2 teaspoons baking powder ½ teaspoon salt ½ cup pumpkin puree ½ cup fat-free greek yogurt (such as fage®) preheat an air fryer to 280 degrees f (140 degrees c) according to manufacturer's instructions, about 3 minutes. line the air fryer basket with parchment paper and spray with cooking spray. mix flour, brown sugar, baking powder, and salt together in a medium bowl. add pumpkin puree and yogurt. stir to combine. place dough on a lightly floured surface; divide into 4 balls. roll each ball into 8-inch long ropes. join the ends together to form bagels. mix oats and cinnamon together in a small bowl. whisk egg white, honey, and water together in another small bowl until smooth. brush bagels with egg mixture; sprinkle oats and cinnamon on both sides. place bagels in the prepared basket and bake for 13 minutes. sprinkle cheddar cheese over bagels and bake for 2 minutes more.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 cup all-purpose flour, or more as needed",
+            "1 tablespoon brown sugar",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "½ cup pumpkin puree",
+            "½ cup fat-free Greek yogurt (such as Fage®)"
+        ],
+        "directions_raw": [
+            "Preheat an air fryer to 280 degrees F (140 degrees C) according to manufacturer's instructions, about 3 minutes. Line the air fryer basket with parchment paper and spray with cooking spray.",
+            "Mix flour, brown sugar, baking powder, and salt together in a medium bowl. Add pumpkin puree and yogurt. Stir to combine.",
+            "Place dough on a lightly floured surface; divide into 4 balls. Roll each ball into 8-inch long ropes. Join the ends together to form bagels.",
+            "Mix oats and cinnamon together in a small bowl. Whisk egg white, honey, and water together in another small bowl until smooth. Brush bagels with egg mixture; sprinkle oats and cinnamon on both sides.",
+            "Place bagels in the prepared basket and bake for 13 minutes. Sprinkle Cheddar cheese over bagels and bake for 2 minutes more."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "all-purpose flour more as needed",
+            "brown sugar",
+            "baking powder",
+            "½ salt",
+            "½ pumpkin puree",
+            "½ fat-free greek yogurt such as fage"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "whole_grains",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "2-Ingredient Dough Air Fryer Blueberry Bagels",
+        "category": "Bagels",
+        "subcategory": "Bagels",
+        "description": "There's something special about making homemade bagels, but it can be an intimidating and timely job. This 2-ingredient dough makes it so quick and easy, you'll look like a pro the first time you make them.",
+        "ingredients": [
+            "⅔ cup dried blueberries",
+            "1 ¼ cups self-rising flour",
+            "1 cup non-fat plain Greek yogurt (such as Fage® Total 0%)",
+            "1 large egg, beaten",
+            "1 teaspoon water",
+            "½ teaspoon cinnamon sugar"
+        ],
+        "directions": [
+            "Place blueberries in a small bowl, and pour boiling water over them. Let sit for 5 minutes, and drain",
+            "Add flour, yogurt, and blueberries to a large stand mixer bowl. Using the dough hook, mix at low speed for about 3 minutes. If you're using a KitchenAid mixer, use speed 3. Dough will be crumbly.",
+            "Transfer the dough to a lightly floured surface. Divide the dough into 4 equal balls, pressing, stretching, and rolling into ropes that are about 8 inches long, 3/4-inch thick. Connect the ends pinching into a bagel shape with hole in the middle.",
+            "Preheat an air fryer to 280 degrees F (137 degrees C) for about 3 minutes. Combine the egg and water, and brush on each bagel, then sprinkle with cinnamon sugar. Line the air fryer basket with a parchment liner or lightly spray with cooking spray.",
+            "Place the bagels in the basket not touching, and cook until golden brown, 15 to 16 minutes. Don't crowd the basket, and cook in two batches if necessary. Your time may vary depending on the size and brand of your air fryer.",
+            "Remove the bagels to a rack, and cool for about 10 minutes before slicing."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 6,
+        "ingredient_text": "⅔ dried blueberries ¼ self-rising flour non-fat plain greek yogurt such as fage total large egg beaten water ½ cinnamon sugar",
+        "directions_text": "place blueberries in a small bowl, and pour boiling water over them. let sit for 5 minutes, and drain add flour, yogurt, and blueberries to a large stand mixer bowl. using the dough hook, mix at low speed for about 3 minutes. if you're using a kitchenaid mixer, use speed 3. dough will be crumbly. transfer the dough to a lightly floured surface. divide the dough into 4 equal balls, pressing, stretching, and rolling into ropes that are about 8 inches long, 3/4-inch thick. connect the ends pinching into a bagel shape with hole in the middle. preheat an air fryer to 280 degrees f (137 degrees c) for about 3 minutes. combine the egg and water, and brush on each bagel, then sprinkle with cinnamon sugar. line the air fryer basket with a parchment liner or lightly spray with cooking spray. place the bagels in the basket not touching, and cook until golden brown, 15 to 16 minutes. don't crowd the basket, and cook in two batches if necessary. your time may vary depending on the size and brand of your air fryer. remove the bagels to a rack, and cool for about 10 minutes before slicing.",
+        "combined_text": "2-ingredient dough air fryer blueberry bagels bagels bagels ⅔ cup dried blueberries 1 ¼ cups self-rising flour 1 cup non-fat plain greek yogurt (such as fage® total 0%) 1 large egg, beaten 1 teaspoon water ½ teaspoon cinnamon sugar place blueberries in a small bowl, and pour boiling water over them. let sit for 5 minutes, and drain add flour, yogurt, and blueberries to a large stand mixer bowl. using the dough hook, mix at low speed for about 3 minutes. if you're using a kitchenaid mixer, use speed 3. dough will be crumbly. transfer the dough to a lightly floured surface. divide the dough into 4 equal balls, pressing, stretching, and rolling into ropes that are about 8 inches long, 3/4-inch thick. connect the ends pinching into a bagel shape with hole in the middle. preheat an air fryer to 280 degrees f (137 degrees c) for about 3 minutes. combine the egg and water, and brush on each bagel, then sprinkle with cinnamon sugar. line the air fryer basket with a parchment liner or lightly spray with cooking spray. place the bagels in the basket not touching, and cook until golden brown, 15 to 16 minutes. don't crowd the basket, and cook in two batches if necessary. your time may vary depending on the size and brand of your air fryer. remove the bagels to a rack, and cool for about 10 minutes before slicing.",
+        "ingredients_raw": [
+            "⅔ cup dried blueberries",
+            "1 ¼ cups self-rising flour",
+            "1 cup non-fat plain Greek yogurt (such as Fage® Total 0%)",
+            "1 large egg, beaten",
+            "1 teaspoon water",
+            "½ teaspoon cinnamon sugar"
+        ],
+        "directions_raw": [
+            "Place blueberries in a small bowl, and pour boiling water over them. Let sit for 5 minutes, and drain",
+            "Add flour, yogurt, and blueberries to a large stand mixer bowl. Using the dough hook, mix at low speed for about 3 minutes. If you're using a KitchenAid mixer, use speed 3. Dough will be crumbly.",
+            "Transfer the dough to a lightly floured surface. Divide the dough into 4 equal balls, pressing, stretching, and rolling into ropes that are about 8 inches long, 3/4-inch thick. Connect the ends pinching into a bagel shape with hole in the middle.",
+            "Preheat an air fryer to 280 degrees F (137 degrees C) for about 3 minutes. Combine the egg and water, and brush on each bagel, then sprinkle with cinnamon sugar. Line the air fryer basket with a parchment liner or lightly spray with cooking spray.",
+            "Place the bagels in the basket not touching, and cook until golden brown, 15 to 16 minutes. Don't crowd the basket, and cook in two batches if necessary. Your time may vary depending on the size and brand of your air fryer.",
+            "Remove the bagels to a rack, and cool for about 10 minutes before slicing."
+        ],
+        "ingredients_canonical": [
+            "⅔ dried blueberries",
+            "¼ self-rising flour",
+            "non-fat plain greek yogurt such as fage total",
+            "large egg beaten",
+            "water",
+            "½ cinnamon sugar"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 38,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]
