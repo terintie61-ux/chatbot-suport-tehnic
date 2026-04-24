@@ -3,13 +3,10 @@ __pycache__/
 venv/
 env/
 .venv/
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 models/saved/*
 !models/saved/.gitkeep
 .vscode/
 .idea/
 .DS_Store
 *.log
+*.pptx
