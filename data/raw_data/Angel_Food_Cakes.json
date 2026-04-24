@@ -1,0 +1,1330 @@
+[
+    {
+        "recipe_title": "Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "This is a classic angel food cake recipe that is light and tastes great by itself!",
+        "ingredients": [
+            "1 cup cake flour",
+            "1 ½ cups white sugar, divided",
+            "12 egg whites",
+            "1 ½ teaspoons vanilla extract",
+            "1 ½ teaspoons cream of tartar",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Clean and fully dry a 10-inch tube pan.",
+            "Sift together flour, and 3/4 cup sugar, set aside.",
+            "Whip egg whites, along with vanilla, cream of tartar, and salt, in a large bowl to medium stiff peaks. Gradually add remaining 3/4 cup sugar while continuing to whip to stiff peaks. When the egg white mixture has reached its maximum volume, fold in the sifted ingredients gradually, 1/3 at a time. Do not overmix. Put the batter into the tube pan.",
+            "Bake in the preheated oven until the cake springs back when touched, 40 to 45 minutes.",
+            "Balance the tube pan upside down on the top of a bottle to prevent decompression while cooling. When cool, run a knife around the edge of the pan and invert onto a plate."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "cake flour ½ white sugar divided egg whites ½ vanilla extract ½ cream tartar ½ salt",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). clean and fully dry a 10-inch tube pan. sift together flour, and 3/4 cup sugar, set aside. whip egg whites, along with vanilla, cream of tartar, and salt, in a large bowl to medium stiff peaks. gradually add remaining 3/4 cup sugar while continuing to whip to stiff peaks. when the egg white mixture has reached its maximum volume, fold in the sifted ingredients gradually, 1/3 at a time. do not overmix. put the batter into the tube pan. bake in the preheated oven until the cake springs back when touched, 40 to 45 minutes. balance the tube pan upside down on the top of a bottle to prevent decompression while cooling. when cool, run a knife around the edge of the pan and invert onto a plate.",
+        "combined_text": "angel food cake angel food cakes angel food cakes 1 cup cake flour 1 ½ cups white sugar, divided 12 egg whites 1 ½ teaspoons vanilla extract 1 ½ teaspoons cream of tartar ½ teaspoon salt preheat the oven to 375 degrees f (190 degrees c). clean and fully dry a 10-inch tube pan. sift together flour, and 3/4 cup sugar, set aside. whip egg whites, along with vanilla, cream of tartar, and salt, in a large bowl to medium stiff peaks. gradually add remaining 3/4 cup sugar while continuing to whip to stiff peaks. when the egg white mixture has reached its maximum volume, fold in the sifted ingredients gradually, 1/3 at a time. do not overmix. put the batter into the tube pan. bake in the preheated oven until the cake springs back when touched, 40 to 45 minutes. balance the tube pan upside down on the top of a bottle to prevent decompression while cooling. when cool, run a knife around the edge of the pan and invert onto a plate.",
+        "ingredients_raw": [
+            "1 cup cake flour",
+            "1 ½ cups white sugar, divided",
+            "12 egg whites",
+            "1 ½ teaspoons vanilla extract",
+            "1 ½ teaspoons cream of tartar",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Clean and fully dry a 10-inch tube pan.",
+            "Sift together flour, and 3/4 cup sugar, set aside.",
+            "Whip egg whites, along with vanilla, cream of tartar, and salt, in a large bowl to medium stiff peaks. Gradually add remaining 3/4 cup sugar while continuing to whip to stiff peaks. When the egg white mixture has reached its maximum volume, fold in the sifted ingredients gradually, 1/3 at a time. Do not overmix. Put the batter into the tube pan.",
+            "Bake in the preheated oven until the cake springs back when touched, 40 to 45 minutes.",
+            "Balance the tube pan upside down on the top of a bottle to prevent decompression while cooling. When cool, run a knife around the edge of the pan and invert onto a plate."
+        ],
+        "ingredients_canonical": [
+            "cake flour",
+            "½ white sugar divided",
+            "egg whites",
+            "½ vanilla extract",
+            "½ cream tartar",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mock Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "My grandma used this mock angel food cake recipe when she had a bakery. I have never had a problem with it. It is so easy to do!",
+        "ingredients": [
+            "4 ½ cups cake flour",
+            "4 cups white sugar",
+            "2 teaspoons salt",
+            "2 cups boiling water",
+            "16 egg whites",
+            "2 tablespoons baking powder",
+            "2 teaspoons cream of tartar",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon almond extract"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Sift cake flour, sugar, and salt three times then stir in boiling water. Let cool.",
+            "Beat egg whites, cream of tartar, baking powder, vanilla, and almond flavorings until stiff peaks form. Fold into flour mixture and pour batter into one ungreased 12x18-inch baking pan.",
+            "Bake at 350 degrees F (175 degrees C) for 35 minutes. Cool cake inverted in pan, laying a tea towel underneath cake to absorb steam. Frost as desired once cake is cooled."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "½ cake flour white sugar salt boiling water egg whites baking powder cream tartar vanilla extract almond extract",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). sift cake flour, sugar, and salt three times then stir in boiling water. let cool. beat egg whites, cream of tartar, baking powder, vanilla, and almond flavorings until stiff peaks form. fold into flour mixture and pour batter into one ungreased 12x18-inch baking pan. bake at 350 degrees f (175 degrees c) for 35 minutes. cool cake inverted in pan, laying a tea towel underneath cake to absorb steam. frost as desired once cake is cooled.",
+        "combined_text": "mock angel food cake angel food cakes angel food cakes 4 ½ cups cake flour 4 cups white sugar 2 teaspoons salt 2 cups boiling water 16 egg whites 2 tablespoons baking powder 2 teaspoons cream of tartar 2 teaspoons vanilla extract 1 teaspoon almond extract preheat the oven to 350 degrees f (175 degrees c). sift cake flour, sugar, and salt three times then stir in boiling water. let cool. beat egg whites, cream of tartar, baking powder, vanilla, and almond flavorings until stiff peaks form. fold into flour mixture and pour batter into one ungreased 12x18-inch baking pan. bake at 350 degrees f (175 degrees c) for 35 minutes. cool cake inverted in pan, laying a tea towel underneath cake to absorb steam. frost as desired once cake is cooled.",
+        "ingredients_raw": [
+            "4 ½ cups cake flour",
+            "4 cups white sugar",
+            "2 teaspoons salt",
+            "2 cups boiling water",
+            "16 egg whites",
+            "2 tablespoons baking powder",
+            "2 teaspoons cream of tartar",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon almond extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Sift cake flour, sugar, and salt three times then stir in boiling water. Let cool.",
+            "Beat egg whites, cream of tartar, baking powder, vanilla, and almond flavorings until stiff peaks form. Fold into flour mixture and pour batter into one ungreased 12x18-inch baking pan.",
+            "Bake at 350 degrees F (175 degrees C) for 35 minutes. Cool cake inverted in pan, laying a tea towel underneath cake to absorb steam. Frost as desired once cake is cooled."
+        ],
+        "ingredients_canonical": [
+            "½ cake flour",
+            "white sugar",
+            "salt",
+            "boiling water",
+            "egg whites",
+            "baking powder",
+            "cream tartar",
+            "vanilla extract",
+            "almond extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Heavenly Raspberry Dessert",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "Light-tasting and delicious! My mother's famous dessert recipe has completed many holiday meals and makes a stunning summery cake. This works beautifully with strawberries as well.",
+        "ingredients": [
+            "1 (9 inch) angel food cake",
+            "2 (3 ounce) packages raspberry-flavored gelatin mix (such as Jell-O®)",
+            "1 ¼ cups boiling water",
+            "1 (15 ounce) package frozen raspberries in syrup, thawed and undrained",
+            "1 pint heavy whipping cream"
+        ],
+        "directions": [
+            "Butter a 9-inch tube pan. Break angel food cake into chunks; set aside.",
+            "Stir raspberry gelatin and boiling water together in a bowl until gelatin is dissolved; place gelatin in the refrigerator to cool slightly, about 10 minutes. Stir raspberries with syrup into gelatin.",
+            "Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form; fold whipped cream into raspberry mixture.",
+            "Pour about 1/4 cup of raspberry mixture into prepared pan. Place 1/3 of cake chunks into pan; pour 1/3 of remaining raspberry mixture over cake. Repeat layering with remaining ingredients, ending with the raspberry mixture. Chill in refrigerator until firm, about 2 hours.",
+            "To remove from pan, center a serving plate over tube pan; invert."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "inch angel food cake ounce packages raspberry-flavored gelatin mix such as jell-o ¼ boiling water ounce package frozen raspberries in syrup thawed undrained pint heavy whipping cream",
+        "directions_text": "butter a 9-inch tube pan. break angel food cake into chunks; set aside. stir raspberry gelatin and boiling water together in a bowl until gelatin is dissolved; place gelatin in the refrigerator to cool slightly, about 10 minutes. stir raspberries with syrup into gelatin. beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form; fold whipped cream into raspberry mixture. pour about 1/4 cup of raspberry mixture into prepared pan. place 1/3 of cake chunks into pan; pour 1/3 of remaining raspberry mixture over cake. repeat layering with remaining ingredients, ending with the raspberry mixture. chill in refrigerator until firm, about 2 hours. to remove from pan, center a serving plate over tube pan; invert.",
+        "combined_text": "heavenly raspberry dessert angel food cakes angel food cakes 1 (9 inch) angel food cake 2 (3 ounce) packages raspberry-flavored gelatin mix (such as jell-o®) 1 ¼ cups boiling water 1 (15 ounce) package frozen raspberries in syrup, thawed and undrained 1 pint heavy whipping cream butter a 9-inch tube pan. break angel food cake into chunks; set aside. stir raspberry gelatin and boiling water together in a bowl until gelatin is dissolved; place gelatin in the refrigerator to cool slightly, about 10 minutes. stir raspberries with syrup into gelatin. beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form; fold whipped cream into raspberry mixture. pour about 1/4 cup of raspberry mixture into prepared pan. place 1/3 of cake chunks into pan; pour 1/3 of remaining raspberry mixture over cake. repeat layering with remaining ingredients, ending with the raspberry mixture. chill in refrigerator until firm, about 2 hours. to remove from pan, center a serving plate over tube pan; invert.",
+        "ingredients_raw": [
+            "1 (9 inch) angel food cake",
+            "2 (3 ounce) packages raspberry-flavored gelatin mix (such as Jell-O®)",
+            "1 ¼ cups boiling water",
+            "1 (15 ounce) package frozen raspberries in syrup, thawed and undrained",
+            "1 pint heavy whipping cream"
+        ],
+        "directions_raw": [
+            "Butter a 9-inch tube pan. Break angel food cake into chunks; set aside.",
+            "Stir raspberry gelatin and boiling water together in a bowl until gelatin is dissolved; place gelatin in the refrigerator to cool slightly, about 10 minutes. Stir raspberries with syrup into gelatin.",
+            "Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form; fold whipped cream into raspberry mixture.",
+            "Pour about 1/4 cup of raspberry mixture into prepared pan. Place 1/3 of cake chunks into pan; pour 1/3 of remaining raspberry mixture over cake. Repeat layering with remaining ingredients, ending with the raspberry mixture. Chill in refrigerator until firm, about 2 hours.",
+            "To remove from pan, center a serving plate over tube pan; invert."
+        ],
+        "ingredients_canonical": [
+            "inch angel food cake",
+            "ounce packages raspberry-flavored gelatin mix such as jell-o",
+            "¼ boiling water",
+            "ounce package frozen raspberries in syrup thawed undrained",
+            "pint heavy whipping cream"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 42,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cherry Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "The traditional angel food cake with a new twist - cherries! Frost with your favorite icing.",
+        "ingredients": [
+            "1 cup cake flour",
+            "1 cup egg whites",
+            "1 teaspoon cream of tartar",
+            "¼ teaspoon salt",
+            "1 ¼ cups white sugar",
+            "¾ teaspoon vanilla extract",
+            "¼ teaspoon almond extract",
+            "⅓ cup maraschino cherries, drained and sliced"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Sift flour three times.",
+            "Beat egg whites, cream of tartar, and salt in a large glass or metal mixing bowl until foamy. Gradually add sugar, continuing to beat until stiff peaks form. Blend in vanilla and almond extract.",
+            "Fold sifted flour into egg white mixture until no streaks remain. Pour 1/2 of the batter into a clean, dry 10-inch tube pan, and arrange 1/2 of the cherries overtop. Repeat once more.",
+            "Bake in the preheated oven for 50 minutes. Cool cake in the pan, inverted onto a wire rack, empty wine bottle, or thin-necked glass bottle; this will prevent the cake from sinking."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "cake flour egg whites cream tartar ¼ salt ¼ white sugar ¾ vanilla extract ¼ almond extract ⅓ maraschino cherries drained sliced",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). sift flour three times. beat egg whites, cream of tartar, and salt in a large glass or metal mixing bowl until foamy. gradually add sugar, continuing to beat until stiff peaks form. blend in vanilla and almond extract. fold sifted flour into egg white mixture until no streaks remain. pour 1/2 of the batter into a clean, dry 10-inch tube pan, and arrange 1/2 of the cherries overtop. repeat once more. bake in the preheated oven for 50 minutes. cool cake in the pan, inverted onto a wire rack, empty wine bottle, or thin-necked glass bottle; this will prevent the cake from sinking.",
+        "combined_text": "cherry angel food cake angel food cakes angel food cakes 1 cup cake flour 1 cup egg whites 1 teaspoon cream of tartar ¼ teaspoon salt 1 ¼ cups white sugar ¾ teaspoon vanilla extract ¼ teaspoon almond extract ⅓ cup maraschino cherries, drained and sliced preheat the oven to 325 degrees f (165 degrees c). sift flour three times. beat egg whites, cream of tartar, and salt in a large glass or metal mixing bowl until foamy. gradually add sugar, continuing to beat until stiff peaks form. blend in vanilla and almond extract. fold sifted flour into egg white mixture until no streaks remain. pour 1/2 of the batter into a clean, dry 10-inch tube pan, and arrange 1/2 of the cherries overtop. repeat once more. bake in the preheated oven for 50 minutes. cool cake in the pan, inverted onto a wire rack, empty wine bottle, or thin-necked glass bottle; this will prevent the cake from sinking.",
+        "ingredients_raw": [
+            "1 cup cake flour",
+            "1 cup egg whites",
+            "1 teaspoon cream of tartar",
+            "¼ teaspoon salt",
+            "1 ¼ cups white sugar",
+            "¾ teaspoon vanilla extract",
+            "¼ teaspoon almond extract",
+            "⅓ cup maraschino cherries, drained and sliced"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Sift flour three times.",
+            "Beat egg whites, cream of tartar, and salt in a large glass or metal mixing bowl until foamy. Gradually add sugar, continuing to beat until stiff peaks form. Blend in vanilla and almond extract.",
+            "Fold sifted flour into egg white mixture until no streaks remain. Pour 1/2 of the batter into a clean, dry 10-inch tube pan, and arrange 1/2 of the cherries overtop. Repeat once more.",
+            "Bake in the preheated oven for 50 minutes. Cool cake in the pan, inverted onto a wire rack, empty wine bottle, or thin-necked glass bottle; this will prevent the cake from sinking."
+        ],
+        "ingredients_canonical": [
+            "cake flour",
+            "egg whites",
+            "cream tartar",
+            "¼ salt",
+            "¼ white sugar",
+            "¾ vanilla extract",
+            "¼ almond extract",
+            "⅓ maraschino cherries drained sliced"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 46,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "High-Altitude Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "This is my grandmother's recipe that I have adapted for high-altitude baking. It is easy, light and delicious -- the BEST angel food cake ever!!",
+        "ingredients": [
+            "1 ⅓ cups sifted cake flour",
+            "1 ⅛ cups white sugar",
+            "1 ½ cups egg whites",
+            "1 ¼ teaspoons cream of tartar",
+            "¾ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon lemon extract"
+        ],
+        "directions": [
+            "Preheat the oven to 330 degrees F (165 degrees C).",
+            "In a large glass or metal bowl, whip egg whites with cream of tartar and salt until soft peaks form. Gradually sprinkle in the sugar while continuing to whip to medium peaks. Since this is a high-altitude recipe, whip them only until they form a peak that falls over. Stir in the vanilla and lemon extracts. Use a rubber spatula to fold in flour a fourth at a time. Spoon into a clean and dry 9 inch tube pan.",
+            "Bake for 25 minutes in the preheated oven, then increase the temperature to 375 degrees F (190 degrees C). Continue baking for another 3 minutes, or until the cake begins to shrink down a bit. Invert pan over a wire rack to cool. When cool, run a thin spatula or knife around the outer edge, and tap out firmly."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "⅓ sifted cake flour ⅛ white sugar ½ egg whites ¼ cream tartar ¾ salt vanilla extract ½ lemon extract",
+        "directions_text": "preheat the oven to 330 degrees f (165 degrees c). in a large glass or metal bowl, whip egg whites with cream of tartar and salt until soft peaks form. gradually sprinkle in the sugar while continuing to whip to medium peaks. since this is a high-altitude recipe, whip them only until they form a peak that falls over. stir in the vanilla and lemon extracts. use a rubber spatula to fold in flour a fourth at a time. spoon into a clean and dry 9 inch tube pan. bake for 25 minutes in the preheated oven, then increase the temperature to 375 degrees f (190 degrees c). continue baking for another 3 minutes, or until the cake begins to shrink down a bit. invert pan over a wire rack to cool. when cool, run a thin spatula or knife around the outer edge, and tap out firmly.",
+        "combined_text": "high-altitude angel food cake angel food cakes angel food cakes 1 ⅓ cups sifted cake flour 1 ⅛ cups white sugar 1 ½ cups egg whites 1 ¼ teaspoons cream of tartar ¾ teaspoon salt 1 teaspoon vanilla extract ½ teaspoon lemon extract preheat the oven to 330 degrees f (165 degrees c). in a large glass or metal bowl, whip egg whites with cream of tartar and salt until soft peaks form. gradually sprinkle in the sugar while continuing to whip to medium peaks. since this is a high-altitude recipe, whip them only until they form a peak that falls over. stir in the vanilla and lemon extracts. use a rubber spatula to fold in flour a fourth at a time. spoon into a clean and dry 9 inch tube pan. bake for 25 minutes in the preheated oven, then increase the temperature to 375 degrees f (190 degrees c). continue baking for another 3 minutes, or until the cake begins to shrink down a bit. invert pan over a wire rack to cool. when cool, run a thin spatula or knife around the outer edge, and tap out firmly.",
+        "ingredients_raw": [
+            "1 ⅓ cups sifted cake flour",
+            "1 ⅛ cups white sugar",
+            "1 ½ cups egg whites",
+            "1 ¼ teaspoons cream of tartar",
+            "¾ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon lemon extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 330 degrees F (165 degrees C).",
+            "In a large glass or metal bowl, whip egg whites with cream of tartar and salt until soft peaks form. Gradually sprinkle in the sugar while continuing to whip to medium peaks. Since this is a high-altitude recipe, whip them only until they form a peak that falls over. Stir in the vanilla and lemon extracts. Use a rubber spatula to fold in flour a fourth at a time. Spoon into a clean and dry 9 inch tube pan.",
+            "Bake for 25 minutes in the preheated oven, then increase the temperature to 375 degrees F (190 degrees C). Continue baking for another 3 minutes, or until the cake begins to shrink down a bit. Invert pan over a wire rack to cool. When cool, run a thin spatula or knife around the outer edge, and tap out firmly."
+        ],
+        "ingredients_canonical": [
+            "⅓ sifted cake flour",
+            "⅛ white sugar",
+            "½ egg whites",
+            "¼ cream tartar",
+            "¾ salt",
+            "vanilla extract",
+            "½ lemon extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 33,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "2-Ingredient Pineapple Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "This 2-ingredient pineapple angel food cake recipe is easy and delicious. Store leftovers, covered, in the refrigerator.",
+        "ingredients": [
+            "1 (20 ounce) can crushed pineapple, in juice",
+            "1 (16 ounce) package angel food cake mix"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat crushed pineapple with juice and cake mix in a large bowl with an electric mixer on low speed for 30 seconds, then beat on medium speed for 1 minute. Pour into an ungreased 10-inch tube pan.",
+            "Bake in the preheated oven until deep golden brown, 40 to 45 minutes. Cool in the pan, inverted onto a wire rack, or thin-necked glass bottle (such as a wine bottle); this will prevent the cake from sinking, about 2 hours.",
+            "Run a table knife around the edges of the tube pan; turn out onto a serving plate. Cut into slices using a serrated knife."
+        ],
+        "num_ingredients": 2,
+        "num_steps": 4,
+        "ingredient_text": "ounce can crushed pineapple in juice ounce package angel food cake mix",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). beat crushed pineapple with juice and cake mix in a large bowl with an electric mixer on low speed for 30 seconds, then beat on medium speed for 1 minute. pour into an ungreased 10-inch tube pan. bake in the preheated oven until deep golden brown, 40 to 45 minutes. cool in the pan, inverted onto a wire rack, or thin-necked glass bottle (such as a wine bottle); this will prevent the cake from sinking, about 2 hours. run a table knife around the edges of the tube pan; turn out onto a serving plate. cut into slices using a serrated knife.",
+        "combined_text": "2-ingredient pineapple angel food cake angel food cakes angel food cakes 1 (20 ounce) can crushed pineapple, in juice 1 (16 ounce) package angel food cake mix preheat the oven to 350 degrees f (175 degrees c). beat crushed pineapple with juice and cake mix in a large bowl with an electric mixer on low speed for 30 seconds, then beat on medium speed for 1 minute. pour into an ungreased 10-inch tube pan. bake in the preheated oven until deep golden brown, 40 to 45 minutes. cool in the pan, inverted onto a wire rack, or thin-necked glass bottle (such as a wine bottle); this will prevent the cake from sinking, about 2 hours. run a table knife around the edges of the tube pan; turn out onto a serving plate. cut into slices using a serrated knife.",
+        "ingredients_raw": [
+            "1 (20 ounce) can crushed pineapple, in juice",
+            "1 (16 ounce) package angel food cake mix"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat crushed pineapple with juice and cake mix in a large bowl with an electric mixer on low speed for 30 seconds, then beat on medium speed for 1 minute. Pour into an ungreased 10-inch tube pan.",
+            "Bake in the preheated oven until deep golden brown, 40 to 45 minutes. Cool in the pan, inverted onto a wire rack, or thin-necked glass bottle (such as a wine bottle); this will prevent the cake from sinking, about 2 hours.",
+            "Run a table knife around the edges of the tube pan; turn out onto a serving plate. Cut into slices using a serrated knife."
+        ],
+        "ingredients_canonical": [
+            "ounce can crushed pineapple in juice",
+            "ounce package angel food cake mix"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Homemade Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "This angel food cake is just like grandma use to make.",
+        "ingredients": [
+            "18 egg whites",
+            "2 teaspoons cream of tartar",
+            "1 pinch salt",
+            "1 ½ cups white sugar",
+            "1 cup cake flour",
+            "½ cup confectioners' sugar",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Sift cake flour and confectioners sugar together 5 times and set aside.",
+            "In a large clean bowl, whip egg whites with a pinch of salt until foamy. Add cream of tartar and continue beating until soft peaks form. Gradually add sugar while beating, and continue to beat until very stiff. Add vanilla.",
+            "Quickly fold in flour mixture. Pour into a 10 inch tube pan.",
+            "Bake at 350 degrees F (175 degrees C) for 45 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "egg whites cream tartar pinch salt ½ white sugar cake flour ½ confectioners sugar vanilla extract",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). sift cake flour and confectioners sugar together 5 times and set aside. in a large clean bowl, whip egg whites with a pinch of salt until foamy. add cream of tartar and continue beating until soft peaks form. gradually add sugar while beating, and continue to beat until very stiff. add vanilla. quickly fold in flour mixture. pour into a 10 inch tube pan. bake at 350 degrees f (175 degrees c) for 45 minutes.",
+        "combined_text": "homemade angel food cake angel food cakes angel food cakes 18 egg whites 2 teaspoons cream of tartar 1 pinch salt 1 ½ cups white sugar 1 cup cake flour ½ cup confectioners' sugar 1 teaspoon vanilla extract preheat oven to 350 degrees f (175 degrees c). sift cake flour and confectioners sugar together 5 times and set aside. in a large clean bowl, whip egg whites with a pinch of salt until foamy. add cream of tartar and continue beating until soft peaks form. gradually add sugar while beating, and continue to beat until very stiff. add vanilla. quickly fold in flour mixture. pour into a 10 inch tube pan. bake at 350 degrees f (175 degrees c) for 45 minutes.",
+        "ingredients_raw": [
+            "18 egg whites",
+            "2 teaspoons cream of tartar",
+            "1 pinch salt",
+            "1 ½ cups white sugar",
+            "1 cup cake flour",
+            "½ cup confectioners' sugar",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Sift cake flour and confectioners sugar together 5 times and set aside.",
+            "In a large clean bowl, whip egg whites with a pinch of salt until foamy. Add cream of tartar and continue beating until soft peaks form. Gradually add sugar while beating, and continue to beat until very stiff. Add vanilla.",
+            "Quickly fold in flour mixture. Pour into a 10 inch tube pan.",
+            "Bake at 350 degrees F (175 degrees C) for 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "egg whites",
+            "cream tartar",
+            "pinch salt",
+            "½ white sugar",
+            "cake flour",
+            "½ confectioners sugar",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Microwave Mini Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "You can put sprinkles or chocolate chips on this mini angel food cake.",
+        "ingredients": [
+            "3 tablespoons angel food cake mix",
+            "2 teaspoons water",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Put cake mix, water, and vanilla in a microwave-safe mug and stir until well combined.",
+            "Microwave on high for 1 minute."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 2,
+        "ingredient_text": "angel food cake mix water vanilla extract",
+        "directions_text": "put cake mix, water, and vanilla in a microwave-safe mug and stir until well combined. microwave on high for 1 minute.",
+        "combined_text": "microwave mini angel food cake angel food cakes angel food cakes 3 tablespoons angel food cake mix 2 teaspoons water 1 teaspoon vanilla extract put cake mix, water, and vanilla in a microwave-safe mug and stir until well combined. microwave on high for 1 minute.",
+        "ingredients_raw": [
+            "3 tablespoons angel food cake mix",
+            "2 teaspoons water",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Put cake mix, water, and vanilla in a microwave-safe mug and stir until well combined.",
+            "Microwave on high for 1 minute."
+        ],
+        "ingredients_canonical": [
+            "angel food cake mix",
+            "water",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "american"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "none",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Gluten-Free Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "I have been making this for about 2 years and I have made it over 6 times at the time of publishing. Cut with a clean serrated knife, wiping the blade every few cuts.",
+        "ingredients": [
+            "1 cup white rice flour",
+            "½ cup powdered sugar",
+            "¼ teaspoon xanthan gum",
+            "18 large egg whites",
+            "2 teaspoons cream of tartar",
+            "1 pinch salt",
+            "1 ½ cups white sugar",
+            "1 teaspoon pure vanilla extract"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Sift rice flour, powdered sugar, and xanthan gum 3 times with a sieve.",
+            "Beat egg whites on high speed in a very large glass, metal, or ceramic bowl with high sides until foamy. When they start to get fluffy, add cream of tartar and salt. Continue to beat until stiff peaks form. Mix in white sugar and vanilla.",
+            "Dollop some egg whites into a very large, flat bowl, like a punch bowl. Sprinkle some flour mixture on top. Continue to layer egg whites with the flour mixture, then gently fold together. Spoon batter into a round, 2-part angel food cake pan.",
+            "Bake until the top is golden brown and a knife comes out clean when inserted in the center, 50 to 60 minutes.",
+            "Remove from the oven and let rest for no longer than 5 minutes, then immediately flip it upside down and rest it on a wine bottle until completely cool, 1 to 2 hours.",
+            "When cool, turn the cake over and run a knife around the edge if needed to loosen. Flip over onto a cake stand and remove from the pan."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 7,
+        "ingredient_text": "white rice flour ½ powdered sugar ¼ xanthan gum large egg whites cream tartar pinch salt ½ white sugar pure vanilla extract",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). sift rice flour, powdered sugar, and xanthan gum 3 times with a sieve. beat egg whites on high speed in a very large glass, metal, or ceramic bowl with high sides until foamy. when they start to get fluffy, add cream of tartar and salt. continue to beat until stiff peaks form. mix in white sugar and vanilla. dollop some egg whites into a very large, flat bowl, like a punch bowl. sprinkle some flour mixture on top. continue to layer egg whites with the flour mixture, then gently fold together. spoon batter into a round, 2-part angel food cake pan. bake until the top is golden brown and a knife comes out clean when inserted in the center, 50 to 60 minutes. remove from the oven and let rest for no longer than 5 minutes, then immediately flip it upside down and rest it on a wine bottle until completely cool, 1 to 2 hours. when cool, turn the cake over and run a knife around the edge if needed to loosen. flip over onto a cake stand and remove from the pan.",
+        "combined_text": "gluten-free angel food cake angel food cakes angel food cakes 1 cup white rice flour ½ cup powdered sugar ¼ teaspoon xanthan gum 18 large egg whites 2 teaspoons cream of tartar 1 pinch salt 1 ½ cups white sugar 1 teaspoon pure vanilla extract preheat the oven to 350 degrees f (175 degrees c). sift rice flour, powdered sugar, and xanthan gum 3 times with a sieve. beat egg whites on high speed in a very large glass, metal, or ceramic bowl with high sides until foamy. when they start to get fluffy, add cream of tartar and salt. continue to beat until stiff peaks form. mix in white sugar and vanilla. dollop some egg whites into a very large, flat bowl, like a punch bowl. sprinkle some flour mixture on top. continue to layer egg whites with the flour mixture, then gently fold together. spoon batter into a round, 2-part angel food cake pan. bake until the top is golden brown and a knife comes out clean when inserted in the center, 50 to 60 minutes. remove from the oven and let rest for no longer than 5 minutes, then immediately flip it upside down and rest it on a wine bottle until completely cool, 1 to 2 hours. when cool, turn the cake over and run a knife around the edge if needed to loosen. flip over onto a cake stand and remove from the pan.",
+        "ingredients_raw": [
+            "1 cup white rice flour",
+            "½ cup powdered sugar",
+            "¼ teaspoon xanthan gum",
+            "18 large egg whites",
+            "2 teaspoons cream of tartar",
+            "1 pinch salt",
+            "1 ½ cups white sugar",
+            "1 teaspoon pure vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Sift rice flour, powdered sugar, and xanthan gum 3 times with a sieve.",
+            "Beat egg whites on high speed in a very large glass, metal, or ceramic bowl with high sides until foamy. When they start to get fluffy, add cream of tartar and salt. Continue to beat until stiff peaks form. Mix in white sugar and vanilla.",
+            "Dollop some egg whites into a very large, flat bowl, like a punch bowl. Sprinkle some flour mixture on top. Continue to layer egg whites with the flour mixture, then gently fold together. Spoon batter into a round, 2-part angel food cake pan.",
+            "Bake until the top is golden brown and a knife comes out clean when inserted in the center, 50 to 60 minutes.",
+            "Remove from the oven and let rest for no longer than 5 minutes, then immediately flip it upside down and rest it on a wine bottle until completely cool, 1 to 2 hours.",
+            "When cool, turn the cake over and run a knife around the edge if needed to loosen. Flip over onto a cake stand and remove from the pan."
+        ],
+        "ingredients_canonical": [
+            "white rice flour",
+            "½ powdered sugar",
+            "¼ xanthan gum",
+            "large egg whites",
+            "cream tartar",
+            "pinch salt",
+            "½ white sugar",
+            "pure vanilla extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "side",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 4,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 74,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Honey Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "The moistest, yummiest cake from mom, Hattie! She always made it, then taught me.",
+        "ingredients": [
+            "1 ½ cups egg whites",
+            "½ teaspoon salt",
+            "1 ¾ teaspoons cream of tartar",
+            "½ cup honey",
+            "1 cup sifted cake flour",
+            "1 cup white sugar",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Place a 10-inch tube pan in the oven. Preheat oven to 425 degrees F (220 degrees C).",
+            "Beat egg whites with salt in a glass or metal bowl until foamy. Add cream of tartar and continue to beat until egg whites stand in peaks. Gradually add honey while beating continually to integrate until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks.",
+            "Sift flour and white sugar together. Add 1/3 of the flour mixture into the egg whites and fold gently with a spoon to integrate; repeat in two more additions of the flour mixture to completely incorporate. Stir vanilla into the batter.",
+            "Remove hot tube pan from the preheated oven. Pour the batter into the hot pan. Thump pan several times on a flat surface to break air bubbles in batter.",
+            "Bake in the preheated oven until golden and the top springs back when lightly pressed, 22 to 25 minutes. Cool cake in pan on a wire pastry rack for at least 2 hours. Run a long, thin metal spatula or knife around edge of pan to loosen cake from pan."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "½ egg whites ½ salt ¾ cream tartar ½ honey sifted cake flour white sugar vanilla extract",
+        "directions_text": "place a 10-inch tube pan in the oven. preheat oven to 425 degrees f (220 degrees c). beat egg whites with salt in a glass or metal bowl until foamy. add cream of tartar and continue to beat until egg whites stand in peaks. gradually add honey while beating continually to integrate until stiff peaks form. lift your beater or whisk straight up: the egg whites will form sharp peaks. sift flour and white sugar together. add 1/3 of the flour mixture into the egg whites and fold gently with a spoon to integrate; repeat in two more additions of the flour mixture to completely incorporate. stir vanilla into the batter. remove hot tube pan from the preheated oven. pour the batter into the hot pan. thump pan several times on a flat surface to break air bubbles in batter. bake in the preheated oven until golden and the top springs back when lightly pressed, 22 to 25 minutes. cool cake in pan on a wire pastry rack for at least 2 hours. run a long, thin metal spatula or knife around edge of pan to loosen cake from pan.",
+        "combined_text": "honey angel food cake angel food cakes angel food cakes 1 ½ cups egg whites ½ teaspoon salt 1 ¾ teaspoons cream of tartar ½ cup honey 1 cup sifted cake flour 1 cup white sugar 1 teaspoon vanilla extract place a 10-inch tube pan in the oven. preheat oven to 425 degrees f (220 degrees c). beat egg whites with salt in a glass or metal bowl until foamy. add cream of tartar and continue to beat until egg whites stand in peaks. gradually add honey while beating continually to integrate until stiff peaks form. lift your beater or whisk straight up: the egg whites will form sharp peaks. sift flour and white sugar together. add 1/3 of the flour mixture into the egg whites and fold gently with a spoon to integrate; repeat in two more additions of the flour mixture to completely incorporate. stir vanilla into the batter. remove hot tube pan from the preheated oven. pour the batter into the hot pan. thump pan several times on a flat surface to break air bubbles in batter. bake in the preheated oven until golden and the top springs back when lightly pressed, 22 to 25 minutes. cool cake in pan on a wire pastry rack for at least 2 hours. run a long, thin metal spatula or knife around edge of pan to loosen cake from pan.",
+        "ingredients_raw": [
+            "1 ½ cups egg whites",
+            "½ teaspoon salt",
+            "1 ¾ teaspoons cream of tartar",
+            "½ cup honey",
+            "1 cup sifted cake flour",
+            "1 cup white sugar",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Place a 10-inch tube pan in the oven. Preheat oven to 425 degrees F (220 degrees C).",
+            "Beat egg whites with salt in a glass or metal bowl until foamy. Add cream of tartar and continue to beat until egg whites stand in peaks. Gradually add honey while beating continually to integrate until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks.",
+            "Sift flour and white sugar together. Add 1/3 of the flour mixture into the egg whites and fold gently with a spoon to integrate; repeat in two more additions of the flour mixture to completely incorporate. Stir vanilla into the batter.",
+            "Remove hot tube pan from the preheated oven. Pour the batter into the hot pan. Thump pan several times on a flat surface to break air bubbles in batter.",
+            "Bake in the preheated oven until golden and the top springs back when lightly pressed, 22 to 25 minutes. Cool cake in pan on a wire pastry rack for at least 2 hours. Run a long, thin metal spatula or knife around edge of pan to loosen cake from pan."
+        ],
+        "ingredients_canonical": [
+            "½ egg whites",
+            "½ salt",
+            "¾ cream tartar",
+            "½ honey",
+            "sifted cake flour",
+            "white sugar",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Angel Food Cake II",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "This is a yummy change to standard Angel Food cake. It has a light and delicate flavor and hits the spot of that chocolate craving. Note: for best flavor and texture, serve the cake on the day it's made and be sure to avoid any traces of yolk in the egg whites, which would prevent them from whipping to their fullest.",
+        "ingredients": [
+            "¾ cup cake flour",
+            "¼ cup unsweetened cocoa powder",
+            "1 ½ cups white sugar",
+            "3 (1 ounce) squares semisweet chocolate, grated",
+            "12 egg whites",
+            "1 teaspoon cream of tartar",
+            "¼ teaspoon salt",
+            "¼ teaspoon vanilla extract",
+            "1 ½ teaspoons lemon juice",
+            "confectioners' sugar for dusting"
+        ],
+        "directions": [
+            "Preheat oven to 325 degrees F (165 degrees C). If it does not have a removable bottom, line a 9 inch tube pan with parchment paper. Sift together the flour, cocoa and 3/4 cup of the sugar. Set aside. Measure 3 tablespoons of the flour mixture and toss with the grated chocolate.",
+            "In a large bowl, using an electric mixer set at low speed, beat egg whites until foamy. Increase mixer speed to medium, stir in cream of tartar and salt, and continue to beat until egg whites form soft peaks. Gradually mix in the remaining 3/4 cup sugar and beat until stiff peaks form. Stir in the vanilla and lemon juice.",
+            "Gently fold the flour mixture into the beaten egg whites, then fold in the grated chocolate, stirring just until no white streaks remain.",
+            "Gently scrape the batter into the prepared pan. Smooth the surface of the batter and tap the pan lightly to remove any air bubbles. Bake in center of the preheated oven for 60 minutes, or until the surface springs back when touched. Cool completely, and sprinkle with confectioners' sugar before serving, if desired."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "¾ cake flour ¼ unsweetened cocoa powder ½ white sugar ounce squares semisweet chocolate grated egg whites cream tartar ¼ salt ¼ vanilla extract ½ lemon juice confectioners sugar for dusting",
+        "directions_text": "preheat oven to 325 degrees f (165 degrees c). if it does not have a removable bottom, line a 9 inch tube pan with parchment paper. sift together the flour, cocoa and 3/4 cup of the sugar. set aside. measure 3 tablespoons of the flour mixture and toss with the grated chocolate. in a large bowl, using an electric mixer set at low speed, beat egg whites until foamy. increase mixer speed to medium, stir in cream of tartar and salt, and continue to beat until egg whites form soft peaks. gradually mix in the remaining 3/4 cup sugar and beat until stiff peaks form. stir in the vanilla and lemon juice. gently fold the flour mixture into the beaten egg whites, then fold in the grated chocolate, stirring just until no white streaks remain. gently scrape the batter into the prepared pan. smooth the surface of the batter and tap the pan lightly to remove any air bubbles. bake in center of the preheated oven for 60 minutes, or until the surface springs back when touched. cool completely, and sprinkle with confectioners' sugar before serving, if desired.",
+        "combined_text": "chocolate angel food cake ii angel food cakes angel food cakes ¾ cup cake flour ¼ cup unsweetened cocoa powder 1 ½ cups white sugar 3 (1 ounce) squares semisweet chocolate, grated 12 egg whites 1 teaspoon cream of tartar ¼ teaspoon salt ¼ teaspoon vanilla extract 1 ½ teaspoons lemon juice confectioners' sugar for dusting preheat oven to 325 degrees f (165 degrees c). if it does not have a removable bottom, line a 9 inch tube pan with parchment paper. sift together the flour, cocoa and 3/4 cup of the sugar. set aside. measure 3 tablespoons of the flour mixture and toss with the grated chocolate. in a large bowl, using an electric mixer set at low speed, beat egg whites until foamy. increase mixer speed to medium, stir in cream of tartar and salt, and continue to beat until egg whites form soft peaks. gradually mix in the remaining 3/4 cup sugar and beat until stiff peaks form. stir in the vanilla and lemon juice. gently fold the flour mixture into the beaten egg whites, then fold in the grated chocolate, stirring just until no white streaks remain. gently scrape the batter into the prepared pan. smooth the surface of the batter and tap the pan lightly to remove any air bubbles. bake in center of the preheated oven for 60 minutes, or until the surface springs back when touched. cool completely, and sprinkle with confectioners' sugar before serving, if desired.",
+        "ingredients_raw": [
+            "¾ cup cake flour",
+            "¼ cup unsweetened cocoa powder",
+            "1 ½ cups white sugar",
+            "3 (1 ounce) squares semisweet chocolate, grated",
+            "12 egg whites",
+            "1 teaspoon cream of tartar",
+            "¼ teaspoon salt",
+            "¼ teaspoon vanilla extract",
+            "1 ½ teaspoons lemon juice",
+            "confectioners' sugar for dusting"
+        ],
+        "directions_raw": [
+            "Preheat oven to 325 degrees F (165 degrees C). If it does not have a removable bottom, line a 9 inch tube pan with parchment paper. Sift together the flour, cocoa and 3/4 cup of the sugar. Set aside. Measure 3 tablespoons of the flour mixture and toss with the grated chocolate.",
+            "In a large bowl, using an electric mixer set at low speed, beat egg whites until foamy. Increase mixer speed to medium, stir in cream of tartar and salt, and continue to beat until egg whites form soft peaks. Gradually mix in the remaining 3/4 cup sugar and beat until stiff peaks form. Stir in the vanilla and lemon juice.",
+            "Gently fold the flour mixture into the beaten egg whites, then fold in the grated chocolate, stirring just until no white streaks remain.",
+            "Gently scrape the batter into the prepared pan. Smooth the surface of the batter and tap the pan lightly to remove any air bubbles. Bake in center of the preheated oven for 60 minutes, or until the surface springs back when touched. Cool completely, and sprinkle with confectioners' sugar before serving, if desired."
+        ],
+        "ingredients_canonical": [
+            "¾ cake flour",
+            "¼ unsweetened cocoa powder",
+            "½ white sugar",
+            "ounce squares semisweet chocolate grated",
+            "egg whites",
+            "cream tartar",
+            "¼ salt",
+            "¼ vanilla extract",
+            "½ lemon juice",
+            "confectioners sugar for dusting"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Toasted Angel Food Cake with Strawberries",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "Toasted angel food cake with laughing strawberries and lemon cream cheese frosting is light, fluffy, fun, and so yummy!",
+        "ingredients": [
+            "1 ¾ cups white sugar",
+            "1 cup cake flour",
+            "¼ teaspoon salt",
+            "12 egg whites, at room temperature",
+            "⅓ cup water",
+            "1 ½ teaspoons cream of tartar",
+            "1 teaspoon lemon extract"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place 1 3/4 cups sugar in a food processor and blend until superfine, about 2 minutes.",
+            "Sift half the fine sugar, cake flour, and salt together in a bowl.",
+            "Whisk egg whites, water, cream of tartar, and lemon extract together in a large bowl for 2 minutes. Beat in remaining fine sugar using an electric mixer until medium peaks form. Sprinkle some of the flour mixture on top; stir in gently. Repeat with the rest of the flour mixture. Spoon batter carefully into an ungreased fluted tube pan.",
+            "Bake in the preheated oven until golden brown, about 35 minutes. Invert onto a cooling rack and let cool completely, at least 25 minutes.",
+            "Beat cream cheese and 1/4 cup butter together in a bowl using an electric mixer on medium speed until light and creamy. Add lemon juice; beat until just blended. Gradually mix in all but 2 tablespoons confectioners' sugar on low speed until frosting is just blended. Stir in lemon zest.",
+            "Mix 3/4 cup strawberries, blueberries, blackberries, and raspberries thoroughly in a bowl with 2 tablespoons white sugar.",
+            "Cut a curved, smile-shaped line near the bottom of each whole strawberry; carefully cut another, flatter curve above. Connect the two curves and carve out space between to create the smile. Leave room above the smile and below the leaves for eyeballs.",
+            "Place reserved 2 tablespoons confectioners' sugar in a small bowl. Dust hands with sugar and roll a tiny amount of stiff decorator icing between your fingers into a small ball. Place it on the strawberry, above the smile. Make another ball and stick it next to the first one. Stick 1 black sugar pearl onto each frosting ball to create eyes. Repeat with remaining whole strawberries.",
+            "Remove cake carefully from the pan, scraping edges from side if needed. Slice into 6 slices about 2 inches thick. Spread 2 tablespoons butter equally on the outside of the slices.",
+            "Heat a large skillet over medium heat. Add a cake slice; toast until lightly browned, about 1 minute per side. Place toasted cake on a plate. Spoon some frosting on top and let it drip down. Spoon sugared berries around the cake and place a smiling strawberry on top. Repeat with remaining cake slices, frosting, and berries."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 11,
+        "ingredient_text": "¾ white sugar cake flour ¼ salt egg whites at room temperature ⅓ water ½ cream tartar lemon extract",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). place 1 3/4 cups sugar in a food processor and blend until superfine, about 2 minutes. sift half the fine sugar, cake flour, and salt together in a bowl. whisk egg whites, water, cream of tartar, and lemon extract together in a large bowl for 2 minutes. beat in remaining fine sugar using an electric mixer until medium peaks form. sprinkle some of the flour mixture on top; stir in gently. repeat with the rest of the flour mixture. spoon batter carefully into an ungreased fluted tube pan. bake in the preheated oven until golden brown, about 35 minutes. invert onto a cooling rack and let cool completely, at least 25 minutes. beat cream cheese and 1/4 cup butter together in a bowl using an electric mixer on medium speed until light and creamy. add lemon juice; beat until just blended. gradually mix in all but 2 tablespoons confectioners' sugar on low speed until frosting is just blended. stir in lemon zest. mix 3/4 cup strawberries, blueberries, blackberries, and raspberries thoroughly in a bowl with 2 tablespoons white sugar. cut a curved, smile-shaped line near the bottom of each whole strawberry; carefully cut another, flatter curve above. connect the two curves and carve out space between to create the smile. leave room above the smile and below the leaves for eyeballs. place reserved 2 tablespoons confectioners' sugar in a small bowl. dust hands with sugar and roll a tiny amount of stiff decorator icing between your fingers into a small ball. place it on the strawberry, above the smile. make another ball and stick it next to the first one. stick 1 black sugar pearl onto each frosting ball to create eyes. repeat with remaining whole strawberries. remove cake carefully from the pan, scraping edges from side if needed. slice into 6 slices about 2 inches thick. spread 2 tablespoons butter equally on the outside of the slices. heat a large skillet over medium heat. add a cake slice; toast until lightly browned, about 1 minute per side. place toasted cake on a plate. spoon some frosting on top and let it drip down. spoon sugared berries around the cake and place a smiling strawberry on top. repeat with remaining cake slices, frosting, and berries.",
+        "combined_text": "toasted angel food cake with strawberries angel food cakes angel food cakes 1 ¾ cups white sugar 1 cup cake flour ¼ teaspoon salt 12 egg whites, at room temperature ⅓ cup water 1 ½ teaspoons cream of tartar 1 teaspoon lemon extract preheat the oven to 350 degrees f (175 degrees c). place 1 3/4 cups sugar in a food processor and blend until superfine, about 2 minutes. sift half the fine sugar, cake flour, and salt together in a bowl. whisk egg whites, water, cream of tartar, and lemon extract together in a large bowl for 2 minutes. beat in remaining fine sugar using an electric mixer until medium peaks form. sprinkle some of the flour mixture on top; stir in gently. repeat with the rest of the flour mixture. spoon batter carefully into an ungreased fluted tube pan. bake in the preheated oven until golden brown, about 35 minutes. invert onto a cooling rack and let cool completely, at least 25 minutes. beat cream cheese and 1/4 cup butter together in a bowl using an electric mixer on medium speed until light and creamy. add lemon juice; beat until just blended. gradually mix in all but 2 tablespoons confectioners' sugar on low speed until frosting is just blended. stir in lemon zest. mix 3/4 cup strawberries, blueberries, blackberries, and raspberries thoroughly in a bowl with 2 tablespoons white sugar. cut a curved, smile-shaped line near the bottom of each whole strawberry; carefully cut another, flatter curve above. connect the two curves and carve out space between to create the smile. leave room above the smile and below the leaves for eyeballs. place reserved 2 tablespoons confectioners' sugar in a small bowl. dust hands with sugar and roll a tiny amount of stiff decorator icing between your fingers into a small ball. place it on the strawberry, above the smile. make another ball and stick it next to the first one. stick 1 black sugar pearl onto each frosting ball to create eyes. repeat with remaining whole strawberries. remove cake carefully from the pan, scraping edges from side if needed. slice into 6 slices about 2 inches thick. spread 2 tablespoons butter equally on the outside of the slices. heat a large skillet over medium heat. add a cake slice; toast until lightly browned, about 1 minute per side. place toasted cake on a plate. spoon some frosting on top and let it drip down. spoon sugared berries around the cake and place a smiling strawberry on top. repeat with remaining cake slices, frosting, and berries.",
+        "ingredients_raw": [
+            "1 ¾ cups white sugar",
+            "1 cup cake flour",
+            "¼ teaspoon salt",
+            "12 egg whites, at room temperature",
+            "⅓ cup water",
+            "1 ½ teaspoons cream of tartar",
+            "1 teaspoon lemon extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place 1 3/4 cups sugar in a food processor and blend until superfine, about 2 minutes.",
+            "Sift half the fine sugar, cake flour, and salt together in a bowl.",
+            "Whisk egg whites, water, cream of tartar, and lemon extract together in a large bowl for 2 minutes. Beat in remaining fine sugar using an electric mixer until medium peaks form. Sprinkle some of the flour mixture on top; stir in gently. Repeat with the rest of the flour mixture. Spoon batter carefully into an ungreased fluted tube pan.",
+            "Bake in the preheated oven until golden brown, about 35 minutes. Invert onto a cooling rack and let cool completely, at least 25 minutes.",
+            "Beat cream cheese and 1/4 cup butter together in a bowl using an electric mixer on medium speed until light and creamy. Add lemon juice; beat until just blended. Gradually mix in all but 2 tablespoons confectioners' sugar on low speed until frosting is just blended. Stir in lemon zest.",
+            "Mix 3/4 cup strawberries, blueberries, blackberries, and raspberries thoroughly in a bowl with 2 tablespoons white sugar.",
+            "Cut a curved, smile-shaped line near the bottom of each whole strawberry; carefully cut another, flatter curve above. Connect the two curves and carve out space between to create the smile. Leave room above the smile and below the leaves for eyeballs.",
+            "Place reserved 2 tablespoons confectioners' sugar in a small bowl. Dust hands with sugar and roll a tiny amount of stiff decorator icing between your fingers into a small ball. Place it on the strawberry, above the smile. Make another ball and stick it next to the first one. Stick 1 black sugar pearl onto each frosting ball to create eyes. Repeat with remaining whole strawberries.",
+            "Remove cake carefully from the pan, scraping edges from side if needed. Slice into 6 slices about 2 inches thick. Spread 2 tablespoons butter equally on the outside of the slices.",
+            "Heat a large skillet over medium heat. Add a cake slice; toast until lightly browned, about 1 minute per side. Place toasted cake on a plate. Spoon some frosting on top and let it drip down. Spoon sugared berries around the cake and place a smiling strawberry on top. Repeat with remaining cake slices, frosting, and berries."
+        ],
+        "ingredients_canonical": [
+            "¾ white sugar",
+            "cake flour",
+            "¼ salt",
+            "egg whites at room temperature",
+            "⅓ water",
+            "½ cream tartar",
+            "lemon extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "breakfast",
+            "drink",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 18,
+        "slow_hits": 2,
+        "medium_hits": 12,
+        "cook_speed": "fast",
+        "est_prep_time_min": 35,
+        "est_cook_time_min": 117,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Two Part Angel Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "This is a recipe from my grandmother's recipe collection.",
+        "ingredients": [
+            "6 egg whites",
+            "½ teaspoon cream of tartar",
+            "¼ teaspoon salt",
+            "¾ cup white sugar",
+            "½ cup all-purpose flour",
+            "½ teaspoon vanilla extract",
+            "6 egg yolks",
+            "¾ cup white sugar",
+            "¼ teaspoon salt",
+            "¾ cup all-purpose flour",
+            "¼ cup boiling water",
+            "¾ teaspoon baking powder",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "To make Bottom/White part: Beat whites with salt until frothy. Add cream of tartar and continue beating until stiff, but not dry. Sift 1/2 cup flour and 3/4 cup sugar 4 times (separately). Add sugar gradually, then fold in flour. Add in 1/2 teaspoon vanilla. Put into ungreased angel cake pan. Prepare top.",
+            "To Make Top/Yellow Part: Beat yolks until light. Add 3/4 cup sugar, which has been sifted 4 times, gradually. Beat for 3 minutes. Add 3/4 cup flour and baking powder, which has been sifted together 4 times. Alternate flour mixture with hot water. Add 1 teaspoon vanilla. Pour this mix over top of first batter.",
+            "Bake at 325 degrees F (165 degrees C) for 40 minutes."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 3,
+        "ingredient_text": "egg whites ½ cream tartar ¼ salt ¾ white sugar ½ all-purpose flour ½ vanilla extract egg yolks ¾ white sugar ¼ salt ¾ all-purpose flour ¼ boiling water ¾ baking powder vanilla extract",
+        "directions_text": "to make bottom/white part: beat whites with salt until frothy. add cream of tartar and continue beating until stiff, but not dry. sift 1/2 cup flour and 3/4 cup sugar 4 times (separately). add sugar gradually, then fold in flour. add in 1/2 teaspoon vanilla. put into ungreased angel cake pan. prepare top. to make top/yellow part: beat yolks until light. add 3/4 cup sugar, which has been sifted 4 times, gradually. beat for 3 minutes. add 3/4 cup flour and baking powder, which has been sifted together 4 times. alternate flour mixture with hot water. add 1 teaspoon vanilla. pour this mix over top of first batter. bake at 325 degrees f (165 degrees c) for 40 minutes.",
+        "combined_text": "two part angel cake angel food cakes angel food cakes 6 egg whites ½ teaspoon cream of tartar ¼ teaspoon salt ¾ cup white sugar ½ cup all-purpose flour ½ teaspoon vanilla extract 6 egg yolks ¾ cup white sugar ¼ teaspoon salt ¾ cup all-purpose flour ¼ cup boiling water ¾ teaspoon baking powder 1 teaspoon vanilla extract to make bottom/white part: beat whites with salt until frothy. add cream of tartar and continue beating until stiff, but not dry. sift 1/2 cup flour and 3/4 cup sugar 4 times (separately). add sugar gradually, then fold in flour. add in 1/2 teaspoon vanilla. put into ungreased angel cake pan. prepare top. to make top/yellow part: beat yolks until light. add 3/4 cup sugar, which has been sifted 4 times, gradually. beat for 3 minutes. add 3/4 cup flour and baking powder, which has been sifted together 4 times. alternate flour mixture with hot water. add 1 teaspoon vanilla. pour this mix over top of first batter. bake at 325 degrees f (165 degrees c) for 40 minutes.",
+        "ingredients_raw": [
+            "6 egg whites",
+            "½ teaspoon cream of tartar",
+            "¼ teaspoon salt",
+            "¾ cup white sugar",
+            "½ cup all-purpose flour",
+            "½ teaspoon vanilla extract",
+            "6 egg yolks",
+            "¾ cup white sugar",
+            "¼ teaspoon salt",
+            "¾ cup all-purpose flour",
+            "¼ cup boiling water",
+            "¾ teaspoon baking powder",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "To make Bottom/White part: Beat whites with salt until frothy. Add cream of tartar and continue beating until stiff, but not dry. Sift 1/2 cup flour and 3/4 cup sugar 4 times (separately). Add sugar gradually, then fold in flour. Add in 1/2 teaspoon vanilla. Put into ungreased angel cake pan. Prepare top.",
+            "To Make Top/Yellow Part: Beat yolks until light. Add 3/4 cup sugar, which has been sifted 4 times, gradually. Beat for 3 minutes. Add 3/4 cup flour and baking powder, which has been sifted together 4 times. Alternate flour mixture with hot water. Add 1 teaspoon vanilla. Pour this mix over top of first batter.",
+            "Bake at 325 degrees F (165 degrees C) for 40 minutes."
+        ],
+        "ingredients_canonical": [
+            "egg whites",
+            "½ cream tartar",
+            "¼ salt",
+            "¾ white sugar",
+            "½ all-purpose flour",
+            "½ vanilla extract",
+            "egg yolks",
+            "¾ white sugar",
+            "¼ salt",
+            "¾ all-purpose flour",
+            "¼ boiling water",
+            "¾ baking powder",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 33,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Syd's Angel Food Cake",
+        "category": "Angel Food Cakes",
+        "subcategory": "Angel Food Cakes",
+        "description": "Homemade angel food cake is worth the work. It is moist, unlike the sweet Styrofoam-like cakes available in the grocery bakery. A tube pan with a removable bottom is highly recommended.",
+        "ingredients": [
+            "1 ½ cups egg whites",
+            "1 teaspoon cream of tartar",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon almond extract",
+            "1 ¼ cups cake flour",
+            "1 ¾ cups white sugar",
+            "¼ teaspoon salt"
+        ],
+        "directions": [
+            "Beat egg whites until stiff peaks form. Mix in cream of tartar, vanilla extract, and almond extract.",
+            "Sift together flour, sugar, and salt. Repeat five times.",
+            "Gently fold flour mixture into beaten egg whites.",
+            "Pour batter into an ungreased 10-inch tube pan.",
+            "Place the pan in a cold oven. Turn the oven on and set it to 325 degrees F (165degrees C). Bake until cake is golden brown, about 1 hour.",
+            "Invert the tube pan and let cake cool to room temperature before removing from the pan.",
+            "Garnish with strawberries."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 7,
+        "ingredient_text": "½ egg whites cream tartar ½ vanilla extract ½ almond extract ¼ cake flour ¾ white sugar ¼ salt",
+        "directions_text": "beat egg whites until stiff peaks form. mix in cream of tartar, vanilla extract, and almond extract. sift together flour, sugar, and salt. repeat five times. gently fold flour mixture into beaten egg whites. pour batter into an ungreased 10-inch tube pan. place the pan in a cold oven. turn the oven on and set it to 325 degrees f (165degrees c). bake until cake is golden brown, about 1 hour. invert the tube pan and let cake cool to room temperature before removing from the pan. garnish with strawberries.",
+        "combined_text": "syd's angel food cake angel food cakes angel food cakes 1 ½ cups egg whites 1 teaspoon cream of tartar ½ teaspoon vanilla extract ½ teaspoon almond extract 1 ¼ cups cake flour 1 ¾ cups white sugar ¼ teaspoon salt beat egg whites until stiff peaks form. mix in cream of tartar, vanilla extract, and almond extract. sift together flour, sugar, and salt. repeat five times. gently fold flour mixture into beaten egg whites. pour batter into an ungreased 10-inch tube pan. place the pan in a cold oven. turn the oven on and set it to 325 degrees f (165degrees c). bake until cake is golden brown, about 1 hour. invert the tube pan and let cake cool to room temperature before removing from the pan. garnish with strawberries.",
+        "ingredients_raw": [
+            "1 ½ cups egg whites",
+            "1 teaspoon cream of tartar",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon almond extract",
+            "1 ¼ cups cake flour",
+            "1 ¾ cups white sugar",
+            "¼ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Beat egg whites until stiff peaks form. Mix in cream of tartar, vanilla extract, and almond extract.",
+            "Sift together flour, sugar, and salt. Repeat five times.",
+            "Gently fold flour mixture into beaten egg whites.",
+            "Pour batter into an ungreased 10-inch tube pan.",
+            "Place the pan in a cold oven. Turn the oven on and set it to 325 degrees F (165degrees C). Bake until cake is golden brown, about 1 hour.",
+            "Invert the tube pan and let cake cool to room temperature before removing from the pan.",
+            "Garnish with strawberries."
+        ],
+        "ingredients_canonical": [
+            "½ egg whites",
+            "cream tartar",
+            "½ vanilla extract",
+            "½ almond extract",
+            "¼ cake flour",
+            "¾ white sugar",
+            "¼ salt"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 43,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]
