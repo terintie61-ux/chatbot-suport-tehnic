@@ -1,0 +1,601 @@
+[
+    {
+        "recipe_title": "Vegetable Cornish Pasties",
+        "category": "Pasties",
+        "subcategory": "Pasties",
+        "description": "A meatless version of a traditional favorite.",
+        "ingredients": [
+            "1 recipe whole wheat pastry for a double crust",
+            "¼ cup butter",
+            "1 onion, thinly sliced",
+            "1 carrot, sliced thin",
+            "1 turnip, peeled and diced",
+            "1 large potato, peeled and diced",
+            "¼ pound mushrooms, chopped",
+            "2 tablespoons water",
+            "1 teaspoon yeast extract spread",
+            "¼ cup milk",
+            "1 egg",
+            "¼ pound shredded Cheddar cheese",
+            "salt and pepper to taste",
+            "1 egg, beaten"
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Divide pastry dough into four equal portions and roll each one out in a square shape. Set pastry aside to rest.",
+            "Place a large skillet over medium heat. Add butter or margarine and allow to melt. Add onion and saute for 5 minutes, until translucent and beginning to brown. Add carrot, turnip, potato, mushrooms, and water. Lower heat and cover skillet. Allow mixture to cook for 10 minutes, stirring occasionally.",
+            "In a small bowl, dissolve yeast extract in milk. Whisk in 1 egg. Stir this mixture into cooked vegetables. Continue to stir until mixture thickens. Add cheese, and salt and pepper to taste. Set aside to cool.",
+            "Place 1/4 of filling on one half of each pastry square. Fold pastry diagonally and seal edges. Brush tops of pastry with beaten egg.",
+            "Place pasties on a baking sheet and bake in preheated oven for 30 minutes, until pastry is golden brown."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 6,
+        "ingredient_text": "recipe whole wheat pastry for a double crust ¼ butter onion thinly sliced carrot sliced thin turnip peeled diced large potato peeled diced ¼ pound mushrooms chopped water yeast extract spread ¼ milk egg ¼ pound shredded cheddar cheese salt pepper taste egg beaten",
+        "directions_text": "preheat oven to 400 degrees f (200 degrees c). divide pastry dough into four equal portions and roll each one out in a square shape. set pastry aside to rest. place a large skillet over medium heat. add butter or margarine and allow to melt. add onion and saute for 5 minutes, until translucent and beginning to brown. add carrot, turnip, potato, mushrooms, and water. lower heat and cover skillet. allow mixture to cook for 10 minutes, stirring occasionally. in a small bowl, dissolve yeast extract in milk. whisk in 1 egg. stir this mixture into cooked vegetables. continue to stir until mixture thickens. add cheese, and salt and pepper to taste. set aside to cool. place 1/4 of filling on one half of each pastry square. fold pastry diagonally and seal edges. brush tops of pastry with beaten egg. place pasties on a baking sheet and bake in preheated oven for 30 minutes, until pastry is golden brown.",
+        "combined_text": "vegetable cornish pasties pasties pasties 1 recipe whole wheat pastry for a double crust ¼ cup butter 1 onion, thinly sliced 1 carrot, sliced thin 1 turnip, peeled and diced 1 large potato, peeled and diced ¼ pound mushrooms, chopped 2 tablespoons water 1 teaspoon yeast extract spread ¼ cup milk 1 egg ¼ pound shredded cheddar cheese salt and pepper to taste 1 egg, beaten preheat oven to 400 degrees f (200 degrees c). divide pastry dough into four equal portions and roll each one out in a square shape. set pastry aside to rest. place a large skillet over medium heat. add butter or margarine and allow to melt. add onion and saute for 5 minutes, until translucent and beginning to brown. add carrot, turnip, potato, mushrooms, and water. lower heat and cover skillet. allow mixture to cook for 10 minutes, stirring occasionally. in a small bowl, dissolve yeast extract in milk. whisk in 1 egg. stir this mixture into cooked vegetables. continue to stir until mixture thickens. add cheese, and salt and pepper to taste. set aside to cool. place 1/4 of filling on one half of each pastry square. fold pastry diagonally and seal edges. brush tops of pastry with beaten egg. place pasties on a baking sheet and bake in preheated oven for 30 minutes, until pastry is golden brown.",
+        "ingredients_raw": [
+            "1 recipe whole wheat pastry for a double crust",
+            "¼ cup butter",
+            "1 onion, thinly sliced",
+            "1 carrot, sliced thin",
+            "1 turnip, peeled and diced",
+            "1 large potato, peeled and diced",
+            "¼ pound mushrooms, chopped",
+            "2 tablespoons water",
+            "1 teaspoon yeast extract spread",
+            "¼ cup milk",
+            "1 egg",
+            "¼ pound shredded Cheddar cheese",
+            "salt and pepper to taste",
+            "1 egg, beaten"
+        ],
+        "directions_raw": [
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Divide pastry dough into four equal portions and roll each one out in a square shape. Set pastry aside to rest.",
+            "Place a large skillet over medium heat. Add butter or margarine and allow to melt. Add onion and saute for 5 minutes, until translucent and beginning to brown. Add carrot, turnip, potato, mushrooms, and water. Lower heat and cover skillet. Allow mixture to cook for 10 minutes, stirring occasionally.",
+            "In a small bowl, dissolve yeast extract in milk. Whisk in 1 egg. Stir this mixture into cooked vegetables. Continue to stir until mixture thickens. Add cheese, and salt and pepper to taste. Set aside to cool.",
+            "Place 1/4 of filling on one half of each pastry square. Fold pastry diagonally and seal edges. Brush tops of pastry with beaten egg.",
+            "Place pasties on a baking sheet and bake in preheated oven for 30 minutes, until pastry is golden brown."
+        ],
+        "ingredients_canonical": [
+            "recipe whole wheat pastry for a double crust",
+            "¼ butter",
+            "onion thinly sliced",
+            "carrot sliced thin",
+            "turnip peeled diced",
+            "large potato peeled diced",
+            "¼ pound mushrooms chopped",
+            "water",
+            "yeast extract spread",
+            "¼ milk",
+            "egg",
+            "¼ pound shredded cheddar cheese",
+            "salt pepper taste",
+            "egg beaten"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 77,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Great Grandma Johns' Pasties",
+        "category": "Pasties",
+        "subcategory": "Pasties",
+        "description": "This recipe originated in Cornwall England, and was adapted by my Great Grandmother Johns. It was originally made for the coal miners and wrapped in butcher paper. The hard pastry shell would keep the juicy contents fresh until the miners were ready to eat. My Grandma would serve with relishes and Coca Cola. If you want to make these more quickly, you can use refrigerated pie crusts instead of the pastry recipe.",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "¼ teaspoon salt",
+            "½ cup shortening",
+            "¼ cup cold water"
+        ],
+        "directions": [
+            "In a medium bowl, stir together the flour and 1/4 teaspoon of salt. Cut in butter with a fork or pastry blender until the mixture resembles bread crumbs. Stir in cold water with a fork until the mixture is able to come together in a ball. Knead a couple of times then divide pastry into two pieces. Pastry may be refrigerated for later use at this time.",
+            "Preheat the oven to 400 degrees F (200 degrees C). On a lightly floured surface, roll out each half of the pastry into a 10-inch circle.",
+            "Place half of the potato slices in a line down the center of each circle, leaving at least 1 inch at each end uncovered. Arrange onion slices over the potatoes, and season with salt, pepper and some of the dried parsley. Place half of the beef cubes over each onion layer, then season again with salt, pepper and dried parsley. Fold the edges over the pastry over the filling, and tuck in the ends.",
+            "Transfer the two pastries to a greased baking sheet, and cut a few slits in the top of each one for ventilation.",
+            "Bake for 45 minutes in the preheated oven. Remove from the oven, and reduce heat to 350 degrees F (175 degrees C). Spoon 1 teaspoon of water into each slit on the tops of the pasties. Return to the oven, and bake for an additional 15 minutes, or until golden brown. Serve whole, or cut into halves."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 5,
+        "ingredient_text": "½ all-purpose flour ¼ salt ½ shortening ¼ cold water",
+        "directions_text": "in a medium bowl, stir together the flour and 1/4 teaspoon of salt. cut in butter with a fork or pastry blender until the mixture resembles bread crumbs. stir in cold water with a fork until the mixture is able to come together in a ball. knead a couple of times then divide pastry into two pieces. pastry may be refrigerated for later use at this time. preheat the oven to 400 degrees f (200 degrees c). on a lightly floured surface, roll out each half of the pastry into a 10-inch circle. place half of the potato slices in a line down the center of each circle, leaving at least 1 inch at each end uncovered. arrange onion slices over the potatoes, and season with salt, pepper and some of the dried parsley. place half of the beef cubes over each onion layer, then season again with salt, pepper and dried parsley. fold the edges over the pastry over the filling, and tuck in the ends. transfer the two pastries to a greased baking sheet, and cut a few slits in the top of each one for ventilation. bake for 45 minutes in the preheated oven. remove from the oven, and reduce heat to 350 degrees f (175 degrees c). spoon 1 teaspoon of water into each slit on the tops of the pasties. return to the oven, and bake for an additional 15 minutes, or until golden brown. serve whole, or cut into halves.",
+        "combined_text": "great grandma johns' pasties pasties pasties 1 ½ cups all-purpose flour ¼ teaspoon salt ½ cup shortening ¼ cup cold water in a medium bowl, stir together the flour and 1/4 teaspoon of salt. cut in butter with a fork or pastry blender until the mixture resembles bread crumbs. stir in cold water with a fork until the mixture is able to come together in a ball. knead a couple of times then divide pastry into two pieces. pastry may be refrigerated for later use at this time. preheat the oven to 400 degrees f (200 degrees c). on a lightly floured surface, roll out each half of the pastry into a 10-inch circle. place half of the potato slices in a line down the center of each circle, leaving at least 1 inch at each end uncovered. arrange onion slices over the potatoes, and season with salt, pepper and some of the dried parsley. place half of the beef cubes over each onion layer, then season again with salt, pepper and dried parsley. fold the edges over the pastry over the filling, and tuck in the ends. transfer the two pastries to a greased baking sheet, and cut a few slits in the top of each one for ventilation. bake for 45 minutes in the preheated oven. remove from the oven, and reduce heat to 350 degrees f (175 degrees c). spoon 1 teaspoon of water into each slit on the tops of the pasties. return to the oven, and bake for an additional 15 minutes, or until golden brown. serve whole, or cut into halves.",
+        "ingredients_raw": [
+            "1 ½ cups all-purpose flour",
+            "¼ teaspoon salt",
+            "½ cup shortening",
+            "¼ cup cold water"
+        ],
+        "directions_raw": [
+            "In a medium bowl, stir together the flour and 1/4 teaspoon of salt. Cut in butter with a fork or pastry blender until the mixture resembles bread crumbs. Stir in cold water with a fork until the mixture is able to come together in a ball. Knead a couple of times then divide pastry into two pieces. Pastry may be refrigerated for later use at this time.",
+            "Preheat the oven to 400 degrees F (200 degrees C). On a lightly floured surface, roll out each half of the pastry into a 10-inch circle.",
+            "Place half of the potato slices in a line down the center of each circle, leaving at least 1 inch at each end uncovered. Arrange onion slices over the potatoes, and season with salt, pepper and some of the dried parsley. Place half of the beef cubes over each onion layer, then season again with salt, pepper and dried parsley. Fold the edges over the pastry over the filling, and tuck in the ends.",
+            "Transfer the two pastries to a greased baking sheet, and cut a few slits in the top of each one for ventilation.",
+            "Bake for 45 minutes in the preheated oven. Remove from the oven, and reduce heat to 350 degrees F (175 degrees C). Spoon 1 teaspoon of water into each slit on the tops of the pasties. Return to the oven, and bake for an additional 15 minutes, or until golden brown. Serve whole, or cut into halves."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "¼ salt",
+            "½ shortening",
+            "¼ cold water"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 11,
+        "slow_hits": 4,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 103,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coal Miners Pasties",
+        "category": "Pasties",
+        "subcategory": "Pasties",
+        "description": "Coal miners in the Midwest would take one of these pasties for their lunch. They keep warm rather long wrapped in a towel. Some housewives would stuff one end with a savory filling, and the other with a sweet one. That way you could have your dessert with your dinner! For a true coal miner meal experience, be sure to roughly chop the potatoes.",
+        "ingredients": [
+            "4 cups all-purpose flour",
+            "2 teaspoons salt",
+            "1 ½ cups lard",
+            "10 tablespoons ice water",
+            "2 pounds top round steak, cut into 1/4 inch cubes",
+            "5 red potatoes, peeled and chopped",
+            "3 turnips, peeled and cubed",
+            "1 ½ cups chopped onion",
+            "1 teaspoon freshly ground black pepper",
+            "1 tablespoon salt"
+        ],
+        "directions": [
+            "Place flour, 2 teaspoons salt, and lard in a bowl. Quickly rub lard into flour with your fingertips until it resembles small peas. Pour in ice water and form into a ball. Add more water if it feels too dry. Divide dough into 6 balls; wrap in plastic and chill for one hour.",
+            "In a bowl, combine steak, turnips, potatoes, onions, remaining 1 tablespoon salt, and pepper.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Roll out one ball of dough on a floured surface to about 1/4 inch thick. Using a cake pan, trace a 9-inch circle in dough; cut out the circle. Place about 1 1/2 cups of steak mixture into middle of the circle. Fold edges of the circle up to meet along the top of filling; crimp dough along the top to seal. Repeat until dough is used up. Use a spatula to transfer pasties to an ungreased baking sheet.",
+            "Bake pasties in the preheated oven for 45 minutes, or until golden. Serve hot or at room temperature."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour salt ½ lard ice water pounds top round steak cut into inch cubes red potatoes peeled chopped turnips peeled cubed ½ chopped onion freshly ground black pepper salt",
+        "directions_text": "place flour, 2 teaspoons salt, and lard in a bowl. quickly rub lard into flour with your fingertips until it resembles small peas. pour in ice water and form into a ball. add more water if it feels too dry. divide dough into 6 balls; wrap in plastic and chill for one hour. in a bowl, combine steak, turnips, potatoes, onions, remaining 1 tablespoon salt, and pepper. preheat the oven to 400 degrees f (200 degrees c). roll out one ball of dough on a floured surface to about 1/4 inch thick. using a cake pan, trace a 9-inch circle in dough; cut out the circle. place about 1 1/2 cups of steak mixture into middle of the circle. fold edges of the circle up to meet along the top of filling; crimp dough along the top to seal. repeat until dough is used up. use a spatula to transfer pasties to an ungreased baking sheet. bake pasties in the preheated oven for 45 minutes, or until golden. serve hot or at room temperature.",
+        "combined_text": "coal miners pasties pasties pasties 4 cups all-purpose flour 2 teaspoons salt 1 ½ cups lard 10 tablespoons ice water 2 pounds top round steak, cut into 1/4 inch cubes 5 red potatoes, peeled and chopped 3 turnips, peeled and cubed 1 ½ cups chopped onion 1 teaspoon freshly ground black pepper 1 tablespoon salt place flour, 2 teaspoons salt, and lard in a bowl. quickly rub lard into flour with your fingertips until it resembles small peas. pour in ice water and form into a ball. add more water if it feels too dry. divide dough into 6 balls; wrap in plastic and chill for one hour. in a bowl, combine steak, turnips, potatoes, onions, remaining 1 tablespoon salt, and pepper. preheat the oven to 400 degrees f (200 degrees c). roll out one ball of dough on a floured surface to about 1/4 inch thick. using a cake pan, trace a 9-inch circle in dough; cut out the circle. place about 1 1/2 cups of steak mixture into middle of the circle. fold edges of the circle up to meet along the top of filling; crimp dough along the top to seal. repeat until dough is used up. use a spatula to transfer pasties to an ungreased baking sheet. bake pasties in the preheated oven for 45 minutes, or until golden. serve hot or at room temperature.",
+        "ingredients_raw": [
+            "4 cups all-purpose flour",
+            "2 teaspoons salt",
+            "1 ½ cups lard",
+            "10 tablespoons ice water",
+            "2 pounds top round steak, cut into 1/4 inch cubes",
+            "5 red potatoes, peeled and chopped",
+            "3 turnips, peeled and cubed",
+            "1 ½ cups chopped onion",
+            "1 teaspoon freshly ground black pepper",
+            "1 tablespoon salt"
+        ],
+        "directions_raw": [
+            "Place flour, 2 teaspoons salt, and lard in a bowl. Quickly rub lard into flour with your fingertips until it resembles small peas. Pour in ice water and form into a ball. Add more water if it feels too dry. Divide dough into 6 balls; wrap in plastic and chill for one hour.",
+            "In a bowl, combine steak, turnips, potatoes, onions, remaining 1 tablespoon salt, and pepper.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Roll out one ball of dough on a floured surface to about 1/4 inch thick. Using a cake pan, trace a 9-inch circle in dough; cut out the circle. Place about 1 1/2 cups of steak mixture into middle of the circle. Fold edges of the circle up to meet along the top of filling; crimp dough along the top to seal. Repeat until dough is used up. Use a spatula to transfer pasties to an ungreased baking sheet.",
+            "Bake pasties in the preheated oven for 45 minutes, or until golden. Serve hot or at room temperature."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "salt",
+            "½ lard",
+            "ice water",
+            "pounds top round steak cut into inch cubes",
+            "red potatoes peeled chopped",
+            "turnips peeled cubed",
+            "½ chopped onion",
+            "freshly ground black pepper",
+            "salt"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "main",
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 59,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Cabbage Pockets",
+        "category": "Pasties",
+        "subcategory": "Pasties",
+        "description": "I grew up in a town that was filled with Wolgadeutsche, or Germans from Russia. Family members and friends of the family made these cabbage pockets, sometimes called Krautbrot or Bierocks. This is a perfect food for lunches, as it is self contained and freezes well. I have changed it slightly to make it easier to make and enjoy. I love mine served hot, with ketchup for dipping!",
+        "ingredients": [
+            "cooking spray",
+            "1 pound ground beef",
+            "1 large onion, chopped",
+            "1 head cabbage, shredded",
+            "salt and ground black pepper to taste",
+            "1 (2 pound) package frozen dinner rolls, thawed"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Spray muffin cups with cooking spray.",
+            "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Stir onion into ground beef and saute until translucent, about 5 minutes. Add cabbage and reduce heat to low; cook and stir until cabbage has wilted slightly, about 5 minutes more. Pour mixture into colander to strain excess liquid and cool slightly.",
+            "Spray a work surface with cooking spray. Flatten rolls into disc shape with a rolling pin; spoon 1 to 2 tablespoons of beef and cabbage filling onto each disc. Fold discs in half around filling, pressing edges together to seal. Gently place in muffin cups, spray tops with cooking spray, and poke with toothpick to allow venting.",
+            "Cook cabbage pockets in preheated oven until dough is browned, 25 to 45 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "cooking spray pound ground beef large onion chopped head cabbage shredded salt ground black pepper taste pound package frozen dinner rolls thawed",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). spray muffin cups with cooking spray. heat a large skillet over medium-high heat. cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. stir onion into ground beef and saute until translucent, about 5 minutes. add cabbage and reduce heat to low; cook and stir until cabbage has wilted slightly, about 5 minutes more. pour mixture into colander to strain excess liquid and cool slightly. spray a work surface with cooking spray. flatten rolls into disc shape with a rolling pin; spoon 1 to 2 tablespoons of beef and cabbage filling onto each disc. fold discs in half around filling, pressing edges together to seal. gently place in muffin cups, spray tops with cooking spray, and poke with toothpick to allow venting. cook cabbage pockets in preheated oven until dough is browned, 25 to 45 minutes.",
+        "combined_text": "easy cabbage pockets pasties pasties cooking spray 1 pound ground beef 1 large onion, chopped 1 head cabbage, shredded salt and ground black pepper to taste 1 (2 pound) package frozen dinner rolls, thawed preheat oven to 350 degrees f (175 degrees c). spray muffin cups with cooking spray. heat a large skillet over medium-high heat. cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. stir onion into ground beef and saute until translucent, about 5 minutes. add cabbage and reduce heat to low; cook and stir until cabbage has wilted slightly, about 5 minutes more. pour mixture into colander to strain excess liquid and cool slightly. spray a work surface with cooking spray. flatten rolls into disc shape with a rolling pin; spoon 1 to 2 tablespoons of beef and cabbage filling onto each disc. fold discs in half around filling, pressing edges together to seal. gently place in muffin cups, spray tops with cooking spray, and poke with toothpick to allow venting. cook cabbage pockets in preheated oven until dough is browned, 25 to 45 minutes.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 pound ground beef",
+            "1 large onion, chopped",
+            "1 head cabbage, shredded",
+            "salt and ground black pepper to taste",
+            "1 (2 pound) package frozen dinner rolls, thawed"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Spray muffin cups with cooking spray.",
+            "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Stir onion into ground beef and saute until translucent, about 5 minutes. Add cabbage and reduce heat to low; cook and stir until cabbage has wilted slightly, about 5 minutes more. Pour mixture into colander to strain excess liquid and cool slightly.",
+            "Spray a work surface with cooking spray. Flatten rolls into disc shape with a rolling pin; spoon 1 to 2 tablespoons of beef and cabbage filling onto each disc. Fold discs in half around filling, pressing edges together to seal. Gently place in muffin cups, spray tops with cooking spray, and poke with toothpick to allow venting.",
+            "Cook cabbage pockets in preheated oven until dough is browned, 25 to 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "pound ground beef",
+            "large onion chopped",
+            "head cabbage shredded",
+            "salt ground black pepper taste",
+            "pound package frozen dinner rolls thawed"
+        ],
+        "cuisine_list": [
+            "american"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 59,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Vegetarian Pasties",
+        "category": "Pasties",
+        "subcategory": "Pasties",
+        "description": "I came up with this recipe because I wanted a vegetarian version.",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "1 teaspoon salt",
+            "½ teaspoon baking powder",
+            "1 cup butter",
+            "4 eggs",
+            "2 teaspoons distilled white vinegar",
+            "3 ½ cups water",
+            "1 cup dry lentils",
+            "3 potatoes, chopped",
+            "1 onion, chopped",
+            "1 tablespoon olive oil",
+            "1 teaspoon salt"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Make the dough: mix flour, salt and baking powder together in a medium size mixing bowl. Cut in butter. Stir in egg, vinegar and 1/2 cup water. Continue stirring until dough is moist enough to be formed into a ball (add more water if necessary). Form the dough into a large ball.",
+            "Make the filling: bring a pot of 3 cups water to boil, add lentils and continue to boil for 30 to 45 minutes; until lentils are tender. Watch the lentils and add water if necessary.",
+            "Wrap the potatoes in aluminum foil and bake them for 30 minutes in the preheated oven. When the potatoes have cooled cut them into small pieces and mix them with the lentils.",
+            "In a frying pan saute onions with oil. Stir the onions into the potato-lentil mixture; season with salt and stir.",
+            "Divide the dough into 6 - 8-inch circles. Lay the circles on a flat, floured surface. Place one cup of filling into the center of each circle. Fold the dough around the filling; seal the edges and arrange the pasties on an ungreased cookie sheet. Bake for one hour in the preheated oven."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 6,
+        "ingredient_text": "all-purpose flour salt ½ baking powder butter eggs distilled white vinegar ½ water dry lentils potatoes chopped onion chopped olive oil salt",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). make the dough: mix flour, salt and baking powder together in a medium size mixing bowl. cut in butter. stir in egg, vinegar and 1/2 cup water. continue stirring until dough is moist enough to be formed into a ball (add more water if necessary). form the dough into a large ball. make the filling: bring a pot of 3 cups water to boil, add lentils and continue to boil for 30 to 45 minutes; until lentils are tender. watch the lentils and add water if necessary. wrap the potatoes in aluminum foil and bake them for 30 minutes in the preheated oven. when the potatoes have cooled cut them into small pieces and mix them with the lentils. in a frying pan saute onions with oil. stir the onions into the potato-lentil mixture; season with salt and stir. divide the dough into 6 - 8-inch circles. lay the circles on a flat, floured surface. place one cup of filling into the center of each circle. fold the dough around the filling; seal the edges and arrange the pasties on an ungreased cookie sheet. bake for one hour in the preheated oven.",
+        "combined_text": "vegetarian pasties pasties pasties 3 cups all-purpose flour 1 teaspoon salt ½ teaspoon baking powder 1 cup butter 4 eggs 2 teaspoons distilled white vinegar 3 ½ cups water 1 cup dry lentils 3 potatoes, chopped 1 onion, chopped 1 tablespoon olive oil 1 teaspoon salt preheat oven to 350 degrees f (175 degrees c). make the dough: mix flour, salt and baking powder together in a medium size mixing bowl. cut in butter. stir in egg, vinegar and 1/2 cup water. continue stirring until dough is moist enough to be formed into a ball (add more water if necessary). form the dough into a large ball. make the filling: bring a pot of 3 cups water to boil, add lentils and continue to boil for 30 to 45 minutes; until lentils are tender. watch the lentils and add water if necessary. wrap the potatoes in aluminum foil and bake them for 30 minutes in the preheated oven. when the potatoes have cooled cut them into small pieces and mix them with the lentils. in a frying pan saute onions with oil. stir the onions into the potato-lentil mixture; season with salt and stir. divide the dough into 6 - 8-inch circles. lay the circles on a flat, floured surface. place one cup of filling into the center of each circle. fold the dough around the filling; seal the edges and arrange the pasties on an ungreased cookie sheet. bake for one hour in the preheated oven.",
+        "ingredients_raw": [
+            "3 cups all-purpose flour",
+            "1 teaspoon salt",
+            "½ teaspoon baking powder",
+            "1 cup butter",
+            "4 eggs",
+            "2 teaspoons distilled white vinegar",
+            "3 ½ cups water",
+            "1 cup dry lentils",
+            "3 potatoes, chopped",
+            "1 onion, chopped",
+            "1 tablespoon olive oil",
+            "1 teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Make the dough: mix flour, salt and baking powder together in a medium size mixing bowl. Cut in butter. Stir in egg, vinegar and 1/2 cup water. Continue stirring until dough is moist enough to be formed into a ball (add more water if necessary). Form the dough into a large ball.",
+            "Make the filling: bring a pot of 3 cups water to boil, add lentils and continue to boil for 30 to 45 minutes; until lentils are tender. Watch the lentils and add water if necessary.",
+            "Wrap the potatoes in aluminum foil and bake them for 30 minutes in the preheated oven. When the potatoes have cooled cut them into small pieces and mix them with the lentils.",
+            "In a frying pan saute onions with oil. Stir the onions into the potato-lentil mixture; season with salt and stir.",
+            "Divide the dough into 6 - 8-inch circles. Lay the circles on a flat, floured surface. Place one cup of filling into the center of each circle. Fold the dough around the filling; seal the edges and arrange the pasties on an ungreased cookie sheet. Bake for one hour in the preheated oven."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "salt",
+            "½ baking powder",
+            "butter",
+            "eggs",
+            "distilled white vinegar",
+            "½ water",
+            "dry lentils",
+            "potatoes chopped",
+            "onion chopped",
+            "olive oil",
+            "salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 11,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 27,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cornish Pastie II",
+        "category": "Pasties",
+        "subcategory": "Pasties",
+        "description": "Individual pasties--originally made to pack in lunch boxes.",
+        "ingredients": [
+            "1 recipe pastry for a (10 inch) double crust pie",
+            "2 cups thinly sliced potatoes",
+            "½ cup sliced onion",
+            "½ pound boneless beef round steak, cut into thin strips",
+            "1 ½ teaspoons salt",
+            "1 pinch ground black pepper",
+            "2 tablespoons butter"
+        ],
+        "directions": [
+            "Divide pastry in three equal parts. Roll 1/3 to make 8x15 inch rectangle. Trim edges and cut to make two 7-inch squares. Place on baking sheet. Repeat with other two thirds of pastry.",
+            "Arrange layer of potatoes on half of each pastry square, top with layer of onion and then with beef. Sprinkle with salt and pepper and dot with butter.",
+            "Moisten pastry edges with cold water and fold over to make triangles; press edges together to make tight seal. A tight seal retains steam and makes juicy pastries.",
+            "Bake at 375 degrees F (190 degrees C) for 1 hour or until meat is tender. Serve hot with chili sauce, ketchup, or pickle relish or serve cold for sandwiches."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "recipe pastry for a inch double crust pie thinly sliced potatoes ½ sliced onion ½ pound boneless beef round steak cut into thin strips ½ salt pinch ground black pepper butter",
+        "directions_text": "divide pastry in three equal parts. roll 1/3 to make 8x15 inch rectangle. trim edges and cut to make two 7-inch squares. place on baking sheet. repeat with other two thirds of pastry. arrange layer of potatoes on half of each pastry square, top with layer of onion and then with beef. sprinkle with salt and pepper and dot with butter. moisten pastry edges with cold water and fold over to make triangles; press edges together to make tight seal. a tight seal retains steam and makes juicy pastries. bake at 375 degrees f (190 degrees c) for 1 hour or until meat is tender. serve hot with chili sauce, ketchup, or pickle relish or serve cold for sandwiches.",
+        "combined_text": "cornish pastie ii pasties pasties 1 recipe pastry for a (10 inch) double crust pie 2 cups thinly sliced potatoes ½ cup sliced onion ½ pound boneless beef round steak, cut into thin strips 1 ½ teaspoons salt 1 pinch ground black pepper 2 tablespoons butter divide pastry in three equal parts. roll 1/3 to make 8x15 inch rectangle. trim edges and cut to make two 7-inch squares. place on baking sheet. repeat with other two thirds of pastry. arrange layer of potatoes on half of each pastry square, top with layer of onion and then with beef. sprinkle with salt and pepper and dot with butter. moisten pastry edges with cold water and fold over to make triangles; press edges together to make tight seal. a tight seal retains steam and makes juicy pastries. bake at 375 degrees f (190 degrees c) for 1 hour or until meat is tender. serve hot with chili sauce, ketchup, or pickle relish or serve cold for sandwiches.",
+        "ingredients_raw": [
+            "1 recipe pastry for a (10 inch) double crust pie",
+            "2 cups thinly sliced potatoes",
+            "½ cup sliced onion",
+            "½ pound boneless beef round steak, cut into thin strips",
+            "1 ½ teaspoons salt",
+            "1 pinch ground black pepper",
+            "2 tablespoons butter"
+        ],
+        "directions_raw": [
+            "Divide pastry in three equal parts. Roll 1/3 to make 8x15 inch rectangle. Trim edges and cut to make two 7-inch squares. Place on baking sheet. Repeat with other two thirds of pastry.",
+            "Arrange layer of potatoes on half of each pastry square, top with layer of onion and then with beef. Sprinkle with salt and pepper and dot with butter.",
+            "Moisten pastry edges with cold water and fold over to make triangles; press edges together to make tight seal. A tight seal retains steam and makes juicy pastries.",
+            "Bake at 375 degrees F (190 degrees C) for 1 hour or until meat is tender. Serve hot with chili sauce, ketchup, or pickle relish or serve cold for sandwiches."
+        ],
+        "ingredients_canonical": [
+            "recipe pastry for a inch double crust pie",
+            "thinly sliced potatoes",
+            "½ sliced onion",
+            "½ pound boneless beef round steak cut into thin strips",
+            "½ salt",
+            "pinch ground black pepper",
+            "butter"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "vietnamese"
+        ],
+        "course_list": [
+            "main",
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 66,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    }
+]

@@ -1,0 +1,2990 @@
+[
+    {
+        "recipe_title": "Chocolate-Dipped Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Even first-time cookie makers can pull off super moist, tender, chewy macaroons. Using sweetened condensed milk streamlines the operation and produces a very nice texture. Simple to make and easy to transport, these are the ultimate cookies to bring to any potluck. Just stick an almond inside each macaroon if you want to relive that chocolate-coated coconut-filled candy bar of your childhood.",
+        "ingredients": [
+            "¾ cup sweetened condensed milk",
+            "¼ teaspoon almond extract",
+            "1 ½ teaspoons vanilla extract",
+            "¼ teaspoon fine salt",
+            "1 large egg white",
+            "3 cups shredded unsweetened coconut",
+            "1 (4 ounce) bar semisweet chocolate, chopped, or to taste"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine condensed milk, almond extract, vanilla extract, salt, and egg white in a bowl. Whisk until thoroughly combined. Add about 2 1/3 cups shredded coconut. Mix with a spatula until mixture is sticky and holds together. Form into balls using a sorbet scoop.",
+            "Roll balls in remaining coconut. Space macaroons evenly onto a silicone-lined baking sheet.",
+            "Bake in the preheated oven until golden, about 20 minutes. Let cool to room temperature, at least 20 minutes.",
+            "Meanwhile, place 3/4 of the chocolate in top of a double boiler over simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. Remove from heat and stir in the rest of the chocolate until it melts.",
+            "Dip the base of each cooled macaroon about 1/8 inch into the chocolate. Place cookies, chocolate-side down, on parchment paper. Let chocolate harden completely."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 6,
+        "ingredient_text": "¾ sweetened condensed milk ¼ almond extract ½ vanilla extract ¼ fine salt large egg white shredded unsweetened coconut ounce bar semisweet chocolate chopped taste",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). combine condensed milk, almond extract, vanilla extract, salt, and egg white in a bowl. whisk until thoroughly combined. add about 2 1/3 cups shredded coconut. mix with a spatula until mixture is sticky and holds together. form into balls using a sorbet scoop. roll balls in remaining coconut. space macaroons evenly onto a silicone-lined baking sheet. bake in the preheated oven until golden, about 20 minutes. let cool to room temperature, at least 20 minutes. meanwhile, place 3/4 of the chocolate in top of a double boiler over simmering water. stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. remove from heat and stir in the rest of the chocolate until it melts. dip the base of each cooled macaroon about 1/8 inch into the chocolate. place cookies, chocolate-side down, on parchment paper. let chocolate harden completely.",
+        "combined_text": "chocolate-dipped coconut macaroons macaroons macaroons ¾ cup sweetened condensed milk ¼ teaspoon almond extract 1 ½ teaspoons vanilla extract ¼ teaspoon fine salt 1 large egg white 3 cups shredded unsweetened coconut 1 (4 ounce) bar semisweet chocolate, chopped, or to taste preheat the oven to 350 degrees f (175 degrees c). combine condensed milk, almond extract, vanilla extract, salt, and egg white in a bowl. whisk until thoroughly combined. add about 2 1/3 cups shredded coconut. mix with a spatula until mixture is sticky and holds together. form into balls using a sorbet scoop. roll balls in remaining coconut. space macaroons evenly onto a silicone-lined baking sheet. bake in the preheated oven until golden, about 20 minutes. let cool to room temperature, at least 20 minutes. meanwhile, place 3/4 of the chocolate in top of a double boiler over simmering water. stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. remove from heat and stir in the rest of the chocolate until it melts. dip the base of each cooled macaroon about 1/8 inch into the chocolate. place cookies, chocolate-side down, on parchment paper. let chocolate harden completely.",
+        "ingredients_raw": [
+            "¾ cup sweetened condensed milk",
+            "¼ teaspoon almond extract",
+            "1 ½ teaspoons vanilla extract",
+            "¼ teaspoon fine salt",
+            "1 large egg white",
+            "3 cups shredded unsweetened coconut",
+            "1 (4 ounce) bar semisweet chocolate, chopped, or to taste"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine condensed milk, almond extract, vanilla extract, salt, and egg white in a bowl. Whisk until thoroughly combined. Add about 2 1/3 cups shredded coconut. Mix with a spatula until mixture is sticky and holds together. Form into balls using a sorbet scoop.",
+            "Roll balls in remaining coconut. Space macaroons evenly onto a silicone-lined baking sheet.",
+            "Bake in the preheated oven until golden, about 20 minutes. Let cool to room temperature, at least 20 minutes.",
+            "Meanwhile, place 3/4 of the chocolate in top of a double boiler over simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. Remove from heat and stir in the rest of the chocolate until it melts.",
+            "Dip the base of each cooled macaroon about 1/8 inch into the chocolate. Place cookies, chocolate-side down, on parchment paper. Let chocolate harden completely."
+        ],
+        "ingredients_canonical": [
+            "¾ sweetened condensed milk",
+            "¼ almond extract",
+            "½ vanilla extract",
+            "¼ fine salt",
+            "large egg white",
+            "shredded unsweetened coconut",
+            "ounce bar semisweet chocolate chopped taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 57,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Perfect Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "After falling in love with a local bakery's coconut macaroon, I attempted to create a duplicate version at home. This is what I came up with.",
+        "ingredients": [
+            "1 (14 ounce) package sweetened, flaked coconut",
+            "⅓ cup white sugar",
+            "1 tablespoon all-purpose flour",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon almond extract",
+            "1 pinch salt",
+            "3 egg whites, room temperature",
+            "8 ounces semisweet chocolate chips"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Line a baking sheet with parchment paper.",
+            "Blend coconut, sugar, flour, vanilla extract, almond extract, and salt in a food processor until combined, about 30 seconds.",
+            "Beat egg whites in a bowl until soft peaks form.",
+            "Fold coconut mixture into egg whites until just combined.",
+            "Wet your hands. Roll spoonfuls of coconut mixture between palms to golf ball-size cookies; arrange on the prepared baking sheet.",
+            "Bake cookies in the preheated oven until coconut is slightly golden and toasted, about 15 minutes. Transfer to a wire rack to cool, 30 minutes.",
+            "Line baking sheet with new piece of parchment paper.",
+            "Melt chocolate chips in the top of a double boiler over just-barely simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching.",
+            "Dip half of each cookie in the chocolate and place on the prepared baking sheet. Place in refrigerator until chocolate is set, about 15 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 10,
+        "ingredient_text": "ounce package sweetened flaked coconut ⅓ white sugar all-purpose flour ½ vanilla extract ½ almond extract pinch salt egg whites room temperature ounces semisweet chocolate chips",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. blend coconut, sugar, flour, vanilla extract, almond extract, and salt in a food processor until combined, about 30 seconds. beat egg whites in a bowl until soft peaks form. fold coconut mixture into egg whites until just combined. wet your hands. roll spoonfuls of coconut mixture between palms to golf ball-size cookies; arrange on the prepared baking sheet. bake cookies in the preheated oven until coconut is slightly golden and toasted, about 15 minutes. transfer to a wire rack to cool, 30 minutes. line baking sheet with new piece of parchment paper. melt chocolate chips in the top of a double boiler over just-barely simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching. dip half of each cookie in the chocolate and place on the prepared baking sheet. place in refrigerator until chocolate is set, about 15 minutes.",
+        "combined_text": "perfect coconut macaroons macaroons macaroons 1 (14 ounce) package sweetened, flaked coconut ⅓ cup white sugar 1 tablespoon all-purpose flour ½ teaspoon vanilla extract ½ teaspoon almond extract 1 pinch salt 3 egg whites, room temperature 8 ounces semisweet chocolate chips preheat oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. blend coconut, sugar, flour, vanilla extract, almond extract, and salt in a food processor until combined, about 30 seconds. beat egg whites in a bowl until soft peaks form. fold coconut mixture into egg whites until just combined. wet your hands. roll spoonfuls of coconut mixture between palms to golf ball-size cookies; arrange on the prepared baking sheet. bake cookies in the preheated oven until coconut is slightly golden and toasted, about 15 minutes. transfer to a wire rack to cool, 30 minutes. line baking sheet with new piece of parchment paper. melt chocolate chips in the top of a double boiler over just-barely simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching. dip half of each cookie in the chocolate and place on the prepared baking sheet. place in refrigerator until chocolate is set, about 15 minutes.",
+        "ingredients_raw": [
+            "1 (14 ounce) package sweetened, flaked coconut",
+            "⅓ cup white sugar",
+            "1 tablespoon all-purpose flour",
+            "½ teaspoon vanilla extract",
+            "½ teaspoon almond extract",
+            "1 pinch salt",
+            "3 egg whites, room temperature",
+            "8 ounces semisweet chocolate chips"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Line a baking sheet with parchment paper.",
+            "Blend coconut, sugar, flour, vanilla extract, almond extract, and salt in a food processor until combined, about 30 seconds.",
+            "Beat egg whites in a bowl until soft peaks form.",
+            "Fold coconut mixture into egg whites until just combined.",
+            "Wet your hands. Roll spoonfuls of coconut mixture between palms to golf ball-size cookies; arrange on the prepared baking sheet.",
+            "Bake cookies in the preheated oven until coconut is slightly golden and toasted, about 15 minutes. Transfer to a wire rack to cool, 30 minutes.",
+            "Line baking sheet with new piece of parchment paper.",
+            "Melt chocolate chips in the top of a double boiler over just-barely simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching.",
+            "Dip half of each cookie in the chocolate and place on the prepared baking sheet. Place in refrigerator until chocolate is set, about 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package sweetened flaked coconut",
+            "⅓ white sugar",
+            "all-purpose flour",
+            "½ vanilla extract",
+            "½ almond extract",
+            "pinch salt",
+            "egg whites room temperature",
+            "ounces semisweet chocolate chips"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 62,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Macaroon recipes rely on whipped egg whites for their signature light, airy texture, creating a delicate balance between crisp edges and a tender, chewy center.",
+        "ingredients": [
+            "2 large egg whites",
+            "1 pinch salt",
+            "½ cup white sugar",
+            "2 cups sweetened flaked coconut"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet.",
+            "Beat egg whites and salt together in a small glass, metal, or ceramic bowl using an electric mixer until soft peaks form. Add sugar, 1 tablespoon at a time, beating at high speed until stiff peaks form; continue to beat until glossy. Fold coconut into egg white mixture.",
+            "Drop teaspoonfuls of egg white-coconut mixture onto the prepared baking sheet, spaced about 2 inches apart.",
+            "Bake in preheated oven until edges are light golden, about 12 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 4,
+        "ingredient_text": "large egg whites pinch salt ½ white sugar sweetened flaked coconut",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). lightly grease a baking sheet. beat egg whites and salt together in a small glass, metal, or ceramic bowl using an electric mixer until soft peaks form. add sugar, 1 tablespoon at a time, beating at high speed until stiff peaks form; continue to beat until glossy. fold coconut into egg white mixture. drop teaspoonfuls of egg white-coconut mixture onto the prepared baking sheet, spaced about 2 inches apart. bake in preheated oven until edges are light golden, about 12 minutes.",
+        "combined_text": "macaroons macaroons macaroons 2 large egg whites 1 pinch salt ½ cup white sugar 2 cups sweetened flaked coconut preheat the oven to 375 degrees f (190 degrees c). lightly grease a baking sheet. beat egg whites and salt together in a small glass, metal, or ceramic bowl using an electric mixer until soft peaks form. add sugar, 1 tablespoon at a time, beating at high speed until stiff peaks form; continue to beat until glossy. fold coconut into egg white mixture. drop teaspoonfuls of egg white-coconut mixture onto the prepared baking sheet, spaced about 2 inches apart. bake in preheated oven until edges are light golden, about 12 minutes.",
+        "ingredients_raw": [
+            "2 large egg whites",
+            "1 pinch salt",
+            "½ cup white sugar",
+            "2 cups sweetened flaked coconut"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet.",
+            "Beat egg whites and salt together in a small glass, metal, or ceramic bowl using an electric mixer until soft peaks form. Add sugar, 1 tablespoon at a time, beating at high speed until stiff peaks form; continue to beat until glossy. Fold coconut into egg white mixture.",
+            "Drop teaspoonfuls of egg white-coconut mixture onto the prepared baking sheet, spaced about 2 inches apart.",
+            "Bake in preheated oven until edges are light golden, about 12 minutes."
+        ],
+        "ingredients_canonical": [
+            "large egg whites",
+            "pinch salt",
+            "½ white sugar",
+            "sweetened flaked coconut"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Light and Fluffy Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "This is a great macaroon recipe for light and fluffy coconut macaroons.",
+        "ingredients": [
+            "cooking spray",
+            "2 large egg whites",
+            "½ teaspoon almond extract",
+            "1 (7 ounce) package shredded coconut",
+            "⅓ cup white sugar",
+            "3 tablespoons all-purpose flour",
+            "⅛ teaspoon salt"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Coat a baking sheet with cooking spray.",
+            "Whisk egg whites in a glass, metal, or ceramic bowl until frothy. Whisk in almond extract.",
+            "Combine coconut, sugar, flour, and salt in a large bowl. Gently fold in egg white mixture until batter comes together.",
+            "Drop tablespoonfuls of batter onto the prepared baking sheet spaced 2 inches apart.",
+            "Bake in the preheated oven until edges start to brown, about 20 minutes.",
+            "Transfer cookies to wire racks to cool."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 6,
+        "ingredient_text": "cooking spray large egg whites ½ almond extract ounce package shredded coconut ⅓ white sugar all-purpose flour ⅛ salt",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). coat a baking sheet with cooking spray. whisk egg whites in a glass, metal, or ceramic bowl until frothy. whisk in almond extract. combine coconut, sugar, flour, and salt in a large bowl. gently fold in egg white mixture until batter comes together. drop tablespoonfuls of batter onto the prepared baking sheet spaced 2 inches apart. bake in the preheated oven until edges start to brown, about 20 minutes. transfer cookies to wire racks to cool.",
+        "combined_text": "light and fluffy coconut macaroons macaroons macaroons cooking spray 2 large egg whites ½ teaspoon almond extract 1 (7 ounce) package shredded coconut ⅓ cup white sugar 3 tablespoons all-purpose flour ⅛ teaspoon salt preheat the oven to 325 degrees f (165 degrees c). coat a baking sheet with cooking spray. whisk egg whites in a glass, metal, or ceramic bowl until frothy. whisk in almond extract. combine coconut, sugar, flour, and salt in a large bowl. gently fold in egg white mixture until batter comes together. drop tablespoonfuls of batter onto the prepared baking sheet spaced 2 inches apart. bake in the preheated oven until edges start to brown, about 20 minutes. transfer cookies to wire racks to cool.",
+        "ingredients_raw": [
+            "cooking spray",
+            "2 large egg whites",
+            "½ teaspoon almond extract",
+            "1 (7 ounce) package shredded coconut",
+            "⅓ cup white sugar",
+            "3 tablespoons all-purpose flour",
+            "⅛ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Coat a baking sheet with cooking spray.",
+            "Whisk egg whites in a glass, metal, or ceramic bowl until frothy. Whisk in almond extract.",
+            "Combine coconut, sugar, flour, and salt in a large bowl. Gently fold in egg white mixture until batter comes together.",
+            "Drop tablespoonfuls of batter onto the prepared baking sheet spaced 2 inches apart.",
+            "Bake in the preheated oven until edges start to brown, about 20 minutes.",
+            "Transfer cookies to wire racks to cool."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "large egg whites",
+            "½ almond extract",
+            "ounce package shredded coconut",
+            "⅓ white sugar",
+            "all-purpose flour",
+            "⅛ salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 30,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Air Fryer Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Nutty, sweet, and exactly what you expect from a coconut macaroon! The texture is crispy on the outside and somewhat sticky and chewy on the inside. The chocolate adds a nice bitterness that cuts through the sweetness. These are so easy to prepare and would make great gifts, plus, they're easy to freeze!",
+        "ingredients": [
+            "1 (14 ounce) package sweetened flaked coconut",
+            "⅔ cup sweetened condensed milk",
+            "¾ teaspoon kosher salt",
+            "½ teaspoon vanilla extract",
+            "2 large egg whites, at room temperature",
+            "8 ounces bittersweet chocolate, chopped"
+        ],
+        "directions": [
+            "Preheat an air fryer to 320 degrees F (160 degrees C) for 10 minutes. Cut a piece of parchment paper to fit the air fryer basket, leaving 1 inch on each side to use as handles.",
+            "Mix coconut, condensed milk, salt, and vanilla together in a large bowl.",
+            "Beat egg whites in a medium bowl with an electric mixer with a whisk attachment on medium-high speed until stiff peaks almost form, about 90 seconds. Fold egg whites into the coconut mixture.",
+            "Working in batches, spoon level tablespoons of the coconut mixture into rounds and place on the parchment paper, about 6 at time. Carefully transfer the parchment with coconut rounds into the air fryer basket.",
+            "Cook until golden brown and set, 9 to 10 minutes. Remove parchment from basket, transfer macaroons to a wire rack, and repeat the process with remaining coconut mixture using the same piece of parchment paper.",
+            "Microwave chocolate in a medium microwave-safe bowl on high power for 30 seconds, then stir. Continue microwaving and stirring in 30 second increments, until melted and smooth, about 90 seconds total.",
+            "Dip flat bottoms of macaroons into melted chocolate and transfer to a parchment-lined baking sheet to set. Let rest until chocolate firms, about 30 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 7,
+        "ingredient_text": "ounce package sweetened flaked coconut ⅔ sweetened condensed milk ¾ kosher salt ½ vanilla extract large egg whites at room temperature ounces bittersweet chocolate chopped",
+        "directions_text": "preheat an air fryer to 320 degrees f (160 degrees c) for 10 minutes. cut a piece of parchment paper to fit the air fryer basket, leaving 1 inch on each side to use as handles. mix coconut, condensed milk, salt, and vanilla together in a large bowl. beat egg whites in a medium bowl with an electric mixer with a whisk attachment on medium-high speed until stiff peaks almost form, about 90 seconds. fold egg whites into the coconut mixture. working in batches, spoon level tablespoons of the coconut mixture into rounds and place on the parchment paper, about 6 at time. carefully transfer the parchment with coconut rounds into the air fryer basket. cook until golden brown and set, 9 to 10 minutes. remove parchment from basket, transfer macaroons to a wire rack, and repeat the process with remaining coconut mixture using the same piece of parchment paper. microwave chocolate in a medium microwave-safe bowl on high power for 30 seconds, then stir. continue microwaving and stirring in 30 second increments, until melted and smooth, about 90 seconds total. dip flat bottoms of macaroons into melted chocolate and transfer to a parchment-lined baking sheet to set. let rest until chocolate firms, about 30 minutes.",
+        "combined_text": "air fryer coconut macaroons macaroons macaroons 1 (14 ounce) package sweetened flaked coconut ⅔ cup sweetened condensed milk ¾ teaspoon kosher salt ½ teaspoon vanilla extract 2 large egg whites, at room temperature 8 ounces bittersweet chocolate, chopped preheat an air fryer to 320 degrees f (160 degrees c) for 10 minutes. cut a piece of parchment paper to fit the air fryer basket, leaving 1 inch on each side to use as handles. mix coconut, condensed milk, salt, and vanilla together in a large bowl. beat egg whites in a medium bowl with an electric mixer with a whisk attachment on medium-high speed until stiff peaks almost form, about 90 seconds. fold egg whites into the coconut mixture. working in batches, spoon level tablespoons of the coconut mixture into rounds and place on the parchment paper, about 6 at time. carefully transfer the parchment with coconut rounds into the air fryer basket. cook until golden brown and set, 9 to 10 minutes. remove parchment from basket, transfer macaroons to a wire rack, and repeat the process with remaining coconut mixture using the same piece of parchment paper. microwave chocolate in a medium microwave-safe bowl on high power for 30 seconds, then stir. continue microwaving and stirring in 30 second increments, until melted and smooth, about 90 seconds total. dip flat bottoms of macaroons into melted chocolate and transfer to a parchment-lined baking sheet to set. let rest until chocolate firms, about 30 minutes.",
+        "ingredients_raw": [
+            "1 (14 ounce) package sweetened flaked coconut",
+            "⅔ cup sweetened condensed milk",
+            "¾ teaspoon kosher salt",
+            "½ teaspoon vanilla extract",
+            "2 large egg whites, at room temperature",
+            "8 ounces bittersweet chocolate, chopped"
+        ],
+        "directions_raw": [
+            "Preheat an air fryer to 320 degrees F (160 degrees C) for 10 minutes. Cut a piece of parchment paper to fit the air fryer basket, leaving 1 inch on each side to use as handles.",
+            "Mix coconut, condensed milk, salt, and vanilla together in a large bowl.",
+            "Beat egg whites in a medium bowl with an electric mixer with a whisk attachment on medium-high speed until stiff peaks almost form, about 90 seconds. Fold egg whites into the coconut mixture.",
+            "Working in batches, spoon level tablespoons of the coconut mixture into rounds and place on the parchment paper, about 6 at time. Carefully transfer the parchment with coconut rounds into the air fryer basket.",
+            "Cook until golden brown and set, 9 to 10 minutes. Remove parchment from basket, transfer macaroons to a wire rack, and repeat the process with remaining coconut mixture using the same piece of parchment paper.",
+            "Microwave chocolate in a medium microwave-safe bowl on high power for 30 seconds, then stir. Continue microwaving and stirring in 30 second increments, until melted and smooth, about 90 seconds total.",
+            "Dip flat bottoms of macaroons into melted chocolate and transfer to a parchment-lined baking sheet to set. Let rest until chocolate firms, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package sweetened flaked coconut",
+            "⅔ sweetened condensed milk",
+            "¾ kosher salt",
+            "½ vanilla extract",
+            "large egg whites at room temperature",
+            "ounces bittersweet chocolate chopped"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 53,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coconut Macaroons German Style",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Kokosmakronen, the German style macaroon. These are more of a meringue cookie. A must for the Holidays.",
+        "ingredients": [
+            "2 ¾ cups flaked coconut, toasted",
+            "4 egg whites",
+            "1 cup white sugar",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon almond extract"
+        ],
+        "directions": [
+            "Preheat the oven to 250 degrees F (120 degrees C). Line cookie sheets with parchment paper.",
+            "In a large bowl, whip egg whites with an electric mixer until stiff enough to make a mark through with a knife. Gradually sprinkle in the sugar, cinnamon and almond extract while continuing to mix on low speed. Fold in toasted coconut by hand. Spoon or scoop onto the prepared cookie sheets.",
+            "Bake for 20 to 25 minutes in the preheated oven, until cookies are dry and peel of the paper easily. Cool on wire racks and store in an airtight container at room temperature."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "¾ flaked coconut toasted egg whites white sugar ground cinnamon ½ almond extract",
+        "directions_text": "preheat the oven to 250 degrees f (120 degrees c). line cookie sheets with parchment paper. in a large bowl, whip egg whites with an electric mixer until stiff enough to make a mark through with a knife. gradually sprinkle in the sugar, cinnamon and almond extract while continuing to mix on low speed. fold in toasted coconut by hand. spoon or scoop onto the prepared cookie sheets. bake for 20 to 25 minutes in the preheated oven, until cookies are dry and peel of the paper easily. cool on wire racks and store in an airtight container at room temperature.",
+        "combined_text": "coconut macaroons german style macaroons macaroons 2 ¾ cups flaked coconut, toasted 4 egg whites 1 cup white sugar 1 teaspoon ground cinnamon ½ teaspoon almond extract preheat the oven to 250 degrees f (120 degrees c). line cookie sheets with parchment paper. in a large bowl, whip egg whites with an electric mixer until stiff enough to make a mark through with a knife. gradually sprinkle in the sugar, cinnamon and almond extract while continuing to mix on low speed. fold in toasted coconut by hand. spoon or scoop onto the prepared cookie sheets. bake for 20 to 25 minutes in the preheated oven, until cookies are dry and peel of the paper easily. cool on wire racks and store in an airtight container at room temperature.",
+        "ingredients_raw": [
+            "2 ¾ cups flaked coconut, toasted",
+            "4 egg whites",
+            "1 cup white sugar",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon almond extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 250 degrees F (120 degrees C). Line cookie sheets with parchment paper.",
+            "In a large bowl, whip egg whites with an electric mixer until stiff enough to make a mark through with a knife. Gradually sprinkle in the sugar, cinnamon and almond extract while continuing to mix on low speed. Fold in toasted coconut by hand. Spoon or scoop onto the prepared cookie sheets.",
+            "Bake for 20 to 25 minutes in the preheated oven, until cookies are dry and peel of the paper easily. Cool on wire racks and store in an airtight container at room temperature."
+        ],
+        "ingredients_canonical": [
+            "¾ flaked coconut toasted",
+            "egg whites",
+            "white sugar",
+            "ground cinnamon",
+            "½ almond extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 33,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coconut Macaroons II",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "This is a very simple coconut macaroon recipe that uses only 4 ingredients. Condensed milk gives it a richer flavor than most.",
+        "ingredients": [
+            "5 ½ cups flaked coconut",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 teaspoons vanilla extract",
+            "1 ½ teaspoons almond extract"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (180 degrees C).",
+            "In large mixing bowl, combine coconut, sweetened condensed milk and extracts; mix well.",
+            "Drop by rounded teaspoonfuls onto aluminum foil-lined and generously greased baking sheets. Bake 8 to 10 minutes or until lightly browned around the edges. Immediately remove from baking sheets. Store loosely covered at room temperature."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "½ flaked coconut ounce can sweetened condensed milk vanilla extract ½ almond extract",
+        "directions_text": "preheat oven to 350 degrees f (180 degrees c). in large mixing bowl, combine coconut, sweetened condensed milk and extracts; mix well. drop by rounded teaspoonfuls onto aluminum foil-lined and generously greased baking sheets. bake 8 to 10 minutes or until lightly browned around the edges. immediately remove from baking sheets. store loosely covered at room temperature.",
+        "combined_text": "coconut macaroons ii macaroons macaroons 5 ½ cups flaked coconut 1 (14 ounce) can sweetened condensed milk 2 teaspoons vanilla extract 1 ½ teaspoons almond extract preheat oven to 350 degrees f (180 degrees c). in large mixing bowl, combine coconut, sweetened condensed milk and extracts; mix well. drop by rounded teaspoonfuls onto aluminum foil-lined and generously greased baking sheets. bake 8 to 10 minutes or until lightly browned around the edges. immediately remove from baking sheets. store loosely covered at room temperature.",
+        "ingredients_raw": [
+            "5 ½ cups flaked coconut",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 teaspoons vanilla extract",
+            "1 ½ teaspoons almond extract"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (180 degrees C).",
+            "In large mixing bowl, combine coconut, sweetened condensed milk and extracts; mix well.",
+            "Drop by rounded teaspoonfuls onto aluminum foil-lined and generously greased baking sheets. Bake 8 to 10 minutes or until lightly browned around the edges. Immediately remove from baking sheets. Store loosely covered at room temperature."
+        ],
+        "ingredients_canonical": [
+            "½ flaked coconut",
+            "ounce can sweetened condensed milk",
+            "vanilla extract",
+            "½ almond extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 6,
+        "est_cook_time_min": 21,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coconut Macaroon Brownies",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "These decadent brownies have a delicious layer of coconut sandwiched between two chocolate layers. They were requested at a political campaign, at a social party and at my fiftieth anniversary.",
+        "ingredients": [
+            "1 cup butter, softened",
+            "2 cups white sugar",
+            "4 eggs",
+            "1 ½ teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "¾ teaspoon cream of tartar",
+            "½ cup unsweetened cocoa powder",
+            "½ cup chopped walnuts",
+            "4 cups unsweetened flaked coconut",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 tablespoon vanilla extract"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan.",
+            "In a large bowl, cream together the butter and sugar. Beat in the eggs, one at a time, then stir in 1 1/2 teaspoons vanilla. Combine the flour, cream of tartar and cocoa; stir into the egg mixture until well blended. Fold in walnuts. Spread half of this mixture into the bottom of the prepared pan.",
+            "Make the middle layer. In a medium bowl, stir together the coconut, sweetened condensed milk and 1 tablespoon vanilla. Carefully layer this over the chocolate layer in the pan. Top with the remaining chocolate batter. Spread to cover evenly.",
+            "Bake for 45 to 50 minutes in the preheated oven, until top is no longer shiny. Cool in the pan before cutting into bars."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "butter softened white sugar eggs ½ vanilla extract all-purpose flour ¾ cream tartar ½ unsweetened cocoa powder ½ chopped walnuts unsweetened flaked coconut ounce can sweetened condensed milk vanilla extract",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). grease and flour a 9x13 inch baking pan. in a large bowl, cream together the butter and sugar. beat in the eggs, one at a time, then stir in 1 1/2 teaspoons vanilla. combine the flour, cream of tartar and cocoa; stir into the egg mixture until well blended. fold in walnuts. spread half of this mixture into the bottom of the prepared pan. make the middle layer. in a medium bowl, stir together the coconut, sweetened condensed milk and 1 tablespoon vanilla. carefully layer this over the chocolate layer in the pan. top with the remaining chocolate batter. spread to cover evenly. bake for 45 to 50 minutes in the preheated oven, until top is no longer shiny. cool in the pan before cutting into bars.",
+        "combined_text": "coconut macaroon brownies macaroons macaroons 1 cup butter, softened 2 cups white sugar 4 eggs 1 ½ teaspoons vanilla extract 2 cups all-purpose flour ¾ teaspoon cream of tartar ½ cup unsweetened cocoa powder ½ cup chopped walnuts 4 cups unsweetened flaked coconut 1 (14 ounce) can sweetened condensed milk 1 tablespoon vanilla extract preheat oven to 350 degrees f (175 degrees c). grease and flour a 9x13 inch baking pan. in a large bowl, cream together the butter and sugar. beat in the eggs, one at a time, then stir in 1 1/2 teaspoons vanilla. combine the flour, cream of tartar and cocoa; stir into the egg mixture until well blended. fold in walnuts. spread half of this mixture into the bottom of the prepared pan. make the middle layer. in a medium bowl, stir together the coconut, sweetened condensed milk and 1 tablespoon vanilla. carefully layer this over the chocolate layer in the pan. top with the remaining chocolate batter. spread to cover evenly. bake for 45 to 50 minutes in the preheated oven, until top is no longer shiny. cool in the pan before cutting into bars.",
+        "ingredients_raw": [
+            "1 cup butter, softened",
+            "2 cups white sugar",
+            "4 eggs",
+            "1 ½ teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "¾ teaspoon cream of tartar",
+            "½ cup unsweetened cocoa powder",
+            "½ cup chopped walnuts",
+            "4 cups unsweetened flaked coconut",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 tablespoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan.",
+            "In a large bowl, cream together the butter and sugar. Beat in the eggs, one at a time, then stir in 1 1/2 teaspoons vanilla. Combine the flour, cream of tartar and cocoa; stir into the egg mixture until well blended. Fold in walnuts. Spread half of this mixture into the bottom of the prepared pan.",
+            "Make the middle layer. In a medium bowl, stir together the coconut, sweetened condensed milk and 1 tablespoon vanilla. Carefully layer this over the chocolate layer in the pan. Top with the remaining chocolate batter. Spread to cover evenly.",
+            "Bake for 45 to 50 minutes in the preheated oven, until top is no longer shiny. Cool in the pan before cutting into bars."
+        ],
+        "ingredients_canonical": [
+            "butter softened",
+            "white sugar",
+            "eggs",
+            "½ vanilla extract",
+            "all-purpose flour",
+            "¾ cream tartar",
+            "½ unsweetened cocoa powder",
+            "½ chopped walnuts",
+            "unsweetened flaked coconut",
+            "ounce can sweetened condensed milk",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 42,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Portuguese Coconut Cakes (Bolos de Coco)",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "My grams makes these sweet little treats all the time. Easy and quick.",
+        "ingredients": [
+            "1 ¾ cups shredded coconut",
+            "¾ cup white sugar",
+            "3 eggs",
+            "1 tablespoon grated lemon zest"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Line 3 muffin cups with paper liners.",
+            "Mix coconut, sugar, eggs, and lemon zest together in a large bowl. Scoop coconut mixture into lined muffin cups.",
+            "Bake in the preheated oven until firm and golden, 15 to 20 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "¾ shredded coconut ¾ white sugar eggs grated lemon zest",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). line 3 muffin cups with paper liners. mix coconut, sugar, eggs, and lemon zest together in a large bowl. scoop coconut mixture into lined muffin cups. bake in the preheated oven until firm and golden, 15 to 20 minutes.",
+        "combined_text": "portuguese coconut cakes (bolos de coco) macaroons macaroons 1 ¾ cups shredded coconut ¾ cup white sugar 3 eggs 1 tablespoon grated lemon zest preheat oven to 350 degrees f (175 degrees c). line 3 muffin cups with paper liners. mix coconut, sugar, eggs, and lemon zest together in a large bowl. scoop coconut mixture into lined muffin cups. bake in the preheated oven until firm and golden, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 ¾ cups shredded coconut",
+            "¾ cup white sugar",
+            "3 eggs",
+            "1 tablespoon grated lemon zest"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Line 3 muffin cups with paper liners.",
+            "Mix coconut, sugar, eggs, and lemon zest together in a large bowl. Scoop coconut mixture into lined muffin cups.",
+            "Bake in the preheated oven until firm and golden, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "¾ shredded coconut",
+            "¾ white sugar",
+            "eggs",
+            "grated lemon zest"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 6,
+        "est_cook_time_min": 21,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grandma's Corn Flake Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "A fast and easy recipe that is great for mailing to friends and family, festively snowy white, and very tasty with a pleasantly crunchy and chewy texture. This recipe originally comes from my great-grandmother and has been handed down through four generations. My Grandma Sally makes these almost every year for Christmas and it is one of my favorite Christmas cookie recipes. The cookies will be chewy-crunchy when finished cooling, not gooey.",
+        "ingredients": [
+            "1 egg white",
+            "½ cup white sugar",
+            "¼ teaspoon salt",
+            "½ teaspoon vanilla extract",
+            "½ cup shredded coconut",
+            "1 cup cornflakes cereal"
+        ],
+        "directions": [
+            "Preheat oven to 300 degrees F (150 degrees C).",
+            "Grease a baking sheet.",
+            "Beat egg white in a bowl with an electric hand-mixer until stiff peaks form.",
+            "Gradually beat sugar, 1 tablespoon at a time, into egg whites until fully incorporated. Stir salt and vanilla extract into egg whites until thoroughly mixed.",
+            "Fold coconut and corn flakes into the mixture.",
+            "Drop coconut mixture by the teaspoon onto the prepared baking sheet.",
+            "Bake cookies in the preheated oven until lightly crisp, 20 minutes.",
+            "Transfer cookies to wire rack to cool, at least 15 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 8,
+        "ingredient_text": "egg white ½ white sugar ¼ salt ½ vanilla extract ½ shredded coconut cornflakes cereal",
+        "directions_text": "preheat oven to 300 degrees f (150 degrees c). grease a baking sheet. beat egg white in a bowl with an electric hand-mixer until stiff peaks form. gradually beat sugar, 1 tablespoon at a time, into egg whites until fully incorporated. stir salt and vanilla extract into egg whites until thoroughly mixed. fold coconut and corn flakes into the mixture. drop coconut mixture by the teaspoon onto the prepared baking sheet. bake cookies in the preheated oven until lightly crisp, 20 minutes. transfer cookies to wire rack to cool, at least 15 minutes.",
+        "combined_text": "grandma's corn flake coconut macaroons macaroons macaroons 1 egg white ½ cup white sugar ¼ teaspoon salt ½ teaspoon vanilla extract ½ cup shredded coconut 1 cup cornflakes cereal preheat oven to 300 degrees f (150 degrees c). grease a baking sheet. beat egg white in a bowl with an electric hand-mixer until stiff peaks form. gradually beat sugar, 1 tablespoon at a time, into egg whites until fully incorporated. stir salt and vanilla extract into egg whites until thoroughly mixed. fold coconut and corn flakes into the mixture. drop coconut mixture by the teaspoon onto the prepared baking sheet. bake cookies in the preheated oven until lightly crisp, 20 minutes. transfer cookies to wire rack to cool, at least 15 minutes.",
+        "ingredients_raw": [
+            "1 egg white",
+            "½ cup white sugar",
+            "¼ teaspoon salt",
+            "½ teaspoon vanilla extract",
+            "½ cup shredded coconut",
+            "1 cup cornflakes cereal"
+        ],
+        "directions_raw": [
+            "Preheat oven to 300 degrees F (150 degrees C).",
+            "Grease a baking sheet.",
+            "Beat egg white in a bowl with an electric hand-mixer until stiff peaks form.",
+            "Gradually beat sugar, 1 tablespoon at a time, into egg whites until fully incorporated. Stir salt and vanilla extract into egg whites until thoroughly mixed.",
+            "Fold coconut and corn flakes into the mixture.",
+            "Drop coconut mixture by the teaspoon onto the prepared baking sheet.",
+            "Bake cookies in the preheated oven until lightly crisp, 20 minutes.",
+            "Transfer cookies to wire rack to cool, at least 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "egg white",
+            "½ white sugar",
+            "¼ salt",
+            "½ vanilla extract",
+            "½ shredded coconut",
+            "cornflakes cereal"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "main",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 36,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Halloween Macarons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Macarons colored for Halloween with a mascarpone-caramel filling. After much trial and error, I was able to perfect a macaron recipe that worked for me. I am a reluctant baker but this seems to work even for a scatterbrain like me. It is very important that certain guidelines are followed to ensure a proper cookie. These are worth every effort. I recommend weighing the ingredients instead of using volume measurements.",
+        "ingredients": [
+            "⅔ cup fine ground almond flour (scant measure)",
+            "⅔ cup confectioners' measure (scant measure)",
+            "1 tablespoon powdered orange food coloring",
+            "2 medium egg whites, at room temperature",
+            "1 pinch cream of tartar",
+            "¼ cup superfine sugar",
+            "6 ounces mascarpone cheese, at room temperature",
+            "2 tablespoons caramel sauce",
+            "1 tablespoon confectioners' sugar",
+            "1 teaspoon powdered black food coloring"
+        ],
+        "directions": [
+            "Line 2 baking sheets with silicone mats or parchment paper.",
+            "Sift almond flour and 2/3 cup confectioners' sugar into a bowl. Sift again into a second bowl, adding powdered orange food coloring. Whisk well and set aside.",
+            "Place egg whites in the bowl of a stand mixer fitted with the whisk attachment and whisk on medium speed until they begin to foam, 1 to 3 minutes. Add cream of tartar and continue whisking until creamy, 1 to 3 minutes more. When the whisk leaves traces in the egg white mixture, increase speed to medium-high. Add 1/2 the superfine sugar while whisk is in motion. When sugar is fully incorporated, add remaining sugar. Whip until stiff peaks form, another 1 to 3 minutes.",
+            "Use a rubber spatula to gently fold in 1/3 the almond flour mixture until incorporated. Fold in remaining flour mixture gently; overmixing will create a runny batter and cookies will not rise. Pour batter into a piping bag or a resealable plastic bag with a corner cut off. Pipe 32 small circles onto the prepared baking sheets, allowing approximately 2 inches between cookies. Lightly rap the baking sheets to release any air bubbles from the batter; cookies will spread slightly, this is normal.",
+            "Allow cookies to sit at room temperature for at least 30 minutes; during this time, tops will become opaque and no longer glossy and if you lightly touch them, the batter will give and bounce back.",
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Bake 1 baking sheet in the preheated oven until cookies rise and bottoms begin to get crinkly and firm, 12 to 15 minutes. Remove from oven and allow to cool. Wait for oven to return to temperature before baking the second batch.",
+            "While cookies are baking, whip mascarpone cheese, caramel sauce, 1 tablespoon confectioners' sugar, and powdered black food coloring together until fluffy. Store filling in the refrigerator until needed.",
+            "Cool cookies completely before filling. Transfer filling to a clean piping bag and pipe filling onto 1 cookie base and top with another. Use leftover filling to decorate the tops of the macarons if desired. Let cookies rest before enjoying."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 9,
+        "ingredient_text": "⅔ fine ground almond flour scant measure ⅔ confectioners measure scant measure powdered orange food coloring medium egg whites at room temperature pinch cream tartar ¼ superfine sugar ounces mascarpone cheese at room temperature caramel sauce confectioners sugar powdered black food coloring",
+        "directions_text": "line 2 baking sheets with silicone mats or parchment paper. sift almond flour and 2/3 cup confectioners' sugar into a bowl. sift again into a second bowl, adding powdered orange food coloring. whisk well and set aside. place egg whites in the bowl of a stand mixer fitted with the whisk attachment and whisk on medium speed until they begin to foam, 1 to 3 minutes. add cream of tartar and continue whisking until creamy, 1 to 3 minutes more. when the whisk leaves traces in the egg white mixture, increase speed to medium-high. add 1/2 the superfine sugar while whisk is in motion. when sugar is fully incorporated, add remaining sugar. whip until stiff peaks form, another 1 to 3 minutes. use a rubber spatula to gently fold in 1/3 the almond flour mixture until incorporated. fold in remaining flour mixture gently; overmixing will create a runny batter and cookies will not rise. pour batter into a piping bag or a resealable plastic bag with a corner cut off. pipe 32 small circles onto the prepared baking sheets, allowing approximately 2 inches between cookies. lightly rap the baking sheets to release any air bubbles from the batter; cookies will spread slightly, this is normal. allow cookies to sit at room temperature for at least 30 minutes; during this time, tops will become opaque and no longer glossy and if you lightly touch them, the batter will give and bounce back. preheat the oven to 325 degrees f (165 degrees c). bake 1 baking sheet in the preheated oven until cookies rise and bottoms begin to get crinkly and firm, 12 to 15 minutes. remove from oven and allow to cool. wait for oven to return to temperature before baking the second batch. while cookies are baking, whip mascarpone cheese, caramel sauce, 1 tablespoon confectioners' sugar, and powdered black food coloring together until fluffy. store filling in the refrigerator until needed. cool cookies completely before filling. transfer filling to a clean piping bag and pipe filling onto 1 cookie base and top with another. use leftover filling to decorate the tops of the macarons if desired. let cookies rest before enjoying.",
+        "combined_text": "halloween macarons macaroons macaroons ⅔ cup fine ground almond flour (scant measure) ⅔ cup confectioners' measure (scant measure) 1 tablespoon powdered orange food coloring 2 medium egg whites, at room temperature 1 pinch cream of tartar ¼ cup superfine sugar 6 ounces mascarpone cheese, at room temperature 2 tablespoons caramel sauce 1 tablespoon confectioners' sugar 1 teaspoon powdered black food coloring line 2 baking sheets with silicone mats or parchment paper. sift almond flour and 2/3 cup confectioners' sugar into a bowl. sift again into a second bowl, adding powdered orange food coloring. whisk well and set aside. place egg whites in the bowl of a stand mixer fitted with the whisk attachment and whisk on medium speed until they begin to foam, 1 to 3 minutes. add cream of tartar and continue whisking until creamy, 1 to 3 minutes more. when the whisk leaves traces in the egg white mixture, increase speed to medium-high. add 1/2 the superfine sugar while whisk is in motion. when sugar is fully incorporated, add remaining sugar. whip until stiff peaks form, another 1 to 3 minutes. use a rubber spatula to gently fold in 1/3 the almond flour mixture until incorporated. fold in remaining flour mixture gently; overmixing will create a runny batter and cookies will not rise. pour batter into a piping bag or a resealable plastic bag with a corner cut off. pipe 32 small circles onto the prepared baking sheets, allowing approximately 2 inches between cookies. lightly rap the baking sheets to release any air bubbles from the batter; cookies will spread slightly, this is normal. allow cookies to sit at room temperature for at least 30 minutes; during this time, tops will become opaque and no longer glossy and if you lightly touch them, the batter will give and bounce back. preheat the oven to 325 degrees f (165 degrees c). bake 1 baking sheet in the preheated oven until cookies rise and bottoms begin to get crinkly and firm, 12 to 15 minutes. remove from oven and allow to cool. wait for oven to return to temperature before baking the second batch. while cookies are baking, whip mascarpone cheese, caramel sauce, 1 tablespoon confectioners' sugar, and powdered black food coloring together until fluffy. store filling in the refrigerator until needed. cool cookies completely before filling. transfer filling to a clean piping bag and pipe filling onto 1 cookie base and top with another. use leftover filling to decorate the tops of the macarons if desired. let cookies rest before enjoying.",
+        "ingredients_raw": [
+            "⅔ cup fine ground almond flour (scant measure)",
+            "⅔ cup confectioners' measure (scant measure)",
+            "1 tablespoon powdered orange food coloring",
+            "2 medium egg whites, at room temperature",
+            "1 pinch cream of tartar",
+            "¼ cup superfine sugar",
+            "6 ounces mascarpone cheese, at room temperature",
+            "2 tablespoons caramel sauce",
+            "1 tablespoon confectioners' sugar",
+            "1 teaspoon powdered black food coloring"
+        ],
+        "directions_raw": [
+            "Line 2 baking sheets with silicone mats or parchment paper.",
+            "Sift almond flour and 2/3 cup confectioners' sugar into a bowl. Sift again into a second bowl, adding powdered orange food coloring. Whisk well and set aside.",
+            "Place egg whites in the bowl of a stand mixer fitted with the whisk attachment and whisk on medium speed until they begin to foam, 1 to 3 minutes. Add cream of tartar and continue whisking until creamy, 1 to 3 minutes more. When the whisk leaves traces in the egg white mixture, increase speed to medium-high. Add 1/2 the superfine sugar while whisk is in motion. When sugar is fully incorporated, add remaining sugar. Whip until stiff peaks form, another 1 to 3 minutes.",
+            "Use a rubber spatula to gently fold in 1/3 the almond flour mixture until incorporated. Fold in remaining flour mixture gently; overmixing will create a runny batter and cookies will not rise. Pour batter into a piping bag or a resealable plastic bag with a corner cut off. Pipe 32 small circles onto the prepared baking sheets, allowing approximately 2 inches between cookies. Lightly rap the baking sheets to release any air bubbles from the batter; cookies will spread slightly, this is normal.",
+            "Allow cookies to sit at room temperature for at least 30 minutes; during this time, tops will become opaque and no longer glossy and if you lightly touch them, the batter will give and bounce back.",
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Bake 1 baking sheet in the preheated oven until cookies rise and bottoms begin to get crinkly and firm, 12 to 15 minutes. Remove from oven and allow to cool. Wait for oven to return to temperature before baking the second batch.",
+            "While cookies are baking, whip mascarpone cheese, caramel sauce, 1 tablespoon confectioners' sugar, and powdered black food coloring together until fluffy. Store filling in the refrigerator until needed.",
+            "Cool cookies completely before filling. Transfer filling to a clean piping bag and pipe filling onto 1 cookie base and top with another. Use leftover filling to decorate the tops of the macarons if desired. Let cookies rest before enjoying."
+        ],
+        "ingredients_canonical": [
+            "⅔ fine ground almond flour scant measure",
+            "⅔ confectioners measure scant measure",
+            "powdered orange food coloring",
+            "medium egg whites at room temperature",
+            "pinch cream tartar",
+            "¼ superfine sugar",
+            "ounces mascarpone cheese at room temperature",
+            "caramel sauce",
+            "confectioners sugar",
+            "powdered black food coloring"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 85,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Salted Caramel Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Fill those thumbprints with caramel and a sprinkle of sea salt. Gilding the lily? Maybe! But it might just be your new favorite. Cookies can be stored in an airtight container, with waxed paper or parchment paper separating layers, up to 3 days, or frozen up to 3 months.",
+        "ingredients": [
+            "5 ½ cups sweetened flaked coconut",
+            "⅔ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 teaspoons vanilla extract",
+            "½ cup caramel ice cream topping",
+            "½ tablespoon Sea Salt, gray"
+        ],
+        "directions": [
+            "Arrange racks in the upper and lower thirds of the oven and preheat to 350 degrees F (175 degrees C). Line 2 large baking sheets with parchment paper or nonstick foil.",
+            "Stir coconut, flour, and salt together in a large bowl. Stir in sweetened condensed milk and vanilla extract until well blended. Use a medium cookie scoop to scoop and drop 2-inch balls of dough onto the prepared sheets. Using your thumb, make an indentation in each dough ball.",
+            "Bake in the preheated oven until coconut is toasted and bottoms are golden, 15 to 17 minutes, rotating pans halfway through. If cookies puff, re-press centers with the rounded side of a measuring teaspoon. Cool on the sheets for 5 minutes. Transfer to a wire rack; cool completely.",
+            "Spoon a scant teaspoon of caramel topping into each indentation. Sprinkle each with several flakes of sea salt."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "½ sweetened flaked coconut ⅔ all-purpose flour ¼ salt ounce can sweetened condensed milk vanilla extract ½ caramel ice cream topping ½ sea salt gray",
+        "directions_text": "arrange racks in the upper and lower thirds of the oven and preheat to 350 degrees f (175 degrees c). line 2 large baking sheets with parchment paper or nonstick foil. stir coconut, flour, and salt together in a large bowl. stir in sweetened condensed milk and vanilla extract until well blended. use a medium cookie scoop to scoop and drop 2-inch balls of dough onto the prepared sheets. using your thumb, make an indentation in each dough ball. bake in the preheated oven until coconut is toasted and bottoms are golden, 15 to 17 minutes, rotating pans halfway through. if cookies puff, re-press centers with the rounded side of a measuring teaspoon. cool on the sheets for 5 minutes. transfer to a wire rack; cool completely. spoon a scant teaspoon of caramel topping into each indentation. sprinkle each with several flakes of sea salt.",
+        "combined_text": "salted caramel coconut macaroons macaroons macaroons 5 ½ cups sweetened flaked coconut ⅔ cup all-purpose flour ¼ teaspoon salt 1 (14 ounce) can sweetened condensed milk 2 teaspoons vanilla extract ½ cup caramel ice cream topping ½ tablespoon sea salt, gray arrange racks in the upper and lower thirds of the oven and preheat to 350 degrees f (175 degrees c). line 2 large baking sheets with parchment paper or nonstick foil. stir coconut, flour, and salt together in a large bowl. stir in sweetened condensed milk and vanilla extract until well blended. use a medium cookie scoop to scoop and drop 2-inch balls of dough onto the prepared sheets. using your thumb, make an indentation in each dough ball. bake in the preheated oven until coconut is toasted and bottoms are golden, 15 to 17 minutes, rotating pans halfway through. if cookies puff, re-press centers with the rounded side of a measuring teaspoon. cool on the sheets for 5 minutes. transfer to a wire rack; cool completely. spoon a scant teaspoon of caramel topping into each indentation. sprinkle each with several flakes of sea salt.",
+        "ingredients_raw": [
+            "5 ½ cups sweetened flaked coconut",
+            "⅔ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 teaspoons vanilla extract",
+            "½ cup caramel ice cream topping",
+            "½ tablespoon Sea Salt, gray"
+        ],
+        "directions_raw": [
+            "Arrange racks in the upper and lower thirds of the oven and preheat to 350 degrees F (175 degrees C). Line 2 large baking sheets with parchment paper or nonstick foil.",
+            "Stir coconut, flour, and salt together in a large bowl. Stir in sweetened condensed milk and vanilla extract until well blended. Use a medium cookie scoop to scoop and drop 2-inch balls of dough onto the prepared sheets. Using your thumb, make an indentation in each dough ball.",
+            "Bake in the preheated oven until coconut is toasted and bottoms are golden, 15 to 17 minutes, rotating pans halfway through. If cookies puff, re-press centers with the rounded side of a measuring teaspoon. Cool on the sheets for 5 minutes. Transfer to a wire rack; cool completely.",
+            "Spoon a scant teaspoon of caramel topping into each indentation. Sprinkle each with several flakes of sea salt."
+        ],
+        "ingredients_canonical": [
+            "½ sweetened flaked coconut",
+            "⅔ all-purpose flour",
+            "¼ salt",
+            "ounce can sweetened condensed milk",
+            "vanilla extract",
+            "½ caramel ice cream topping",
+            "½ sea salt gray"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Coconut and Marzipan Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "These chocolate-dipped macaroons originate from the German city of Lübeck, popular for its marzipan.",
+        "ingredients": [
+            "5 large egg whites",
+            "18 ounces marzipan",
+            "2 cups confectioners' sugar, sifted, divided",
+            "2 cups dried unsweetened coconut",
+            "½ teaspoon lemon zest",
+            "2 tablespoons rum",
+            "½ cup white sugar",
+            "2 (3.5 ounce) packages dark chocolate, finely chopped"
+        ],
+        "directions": [
+            "Preheat the oven to 300 degrees F (150 degrees C). Grease a baking sheet or line with parchment paper.",
+            "Beat egg whites in a glass, metal, or ceramic bowl until foamy. Continue beating until stiff peaks form.",
+            "Combine marzipan with 1/2 of the confectioners' sugar and rub with your fingers until mixture resembles bread crumbs. Add coconut, remaining confectioners' sugar, lemon zest, and rum. Mix well. Fold in stiff egg whites.",
+            "Using 2 teaspoons, drop small dollops of mixture onto the prepared baking sheet. Sprinkle with sugar.",
+            "Bake in the preheated oven until the macaroons are golden but soft to the touch, about 20 minutes. Transfer to a cooling rack and cool completely, 30 minutes to 1 hour.",
+            "Place 3/4 of the chocolate in the top of a double boiler over simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. Remove from heat and stir in remaining chocolate until melted.",
+            "Dip 1/3 of each cooled macaroon into the melted chocolate. Set macaroons on waxed paper until chocolate has set. Store the macaroons in an airtight container, with waxed paper between the layers."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 7,
+        "ingredient_text": "large egg whites ounces marzipan confectioners sugar sifted divided dried unsweetened coconut ½ lemon zest rum ½ white sugar ounce packages dark chocolate finely chopped",
+        "directions_text": "preheat the oven to 300 degrees f (150 degrees c). grease a baking sheet or line with parchment paper. beat egg whites in a glass, metal, or ceramic bowl until foamy. continue beating until stiff peaks form. combine marzipan with 1/2 of the confectioners' sugar and rub with your fingers until mixture resembles bread crumbs. add coconut, remaining confectioners' sugar, lemon zest, and rum. mix well. fold in stiff egg whites. using 2 teaspoons, drop small dollops of mixture onto the prepared baking sheet. sprinkle with sugar. bake in the preheated oven until the macaroons are golden but soft to the touch, about 20 minutes. transfer to a cooling rack and cool completely, 30 minutes to 1 hour. place 3/4 of the chocolate in the top of a double boiler over simmering water. stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. remove from heat and stir in remaining chocolate until melted. dip 1/3 of each cooled macaroon into the melted chocolate. set macaroons on waxed paper until chocolate has set. store the macaroons in an airtight container, with waxed paper between the layers.",
+        "combined_text": "coconut and marzipan macaroons macaroons macaroons 5 large egg whites 18 ounces marzipan 2 cups confectioners' sugar, sifted, divided 2 cups dried unsweetened coconut ½ teaspoon lemon zest 2 tablespoons rum ½ cup white sugar 2 (3.5 ounce) packages dark chocolate, finely chopped preheat the oven to 300 degrees f (150 degrees c). grease a baking sheet or line with parchment paper. beat egg whites in a glass, metal, or ceramic bowl until foamy. continue beating until stiff peaks form. combine marzipan with 1/2 of the confectioners' sugar and rub with your fingers until mixture resembles bread crumbs. add coconut, remaining confectioners' sugar, lemon zest, and rum. mix well. fold in stiff egg whites. using 2 teaspoons, drop small dollops of mixture onto the prepared baking sheet. sprinkle with sugar. bake in the preheated oven until the macaroons are golden but soft to the touch, about 20 minutes. transfer to a cooling rack and cool completely, 30 minutes to 1 hour. place 3/4 of the chocolate in the top of a double boiler over simmering water. stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. remove from heat and stir in remaining chocolate until melted. dip 1/3 of each cooled macaroon into the melted chocolate. set macaroons on waxed paper until chocolate has set. store the macaroons in an airtight container, with waxed paper between the layers.",
+        "ingredients_raw": [
+            "5 large egg whites",
+            "18 ounces marzipan",
+            "2 cups confectioners' sugar, sifted, divided",
+            "2 cups dried unsweetened coconut",
+            "½ teaspoon lemon zest",
+            "2 tablespoons rum",
+            "½ cup white sugar",
+            "2 (3.5 ounce) packages dark chocolate, finely chopped"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 300 degrees F (150 degrees C). Grease a baking sheet or line with parchment paper.",
+            "Beat egg whites in a glass, metal, or ceramic bowl until foamy. Continue beating until stiff peaks form.",
+            "Combine marzipan with 1/2 of the confectioners' sugar and rub with your fingers until mixture resembles bread crumbs. Add coconut, remaining confectioners' sugar, lemon zest, and rum. Mix well. Fold in stiff egg whites.",
+            "Using 2 teaspoons, drop small dollops of mixture onto the prepared baking sheet. Sprinkle with sugar.",
+            "Bake in the preheated oven until the macaroons are golden but soft to the touch, about 20 minutes. Transfer to a cooling rack and cool completely, 30 minutes to 1 hour.",
+            "Place 3/4 of the chocolate in the top of a double boiler over simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted, about 5 minutes. Remove from heat and stir in remaining chocolate until melted.",
+            "Dip 1/3 of each cooled macaroon into the melted chocolate. Set macaroons on waxed paper until chocolate has set. Store the macaroons in an airtight container, with waxed paper between the layers."
+        ],
+        "ingredients_canonical": [
+            "large egg whites",
+            "ounces marzipan",
+            "confectioners sugar sifted divided",
+            "dried unsweetened coconut",
+            "½ lemon zest",
+            "rum",
+            "½ white sugar",
+            "ounce packages dark chocolate finely chopped"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 10,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 44,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Thai Coconut and Cocoa Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Thai cookies always have something unusual going on with them. These macaroon style cookies mix coconut, cocoa, and lime juice to create an interesting snack.",
+        "ingredients": [
+            "2 large egg whites",
+            "½ cup white sugar",
+            "⅛ teaspoon salt",
+            "1 teaspoon lime juice",
+            "1 (7 ounce) package toasted flake coconut",
+            "1 tablespoon unsweetened cocoa powder"
+        ],
+        "directions": [
+            "Preheat an oven to 300 degrees F (150 degrees C).",
+            "Beat egg whites until foamy in a large glass or metal mixing bowl. Gradually add the sugar, continuing to beat until soft peaks form. Lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. Add the salt and lime juice and continue beating until the egg whites form a sharp peak that holds its shape when you lift your beater or whisk. Gently folk the coconut and cocoa powder into the mixture.",
+            "Drop mixture by tablespoonfuls onto the prepared baking sheets. Bake until golden brown and firm to the touch, about 20 minutes. Cool on the pans on wire racks. Store in an airtight container."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "large egg whites ½ white sugar ⅛ salt lime juice ounce package toasted flake coconut unsweetened cocoa powder",
+        "directions_text": "preheat an oven to 300 degrees f (150 degrees c). beat egg whites until foamy in a large glass or metal mixing bowl. gradually add the sugar, continuing to beat until soft peaks form. lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. add the salt and lime juice and continue beating until the egg whites form a sharp peak that holds its shape when you lift your beater or whisk. gently folk the coconut and cocoa powder into the mixture. drop mixture by tablespoonfuls onto the prepared baking sheets. bake until golden brown and firm to the touch, about 20 minutes. cool on the pans on wire racks. store in an airtight container.",
+        "combined_text": "thai coconut and cocoa macaroons macaroons macaroons 2 large egg whites ½ cup white sugar ⅛ teaspoon salt 1 teaspoon lime juice 1 (7 ounce) package toasted flake coconut 1 tablespoon unsweetened cocoa powder preheat an oven to 300 degrees f (150 degrees c). beat egg whites until foamy in a large glass or metal mixing bowl. gradually add the sugar, continuing to beat until soft peaks form. lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. add the salt and lime juice and continue beating until the egg whites form a sharp peak that holds its shape when you lift your beater or whisk. gently folk the coconut and cocoa powder into the mixture. drop mixture by tablespoonfuls onto the prepared baking sheets. bake until golden brown and firm to the touch, about 20 minutes. cool on the pans on wire racks. store in an airtight container.",
+        "ingredients_raw": [
+            "2 large egg whites",
+            "½ cup white sugar",
+            "⅛ teaspoon salt",
+            "1 teaspoon lime juice",
+            "1 (7 ounce) package toasted flake coconut",
+            "1 tablespoon unsweetened cocoa powder"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 300 degrees F (150 degrees C).",
+            "Beat egg whites until foamy in a large glass or metal mixing bowl. Gradually add the sugar, continuing to beat until soft peaks form. Lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. Add the salt and lime juice and continue beating until the egg whites form a sharp peak that holds its shape when you lift your beater or whisk. Gently folk the coconut and cocoa powder into the mixture.",
+            "Drop mixture by tablespoonfuls onto the prepared baking sheets. Bake until golden brown and firm to the touch, about 20 minutes. Cool on the pans on wire racks. Store in an airtight container."
+        ],
+        "ingredients_canonical": [
+            "large egg whites",
+            "½ white sugar",
+            "⅛ salt",
+            "lime juice",
+            "ounce package toasted flake coconut",
+            "unsweetened cocoa powder"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Stovetop Chocolate Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Delicious cookie...the only thing you have to worry about is eating them all before the family gets home! In my opinion, they are best stored at room temperature because it makes them nice and soft. But if you like a harder cookie, store them in the fridge.",
+        "ingredients": [
+            "½ cup butter",
+            "1 ½ cups white sugar",
+            "½ cup milk",
+            "2 tablespoons unsweetened cocoa powder",
+            "¼ teaspoon salt",
+            "2 cups rolled oats",
+            "¾ cup shredded coconut",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Line a baking sheet with waxed paper.",
+            "Heat butter in a large saucepan over medium heat; stir in sugar, milk, cocoa powder, and salt. Bring mixture to a boil until sugar dissolves, 7 to 8 minutes. Do not stir while boiling. Remove saucepan from heat; stir in oats, coconut, and vanilla extract.",
+            "Drop coconut mixture by spoonfuls onto prepared baking sheet. Refrigerate until set, at least 1 hour."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ butter ½ white sugar ½ milk unsweetened cocoa powder ¼ salt rolled oats ¾ shredded coconut vanilla extract",
+        "directions_text": "line a baking sheet with waxed paper. heat butter in a large saucepan over medium heat; stir in sugar, milk, cocoa powder, and salt. bring mixture to a boil until sugar dissolves, 7 to 8 minutes. do not stir while boiling. remove saucepan from heat; stir in oats, coconut, and vanilla extract. drop coconut mixture by spoonfuls onto prepared baking sheet. refrigerate until set, at least 1 hour.",
+        "combined_text": "stovetop chocolate coconut macaroons macaroons macaroons ½ cup butter 1 ½ cups white sugar ½ cup milk 2 tablespoons unsweetened cocoa powder ¼ teaspoon salt 2 cups rolled oats ¾ cup shredded coconut 1 teaspoon vanilla extract line a baking sheet with waxed paper. heat butter in a large saucepan over medium heat; stir in sugar, milk, cocoa powder, and salt. bring mixture to a boil until sugar dissolves, 7 to 8 minutes. do not stir while boiling. remove saucepan from heat; stir in oats, coconut, and vanilla extract. drop coconut mixture by spoonfuls onto prepared baking sheet. refrigerate until set, at least 1 hour.",
+        "ingredients_raw": [
+            "½ cup butter",
+            "1 ½ cups white sugar",
+            "½ cup milk",
+            "2 tablespoons unsweetened cocoa powder",
+            "¼ teaspoon salt",
+            "2 cups rolled oats",
+            "¾ cup shredded coconut",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Line a baking sheet with waxed paper.",
+            "Heat butter in a large saucepan over medium heat; stir in sugar, milk, cocoa powder, and salt. Bring mixture to a boil until sugar dissolves, 7 to 8 minutes. Do not stir while boiling. Remove saucepan from heat; stir in oats, coconut, and vanilla extract.",
+            "Drop coconut mixture by spoonfuls onto prepared baking sheet. Refrigerate until set, at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "½ butter",
+            "½ white sugar",
+            "½ milk",
+            "unsweetened cocoa powder",
+            "¼ salt",
+            "rolled oats",
+            "¾ shredded coconut",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 44,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Pina Colada Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "I love the tropical taste of these chewy piña colada coconut macaroons. It's important to dice the pineapple very small so it does not overwhelm the other flavors in this recipe.",
+        "ingredients": [
+            "5 ½ cups flaked coconut",
+            "1 cup finely diced dried pineapple",
+            "⅔ cup all-purpose flour",
+            "½ cup finely chopped salted macadamia nuts",
+            "⅛ teaspoon salt",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 teaspoon rum flavored extract",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line two baking sheets with parchment paper or silicone mats.",
+            "Combine coconut, pineapple, flour, macadamia nuts, and salt in a large bowl; stir in sweetened condensed milk, rum extract, and vanilla extract. Drop golf ball-sized scoops of dough 2 inches apart onto the prepared baking sheets.",
+            "Bake in the preheated oven until coconut is toasted, 12 to 15 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ flaked coconut finely diced dried pineapple ⅔ all-purpose flour ½ finely chopped salted macadamia nuts ⅛ salt ounce can sweetened condensed milk rum flavored extract vanilla extract",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). line two baking sheets with parchment paper or silicone mats. combine coconut, pineapple, flour, macadamia nuts, and salt in a large bowl; stir in sweetened condensed milk, rum extract, and vanilla extract. drop golf ball-sized scoops of dough 2 inches apart onto the prepared baking sheets. bake in the preheated oven until coconut is toasted, 12 to 15 minutes.",
+        "combined_text": "pina colada macaroons macaroons macaroons 5 ½ cups flaked coconut 1 cup finely diced dried pineapple ⅔ cup all-purpose flour ½ cup finely chopped salted macadamia nuts ⅛ teaspoon salt 1 (14 ounce) can sweetened condensed milk 1 teaspoon rum flavored extract 1 teaspoon vanilla extract preheat the oven to 350 degrees f (175 degrees c). line two baking sheets with parchment paper or silicone mats. combine coconut, pineapple, flour, macadamia nuts, and salt in a large bowl; stir in sweetened condensed milk, rum extract, and vanilla extract. drop golf ball-sized scoops of dough 2 inches apart onto the prepared baking sheets. bake in the preheated oven until coconut is toasted, 12 to 15 minutes.",
+        "ingredients_raw": [
+            "5 ½ cups flaked coconut",
+            "1 cup finely diced dried pineapple",
+            "⅔ cup all-purpose flour",
+            "½ cup finely chopped salted macadamia nuts",
+            "⅛ teaspoon salt",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 teaspoon rum flavored extract",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line two baking sheets with parchment paper or silicone mats.",
+            "Combine coconut, pineapple, flour, macadamia nuts, and salt in a large bowl; stir in sweetened condensed milk, rum extract, and vanilla extract. Drop golf ball-sized scoops of dough 2 inches apart onto the prepared baking sheets.",
+            "Bake in the preheated oven until coconut is toasted, 12 to 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ flaked coconut",
+            "finely diced dried pineapple",
+            "⅔ all-purpose flour",
+            "½ finely chopped salted macadamia nuts",
+            "⅛ salt",
+            "ounce can sweetened condensed milk",
+            "rum flavored extract",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "snack",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Peanut-Free Chocolate Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Peanut-free! These no-bake chocolate macaroons are also known as 'Frogs and Haystacks.' My mother has been making these since before I was born; she passed this down to me. There are many no-bake cookies out there, but I like these best. Store in an airtight container in a cool spot. These can be frozen.",
+        "ingredients": [
+            "2 ½ cups rolled oats",
+            "½ cup cocoa powder",
+            "½ cup flaked coconut",
+            "1 ½ cups white sugar",
+            "½ cup milk",
+            "½ cup butter",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Line a work surface with waxed paper.",
+            "Stir oats, cocoa powder, and coconut together in a large bowl.",
+            "Whisk sugar, milk, and butter together in a nonstick pot; bring to a boil and cook, stirring constantly, until sugar is completely dissolved, about 2 minutes. Remove from heat and stir vanilla extract into butter mixture.",
+            "Stir oat mixture into butter mixture until well-combined. Drop mixture by the spoonful onto waxed paper and let sit until set, at least 15 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "½ rolled oats ½ cocoa powder ½ flaked coconut ½ white sugar ½ milk ½ butter vanilla extract",
+        "directions_text": "line a work surface with waxed paper. stir oats, cocoa powder, and coconut together in a large bowl. whisk sugar, milk, and butter together in a nonstick pot; bring to a boil and cook, stirring constantly, until sugar is completely dissolved, about 2 minutes. remove from heat and stir vanilla extract into butter mixture. stir oat mixture into butter mixture until well-combined. drop mixture by the spoonful onto waxed paper and let sit until set, at least 15 minutes.",
+        "combined_text": "peanut-free chocolate macaroons macaroons macaroons 2 ½ cups rolled oats ½ cup cocoa powder ½ cup flaked coconut 1 ½ cups white sugar ½ cup milk ½ cup butter 1 teaspoon vanilla extract line a work surface with waxed paper. stir oats, cocoa powder, and coconut together in a large bowl. whisk sugar, milk, and butter together in a nonstick pot; bring to a boil and cook, stirring constantly, until sugar is completely dissolved, about 2 minutes. remove from heat and stir vanilla extract into butter mixture. stir oat mixture into butter mixture until well-combined. drop mixture by the spoonful onto waxed paper and let sit until set, at least 15 minutes.",
+        "ingredients_raw": [
+            "2 ½ cups rolled oats",
+            "½ cup cocoa powder",
+            "½ cup flaked coconut",
+            "1 ½ cups white sugar",
+            "½ cup milk",
+            "½ cup butter",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Line a work surface with waxed paper.",
+            "Stir oats, cocoa powder, and coconut together in a large bowl.",
+            "Whisk sugar, milk, and butter together in a nonstick pot; bring to a boil and cook, stirring constantly, until sugar is completely dissolved, about 2 minutes. Remove from heat and stir vanilla extract into butter mixture.",
+            "Stir oat mixture into butter mixture until well-combined. Drop mixture by the spoonful onto waxed paper and let sit until set, at least 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ rolled oats",
+            "½ cocoa powder",
+            "½ flaked coconut",
+            "½ white sugar",
+            "½ milk",
+            "½ butter",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 22,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Italian Almond Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "This is a good recipe that's quick and easy. Pine nuts may be substituted for the slivered almonds in this chewy cookie.",
+        "ingredients": [
+            "16 ounces almond paste",
+            "6 egg whites",
+            "1 cup white sugar",
+            "1 cup confectioners' sugar",
+            "½ cup sifted all-purpose flour",
+            "¼ teaspoon salt",
+            "2 teaspoons lemon extract",
+            "3 drops red food coloring",
+            "½ cup slivered almonds"
+        ],
+        "directions": [
+            "Preheat the oven to 300 degrees F (150 degrees C). Line cookie sheets with parchment paper.",
+            "In a medium bowl, stir together the almond paste, egg whites and lemon extract until smooth. Sift together the white sugar and confectioners' sugar, then combine sugars with the flour and salt. Stir the dry ingredients into the egg mixture along with the food coloring of your choice. Drop by teaspoonfuls, two inches apart, onto the prepared cookie sheets. Sprinkle some nuts on top of each cookie.",
+            "Bake for 25 to 30 minutes in the preheated oven, until cookies are golden around the edges. Cool for a few minutes on baking sheets before removing to wire racks to cool completely. Store or freeze in an airtight container."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "ounces almond paste egg whites white sugar confectioners sugar ½ sifted all-purpose flour ¼ salt lemon extract drops red food coloring ½ slivered almonds",
+        "directions_text": "preheat the oven to 300 degrees f (150 degrees c). line cookie sheets with parchment paper. in a medium bowl, stir together the almond paste, egg whites and lemon extract until smooth. sift together the white sugar and confectioners' sugar, then combine sugars with the flour and salt. stir the dry ingredients into the egg mixture along with the food coloring of your choice. drop by teaspoonfuls, two inches apart, onto the prepared cookie sheets. sprinkle some nuts on top of each cookie. bake for 25 to 30 minutes in the preheated oven, until cookies are golden around the edges. cool for a few minutes on baking sheets before removing to wire racks to cool completely. store or freeze in an airtight container.",
+        "combined_text": "italian almond macaroons macaroons macaroons 16 ounces almond paste 6 egg whites 1 cup white sugar 1 cup confectioners' sugar ½ cup sifted all-purpose flour ¼ teaspoon salt 2 teaspoons lemon extract 3 drops red food coloring ½ cup slivered almonds preheat the oven to 300 degrees f (150 degrees c). line cookie sheets with parchment paper. in a medium bowl, stir together the almond paste, egg whites and lemon extract until smooth. sift together the white sugar and confectioners' sugar, then combine sugars with the flour and salt. stir the dry ingredients into the egg mixture along with the food coloring of your choice. drop by teaspoonfuls, two inches apart, onto the prepared cookie sheets. sprinkle some nuts on top of each cookie. bake for 25 to 30 minutes in the preheated oven, until cookies are golden around the edges. cool for a few minutes on baking sheets before removing to wire racks to cool completely. store or freeze in an airtight container.",
+        "ingredients_raw": [
+            "16 ounces almond paste",
+            "6 egg whites",
+            "1 cup white sugar",
+            "1 cup confectioners' sugar",
+            "½ cup sifted all-purpose flour",
+            "¼ teaspoon salt",
+            "2 teaspoons lemon extract",
+            "3 drops red food coloring",
+            "½ cup slivered almonds"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 300 degrees F (150 degrees C). Line cookie sheets with parchment paper.",
+            "In a medium bowl, stir together the almond paste, egg whites and lemon extract until smooth. Sift together the white sugar and confectioners' sugar, then combine sugars with the flour and salt. Stir the dry ingredients into the egg mixture along with the food coloring of your choice. Drop by teaspoonfuls, two inches apart, onto the prepared cookie sheets. Sprinkle some nuts on top of each cookie.",
+            "Bake for 25 to 30 minutes in the preheated oven, until cookies are golden around the edges. Cool for a few minutes on baking sheets before removing to wire racks to cool completely. Store or freeze in an airtight container."
+        ],
+        "ingredients_canonical": [
+            "ounces almond paste",
+            "egg whites",
+            "white sugar",
+            "confectioners sugar",
+            "½ sifted all-purpose flour",
+            "¼ salt",
+            "lemon extract",
+            "drops red food coloring",
+            "½ slivered almonds"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 33,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cornflake Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Chewy, crunchy cookies. If you prefer a more cake-like cookie increase the flour slightly and decrease the cornflakes slightly.",
+        "ingredients": [
+            "1 cup packed brown sugar",
+            "½ cup white sugar",
+            "½ cup butter, softened",
+            "1 teaspoon vanilla extract",
+            "2 eggs",
+            "¾ cup all-purpose flour",
+            "5 cups cornflakes cereal",
+            "1 ½ cups flaked coconut"
+        ],
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Cream the butter with the brown sugar and white sugars. Add the eggs and the vanilla and beat well.",
+            "Mix in the flour until well combined. Stir in the corn flakes and the coconut. Drop by teaspoonfuls onto a parchment lined baking sheet.",
+            "Bake at 375 degrees F (190 degrees C) for 8 to 10 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "packed brown sugar ½ white sugar ½ butter softened vanilla extract eggs ¾ all-purpose flour cornflakes cereal ½ flaked coconut",
+        "directions_text": "preheat oven to 375 degrees f (190 degrees c). cream the butter with the brown sugar and white sugars. add the eggs and the vanilla and beat well. mix in the flour until well combined. stir in the corn flakes and the coconut. drop by teaspoonfuls onto a parchment lined baking sheet. bake at 375 degrees f (190 degrees c) for 8 to 10 minutes.",
+        "combined_text": "cornflake macaroons macaroons macaroons 1 cup packed brown sugar ½ cup white sugar ½ cup butter, softened 1 teaspoon vanilla extract 2 eggs ¾ cup all-purpose flour 5 cups cornflakes cereal 1 ½ cups flaked coconut preheat oven to 375 degrees f (190 degrees c). cream the butter with the brown sugar and white sugars. add the eggs and the vanilla and beat well. mix in the flour until well combined. stir in the corn flakes and the coconut. drop by teaspoonfuls onto a parchment lined baking sheet. bake at 375 degrees f (190 degrees c) for 8 to 10 minutes.",
+        "ingredients_raw": [
+            "1 cup packed brown sugar",
+            "½ cup white sugar",
+            "½ cup butter, softened",
+            "1 teaspoon vanilla extract",
+            "2 eggs",
+            "¾ cup all-purpose flour",
+            "5 cups cornflakes cereal",
+            "1 ½ cups flaked coconut"
+        ],
+        "directions_raw": [
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Cream the butter with the brown sugar and white sugars. Add the eggs and the vanilla and beat well.",
+            "Mix in the flour until well combined. Stir in the corn flakes and the coconut. Drop by teaspoonfuls onto a parchment lined baking sheet.",
+            "Bake at 375 degrees F (190 degrees C) for 8 to 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "packed brown sugar",
+            "½ white sugar",
+            "½ butter softened",
+            "vanilla extract",
+            "eggs",
+            "¾ all-purpose flour",
+            "cornflakes cereal",
+            "½ flaked coconut"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Farm Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "This is a recipe that we made on the farm in the 30's. It is a delicious coconut macaroon.",
+        "ingredients": [
+            "4 egg whites",
+            "½ teaspoon vanilla extract",
+            "¼ teaspoon almond extract",
+            "⅛ teaspoon cream of tartar",
+            "1 ¼ cups white sugar",
+            "¼ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "2 ½ cups flaked coconut"
+        ],
+        "directions": [
+            "Preheat oven to 300 degrees F (150 degrees C). Grease and flour cookie sheet.",
+            "In a medium bowl, beat egg whites, vanilla extract, almond extract, and cream of tartar until soft peaks form. Gradually beat in sugar, and whip until stiff. Toss together flour, salt, and coconut in a separate bowl; fold into egg whites. Drop by heaping tablespoonfuls onto the prepared cookie sheet.",
+            "Bake 18 to 20 minutes in the preheated oven, or until slightly golden. Allow cookies to cool on the baking sheet for easy removal."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "egg whites ½ vanilla extract ¼ almond extract ⅛ cream tartar ¼ white sugar ¼ all-purpose flour ¼ salt ½ flaked coconut",
+        "directions_text": "preheat oven to 300 degrees f (150 degrees c). grease and flour cookie sheet. in a medium bowl, beat egg whites, vanilla extract, almond extract, and cream of tartar until soft peaks form. gradually beat in sugar, and whip until stiff. toss together flour, salt, and coconut in a separate bowl; fold into egg whites. drop by heaping tablespoonfuls onto the prepared cookie sheet. bake 18 to 20 minutes in the preheated oven, or until slightly golden. allow cookies to cool on the baking sheet for easy removal.",
+        "combined_text": "farm macaroons macaroons macaroons 4 egg whites ½ teaspoon vanilla extract ¼ teaspoon almond extract ⅛ teaspoon cream of tartar 1 ¼ cups white sugar ¼ cup all-purpose flour ¼ teaspoon salt 2 ½ cups flaked coconut preheat oven to 300 degrees f (150 degrees c). grease and flour cookie sheet. in a medium bowl, beat egg whites, vanilla extract, almond extract, and cream of tartar until soft peaks form. gradually beat in sugar, and whip until stiff. toss together flour, salt, and coconut in a separate bowl; fold into egg whites. drop by heaping tablespoonfuls onto the prepared cookie sheet. bake 18 to 20 minutes in the preheated oven, or until slightly golden. allow cookies to cool on the baking sheet for easy removal.",
+        "ingredients_raw": [
+            "4 egg whites",
+            "½ teaspoon vanilla extract",
+            "¼ teaspoon almond extract",
+            "⅛ teaspoon cream of tartar",
+            "1 ¼ cups white sugar",
+            "¼ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "2 ½ cups flaked coconut"
+        ],
+        "directions_raw": [
+            "Preheat oven to 300 degrees F (150 degrees C). Grease and flour cookie sheet.",
+            "In a medium bowl, beat egg whites, vanilla extract, almond extract, and cream of tartar until soft peaks form. Gradually beat in sugar, and whip until stiff. Toss together flour, salt, and coconut in a separate bowl; fold into egg whites. Drop by heaping tablespoonfuls onto the prepared cookie sheet.",
+            "Bake 18 to 20 minutes in the preheated oven, or until slightly golden. Allow cookies to cool on the baking sheet for easy removal."
+        ],
+        "ingredients_canonical": [
+            "egg whites",
+            "½ vanilla extract",
+            "¼ almond extract",
+            "⅛ cream tartar",
+            "¼ white sugar",
+            "¼ all-purpose flour",
+            "¼ salt",
+            "½ flaked coconut"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Rudolph Noses",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "I took my grandmother's recipe for chocolate coconut macaroons and made them festive by adding half of a maraschino cherry to the top of each one. Her recipe called for 12 ounces of semisweet melted chocolate, but I used Hershey's® unsweetened cocoa powder instead because it's what I had on hand.",
+        "ingredients": [
+            "4 egg whites",
+            "1 cup white sugar",
+            "1 cup unsweetened cocoa powder",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "3 cups shredded coconut",
+            "12 maraschino cherries, halved"
+        ],
+        "directions": [
+            "Preheat oven to 325 degrees F (165 degrees C). Line baking sheets with waxed paper.",
+            "Beat egg whites in a glass or metal bowl until foamy. Gradually add sugar, continuing to beat until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks.",
+            "Beat cocoa powder, vanilla extract, and salt into egg white mixture until incorporated; fold in coconut. Drop spoonfuls of coconut mixture onto the prepared baking sheets.",
+            "Bake in the preheated oven until coconut starts to brown, about 20 minutes.",
+            "Press a cherry half into the top of each macaroon; transfer cookies to a cooling rack."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "egg whites white sugar unsweetened cocoa powder vanilla extract ½ salt shredded coconut maraschino cherries halved",
+        "directions_text": "preheat oven to 325 degrees f (165 degrees c). line baking sheets with waxed paper. beat egg whites in a glass or metal bowl until foamy. gradually add sugar, continuing to beat until stiff peaks form. lift your beater or whisk straight up: the egg whites will form sharp peaks. beat cocoa powder, vanilla extract, and salt into egg white mixture until incorporated; fold in coconut. drop spoonfuls of coconut mixture onto the prepared baking sheets. bake in the preheated oven until coconut starts to brown, about 20 minutes. press a cherry half into the top of each macaroon; transfer cookies to a cooling rack.",
+        "combined_text": "rudolph noses macaroons macaroons 4 egg whites 1 cup white sugar 1 cup unsweetened cocoa powder 1 teaspoon vanilla extract ½ teaspoon salt 3 cups shredded coconut 12 maraschino cherries, halved preheat oven to 325 degrees f (165 degrees c). line baking sheets with waxed paper. beat egg whites in a glass or metal bowl until foamy. gradually add sugar, continuing to beat until stiff peaks form. lift your beater or whisk straight up: the egg whites will form sharp peaks. beat cocoa powder, vanilla extract, and salt into egg white mixture until incorporated; fold in coconut. drop spoonfuls of coconut mixture onto the prepared baking sheets. bake in the preheated oven until coconut starts to brown, about 20 minutes. press a cherry half into the top of each macaroon; transfer cookies to a cooling rack.",
+        "ingredients_raw": [
+            "4 egg whites",
+            "1 cup white sugar",
+            "1 cup unsweetened cocoa powder",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "3 cups shredded coconut",
+            "12 maraschino cherries, halved"
+        ],
+        "directions_raw": [
+            "Preheat oven to 325 degrees F (165 degrees C). Line baking sheets with waxed paper.",
+            "Beat egg whites in a glass or metal bowl until foamy. Gradually add sugar, continuing to beat until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks.",
+            "Beat cocoa powder, vanilla extract, and salt into egg white mixture until incorporated; fold in coconut. Drop spoonfuls of coconut mixture onto the prepared baking sheets.",
+            "Bake in the preheated oven until coconut starts to brown, about 20 minutes.",
+            "Press a cherry half into the top of each macaroon; transfer cookies to a cooling rack."
+        ],
+        "ingredients_canonical": [
+            "egg whites",
+            "white sugar",
+            "unsweetened cocoa powder",
+            "vanilla extract",
+            "½ salt",
+            "shredded coconut",
+            "maraschino cherries halved"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Macaroons Con Peanut Butter",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "No-bake cookies made with cornflakes and peanut butter.",
+        "ingredients": [
+            "½ cup white sugar",
+            "½ cup light corn syrup",
+            "1 ¼ cups peanut butter",
+            "2 ⅓ cups cornflakes cereal",
+            "¼ cup sesame seeds (Optional)"
+        ],
+        "directions": [
+            "In a heavy saucepan over medium-high heat, bring the sugar and corn syrup to a boil, and let cook for 2 minutes. Remove from heat and stir in peanut butter. Mix in the cornflakes and if desired, sesame seeds. Drop spoonfuls onto waxed paper and let cool until set."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "½ white sugar ½ light corn syrup ¼ peanut butter ⅓ cornflakes cereal ¼ sesame seeds optional",
+        "directions_text": "in a heavy saucepan over medium-high heat, bring the sugar and corn syrup to a boil, and let cook for 2 minutes. remove from heat and stir in peanut butter. mix in the cornflakes and if desired, sesame seeds. drop spoonfuls onto waxed paper and let cool until set.",
+        "combined_text": "macaroons con peanut butter macaroons macaroons ½ cup white sugar ½ cup light corn syrup 1 ¼ cups peanut butter 2 ⅓ cups cornflakes cereal ¼ cup sesame seeds (optional) in a heavy saucepan over medium-high heat, bring the sugar and corn syrup to a boil, and let cook for 2 minutes. remove from heat and stir in peanut butter. mix in the cornflakes and if desired, sesame seeds. drop spoonfuls onto waxed paper and let cool until set.",
+        "ingredients_raw": [
+            "½ cup white sugar",
+            "½ cup light corn syrup",
+            "1 ¼ cups peanut butter",
+            "2 ⅓ cups cornflakes cereal",
+            "¼ cup sesame seeds (Optional)"
+        ],
+        "directions_raw": [
+            "In a heavy saucepan over medium-high heat, bring the sugar and corn syrup to a boil, and let cook for 2 minutes. Remove from heat and stir in peanut butter. Mix in the cornflakes and if desired, sesame seeds. Drop spoonfuls onto waxed paper and let cool until set."
+        ],
+        "ingredients_canonical": [
+            "½ white sugar",
+            "½ light corn syrup",
+            "¼ peanut butter",
+            "⅓ cornflakes cereal",
+            "¼ sesame seeds optional"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Coconut Vanilla Macaroons (Gluten-Free, Nut-Free)",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "These egg-free macaroons are held together with a flour blend. A perfect cookie for all coconut lovers! You wouldn't know they are so allergy-friendly!",
+        "ingredients": [
+            "5 ½ cups unsweetened shredded coconut",
+            "⅔ cup gluten-free all-purpose flour",
+            "½ teaspoon sea salt",
+            "20 fluid ounces coconut milk",
+            "½ cup honey, or more to taste",
+            "2 teaspoons vanilla extract",
+            "1 cup vegan dark chocolate chips"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper.",
+            "Combine coconut, flour, and sea salt in a large bowl. Add coconut milk, honey, and vanilla extract; stir until thoroughly combined. Drop tablespoonfuls of mixture onto prepared baking sheets.",
+            "Bake in the preheated oven until golden on the bottom and tops are just beginning to brown, about 20 minutes. Cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely, about 20 minutes.",
+            "Melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each melting, 1 to 3 minutes.",
+            "Dip tops or bottoms of macaroons in melted chocolate, letting any excess drip back into the bowl. Place on waxed paper until set, about 10 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "½ unsweetened shredded coconut ⅔ gluten-free all-purpose flour ½ sea salt fluid ounces coconut milk ½ honey more taste vanilla extract vegan dark chocolate chips",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). line 2 baking sheets with parchment paper. combine coconut, flour, and sea salt in a large bowl. add coconut milk, honey, and vanilla extract; stir until thoroughly combined. drop tablespoonfuls of mixture onto prepared baking sheets. bake in the preheated oven until golden on the bottom and tops are just beginning to brown, about 20 minutes. cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely, about 20 minutes. melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each melting, 1 to 3 minutes. dip tops or bottoms of macaroons in melted chocolate, letting any excess drip back into the bowl. place on waxed paper until set, about 10 minutes.",
+        "combined_text": "coconut vanilla macaroons (gluten-free, nut-free) macaroons macaroons 5 ½ cups unsweetened shredded coconut ⅔ cup gluten-free all-purpose flour ½ teaspoon sea salt 20 fluid ounces coconut milk ½ cup honey, or more to taste 2 teaspoons vanilla extract 1 cup vegan dark chocolate chips preheat oven to 350 degrees f (175 degrees c). line 2 baking sheets with parchment paper. combine coconut, flour, and sea salt in a large bowl. add coconut milk, honey, and vanilla extract; stir until thoroughly combined. drop tablespoonfuls of mixture onto prepared baking sheets. bake in the preheated oven until golden on the bottom and tops are just beginning to brown, about 20 minutes. cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely, about 20 minutes. melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each melting, 1 to 3 minutes. dip tops or bottoms of macaroons in melted chocolate, letting any excess drip back into the bowl. place on waxed paper until set, about 10 minutes.",
+        "ingredients_raw": [
+            "5 ½ cups unsweetened shredded coconut",
+            "⅔ cup gluten-free all-purpose flour",
+            "½ teaspoon sea salt",
+            "20 fluid ounces coconut milk",
+            "½ cup honey, or more to taste",
+            "2 teaspoons vanilla extract",
+            "1 cup vegan dark chocolate chips"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper.",
+            "Combine coconut, flour, and sea salt in a large bowl. Add coconut milk, honey, and vanilla extract; stir until thoroughly combined. Drop tablespoonfuls of mixture onto prepared baking sheets.",
+            "Bake in the preheated oven until golden on the bottom and tops are just beginning to brown, about 20 minutes. Cool on the baking sheets for 5 minutes before transferring to a wire rack to cool completely, about 20 minutes.",
+            "Melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each melting, 1 to 3 minutes.",
+            "Dip tops or bottoms of macaroons in melted chocolate, letting any excess drip back into the bowl. Place on waxed paper until set, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ unsweetened shredded coconut",
+            "⅔ gluten-free all-purpose flour",
+            "½ sea salt",
+            "fluid ounces coconut milk",
+            "½ honey more taste",
+            "vanilla extract",
+            "vegan dark chocolate chips"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "filipino",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 37,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Quick and Easy Coconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "These macaroons are delicious and so very easy to make. Enjoy!",
+        "ingredients": [
+            "cooking spray",
+            "6 egg whites",
+            "½ teaspoon cream of tartar",
+            "½ cup white sugar, or more to taste",
+            "1 teaspoon almond extract",
+            "2 tablespoons all-purpose flour",
+            "1 (14 ounce) package shredded coconut"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Spray baking sheets with cooking spray.",
+            "Whisk egg whites and cream of tartar together in a bowl until foamy.",
+            "Gradually whisk sugar into egg white mixture until blended.",
+            "Whisk almond extract and flour into egg white mixture until stiff peaks have formed. The egg whites should form a sharp peak that holds its shape when whisk is held straight up.",
+            "Fold coconut into egg white mixture until incorporated.",
+            "Drop spoonfuls of batter onto prepared baking sheets.",
+            "Bake in the preheated oven until just golden brown, 8 to 9 minutes. Cool on baking sheets for about 2 minutes; transfer to wire rack to completely cool."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 8,
+        "ingredient_text": "cooking spray egg whites ½ cream tartar ½ white sugar more taste almond extract all-purpose flour ounce package shredded coconut",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). spray baking sheets with cooking spray. whisk egg whites and cream of tartar together in a bowl until foamy. gradually whisk sugar into egg white mixture until blended. whisk almond extract and flour into egg white mixture until stiff peaks have formed. the egg whites should form a sharp peak that holds its shape when whisk is held straight up. fold coconut into egg white mixture until incorporated. drop spoonfuls of batter onto prepared baking sheets. bake in the preheated oven until just golden brown, 8 to 9 minutes. cool on baking sheets for about 2 minutes; transfer to wire rack to completely cool.",
+        "combined_text": "quick and easy coconut macaroons macaroons macaroons cooking spray 6 egg whites ½ teaspoon cream of tartar ½ cup white sugar, or more to taste 1 teaspoon almond extract 2 tablespoons all-purpose flour 1 (14 ounce) package shredded coconut preheat oven to 350 degrees f (175 degrees c). spray baking sheets with cooking spray. whisk egg whites and cream of tartar together in a bowl until foamy. gradually whisk sugar into egg white mixture until blended. whisk almond extract and flour into egg white mixture until stiff peaks have formed. the egg whites should form a sharp peak that holds its shape when whisk is held straight up. fold coconut into egg white mixture until incorporated. drop spoonfuls of batter onto prepared baking sheets. bake in the preheated oven until just golden brown, 8 to 9 minutes. cool on baking sheets for about 2 minutes; transfer to wire rack to completely cool.",
+        "ingredients_raw": [
+            "cooking spray",
+            "6 egg whites",
+            "½ teaspoon cream of tartar",
+            "½ cup white sugar, or more to taste",
+            "1 teaspoon almond extract",
+            "2 tablespoons all-purpose flour",
+            "1 (14 ounce) package shredded coconut"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Spray baking sheets with cooking spray.",
+            "Whisk egg whites and cream of tartar together in a bowl until foamy.",
+            "Gradually whisk sugar into egg white mixture until blended.",
+            "Whisk almond extract and flour into egg white mixture until stiff peaks have formed. The egg whites should form a sharp peak that holds its shape when whisk is held straight up.",
+            "Fold coconut into egg white mixture until incorporated.",
+            "Drop spoonfuls of batter onto prepared baking sheets.",
+            "Bake in the preheated oven until just golden brown, 8 to 9 minutes. Cool on baking sheets for about 2 minutes; transfer to wire rack to completely cool."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "egg whites",
+            "½ cream tartar",
+            "½ white sugar more taste",
+            "almond extract",
+            "all-purpose flour",
+            "ounce package shredded coconut"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 36,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Macaroons III",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Simple soft, chewy recipe. You can add a lot of things or... nothing at all. I have never tried them chocolate covered but I am sure this recipe, after cooled, could be dipped in chocolate as well!",
+        "ingredients": [
+            "1 (14 ounce) package flaked coconut",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 teaspoons vanilla extract"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+            "In a medium bowl, mix together the coconut, sweetened condensed milk, and vanilla until well blended. Drop by teaspoonfuls, one inch apart, onto the prepared cookie sheets.",
+            "Bake for 10 to 12 minutes in the preheated oven, or until edges are slightly browned. Using a moistened spatula, remove at once from baking sheets. Cool on cooling racks until firm. Store in a covered container at room temperature."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 3,
+        "ingredient_text": "ounce package flaked coconut ounce can sweetened condensed milk vanilla extract",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease cookie sheets. in a medium bowl, mix together the coconut, sweetened condensed milk, and vanilla until well blended. drop by teaspoonfuls, one inch apart, onto the prepared cookie sheets. bake for 10 to 12 minutes in the preheated oven, or until edges are slightly browned. using a moistened spatula, remove at once from baking sheets. cool on cooling racks until firm. store in a covered container at room temperature.",
+        "combined_text": "macaroons iii macaroons macaroons 1 (14 ounce) package flaked coconut 1 (14 ounce) can sweetened condensed milk 2 teaspoons vanilla extract preheat the oven to 350 degrees f (175 degrees c). grease cookie sheets. in a medium bowl, mix together the coconut, sweetened condensed milk, and vanilla until well blended. drop by teaspoonfuls, one inch apart, onto the prepared cookie sheets. bake for 10 to 12 minutes in the preheated oven, or until edges are slightly browned. using a moistened spatula, remove at once from baking sheets. cool on cooling racks until firm. store in a covered container at room temperature.",
+        "ingredients_raw": [
+            "1 (14 ounce) package flaked coconut",
+            "1 (14 ounce) can sweetened condensed milk",
+            "2 teaspoons vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+            "In a medium bowl, mix together the coconut, sweetened condensed milk, and vanilla until well blended. Drop by teaspoonfuls, one inch apart, onto the prepared cookie sheets.",
+            "Bake for 10 to 12 minutes in the preheated oven, or until edges are slightly browned. Using a moistened spatula, remove at once from baking sheets. Cool on cooling racks until firm. Store in a covered container at room temperature."
+        ],
+        "ingredients_canonical": [
+            "ounce package flaked coconut",
+            "ounce can sweetened condensed milk",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 4,
+        "est_cook_time_min": 21,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mock Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Oatmeal \"marinated\" in brown sugar and vegetable oil makes for crispy edges and a chewy middle.",
+        "ingredients": [
+            "2 cups rolled oats",
+            "1 cup packed brown sugar",
+            "½ cup vegetable oil",
+            "1 egg",
+            "½ teaspoon salt",
+            "½ teaspoon almond extract"
+        ],
+        "directions": [
+            "Combine oatmeal, brown sugar and oil in a bowl. Stir to mix well. Cover and let stand at least 5 hours, or overnight.",
+            "Pre-heat oven to 350 degrees F (175 degrees C). Grease cookie sheets - use non-stick if possible.",
+            "Add the egg, salt and almond extract to oatmeal and stir well until blended.",
+            "Drop by rounded teaspoonfuls about 1-1/2 inches apart on greased cookie sheets. Bake 7 or 8 minutes or until edges are browned and center is golden. Remove from cookie sheet and cool on racks."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "rolled oats packed brown sugar ½ vegetable oil egg ½ salt ½ almond extract",
+        "directions_text": "combine oatmeal, brown sugar and oil in a bowl. stir to mix well. cover and let stand at least 5 hours, or overnight. pre-heat oven to 350 degrees f (175 degrees c). grease cookie sheets - use non-stick if possible. add the egg, salt and almond extract to oatmeal and stir well until blended. drop by rounded teaspoonfuls about 1-1/2 inches apart on greased cookie sheets. bake 7 or 8 minutes or until edges are browned and center is golden. remove from cookie sheet and cool on racks.",
+        "combined_text": "mock macaroons macaroons macaroons 2 cups rolled oats 1 cup packed brown sugar ½ cup vegetable oil 1 egg ½ teaspoon salt ½ teaspoon almond extract combine oatmeal, brown sugar and oil in a bowl. stir to mix well. cover and let stand at least 5 hours, or overnight. pre-heat oven to 350 degrees f (175 degrees c). grease cookie sheets - use non-stick if possible. add the egg, salt and almond extract to oatmeal and stir well until blended. drop by rounded teaspoonfuls about 1-1/2 inches apart on greased cookie sheets. bake 7 or 8 minutes or until edges are browned and center is golden. remove from cookie sheet and cool on racks.",
+        "ingredients_raw": [
+            "2 cups rolled oats",
+            "1 cup packed brown sugar",
+            "½ cup vegetable oil",
+            "1 egg",
+            "½ teaspoon salt",
+            "½ teaspoon almond extract"
+        ],
+        "directions_raw": [
+            "Combine oatmeal, brown sugar and oil in a bowl. Stir to mix well. Cover and let stand at least 5 hours, or overnight.",
+            "Pre-heat oven to 350 degrees F (175 degrees C). Grease cookie sheets - use non-stick if possible.",
+            "Add the egg, salt and almond extract to oatmeal and stir well until blended.",
+            "Drop by rounded teaspoonfuls about 1-1/2 inches apart on greased cookie sheets. Bake 7 or 8 minutes or until edges are browned and center is golden. Remove from cookie sheet and cool on racks."
+        ],
+        "ingredients_canonical": [
+            "rolled oats",
+            "packed brown sugar",
+            "½ vegetable oil",
+            "egg",
+            "½ salt",
+            "½ almond extract"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "dessert",
+            "breakfast",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Macaroons II",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "A unique refrigerator cookie, a combination of brownie and macaroon flavors and textures.",
+        "ingredients": [
+            "3 ounces cream cheese, softened",
+            "⅓ cup white sugar",
+            "1 teaspoon vanilla extract",
+            "1 cup flaked coconut",
+            "½ cup finely chopped walnuts",
+            "⅓ cup butter",
+            "1 ½ cups all-purpose flour",
+            "1 cup white sugar",
+            "¼ cup Dutch process cocoa powder",
+            "1 egg",
+            "3 tablespoons milk",
+            "½ teaspoon baking soda"
+        ],
+        "directions": [
+            "To Make Filling: Beat cream cheese, 1/3 cup sugar and vanilla until soft and smooth. Add coconut and nuts. Chill.",
+            "To Make Dough: Beat butter until softened. Add half of flour. Then add 1 cup sugar, cocoa, egg, milk, and baking soda. Beat until combined. Work in the rest of the flour. Chill dough until firm enough to roll.",
+            "Place dough between 2 sheets of waxed paper. With rolling pin roll dough in a rectangle 14 x 6 inches. Remove top sheet of waxed paper.",
+            "Remove filling from refrigerator and shape into a roll 14 inches long. Place filling on top of dough. Start on one end and roll dough around filling (like rolling up a rug) . Moisten and pinch edges together. Cut roll in half. Wrap in waxed paper and refrigerate for two days.",
+            "Cut into 1/4 inch slices (using a very sharp knife or waxed dental floss). Put on greased cookie sheets and bake at 375 degrees F (190 degrees C) for 8 to 10 minutes. Cool on sheet for about 1 minute and then finish cooling on racks."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "ounces cream cheese softened ⅓ white sugar vanilla extract flaked coconut ½ finely chopped walnuts ⅓ butter ½ all-purpose flour white sugar ¼ dutch process cocoa powder egg milk ½ baking soda",
+        "directions_text": "to make filling: beat cream cheese, 1/3 cup sugar and vanilla until soft and smooth. add coconut and nuts. chill. to make dough: beat butter until softened. add half of flour. then add 1 cup sugar, cocoa, egg, milk, and baking soda. beat until combined. work in the rest of the flour. chill dough until firm enough to roll. place dough between 2 sheets of waxed paper. with rolling pin roll dough in a rectangle 14 x 6 inches. remove top sheet of waxed paper. remove filling from refrigerator and shape into a roll 14 inches long. place filling on top of dough. start on one end and roll dough around filling (like rolling up a rug) . moisten and pinch edges together. cut roll in half. wrap in waxed paper and refrigerate for two days. cut into 1/4 inch slices (using a very sharp knife or waxed dental floss). put on greased cookie sheets and bake at 375 degrees f (190 degrees c) for 8 to 10 minutes. cool on sheet for about 1 minute and then finish cooling on racks.",
+        "combined_text": "chocolate macaroons ii macaroons macaroons 3 ounces cream cheese, softened ⅓ cup white sugar 1 teaspoon vanilla extract 1 cup flaked coconut ½ cup finely chopped walnuts ⅓ cup butter 1 ½ cups all-purpose flour 1 cup white sugar ¼ cup dutch process cocoa powder 1 egg 3 tablespoons milk ½ teaspoon baking soda to make filling: beat cream cheese, 1/3 cup sugar and vanilla until soft and smooth. add coconut and nuts. chill. to make dough: beat butter until softened. add half of flour. then add 1 cup sugar, cocoa, egg, milk, and baking soda. beat until combined. work in the rest of the flour. chill dough until firm enough to roll. place dough between 2 sheets of waxed paper. with rolling pin roll dough in a rectangle 14 x 6 inches. remove top sheet of waxed paper. remove filling from refrigerator and shape into a roll 14 inches long. place filling on top of dough. start on one end and roll dough around filling (like rolling up a rug) . moisten and pinch edges together. cut roll in half. wrap in waxed paper and refrigerate for two days. cut into 1/4 inch slices (using a very sharp knife or waxed dental floss). put on greased cookie sheets and bake at 375 degrees f (190 degrees c) for 8 to 10 minutes. cool on sheet for about 1 minute and then finish cooling on racks.",
+        "ingredients_raw": [
+            "3 ounces cream cheese, softened",
+            "⅓ cup white sugar",
+            "1 teaspoon vanilla extract",
+            "1 cup flaked coconut",
+            "½ cup finely chopped walnuts",
+            "⅓ cup butter",
+            "1 ½ cups all-purpose flour",
+            "1 cup white sugar",
+            "¼ cup Dutch process cocoa powder",
+            "1 egg",
+            "3 tablespoons milk",
+            "½ teaspoon baking soda"
+        ],
+        "directions_raw": [
+            "To Make Filling: Beat cream cheese, 1/3 cup sugar and vanilla until soft and smooth. Add coconut and nuts. Chill.",
+            "To Make Dough: Beat butter until softened. Add half of flour. Then add 1 cup sugar, cocoa, egg, milk, and baking soda. Beat until combined. Work in the rest of the flour. Chill dough until firm enough to roll.",
+            "Place dough between 2 sheets of waxed paper. With rolling pin roll dough in a rectangle 14 x 6 inches. Remove top sheet of waxed paper.",
+            "Remove filling from refrigerator and shape into a roll 14 inches long. Place filling on top of dough. Start on one end and roll dough around filling (like rolling up a rug) . Moisten and pinch edges together. Cut roll in half. Wrap in waxed paper and refrigerate for two days.",
+            "Cut into 1/4 inch slices (using a very sharp knife or waxed dental floss). Put on greased cookie sheets and bake at 375 degrees F (190 degrees C) for 8 to 10 minutes. Cool on sheet for about 1 minute and then finish cooling on racks."
+        ],
+        "ingredients_canonical": [
+            "ounces cream cheese softened",
+            "⅓ white sugar",
+            "vanilla extract",
+            "flaked coconut",
+            "½ finely chopped walnuts",
+            "⅓ butter",
+            "½ all-purpose flour",
+            "white sugar",
+            "¼ dutch process cocoa powder",
+            "egg",
+            "milk",
+            "½ baking soda"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "dessert",
+            "main",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 71,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 48,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Macaroons I",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Easy to make, elegant and classy.",
+        "ingredients": [
+            "½ pound almond paste",
+            "1 cup white sugar",
+            "3 egg whites",
+            "⅛ teaspoon salt",
+            "2 tablespoons cake flour",
+            "⅓ cup confectioners' sugar"
+        ],
+        "directions": [
+            "Cover cookie sheets with parchment paper or aluminum foil.",
+            "In large mixing bowl, soften almond paste with your hands or food processor. Mix in white sugar and egg whites until well blended. Mix in the confectioners' sugar, flour, and salt until smooth and well blended.",
+            "Force dough through a cookie press or drop by teaspoonfuls onto cookie sheets. Cover and let stand for 30 minutes. Preheat the oven to 300 degrees F (150 degrees C).",
+            "Bake for 25 minutes. Remove foil or parchment from sheets and let cool. Peel off macaroons."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "½ pound almond paste white sugar egg whites ⅛ salt cake flour ⅓ confectioners sugar",
+        "directions_text": "cover cookie sheets with parchment paper or aluminum foil. in large mixing bowl, soften almond paste with your hands or food processor. mix in white sugar and egg whites until well blended. mix in the confectioners' sugar, flour, and salt until smooth and well blended. force dough through a cookie press or drop by teaspoonfuls onto cookie sheets. cover and let stand for 30 minutes. preheat the oven to 300 degrees f (150 degrees c). bake for 25 minutes. remove foil or parchment from sheets and let cool. peel off macaroons.",
+        "combined_text": "macaroons i macaroons macaroons ½ pound almond paste 1 cup white sugar 3 egg whites ⅛ teaspoon salt 2 tablespoons cake flour ⅓ cup confectioners' sugar cover cookie sheets with parchment paper or aluminum foil. in large mixing bowl, soften almond paste with your hands or food processor. mix in white sugar and egg whites until well blended. mix in the confectioners' sugar, flour, and salt until smooth and well blended. force dough through a cookie press or drop by teaspoonfuls onto cookie sheets. cover and let stand for 30 minutes. preheat the oven to 300 degrees f (150 degrees c). bake for 25 minutes. remove foil or parchment from sheets and let cool. peel off macaroons.",
+        "ingredients_raw": [
+            "½ pound almond paste",
+            "1 cup white sugar",
+            "3 egg whites",
+            "⅛ teaspoon salt",
+            "2 tablespoons cake flour",
+            "⅓ cup confectioners' sugar"
+        ],
+        "directions_raw": [
+            "Cover cookie sheets with parchment paper or aluminum foil.",
+            "In large mixing bowl, soften almond paste with your hands or food processor. Mix in white sugar and egg whites until well blended. Mix in the confectioners' sugar, flour, and salt until smooth and well blended.",
+            "Force dough through a cookie press or drop by teaspoonfuls onto cookie sheets. Cover and let stand for 30 minutes. Preheat the oven to 300 degrees F (150 degrees C).",
+            "Bake for 25 minutes. Remove foil or parchment from sheets and let cool. Peel off macaroons."
+        ],
+        "ingredients_canonical": [
+            "½ pound almond paste",
+            "white sugar",
+            "egg whites",
+            "⅛ salt",
+            "cake flour",
+            "⅓ confectioners sugar"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Choconut Macaroons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "These cookies call for chocolate chips and coconut.",
+        "ingredients": [
+            "¼ cup white sugar",
+            "2 tablespoons almond paste",
+            "1 cup flaked coconut",
+            "½ cup miniature semisweet chocolate chips",
+            "3 egg whites",
+            "½ teaspoon cream of tartar"
+        ],
+        "directions": [
+            "Preheat oven to 325 degrees F (165 degrees C). Line cookie sheets with parchment paper or grease lightly.",
+            "In a medium bowl, blend together the sugar and almond paste using your fingers until the paste is completely worked into the sugar. Stir in the coconut and chocolate chips. In a clean dry glass or metal bowl, Whip egg whites and cream of tartar to stiff peaks. Fold half of the egg whites into the coconut mixture to lighten the batter. Gently fold in the remaining whites, being careful not to deflate. Drop by rounded teaspoonfuls onto the prepared cookie sheets.",
+            "Bake for 20 minutes in the preheated oven, or until tops are lightly browned. Allow cookies to cool on baking sheet for a few minutes before removing to a wire rack to cool completely."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "¼ white sugar almond paste flaked coconut ½ miniature semisweet chocolate chips egg whites ½ cream tartar",
+        "directions_text": "preheat oven to 325 degrees f (165 degrees c). line cookie sheets with parchment paper or grease lightly. in a medium bowl, blend together the sugar and almond paste using your fingers until the paste is completely worked into the sugar. stir in the coconut and chocolate chips. in a clean dry glass or metal bowl, whip egg whites and cream of tartar to stiff peaks. fold half of the egg whites into the coconut mixture to lighten the batter. gently fold in the remaining whites, being careful not to deflate. drop by rounded teaspoonfuls onto the prepared cookie sheets. bake for 20 minutes in the preheated oven, or until tops are lightly browned. allow cookies to cool on baking sheet for a few minutes before removing to a wire rack to cool completely.",
+        "combined_text": "choconut macaroons macaroons macaroons ¼ cup white sugar 2 tablespoons almond paste 1 cup flaked coconut ½ cup miniature semisweet chocolate chips 3 egg whites ½ teaspoon cream of tartar preheat oven to 325 degrees f (165 degrees c). line cookie sheets with parchment paper or grease lightly. in a medium bowl, blend together the sugar and almond paste using your fingers until the paste is completely worked into the sugar. stir in the coconut and chocolate chips. in a clean dry glass or metal bowl, whip egg whites and cream of tartar to stiff peaks. fold half of the egg whites into the coconut mixture to lighten the batter. gently fold in the remaining whites, being careful not to deflate. drop by rounded teaspoonfuls onto the prepared cookie sheets. bake for 20 minutes in the preheated oven, or until tops are lightly browned. allow cookies to cool on baking sheet for a few minutes before removing to a wire rack to cool completely.",
+        "ingredients_raw": [
+            "¼ cup white sugar",
+            "2 tablespoons almond paste",
+            "1 cup flaked coconut",
+            "½ cup miniature semisweet chocolate chips",
+            "3 egg whites",
+            "½ teaspoon cream of tartar"
+        ],
+        "directions_raw": [
+            "Preheat oven to 325 degrees F (165 degrees C). Line cookie sheets with parchment paper or grease lightly.",
+            "In a medium bowl, blend together the sugar and almond paste using your fingers until the paste is completely worked into the sugar. Stir in the coconut and chocolate chips. In a clean dry glass or metal bowl, Whip egg whites and cream of tartar to stiff peaks. Fold half of the egg whites into the coconut mixture to lighten the batter. Gently fold in the remaining whites, being careful not to deflate. Drop by rounded teaspoonfuls onto the prepared cookie sheets.",
+            "Bake for 20 minutes in the preheated oven, or until tops are lightly browned. Allow cookies to cool on baking sheet for a few minutes before removing to a wire rack to cool completely."
+        ],
+        "ingredients_canonical": [
+            "¼ white sugar",
+            "almond paste",
+            "flaked coconut",
+            "½ miniature semisweet chocolate chips",
+            "egg whites",
+            "½ cream tartar"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 33,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Coconut Macaroons IV",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "This is a recipe my aunt made in the 30's. A meringue cookie with coconut and cornflake cereal. I could never eat enough of them.",
+        "ingredients": [
+            "2 egg whites",
+            "1 cup white sugar",
+            "1 cup flaked coconut,",
+            "2 cups cornflakes cereal, crushed"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+            "In a large glass or metal bowl, whip egg whites to stiff peaks. Stir in white sugar. Fold in coconut and cornflakes. Drop by teaspoonfuls onto the prepared cookie sheets.",
+            "Bake for 18 minutes in the preheated oven, or until coconut is golden."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "egg whites white sugar flaked coconut cornflakes cereal crushed",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease cookie sheets. in a large glass or metal bowl, whip egg whites to stiff peaks. stir in white sugar. fold in coconut and cornflakes. drop by teaspoonfuls onto the prepared cookie sheets. bake for 18 minutes in the preheated oven, or until coconut is golden.",
+        "combined_text": "coconut macaroons iv macaroons macaroons 2 egg whites 1 cup white sugar 1 cup flaked coconut, 2 cups cornflakes cereal, crushed preheat the oven to 350 degrees f (175 degrees c). grease cookie sheets. in a large glass or metal bowl, whip egg whites to stiff peaks. stir in white sugar. fold in coconut and cornflakes. drop by teaspoonfuls onto the prepared cookie sheets. bake for 18 minutes in the preheated oven, or until coconut is golden.",
+        "ingredients_raw": [
+            "2 egg whites",
+            "1 cup white sugar",
+            "1 cup flaked coconut,",
+            "2 cups cornflakes cereal, crushed"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease cookie sheets.",
+            "In a large glass or metal bowl, whip egg whites to stiff peaks. Stir in white sugar. Fold in coconut and cornflakes. Drop by teaspoonfuls onto the prepared cookie sheets.",
+            "Bake for 18 minutes in the preheated oven, or until coconut is golden."
+        ],
+        "ingredients_canonical": [
+            "egg whites",
+            "white sugar",
+            "flaked coconut",
+            "cornflakes cereal crushed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 6,
+        "est_cook_time_min": 21,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mock-a-Roons",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "Easy cookies! These are very chewy yummy mockaroons. They do not have real coconut in them. Just a few ingredients and you're done.",
+        "ingredients": [
+            "½ cup butter",
+            "1 cup white sugar",
+            "1 egg",
+            "1 ⅓ cups dry potato flakes",
+            "1 ⅓ cups biscuit baking mix",
+            "1 teaspoon coconut extract"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets.",
+            "In a medium bowl, cream together the butter and sugar until smooth. Stir in the egg and coconut extract. Combine the flour and potato flakes, and stir into the batter until well blended. Drop heaping spoonfuls onto the prepared cookie sheets.",
+            "Bake for 12 minutes, or until the tops are still white, and the bottoms are light brown. This will insure chewy cookies. Cool for a few minutes on the cookie sheet before removing to wire racks to cool completely."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "½ butter white sugar egg ⅓ dry potato flakes ⅓ biscuit baking mix coconut extract",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). grease cookie sheets. in a medium bowl, cream together the butter and sugar until smooth. stir in the egg and coconut extract. combine the flour and potato flakes, and stir into the batter until well blended. drop heaping spoonfuls onto the prepared cookie sheets. bake for 12 minutes, or until the tops are still white, and the bottoms are light brown. this will insure chewy cookies. cool for a few minutes on the cookie sheet before removing to wire racks to cool completely.",
+        "combined_text": "mock-a-roons macaroons macaroons ½ cup butter 1 cup white sugar 1 egg 1 ⅓ cups dry potato flakes 1 ⅓ cups biscuit baking mix 1 teaspoon coconut extract preheat the oven to 325 degrees f (165 degrees c). grease cookie sheets. in a medium bowl, cream together the butter and sugar until smooth. stir in the egg and coconut extract. combine the flour and potato flakes, and stir into the batter until well blended. drop heaping spoonfuls onto the prepared cookie sheets. bake for 12 minutes, or until the tops are still white, and the bottoms are light brown. this will insure chewy cookies. cool for a few minutes on the cookie sheet before removing to wire racks to cool completely.",
+        "ingredients_raw": [
+            "½ cup butter",
+            "1 cup white sugar",
+            "1 egg",
+            "1 ⅓ cups dry potato flakes",
+            "1 ⅓ cups biscuit baking mix",
+            "1 teaspoon coconut extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets.",
+            "In a medium bowl, cream together the butter and sugar until smooth. Stir in the egg and coconut extract. Combine the flour and potato flakes, and stir into the batter until well blended. Drop heaping spoonfuls onto the prepared cookie sheets.",
+            "Bake for 12 minutes, or until the tops are still white, and the bottoms are light brown. This will insure chewy cookies. Cool for a few minutes on the cookie sheet before removing to wire racks to cool completely."
+        ],
+        "ingredients_canonical": [
+            "½ butter",
+            "white sugar",
+            "egg",
+            "⅓ dry potato flakes",
+            "⅓ biscuit baking mix",
+            "coconut extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Chocolate-Almond Macaroon Cookies",
+        "category": "Macaroons",
+        "subcategory": "Macaroons",
+        "description": "These chewy macaroon cookies, made with ground almonds and chocolate, add a new twist to an old favorite.",
+        "ingredients": [
+            "2 cups almonds",
+            "1 cup white sugar",
+            "¼ teaspoon ground cinnamon",
+            "⅛ teaspoon salt",
+            "2 large eggs",
+            "½ teaspoon almond extract",
+            "¾ cup chopped semisweet chocolate"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line cookie sheets with parchment paper.",
+            "Finely grind the almonds, sugar, cinnamon, and salt in a food processor.",
+            "Separate one of the eggs and add the white, the other egg, and almond extract, and process until the mixture holds together. Transfer to a bowl and stir in the chocolate.",
+            "Moisten hands and roll mixture into 1-inch balls. Place on prepared cookie sheet. Flatten to 1/3-inch thick rounds.",
+            "Bake until tops puff and centers are still soft, about 12 minutes. Remove to a rack and cool completely. Replace parchment paper for next round of cookies."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "almonds white sugar ¼ ground cinnamon ⅛ salt large eggs ½ almond extract ¾ chopped semisweet chocolate",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). line cookie sheets with parchment paper. finely grind the almonds, sugar, cinnamon, and salt in a food processor. separate one of the eggs and add the white, the other egg, and almond extract, and process until the mixture holds together. transfer to a bowl and stir in the chocolate. moisten hands and roll mixture into 1-inch balls. place on prepared cookie sheet. flatten to 1/3-inch thick rounds. bake until tops puff and centers are still soft, about 12 minutes. remove to a rack and cool completely. replace parchment paper for next round of cookies.",
+        "combined_text": "chocolate-almond macaroon cookies macaroons macaroons 2 cups almonds 1 cup white sugar ¼ teaspoon ground cinnamon ⅛ teaspoon salt 2 large eggs ½ teaspoon almond extract ¾ cup chopped semisweet chocolate preheat the oven to 350 degrees f (175 degrees c). line cookie sheets with parchment paper. finely grind the almonds, sugar, cinnamon, and salt in a food processor. separate one of the eggs and add the white, the other egg, and almond extract, and process until the mixture holds together. transfer to a bowl and stir in the chocolate. moisten hands and roll mixture into 1-inch balls. place on prepared cookie sheet. flatten to 1/3-inch thick rounds. bake until tops puff and centers are still soft, about 12 minutes. remove to a rack and cool completely. replace parchment paper for next round of cookies.",
+        "ingredients_raw": [
+            "2 cups almonds",
+            "1 cup white sugar",
+            "¼ teaspoon ground cinnamon",
+            "⅛ teaspoon salt",
+            "2 large eggs",
+            "½ teaspoon almond extract",
+            "¾ cup chopped semisweet chocolate"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line cookie sheets with parchment paper.",
+            "Finely grind the almonds, sugar, cinnamon, and salt in a food processor.",
+            "Separate one of the eggs and add the white, the other egg, and almond extract, and process until the mixture holds together. Transfer to a bowl and stir in the chocolate.",
+            "Moisten hands and roll mixture into 1-inch balls. Place on prepared cookie sheet. Flatten to 1/3-inch thick rounds.",
+            "Bake until tops puff and centers are still soft, about 12 minutes. Remove to a rack and cool completely. Replace parchment paper for next round of cookies."
+        ],
+        "ingredients_canonical": [
+            "almonds",
+            "white sugar",
+            "¼ ground cinnamon",
+            "⅛ salt",
+            "large eggs",
+            "½ almond extract",
+            "¾ chopped semisweet chocolate"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 32,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

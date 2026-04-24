@@ -1,0 +1,2182 @@
+[
+    {
+        "recipe_title": "Spinach Cheese Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "My husband says this spinach manicotti is as good as what he's had at Italian restaurants. It's very filling and great served with a salad and garlic bread.",
+        "ingredients": [
+            "1 (15 ounce) container ricotta cheese",
+            "1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry",
+            "½ cup minced onion",
+            "1 large egg",
+            "2 teaspoons minced fresh parsley",
+            "½ teaspoon pepper",
+            "¼ teaspoon garlic powder",
+            "1 ½ cups shredded mozzarella cheese, divided",
+            "½ cup grated Parmesan cheese, divided",
+            "1 (8 ounce) package manicotti shells",
+            "2 (26 ounce) jars spaghetti sauce",
+            "1 ½ cups water"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix ricotta, spinach, onion, egg, parsley, pepper, and garlic powder together in a large bowl. Stir in 1 cup mozzarella and 1/4 cup Parmesan. Stuff mixture into uncooked manicotti shells.",
+            "Stir spaghetti sauce and water together in a bowl. Spread 1 cup sauce over the bottom of a 9x13-inch baking dish. Arrange stuffed manicotti in a single layer in the dish. Cover with remaining sauce, then sprinkle with remaining mozzarella and Parmesan.",
+            "Bake in the preheated oven until shells are tender yet firm to the bite, 45 to 55 minutes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "ounce container ricotta cheese ounce package frozen chopped spinach thawed squeezed dry ½ minced onion large egg minced fresh parsley ½ pepper ¼ garlic powder ½ shredded mozzarella cheese divided ½ grated parmesan cheese divided ounce package manicotti shells ounce jars spaghetti sauce ½ water",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). mix ricotta, spinach, onion, egg, parsley, pepper, and garlic powder together in a large bowl. stir in 1 cup mozzarella and 1/4 cup parmesan. stuff mixture into uncooked manicotti shells. stir spaghetti sauce and water together in a bowl. spread 1 cup sauce over the bottom of a 9x13-inch baking dish. arrange stuffed manicotti in a single layer in the dish. cover with remaining sauce, then sprinkle with remaining mozzarella and parmesan. bake in the preheated oven until shells are tender yet firm to the bite, 45 to 55 minutes.",
+        "combined_text": "spinach cheese manicotti manicotti manicotti 1 (15 ounce) container ricotta cheese 1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry ½ cup minced onion 1 large egg 2 teaspoons minced fresh parsley ½ teaspoon pepper ¼ teaspoon garlic powder 1 ½ cups shredded mozzarella cheese, divided ½ cup grated parmesan cheese, divided 1 (8 ounce) package manicotti shells 2 (26 ounce) jars spaghetti sauce 1 ½ cups water preheat the oven to 350 degrees f (175 degrees c). mix ricotta, spinach, onion, egg, parsley, pepper, and garlic powder together in a large bowl. stir in 1 cup mozzarella and 1/4 cup parmesan. stuff mixture into uncooked manicotti shells. stir spaghetti sauce and water together in a bowl. spread 1 cup sauce over the bottom of a 9x13-inch baking dish. arrange stuffed manicotti in a single layer in the dish. cover with remaining sauce, then sprinkle with remaining mozzarella and parmesan. bake in the preheated oven until shells are tender yet firm to the bite, 45 to 55 minutes.",
+        "ingredients_raw": [
+            "1 (15 ounce) container ricotta cheese",
+            "1 (10 ounce) package frozen chopped spinach, thawed and squeezed dry",
+            "½ cup minced onion",
+            "1 large egg",
+            "2 teaspoons minced fresh parsley",
+            "½ teaspoon pepper",
+            "¼ teaspoon garlic powder",
+            "1 ½ cups shredded mozzarella cheese, divided",
+            "½ cup grated Parmesan cheese, divided",
+            "1 (8 ounce) package manicotti shells",
+            "2 (26 ounce) jars spaghetti sauce",
+            "1 ½ cups water"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix ricotta, spinach, onion, egg, parsley, pepper, and garlic powder together in a large bowl. Stir in 1 cup mozzarella and 1/4 cup Parmesan. Stuff mixture into uncooked manicotti shells.",
+            "Stir spaghetti sauce and water together in a bowl. Spread 1 cup sauce over the bottom of a 9x13-inch baking dish. Arrange stuffed manicotti in a single layer in the dish. Cover with remaining sauce, then sprinkle with remaining mozzarella and Parmesan.",
+            "Bake in the preheated oven until shells are tender yet firm to the bite, 45 to 55 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce container ricotta cheese",
+            "ounce package frozen chopped spinach thawed squeezed dry",
+            "½ minced onion",
+            "large egg",
+            "minced fresh parsley",
+            "½ pepper",
+            "¼ garlic powder",
+            "½ shredded mozzarella cheese divided",
+            "½ grated parmesan cheese divided",
+            "ounce package manicotti shells",
+            "ounce jars spaghetti sauce",
+            "½ water"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Manicotti Shells",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "Homemade manicotti shells! Fill with your favorite filling, fold over the sides, and bake with sauce and cheese.",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 cups water",
+            "6 eggs",
+            "¼ teaspoon salt",
+            "cooking spray"
+        ],
+        "directions": [
+            "Mix flour, water, eggs, and salt together in a bowl until a thin, smooth batter forms.",
+            "Lightly spray a griddle with cooking spray and heat over medium-low heat. Spoon about 1/4 cup batter into the warm skillet and cook until a film forms on top. Carefully remove to a plate and repeat to make remaining shells."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "all-purpose flour water eggs ¼ salt cooking spray",
+        "directions_text": "mix flour, water, eggs, and salt together in a bowl until a thin, smooth batter forms. lightly spray a griddle with cooking spray and heat over medium-low heat. spoon about 1/4 cup batter into the warm skillet and cook until a film forms on top. carefully remove to a plate and repeat to make remaining shells.",
+        "combined_text": "manicotti shells manicotti manicotti 2 cups all-purpose flour 2 cups water 6 eggs ¼ teaspoon salt cooking spray mix flour, water, eggs, and salt together in a bowl until a thin, smooth batter forms. lightly spray a griddle with cooking spray and heat over medium-low heat. spoon about 1/4 cup batter into the warm skillet and cook until a film forms on top. carefully remove to a plate and repeat to make remaining shells.",
+        "ingredients_raw": [
+            "2 cups all-purpose flour",
+            "2 cups water",
+            "6 eggs",
+            "¼ teaspoon salt",
+            "cooking spray"
+        ],
+        "directions_raw": [
+            "Mix flour, water, eggs, and salt together in a bowl until a thin, smooth batter forms.",
+            "Lightly spray a griddle with cooking spray and heat over medium-low heat. Spoon about 1/4 cup batter into the warm skillet and cook until a film forms on top. Carefully remove to a plate and repeat to make remaining shells."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "water",
+            "eggs",
+            "¼ salt",
+            "cooking spray"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Meat Filled Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "This is a tasty and filling dish that can be nicely paired with a green salad if desired.",
+        "ingredients": [
+            "1 (8 ounce) package manicotti pasta",
+            "1 pound lean ground beef",
+            "1 ½ cups cottage cheese",
+            "2 cups shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese",
+            "2 egg whites",
+            "½ teaspoon dried oregano",
+            "1 (32 ounce) jar spaghetti sauce"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain and cool. Reserve.",
+            "Meanwhile, in a large skillet brown beef on medium heat. Drain and cool.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Combine beef, cottage cheese, 1 cup mozzarella cheese, Parmesan cheese, egg whites and oregano. Mix well. Stuff shells with mixture.",
+            "Lightly grease a 9x13 inch baking dish. Pour enough spaghetti sauce in dish to cover the bottom. Place stuffed noodles in the dish. Cover with spaghetti sauce and top with the remaining 1 cup mozzarella cheese. Bake in preheated oven for 50 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 5,
+        "ingredient_text": "ounce package manicotti pasta pound lean ground beef ½ cottage cheese shredded mozzarella cheese ½ grated parmesan cheese egg whites ½ dried oregano ounce jar spaghetti sauce",
+        "directions_text": "bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente. drain and cool. reserve. meanwhile, in a large skillet brown beef on medium heat. drain and cool. preheat oven to 350 degrees f (175 degrees c). combine beef, cottage cheese, 1 cup mozzarella cheese, parmesan cheese, egg whites and oregano. mix well. stuff shells with mixture. lightly grease a 9x13 inch baking dish. pour enough spaghetti sauce in dish to cover the bottom. place stuffed noodles in the dish. cover with spaghetti sauce and top with the remaining 1 cup mozzarella cheese. bake in preheated oven for 50 minutes.",
+        "combined_text": "meat filled manicotti manicotti manicotti 1 (8 ounce) package manicotti pasta 1 pound lean ground beef 1 ½ cups cottage cheese 2 cups shredded mozzarella cheese ½ cup grated parmesan cheese 2 egg whites ½ teaspoon dried oregano 1 (32 ounce) jar spaghetti sauce bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente. drain and cool. reserve. meanwhile, in a large skillet brown beef on medium heat. drain and cool. preheat oven to 350 degrees f (175 degrees c). combine beef, cottage cheese, 1 cup mozzarella cheese, parmesan cheese, egg whites and oregano. mix well. stuff shells with mixture. lightly grease a 9x13 inch baking dish. pour enough spaghetti sauce in dish to cover the bottom. place stuffed noodles in the dish. cover with spaghetti sauce and top with the remaining 1 cup mozzarella cheese. bake in preheated oven for 50 minutes.",
+        "ingredients_raw": [
+            "1 (8 ounce) package manicotti pasta",
+            "1 pound lean ground beef",
+            "1 ½ cups cottage cheese",
+            "2 cups shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese",
+            "2 egg whites",
+            "½ teaspoon dried oregano",
+            "1 (32 ounce) jar spaghetti sauce"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain and cool. Reserve.",
+            "Meanwhile, in a large skillet brown beef on medium heat. Drain and cool.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Combine beef, cottage cheese, 1 cup mozzarella cheese, Parmesan cheese, egg whites and oregano. Mix well. Stuff shells with mixture.",
+            "Lightly grease a 9x13 inch baking dish. Pour enough spaghetti sauce in dish to cover the bottom. Place stuffed noodles in the dish. Cover with spaghetti sauce and top with the remaining 1 cup mozzarella cheese. Bake in preheated oven for 50 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package manicotti pasta",
+            "pound lean ground beef",
+            "½ cottage cheese",
+            "shredded mozzarella cheese",
+            "½ grated parmesan cheese",
+            "egg whites",
+            "½ dried oregano",
+            "ounce jar spaghetti sauce"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "italian",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 42,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Three Cheese Manicotti II",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "The whole family will jump for joy when they try this easy Italian dish!",
+        "ingredients": [
+            "1 (8 ounce) package manicotti shells",
+            "4 cups shredded mozzarella cheese, divided",
+            "2 cups ricotta cheese",
+            "1 cup grated Parmesan cheese, divided",
+            "1 tablespoon minced garlic",
+            "1 egg",
+            "2 tablespoons dried basil",
+            "2 (26 ounce) jars pasta sauce"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Add manicotti and cook for 8 to 10 minutes or until al dente; drain.",
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "In a bowl, mix 3 cups mozzarella cheese, ricotta cheese, 1/2 cup Parmesan cheese, garlic, egg, and basil. Stuff cooked manicotti with the mixture.",
+            "Spread about 2 cups pasta sauce over the bottom of the prepared baking dish. Arrange stuffed manicotti in the dish, and cover with remaining sauce. Sprinkle with remaining mozzarella cheese.",
+            "Bake 15 minutes in the preheated oven. Sprinkle with remaining Parmesan, and continue baking 10 minutes, until mozzarella is melted and bubbly."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 5,
+        "ingredient_text": "ounce package manicotti shells shredded mozzarella cheese divided ricotta cheese grated parmesan cheese divided minced garlic egg dried basil ounce jars pasta sauce",
+        "directions_text": "bring a large pot of lightly salted water to a boil. add manicotti and cook for 8 to 10 minutes or until al dente; drain. preheat oven to 350 degrees f (175 degrees c). lightly grease a 9x13 inch baking dish. in a bowl, mix 3 cups mozzarella cheese, ricotta cheese, 1/2 cup parmesan cheese, garlic, egg, and basil. stuff cooked manicotti with the mixture. spread about 2 cups pasta sauce over the bottom of the prepared baking dish. arrange stuffed manicotti in the dish, and cover with remaining sauce. sprinkle with remaining mozzarella cheese. bake 15 minutes in the preheated oven. sprinkle with remaining parmesan, and continue baking 10 minutes, until mozzarella is melted and bubbly.",
+        "combined_text": "three cheese manicotti ii manicotti manicotti 1 (8 ounce) package manicotti shells 4 cups shredded mozzarella cheese, divided 2 cups ricotta cheese 1 cup grated parmesan cheese, divided 1 tablespoon minced garlic 1 egg 2 tablespoons dried basil 2 (26 ounce) jars pasta sauce bring a large pot of lightly salted water to a boil. add manicotti and cook for 8 to 10 minutes or until al dente; drain. preheat oven to 350 degrees f (175 degrees c). lightly grease a 9x13 inch baking dish. in a bowl, mix 3 cups mozzarella cheese, ricotta cheese, 1/2 cup parmesan cheese, garlic, egg, and basil. stuff cooked manicotti with the mixture. spread about 2 cups pasta sauce over the bottom of the prepared baking dish. arrange stuffed manicotti in the dish, and cover with remaining sauce. sprinkle with remaining mozzarella cheese. bake 15 minutes in the preheated oven. sprinkle with remaining parmesan, and continue baking 10 minutes, until mozzarella is melted and bubbly.",
+        "ingredients_raw": [
+            "1 (8 ounce) package manicotti shells",
+            "4 cups shredded mozzarella cheese, divided",
+            "2 cups ricotta cheese",
+            "1 cup grated Parmesan cheese, divided",
+            "1 tablespoon minced garlic",
+            "1 egg",
+            "2 tablespoons dried basil",
+            "2 (26 ounce) jars pasta sauce"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to a boil. Add manicotti and cook for 8 to 10 minutes or until al dente; drain.",
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "In a bowl, mix 3 cups mozzarella cheese, ricotta cheese, 1/2 cup Parmesan cheese, garlic, egg, and basil. Stuff cooked manicotti with the mixture.",
+            "Spread about 2 cups pasta sauce over the bottom of the prepared baking dish. Arrange stuffed manicotti in the dish, and cover with remaining sauce. Sprinkle with remaining mozzarella cheese.",
+            "Bake 15 minutes in the preheated oven. Sprinkle with remaining Parmesan, and continue baking 10 minutes, until mozzarella is melted and bubbly."
+        ],
+        "ingredients_canonical": [
+            "ounce package manicotti shells",
+            "shredded mozzarella cheese divided",
+            "ricotta cheese",
+            "grated parmesan cheese divided",
+            "minced garlic",
+            "egg",
+            "dried basil",
+            "ounce jars pasta sauce"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 37,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Manicotti Italian Casserole",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "Some members of my family call this recipe manicotti, some call it Italian casserole. So I call it manicotti Italian casserole. This is one of my all-time favorite recipes to make, and it's super easy! For gatherings, I make the whole recipe; for my family I cut it in half.",
+        "ingredients": [
+            "1 pound rigatoni pasta",
+            "1 pound ground beef",
+            "1 pound Italian sausage",
+            "2 (32 ounce) jars spaghetti sauce",
+            "1 (8 ounce) can mushrooms, drained",
+            "1 ½ pounds shredded mozzarella cheese",
+            "thinly sliced pepperoni to taste"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of lightly salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and set aside.",
+            "Meanwhile, brown ground beef and Italian sausage in a large skillet over medium heat; transfer to a baking dish using a slotted spoon. Stir spaghetti sauce, mushrooms, and rigatoni into beef and sausage mixture. Sprinkle mozzarella cheese and pepperoni over top.",
+            "Bake in the preheated oven until cheese is brown and bubbly, about 20 minutes.",
+            "Enjoy!"
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "pound rigatoni pasta pound ground beef pound italian sausage ounce jars spaghetti sauce ounce can mushrooms drained ½ pounds shredded mozzarella cheese thinly sliced pepperoni taste",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). bring a large pot of lightly salted water to a boil. cook rigatoni in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. drain and set aside. meanwhile, brown ground beef and italian sausage in a large skillet over medium heat; transfer to a baking dish using a slotted spoon. stir spaghetti sauce, mushrooms, and rigatoni into beef and sausage mixture. sprinkle mozzarella cheese and pepperoni over top. bake in the preheated oven until cheese is brown and bubbly, about 20 minutes. enjoy!",
+        "combined_text": "manicotti italian casserole manicotti manicotti 1 pound rigatoni pasta 1 pound ground beef 1 pound italian sausage 2 (32 ounce) jars spaghetti sauce 1 (8 ounce) can mushrooms, drained 1 ½ pounds shredded mozzarella cheese thinly sliced pepperoni to taste preheat the oven to 350 degrees f (175 degrees c). bring a large pot of lightly salted water to a boil. cook rigatoni in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. drain and set aside. meanwhile, brown ground beef and italian sausage in a large skillet over medium heat; transfer to a baking dish using a slotted spoon. stir spaghetti sauce, mushrooms, and rigatoni into beef and sausage mixture. sprinkle mozzarella cheese and pepperoni over top. bake in the preheated oven until cheese is brown and bubbly, about 20 minutes. enjoy!",
+        "ingredients_raw": [
+            "1 pound rigatoni pasta",
+            "1 pound ground beef",
+            "1 pound Italian sausage",
+            "2 (32 ounce) jars spaghetti sauce",
+            "1 (8 ounce) can mushrooms, drained",
+            "1 ½ pounds shredded mozzarella cheese",
+            "thinly sliced pepperoni to taste"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of lightly salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and set aside.",
+            "Meanwhile, brown ground beef and Italian sausage in a large skillet over medium heat; transfer to a baking dish using a slotted spoon. Stir spaghetti sauce, mushrooms, and rigatoni into beef and sausage mixture. Sprinkle mozzarella cheese and pepperoni over top.",
+            "Bake in the preheated oven until cheese is brown and bubbly, about 20 minutes.",
+            "Enjoy!"
+        ],
+        "ingredients_canonical": [
+            "pound rigatoni pasta",
+            "pound ground beef",
+            "pound italian sausage",
+            "ounce jars spaghetti sauce",
+            "ounce can mushrooms drained",
+            "½ pounds shredded mozzarella cheese",
+            "thinly sliced pepperoni taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "italian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 37,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Manicotti Alfredo",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "A very rich Italian pasta dish. Bottled Alfredo sauce can be used to speed preparation, if desired.",
+        "ingredients": [
+            "3 skinless, boneless chicken breast halves",
+            "½ cup distilled white vinegar",
+            "1 cup olive oil",
+            "1 clove crushed garlic",
+            "1 (12 ounce) package manicotti pasta",
+            "6 tablespoons butter",
+            "2 cups heavy whipping cream",
+            "¼ teaspoon ground nutmeg",
+            "1 teaspoon ground black pepper",
+            "1 ½ cups grated Parmesan cheese",
+            "1 teaspoon salt",
+            "1 pint part-skim ricotta cheese",
+            "1 egg",
+            "1 tablespoon chopped fresh oregano",
+            "1 tablespoon chopped fresh marjoram",
+            "1 tablespoon chopped fresh basil",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "directions": [
+            "In a large resealable plastic bag, marinate chicken with vinegar, olive oil, and garlic for at least 30 minutes. Saute in a little olive oil until done. Set aside.",
+            "Cook pasta in a large pot of boiling water until al dente. Drain, and set aside.",
+            "Meanwhile, melt butter or margarine in a small saucepan over medium-high heat. Add heavy cream, salt, nutmeg, and ground black pepper, and stir until sauce thickens. Reduce heat to low. Add grated Parmesan cheese, and stir until the cheese melts. Set Alfredo sauce aside.",
+            "In a large bowl, mix together ricotta cheese, egg, oregano, marjoram, and basil. Mix in cooked chicken.",
+            "Stuff cooked manicotti shells with chicken and ricotta mixture. Cover the bottom of a 9x13 inch baking dish with half of the Alfredo sauce. Place stuffed shells on top of sauce. Pour remaining sauce over shells. Top with one cup shredded mozzarella cheese. Cover with aluminum foil.",
+            "Bake at 350 degree F (175 degree C) oven for 45 minutes. Let stand 10 minutes before serving."
+        ],
+        "num_ingredients": 17,
+        "num_steps": 6,
+        "ingredient_text": "skinless boneless chicken breast halves ½ distilled white vinegar olive oil clove crushed garlic ounce package manicotti pasta butter heavy whipping cream ¼ ground nutmeg ground black pepper ½ grated parmesan cheese salt pint part-skim ricotta cheese egg chopped fresh oregano chopped fresh marjoram chopped fresh basil shredded mozzarella cheese",
+        "directions_text": "in a large resealable plastic bag, marinate chicken with vinegar, olive oil, and garlic for at least 30 minutes. saute in a little olive oil until done. set aside. cook pasta in a large pot of boiling water until al dente. drain, and set aside. meanwhile, melt butter or margarine in a small saucepan over medium-high heat. add heavy cream, salt, nutmeg, and ground black pepper, and stir until sauce thickens. reduce heat to low. add grated parmesan cheese, and stir until the cheese melts. set alfredo sauce aside. in a large bowl, mix together ricotta cheese, egg, oregano, marjoram, and basil. mix in cooked chicken. stuff cooked manicotti shells with chicken and ricotta mixture. cover the bottom of a 9x13 inch baking dish with half of the alfredo sauce. place stuffed shells on top of sauce. pour remaining sauce over shells. top with one cup shredded mozzarella cheese. cover with aluminum foil. bake at 350 degree f (175 degree c) oven for 45 minutes. let stand 10 minutes before serving.",
+        "combined_text": "chicken manicotti alfredo manicotti manicotti 3 skinless, boneless chicken breast halves ½ cup distilled white vinegar 1 cup olive oil 1 clove crushed garlic 1 (12 ounce) package manicotti pasta 6 tablespoons butter 2 cups heavy whipping cream ¼ teaspoon ground nutmeg 1 teaspoon ground black pepper 1 ½ cups grated parmesan cheese 1 teaspoon salt 1 pint part-skim ricotta cheese 1 egg 1 tablespoon chopped fresh oregano 1 tablespoon chopped fresh marjoram 1 tablespoon chopped fresh basil 1 cup shredded mozzarella cheese in a large resealable plastic bag, marinate chicken with vinegar, olive oil, and garlic for at least 30 minutes. saute in a little olive oil until done. set aside. cook pasta in a large pot of boiling water until al dente. drain, and set aside. meanwhile, melt butter or margarine in a small saucepan over medium-high heat. add heavy cream, salt, nutmeg, and ground black pepper, and stir until sauce thickens. reduce heat to low. add grated parmesan cheese, and stir until the cheese melts. set alfredo sauce aside. in a large bowl, mix together ricotta cheese, egg, oregano, marjoram, and basil. mix in cooked chicken. stuff cooked manicotti shells with chicken and ricotta mixture. cover the bottom of a 9x13 inch baking dish with half of the alfredo sauce. place stuffed shells on top of sauce. pour remaining sauce over shells. top with one cup shredded mozzarella cheese. cover with aluminum foil. bake at 350 degree f (175 degree c) oven for 45 minutes. let stand 10 minutes before serving.",
+        "ingredients_raw": [
+            "3 skinless, boneless chicken breast halves",
+            "½ cup distilled white vinegar",
+            "1 cup olive oil",
+            "1 clove crushed garlic",
+            "1 (12 ounce) package manicotti pasta",
+            "6 tablespoons butter",
+            "2 cups heavy whipping cream",
+            "¼ teaspoon ground nutmeg",
+            "1 teaspoon ground black pepper",
+            "1 ½ cups grated Parmesan cheese",
+            "1 teaspoon salt",
+            "1 pint part-skim ricotta cheese",
+            "1 egg",
+            "1 tablespoon chopped fresh oregano",
+            "1 tablespoon chopped fresh marjoram",
+            "1 tablespoon chopped fresh basil",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "directions_raw": [
+            "In a large resealable plastic bag, marinate chicken with vinegar, olive oil, and garlic for at least 30 minutes. Saute in a little olive oil until done. Set aside.",
+            "Cook pasta in a large pot of boiling water until al dente. Drain, and set aside.",
+            "Meanwhile, melt butter or margarine in a small saucepan over medium-high heat. Add heavy cream, salt, nutmeg, and ground black pepper, and stir until sauce thickens. Reduce heat to low. Add grated Parmesan cheese, and stir until the cheese melts. Set Alfredo sauce aside.",
+            "In a large bowl, mix together ricotta cheese, egg, oregano, marjoram, and basil. Mix in cooked chicken.",
+            "Stuff cooked manicotti shells with chicken and ricotta mixture. Cover the bottom of a 9x13 inch baking dish with half of the Alfredo sauce. Place stuffed shells on top of sauce. Pour remaining sauce over shells. Top with one cup shredded mozzarella cheese. Cover with aluminum foil.",
+            "Bake at 350 degree F (175 degree C) oven for 45 minutes. Let stand 10 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "skinless boneless chicken breast halves",
+            "½ distilled white vinegar",
+            "olive oil",
+            "clove crushed garlic",
+            "ounce package manicotti pasta",
+            "butter",
+            "heavy whipping cream",
+            "¼ ground nutmeg",
+            "ground black pepper",
+            "½ grated parmesan cheese",
+            "salt",
+            "pint part-skim ricotta cheese",
+            "egg",
+            "chopped fresh oregano",
+            "chopped fresh marjoram",
+            "chopped fresh basil",
+            "shredded mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 31,
+        "est_cook_time_min": 67,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Manicotti Alla Romana",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "This rich meat, spinach and cheese filled manicotti dish is covered with white and red sauces. I offer this on the catering menu at my catering company and it is the most popular for casual dinner parties. It's a bit of work but well worth the effort.",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "½ cup chopped onion",
+            "6 cloves garlic, finely chopped",
+            "1 pound ground beef",
+            "salt to taste",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 (12 ounce) package manicotti shells",
+            "2 cups ricotta cheese",
+            "2 eggs, beaten",
+            "3 cups spaghetti sauce, divided",
+            "2 tablespoons butter",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons chicken bouillon granules",
+            "2 cups half-and-half",
+            "¼ cup chopped fresh parsley",
+            "1 tablespoon chopped fresh basil",
+            "½ cup grated Parmesan cheese"
+        ],
+        "directions": [
+            "Heat oil in a large skillet over medium heat. Saute onions until translucent. Saute garlic for 1 minute and stir in ground beef. Cook until well browned and crumbled. Season with salt and set aside to cool.",
+            "Cook spinach according to package directions. Meanwhile, bring a large pot of lightly salted water to a boil. Add manicotti shells and parboil for half of the time recommended on the package. Drain and cover with cool water to stop the cooking process and prevent the shells from cracking.",
+            "To the ground beef mixture add the cooked spinach and ricotta cheese. When the mixture is cool, add the beaten eggs. Spread 1/4 cup spaghetti sauce in the bottom of a 9x13 inch baking dish. Gently drain the manicotti shells and carefully stuff each one with the meat and cheese mixture; place shells in prepared dish. Lightly cover the dish with plastic wrap or a clean, damp towel to prevent shells from cracking.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Prepare the white sauce by melting the butter in a small saucepan over medium heat. Stir in flour and chicken bouillon. Increase heat to medium-high and cook, stirring constantly, until it begins to bubble. Stir in half and half and bring to a boil, stirring frequently. Cook for 1 minute, stirring constantly. Remove from heat and stir in parsley. Pour or ladle the sauce evenly over the stuffed shells.",
+            "Stir the basil into the remaining spaghetti sauce. Carefully pour or ladle spaghetti sauce over the white sauce, trying to layer the sauces without mixing.",
+            "Cover and bake for 40 minutes. Remove from oven, uncover and sprinkle with Parmesan cheese. Bake, uncovered, for 10 minutes more."
+        ],
+        "num_ingredients": 17,
+        "num_steps": 7,
+        "ingredient_text": "olive oil ½ chopped onion cloves garlic finely chopped pound ground beef salt taste ounce package frozen chopped spinach thawed drained ounce package manicotti shells ricotta cheese eggs beaten spaghetti sauce divided butter all-purpose flour chicken bouillon granules half- -half ¼ chopped fresh parsley chopped fresh basil ½ grated parmesan cheese",
+        "directions_text": "heat oil in a large skillet over medium heat. saute onions until translucent. saute garlic for 1 minute and stir in ground beef. cook until well browned and crumbled. season with salt and set aside to cool. cook spinach according to package directions. meanwhile, bring a large pot of lightly salted water to a boil. add manicotti shells and parboil for half of the time recommended on the package. drain and cover with cool water to stop the cooking process and prevent the shells from cracking. to the ground beef mixture add the cooked spinach and ricotta cheese. when the mixture is cool, add the beaten eggs. spread 1/4 cup spaghetti sauce in the bottom of a 9x13 inch baking dish. gently drain the manicotti shells and carefully stuff each one with the meat and cheese mixture; place shells in prepared dish. lightly cover the dish with plastic wrap or a clean, damp towel to prevent shells from cracking. preheat oven to 350 degrees f (175 degrees c). prepare the white sauce by melting the butter in a small saucepan over medium heat. stir in flour and chicken bouillon. increase heat to medium-high and cook, stirring constantly, until it begins to bubble. stir in half and half and bring to a boil, stirring frequently. cook for 1 minute, stirring constantly. remove from heat and stir in parsley. pour or ladle the sauce evenly over the stuffed shells. stir the basil into the remaining spaghetti sauce. carefully pour or ladle spaghetti sauce over the white sauce, trying to layer the sauces without mixing. cover and bake for 40 minutes. remove from oven, uncover and sprinkle with parmesan cheese. bake, uncovered, for 10 minutes more.",
+        "combined_text": "manicotti alla romana manicotti manicotti 2 tablespoons olive oil ½ cup chopped onion 6 cloves garlic, finely chopped 1 pound ground beef salt to taste 1 (10 ounce) package frozen chopped spinach, thawed and drained 1 (12 ounce) package manicotti shells 2 cups ricotta cheese 2 eggs, beaten 3 cups spaghetti sauce, divided 2 tablespoons butter 2 tablespoons all-purpose flour 2 tablespoons chicken bouillon granules 2 cups half-and-half ¼ cup chopped fresh parsley 1 tablespoon chopped fresh basil ½ cup grated parmesan cheese heat oil in a large skillet over medium heat. saute onions until translucent. saute garlic for 1 minute and stir in ground beef. cook until well browned and crumbled. season with salt and set aside to cool. cook spinach according to package directions. meanwhile, bring a large pot of lightly salted water to a boil. add manicotti shells and parboil for half of the time recommended on the package. drain and cover with cool water to stop the cooking process and prevent the shells from cracking. to the ground beef mixture add the cooked spinach and ricotta cheese. when the mixture is cool, add the beaten eggs. spread 1/4 cup spaghetti sauce in the bottom of a 9x13 inch baking dish. gently drain the manicotti shells and carefully stuff each one with the meat and cheese mixture; place shells in prepared dish. lightly cover the dish with plastic wrap or a clean, damp towel to prevent shells from cracking. preheat oven to 350 degrees f (175 degrees c). prepare the white sauce by melting the butter in a small saucepan over medium heat. stir in flour and chicken bouillon. increase heat to medium-high and cook, stirring constantly, until it begins to bubble. stir in half and half and bring to a boil, stirring frequently. cook for 1 minute, stirring constantly. remove from heat and stir in parsley. pour or ladle the sauce evenly over the stuffed shells. stir the basil into the remaining spaghetti sauce. carefully pour or ladle spaghetti sauce over the white sauce, trying to layer the sauces without mixing. cover and bake for 40 minutes. remove from oven, uncover and sprinkle with parmesan cheese. bake, uncovered, for 10 minutes more.",
+        "ingredients_raw": [
+            "2 tablespoons olive oil",
+            "½ cup chopped onion",
+            "6 cloves garlic, finely chopped",
+            "1 pound ground beef",
+            "salt to taste",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 (12 ounce) package manicotti shells",
+            "2 cups ricotta cheese",
+            "2 eggs, beaten",
+            "3 cups spaghetti sauce, divided",
+            "2 tablespoons butter",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons chicken bouillon granules",
+            "2 cups half-and-half",
+            "¼ cup chopped fresh parsley",
+            "1 tablespoon chopped fresh basil",
+            "½ cup grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Heat oil in a large skillet over medium heat. Saute onions until translucent. Saute garlic for 1 minute and stir in ground beef. Cook until well browned and crumbled. Season with salt and set aside to cool.",
+            "Cook spinach according to package directions. Meanwhile, bring a large pot of lightly salted water to a boil. Add manicotti shells and parboil for half of the time recommended on the package. Drain and cover with cool water to stop the cooking process and prevent the shells from cracking.",
+            "To the ground beef mixture add the cooked spinach and ricotta cheese. When the mixture is cool, add the beaten eggs. Spread 1/4 cup spaghetti sauce in the bottom of a 9x13 inch baking dish. Gently drain the manicotti shells and carefully stuff each one with the meat and cheese mixture; place shells in prepared dish. Lightly cover the dish with plastic wrap or a clean, damp towel to prevent shells from cracking.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Prepare the white sauce by melting the butter in a small saucepan over medium heat. Stir in flour and chicken bouillon. Increase heat to medium-high and cook, stirring constantly, until it begins to bubble. Stir in half and half and bring to a boil, stirring frequently. Cook for 1 minute, stirring constantly. Remove from heat and stir in parsley. Pour or ladle the sauce evenly over the stuffed shells.",
+            "Stir the basil into the remaining spaghetti sauce. Carefully pour or ladle spaghetti sauce over the white sauce, trying to layer the sauces without mixing.",
+            "Cover and bake for 40 minutes. Remove from oven, uncover and sprinkle with Parmesan cheese. Bake, uncovered, for 10 minutes more."
+        ],
+        "ingredients_canonical": [
+            "olive oil",
+            "½ chopped onion",
+            "cloves garlic finely chopped",
+            "pound ground beef",
+            "salt taste",
+            "ounce package frozen chopped spinach thawed drained",
+            "ounce package manicotti shells",
+            "ricotta cheese",
+            "eggs beaten",
+            "spaghetti sauce divided",
+            "butter",
+            "all-purpose flour",
+            "chicken bouillon granules",
+            "half- -half",
+            "¼ chopped fresh parsley",
+            "chopped fresh basil",
+            "½ grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 14,
+        "slow_hits": 2,
+        "medium_hits": 12,
+        "cook_speed": "fast",
+        "est_prep_time_min": 44,
+        "est_cook_time_min": 105,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Make-Ahead Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "I have used this basic principle for make-ahead manicotti and adapted it to make stuffed shells and lasagna. If I'm making lasagna, I buy a second, smaller jar of spaghetti sauce because I always feel like I need a bit more. Merry manicotti!",
+        "ingredients": [
+            "1 pint ricotta cheese",
+            "2 large eggs",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 cup shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese, divided",
+            "1 ½ tablespoons white sugar",
+            "⅛ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "12 manicotti shells",
+            "1 (32 ounce) jar spaghetti sauce"
+        ],
+        "directions": [
+            "Mix ricotta cheese and eggs together in a medium bowl until blended. Stir in spinach, mozzarella cheese, 1/4 cup Parmesan cheese, sugar, salt, and pepper. Stuff mixture into uncooked pasta shells.",
+            "Pour 1/2 cup spaghetti sauce into a medium baking dish; spread to cover the bottom. Arrange stuffed shells in a single layer over sauce. Pour remaining sauce over shells. Cover and chill in the refrigerator, 8 hours to overnight.",
+            "When ready to bake, preheat the oven to 400 degrees F (200 degrees C). Remove shells from the refrigerator.",
+            "Bake, covered, in the preheated oven for 40 minutes. Uncover, sprinkle with remaining Parmesan cheese, and bake for 15 more minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "pint ricotta cheese large eggs ounce package frozen chopped spinach thawed drained shredded mozzarella cheese ½ grated parmesan cheese divided ½ white sugar ⅛ salt ¼ ground black pepper manicotti shells ounce jar spaghetti sauce",
+        "directions_text": "mix ricotta cheese and eggs together in a medium bowl until blended. stir in spinach, mozzarella cheese, 1/4 cup parmesan cheese, sugar, salt, and pepper. stuff mixture into uncooked pasta shells. pour 1/2 cup spaghetti sauce into a medium baking dish; spread to cover the bottom. arrange stuffed shells in a single layer over sauce. pour remaining sauce over shells. cover and chill in the refrigerator, 8 hours to overnight. when ready to bake, preheat the oven to 400 degrees f (200 degrees c). remove shells from the refrigerator. bake, covered, in the preheated oven for 40 minutes. uncover, sprinkle with remaining parmesan cheese, and bake for 15 more minutes.",
+        "combined_text": "make-ahead manicotti manicotti manicotti 1 pint ricotta cheese 2 large eggs 1 (10 ounce) package frozen chopped spinach, thawed and drained 1 cup shredded mozzarella cheese ½ cup grated parmesan cheese, divided 1 ½ tablespoons white sugar ⅛ teaspoon salt ¼ teaspoon ground black pepper 12 manicotti shells 1 (32 ounce) jar spaghetti sauce mix ricotta cheese and eggs together in a medium bowl until blended. stir in spinach, mozzarella cheese, 1/4 cup parmesan cheese, sugar, salt, and pepper. stuff mixture into uncooked pasta shells. pour 1/2 cup spaghetti sauce into a medium baking dish; spread to cover the bottom. arrange stuffed shells in a single layer over sauce. pour remaining sauce over shells. cover and chill in the refrigerator, 8 hours to overnight. when ready to bake, preheat the oven to 400 degrees f (200 degrees c). remove shells from the refrigerator. bake, covered, in the preheated oven for 40 minutes. uncover, sprinkle with remaining parmesan cheese, and bake for 15 more minutes.",
+        "ingredients_raw": [
+            "1 pint ricotta cheese",
+            "2 large eggs",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 cup shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese, divided",
+            "1 ½ tablespoons white sugar",
+            "⅛ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "12 manicotti shells",
+            "1 (32 ounce) jar spaghetti sauce"
+        ],
+        "directions_raw": [
+            "Mix ricotta cheese and eggs together in a medium bowl until blended. Stir in spinach, mozzarella cheese, 1/4 cup Parmesan cheese, sugar, salt, and pepper. Stuff mixture into uncooked pasta shells.",
+            "Pour 1/2 cup spaghetti sauce into a medium baking dish; spread to cover the bottom. Arrange stuffed shells in a single layer over sauce. Pour remaining sauce over shells. Cover and chill in the refrigerator, 8 hours to overnight.",
+            "When ready to bake, preheat the oven to 400 degrees F (200 degrees C). Remove shells from the refrigerator.",
+            "Bake, covered, in the preheated oven for 40 minutes. Uncover, sprinkle with remaining Parmesan cheese, and bake for 15 more minutes."
+        ],
+        "ingredients_canonical": [
+            "pint ricotta cheese",
+            "large eggs",
+            "ounce package frozen chopped spinach thawed drained",
+            "shredded mozzarella cheese",
+            "½ grated parmesan cheese divided",
+            "½ white sugar",
+            "⅛ salt",
+            "¼ ground black pepper",
+            "manicotti shells",
+            "ounce jar spaghetti sauce"
+        ],
+        "cuisine_list": [
+            "european",
+            "italian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 70,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Christmas Eve Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "My mother is full-blooded Sicilian and always makes Christmas Italian food. We celebrated the Vigil and had seven fish dishes. Since my children were not fans of anything more than shrimp, I made Christmas Eve manicotti to replace the squid and octopus they didn't like. The crêpes, fluffy cheese, and spinach filling will also satisfy vegetarians.",
+        "ingredients": [
+            "4 eggs",
+            "¼ teaspoon salt",
+            "2 cups all-purpose flour",
+            "2 ¼ cups milk",
+            "¼ cup butter, melted",
+            "1 tablespoon vegetable oil, or more as needed"
+        ],
+        "directions": [
+            "Whisk 4 eggs and ¼ teaspoon salt together in a bowl; gradually whisk in flour, alternating with milk, until smooth. Whisk in melted butter; refrigerate batter at least 1 hour.",
+            "Heat a small skillet over medium heat; brush skillet with vegetable oil using a pastry brush. Pour in about ¼ cup batter (enough to lightly cover bottom of the skillet) and immediately swirl the skillet to spread batter out to cover bottom completely. Cook until crêpe turns lightly golden brown on the bottom; flip and cook until other side has small brown spots. Transfer crêpe to a plate; layered between waxed paper. Repeat with remaining batter, brushing the skillet with oil as needed to prevent crêpes from sticking.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Gently combine ricotta cheese, spinach, Parmesan cheese, cream cheese, parsley, green onion, 2 eggs, onion powder, oregano, and ½ teaspoon salt in a bowl until filling is thoroughly mixed.",
+            "Spread 1 cup marinara sauce into the bottom of a 9x13-inch baking dish. Place 1 crêpe onto a work surface; spoon about 3 tablespoons filling, or more as needed, down the center of crêpe. Roll crêpe over filling; place into baking dish. Repeat with remaining crêpes and filling. Spread remaining marinara sauce over filled crêpes; sprinkle with mozzarella cheese.",
+            "Bake in the preheated oven until bubbling and mozzarella cheese is melted and slightly browned, 20 to 30 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 6,
+        "ingredient_text": "eggs ¼ salt all-purpose flour ¼ milk ¼ butter melted vegetable oil more as needed",
+        "directions_text": "whisk 4 eggs and ¼ teaspoon salt together in a bowl; gradually whisk in flour, alternating with milk, until smooth. whisk in melted butter; refrigerate batter at least 1 hour. heat a small skillet over medium heat; brush skillet with vegetable oil using a pastry brush. pour in about ¼ cup batter (enough to lightly cover bottom of the skillet) and immediately swirl the skillet to spread batter out to cover bottom completely. cook until crêpe turns lightly golden brown on the bottom; flip and cook until other side has small brown spots. transfer crêpe to a plate; layered between waxed paper. repeat with remaining batter, brushing the skillet with oil as needed to prevent crêpes from sticking. preheat the oven to 350 degrees f (175 degrees c). gently combine ricotta cheese, spinach, parmesan cheese, cream cheese, parsley, green onion, 2 eggs, onion powder, oregano, and ½ teaspoon salt in a bowl until filling is thoroughly mixed. spread 1 cup marinara sauce into the bottom of a 9x13-inch baking dish. place 1 crêpe onto a work surface; spoon about 3 tablespoons filling, or more as needed, down the center of crêpe. roll crêpe over filling; place into baking dish. repeat with remaining crêpes and filling. spread remaining marinara sauce over filled crêpes; sprinkle with mozzarella cheese. bake in the preheated oven until bubbling and mozzarella cheese is melted and slightly browned, 20 to 30 minutes.",
+        "combined_text": "christmas eve manicotti manicotti manicotti 4 eggs ¼ teaspoon salt 2 cups all-purpose flour 2 ¼ cups milk ¼ cup butter, melted 1 tablespoon vegetable oil, or more as needed whisk 4 eggs and ¼ teaspoon salt together in a bowl; gradually whisk in flour, alternating with milk, until smooth. whisk in melted butter; refrigerate batter at least 1 hour. heat a small skillet over medium heat; brush skillet with vegetable oil using a pastry brush. pour in about ¼ cup batter (enough to lightly cover bottom of the skillet) and immediately swirl the skillet to spread batter out to cover bottom completely. cook until crêpe turns lightly golden brown on the bottom; flip and cook until other side has small brown spots. transfer crêpe to a plate; layered between waxed paper. repeat with remaining batter, brushing the skillet with oil as needed to prevent crêpes from sticking. preheat the oven to 350 degrees f (175 degrees c). gently combine ricotta cheese, spinach, parmesan cheese, cream cheese, parsley, green onion, 2 eggs, onion powder, oregano, and ½ teaspoon salt in a bowl until filling is thoroughly mixed. spread 1 cup marinara sauce into the bottom of a 9x13-inch baking dish. place 1 crêpe onto a work surface; spoon about 3 tablespoons filling, or more as needed, down the center of crêpe. roll crêpe over filling; place into baking dish. repeat with remaining crêpes and filling. spread remaining marinara sauce over filled crêpes; sprinkle with mozzarella cheese. bake in the preheated oven until bubbling and mozzarella cheese is melted and slightly browned, 20 to 30 minutes.",
+        "ingredients_raw": [
+            "4 eggs",
+            "¼ teaspoon salt",
+            "2 cups all-purpose flour",
+            "2 ¼ cups milk",
+            "¼ cup butter, melted",
+            "1 tablespoon vegetable oil, or more as needed"
+        ],
+        "directions_raw": [
+            "Whisk 4 eggs and ¼ teaspoon salt together in a bowl; gradually whisk in flour, alternating with milk, until smooth. Whisk in melted butter; refrigerate batter at least 1 hour.",
+            "Heat a small skillet over medium heat; brush skillet with vegetable oil using a pastry brush. Pour in about ¼ cup batter (enough to lightly cover bottom of the skillet) and immediately swirl the skillet to spread batter out to cover bottom completely. Cook until crêpe turns lightly golden brown on the bottom; flip and cook until other side has small brown spots. Transfer crêpe to a plate; layered between waxed paper. Repeat with remaining batter, brushing the skillet with oil as needed to prevent crêpes from sticking.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Gently combine ricotta cheese, spinach, Parmesan cheese, cream cheese, parsley, green onion, 2 eggs, onion powder, oregano, and ½ teaspoon salt in a bowl until filling is thoroughly mixed.",
+            "Spread 1 cup marinara sauce into the bottom of a 9x13-inch baking dish. Place 1 crêpe onto a work surface; spoon about 3 tablespoons filling, or more as needed, down the center of crêpe. Roll crêpe over filling; place into baking dish. Repeat with remaining crêpes and filling. Spread remaining marinara sauce over filled crêpes; sprinkle with mozzarella cheese.",
+            "Bake in the preheated oven until bubbling and mozzarella cheese is melted and slightly browned, 20 to 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "¼ salt",
+            "all-purpose flour",
+            "¼ milk",
+            "¼ butter melted",
+            "vegetable oil more as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 10,
+        "slow_hits": 2,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 82,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Manicotti with Cheese",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "A delicious and cheesy manicotti recipe! Only use whole milk mozzarella and do not over bake when you heat it up. This recipe is delicious. Enjoy!",
+        "ingredients": [
+            "1 (8 ounce) package manicotti pasta",
+            "2 cups whole milk ricotta cheese",
+            "2 cups shredded mozzarella cheese",
+            "¼ cup grated Parmesan cheese",
+            "2 tablespoons chopped fresh parsley",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "3 ½ (32 ounce) jars spaghetti sauce"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain and cool on waxed paper or aluminum foil to prevent noodles from sticking together.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "In a medium bowl, combine ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, salt, and pepper; fill manicotti with cheese mixture.",
+            "In a 9x13-inch baking dish, spread a thin layer of spaghetti sauce on the bottom and arrange manicotti in a single layer; cover with remaining sauce. Cover dish with aluminum foil and bake in preheated oven for 40 minutes. Remove foil and bake for 15 minutes longer; serve."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "ounce package manicotti pasta whole milk ricotta cheese shredded mozzarella cheese ¼ grated parmesan cheese chopped fresh parsley ½ salt ¼ ground black pepper ½ ounce jars spaghetti sauce",
+        "directions_text": "bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente. drain and cool on waxed paper or aluminum foil to prevent noodles from sticking together. preheat the oven to 350 degrees f (175 degrees c). in a medium bowl, combine ricotta cheese, mozzarella cheese, parmesan cheese, parsley, salt, and pepper; fill manicotti with cheese mixture. in a 9x13-inch baking dish, spread a thin layer of spaghetti sauce on the bottom and arrange manicotti in a single layer; cover with remaining sauce. cover dish with aluminum foil and bake in preheated oven for 40 minutes. remove foil and bake for 15 minutes longer; serve.",
+        "combined_text": "manicotti with cheese manicotti manicotti 1 (8 ounce) package manicotti pasta 2 cups whole milk ricotta cheese 2 cups shredded mozzarella cheese ¼ cup grated parmesan cheese 2 tablespoons chopped fresh parsley ½ teaspoon salt ¼ teaspoon ground black pepper 3 ½ (32 ounce) jars spaghetti sauce bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente. drain and cool on waxed paper or aluminum foil to prevent noodles from sticking together. preheat the oven to 350 degrees f (175 degrees c). in a medium bowl, combine ricotta cheese, mozzarella cheese, parmesan cheese, parsley, salt, and pepper; fill manicotti with cheese mixture. in a 9x13-inch baking dish, spread a thin layer of spaghetti sauce on the bottom and arrange manicotti in a single layer; cover with remaining sauce. cover dish with aluminum foil and bake in preheated oven for 40 minutes. remove foil and bake for 15 minutes longer; serve.",
+        "ingredients_raw": [
+            "1 (8 ounce) package manicotti pasta",
+            "2 cups whole milk ricotta cheese",
+            "2 cups shredded mozzarella cheese",
+            "¼ cup grated Parmesan cheese",
+            "2 tablespoons chopped fresh parsley",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "3 ½ (32 ounce) jars spaghetti sauce"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente. Drain and cool on waxed paper or aluminum foil to prevent noodles from sticking together.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "In a medium bowl, combine ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, salt, and pepper; fill manicotti with cheese mixture.",
+            "In a 9x13-inch baking dish, spread a thin layer of spaghetti sauce on the bottom and arrange manicotti in a single layer; cover with remaining sauce. Cover dish with aluminum foil and bake in preheated oven for 40 minutes. Remove foil and bake for 15 minutes longer; serve."
+        ],
+        "ingredients_canonical": [
+            "ounce package manicotti pasta",
+            "whole milk ricotta cheese",
+            "shredded mozzarella cheese",
+            "¼ grated parmesan cheese",
+            "chopped fresh parsley",
+            "½ salt",
+            "¼ ground black pepper",
+            "½ ounce jars spaghetti sauce"
+        ],
+        "cuisine_list": [
+            "european",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 56,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheese Stuffed Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "Homemade meat sauce served over manicotti stuffed with three cheeses. This is the best manicotti I have ever had. I always get requests for the recipe.",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 small onion, diced",
+            "1 teaspoon roasted garlic",
+            "1 (28 ounce) can diced tomatoes with garlic and onion",
+            "1 (12 ounce) can tomato paste",
+            "1 tablespoon white sugar",
+            "1 ½ teaspoons salt",
+            "1 bay leaf",
+            "½ teaspoon dried oregano",
+            "½ teaspoon dried thyme",
+            "½ teaspoon ground black pepper",
+            "¼ teaspoon garlic salt",
+            "1 (8 ounce) package manicotti shells",
+            "30 ounces cottage cheese",
+            "1 (8 ounce) package shredded mozzarella cheese",
+            "¼ cup grated Parmesan cheese",
+            "1 large egg, beaten",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "¼ cup grated Parmesan cheese"
+        ],
+        "directions": [
+            "Heat a large skillet over medium-high heat. Add beef, onion, and roasted garlic; cook and stir until beef is browned and crumbly, 5 to 7 minutes. Continue simmering until pan juices evaporate, about 10 minutes more. Add diced tomatoes, tomato paste, sugar, 1 ½ teaspoons salt, bay leaf, oregano, thyme, ½ teaspoon black pepper, and garlic salt; bring to a boil. Reduce heat to medium-low; simmer sauce until flavors blend, about 30 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Fill a large pot with lightly salted water and bring to a boil. Add manicotti and return to a boil. Cook manicotti, uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and cool slightly.",
+            "Combine cottage cheese, mozzarella cheese, ¼ cup Parmesan cheese, egg, ½ teaspoon salt, and ½ teaspoon black pepper in a bowl. Spoon a generous amount cheese filling into each manicotti shell.",
+            "Pour enough sauce to cover bottom of a 9x13-inch baking dish. Arrange stuffed manicotti over sauce; pour remaining sauce over stuffed manicotti. Cover dish with aluminum foil.",
+            "Bake in the preheated oven until bubbly, about 30 minutes. Sprinkle remaining ¼ cup Parmesan cheese over manicotti and return to the oven. Bake until cheese filling is melted, 10 to 15 minutes more."
+        ],
+        "num_ingredients": 20,
+        "num_steps": 6,
+        "ingredient_text": "pound ground beef small onion diced roasted garlic ounce can diced tomatoes with garlic onion ounce can tomato paste white sugar ½ salt bay leaf ½ dried oregano ½ dried thyme ½ ground black pepper ¼ garlic salt ounce package manicotti shells ounces cottage cheese ounce package shredded mozzarella cheese ¼ grated parmesan cheese large egg beaten ½ salt ½ ground black pepper ¼ grated parmesan cheese",
+        "directions_text": "heat a large skillet over medium-high heat. add beef, onion, and roasted garlic; cook and stir until beef is browned and crumbly, 5 to 7 minutes. continue simmering until pan juices evaporate, about 10 minutes more. add diced tomatoes, tomato paste, sugar, 1 ½ teaspoons salt, bay leaf, oregano, thyme, ½ teaspoon black pepper, and garlic salt; bring to a boil. reduce heat to medium-low; simmer sauce until flavors blend, about 30 minutes. preheat the oven to 350 degrees f (175 degrees c). fill a large pot with lightly salted water and bring to a boil. add manicotti and return to a boil. cook manicotti, uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. drain and cool slightly. combine cottage cheese, mozzarella cheese, ¼ cup parmesan cheese, egg, ½ teaspoon salt, and ½ teaspoon black pepper in a bowl. spoon a generous amount cheese filling into each manicotti shell. pour enough sauce to cover bottom of a 9x13-inch baking dish. arrange stuffed manicotti over sauce; pour remaining sauce over stuffed manicotti. cover dish with aluminum foil. bake in the preheated oven until bubbly, about 30 minutes. sprinkle remaining ¼ cup parmesan cheese over manicotti and return to the oven. bake until cheese filling is melted, 10 to 15 minutes more.",
+        "combined_text": "cheese stuffed manicotti manicotti manicotti 1 pound ground beef 1 small onion, diced 1 teaspoon roasted garlic 1 (28 ounce) can diced tomatoes with garlic and onion 1 (12 ounce) can tomato paste 1 tablespoon white sugar 1 ½ teaspoons salt 1 bay leaf ½ teaspoon dried oregano ½ teaspoon dried thyme ½ teaspoon ground black pepper ¼ teaspoon garlic salt 1 (8 ounce) package manicotti shells 30 ounces cottage cheese 1 (8 ounce) package shredded mozzarella cheese ¼ cup grated parmesan cheese 1 large egg, beaten ½ teaspoon salt ½ teaspoon ground black pepper ¼ cup grated parmesan cheese heat a large skillet over medium-high heat. add beef, onion, and roasted garlic; cook and stir until beef is browned and crumbly, 5 to 7 minutes. continue simmering until pan juices evaporate, about 10 minutes more. add diced tomatoes, tomato paste, sugar, 1 ½ teaspoons salt, bay leaf, oregano, thyme, ½ teaspoon black pepper, and garlic salt; bring to a boil. reduce heat to medium-low; simmer sauce until flavors blend, about 30 minutes. preheat the oven to 350 degrees f (175 degrees c). fill a large pot with lightly salted water and bring to a boil. add manicotti and return to a boil. cook manicotti, uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. drain and cool slightly. combine cottage cheese, mozzarella cheese, ¼ cup parmesan cheese, egg, ½ teaspoon salt, and ½ teaspoon black pepper in a bowl. spoon a generous amount cheese filling into each manicotti shell. pour enough sauce to cover bottom of a 9x13-inch baking dish. arrange stuffed manicotti over sauce; pour remaining sauce over stuffed manicotti. cover dish with aluminum foil. bake in the preheated oven until bubbly, about 30 minutes. sprinkle remaining ¼ cup parmesan cheese over manicotti and return to the oven. bake until cheese filling is melted, 10 to 15 minutes more.",
+        "ingredients_raw": [
+            "1 pound ground beef",
+            "1 small onion, diced",
+            "1 teaspoon roasted garlic",
+            "1 (28 ounce) can diced tomatoes with garlic and onion",
+            "1 (12 ounce) can tomato paste",
+            "1 tablespoon white sugar",
+            "1 ½ teaspoons salt",
+            "1 bay leaf",
+            "½ teaspoon dried oregano",
+            "½ teaspoon dried thyme",
+            "½ teaspoon ground black pepper",
+            "¼ teaspoon garlic salt",
+            "1 (8 ounce) package manicotti shells",
+            "30 ounces cottage cheese",
+            "1 (8 ounce) package shredded mozzarella cheese",
+            "¼ cup grated Parmesan cheese",
+            "1 large egg, beaten",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "¼ cup grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Heat a large skillet over medium-high heat. Add beef, onion, and roasted garlic; cook and stir until beef is browned and crumbly, 5 to 7 minutes. Continue simmering until pan juices evaporate, about 10 minutes more. Add diced tomatoes, tomato paste, sugar, 1 ½ teaspoons salt, bay leaf, oregano, thyme, ½ teaspoon black pepper, and garlic salt; bring to a boil. Reduce heat to medium-low; simmer sauce until flavors blend, about 30 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Fill a large pot with lightly salted water and bring to a boil. Add manicotti and return to a boil. Cook manicotti, uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and cool slightly.",
+            "Combine cottage cheese, mozzarella cheese, ¼ cup Parmesan cheese, egg, ½ teaspoon salt, and ½ teaspoon black pepper in a bowl. Spoon a generous amount cheese filling into each manicotti shell.",
+            "Pour enough sauce to cover bottom of a 9x13-inch baking dish. Arrange stuffed manicotti over sauce; pour remaining sauce over stuffed manicotti. Cover dish with aluminum foil.",
+            "Bake in the preheated oven until bubbly, about 30 minutes. Sprinkle remaining ¼ cup Parmesan cheese over manicotti and return to the oven. Bake until cheese filling is melted, 10 to 15 minutes more."
+        ],
+        "ingredients_canonical": [
+            "pound ground beef",
+            "small onion diced",
+            "roasted garlic",
+            "ounce can diced tomatoes with garlic onion",
+            "ounce can tomato paste",
+            "white sugar",
+            "½ salt",
+            "bay leaf",
+            "½ dried oregano",
+            "½ dried thyme",
+            "½ ground black pepper",
+            "¼ garlic salt",
+            "ounce package manicotti shells",
+            "ounces cottage cheese",
+            "ounce package shredded mozzarella cheese",
+            "¼ grated parmesan cheese",
+            "large egg beaten",
+            "½ salt",
+            "½ ground black pepper",
+            "¼ grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 4,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 37,
+        "est_cook_time_min": 96,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cannelloni Florentine",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "A delicious dish of veal stuffed cannelloni in a quick marinara sauce.",
+        "ingredients": [
+            "1 (8 ounce) package cannelloni pasta",
+            "8 ounces ground veal",
+            "2 carrots, chopped",
+            "½ stalk celery, chopped",
+            "½ yellow onion, chopped",
+            "10 ounces spinach, rinsed and chopped",
+            "1 ¼ teaspoons salt",
+            "1 ¼ teaspoons ground black pepper",
+            "2 tablespoons olive oil",
+            "1 cup dry white wine",
+            "1 cup heavy cream",
+            "1 cup roma (plum) tomatoes, diced",
+            "½ cup grated Parmesan cheese",
+            "2 teaspoons Italian seasoning",
+            "2 tablespoons chopped fresh basil",
+            "1 (16 ounce) can Italian-style diced tomatoes",
+            "2 tablespoons extra virgin olive oil",
+            "2 cloves garlic, minced",
+            "1 onion, chopped",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "4 leaves fresh basil, chopped"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain, separate shells, and set aside.",
+            "Preheat oven to 500 degrees F (260 degrees C). In a 9 x 13 baking dish, combine veal, carrots, celery, chopped half onion and spinach. Stir well. Stir in 1 1/4 teaspoon salt, 1 1/4 teaspoon pepper, 2 tablespoons olive oil and white wine. Place in oven and roast until veal is brown and vegetables are soft, 30 to 40 minutes. Stir frequently. If meat begins to smoke, reduce heat to 400 degrees (200 degrees C).",
+            "Let meat mixture cool 15 minutes, then process in food processor until finely chopped. Return to pan and stir in cream, Roma tomatoes, Parmesan, Italian seasoning and 2 tablespoons chopped fresh basil. Bake 20 minutes more. Remove from oven and let cool.",
+            "While meat mixture is cooling enough to handle, make tomato sauce. Puree canned tomatoes with their juice in food processor until smooth. In large skillet over medium heat, heat 2 tablespoons virgin olive oil. Saute garlic and chopped onion until soft. Stir in pureed tomato, 1 teaspoon salt and 1 teaspoon pepper. Cook 5 to 10 minutes, or until no longer watery. Add four chopped basil leaves and cook 1 minute more.",
+            "Reduce oven temperature to 350 degrees F (175 degrees C). Stuff pasta shells with cooled meat mixture, 2 to 3 tablespoons per shell. Place shells in clean 9 x 13 baking dish. Pour tomato sauce over shells and bake 20 minutes, or until sauce is bubbly."
+        ],
+        "num_ingredients": 22,
+        "num_steps": 5,
+        "ingredient_text": "ounce package cannelloni pasta ounces ground veal carrots chopped ½ stalk celery chopped ½ yellow onion chopped ounces spinach rinsed chopped ¼ salt ¼ ground black pepper olive oil dry white wine heavy cream roma plum tomatoes diced ½ grated parmesan cheese italian seasoning chopped fresh basil ounce can italian-style diced tomatoes extra virgin olive oil cloves garlic minced onion chopped salt ground black pepper leaves fresh basil chopped",
+        "directions_text": "bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente; drain, separate shells, and set aside. preheat oven to 500 degrees f (260 degrees c). in a 9 x 13 baking dish, combine veal, carrots, celery, chopped half onion and spinach. stir well. stir in 1 1/4 teaspoon salt, 1 1/4 teaspoon pepper, 2 tablespoons olive oil and white wine. place in oven and roast until veal is brown and vegetables are soft, 30 to 40 minutes. stir frequently. if meat begins to smoke, reduce heat to 400 degrees (200 degrees c). let meat mixture cool 15 minutes, then process in food processor until finely chopped. return to pan and stir in cream, roma tomatoes, parmesan, italian seasoning and 2 tablespoons chopped fresh basil. bake 20 minutes more. remove from oven and let cool. while meat mixture is cooling enough to handle, make tomato sauce. puree canned tomatoes with their juice in food processor until smooth. in large skillet over medium heat, heat 2 tablespoons virgin olive oil. saute garlic and chopped onion until soft. stir in pureed tomato, 1 teaspoon salt and 1 teaspoon pepper. cook 5 to 10 minutes, or until no longer watery. add four chopped basil leaves and cook 1 minute more. reduce oven temperature to 350 degrees f (175 degrees c). stuff pasta shells with cooled meat mixture, 2 to 3 tablespoons per shell. place shells in clean 9 x 13 baking dish. pour tomato sauce over shells and bake 20 minutes, or until sauce is bubbly.",
+        "combined_text": "cannelloni florentine manicotti manicotti 1 (8 ounce) package cannelloni pasta 8 ounces ground veal 2 carrots, chopped ½ stalk celery, chopped ½ yellow onion, chopped 10 ounces spinach, rinsed and chopped 1 ¼ teaspoons salt 1 ¼ teaspoons ground black pepper 2 tablespoons olive oil 1 cup dry white wine 1 cup heavy cream 1 cup roma (plum) tomatoes, diced ½ cup grated parmesan cheese 2 teaspoons italian seasoning 2 tablespoons chopped fresh basil 1 (16 ounce) can italian-style diced tomatoes 2 tablespoons extra virgin olive oil 2 cloves garlic, minced 1 onion, chopped 1 teaspoon salt 1 teaspoon ground black pepper 4 leaves fresh basil, chopped bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente; drain, separate shells, and set aside. preheat oven to 500 degrees f (260 degrees c). in a 9 x 13 baking dish, combine veal, carrots, celery, chopped half onion and spinach. stir well. stir in 1 1/4 teaspoon salt, 1 1/4 teaspoon pepper, 2 tablespoons olive oil and white wine. place in oven and roast until veal is brown and vegetables are soft, 30 to 40 minutes. stir frequently. if meat begins to smoke, reduce heat to 400 degrees (200 degrees c). let meat mixture cool 15 minutes, then process in food processor until finely chopped. return to pan and stir in cream, roma tomatoes, parmesan, italian seasoning and 2 tablespoons chopped fresh basil. bake 20 minutes more. remove from oven and let cool. while meat mixture is cooling enough to handle, make tomato sauce. puree canned tomatoes with their juice in food processor until smooth. in large skillet over medium heat, heat 2 tablespoons virgin olive oil. saute garlic and chopped onion until soft. stir in pureed tomato, 1 teaspoon salt and 1 teaspoon pepper. cook 5 to 10 minutes, or until no longer watery. add four chopped basil leaves and cook 1 minute more. reduce oven temperature to 350 degrees f (175 degrees c). stuff pasta shells with cooled meat mixture, 2 to 3 tablespoons per shell. place shells in clean 9 x 13 baking dish. pour tomato sauce over shells and bake 20 minutes, or until sauce is bubbly.",
+        "ingredients_raw": [
+            "1 (8 ounce) package cannelloni pasta",
+            "8 ounces ground veal",
+            "2 carrots, chopped",
+            "½ stalk celery, chopped",
+            "½ yellow onion, chopped",
+            "10 ounces spinach, rinsed and chopped",
+            "1 ¼ teaspoons salt",
+            "1 ¼ teaspoons ground black pepper",
+            "2 tablespoons olive oil",
+            "1 cup dry white wine",
+            "1 cup heavy cream",
+            "1 cup roma (plum) tomatoes, diced",
+            "½ cup grated Parmesan cheese",
+            "2 teaspoons Italian seasoning",
+            "2 tablespoons chopped fresh basil",
+            "1 (16 ounce) can Italian-style diced tomatoes",
+            "2 tablespoons extra virgin olive oil",
+            "2 cloves garlic, minced",
+            "1 onion, chopped",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "4 leaves fresh basil, chopped"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain, separate shells, and set aside.",
+            "Preheat oven to 500 degrees F (260 degrees C). In a 9 x 13 baking dish, combine veal, carrots, celery, chopped half onion and spinach. Stir well. Stir in 1 1/4 teaspoon salt, 1 1/4 teaspoon pepper, 2 tablespoons olive oil and white wine. Place in oven and roast until veal is brown and vegetables are soft, 30 to 40 minutes. Stir frequently. If meat begins to smoke, reduce heat to 400 degrees (200 degrees C).",
+            "Let meat mixture cool 15 minutes, then process in food processor until finely chopped. Return to pan and stir in cream, Roma tomatoes, Parmesan, Italian seasoning and 2 tablespoons chopped fresh basil. Bake 20 minutes more. Remove from oven and let cool.",
+            "While meat mixture is cooling enough to handle, make tomato sauce. Puree canned tomatoes with their juice in food processor until smooth. In large skillet over medium heat, heat 2 tablespoons virgin olive oil. Saute garlic and chopped onion until soft. Stir in pureed tomato, 1 teaspoon salt and 1 teaspoon pepper. Cook 5 to 10 minutes, or until no longer watery. Add four chopped basil leaves and cook 1 minute more.",
+            "Reduce oven temperature to 350 degrees F (175 degrees C). Stuff pasta shells with cooled meat mixture, 2 to 3 tablespoons per shell. Place shells in clean 9 x 13 baking dish. Pour tomato sauce over shells and bake 20 minutes, or until sauce is bubbly."
+        ],
+        "ingredients_canonical": [
+            "ounce package cannelloni pasta",
+            "ounces ground veal",
+            "carrots chopped",
+            "½ stalk celery chopped",
+            "½ yellow onion chopped",
+            "ounces spinach rinsed chopped",
+            "¼ salt",
+            "¼ ground black pepper",
+            "olive oil",
+            "dry white wine",
+            "heavy cream",
+            "roma plum tomatoes diced",
+            "½ grated parmesan cheese",
+            "italian seasoning",
+            "chopped fresh basil",
+            "ounce can italian-style diced tomatoes",
+            "extra virgin olive oil",
+            "cloves garlic minced",
+            "onion chopped",
+            "salt",
+            "ground black pepper",
+            "leaves fresh basil chopped"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 11,
+        "slow_hits": 6,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 43,
+        "est_cook_time_min": 127,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Three-Cheese Broccoli Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "This 3-cheese, saucy, Italian comfort food is loaded with broccoli and elevated with a bit of hot Italian sausage in the sauce—it's the perfect culinary combo! The manicotti shells are partially cooked in boiling water, and they finish cooking in the sauce while the entire dish is baked in the oven. Like many Italian dishes, this might even be better the next day! Enjoy hot or cold.",
+        "ingredients": [
+            "2 large heads broccoli",
+            "1 (8 ounce) package manicotti shells",
+            "2 cloves garlic, crushed",
+            "1 cup ricotta cheese",
+            "4 ounces grated provolone cheese",
+            "1 ½ cups grated Parmigiano-Reggiano cheese, divided, or more to taste",
+            "2 large eggs, beaten",
+            "2 teaspoons kosher salt, or to taste",
+            "1 pinch cayenne pepper, or to taste",
+            "1 teaspoon freshly ground black pepper",
+            "1 pinch freshly grated nutmeg",
+            "3 ½ cups prepared marinara sauce",
+            "2 ½ cups water",
+            "6 ounces cooked, crumbled, hot Italian sausage",
+            "1 tablespoon freshly chopped Italian parsley, or to taste"
+        ],
+        "directions": [
+            "Bring a pot of generously salted water to a boil.",
+            "Meanwhile, separate broccoli stems and florets. Cut florets in half and cut each stem into several pieces lengthwise.",
+            "Place stems in the boiling water and cook for 3 to 4 minutes. Then add florets and cook until just barely tender, about 3 more minutes.",
+            "Use a slotted spoon to transfer broccoli to a bowl of cold water, leaving the water boiling on the stove. Let broccoli sit until cool, about 2 minutes. Transfer to a colander and let sit until very well drained. Leave the bowl of cold water for the pasta.",
+            "Meanwhile, add manicotti to the boiling water and cook, stirring occasionally, until tender but slightly undercooked, 6 to 7 minutes. Use a slotted spoon to gently transfer manicotti into the bowl of cold water.",
+            "Chop cooled, drained broccoli into small pieces. Transfer 3 cups chopped broccoli to a mixing bowl and reserve any extra for another use.",
+            "Add garlic, ricotta, provolone, 1 ¼ cups Parmigiano-Reggiano, eggs, salt, cayenne, pepper, and nutmeg to the broccoli. Mix with a spoon until thoroughly combined. Cover and refrigerate until needed.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bring tomato sauce and water to a simmer over medium-high heat.",
+            "Ladle ½ inch hot sauce into a 9x13-inch baking dish or lasagna pan. Sprinkle in cooked Italian sausage.",
+            "Transfer broccoli filling into a pastry bag. Cut off the tip slightly smaller than the opening of the manicotti. Gently pipe stuffing into 12 manicotti, being careful not to overstuff. Place stuffed manicotti in the sauce in the baking dish, angling as necessary to fit.",
+            "Ladle in just enough sauce to barely cover the manicotti. Sprinkle ¼ cup Parmigiano-Reggiano over top.",
+            "Bake in the center of the preheated oven until hot and bubbly, 25 to 30 minutes.",
+            "Garnish with parsley and let sit for 10 minutes.",
+            "Serve two manicotti per bowl, garnished with more Parmigiano-Reggiano."
+        ],
+        "num_ingredients": 15,
+        "num_steps": 15,
+        "ingredient_text": "large heads broccoli ounce package manicotti shells cloves garlic crushed ricotta cheese ounces grated provolone cheese ½ grated parmigiano-reggiano cheese divided more taste large eggs beaten kosher salt taste pinch cayenne pepper taste freshly ground black pepper pinch freshly grated nutmeg ½ prepared marinara sauce ½ water ounces cooked crumbled hot italian sausage freshly chopped italian parsley taste",
+        "directions_text": "bring a pot of generously salted water to a boil. meanwhile, separate broccoli stems and florets. cut florets in half and cut each stem into several pieces lengthwise. place stems in the boiling water and cook for 3 to 4 minutes. then add florets and cook until just barely tender, about 3 more minutes. use a slotted spoon to transfer broccoli to a bowl of cold water, leaving the water boiling on the stove. let broccoli sit until cool, about 2 minutes. transfer to a colander and let sit until very well drained. leave the bowl of cold water for the pasta. meanwhile, add manicotti to the boiling water and cook, stirring occasionally, until tender but slightly undercooked, 6 to 7 minutes. use a slotted spoon to gently transfer manicotti into the bowl of cold water. chop cooled, drained broccoli into small pieces. transfer 3 cups chopped broccoli to a mixing bowl and reserve any extra for another use. add garlic, ricotta, provolone, 1 ¼ cups parmigiano-reggiano, eggs, salt, cayenne, pepper, and nutmeg to the broccoli. mix with a spoon until thoroughly combined. cover and refrigerate until needed. preheat the oven to 375 degrees f (190 degrees c). bring tomato sauce and water to a simmer over medium-high heat. ladle ½ inch hot sauce into a 9x13-inch baking dish or lasagna pan. sprinkle in cooked italian sausage. transfer broccoli filling into a pastry bag. cut off the tip slightly smaller than the opening of the manicotti. gently pipe stuffing into 12 manicotti, being careful not to overstuff. place stuffed manicotti in the sauce in the baking dish, angling as necessary to fit. ladle in just enough sauce to barely cover the manicotti. sprinkle ¼ cup parmigiano-reggiano over top. bake in the center of the preheated oven until hot and bubbly, 25 to 30 minutes. garnish with parsley and let sit for 10 minutes. serve two manicotti per bowl, garnished with more parmigiano-reggiano.",
+        "combined_text": "three-cheese broccoli manicotti manicotti manicotti 2 large heads broccoli 1 (8 ounce) package manicotti shells 2 cloves garlic, crushed 1 cup ricotta cheese 4 ounces grated provolone cheese 1 ½ cups grated parmigiano-reggiano cheese, divided, or more to taste 2 large eggs, beaten 2 teaspoons kosher salt, or to taste 1 pinch cayenne pepper, or to taste 1 teaspoon freshly ground black pepper 1 pinch freshly grated nutmeg 3 ½ cups prepared marinara sauce 2 ½ cups water 6 ounces cooked, crumbled, hot italian sausage 1 tablespoon freshly chopped italian parsley, or to taste bring a pot of generously salted water to a boil. meanwhile, separate broccoli stems and florets. cut florets in half and cut each stem into several pieces lengthwise. place stems in the boiling water and cook for 3 to 4 minutes. then add florets and cook until just barely tender, about 3 more minutes. use a slotted spoon to transfer broccoli to a bowl of cold water, leaving the water boiling on the stove. let broccoli sit until cool, about 2 minutes. transfer to a colander and let sit until very well drained. leave the bowl of cold water for the pasta. meanwhile, add manicotti to the boiling water and cook, stirring occasionally, until tender but slightly undercooked, 6 to 7 minutes. use a slotted spoon to gently transfer manicotti into the bowl of cold water. chop cooled, drained broccoli into small pieces. transfer 3 cups chopped broccoli to a mixing bowl and reserve any extra for another use. add garlic, ricotta, provolone, 1 ¼ cups parmigiano-reggiano, eggs, salt, cayenne, pepper, and nutmeg to the broccoli. mix with a spoon until thoroughly combined. cover and refrigerate until needed. preheat the oven to 375 degrees f (190 degrees c). bring tomato sauce and water to a simmer over medium-high heat. ladle ½ inch hot sauce into a 9x13-inch baking dish or lasagna pan. sprinkle in cooked italian sausage. transfer broccoli filling into a pastry bag. cut off the tip slightly smaller than the opening of the manicotti. gently pipe stuffing into 12 manicotti, being careful not to overstuff. place stuffed manicotti in the sauce in the baking dish, angling as necessary to fit. ladle in just enough sauce to barely cover the manicotti. sprinkle ¼ cup parmigiano-reggiano over top. bake in the center of the preheated oven until hot and bubbly, 25 to 30 minutes. garnish with parsley and let sit for 10 minutes. serve two manicotti per bowl, garnished with more parmigiano-reggiano.",
+        "ingredients_raw": [
+            "2 large heads broccoli",
+            "1 (8 ounce) package manicotti shells",
+            "2 cloves garlic, crushed",
+            "1 cup ricotta cheese",
+            "4 ounces grated provolone cheese",
+            "1 ½ cups grated Parmigiano-Reggiano cheese, divided, or more to taste",
+            "2 large eggs, beaten",
+            "2 teaspoons kosher salt, or to taste",
+            "1 pinch cayenne pepper, or to taste",
+            "1 teaspoon freshly ground black pepper",
+            "1 pinch freshly grated nutmeg",
+            "3 ½ cups prepared marinara sauce",
+            "2 ½ cups water",
+            "6 ounces cooked, crumbled, hot Italian sausage",
+            "1 tablespoon freshly chopped Italian parsley, or to taste"
+        ],
+        "directions_raw": [
+            "Bring a pot of generously salted water to a boil.",
+            "Meanwhile, separate broccoli stems and florets. Cut florets in half and cut each stem into several pieces lengthwise.",
+            "Place stems in the boiling water and cook for 3 to 4 minutes. Then add florets and cook until just barely tender, about 3 more minutes.",
+            "Use a slotted spoon to transfer broccoli to a bowl of cold water, leaving the water boiling on the stove. Let broccoli sit until cool, about 2 minutes. Transfer to a colander and let sit until very well drained. Leave the bowl of cold water for the pasta.",
+            "Meanwhile, add manicotti to the boiling water and cook, stirring occasionally, until tender but slightly undercooked, 6 to 7 minutes. Use a slotted spoon to gently transfer manicotti into the bowl of cold water.",
+            "Chop cooled, drained broccoli into small pieces. Transfer 3 cups chopped broccoli to a mixing bowl and reserve any extra for another use.",
+            "Add garlic, ricotta, provolone, 1 ¼ cups Parmigiano-Reggiano, eggs, salt, cayenne, pepper, and nutmeg to the broccoli. Mix with a spoon until thoroughly combined. Cover and refrigerate until needed.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bring tomato sauce and water to a simmer over medium-high heat.",
+            "Ladle ½ inch hot sauce into a 9x13-inch baking dish or lasagna pan. Sprinkle in cooked Italian sausage.",
+            "Transfer broccoli filling into a pastry bag. Cut off the tip slightly smaller than the opening of the manicotti. Gently pipe stuffing into 12 manicotti, being careful not to overstuff. Place stuffed manicotti in the sauce in the baking dish, angling as necessary to fit.",
+            "Ladle in just enough sauce to barely cover the manicotti. Sprinkle ¼ cup Parmigiano-Reggiano over top.",
+            "Bake in the center of the preheated oven until hot and bubbly, 25 to 30 minutes.",
+            "Garnish with parsley and let sit for 10 minutes.",
+            "Serve two manicotti per bowl, garnished with more Parmigiano-Reggiano."
+        ],
+        "ingredients_canonical": [
+            "large heads broccoli",
+            "ounce package manicotti shells",
+            "cloves garlic crushed",
+            "ricotta cheese",
+            "ounces grated provolone cheese",
+            "½ grated parmigiano-reggiano cheese divided more taste",
+            "large eggs beaten",
+            "kosher salt taste",
+            "pinch cayenne pepper taste",
+            "freshly ground black pepper",
+            "pinch freshly grated nutmeg",
+            "½ prepared marinara sauce",
+            "½ water",
+            "ounces cooked crumbled hot italian sausage",
+            "freshly chopped italian parsley taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 13,
+        "slow_hits": 3,
+        "medium_hits": 9,
+        "cook_speed": "fast",
+        "est_prep_time_min": 37,
+        "est_cook_time_min": 126,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Italian Stuffed Pasta Tubes",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "This Italian stuffed pasta tubes recipe is one I created after tasting something similar at a local restaurant. The stuffed pasta tubes freeze well, allowing dinner to be ready faster. I generally make my pasta tubes and spaghetti sauce from scratch, but to shorten preparation time, manicotti tubes and jarred spaghetti sauce will work, too.",
+        "ingredients": [
+            "1 (8 ounce) package manicotti shells",
+            "1 (20 ounce) package Italian turkey sausages, casings removed",
+            "1 (24 ounce) jar roasted garlic spaghetti sauce (such as Barilla), divided",
+            "½ teaspoon granulated garlic",
+            "½ teaspoon Italian seasoning",
+            "⅔ cup shredded mozzarella cheese",
+            "cooking spray"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook manicotti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 7 minutes. Drain; cool.",
+            "Meanwhile, heat a large skillet over medium-high heat. Add sausage; cook and stir until browned and crumbly, 5 to 7 minutes. Drain excess grease.",
+            "Add 2 cups spaghetti sauce, garlic, and Italian seasoning to sausage; simmer for about 10 minutes.",
+            "Cut open manicotti tubes; lay flat. Place about 3 tablespoons sausage mixture down middle of flattened tubes; divide and sprinkle 2/3 cup mozzarella cheese on top sausage mixture. Roll up tubes.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly coat a 9x13-inch casserole dish with cooking spray.",
+            "Melt butter in a medium saucepan over medium heat. Whisk in flour until a smooth paste forms. Slowly pour in cream, whisking to prevent any lumps. Cook until thickened, about 5 minutes. Whisk in Fontina cheese, 1/2 cup mozzarella cheese, and Parmesan cheese until thoroughly blended.",
+            "Pour 1/2 cheese sauce into the prepared casserole dish. Place stuffed tubes, seam-sides down, over sauce; pour remaining 1/2 cheese sauce on top. Pour remaining 1 cup spaghetti sauce down middle of casserole.",
+            "Bake in the preheated oven until golden, 20 to 25 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 8,
+        "ingredient_text": "ounce package manicotti shells ounce package italian turkey sausages casings removed ounce jar roasted garlic spaghetti sauce such as barilla divided ½ granulated garlic ½ italian seasoning ⅔ shredded mozzarella cheese cooking spray",
+        "directions_text": "bring a large pot of lightly salted water to a boil. cook manicotti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 7 minutes. drain; cool. meanwhile, heat a large skillet over medium-high heat. add sausage; cook and stir until browned and crumbly, 5 to 7 minutes. drain excess grease. add 2 cups spaghetti sauce, garlic, and italian seasoning to sausage; simmer for about 10 minutes. cut open manicotti tubes; lay flat. place about 3 tablespoons sausage mixture down middle of flattened tubes; divide and sprinkle 2/3 cup mozzarella cheese on top sausage mixture. roll up tubes. preheat the oven to 375 degrees f (190 degrees c). lightly coat a 9x13-inch casserole dish with cooking spray. melt butter in a medium saucepan over medium heat. whisk in flour until a smooth paste forms. slowly pour in cream, whisking to prevent any lumps. cook until thickened, about 5 minutes. whisk in fontina cheese, 1/2 cup mozzarella cheese, and parmesan cheese until thoroughly blended. pour 1/2 cheese sauce into the prepared casserole dish. place stuffed tubes, seam-sides down, over sauce; pour remaining 1/2 cheese sauce on top. pour remaining 1 cup spaghetti sauce down middle of casserole. bake in the preheated oven until golden, 20 to 25 minutes.",
+        "combined_text": "italian stuffed pasta tubes manicotti manicotti 1 (8 ounce) package manicotti shells 1 (20 ounce) package italian turkey sausages, casings removed 1 (24 ounce) jar roasted garlic spaghetti sauce (such as barilla), divided ½ teaspoon granulated garlic ½ teaspoon italian seasoning ⅔ cup shredded mozzarella cheese cooking spray bring a large pot of lightly salted water to a boil. cook manicotti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 7 minutes. drain; cool. meanwhile, heat a large skillet over medium-high heat. add sausage; cook and stir until browned and crumbly, 5 to 7 minutes. drain excess grease. add 2 cups spaghetti sauce, garlic, and italian seasoning to sausage; simmer for about 10 minutes. cut open manicotti tubes; lay flat. place about 3 tablespoons sausage mixture down middle of flattened tubes; divide and sprinkle 2/3 cup mozzarella cheese on top sausage mixture. roll up tubes. preheat the oven to 375 degrees f (190 degrees c). lightly coat a 9x13-inch casserole dish with cooking spray. melt butter in a medium saucepan over medium heat. whisk in flour until a smooth paste forms. slowly pour in cream, whisking to prevent any lumps. cook until thickened, about 5 minutes. whisk in fontina cheese, 1/2 cup mozzarella cheese, and parmesan cheese until thoroughly blended. pour 1/2 cheese sauce into the prepared casserole dish. place stuffed tubes, seam-sides down, over sauce; pour remaining 1/2 cheese sauce on top. pour remaining 1 cup spaghetti sauce down middle of casserole. bake in the preheated oven until golden, 20 to 25 minutes.",
+        "ingredients_raw": [
+            "1 (8 ounce) package manicotti shells",
+            "1 (20 ounce) package Italian turkey sausages, casings removed",
+            "1 (24 ounce) jar roasted garlic spaghetti sauce (such as Barilla), divided",
+            "½ teaspoon granulated garlic",
+            "½ teaspoon Italian seasoning",
+            "⅔ cup shredded mozzarella cheese",
+            "cooking spray"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to a boil. Cook manicotti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 7 minutes. Drain; cool.",
+            "Meanwhile, heat a large skillet over medium-high heat. Add sausage; cook and stir until browned and crumbly, 5 to 7 minutes. Drain excess grease.",
+            "Add 2 cups spaghetti sauce, garlic, and Italian seasoning to sausage; simmer for about 10 minutes.",
+            "Cut open manicotti tubes; lay flat. Place about 3 tablespoons sausage mixture down middle of flattened tubes; divide and sprinkle 2/3 cup mozzarella cheese on top sausage mixture. Roll up tubes.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly coat a 9x13-inch casserole dish with cooking spray.",
+            "Melt butter in a medium saucepan over medium heat. Whisk in flour until a smooth paste forms. Slowly pour in cream, whisking to prevent any lumps. Cook until thickened, about 5 minutes. Whisk in Fontina cheese, 1/2 cup mozzarella cheese, and Parmesan cheese until thoroughly blended.",
+            "Pour 1/2 cheese sauce into the prepared casserole dish. Place stuffed tubes, seam-sides down, over sauce; pour remaining 1/2 cheese sauce on top. Pour remaining 1 cup spaghetti sauce down middle of casserole.",
+            "Bake in the preheated oven until golden, 20 to 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package manicotti shells",
+            "ounce package italian turkey sausages casings removed",
+            "ounce jar roasted garlic spaghetti sauce such as barilla divided",
+            "½ granulated garlic",
+            "½ italian seasoning",
+            "⅔ shredded mozzarella cheese",
+            "cooking spray"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 13,
+        "slow_hits": 2,
+        "medium_hits": 10,
+        "cook_speed": "fast",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 98,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 38,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Crab-Stuffed Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "Manicotti shells stuffed with crab meat and covered with Alfredo sauce make a great meal for family or company.",
+        "ingredients": [
+            "8 manicotti shells",
+            "1 ½ cups ricotta cheese",
+            "1 (6 ounce) can lump crabmeat",
+            "2 tablespoons minced fresh parsley",
+            "1 tablespoon grated onion",
+            "1 (16 ounce) jar Alfredo pasta sauce",
+            "½ cup chicken broth",
+            "1 teaspoon white sugar",
+            "½ teaspoon dried basil",
+            "½ teaspoon dried marjoram",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon dried thyme"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bring a large pot of lightly salted water to a boil. Add manicotti shells and cook for 8 to 10 minutes, until tender but not mushy. Drain.",
+            "In a medium bowl, stir together the ricotta cheese, crab, parsley and onion. Spoon into the manicotti shells. Place in a buttered 11x7 inch baking dish.",
+            "In a saucepan, stir together the Alfredo sauce and chicken broth. Season with sugar, basil, marjoram, garlic powder and thyme. Heat until warm over medium heat. Pour over the shells in the baking dish.",
+            "Bake uncovered for 30 minutes in the preheated oven. Let stand for about 5 minutes before serving."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "manicotti shells ½ ricotta cheese ounce can lump crabmeat minced fresh parsley grated onion ounce jar alfredo pasta sauce ½ chicken broth white sugar ½ dried basil ½ dried marjoram ⅛ garlic powder ⅛ dried thyme",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). bring a large pot of lightly salted water to a boil. add manicotti shells and cook for 8 to 10 minutes, until tender but not mushy. drain. in a medium bowl, stir together the ricotta cheese, crab, parsley and onion. spoon into the manicotti shells. place in a buttered 11x7 inch baking dish. in a saucepan, stir together the alfredo sauce and chicken broth. season with sugar, basil, marjoram, garlic powder and thyme. heat until warm over medium heat. pour over the shells in the baking dish. bake uncovered for 30 minutes in the preheated oven. let stand for about 5 minutes before serving.",
+        "combined_text": "crab-stuffed manicotti manicotti manicotti 8 manicotti shells 1 ½ cups ricotta cheese 1 (6 ounce) can lump crabmeat 2 tablespoons minced fresh parsley 1 tablespoon grated onion 1 (16 ounce) jar alfredo pasta sauce ½ cup chicken broth 1 teaspoon white sugar ½ teaspoon dried basil ½ teaspoon dried marjoram ⅛ teaspoon garlic powder ⅛ teaspoon dried thyme preheat the oven to 375 degrees f (190 degrees c). bring a large pot of lightly salted water to a boil. add manicotti shells and cook for 8 to 10 minutes, until tender but not mushy. drain. in a medium bowl, stir together the ricotta cheese, crab, parsley and onion. spoon into the manicotti shells. place in a buttered 11x7 inch baking dish. in a saucepan, stir together the alfredo sauce and chicken broth. season with sugar, basil, marjoram, garlic powder and thyme. heat until warm over medium heat. pour over the shells in the baking dish. bake uncovered for 30 minutes in the preheated oven. let stand for about 5 minutes before serving.",
+        "ingredients_raw": [
+            "8 manicotti shells",
+            "1 ½ cups ricotta cheese",
+            "1 (6 ounce) can lump crabmeat",
+            "2 tablespoons minced fresh parsley",
+            "1 tablespoon grated onion",
+            "1 (16 ounce) jar Alfredo pasta sauce",
+            "½ cup chicken broth",
+            "1 teaspoon white sugar",
+            "½ teaspoon dried basil",
+            "½ teaspoon dried marjoram",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon dried thyme"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bring a large pot of lightly salted water to a boil. Add manicotti shells and cook for 8 to 10 minutes, until tender but not mushy. Drain.",
+            "In a medium bowl, stir together the ricotta cheese, crab, parsley and onion. Spoon into the manicotti shells. Place in a buttered 11x7 inch baking dish.",
+            "In a saucepan, stir together the Alfredo sauce and chicken broth. Season with sugar, basil, marjoram, garlic powder and thyme. Heat until warm over medium heat. Pour over the shells in the baking dish.",
+            "Bake uncovered for 30 minutes in the preheated oven. Let stand for about 5 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "manicotti shells",
+            "½ ricotta cheese",
+            "ounce can lump crabmeat",
+            "minced fresh parsley",
+            "grated onion",
+            "ounce jar alfredo pasta sauce",
+            "½ chicken broth",
+            "white sugar",
+            "½ dried basil",
+            "½ dried marjoram",
+            "⅛ garlic powder",
+            "⅛ dried thyme"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "main",
+            "soup"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 52,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Chicken Stuffed Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "Chicken tenders seasoned and stuffed into manicotti shells, smothered in rich Alfredo sauce and Parmesan cheese and baked until bubbly. Both easy and delicious!",
+        "ingredients": [
+            "1 (16 ounce) jar Alfredo sauce",
+            "¾ cup water",
+            "14 chicken tenders",
+            "2 tablespoons garlic powder",
+            "14 uncooked manicotti shells",
+            "2 tablespoons Montreal steak seasoning (such as McCormick®)",
+            "1 cup shredded Parmesan cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix Alfredo sauce and water in a bowl. Spread about 1/3 sauce mixture on the bottom of a 9x13-inch baking dish.",
+            "Season chicken tenders with garlic powder and stuff chicken into manicotti shells. Arrange manicotti in the prepared baking dish. Pour remaining 2/3 sauce over manicotti and sprinkle with steak seasoning. Cover baking dish tightly with foil.",
+            "Bake in the preheated oven until pasta is tender, about 1 hour. Remove foil and sprinkle Parmesan cheese over manicotti. Continue to bake until cheese is melted, about 5 minutes more."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "ounce jar alfredo sauce ¾ water chicken tenders garlic powder uncooked manicotti shells montreal steak seasoning such as mccormick shredded parmesan cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). mix alfredo sauce and water in a bowl. spread about 1/3 sauce mixture on the bottom of a 9x13-inch baking dish. season chicken tenders with garlic powder and stuff chicken into manicotti shells. arrange manicotti in the prepared baking dish. pour remaining 2/3 sauce over manicotti and sprinkle with steak seasoning. cover baking dish tightly with foil. bake in the preheated oven until pasta is tender, about 1 hour. remove foil and sprinkle parmesan cheese over manicotti. continue to bake until cheese is melted, about 5 minutes more.",
+        "combined_text": "easy chicken stuffed manicotti manicotti manicotti 1 (16 ounce) jar alfredo sauce ¾ cup water 14 chicken tenders 2 tablespoons garlic powder 14 uncooked manicotti shells 2 tablespoons montreal steak seasoning (such as mccormick®) 1 cup shredded parmesan cheese preheat the oven to 350 degrees f (175 degrees c). mix alfredo sauce and water in a bowl. spread about 1/3 sauce mixture on the bottom of a 9x13-inch baking dish. season chicken tenders with garlic powder and stuff chicken into manicotti shells. arrange manicotti in the prepared baking dish. pour remaining 2/3 sauce over manicotti and sprinkle with steak seasoning. cover baking dish tightly with foil. bake in the preheated oven until pasta is tender, about 1 hour. remove foil and sprinkle parmesan cheese over manicotti. continue to bake until cheese is melted, about 5 minutes more.",
+        "ingredients_raw": [
+            "1 (16 ounce) jar Alfredo sauce",
+            "¾ cup water",
+            "14 chicken tenders",
+            "2 tablespoons garlic powder",
+            "14 uncooked manicotti shells",
+            "2 tablespoons Montreal steak seasoning (such as McCormick®)",
+            "1 cup shredded Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix Alfredo sauce and water in a bowl. Spread about 1/3 sauce mixture on the bottom of a 9x13-inch baking dish.",
+            "Season chicken tenders with garlic powder and stuff chicken into manicotti shells. Arrange manicotti in the prepared baking dish. Pour remaining 2/3 sauce over manicotti and sprinkle with steak seasoning. Cover baking dish tightly with foil.",
+            "Bake in the preheated oven until pasta is tender, about 1 hour. Remove foil and sprinkle Parmesan cheese over manicotti. Continue to bake until cheese is melted, about 5 minutes more."
+        ],
+        "ingredients_canonical": [
+            "ounce jar alfredo sauce",
+            "¾ water",
+            "chicken tenders",
+            "garlic powder",
+            "uncooked manicotti shells",
+            "montreal steak seasoning such as mccormick",
+            "shredded parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Shortcut Chicken Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "This is a wonderful recipe that uses uncooked manicotti noodles.",
+        "ingredients": [
+            "2 skinless, boneless chicken breast halves - cubed",
+            "1 egg, beaten",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "½ cup drained, creamed cottage cheese",
+            "¼ cup grated Parmesan cheese",
+            "10 manicotti shells",
+            "1 (10.75 ounce) can condensed cream of chicken soup",
+            "1 (8 ounce) container sour cream",
+            "1 cup milk",
+            "1 teaspoon Italian seasoning",
+            "1 cup boiling water",
+            "1 cup shredded Cheddar cheese",
+            "2 tablespoons chopped fresh parsley"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "In a medium skillet over medium heat, cook chicken until opaque and juices run clear.",
+            "In a medium bowl, combine cooked chicken, egg, spinach, cottage cheese and Parmesan. Stuff uncooked manicotti shells with chicken mixture. Arrange shells, not touching one another, in a 9x13 inch baking dish.",
+            "In a medium bowl, combine soup, sour cream, milk and Italian seasoning and stir until smooth. Pour over shells in dish and spread to cover completely. Carefully pour boiling water around the edge of the dish. Cover tightly with foil.",
+            "Bake in preheated oven 60 minutes, or until pasta is tender. Sprinkle with Cheddar and parsley and let stand 10 minutes before serving."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 5,
+        "ingredient_text": "skinless boneless chicken breast halves - cubed egg beaten ounce package frozen chopped spinach thawed drained ½ drained creamed cottage cheese ¼ grated parmesan cheese manicotti shells ounce can condensed cream chicken soup ounce container sour cream milk italian seasoning boiling water shredded cheddar cheese chopped fresh parsley",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). in a medium skillet over medium heat, cook chicken until opaque and juices run clear. in a medium bowl, combine cooked chicken, egg, spinach, cottage cheese and parmesan. stuff uncooked manicotti shells with chicken mixture. arrange shells, not touching one another, in a 9x13 inch baking dish. in a medium bowl, combine soup, sour cream, milk and italian seasoning and stir until smooth. pour over shells in dish and spread to cover completely. carefully pour boiling water around the edge of the dish. cover tightly with foil. bake in preheated oven 60 minutes, or until pasta is tender. sprinkle with cheddar and parsley and let stand 10 minutes before serving.",
+        "combined_text": "shortcut chicken manicotti manicotti manicotti 2 skinless, boneless chicken breast halves - cubed 1 egg, beaten 1 (10 ounce) package frozen chopped spinach, thawed and drained ½ cup drained, creamed cottage cheese ¼ cup grated parmesan cheese 10 manicotti shells 1 (10.75 ounce) can condensed cream of chicken soup 1 (8 ounce) container sour cream 1 cup milk 1 teaspoon italian seasoning 1 cup boiling water 1 cup shredded cheddar cheese 2 tablespoons chopped fresh parsley preheat oven to 350 degrees f (175 degrees c). in a medium skillet over medium heat, cook chicken until opaque and juices run clear. in a medium bowl, combine cooked chicken, egg, spinach, cottage cheese and parmesan. stuff uncooked manicotti shells with chicken mixture. arrange shells, not touching one another, in a 9x13 inch baking dish. in a medium bowl, combine soup, sour cream, milk and italian seasoning and stir until smooth. pour over shells in dish and spread to cover completely. carefully pour boiling water around the edge of the dish. cover tightly with foil. bake in preheated oven 60 minutes, or until pasta is tender. sprinkle with cheddar and parsley and let stand 10 minutes before serving.",
+        "ingredients_raw": [
+            "2 skinless, boneless chicken breast halves - cubed",
+            "1 egg, beaten",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "½ cup drained, creamed cottage cheese",
+            "¼ cup grated Parmesan cheese",
+            "10 manicotti shells",
+            "1 (10.75 ounce) can condensed cream of chicken soup",
+            "1 (8 ounce) container sour cream",
+            "1 cup milk",
+            "1 teaspoon Italian seasoning",
+            "1 cup boiling water",
+            "1 cup shredded Cheddar cheese",
+            "2 tablespoons chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "In a medium skillet over medium heat, cook chicken until opaque and juices run clear.",
+            "In a medium bowl, combine cooked chicken, egg, spinach, cottage cheese and Parmesan. Stuff uncooked manicotti shells with chicken mixture. Arrange shells, not touching one another, in a 9x13 inch baking dish.",
+            "In a medium bowl, combine soup, sour cream, milk and Italian seasoning and stir until smooth. Pour over shells in dish and spread to cover completely. Carefully pour boiling water around the edge of the dish. Cover tightly with foil.",
+            "Bake in preheated oven 60 minutes, or until pasta is tender. Sprinkle with Cheddar and parsley and let stand 10 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "skinless boneless chicken breast halves - cubed",
+            "egg beaten",
+            "ounce package frozen chopped spinach thawed drained",
+            "½ drained creamed cottage cheese",
+            "¼ grated parmesan cheese",
+            "manicotti shells",
+            "ounce can condensed cream chicken soup",
+            "ounce container sour cream",
+            "milk",
+            "italian seasoning",
+            "boiling water",
+            "shredded cheddar cheese",
+            "chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "russian"
+        ],
+        "course_list": [
+            "main",
+            "soup"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 42,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lasagna-Stuffed Manicotti Shells",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "Manicotti shells are stuffed with Italian sausage, beef, and cheese and then breaded and fried to perfect bite-sized snacks! These little fried lasagna bites are cheesy balls infused with all the earthy flavors of fresh rosemary, thyme, and, of course, lots of basil!",
+        "ingredients": [
+            "14 manicotti shells, or more as desired",
+            "1 tablespoon vegetable oil",
+            "½ pound sweet Italian sausage",
+            "½ pound ground beef",
+            "1 white onion",
+            "½ cup basil leaves",
+            "2 sprigs rosemary",
+            "2 tablespoons thyme",
+            "1 tablespoon Italian seasoning",
+            "1 tablespoon ground black pepper",
+            "2 (8 ounce) cans tomato sauce, divided"
+        ],
+        "directions": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in manicotti and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and place on a baking sheet to cool. Place in freezer until hardened, about 5 minutes.",
+            "Heat 1 tablespoon oil in a large saute pan over medium-high heat. Add sausage, beef, and onion; saute 3 minutes. Add basil, rosemary, thyme, Italian seasoning, and black pepper. Cook until meat is browned, about 8 minutes. Stir in 1/2 can tomato sauce and cook until heated through, 3 to 5 minutes. Transfer to a large bowl and set aside to cool.",
+            "Heat a skillet over medium-high heat for the sauce. Add onion and saute 1 minute. Add remaining tomato sauce, rosemary, and thyme. Stir in basil and red pepper flakes.",
+            "Fold mozzarella cheese and cottage cheese into the cooled meat mixture. Stuff each manicotti shell with meat mixture and place back onto the baking sheet. Place filled shells in the freezer to firm up, about 5 minutes. Slice shells into bite-sized pieces.",
+            "Heat 2 quarts vegetable oil in a saucepan to 350 degrees F (175 degrees C).",
+            "Place flour, bread crumbs, and beaten eggs each in a separate bowl. Dredge manicotti slices in flour, then eggs, and then bread crumbs and place on the baking sheet.",
+            "Fry slices in the hot oil until golden brown and crispy, about 5 minutes. Drain on a paper towel-lined plate. Serve with the spicy tomato dipping sauce."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 7,
+        "ingredient_text": "manicotti shells more as desired vegetable oil ½ pound sweet italian sausage ½ pound ground beef white onion ½ basil leaves sprigs rosemary thyme italian seasoning ground black pepper ounce cans tomato sauce divided",
+        "directions_text": "fill a large pot with lightly salted water and bring to a rolling boil. stir in manicotti and return to a boil. cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. drain and place on a baking sheet to cool. place in freezer until hardened, about 5 minutes. heat 1 tablespoon oil in a large saute pan over medium-high heat. add sausage, beef, and onion; saute 3 minutes. add basil, rosemary, thyme, italian seasoning, and black pepper. cook until meat is browned, about 8 minutes. stir in 1/2 can tomato sauce and cook until heated through, 3 to 5 minutes. transfer to a large bowl and set aside to cool. heat a skillet over medium-high heat for the sauce. add onion and saute 1 minute. add remaining tomato sauce, rosemary, and thyme. stir in basil and red pepper flakes. fold mozzarella cheese and cottage cheese into the cooled meat mixture. stuff each manicotti shell with meat mixture and place back onto the baking sheet. place filled shells in the freezer to firm up, about 5 minutes. slice shells into bite-sized pieces. heat 2 quarts vegetable oil in a saucepan to 350 degrees f (175 degrees c). place flour, bread crumbs, and beaten eggs each in a separate bowl. dredge manicotti slices in flour, then eggs, and then bread crumbs and place on the baking sheet. fry slices in the hot oil until golden brown and crispy, about 5 minutes. drain on a paper towel-lined plate. serve with the spicy tomato dipping sauce.",
+        "combined_text": "lasagna-stuffed manicotti shells manicotti manicotti 14 manicotti shells, or more as desired 1 tablespoon vegetable oil ½ pound sweet italian sausage ½ pound ground beef 1 white onion ½ cup basil leaves 2 sprigs rosemary 2 tablespoons thyme 1 tablespoon italian seasoning 1 tablespoon ground black pepper 2 (8 ounce) cans tomato sauce, divided fill a large pot with lightly salted water and bring to a rolling boil. stir in manicotti and return to a boil. cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. drain and place on a baking sheet to cool. place in freezer until hardened, about 5 minutes. heat 1 tablespoon oil in a large saute pan over medium-high heat. add sausage, beef, and onion; saute 3 minutes. add basil, rosemary, thyme, italian seasoning, and black pepper. cook until meat is browned, about 8 minutes. stir in 1/2 can tomato sauce and cook until heated through, 3 to 5 minutes. transfer to a large bowl and set aside to cool. heat a skillet over medium-high heat for the sauce. add onion and saute 1 minute. add remaining tomato sauce, rosemary, and thyme. stir in basil and red pepper flakes. fold mozzarella cheese and cottage cheese into the cooled meat mixture. stuff each manicotti shell with meat mixture and place back onto the baking sheet. place filled shells in the freezer to firm up, about 5 minutes. slice shells into bite-sized pieces. heat 2 quarts vegetable oil in a saucepan to 350 degrees f (175 degrees c). place flour, bread crumbs, and beaten eggs each in a separate bowl. dredge manicotti slices in flour, then eggs, and then bread crumbs and place on the baking sheet. fry slices in the hot oil until golden brown and crispy, about 5 minutes. drain on a paper towel-lined plate. serve with the spicy tomato dipping sauce.",
+        "ingredients_raw": [
+            "14 manicotti shells, or more as desired",
+            "1 tablespoon vegetable oil",
+            "½ pound sweet Italian sausage",
+            "½ pound ground beef",
+            "1 white onion",
+            "½ cup basil leaves",
+            "2 sprigs rosemary",
+            "2 tablespoons thyme",
+            "1 tablespoon Italian seasoning",
+            "1 tablespoon ground black pepper",
+            "2 (8 ounce) cans tomato sauce, divided"
+        ],
+        "directions_raw": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in manicotti and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 8 minutes. Drain and place on a baking sheet to cool. Place in freezer until hardened, about 5 minutes.",
+            "Heat 1 tablespoon oil in a large saute pan over medium-high heat. Add sausage, beef, and onion; saute 3 minutes. Add basil, rosemary, thyme, Italian seasoning, and black pepper. Cook until meat is browned, about 8 minutes. Stir in 1/2 can tomato sauce and cook until heated through, 3 to 5 minutes. Transfer to a large bowl and set aside to cool.",
+            "Heat a skillet over medium-high heat for the sauce. Add onion and saute 1 minute. Add remaining tomato sauce, rosemary, and thyme. Stir in basil and red pepper flakes.",
+            "Fold mozzarella cheese and cottage cheese into the cooled meat mixture. Stuff each manicotti shell with meat mixture and place back onto the baking sheet. Place filled shells in the freezer to firm up, about 5 minutes. Slice shells into bite-sized pieces.",
+            "Heat 2 quarts vegetable oil in a saucepan to 350 degrees F (175 degrees C).",
+            "Place flour, bread crumbs, and beaten eggs each in a separate bowl. Dredge manicotti slices in flour, then eggs, and then bread crumbs and place on the baking sheet.",
+            "Fry slices in the hot oil until golden brown and crispy, about 5 minutes. Drain on a paper towel-lined plate. Serve with the spicy tomato dipping sauce."
+        ],
+        "ingredients_canonical": [
+            "manicotti shells more as desired",
+            "vegetable oil",
+            "½ pound sweet italian sausage",
+            "½ pound ground beef",
+            "white onion",
+            "½ basil leaves",
+            "sprigs rosemary",
+            "thyme",
+            "italian seasoning",
+            "ground black pepper",
+            "ounce cans tomato sauce divided"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 10,
+        "slow_hits": 0,
+        "medium_hits": 15,
+        "cook_speed": "medium",
+        "est_prep_time_min": 36,
+        "est_cook_time_min": 96,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Manicotti Pancakes II",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "This recipe came from a very old Italian family and it is super!",
+        "ingredients": [
+            "3 eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour"
+        ],
+        "directions": [
+            "Beat eggs and milk together in large bowl. Beat in flour until batter is smooth. Lightly coat an 8 inch skillet or crepe pan on medium-high heat with cooking spray. Make one pancake at a time by dropping a large spoonful of batter onto pan and tilting to cover the whole surface of the pan evenly. Cook until golden, turning once, about 2 minutes per pancake."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 1,
+        "ingredient_text": "eggs milk all-purpose flour",
+        "directions_text": "beat eggs and milk together in large bowl. beat in flour until batter is smooth. lightly coat an 8 inch skillet or crepe pan on medium-high heat with cooking spray. make one pancake at a time by dropping a large spoonful of batter onto pan and tilting to cover the whole surface of the pan evenly. cook until golden, turning once, about 2 minutes per pancake.",
+        "combined_text": "manicotti pancakes ii manicotti manicotti 3 eggs 1 cup milk 1 cup all-purpose flour beat eggs and milk together in large bowl. beat in flour until batter is smooth. lightly coat an 8 inch skillet or crepe pan on medium-high heat with cooking spray. make one pancake at a time by dropping a large spoonful of batter onto pan and tilting to cover the whole surface of the pan evenly. cook until golden, turning once, about 2 minutes per pancake.",
+        "ingredients_raw": [
+            "3 eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour"
+        ],
+        "directions_raw": [
+            "Beat eggs and milk together in large bowl. Beat in flour until batter is smooth. Lightly coat an 8 inch skillet or crepe pan on medium-high heat with cooking spray. Make one pancake at a time by dropping a large spoonful of batter onto pan and tilting to cover the whole surface of the pan evenly. Cook until golden, turning once, about 2 minutes per pancake."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "milk",
+            "all-purpose flour"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "umami"
+        ],
+        "primary_taste": "umami",
+        "secondary_taste": "none",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 13,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Jo's Manicotti",
+        "category": "Manicotti",
+        "subcategory": "Manicotti",
+        "description": "A recipe I put together based on my own personal taste. I buy an extra can of tomato sauce to serve at the table and let my guests add more sauce if they so desire!",
+        "ingredients": [
+            "1 (8 ounce) package manicotti pasta",
+            "1 pint part-skim ricotta cheese",
+            "2 eggs, beaten",
+            "1 onion, chopped",
+            "¼ cup grated Romano cheese",
+            "1 tablespoon chicken bouillon powder",
+            "½ teaspoon garlic salt",
+            "⅛ teaspoon dried thyme",
+            "ground black pepper to taste",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 (8 ounce) can tomato sauce",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "directions": [
+            "In a large pot cook manicotti pasta with boiling salted water until al dente. Rinse with warm water and drain.",
+            "In a large bowl mix together ricotta cheese, eggs, onion, grated Romano cheese, chicken bouillon, garlic, thyme, ground black pepper, and spinach.",
+            "To assemble, fill manicotti noodles with cheese filling. Arrange noodles in a greased 9x13 inch pan. Pour tomato sauce down center of shells. Sprinkle with shredded Mozzarella cheese.",
+            "Bake in a preheated 350 degree(175 degree C) oven for 25 minutes, or until hot and bubbly."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "ounce package manicotti pasta pint part-skim ricotta cheese eggs beaten onion chopped ¼ grated romano cheese chicken bouillon powder ½ garlic salt ⅛ dried thyme ground black pepper taste ounce package frozen chopped spinach thawed drained ounce can tomato sauce shredded mozzarella cheese",
+        "directions_text": "in a large pot cook manicotti pasta with boiling salted water until al dente. rinse with warm water and drain. in a large bowl mix together ricotta cheese, eggs, onion, grated romano cheese, chicken bouillon, garlic, thyme, ground black pepper, and spinach. to assemble, fill manicotti noodles with cheese filling. arrange noodles in a greased 9x13 inch pan. pour tomato sauce down center of shells. sprinkle with shredded mozzarella cheese. bake in a preheated 350 degree(175 degree c) oven for 25 minutes, or until hot and bubbly.",
+        "combined_text": "jo's manicotti manicotti manicotti 1 (8 ounce) package manicotti pasta 1 pint part-skim ricotta cheese 2 eggs, beaten 1 onion, chopped ¼ cup grated romano cheese 1 tablespoon chicken bouillon powder ½ teaspoon garlic salt ⅛ teaspoon dried thyme ground black pepper to taste 1 (10 ounce) package frozen chopped spinach, thawed and drained 1 (8 ounce) can tomato sauce 1 cup shredded mozzarella cheese in a large pot cook manicotti pasta with boiling salted water until al dente. rinse with warm water and drain. in a large bowl mix together ricotta cheese, eggs, onion, grated romano cheese, chicken bouillon, garlic, thyme, ground black pepper, and spinach. to assemble, fill manicotti noodles with cheese filling. arrange noodles in a greased 9x13 inch pan. pour tomato sauce down center of shells. sprinkle with shredded mozzarella cheese. bake in a preheated 350 degree(175 degree c) oven for 25 minutes, or until hot and bubbly.",
+        "ingredients_raw": [
+            "1 (8 ounce) package manicotti pasta",
+            "1 pint part-skim ricotta cheese",
+            "2 eggs, beaten",
+            "1 onion, chopped",
+            "¼ cup grated Romano cheese",
+            "1 tablespoon chicken bouillon powder",
+            "½ teaspoon garlic salt",
+            "⅛ teaspoon dried thyme",
+            "ground black pepper to taste",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 (8 ounce) can tomato sauce",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "directions_raw": [
+            "In a large pot cook manicotti pasta with boiling salted water until al dente. Rinse with warm water and drain.",
+            "In a large bowl mix together ricotta cheese, eggs, onion, grated Romano cheese, chicken bouillon, garlic, thyme, ground black pepper, and spinach.",
+            "To assemble, fill manicotti noodles with cheese filling. Arrange noodles in a greased 9x13 inch pan. Pour tomato sauce down center of shells. Sprinkle with shredded Mozzarella cheese.",
+            "Bake in a preheated 350 degree(175 degree C) oven for 25 minutes, or until hot and bubbly."
+        ],
+        "ingredients_canonical": [
+            "ounce package manicotti pasta",
+            "pint part-skim ricotta cheese",
+            "eggs beaten",
+            "onion chopped",
+            "¼ grated romano cheese",
+            "chicken bouillon powder",
+            "½ garlic salt",
+            "⅛ dried thyme",
+            "ground black pepper taste",
+            "ounce package frozen chopped spinach thawed drained",
+            "ounce can tomato sauce",
+            "shredded mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    }
+]

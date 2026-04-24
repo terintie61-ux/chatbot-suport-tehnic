@@ -1,0 +1,661 @@
+[
+    {
+        "recipe_title": "Filipino Spaghetti",
+        "category": "Pancit",
+        "subcategory": "Pancit",
+        "description": "The difference between Italian spaghetti and Filipino spaghetti is the addition of banana ketchup, which makes this a rather sweet dish. Oh, and I almost forgot the hot dogs!",
+        "ingredients": [
+            "2 pounds spaghetti",
+            "1 tablespoon vegetable oil",
+            "1 head garlic, minced",
+            "1 onion, chopped",
+            "1 pound ground beef",
+            "1 pound ground pork",
+            "salt and pepper to taste",
+            "1 (26.5 ounce) can spaghetti sauce",
+            "1 (14 ounce) jar banana ketchup",
+            "¼ cup white sugar",
+            "½ cup water",
+            "1 pound hot dogs, sliced diagonally",
+            "½ cup shredded Cheddar cheese"
+        ],
+        "directions": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the spaghetti, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 12 minutes. Drain well in a colander set in the sink.",
+            "Heat the vegetable oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the beef and pork; season with salt and pepper. Cook and stir until the meat has browned. Pour in the spaghetti sauce, banana ketchup, sugar, and water. Simmer until the sauce has thickened, about 15 minutes. Stir in hot dog slices and continue to cook until hot dogs are heated through. Serve over spaghetti with Cheddar cheese sprinkled on top."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 2,
+        "ingredient_text": "pounds spaghetti vegetable oil head garlic minced onion chopped pound ground beef pound ground pork salt pepper taste ounce can spaghetti sauce ounce jar banana ketchup ¼ white sugar ½ water pound hot dogs sliced diagonally ½ shredded cheddar cheese",
+        "directions_text": "fill a large pot with lightly salted water and bring to a rolling boil over high heat. once the water is boiling, stir in the spaghetti, and return to a boil. cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 12 minutes. drain well in a colander set in the sink. heat the vegetable oil in a skillet over medium heat. stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. stir in the beef and pork; season with salt and pepper. cook and stir until the meat has browned. pour in the spaghetti sauce, banana ketchup, sugar, and water. simmer until the sauce has thickened, about 15 minutes. stir in hot dog slices and continue to cook until hot dogs are heated through. serve over spaghetti with cheddar cheese sprinkled on top.",
+        "combined_text": "filipino spaghetti pancit pancit 2 pounds spaghetti 1 tablespoon vegetable oil 1 head garlic, minced 1 onion, chopped 1 pound ground beef 1 pound ground pork salt and pepper to taste 1 (26.5 ounce) can spaghetti sauce 1 (14 ounce) jar banana ketchup ¼ cup white sugar ½ cup water 1 pound hot dogs, sliced diagonally ½ cup shredded cheddar cheese fill a large pot with lightly salted water and bring to a rolling boil over high heat. once the water is boiling, stir in the spaghetti, and return to a boil. cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 12 minutes. drain well in a colander set in the sink. heat the vegetable oil in a skillet over medium heat. stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. stir in the beef and pork; season with salt and pepper. cook and stir until the meat has browned. pour in the spaghetti sauce, banana ketchup, sugar, and water. simmer until the sauce has thickened, about 15 minutes. stir in hot dog slices and continue to cook until hot dogs are heated through. serve over spaghetti with cheddar cheese sprinkled on top.",
+        "ingredients_raw": [
+            "2 pounds spaghetti",
+            "1 tablespoon vegetable oil",
+            "1 head garlic, minced",
+            "1 onion, chopped",
+            "1 pound ground beef",
+            "1 pound ground pork",
+            "salt and pepper to taste",
+            "1 (26.5 ounce) can spaghetti sauce",
+            "1 (14 ounce) jar banana ketchup",
+            "¼ cup white sugar",
+            "½ cup water",
+            "1 pound hot dogs, sliced diagonally",
+            "½ cup shredded Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the spaghetti, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 12 minutes. Drain well in a colander set in the sink.",
+            "Heat the vegetable oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the beef and pork; season with salt and pepper. Cook and stir until the meat has browned. Pour in the spaghetti sauce, banana ketchup, sugar, and water. Simmer until the sauce has thickened, about 15 minutes. Stir in hot dog slices and continue to cook until hot dogs are heated through. Serve over spaghetti with Cheddar cheese sprinkled on top."
+        ],
+        "ingredients_canonical": [
+            "pounds spaghetti",
+            "vegetable oil",
+            "head garlic minced",
+            "onion chopped",
+            "pound ground beef",
+            "pound ground pork",
+            "salt pepper taste",
+            "ounce can spaghetti sauce",
+            "ounce jar banana ketchup",
+            "¼ white sugar",
+            "½ water",
+            "pound hot dogs sliced diagonally",
+            "½ shredded cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "filipino",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 12,
+        "slow_hits": 1,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 32,
+        "est_cook_time_min": 53,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Filipino Pancit Bihon with Canton",
+        "category": "Pancit",
+        "subcategory": "Pancit",
+        "description": "This pancit is a favorite Filipino noodle dish that is usually served when you have company. Though time consuming, the end result is always delicious. It can be eaten alone or with rice. Skip the canton noodles if only bihon is desired.",
+        "ingredients": [
+            "½ (8 ounce) package pancit bihon (rice noodles)",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 cup chopped cooked chicken",
+            "salt and ground black pepper to taste",
+            "2 cups fresh shrimp, peeled and deveined",
+            "2 tablespoons soy sauce",
+            "1 small head cabbage, shredded",
+            "2 stalks celery, sliced",
+            "1 carrot, peeled and cut into matchsticks",
+            "2 cups water",
+            "½ (8 ounce) package pancit canton (yellow Chinese noodles)"
+        ],
+        "directions": [
+            "Soak bihon in a bowl of warm water until soft, about 5 minutes. Drain.",
+            "Heat oil in a large wok over medium-high heat. Saute onion and garlic until onion is translucent, about 5 minutes. Add chicken, salt, and pepper. Cook and stir until flavors combine, about 3 minutes. Add shrimp; cook until they start to turn color, about 1 minute. Add soy sauce; toss in cabbage, celery, and carrot. Cook until well combined, about 2 minutes. Add 2 cups water; bring to a boil. Cook until vegetables begin to soften, about 2 minutes.",
+            "Transfer chicken, shrimp, and vegetables to a bowl, leaving the liquid behind in the wok. Add bihon and canton noodles to the liquid. Mix well and cover. Let sit until tender, about 5 minutes. Return 1/2 the chicken-vegetable mixture to the wok; mix with the noodles. Pour soup into bowls; garnish with the remaining chicken-vegetable mixture."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 3,
+        "ingredient_text": "½ ounce package pancit bihon rice noodles olive oil onion chopped cloves garlic minced chopped cooked chicken salt ground black pepper taste fresh shrimp peeled deveined soy sauce small head cabbage shredded stalks celery sliced carrot peeled cut into matchsticks water ½ ounce package pancit canton yellow chinese noodles",
+        "directions_text": "soak bihon in a bowl of warm water until soft, about 5 minutes. drain. heat oil in a large wok over medium-high heat. saute onion and garlic until onion is translucent, about 5 minutes. add chicken, salt, and pepper. cook and stir until flavors combine, about 3 minutes. add shrimp; cook until they start to turn color, about 1 minute. add soy sauce; toss in cabbage, celery, and carrot. cook until well combined, about 2 minutes. add 2 cups water; bring to a boil. cook until vegetables begin to soften, about 2 minutes. transfer chicken, shrimp, and vegetables to a bowl, leaving the liquid behind in the wok. add bihon and canton noodles to the liquid. mix well and cover. let sit until tender, about 5 minutes. return 1/2 the chicken-vegetable mixture to the wok; mix with the noodles. pour soup into bowls; garnish with the remaining chicken-vegetable mixture.",
+        "combined_text": "filipino pancit bihon with canton pancit pancit ½ (8 ounce) package pancit bihon (rice noodles) 2 tablespoons olive oil 1 onion, chopped 2 cloves garlic, minced 1 cup chopped cooked chicken salt and ground black pepper to taste 2 cups fresh shrimp, peeled and deveined 2 tablespoons soy sauce 1 small head cabbage, shredded 2 stalks celery, sliced 1 carrot, peeled and cut into matchsticks 2 cups water ½ (8 ounce) package pancit canton (yellow chinese noodles) soak bihon in a bowl of warm water until soft, about 5 minutes. drain. heat oil in a large wok over medium-high heat. saute onion and garlic until onion is translucent, about 5 minutes. add chicken, salt, and pepper. cook and stir until flavors combine, about 3 minutes. add shrimp; cook until they start to turn color, about 1 minute. add soy sauce; toss in cabbage, celery, and carrot. cook until well combined, about 2 minutes. add 2 cups water; bring to a boil. cook until vegetables begin to soften, about 2 minutes. transfer chicken, shrimp, and vegetables to a bowl, leaving the liquid behind in the wok. add bihon and canton noodles to the liquid. mix well and cover. let sit until tender, about 5 minutes. return 1/2 the chicken-vegetable mixture to the wok; mix with the noodles. pour soup into bowls; garnish with the remaining chicken-vegetable mixture.",
+        "ingredients_raw": [
+            "½ (8 ounce) package pancit bihon (rice noodles)",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 cup chopped cooked chicken",
+            "salt and ground black pepper to taste",
+            "2 cups fresh shrimp, peeled and deveined",
+            "2 tablespoons soy sauce",
+            "1 small head cabbage, shredded",
+            "2 stalks celery, sliced",
+            "1 carrot, peeled and cut into matchsticks",
+            "2 cups water",
+            "½ (8 ounce) package pancit canton (yellow Chinese noodles)"
+        ],
+        "directions_raw": [
+            "Soak bihon in a bowl of warm water until soft, about 5 minutes. Drain.",
+            "Heat oil in a large wok over medium-high heat. Saute onion and garlic until onion is translucent, about 5 minutes. Add chicken, salt, and pepper. Cook and stir until flavors combine, about 3 minutes. Add shrimp; cook until they start to turn color, about 1 minute. Add soy sauce; toss in cabbage, celery, and carrot. Cook until well combined, about 2 minutes. Add 2 cups water; bring to a boil. Cook until vegetables begin to soften, about 2 minutes.",
+            "Transfer chicken, shrimp, and vegetables to a bowl, leaving the liquid behind in the wok. Add bihon and canton noodles to the liquid. Mix well and cover. Let sit until tender, about 5 minutes. Return 1/2 the chicken-vegetable mixture to the wok; mix with the noodles. Pour soup into bowls; garnish with the remaining chicken-vegetable mixture."
+        ],
+        "ingredients_canonical": [
+            "½ ounce package pancit bihon rice noodles",
+            "olive oil",
+            "onion chopped",
+            "cloves garlic minced",
+            "chopped cooked chicken",
+            "salt ground black pepper taste",
+            "fresh shrimp peeled deveined",
+            "soy sauce",
+            "small head cabbage shredded",
+            "stalks celery sliced",
+            "carrot peeled cut into matchsticks",
+            "water",
+            "½ ounce package pancit canton yellow chinese noodles"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "soup"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Pork and Shrimp Pancit",
+        "category": "Pancit",
+        "subcategory": "Pancit",
+        "description": "This pork and shrimp pancit recipe is a standard pancit taught to me by a Filipino friend while I was stationed overseas. It's delicious and easy! Thanks, Ditas!",
+        "ingredients": [
+            "1 (6.75 ounce) package rice noodles",
+            "5 tablespoons vegetable oil, divided",
+            "1 ½ cups cooked small shrimp, diced",
+            "1 ½ cups chopped cooked pork",
+            "1 small onion, minced",
+            "2 cloves garlic, minced",
+            "½ teaspoon ground ginger",
+            "4 cups shredded bok choy",
+            "¼ cup chicken broth",
+            "3 tablespoons oyster sauce",
+            "¼ teaspoon crushed red pepper flakes",
+            "1 green onion, minced"
+        ],
+        "directions": [
+            "Soak rice noodles in warm water in a bowl for 20 minutes; drain.",
+            "Heat 3 tablespoons oil in a wok or large heavy skillet over medium-high heat. Sauté noodles for 1 minute; transfer to a serving dish. Keep warm. Add remaining 2 tablespoons oil to wok; sauté shrimp, pork, onion, garlic, and ginger for 1 minute.",
+            "Stir in bok choy, chicken broth, and oyster sauce; season with pepper flakes. Cover; cook until bok choy is wilted, about 1 minute. Serve over noodles; garnish with green onion."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 3,
+        "ingredient_text": "ounce package rice noodles vegetable oil divided ½ cooked small shrimp diced ½ chopped cooked pork small onion minced cloves garlic minced ½ ground ginger shredded bok choy ¼ chicken broth oyster sauce ¼ crushed red pepper flakes green onion minced",
+        "directions_text": "soak rice noodles in warm water in a bowl for 20 minutes; drain. heat 3 tablespoons oil in a wok or large heavy skillet over medium-high heat. sauté noodles for 1 minute; transfer to a serving dish. keep warm. add remaining 2 tablespoons oil to wok; sauté shrimp, pork, onion, garlic, and ginger for 1 minute. stir in bok choy, chicken broth, and oyster sauce; season with pepper flakes. cover; cook until bok choy is wilted, about 1 minute. serve over noodles; garnish with green onion.",
+        "combined_text": "pork and shrimp pancit pancit pancit 1 (6.75 ounce) package rice noodles 5 tablespoons vegetable oil, divided 1 ½ cups cooked small shrimp, diced 1 ½ cups chopped cooked pork 1 small onion, minced 2 cloves garlic, minced ½ teaspoon ground ginger 4 cups shredded bok choy ¼ cup chicken broth 3 tablespoons oyster sauce ¼ teaspoon crushed red pepper flakes 1 green onion, minced soak rice noodles in warm water in a bowl for 20 minutes; drain. heat 3 tablespoons oil in a wok or large heavy skillet over medium-high heat. sauté noodles for 1 minute; transfer to a serving dish. keep warm. add remaining 2 tablespoons oil to wok; sauté shrimp, pork, onion, garlic, and ginger for 1 minute. stir in bok choy, chicken broth, and oyster sauce; season with pepper flakes. cover; cook until bok choy is wilted, about 1 minute. serve over noodles; garnish with green onion.",
+        "ingredients_raw": [
+            "1 (6.75 ounce) package rice noodles",
+            "5 tablespoons vegetable oil, divided",
+            "1 ½ cups cooked small shrimp, diced",
+            "1 ½ cups chopped cooked pork",
+            "1 small onion, minced",
+            "2 cloves garlic, minced",
+            "½ teaspoon ground ginger",
+            "4 cups shredded bok choy",
+            "¼ cup chicken broth",
+            "3 tablespoons oyster sauce",
+            "¼ teaspoon crushed red pepper flakes",
+            "1 green onion, minced"
+        ],
+        "directions_raw": [
+            "Soak rice noodles in warm water in a bowl for 20 minutes; drain.",
+            "Heat 3 tablespoons oil in a wok or large heavy skillet over medium-high heat. Sauté noodles for 1 minute; transfer to a serving dish. Keep warm. Add remaining 2 tablespoons oil to wok; sauté shrimp, pork, onion, garlic, and ginger for 1 minute.",
+            "Stir in bok choy, chicken broth, and oyster sauce; season with pepper flakes. Cover; cook until bok choy is wilted, about 1 minute. Serve over noodles; garnish with green onion."
+        ],
+        "ingredients_canonical": [
+            "ounce package rice noodles",
+            "vegetable oil divided",
+            "½ cooked small shrimp diced",
+            "½ chopped cooked pork",
+            "small onion minced",
+            "cloves garlic minced",
+            "½ ground ginger",
+            "shredded bok choy",
+            "¼ chicken broth",
+            "oyster sauce",
+            "¼ crushed red pepper flakes",
+            "green onion minced"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "soup"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pancit Sotanghon",
+        "category": "Pancit",
+        "subcategory": "Pancit",
+        "description": "This Filipino pancit sotanghon recipe is made with vegetables and leftover boiled chicken.",
+        "ingredients": [
+            "1 (10.5 ounce) package mung bean vermicelli",
+            "1 cup dried wood ear mushrooms (tenga ng daga)",
+            "1 tablespoon vegetable oil",
+            "1 clove garlic, minced",
+            "1 small onion, chopped",
+            "½ teaspoon achiote powder",
+            "1 ¾ cups chopped cooked chicken",
+            "2 teaspoons soy sauce",
+            "1 teaspoon fish sauce",
+            "1 cube chicken bouillon",
+            "1 cup water",
+            "1 (8 ounce) package shredded cabbage",
+            "1 small head bok choy, chopped",
+            "1 carrot, chopped",
+            "¼ teaspoon ground black pepper, or to taste",
+            "1 pinch chili powder (Optional)",
+            "2 hard-boiled eggs, sliced"
+        ],
+        "directions": [
+            "Soak vermicelli in a bowl of hot water, 2 to 3 minutes. Drain. Cut noodles to desired length; set aside. Soak mushrooms in a second bowl of water; set aside to soften.",
+            "Heat oil in a saucepan over medium-high heat. Cook and stir garlic in hot oil until browned, about 2 minutes. Remove garlic to a bowl and set aside for garnish. Add onion and achiote powder to the saucepan and sauté until onion is translucent, about 5 minutes. Add chicken, soy sauce, and fish sauce. Stir in bouillon until dissolved. Pour in 1 cup water and bring to a boil.",
+            "Drain softened mushrooms and cut into 1-inch pieces.",
+            "Toss cabbage, bok choy, and carrot into boiling water mixture. Add vermicelli, mushrooms, black pepper, and chili powder. Cook, mixing well, until pancit is slightly dried, about 5 minutes. Transfer pancit to a platter. Garnish with egg slices and browned garlic."
+        ],
+        "num_ingredients": 17,
+        "num_steps": 4,
+        "ingredient_text": "ounce package mung bean vermicelli dried wood ear mushrooms tenga ng daga vegetable oil clove garlic minced small onion chopped ½ achiote powder ¾ chopped cooked chicken soy sauce fish sauce cube chicken bouillon water ounce package shredded cabbage small head bok choy chopped carrot chopped ¼ ground black pepper taste pinch chili powder optional hard-boiled eggs sliced",
+        "directions_text": "soak vermicelli in a bowl of hot water, 2 to 3 minutes. drain. cut noodles to desired length; set aside. soak mushrooms in a second bowl of water; set aside to soften. heat oil in a saucepan over medium-high heat. cook and stir garlic in hot oil until browned, about 2 minutes. remove garlic to a bowl and set aside for garnish. add onion and achiote powder to the saucepan and sauté until onion is translucent, about 5 minutes. add chicken, soy sauce, and fish sauce. stir in bouillon until dissolved. pour in 1 cup water and bring to a boil. drain softened mushrooms and cut into 1-inch pieces. toss cabbage, bok choy, and carrot into boiling water mixture. add vermicelli, mushrooms, black pepper, and chili powder. cook, mixing well, until pancit is slightly dried, about 5 minutes. transfer pancit to a platter. garnish with egg slices and browned garlic.",
+        "combined_text": "pancit sotanghon pancit pancit 1 (10.5 ounce) package mung bean vermicelli 1 cup dried wood ear mushrooms (tenga ng daga) 1 tablespoon vegetable oil 1 clove garlic, minced 1 small onion, chopped ½ teaspoon achiote powder 1 ¾ cups chopped cooked chicken 2 teaspoons soy sauce 1 teaspoon fish sauce 1 cube chicken bouillon 1 cup water 1 (8 ounce) package shredded cabbage 1 small head bok choy, chopped 1 carrot, chopped ¼ teaspoon ground black pepper, or to taste 1 pinch chili powder (optional) 2 hard-boiled eggs, sliced soak vermicelli in a bowl of hot water, 2 to 3 minutes. drain. cut noodles to desired length; set aside. soak mushrooms in a second bowl of water; set aside to soften. heat oil in a saucepan over medium-high heat. cook and stir garlic in hot oil until browned, about 2 minutes. remove garlic to a bowl and set aside for garnish. add onion and achiote powder to the saucepan and sauté until onion is translucent, about 5 minutes. add chicken, soy sauce, and fish sauce. stir in bouillon until dissolved. pour in 1 cup water and bring to a boil. drain softened mushrooms and cut into 1-inch pieces. toss cabbage, bok choy, and carrot into boiling water mixture. add vermicelli, mushrooms, black pepper, and chili powder. cook, mixing well, until pancit is slightly dried, about 5 minutes. transfer pancit to a platter. garnish with egg slices and browned garlic.",
+        "ingredients_raw": [
+            "1 (10.5 ounce) package mung bean vermicelli",
+            "1 cup dried wood ear mushrooms (tenga ng daga)",
+            "1 tablespoon vegetable oil",
+            "1 clove garlic, minced",
+            "1 small onion, chopped",
+            "½ teaspoon achiote powder",
+            "1 ¾ cups chopped cooked chicken",
+            "2 teaspoons soy sauce",
+            "1 teaspoon fish sauce",
+            "1 cube chicken bouillon",
+            "1 cup water",
+            "1 (8 ounce) package shredded cabbage",
+            "1 small head bok choy, chopped",
+            "1 carrot, chopped",
+            "¼ teaspoon ground black pepper, or to taste",
+            "1 pinch chili powder (Optional)",
+            "2 hard-boiled eggs, sliced"
+        ],
+        "directions_raw": [
+            "Soak vermicelli in a bowl of hot water, 2 to 3 minutes. Drain. Cut noodles to desired length; set aside. Soak mushrooms in a second bowl of water; set aside to soften.",
+            "Heat oil in a saucepan over medium-high heat. Cook and stir garlic in hot oil until browned, about 2 minutes. Remove garlic to a bowl and set aside for garnish. Add onion and achiote powder to the saucepan and sauté until onion is translucent, about 5 minutes. Add chicken, soy sauce, and fish sauce. Stir in bouillon until dissolved. Pour in 1 cup water and bring to a boil.",
+            "Drain softened mushrooms and cut into 1-inch pieces.",
+            "Toss cabbage, bok choy, and carrot into boiling water mixture. Add vermicelli, mushrooms, black pepper, and chili powder. Cook, mixing well, until pancit is slightly dried, about 5 minutes. Transfer pancit to a platter. Garnish with egg slices and browned garlic."
+        ],
+        "ingredients_canonical": [
+            "ounce package mung bean vermicelli",
+            "dried wood ear mushrooms tenga ng daga",
+            "vegetable oil",
+            "clove garlic minced",
+            "small onion chopped",
+            "½ achiote powder",
+            "¾ chopped cooked chicken",
+            "soy sauce",
+            "fish sauce",
+            "cube chicken bouillon",
+            "water",
+            "ounce package shredded cabbage",
+            "small head bok choy chopped",
+            "carrot chopped",
+            "¼ ground black pepper taste",
+            "pinch chili powder optional",
+            "hard-boiled eggs sliced"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean",
+            "thai",
+            "vietnamese"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 33,
+        "est_cook_time_min": 42,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Pancit Molo (Filipino Wonton Soup)",
+        "category": "Pancit",
+        "subcategory": "Pancit",
+        "description": "This Pinoy pancit molo dish has no noodles, despite its name. It has something better than noodles: wonton-like dumplings. This delicious soup dish can be served as a snack or as an appetizer before lunch or dinner.",
+        "ingredients": [
+            "1 ½ pounds ground pork",
+            "1 pound uncooked medium shrimp, peeled and deveined",
+            "1 (8 ounce) can sliced water chestnuts, drained",
+            "salt and ground black pepper to taste",
+            "1 (16 ounce) package wonton wrappers, or as needed",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 cooked chicken breast, shredded",
+            "1 ¼ quarts chicken broth",
+            "1 small head bok choy, cut into bite-sized pieces",
+            "2 green onions, chopped"
+        ],
+        "directions": [
+            "Mix pork, shrimp, water chestnuts, salt, and pepper together in a large bowl. Reserve 1/3 of the filling mixture for soup. Wrap about 1 tablespoon of remaining filling in a wonton wrapper. Repeat until all filling is used up.",
+            "Heat olive oil in a large pot over medium-high heat. Add onion and garlic; sauté until onion is translucent, about 5 minutes. Stir in chicken and reserved filling. Mix well. Add chicken broth; season with salt and pepper. Bring to a boil. Drop filled wontons into soup one by one. Boil until wontons float to the top, 3 to 5 minutes. Add bok choy; boil until tender, about 2 minutes more. Garnish with green onions."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 2,
+        "ingredient_text": "½ pounds ground pork pound uncooked medium shrimp peeled deveined ounce can sliced water chestnuts drained salt ground black pepper taste ounce package wonton wrappers as needed olive oil onion chopped cloves garlic minced cooked chicken breast shredded ¼ quarts chicken broth small head bok choy cut into bite-sized pieces green onions chopped",
+        "directions_text": "mix pork, shrimp, water chestnuts, salt, and pepper together in a large bowl. reserve 1/3 of the filling mixture for soup. wrap about 1 tablespoon of remaining filling in a wonton wrapper. repeat until all filling is used up. heat olive oil in a large pot over medium-high heat. add onion and garlic; sauté until onion is translucent, about 5 minutes. stir in chicken and reserved filling. mix well. add chicken broth; season with salt and pepper. bring to a boil. drop filled wontons into soup one by one. boil until wontons float to the top, 3 to 5 minutes. add bok choy; boil until tender, about 2 minutes more. garnish with green onions.",
+        "combined_text": "pancit molo (filipino wonton soup) pancit pancit 1 ½ pounds ground pork 1 pound uncooked medium shrimp, peeled and deveined 1 (8 ounce) can sliced water chestnuts, drained salt and ground black pepper to taste 1 (16 ounce) package wonton wrappers, or as needed 2 tablespoons olive oil 1 onion, chopped 2 cloves garlic, minced 1 cooked chicken breast, shredded 1 ¼ quarts chicken broth 1 small head bok choy, cut into bite-sized pieces 2 green onions, chopped mix pork, shrimp, water chestnuts, salt, and pepper together in a large bowl. reserve 1/3 of the filling mixture for soup. wrap about 1 tablespoon of remaining filling in a wonton wrapper. repeat until all filling is used up. heat olive oil in a large pot over medium-high heat. add onion and garlic; sauté until onion is translucent, about 5 minutes. stir in chicken and reserved filling. mix well. add chicken broth; season with salt and pepper. bring to a boil. drop filled wontons into soup one by one. boil until wontons float to the top, 3 to 5 minutes. add bok choy; boil until tender, about 2 minutes more. garnish with green onions.",
+        "ingredients_raw": [
+            "1 ½ pounds ground pork",
+            "1 pound uncooked medium shrimp, peeled and deveined",
+            "1 (8 ounce) can sliced water chestnuts, drained",
+            "salt and ground black pepper to taste",
+            "1 (16 ounce) package wonton wrappers, or as needed",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 cooked chicken breast, shredded",
+            "1 ¼ quarts chicken broth",
+            "1 small head bok choy, cut into bite-sized pieces",
+            "2 green onions, chopped"
+        ],
+        "directions_raw": [
+            "Mix pork, shrimp, water chestnuts, salt, and pepper together in a large bowl. Reserve 1/3 of the filling mixture for soup. Wrap about 1 tablespoon of remaining filling in a wonton wrapper. Repeat until all filling is used up.",
+            "Heat olive oil in a large pot over medium-high heat. Add onion and garlic; sauté until onion is translucent, about 5 minutes. Stir in chicken and reserved filling. Mix well. Add chicken broth; season with salt and pepper. Bring to a boil. Drop filled wontons into soup one by one. Boil until wontons float to the top, 3 to 5 minutes. Add bok choy; boil until tender, about 2 minutes more. Garnish with green onions."
+        ],
+        "ingredients_canonical": [
+            "½ pounds ground pork",
+            "pound uncooked medium shrimp peeled deveined",
+            "ounce can sliced water chestnuts drained",
+            "salt ground black pepper taste",
+            "ounce package wonton wrappers as needed",
+            "olive oil",
+            "onion chopped",
+            "cloves garlic minced",
+            "cooked chicken breast shredded",
+            "¼ quarts chicken broth",
+            "small head bok choy cut into bite-sized pieces",
+            "green onions chopped"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 10,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Pancit",
+        "category": "Pancit",
+        "subcategory": "Pancit",
+        "description": "This is a pancit recipe I got from a family from the Philippines. It can be served alone or with rice.",
+        "ingredients": [
+            "1 (8 ounce) package thin rice noodles",
+            "8 ounces skinless, boneless chicken legs, cut into bite-sized pieces",
+            "8 ounces pork tenderloin, cut into bite-sized pieces",
+            "½ cup soy sauce",
+            "ground black pepper, to taste",
+            "½ medium head cabbage, shredded",
+            "2 carrots, shredded",
+            "8 ounces shrimp, peeled and deveined",
+            "2 green onions, chopped into 1-inch pieces"
+        ],
+        "directions": [
+            "Place rice noodles in a large bowl; cover with warm water. Set aside until noodles are softened; cut into 4-inch lengths. Drain and set aside.",
+            "Brown chicken and pork in a skillet over medium heat until no pink shows; season with soy sauce and black pepper. Transfer to a bowl; set aside.",
+            "Cook cabbage and carrots in the same skillet until tender. Stir in noodles, shrimp, and green onions; cook for 4 to 5 minutes. Stir in chicken and pork; cook 5 minutes more."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "ounce package thin rice noodles ounces skinless boneless chicken legs cut into bite-sized pieces ounces pork tenderloin cut into bite-sized pieces ½ soy sauce ground black pepper taste ½ medium head cabbage shredded carrots shredded ounces shrimp peeled deveined green onions chopped into -inch pieces",
+        "directions_text": "place rice noodles in a large bowl; cover with warm water. set aside until noodles are softened; cut into 4-inch lengths. drain and set aside. brown chicken and pork in a skillet over medium heat until no pink shows; season with soy sauce and black pepper. transfer to a bowl; set aside. cook cabbage and carrots in the same skillet until tender. stir in noodles, shrimp, and green onions; cook for 4 to 5 minutes. stir in chicken and pork; cook 5 minutes more.",
+        "combined_text": "pancit pancit pancit 1 (8 ounce) package thin rice noodles 8 ounces skinless, boneless chicken legs, cut into bite-sized pieces 8 ounces pork tenderloin, cut into bite-sized pieces ½ cup soy sauce ground black pepper, to taste ½ medium head cabbage, shredded 2 carrots, shredded 8 ounces shrimp, peeled and deveined 2 green onions, chopped into 1-inch pieces place rice noodles in a large bowl; cover with warm water. set aside until noodles are softened; cut into 4-inch lengths. drain and set aside. brown chicken and pork in a skillet over medium heat until no pink shows; season with soy sauce and black pepper. transfer to a bowl; set aside. cook cabbage and carrots in the same skillet until tender. stir in noodles, shrimp, and green onions; cook for 4 to 5 minutes. stir in chicken and pork; cook 5 minutes more.",
+        "ingredients_raw": [
+            "1 (8 ounce) package thin rice noodles",
+            "8 ounces skinless, boneless chicken legs, cut into bite-sized pieces",
+            "8 ounces pork tenderloin, cut into bite-sized pieces",
+            "½ cup soy sauce",
+            "ground black pepper, to taste",
+            "½ medium head cabbage, shredded",
+            "2 carrots, shredded",
+            "8 ounces shrimp, peeled and deveined",
+            "2 green onions, chopped into 1-inch pieces"
+        ],
+        "directions_raw": [
+            "Place rice noodles in a large bowl; cover with warm water. Set aside until noodles are softened; cut into 4-inch lengths. Drain and set aside.",
+            "Brown chicken and pork in a skillet over medium heat until no pink shows; season with soy sauce and black pepper. Transfer to a bowl; set aside.",
+            "Cook cabbage and carrots in the same skillet until tender. Stir in noodles, shrimp, and green onions; cook for 4 to 5 minutes. Stir in chicken and pork; cook 5 minutes more."
+        ],
+        "ingredients_canonical": [
+            "ounce package thin rice noodles",
+            "ounces skinless boneless chicken legs cut into bite-sized pieces",
+            "ounces pork tenderloin cut into bite-sized pieces",
+            "½ soy sauce",
+            "ground black pepper taste",
+            "½ medium head cabbage shredded",
+            "carrots shredded",
+            "ounces shrimp peeled deveined",
+            "green onions chopped into -inch pieces"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    }
+]

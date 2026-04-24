@@ -1,0 +1,2023 @@
+[
+    {
+        "recipe_title": "The Real Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This is an authentic recipe for a mojito cocktail. I sized the recipe for one serving, but you can adjust it accordingly and make a pitcher full. It's a very refreshing drink for hot summer days.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "½ medium lime, cut into 3 wedges, divided",
+            "2 tablespoons white sugar, or to taste",
+            "1 cup ice cubes, or as needed",
+            "1 ½ fluid ounces white rum",
+            "½ cup club soda, or as needed"
+        ],
+        "directions": [
+            "Gather the ingredients.",
+            "Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler and crush to release mint oils and lime juice.",
+            "Add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. Do not strain the mixture.",
+            "Fill the glass almost to the top with ice.",
+            "Pour in rum and fill the glass with club soda.",
+            "Stir, taste, and add more sugar if desired."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 6,
+        "ingredient_text": "fresh mint leaves ½ medium lime cut into wedges divided white sugar taste ice cubes as needed ½ fluid ounces white rum ½ club soda as needed",
+        "directions_text": "gather the ingredients. place mint leaves and 1 lime wedge into a sturdy glass. use a muddler and crush to release mint oils and lime juice. add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. do not strain the mixture. fill the glass almost to the top with ice. pour in rum and fill the glass with club soda. stir, taste, and add more sugar if desired.",
+        "combined_text": "the real mojito mojitos mojitos 10 fresh mint leaves ½ medium lime, cut into 3 wedges, divided 2 tablespoons white sugar, or to taste 1 cup ice cubes, or as needed 1 ½ fluid ounces white rum ½ cup club soda, or as needed gather the ingredients. place mint leaves and 1 lime wedge into a sturdy glass. use a muddler and crush to release mint oils and lime juice. add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. do not strain the mixture. fill the glass almost to the top with ice. pour in rum and fill the glass with club soda. stir, taste, and add more sugar if desired.",
+        "ingredients_raw": [
+            "10 fresh mint leaves",
+            "½ medium lime, cut into 3 wedges, divided",
+            "2 tablespoons white sugar, or to taste",
+            "1 cup ice cubes, or as needed",
+            "1 ½ fluid ounces white rum",
+            "½ cup club soda, or as needed"
+        ],
+        "directions_raw": [
+            "Gather the ingredients.",
+            "Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler and crush to release mint oils and lime juice.",
+            "Add remaining lime wedges and 2 tablespoons sugar, and muddle again to release the lime juice. Do not strain the mixture.",
+            "Fill the glass almost to the top with ice.",
+            "Pour in rum and fill the glass with club soda.",
+            "Stir, taste, and add more sugar if desired."
+        ],
+        "ingredients_canonical": [
+            "fresh mint leaves",
+            "½ medium lime cut into wedges divided",
+            "white sugar taste",
+            "ice cubes as needed",
+            "½ fluid ounces white rum",
+            "½ club soda as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mojitos by the Pitcher",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "I have made this mojito recipe for people who have sworn that they dislike mojitos and they loved it! I believe it's the fresh ingredients and the use of sugar, instead of simple syrup, muddled together that makes this cocktail refreshing and delicious. It takes a little bit of work but the results are well worth it. Serve over ice.",
+        "ingredients": [
+            "1/2 cup white sugar",
+            "36 leaves fresh mint, or to taste",
+            "3 medium limes, quartered",
+            "1 cup rum (such as Bacardi)",
+            "1 liter club soda"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Muddle sugar and mint leaves together in a pitcher until leaves are well broken down.",
+            "Add limes and muddle until limes are juiced.",
+            "Pour rum into sugar mixture; add club soda and stir until sugar is dissolved.",
+            "Serve and enjoy!"
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "white sugar leaves fresh mint taste medium limes quartered rum such as bacardi liter club soda",
+        "directions_text": "gather all ingredients. muddle sugar and mint leaves together in a pitcher until leaves are well broken down. add limes and muddle until limes are juiced. pour rum into sugar mixture; add club soda and stir until sugar is dissolved. serve and enjoy!",
+        "combined_text": "mojitos by the pitcher mojitos mojitos 1/2 cup white sugar 36 leaves fresh mint, or to taste 3 medium limes, quartered 1 cup rum (such as bacardi) 1 liter club soda gather all ingredients. muddle sugar and mint leaves together in a pitcher until leaves are well broken down. add limes and muddle until limes are juiced. pour rum into sugar mixture; add club soda and stir until sugar is dissolved. serve and enjoy!",
+        "ingredients_raw": [
+            "1/2 cup white sugar",
+            "36 leaves fresh mint, or to taste",
+            "3 medium limes, quartered",
+            "1 cup rum (such as Bacardi)",
+            "1 liter club soda"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Muddle sugar and mint leaves together in a pitcher until leaves are well broken down.",
+            "Add limes and muddle until limes are juiced.",
+            "Pour rum into sugar mixture; add club soda and stir until sugar is dissolved.",
+            "Serve and enjoy!"
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "leaves fresh mint taste",
+            "medium limes quartered",
+            "rum such as bacardi",
+            "liter club soda"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 20,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Strawberry Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This strawberry mojito recipe makes a very refreshing drink for a hot summer day! I tasted this fruity cocktail at a popular chain restaurant and decided to try it at home. I have served it at several different gatherings, and it has always been given rave reviews.",
+        "ingredients": [
+            "white sugar, for rimming",
+            "2 large limes, quartered",
+            "½ bunch mint leaves",
+            "7 strawberries, quartered",
+            "1 cup white sugar",
+            "2 cups club soda",
+            "1 cup white rum",
+            "8 cups ice cubes"
+        ],
+        "directions": [
+            "Pour about 1/2 inch of sugar onto a small, shallow plate. Run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside.",
+            "Squeeze all of the lime wedges into a sturdy glass pitcher. Toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. Crush with a muddler to release strawberry juice and mint oil. Stir in club soda and rum until sugar has dissolved.",
+            "Pour into the prepared glasses over ice cubes to serve."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "white sugar for rimming large limes quartered ½ bunch mint leaves strawberries quartered white sugar club soda white rum ice cubes",
+        "directions_text": "pour about 1/2 inch of sugar onto a small, shallow plate. run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside. squeeze all of the lime wedges into a sturdy glass pitcher. toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. crush with a muddler to release strawberry juice and mint oil. stir in club soda and rum until sugar has dissolved. pour into the prepared glasses over ice cubes to serve.",
+        "combined_text": "strawberry mojito mojitos mojitos white sugar, for rimming 2 large limes, quartered ½ bunch mint leaves 7 strawberries, quartered 1 cup white sugar 2 cups club soda 1 cup white rum 8 cups ice cubes pour about 1/2 inch of sugar onto a small, shallow plate. run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside. squeeze all of the lime wedges into a sturdy glass pitcher. toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. crush with a muddler to release strawberry juice and mint oil. stir in club soda and rum until sugar has dissolved. pour into the prepared glasses over ice cubes to serve.",
+        "ingredients_raw": [
+            "white sugar, for rimming",
+            "2 large limes, quartered",
+            "½ bunch mint leaves",
+            "7 strawberries, quartered",
+            "1 cup white sugar",
+            "2 cups club soda",
+            "1 cup white rum",
+            "8 cups ice cubes"
+        ],
+        "directions_raw": [
+            "Pour about 1/2 inch of sugar onto a small, shallow plate. Run a lime wedge around the rims of 8 cocktail glasses, then dip the rims into sugar to coat; set aside.",
+            "Squeeze all of the lime wedges into a sturdy glass pitcher. Toss juiced limes into the pitcher along with mint, strawberries, and 1 cup sugar. Crush with a muddler to release strawberry juice and mint oil. Stir in club soda and rum until sugar has dissolved.",
+            "Pour into the prepared glasses over ice cubes to serve."
+        ],
+        "ingredients_canonical": [
+            "white sugar for rimming",
+            "large limes quartered",
+            "½ bunch mint leaves",
+            "strawberries quartered",
+            "white sugar",
+            "club soda",
+            "white rum",
+            "ice cubes"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 9,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cuban Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This Cuban mojito is very similar to the drinks I enjoyed in Varadero, Cuba. The muddling and the order of the ingredients helps ensure that all the flavors are well blended. Serve with a straw and a decorative stir stick to keep the different flavors well mixed together.",
+        "ingredients": [
+            "2 teaspoons white sugar",
+            "1 lime, cut into 4 wedges",
+            "4 sprigs fresh mint",
+            "2 cups crushed ice, or as needed",
+            "½ cup white rum",
+            "2 cups club soda"
+        ],
+        "directions": [
+            "Place 1 teaspoon sugar each into two 12-ounce glasses. Squeeze juice from a lime wedge into each glass and drop in the wedge. Place 2 mint sprigs into each glass. Use a spoon or muddler to mash lime mixture together in the bottom of the glasses.",
+            "Fill each glass about half full with crushed ice. Pour 1/4 cup rum into each glass. Fill the glasses with club soda, stir, and garnish with remaining lime wedges."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "white sugar lime cut into wedges sprigs fresh mint crushed ice as needed ½ white rum club soda",
+        "directions_text": "place 1 teaspoon sugar each into two 12-ounce glasses. squeeze juice from a lime wedge into each glass and drop in the wedge. place 2 mint sprigs into each glass. use a spoon or muddler to mash lime mixture together in the bottom of the glasses. fill each glass about half full with crushed ice. pour 1/4 cup rum into each glass. fill the glasses with club soda, stir, and garnish with remaining lime wedges.",
+        "combined_text": "cuban mojito mojitos mojitos 2 teaspoons white sugar 1 lime, cut into 4 wedges 4 sprigs fresh mint 2 cups crushed ice, or as needed ½ cup white rum 2 cups club soda place 1 teaspoon sugar each into two 12-ounce glasses. squeeze juice from a lime wedge into each glass and drop in the wedge. place 2 mint sprigs into each glass. use a spoon or muddler to mash lime mixture together in the bottom of the glasses. fill each glass about half full with crushed ice. pour 1/4 cup rum into each glass. fill the glasses with club soda, stir, and garnish with remaining lime wedges.",
+        "ingredients_raw": [
+            "2 teaspoons white sugar",
+            "1 lime, cut into 4 wedges",
+            "4 sprigs fresh mint",
+            "2 cups crushed ice, or as needed",
+            "½ cup white rum",
+            "2 cups club soda"
+        ],
+        "directions_raw": [
+            "Place 1 teaspoon sugar each into two 12-ounce glasses. Squeeze juice from a lime wedge into each glass and drop in the wedge. Place 2 mint sprigs into each glass. Use a spoon or muddler to mash lime mixture together in the bottom of the glasses.",
+            "Fill each glass about half full with crushed ice. Pour 1/4 cup rum into each glass. Fill the glasses with club soda, stir, and garnish with remaining lime wedges."
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "lime cut into wedges",
+            "sprigs fresh mint",
+            "crushed ice as needed",
+            "½ white rum",
+            "club soda"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 16,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mint-Cucumber Mojitos",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This refreshing version of mint mojitos features a springtime kick of cucumber. We love these at special gatherings and summer barbeques. A pitcher of this can be made a few hours in advance--just add alcohol at serving time.",
+        "ingredients": [
+            "1 lime, quartered",
+            "2 sprigs fresh mint leaves",
+            "1 tablespoon white sugar",
+            "2 slices cucumber",
+            "6 cubes ice, or as needed",
+            "2 ounces white rum (such as Bacardi®)",
+            "4 fluid ounces club soda"
+        ],
+        "directions": [
+            "Squeeze the lime quarters into a highball glass, and drop the limes into the glass. Add the mint leaves and sugar. Muddle well with the back of a spoon or with a muddler. Place the cucumber slices into the glass, and fill with ice cubes. Pour in the rum, then top off with club soda. Stir gently and serve."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "lime quartered sprigs fresh mint leaves white sugar slices cucumber cubes ice as needed ounces white rum such as bacardi fluid ounces club soda",
+        "directions_text": "squeeze the lime quarters into a highball glass, and drop the limes into the glass. add the mint leaves and sugar. muddle well with the back of a spoon or with a muddler. place the cucumber slices into the glass, and fill with ice cubes. pour in the rum, then top off with club soda. stir gently and serve.",
+        "combined_text": "mint-cucumber mojitos mojitos mojitos 1 lime, quartered 2 sprigs fresh mint leaves 1 tablespoon white sugar 2 slices cucumber 6 cubes ice, or as needed 2 ounces white rum (such as bacardi®) 4 fluid ounces club soda squeeze the lime quarters into a highball glass, and drop the limes into the glass. add the mint leaves and sugar. muddle well with the back of a spoon or with a muddler. place the cucumber slices into the glass, and fill with ice cubes. pour in the rum, then top off with club soda. stir gently and serve.",
+        "ingredients_raw": [
+            "1 lime, quartered",
+            "2 sprigs fresh mint leaves",
+            "1 tablespoon white sugar",
+            "2 slices cucumber",
+            "6 cubes ice, or as needed",
+            "2 ounces white rum (such as Bacardi®)",
+            "4 fluid ounces club soda"
+        ],
+        "directions_raw": [
+            "Squeeze the lime quarters into a highball glass, and drop the limes into the glass. Add the mint leaves and sugar. Muddle well with the back of a spoon or with a muddler. Place the cucumber slices into the glass, and fill with ice cubes. Pour in the rum, then top off with club soda. Stir gently and serve."
+        ],
+        "ingredients_canonical": [
+            "lime quartered",
+            "sprigs fresh mint leaves",
+            "white sugar",
+            "slices cucumber",
+            "cubes ice as needed",
+            "ounces white rum such as bacardi",
+            "fluid ounces club soda"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Patron Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "A yummy twist on the classic mojito.",
+        "ingredients": [
+            "2 fluid ounces silver tequila (such as Patron®)",
+            "12 leaves mint",
+            "1 tablespoon white sugar",
+            "3 lime wedges",
+            "¼ cup club soda, or as needed"
+        ],
+        "directions": [
+            "Combine tequila, mint, sugar, and lime in a tall glass; mash mint and lime well with a cocktail muddler. Top with club soda and stir gently to serve."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "fluid ounces silver tequila such as patron leaves mint white sugar lime wedges ¼ club soda as needed",
+        "directions_text": "combine tequila, mint, sugar, and lime in a tall glass; mash mint and lime well with a cocktail muddler. top with club soda and stir gently to serve.",
+        "combined_text": "patron mojito mojitos mojitos 2 fluid ounces silver tequila (such as patron®) 12 leaves mint 1 tablespoon white sugar 3 lime wedges ¼ cup club soda, or as needed combine tequila, mint, sugar, and lime in a tall glass; mash mint and lime well with a cocktail muddler. top with club soda and stir gently to serve.",
+        "ingredients_raw": [
+            "2 fluid ounces silver tequila (such as Patron®)",
+            "12 leaves mint",
+            "1 tablespoon white sugar",
+            "3 lime wedges",
+            "¼ cup club soda, or as needed"
+        ],
+        "directions_raw": [
+            "Combine tequila, mint, sugar, and lime in a tall glass; mash mint and lime well with a cocktail muddler. Top with club soda and stir gently to serve."
+        ],
+        "ingredients_canonical": [
+            "fluid ounces silver tequila such as patron",
+            "leaves mint",
+            "white sugar",
+            "lime wedges",
+            "¼ club soda as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cocojito (Frozen Mojito)",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This cocojito (frozen mojito) recipe will teach you how to make a yummy frozen drink with slight coconut sweetness. Add more cream of coconut for a sweeter drink. Add more rum for a stronger one.",
+        "ingredients": [
+            "4 cups ice cubes",
+            "7 fluid ounces sweetened cream of coconut (such as Coco Lopez)",
+            "2 ½ (1.5 fluid ounce) jiggers white rum (such as Bacardi)",
+            "5 sprigs fresh mint leaves, more for garnish",
+            "2 ½ limes, rinds removed",
+            "2 lime wedges, for garnish"
+        ],
+        "directions": [
+            "Place ice, cream of coconut, rum, 2½ limes, and 5 mint sprigs in a blender; blend until smooth. Pour into 2 glasses, garnish with mint sprigs and lime wedges."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 1,
+        "ingredient_text": "ice cubes fluid ounces sweetened cream coconut such as coco lopez ½ fluid ounce jiggers white rum such as bacardi sprigs fresh mint leaves more for garnish ½ limes rinds removed lime wedges for garnish",
+        "directions_text": "place ice, cream of coconut, rum, 2½ limes, and 5 mint sprigs in a blender; blend until smooth. pour into 2 glasses, garnish with mint sprigs and lime wedges.",
+        "combined_text": "cocojito (frozen mojito) mojitos mojitos 4 cups ice cubes 7 fluid ounces sweetened cream of coconut (such as coco lopez) 2 ½ (1.5 fluid ounce) jiggers white rum (such as bacardi) 5 sprigs fresh mint leaves, more for garnish 2 ½ limes, rinds removed 2 lime wedges, for garnish place ice, cream of coconut, rum, 2½ limes, and 5 mint sprigs in a blender; blend until smooth. pour into 2 glasses, garnish with mint sprigs and lime wedges.",
+        "ingredients_raw": [
+            "4 cups ice cubes",
+            "7 fluid ounces sweetened cream of coconut (such as Coco Lopez)",
+            "2 ½ (1.5 fluid ounce) jiggers white rum (such as Bacardi)",
+            "5 sprigs fresh mint leaves, more for garnish",
+            "2 ½ limes, rinds removed",
+            "2 lime wedges, for garnish"
+        ],
+        "directions_raw": [
+            "Place ice, cream of coconut, rum, 2½ limes, and 5 mint sprigs in a blender; blend until smooth. Pour into 2 glasses, garnish with mint sprigs and lime wedges."
+        ],
+        "ingredients_canonical": [
+            "ice cubes",
+            "fluid ounces sweetened cream coconut such as coco lopez",
+            "½ fluid ounce jiggers white rum such as bacardi",
+            "sprigs fresh mint leaves more for garnish",
+            "½ limes rinds removed",
+            "lime wedges for garnish"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pineapple Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "I love pineapple, and I love mojitos. So combining them in this pineapple mojito recipe was a winner. When fresh pineapples are available, I like to add a tablespoon of chopped pieces to my mojito and muddle them with the mint leaves.",
+        "ingredients": [
+            "10 fresh mint leaves, divided",
+            "1 tablespoon white sugar",
+            "1 tablespoon chopped fresh pineapple",
+            "ice",
+            "6 fluid ounces pineapple juice",
+            "2 fluid ounces rum",
+            "1 splash club soda",
+            "1 wedge fresh pineapple"
+        ],
+        "directions": [
+            "Muddle mint leaves, sugar, and pineapple in a highball glass.",
+            "Fill glass with ice cubes. Pour in pineapple juice and rum. Top with a splash of club soda. Garnish with pineapple wedge and remaining mint leaves."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "fresh mint leaves divided white sugar chopped fresh pineapple ice fluid ounces pineapple juice fluid ounces rum splash club soda wedge fresh pineapple",
+        "directions_text": "muddle mint leaves, sugar, and pineapple in a highball glass. fill glass with ice cubes. pour in pineapple juice and rum. top with a splash of club soda. garnish with pineapple wedge and remaining mint leaves.",
+        "combined_text": "pineapple mojito mojitos mojitos 10 fresh mint leaves, divided 1 tablespoon white sugar 1 tablespoon chopped fresh pineapple ice 6 fluid ounces pineapple juice 2 fluid ounces rum 1 splash club soda 1 wedge fresh pineapple muddle mint leaves, sugar, and pineapple in a highball glass. fill glass with ice cubes. pour in pineapple juice and rum. top with a splash of club soda. garnish with pineapple wedge and remaining mint leaves.",
+        "ingredients_raw": [
+            "10 fresh mint leaves, divided",
+            "1 tablespoon white sugar",
+            "1 tablespoon chopped fresh pineapple",
+            "ice",
+            "6 fluid ounces pineapple juice",
+            "2 fluid ounces rum",
+            "1 splash club soda",
+            "1 wedge fresh pineapple"
+        ],
+        "directions_raw": [
+            "Muddle mint leaves, sugar, and pineapple in a highball glass.",
+            "Fill glass with ice cubes. Pour in pineapple juice and rum. Top with a splash of club soda. Garnish with pineapple wedge and remaining mint leaves."
+        ],
+        "ingredients_canonical": [
+            "fresh mint leaves divided",
+            "white sugar",
+            "chopped fresh pineapple",
+            "ice",
+            "fluid ounces pineapple juice",
+            "fluid ounces rum",
+            "splash club soda",
+            "wedge fresh pineapple"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Watermelon Mojitos",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This watermelon mojito recipe is perfect for summertime parties, BBQs, birthdays, and girls' nights. Is there anything more summery than a fresh, juicy watermelon? This drink is refreshing, delicious, and super easy to make on a hot day — not to mention, it looks beautiful in your glass! So, why not kick back, relax, and enjoy a tall glass of this mouthwatering cocktail as your stresses melt away? Garnish with lime and watermelon slices, plus fresh mint if desired.",
+        "ingredients": [
+            "6 cups cubed seedless watermelon",
+            "50 fresh mint leaves",
+            "1 cup (8 fluid ounces) white rum",
+            "5 limes, juiced",
+            "⅔ cup simple syrup",
+            "2 cups ice cubes, or as needed",
+            "1 cup (8 fluid ounces) club soda, or as needed"
+        ],
+        "directions": [
+            "Place watermelon cubes into a blender; blend until smooth. Transfer to a mesh strainer set over a bowl to remove pulp. Measure 2 cups strained watermelon juice; set aside.",
+            "Place mint leaves in the bottom of a pitcher. Add ½ watermelon juice to the pitcher; mash mint leaves with a cocktail muddler or bottom of a wooden spoon.",
+            "Stir in remaining ½ watermelon juice, rum, lime juice, and simple syrup. Fill pitcher with ice; top with club soda to serve."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "cubed seedless watermelon fresh mint leaves fluid ounces white rum limes juiced ⅔ simple syrup ice cubes as needed fluid ounces club soda as needed",
+        "directions_text": "place watermelon cubes into a blender; blend until smooth. transfer to a mesh strainer set over a bowl to remove pulp. measure 2 cups strained watermelon juice; set aside. place mint leaves in the bottom of a pitcher. add ½ watermelon juice to the pitcher; mash mint leaves with a cocktail muddler or bottom of a wooden spoon. stir in remaining ½ watermelon juice, rum, lime juice, and simple syrup. fill pitcher with ice; top with club soda to serve.",
+        "combined_text": "watermelon mojitos mojitos mojitos 6 cups cubed seedless watermelon 50 fresh mint leaves 1 cup (8 fluid ounces) white rum 5 limes, juiced ⅔ cup simple syrup 2 cups ice cubes, or as needed 1 cup (8 fluid ounces) club soda, or as needed place watermelon cubes into a blender; blend until smooth. transfer to a mesh strainer set over a bowl to remove pulp. measure 2 cups strained watermelon juice; set aside. place mint leaves in the bottom of a pitcher. add ½ watermelon juice to the pitcher; mash mint leaves with a cocktail muddler or bottom of a wooden spoon. stir in remaining ½ watermelon juice, rum, lime juice, and simple syrup. fill pitcher with ice; top with club soda to serve.",
+        "ingredients_raw": [
+            "6 cups cubed seedless watermelon",
+            "50 fresh mint leaves",
+            "1 cup (8 fluid ounces) white rum",
+            "5 limes, juiced",
+            "⅔ cup simple syrup",
+            "2 cups ice cubes, or as needed",
+            "1 cup (8 fluid ounces) club soda, or as needed"
+        ],
+        "directions_raw": [
+            "Place watermelon cubes into a blender; blend until smooth. Transfer to a mesh strainer set over a bowl to remove pulp. Measure 2 cups strained watermelon juice; set aside.",
+            "Place mint leaves in the bottom of a pitcher. Add ½ watermelon juice to the pitcher; mash mint leaves with a cocktail muddler or bottom of a wooden spoon.",
+            "Stir in remaining ½ watermelon juice, rum, lime juice, and simple syrup. Fill pitcher with ice; top with club soda to serve."
+        ],
+        "ingredients_canonical": [
+            "cubed seedless watermelon",
+            "fresh mint leaves",
+            "fluid ounces white rum",
+            "limes juiced",
+            "⅔ simple syrup",
+            "ice cubes as needed",
+            "fluid ounces club soda as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 11,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Captain's Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This spiced rum mojito came after a friend of mine and I were trying to make use of spiced rum. This is our new favorite drink!",
+        "ingredients": [
+            "5 mint leaves",
+            "3 wedges lime",
+            "1 cup crushed ice",
+            "1 teaspoon simple syrup",
+            "½ teaspoon lime juice",
+            "2 fluid ounces spiced rum (such as Captain Morgan's®)",
+            "2 fluid ounces cranberry juice",
+            "2 fluid ounces soda water"
+        ],
+        "directions": [
+            "Place mint leaves, lime wedges, and ice into a cocktail shaker; mash well with a cocktail muddler. Pour in simple syrup, lime juice, rum, cranberry juice, and soda water. Cover and shake until the outside of the shaker has frosted. Strain into a chilled glass to serve."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "mint leaves wedges lime crushed ice simple syrup ½ lime juice fluid ounces spiced rum such as captain morgan s fluid ounces cranberry juice fluid ounces soda water",
+        "directions_text": "place mint leaves, lime wedges, and ice into a cocktail shaker; mash well with a cocktail muddler. pour in simple syrup, lime juice, rum, cranberry juice, and soda water. cover and shake until the outside of the shaker has frosted. strain into a chilled glass to serve.",
+        "combined_text": "captain's mojito mojitos mojitos 5 mint leaves 3 wedges lime 1 cup crushed ice 1 teaspoon simple syrup ½ teaspoon lime juice 2 fluid ounces spiced rum (such as captain morgan's®) 2 fluid ounces cranberry juice 2 fluid ounces soda water place mint leaves, lime wedges, and ice into a cocktail shaker; mash well with a cocktail muddler. pour in simple syrup, lime juice, rum, cranberry juice, and soda water. cover and shake until the outside of the shaker has frosted. strain into a chilled glass to serve.",
+        "ingredients_raw": [
+            "5 mint leaves",
+            "3 wedges lime",
+            "1 cup crushed ice",
+            "1 teaspoon simple syrup",
+            "½ teaspoon lime juice",
+            "2 fluid ounces spiced rum (such as Captain Morgan's®)",
+            "2 fluid ounces cranberry juice",
+            "2 fluid ounces soda water"
+        ],
+        "directions_raw": [
+            "Place mint leaves, lime wedges, and ice into a cocktail shaker; mash well with a cocktail muddler. Pour in simple syrup, lime juice, rum, cranberry juice, and soda water. Cover and shake until the outside of the shaker has frosted. Strain into a chilled glass to serve."
+        ],
+        "ingredients_canonical": [
+            "mint leaves",
+            "wedges lime",
+            "crushed ice",
+            "simple syrup",
+            "½ lime juice",
+            "fluid ounces spiced rum such as captain morgan s",
+            "fluid ounces cranberry juice",
+            "fluid ounces soda water"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Fresh Raspberry Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This fun, refreshing raspberry mojito puts a fresh berry twist on the classic mojito. It combines silver rum and raspberry vodka with fresh berries, lime juice, and mint leaves. Top it off with a splash of club soda. A house specialty at 230 Fifth in New York City, it's the perfect summer refresher.",
+        "ingredients": [
+            "4 fresh mint leaves",
+            "4 fresh raspberries",
+            "½ fluid ounce simple syrup",
+            "½ fluid ounce lime juice",
+            "ice",
+            "1 fluid ounce raspberry-flavored vodka",
+            "1 fluid ounce silver rum",
+            "2 fluid ounces club soda"
+        ],
+        "directions": [
+            "Muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. Fill the shaker with ice and add vodka and rum; cover and shake until chilled. Pour entire contents of shaker into a Collins glass and top with club soda."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "fresh mint leaves fresh raspberries ½ fluid ounce simple syrup ½ fluid ounce lime juice ice fluid ounce raspberry-flavored vodka fluid ounce silver rum fluid ounces club soda",
+        "directions_text": "muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. fill the shaker with ice and add vodka and rum; cover and shake until chilled. pour entire contents of shaker into a collins glass and top with club soda.",
+        "combined_text": "fresh raspberry mojito mojitos mojitos 4 fresh mint leaves 4 fresh raspberries ½ fluid ounce simple syrup ½ fluid ounce lime juice ice 1 fluid ounce raspberry-flavored vodka 1 fluid ounce silver rum 2 fluid ounces club soda muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. fill the shaker with ice and add vodka and rum; cover and shake until chilled. pour entire contents of shaker into a collins glass and top with club soda.",
+        "ingredients_raw": [
+            "4 fresh mint leaves",
+            "4 fresh raspberries",
+            "½ fluid ounce simple syrup",
+            "½ fluid ounce lime juice",
+            "ice",
+            "1 fluid ounce raspberry-flavored vodka",
+            "1 fluid ounce silver rum",
+            "2 fluid ounces club soda"
+        ],
+        "directions_raw": [
+            "Muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. Fill the shaker with ice and add vodka and rum; cover and shake until chilled. Pour entire contents of shaker into a Collins glass and top with club soda."
+        ],
+        "ingredients_canonical": [
+            "fresh mint leaves",
+            "fresh raspberries",
+            "½ fluid ounce simple syrup",
+            "½ fluid ounce lime juice",
+            "ice",
+            "fluid ounce raspberry-flavored vodka",
+            "fluid ounce silver rum",
+            "fluid ounces club soda"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mojito Perfecto",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "Trial and error pay off! Time-consuming mojito recipe, but so worth it.",
+        "ingredients": [
+            "6 mint leaves",
+            "4 teaspoons white sugar",
+            "1 lime, cut into 6 wedges",
+            "2 (1.5 fluid ounce) jiggers lemon-flavored rum",
+            "1 cup ice cubes, or as needed",
+            "½ cup carbonated water, or as needed"
+        ],
+        "directions": [
+            "Put 3 mint leaves and 2 teaspoons sugar into each of 2 glass tumblers; vigorously stir sugar and mint together, crushing mint with the back of a spoon to release oils.",
+            "Add 3 lime wedges to each glass; again stir vigorously to release some lime juice.",
+            "Pour 1 jigger rum into each glass, then fill glasses with ice cubes. Top with carbonated water; stir."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "mint leaves white sugar lime cut into wedges fluid ounce jiggers lemon-flavored rum ice cubes as needed ½ carbonated water as needed",
+        "directions_text": "put 3 mint leaves and 2 teaspoons sugar into each of 2 glass tumblers; vigorously stir sugar and mint together, crushing mint with the back of a spoon to release oils. add 3 lime wedges to each glass; again stir vigorously to release some lime juice. pour 1 jigger rum into each glass, then fill glasses with ice cubes. top with carbonated water; stir.",
+        "combined_text": "mojito perfecto mojitos mojitos 6 mint leaves 4 teaspoons white sugar 1 lime, cut into 6 wedges 2 (1.5 fluid ounce) jiggers lemon-flavored rum 1 cup ice cubes, or as needed ½ cup carbonated water, or as needed put 3 mint leaves and 2 teaspoons sugar into each of 2 glass tumblers; vigorously stir sugar and mint together, crushing mint with the back of a spoon to release oils. add 3 lime wedges to each glass; again stir vigorously to release some lime juice. pour 1 jigger rum into each glass, then fill glasses with ice cubes. top with carbonated water; stir.",
+        "ingredients_raw": [
+            "6 mint leaves",
+            "4 teaspoons white sugar",
+            "1 lime, cut into 6 wedges",
+            "2 (1.5 fluid ounce) jiggers lemon-flavored rum",
+            "1 cup ice cubes, or as needed",
+            "½ cup carbonated water, or as needed"
+        ],
+        "directions_raw": [
+            "Put 3 mint leaves and 2 teaspoons sugar into each of 2 glass tumblers; vigorously stir sugar and mint together, crushing mint with the back of a spoon to release oils.",
+            "Add 3 lime wedges to each glass; again stir vigorously to release some lime juice.",
+            "Pour 1 jigger rum into each glass, then fill glasses with ice cubes. Top with carbonated water; stir."
+        ],
+        "ingredients_canonical": [
+            "mint leaves",
+            "white sugar",
+            "lime cut into wedges",
+            "fluid ounce jiggers lemon-flavored rum",
+            "ice cubes as needed",
+            "½ carbonated water as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 9,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Good Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "I worked in a restaurant that was famous for its mojitos. Every server had their own style and this was mine.",
+        "ingredients": [
+            "½ lime, juiced",
+            "1 tablespoon white sugar",
+            "5 mint leaves",
+            "ice cubes",
+            "2 fluid ounces white rum",
+            "4 fluid ounces soda water",
+            "1 lime wedge"
+        ],
+        "directions": [
+            "Muddle the lime juice, sugar, and mint leaves together in the bottom of a cocktail glass until the mint has broken down a bit, about 1 minute. Fill the glass with ice cubes. Add the rum and soda water over the ice. Pour the mixture back and forth from from the glass to another glass to mix. Garnish with the lime wedge and enjoy."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "½ lime juiced white sugar mint leaves ice cubes fluid ounces white rum fluid ounces soda water lime wedge",
+        "directions_text": "muddle the lime juice, sugar, and mint leaves together in the bottom of a cocktail glass until the mint has broken down a bit, about 1 minute. fill the glass with ice cubes. add the rum and soda water over the ice. pour the mixture back and forth from from the glass to another glass to mix. garnish with the lime wedge and enjoy.",
+        "combined_text": "good mojito mojitos mojitos ½ lime, juiced 1 tablespoon white sugar 5 mint leaves ice cubes 2 fluid ounces white rum 4 fluid ounces soda water 1 lime wedge muddle the lime juice, sugar, and mint leaves together in the bottom of a cocktail glass until the mint has broken down a bit, about 1 minute. fill the glass with ice cubes. add the rum and soda water over the ice. pour the mixture back and forth from from the glass to another glass to mix. garnish with the lime wedge and enjoy.",
+        "ingredients_raw": [
+            "½ lime, juiced",
+            "1 tablespoon white sugar",
+            "5 mint leaves",
+            "ice cubes",
+            "2 fluid ounces white rum",
+            "4 fluid ounces soda water",
+            "1 lime wedge"
+        ],
+        "directions_raw": [
+            "Muddle the lime juice, sugar, and mint leaves together in the bottom of a cocktail glass until the mint has broken down a bit, about 1 minute. Fill the glass with ice cubes. Add the rum and soda water over the ice. Pour the mixture back and forth from from the glass to another glass to mix. Garnish with the lime wedge and enjoy."
+        ],
+        "ingredients_canonical": [
+            "½ lime juiced",
+            "white sugar",
+            "mint leaves",
+            "ice cubes",
+            "fluid ounces white rum",
+            "fluid ounces soda water",
+            "lime wedge"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Guava Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "Fresh, bright fruit and mint notes make this a sweet hit on hot days and warm evenings.",
+        "ingredients": [
+            "ice",
+            "4 sprigs fresh mint, divided",
+            "2 teaspoons white sugar",
+            "3 fluid ounces passion fruit-flavored rum",
+            "1 lime, juiced",
+            "3 fluid ounces unsweetened guava nectar",
+            "2 fluid ounces club soda, or as needed"
+        ],
+        "directions": [
+            "Fill a glass with ice.",
+            "Muddle 3 sprigs mint and sugar together in a cocktail shaker; add ice, rum, lime juice, and guava nectar. Cover and shake 10 times. Strain drink into glass filled with ice; add club soda and garnish with 1 mint sprig."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "ice sprigs fresh mint divided white sugar fluid ounces passion fruit-flavored rum lime juiced fluid ounces unsweetened guava nectar fluid ounces club soda as needed",
+        "directions_text": "fill a glass with ice. muddle 3 sprigs mint and sugar together in a cocktail shaker; add ice, rum, lime juice, and guava nectar. cover and shake 10 times. strain drink into glass filled with ice; add club soda and garnish with 1 mint sprig.",
+        "combined_text": "guava mojito mojitos mojitos ice 4 sprigs fresh mint, divided 2 teaspoons white sugar 3 fluid ounces passion fruit-flavored rum 1 lime, juiced 3 fluid ounces unsweetened guava nectar 2 fluid ounces club soda, or as needed fill a glass with ice. muddle 3 sprigs mint and sugar together in a cocktail shaker; add ice, rum, lime juice, and guava nectar. cover and shake 10 times. strain drink into glass filled with ice; add club soda and garnish with 1 mint sprig.",
+        "ingredients_raw": [
+            "ice",
+            "4 sprigs fresh mint, divided",
+            "2 teaspoons white sugar",
+            "3 fluid ounces passion fruit-flavored rum",
+            "1 lime, juiced",
+            "3 fluid ounces unsweetened guava nectar",
+            "2 fluid ounces club soda, or as needed"
+        ],
+        "directions_raw": [
+            "Fill a glass with ice.",
+            "Muddle 3 sprigs mint and sugar together in a cocktail shaker; add ice, rum, lime juice, and guava nectar. Cover and shake 10 times. Strain drink into glass filled with ice; add club soda and garnish with 1 mint sprig."
+        ],
+        "ingredients_canonical": [
+            "ice",
+            "sprigs fresh mint divided",
+            "white sugar",
+            "fluid ounces passion fruit-flavored rum",
+            "lime juiced",
+            "fluid ounces unsweetened guava nectar",
+            "fluid ounces club soda as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Summertime Strawberry Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "Strawberry syrup adds a delicious fruity twist to the lime and mint base of this refreshing summertime favorite.",
+        "ingredients": [
+            "5 limes",
+            "1 bunch mint sprigs, plus more for garnish",
+            "1 cup white rum",
+            "½ cup strawberry syrup (such as Torani®)",
+            "2 cups chilled club soda",
+            "6 cups ice cubes",
+            "2 tablespoons Sugar for rimming glasses",
+            "6 strawberries, for garnish"
+        ],
+        "directions": [
+            "Juice 4 limes, yielding about 1/2 cup juice, and cut remaining lime into 6 wedges.",
+            "Grasp mint sprig stems and slap leaves against a work surface to help release their oil; transfer to a sturdy glass pitcher. Stir in lime juice, rum, and strawberry syrup. Add club soda.",
+            "Spread 1/4 to 1/2 inch sugar on a small, shallow plate. Run a lime wedge around the rim of each glass, then dip glass into sugar. Fill with ice. Pour in mojito mixture. Garnish with mint sprigs and strawberries."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "limes bunch mint sprigs plus more for garnish white rum ½ strawberry syrup such as torani chilled club soda ice cubes sugar for rimming glasses strawberries for garnish",
+        "directions_text": "juice 4 limes, yielding about 1/2 cup juice, and cut remaining lime into 6 wedges. grasp mint sprig stems and slap leaves against a work surface to help release their oil; transfer to a sturdy glass pitcher. stir in lime juice, rum, and strawberry syrup. add club soda. spread 1/4 to 1/2 inch sugar on a small, shallow plate. run a lime wedge around the rim of each glass, then dip glass into sugar. fill with ice. pour in mojito mixture. garnish with mint sprigs and strawberries.",
+        "combined_text": "summertime strawberry mojito mojitos mojitos 5 limes 1 bunch mint sprigs, plus more for garnish 1 cup white rum ½ cup strawberry syrup (such as torani®) 2 cups chilled club soda 6 cups ice cubes 2 tablespoons sugar for rimming glasses 6 strawberries, for garnish juice 4 limes, yielding about 1/2 cup juice, and cut remaining lime into 6 wedges. grasp mint sprig stems and slap leaves against a work surface to help release their oil; transfer to a sturdy glass pitcher. stir in lime juice, rum, and strawberry syrup. add club soda. spread 1/4 to 1/2 inch sugar on a small, shallow plate. run a lime wedge around the rim of each glass, then dip glass into sugar. fill with ice. pour in mojito mixture. garnish with mint sprigs and strawberries.",
+        "ingredients_raw": [
+            "5 limes",
+            "1 bunch mint sprigs, plus more for garnish",
+            "1 cup white rum",
+            "½ cup strawberry syrup (such as Torani®)",
+            "2 cups chilled club soda",
+            "6 cups ice cubes",
+            "2 tablespoons Sugar for rimming glasses",
+            "6 strawberries, for garnish"
+        ],
+        "directions_raw": [
+            "Juice 4 limes, yielding about 1/2 cup juice, and cut remaining lime into 6 wedges.",
+            "Grasp mint sprig stems and slap leaves against a work surface to help release their oil; transfer to a sturdy glass pitcher. Stir in lime juice, rum, and strawberry syrup. Add club soda.",
+            "Spread 1/4 to 1/2 inch sugar on a small, shallow plate. Run a lime wedge around the rim of each glass, then dip glass into sugar. Fill with ice. Pour in mojito mixture. Garnish with mint sprigs and strawberries."
+        ],
+        "ingredients_canonical": [
+            "limes",
+            "bunch mint sprigs plus more for garnish",
+            "white rum",
+            "½ strawberry syrup such as torani",
+            "chilled club soda",
+            "ice cubes",
+            "sugar for rimming glasses",
+            "strawberries for garnish"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 14,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bubbly Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This bubbly mojito recipe is a slight tweak on the typical cocktail, but it makes an incredible summertime drink so much better! You can use sparkling wine in place of Champagne, if desired. Garnish with a mint sprig.",
+        "ingredients": [
+            "10 fresh mint leaves",
+            "2 teaspoons white sugar",
+            "2 fluid ounces white rum",
+            "½ lime, quartered",
+            "4 fluid ounces sparkling white wine",
+            "¼ cup crushed ice"
+        ],
+        "directions": [
+            "Place mint leaves and sugar in the bottom of a Collins glass; mash well with a cocktail muddler. Add rum and lime wedges to the glass; muddle. Top with sparkling wine and crushed ice."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 1,
+        "ingredient_text": "fresh mint leaves white sugar fluid ounces white rum ½ lime quartered fluid ounces sparkling white wine ¼ crushed ice",
+        "directions_text": "place mint leaves and sugar in the bottom of a collins glass; mash well with a cocktail muddler. add rum and lime wedges to the glass; muddle. top with sparkling wine and crushed ice.",
+        "combined_text": "bubbly mojito mojitos mojitos 10 fresh mint leaves 2 teaspoons white sugar 2 fluid ounces white rum ½ lime, quartered 4 fluid ounces sparkling white wine ¼ cup crushed ice place mint leaves and sugar in the bottom of a collins glass; mash well with a cocktail muddler. add rum and lime wedges to the glass; muddle. top with sparkling wine and crushed ice.",
+        "ingredients_raw": [
+            "10 fresh mint leaves",
+            "2 teaspoons white sugar",
+            "2 fluid ounces white rum",
+            "½ lime, quartered",
+            "4 fluid ounces sparkling white wine",
+            "¼ cup crushed ice"
+        ],
+        "directions_raw": [
+            "Place mint leaves and sugar in the bottom of a Collins glass; mash well with a cocktail muddler. Add rum and lime wedges to the glass; muddle. Top with sparkling wine and crushed ice."
+        ],
+        "ingredients_canonical": [
+            "fresh mint leaves",
+            "white sugar",
+            "fluid ounces white rum",
+            "½ lime quartered",
+            "fluid ounces sparkling white wine",
+            "¼ crushed ice"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Dragon Fruit Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This mojito kicks the traditional lime to the curb and replaces it with dragon fruit. To get a unique 'serving container' save the fruit outer peel and once the flesh is removed, use the empty halves as a beverage glass.",
+        "ingredients": [
+            "2 tablespoons white sugar",
+            "2 teaspoons white sugar",
+            "16 leaves fresh mint",
+            "1 cup light rum",
+            "1 dragon fruit, halved and flesh removed",
+            "1 liter chilled club soda"
+        ],
+        "directions": [
+            "Mix 2 tablespoons plus 2 teaspoons sugar with mint in the bottom of a highball glass.",
+            "Combine rum and dragon fruit flesh in a blender; blend until smooth. Pour rum mixture over the muddled mint mixture. Stir to incorporate.",
+            "Divide mixture between 4 double old-fashioned glasses. Top each drink with equal amounts of club soda."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "white sugar white sugar leaves fresh mint light rum dragon fruit halved flesh removed liter chilled club soda",
+        "directions_text": "mix 2 tablespoons plus 2 teaspoons sugar with mint in the bottom of a highball glass. combine rum and dragon fruit flesh in a blender; blend until smooth. pour rum mixture over the muddled mint mixture. stir to incorporate. divide mixture between 4 double old-fashioned glasses. top each drink with equal amounts of club soda.",
+        "combined_text": "dragon fruit mojito mojitos mojitos 2 tablespoons white sugar 2 teaspoons white sugar 16 leaves fresh mint 1 cup light rum 1 dragon fruit, halved and flesh removed 1 liter chilled club soda mix 2 tablespoons plus 2 teaspoons sugar with mint in the bottom of a highball glass. combine rum and dragon fruit flesh in a blender; blend until smooth. pour rum mixture over the muddled mint mixture. stir to incorporate. divide mixture between 4 double old-fashioned glasses. top each drink with equal amounts of club soda.",
+        "ingredients_raw": [
+            "2 tablespoons white sugar",
+            "2 teaspoons white sugar",
+            "16 leaves fresh mint",
+            "1 cup light rum",
+            "1 dragon fruit, halved and flesh removed",
+            "1 liter chilled club soda"
+        ],
+        "directions_raw": [
+            "Mix 2 tablespoons plus 2 teaspoons sugar with mint in the bottom of a highball glass.",
+            "Combine rum and dragon fruit flesh in a blender; blend until smooth. Pour rum mixture over the muddled mint mixture. Stir to incorporate.",
+            "Divide mixture between 4 double old-fashioned glasses. Top each drink with equal amounts of club soda."
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "white sugar",
+            "leaves fresh mint",
+            "light rum",
+            "dragon fruit halved flesh removed",
+            "liter chilled club soda"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "bitter",
+        "fast_hits": 8,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 9,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Minty Mango Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This is a fun alternative to a standard mojito that I kinda came up with just playing around one day! Perfect drink for sipping by the pool, or chugging after a long day of work! If you want to be real fancy, feel free to garnish glass with mint, lime, and/or mango.",
+        "ingredients": [
+            "1 cup water",
+            "1 cup white sugar",
+            "12 fresh mint leaves, or more to taste"
+        ],
+        "directions": [
+            "Combine water and sugar in a small pot over medium heat. Whisk until sugar dissolves in the water. Add 12 mint leaves. Bring to a boil and whisk for 1 minute. Remove from heat and let cool, about 30 minutes.",
+            "Place lime and 12 mint leaves in a glass; mash together with a muddler to extract flavors. Add fresh mango; muddle until combined. Stir in 2 tablespoons of the mint simple syrup. Stir in coconut rum. Fill glass with ice and top with club soda. Stir 1 more time to distribute flavors."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 2,
+        "ingredient_text": "water white sugar fresh mint leaves more taste",
+        "directions_text": "combine water and sugar in a small pot over medium heat. whisk until sugar dissolves in the water. add 12 mint leaves. bring to a boil and whisk for 1 minute. remove from heat and let cool, about 30 minutes. place lime and 12 mint leaves in a glass; mash together with a muddler to extract flavors. add fresh mango; muddle until combined. stir in 2 tablespoons of the mint simple syrup. stir in coconut rum. fill glass with ice and top with club soda. stir 1 more time to distribute flavors.",
+        "combined_text": "minty mango mojito mojitos mojitos 1 cup water 1 cup white sugar 12 fresh mint leaves, or more to taste combine water and sugar in a small pot over medium heat. whisk until sugar dissolves in the water. add 12 mint leaves. bring to a boil and whisk for 1 minute. remove from heat and let cool, about 30 minutes. place lime and 12 mint leaves in a glass; mash together with a muddler to extract flavors. add fresh mango; muddle until combined. stir in 2 tablespoons of the mint simple syrup. stir in coconut rum. fill glass with ice and top with club soda. stir 1 more time to distribute flavors.",
+        "ingredients_raw": [
+            "1 cup water",
+            "1 cup white sugar",
+            "12 fresh mint leaves, or more to taste"
+        ],
+        "directions_raw": [
+            "Combine water and sugar in a small pot over medium heat. Whisk until sugar dissolves in the water. Add 12 mint leaves. Bring to a boil and whisk for 1 minute. Remove from heat and let cool, about 30 minutes.",
+            "Place lime and 12 mint leaves in a glass; mash together with a muddler to extract flavors. Add fresh mango; muddle until combined. Stir in 2 tablespoons of the mint simple syrup. Stir in coconut rum. Fill glass with ice and top with club soda. Stir 1 more time to distribute flavors."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "white sugar",
+            "fresh mint leaves more taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "The Mojito Cocktail",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This classic cocktail from Cuba is packed with fresh mint, lime juice, and rum and topped with club soda.",
+        "ingredients": [
+            "2 tablespoons white sugar",
+            "4 sprigs fresh mint",
+            "1 fluid ounce club soda",
+            "1 lime, halved",
+            "2 fluid ounces light rum",
+            "1 ½ cups ice",
+            "2 fluid ounces club soda",
+            "1 sprig fresh mint"
+        ],
+        "directions": [
+            "Muddle sugar and mint with soda water in pint glass. Squeeze both halves of lime into the glass leaving one hull in the mixture. Add rum, stir, and fill with ice. Top with club soda.",
+            "Garnish with a mint sprig."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "white sugar sprigs fresh mint fluid ounce club soda lime halved fluid ounces light rum ½ ice fluid ounces club soda sprig fresh mint",
+        "directions_text": "muddle sugar and mint with soda water in pint glass. squeeze both halves of lime into the glass leaving one hull in the mixture. add rum, stir, and fill with ice. top with club soda. garnish with a mint sprig.",
+        "combined_text": "the mojito cocktail mojitos mojitos 2 tablespoons white sugar 4 sprigs fresh mint 1 fluid ounce club soda 1 lime, halved 2 fluid ounces light rum 1 ½ cups ice 2 fluid ounces club soda 1 sprig fresh mint muddle sugar and mint with soda water in pint glass. squeeze both halves of lime into the glass leaving one hull in the mixture. add rum, stir, and fill with ice. top with club soda. garnish with a mint sprig.",
+        "ingredients_raw": [
+            "2 tablespoons white sugar",
+            "4 sprigs fresh mint",
+            "1 fluid ounce club soda",
+            "1 lime, halved",
+            "2 fluid ounces light rum",
+            "1 ½ cups ice",
+            "2 fluid ounces club soda",
+            "1 sprig fresh mint"
+        ],
+        "directions_raw": [
+            "Muddle sugar and mint with soda water in pint glass. Squeeze both halves of lime into the glass leaving one hull in the mixture. Add rum, stir, and fill with ice. Top with club soda.",
+            "Garnish with a mint sprig."
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "sprigs fresh mint",
+            "fluid ounce club soda",
+            "lime halved",
+            "fluid ounces light rum",
+            "½ ice",
+            "fluid ounces club soda",
+            "sprig fresh mint"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mojiteas",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "Based off my mint tea punch recipe, this is a quick and easy way to make an adult pitcher drink that is wonderful for those hot summer nights! The mint and rum make this cocktail reminiscent of a mojito, but the tea and juices give it an added twist! Add more rum to make it stronger, or reduce the kick by adding less rum and more cold water. It's a versatile, refreshing, and above all, easy drink to make. Serve over ice, and garnish each glass with orange and lemon slices and a sprig of mint. Enjoy!",
+        "ingredients": [
+            "4 tea bags",
+            "12 sprigs fresh mint",
+            "3 cups boiling water",
+            "1 cup white sugar",
+            "1 cup orange juice",
+            "¼ cup lemon juice",
+            "3 cups cold water, or more to taste",
+            "1 cup light rum, or more to taste"
+        ],
+        "directions": [
+            "Place tea bags and mint sprigs into a large pitcher. Pour in boiling water; steep for 8 to 10 minutes. Remove tea bags and mint; before discarding, squeeze excess tea back into pitcher. Stir in sugar until dissolved; add orange juice and lemon juice. Pour in cold water and rum. Refrigerate at least 4 hours to overnight."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "tea bags sprigs fresh mint boiling water white sugar orange juice ¼ lemon juice cold water more taste light rum more taste",
+        "directions_text": "place tea bags and mint sprigs into a large pitcher. pour in boiling water; steep for 8 to 10 minutes. remove tea bags and mint; before discarding, squeeze excess tea back into pitcher. stir in sugar until dissolved; add orange juice and lemon juice. pour in cold water and rum. refrigerate at least 4 hours to overnight.",
+        "combined_text": "mojiteas mojitos mojitos 4 tea bags 12 sprigs fresh mint 3 cups boiling water 1 cup white sugar 1 cup orange juice ¼ cup lemon juice 3 cups cold water, or more to taste 1 cup light rum, or more to taste place tea bags and mint sprigs into a large pitcher. pour in boiling water; steep for 8 to 10 minutes. remove tea bags and mint; before discarding, squeeze excess tea back into pitcher. stir in sugar until dissolved; add orange juice and lemon juice. pour in cold water and rum. refrigerate at least 4 hours to overnight.",
+        "ingredients_raw": [
+            "4 tea bags",
+            "12 sprigs fresh mint",
+            "3 cups boiling water",
+            "1 cup white sugar",
+            "1 cup orange juice",
+            "¼ cup lemon juice",
+            "3 cups cold water, or more to taste",
+            "1 cup light rum, or more to taste"
+        ],
+        "directions_raw": [
+            "Place tea bags and mint sprigs into a large pitcher. Pour in boiling water; steep for 8 to 10 minutes. Remove tea bags and mint; before discarding, squeeze excess tea back into pitcher. Stir in sugar until dissolved; add orange juice and lemon juice. Pour in cold water and rum. Refrigerate at least 4 hours to overnight."
+        ],
+        "ingredients_canonical": [
+            "tea bags",
+            "sprigs fresh mint",
+            "boiling water",
+            "white sugar",
+            "orange juice",
+            "¼ lemon juice",
+            "cold water more taste",
+            "light rum more taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 32,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "No-Sweat Mojito",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "This no-sweat mojito recipe is super simple to make with rum, mint leaves, and lime-flavored seltzer to create a cocktail for two in no time!",
+        "ingredients": [
+            "6 sprigs fresh mint, divided",
+            "1 teaspoon white sugar",
+            "3 ounces white rum",
+            "1 (12 fluid ounce) can lime-flavored seltzer water"
+        ],
+        "directions": [
+            "Muddle 4 mint sprigs and sugar together in a mixing glass until crushed.",
+            "Add rum and stir to dissolve sugar. Strain into 2 ice-filled Collins or rocks glasses. Top with lime-flavored seltzer and garnish each glass with a remaining mint sprig."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 2,
+        "ingredient_text": "sprigs fresh mint divided white sugar ounces white rum fluid ounce can lime-flavored seltzer water",
+        "directions_text": "muddle 4 mint sprigs and sugar together in a mixing glass until crushed. add rum and stir to dissolve sugar. strain into 2 ice-filled collins or rocks glasses. top with lime-flavored seltzer and garnish each glass with a remaining mint sprig.",
+        "combined_text": "no-sweat mojito mojitos mojitos 6 sprigs fresh mint, divided 1 teaspoon white sugar 3 ounces white rum 1 (12 fluid ounce) can lime-flavored seltzer water muddle 4 mint sprigs and sugar together in a mixing glass until crushed. add rum and stir to dissolve sugar. strain into 2 ice-filled collins or rocks glasses. top with lime-flavored seltzer and garnish each glass with a remaining mint sprig.",
+        "ingredients_raw": [
+            "6 sprigs fresh mint, divided",
+            "1 teaspoon white sugar",
+            "3 ounces white rum",
+            "1 (12 fluid ounce) can lime-flavored seltzer water"
+        ],
+        "directions_raw": [
+            "Muddle 4 mint sprigs and sugar together in a mixing glass until crushed.",
+            "Add rum and stir to dissolve sugar. Strain into 2 ice-filled Collins or rocks glasses. Top with lime-flavored seltzer and garnish each glass with a remaining mint sprig."
+        ],
+        "ingredients_canonical": [
+            "sprigs fresh mint divided",
+            "white sugar",
+            "ounces white rum",
+            "fluid ounce can lime-flavored seltzer water"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Fruity Mojitos",
+        "category": "Mojitos",
+        "subcategory": "Mojitos",
+        "description": "Delicious rendition of traditional mojitos. An array of fruit makes this the perfect summer lake drink. Serve over ice.",
+        "ingredients": [
+            "5 cups spiced rum",
+            "5 cups white sugar",
+            "5 cups water",
+            "¼ cup slightly crushed fresh mint leaves, or more to taste",
+            "5 lemons, quartered",
+            "5 limes, quartered",
+            "5 oranges, quartered",
+            "4 (2 liter) bottles lemon-lime carbonated beverage (such as 7Up®)"
+        ],
+        "directions": [
+            "Combine rum, sugar, and water in a larger container or 3-gallon cooler or drink dispenser until sugar is dissolved. Add mint, lemons, limes, and oranges and mix well. Allow flavors to combine for about 30 minutes. Pour lemon-lime beverage into rum-fruit mixture and stir to combine."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "spiced rum white sugar water ¼ slightly crushed fresh mint leaves more taste lemons quartered limes quartered oranges quartered liter bottles lemon-lime carbonated beverage such as up",
+        "directions_text": "combine rum, sugar, and water in a larger container or 3-gallon cooler or drink dispenser until sugar is dissolved. add mint, lemons, limes, and oranges and mix well. allow flavors to combine for about 30 minutes. pour lemon-lime beverage into rum-fruit mixture and stir to combine.",
+        "combined_text": "fruity mojitos mojitos mojitos 5 cups spiced rum 5 cups white sugar 5 cups water ¼ cup slightly crushed fresh mint leaves, or more to taste 5 lemons, quartered 5 limes, quartered 5 oranges, quartered 4 (2 liter) bottles lemon-lime carbonated beverage (such as 7up®) combine rum, sugar, and water in a larger container or 3-gallon cooler or drink dispenser until sugar is dissolved. add mint, lemons, limes, and oranges and mix well. allow flavors to combine for about 30 minutes. pour lemon-lime beverage into rum-fruit mixture and stir to combine.",
+        "ingredients_raw": [
+            "5 cups spiced rum",
+            "5 cups white sugar",
+            "5 cups water",
+            "¼ cup slightly crushed fresh mint leaves, or more to taste",
+            "5 lemons, quartered",
+            "5 limes, quartered",
+            "5 oranges, quartered",
+            "4 (2 liter) bottles lemon-lime carbonated beverage (such as 7Up®)"
+        ],
+        "directions_raw": [
+            "Combine rum, sugar, and water in a larger container or 3-gallon cooler or drink dispenser until sugar is dissolved. Add mint, lemons, limes, and oranges and mix well. Allow flavors to combine for about 30 minutes. Pour lemon-lime beverage into rum-fruit mixture and stir to combine."
+        ],
+        "ingredients_canonical": [
+            "spiced rum",
+            "white sugar",
+            "water",
+            "¼ slightly crushed fresh mint leaves more taste",
+            "lemons quartered",
+            "limes quartered",
+            "oranges quartered",
+            "liter bottles lemon-lime carbonated beverage such as up"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region",
+            "thai",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    }
+]

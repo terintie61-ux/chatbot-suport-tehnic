@@ -1,0 +1,2190 @@
+[
+    {
+        "recipe_title": "Liver Pâté",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This chicken liver pâté recipe makes a delicious savory appetizer for any holiday, party, or get-together. Serve with thinly sliced brown bread, rye crisps, or crackers.",
+        "ingredients": [
+            "1 pound chicken livers",
+            "1 medium onion, thinly sliced",
+            "¾ cup butter, softened",
+            "¼ cup chopped onion",
+            "3 tablespoons cooking sherry",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "⅛ teaspoon ground mace"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Combine livers and sliced onion in a medium saucepan. Pour in about 3 cups water and bring to a boil.",
+            "Reduce heat to low, cover, and simmer until liver is tender, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "Remove from heat and drain. Discard sliced onion, and remove and discard any hard portions of the livers.",
+            "Process cooked livers in a food processor until smooth.",
+            "Add butter, chopped onion, sherry, butter, salt, pepper, and mace; pulse to blend.",
+            "Form mixture into a mound with lightly greased hands. Place onto a serving platter; cover and chill for 1 hour before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 7,
+        "ingredient_text": "pound chicken livers medium onion thinly sliced ¾ butter softened ¼ chopped onion cooking sherry ¼ salt ¼ ground black pepper ⅛ ground mace",
+        "directions_text": "gather all ingredients. combine livers and sliced onion in a medium saucepan. pour in about 3 cups water and bring to a boil. reduce heat to low, cover, and simmer until liver is tender, about 20 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). remove from heat and drain. discard sliced onion, and remove and discard any hard portions of the livers. process cooked livers in a food processor until smooth. add butter, chopped onion, sherry, butter, salt, pepper, and mace; pulse to blend. form mixture into a mound with lightly greased hands. place onto a serving platter; cover and chill for 1 hour before serving.",
+        "combined_text": "liver pâté pate pate 1 pound chicken livers 1 medium onion, thinly sliced ¾ cup butter, softened ¼ cup chopped onion 3 tablespoons cooking sherry ¼ teaspoon salt ¼ teaspoon ground black pepper ⅛ teaspoon ground mace gather all ingredients. combine livers and sliced onion in a medium saucepan. pour in about 3 cups water and bring to a boil. reduce heat to low, cover, and simmer until liver is tender, about 20 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). remove from heat and drain. discard sliced onion, and remove and discard any hard portions of the livers. process cooked livers in a food processor until smooth. add butter, chopped onion, sherry, butter, salt, pepper, and mace; pulse to blend. form mixture into a mound with lightly greased hands. place onto a serving platter; cover and chill for 1 hour before serving.",
+        "ingredients_raw": [
+            "1 pound chicken livers",
+            "1 medium onion, thinly sliced",
+            "¾ cup butter, softened",
+            "¼ cup chopped onion",
+            "3 tablespoons cooking sherry",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "⅛ teaspoon ground mace"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Combine livers and sliced onion in a medium saucepan. Pour in about 3 cups water and bring to a boil.",
+            "Reduce heat to low, cover, and simmer until liver is tender, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "Remove from heat and drain. Discard sliced onion, and remove and discard any hard portions of the livers.",
+            "Process cooked livers in a food processor until smooth.",
+            "Add butter, chopped onion, sherry, butter, salt, pepper, and mace; pulse to blend.",
+            "Form mixture into a mound with lightly greased hands. Place onto a serving platter; cover and chill for 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "pound chicken livers",
+            "medium onion thinly sliced",
+            "¾ butter softened",
+            "¼ chopped onion",
+            "cooking sherry",
+            "¼ salt",
+            "¼ ground black pepper",
+            "⅛ ground mace"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 65,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Easy to prepare and great at parties. Chicken liver may be used instead of braunschweiger. Spread on crackers with your favorite cheeses.",
+        "ingredients": [
+            "8 ounces braunschweiger liver sausage",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 tablespoon minced onion",
+            "2 teaspoons lemon juice",
+            "1 teaspoon Worcestershire sauce",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "In a medium bowl, mix braunschweiger liver sausage, cream cheese, onion, lemon juice, Worcestershire sauce, salt and pepper. Form into a ball shape. Wrap with plastic wrap. Chill in the refrigerator at least 1 hour before serving."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 1,
+        "ingredient_text": "ounces braunschweiger liver sausage ounce package cream cheese softened minced onion lemon juice worcestershire sauce salt pepper taste",
+        "directions_text": "in a medium bowl, mix braunschweiger liver sausage, cream cheese, onion, lemon juice, worcestershire sauce, salt and pepper. form into a ball shape. wrap with plastic wrap. chill in the refrigerator at least 1 hour before serving.",
+        "combined_text": "pate pate pate 8 ounces braunschweiger liver sausage 1 (8 ounce) package cream cheese, softened 1 tablespoon minced onion 2 teaspoons lemon juice 1 teaspoon worcestershire sauce salt and pepper to taste in a medium bowl, mix braunschweiger liver sausage, cream cheese, onion, lemon juice, worcestershire sauce, salt and pepper. form into a ball shape. wrap with plastic wrap. chill in the refrigerator at least 1 hour before serving.",
+        "ingredients_raw": [
+            "8 ounces braunschweiger liver sausage",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 tablespoon minced onion",
+            "2 teaspoons lemon juice",
+            "1 teaspoon Worcestershire sauce",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "In a medium bowl, mix braunschweiger liver sausage, cream cheese, onion, lemon juice, Worcestershire sauce, salt and pepper. Form into a ball shape. Wrap with plastic wrap. Chill in the refrigerator at least 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "ounces braunschweiger liver sausage",
+            "ounce package cream cheese softened",
+            "minced onion",
+            "lemon juice",
+            "worcestershire sauce",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Pate de Campagne",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "I realize making this pate may seem like quite a production, but if you enjoy charcuterie, this would make for a very fun, beautiful, and quite delicious project.",
+        "ingredients": [
+            "1 teaspoon ground cloves",
+            "1 teaspoon ground nutmeg",
+            "1 teaspoon ground ginger",
+            "1 teaspoon cayenne pepper"
+        ],
+        "directions": [
+            "Combine cloves, nutmeg, ginger, and cayenne pepper in a small bowl to make spice mixture.",
+            "Place pork shoulder, duck meat, chopped bacon, chicken livers, onion, shallot, parsley, cognac, salt, garlic, pepper, 3/4 teaspoon spice mixture, and pink curing salt in a large bowl. Mix thoroughly until evenly distributed. Cover with plastic wrap and refrigerate about 2 hours.",
+            "Whisk cream, bread crumbs, and eggs together in a bowl.",
+            "Transfer pork mixture to a rimmed baking sheet lined with a silicone mat or parchment. Freeze for 15 to 20 minutes to facilitate grinding the meat.",
+            "Grind pork mixture into a bowl using the meat-grinder attachment of a stand mixer. Add dried cherries and pistachios. Add the cream mixture; fold gently until just combined.",
+            "Arrange bacon strips crosswise in a 9x5-inch loaf pan, letting ends hang over the edges of the pan. Trim some strips to fit the ends of the pan.",
+            "Fill pan to the top with the ground pork mixture; smooth the top. Cover surface with strips of bacon. Fold side bacon piece edges over the top. Cover with a piece of parchment cut to fit the top of the pan; wrap tightly with heavy duty aluminum foil.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Transfer pan to a deep pot or Dutch oven. Pour in hot tap water to reach 1/2 to 2/3 of the way up the side of the pan. Cover.",
+            "Bake in the preheated oven until an instant-read thermometer inserted into the center reads 155 degrees F (68 degrees C), 1 3/4 to 2 hours.",
+            "Transfer pan to a paper-towel lined surface to absorb any moisture. If mixture has risen above the top edge of the pan, press it down with a heavy pan. Remove the aluminum foil, leaving the parchment paper on top. Transfer pan to a paper-towel-lined baking dish. Cut a piece of cardboard to be slightly smaller than the top of the pan. Wrap with aluminum foil and place on the parchment paper. Press down with weights like canned food.",
+            "Refrigerate at least 8 hours to chill and compress the pate.",
+            "To unmold the pate, pour very hot water into a large bowl. Dip mold into hot water for 1 to 2 seconds. Turn out onto a paper-towel-lined dish; chill again before slicing."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 13,
+        "ingredient_text": "ground cloves ground nutmeg ground ginger cayenne pepper",
+        "directions_text": "combine cloves, nutmeg, ginger, and cayenne pepper in a small bowl to make spice mixture. place pork shoulder, duck meat, chopped bacon, chicken livers, onion, shallot, parsley, cognac, salt, garlic, pepper, 3/4 teaspoon spice mixture, and pink curing salt in a large bowl. mix thoroughly until evenly distributed. cover with plastic wrap and refrigerate about 2 hours. whisk cream, bread crumbs, and eggs together in a bowl. transfer pork mixture to a rimmed baking sheet lined with a silicone mat or parchment. freeze for 15 to 20 minutes to facilitate grinding the meat. grind pork mixture into a bowl using the meat-grinder attachment of a stand mixer. add dried cherries and pistachios. add the cream mixture; fold gently until just combined. arrange bacon strips crosswise in a 9x5-inch loaf pan, letting ends hang over the edges of the pan. trim some strips to fit the ends of the pan. fill pan to the top with the ground pork mixture; smooth the top. cover surface with strips of bacon. fold side bacon piece edges over the top. cover with a piece of parchment cut to fit the top of the pan; wrap tightly with heavy duty aluminum foil. preheat oven to 350 degrees f (175 degrees c). transfer pan to a deep pot or dutch oven. pour in hot tap water to reach 1/2 to 2/3 of the way up the side of the pan. cover. bake in the preheated oven until an instant-read thermometer inserted into the center reads 155 degrees f (68 degrees c), 1 3/4 to 2 hours. transfer pan to a paper-towel lined surface to absorb any moisture. if mixture has risen above the top edge of the pan, press it down with a heavy pan. remove the aluminum foil, leaving the parchment paper on top. transfer pan to a paper-towel-lined baking dish. cut a piece of cardboard to be slightly smaller than the top of the pan. wrap with aluminum foil and place on the parchment paper. press down with weights like canned food. refrigerate at least 8 hours to chill and compress the pate. to unmold the pate, pour very hot water into a large bowl. dip mold into hot water for 1 to 2 seconds. turn out onto a paper-towel-lined dish; chill again before slicing.",
+        "combined_text": "chef john's pate de campagne pate pate 1 teaspoon ground cloves 1 teaspoon ground nutmeg 1 teaspoon ground ginger 1 teaspoon cayenne pepper combine cloves, nutmeg, ginger, and cayenne pepper in a small bowl to make spice mixture. place pork shoulder, duck meat, chopped bacon, chicken livers, onion, shallot, parsley, cognac, salt, garlic, pepper, 3/4 teaspoon spice mixture, and pink curing salt in a large bowl. mix thoroughly until evenly distributed. cover with plastic wrap and refrigerate about 2 hours. whisk cream, bread crumbs, and eggs together in a bowl. transfer pork mixture to a rimmed baking sheet lined with a silicone mat or parchment. freeze for 15 to 20 minutes to facilitate grinding the meat. grind pork mixture into a bowl using the meat-grinder attachment of a stand mixer. add dried cherries and pistachios. add the cream mixture; fold gently until just combined. arrange bacon strips crosswise in a 9x5-inch loaf pan, letting ends hang over the edges of the pan. trim some strips to fit the ends of the pan. fill pan to the top with the ground pork mixture; smooth the top. cover surface with strips of bacon. fold side bacon piece edges over the top. cover with a piece of parchment cut to fit the top of the pan; wrap tightly with heavy duty aluminum foil. preheat oven to 350 degrees f (175 degrees c). transfer pan to a deep pot or dutch oven. pour in hot tap water to reach 1/2 to 2/3 of the way up the side of the pan. cover. bake in the preheated oven until an instant-read thermometer inserted into the center reads 155 degrees f (68 degrees c), 1 3/4 to 2 hours. transfer pan to a paper-towel lined surface to absorb any moisture. if mixture has risen above the top edge of the pan, press it down with a heavy pan. remove the aluminum foil, leaving the parchment paper on top. transfer pan to a paper-towel-lined baking dish. cut a piece of cardboard to be slightly smaller than the top of the pan. wrap with aluminum foil and place on the parchment paper. press down with weights like canned food. refrigerate at least 8 hours to chill and compress the pate. to unmold the pate, pour very hot water into a large bowl. dip mold into hot water for 1 to 2 seconds. turn out onto a paper-towel-lined dish; chill again before slicing.",
+        "ingredients_raw": [
+            "1 teaspoon ground cloves",
+            "1 teaspoon ground nutmeg",
+            "1 teaspoon ground ginger",
+            "1 teaspoon cayenne pepper"
+        ],
+        "directions_raw": [
+            "Combine cloves, nutmeg, ginger, and cayenne pepper in a small bowl to make spice mixture.",
+            "Place pork shoulder, duck meat, chopped bacon, chicken livers, onion, shallot, parsley, cognac, salt, garlic, pepper, 3/4 teaspoon spice mixture, and pink curing salt in a large bowl. Mix thoroughly until evenly distributed. Cover with plastic wrap and refrigerate about 2 hours.",
+            "Whisk cream, bread crumbs, and eggs together in a bowl.",
+            "Transfer pork mixture to a rimmed baking sheet lined with a silicone mat or parchment. Freeze for 15 to 20 minutes to facilitate grinding the meat.",
+            "Grind pork mixture into a bowl using the meat-grinder attachment of a stand mixer. Add dried cherries and pistachios. Add the cream mixture; fold gently until just combined.",
+            "Arrange bacon strips crosswise in a 9x5-inch loaf pan, letting ends hang over the edges of the pan. Trim some strips to fit the ends of the pan.",
+            "Fill pan to the top with the ground pork mixture; smooth the top. Cover surface with strips of bacon. Fold side bacon piece edges over the top. Cover with a piece of parchment cut to fit the top of the pan; wrap tightly with heavy duty aluminum foil.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Transfer pan to a deep pot or Dutch oven. Pour in hot tap water to reach 1/2 to 2/3 of the way up the side of the pan. Cover.",
+            "Bake in the preheated oven until an instant-read thermometer inserted into the center reads 155 degrees F (68 degrees C), 1 3/4 to 2 hours.",
+            "Transfer pan to a paper-towel lined surface to absorb any moisture. If mixture has risen above the top edge of the pan, press it down with a heavy pan. Remove the aluminum foil, leaving the parchment paper on top. Transfer pan to a paper-towel-lined baking dish. Cut a piece of cardboard to be slightly smaller than the top of the pan. Wrap with aluminum foil and place on the parchment paper. Press down with weights like canned food.",
+            "Refrigerate at least 8 hours to chill and compress the pate.",
+            "To unmold the pate, pour very hot water into a large bowl. Dip mold into hot water for 1 to 2 seconds. Turn out onto a paper-towel-lined dish; chill again before slicing."
+        ],
+        "ingredients_canonical": [
+            "ground cloves",
+            "ground nutmeg",
+            "ground ginger",
+            "cayenne pepper"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "chinese",
+            "european",
+            "french",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 24,
+        "slow_hits": 6,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 136,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Gorton (French-Canadian Pork Spread)",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Gorton is a French-Canadian pork spread for toast and crackers. This was my mémère's (grandmother's) recipe, and so far I have never had any better. It's similar to French pâté and very simple to make. I guess from what I read, cretons and gorton are almost the same, gorton being the New Englander translation. Enjoy!",
+        "ingredients": [
+            "2 pounds finely ground pork fat",
+            "2 pounds finely ground pork",
+            "2 onions, finely chopped",
+            "4 cups water",
+            "1 teaspoon ground cloves",
+            "¾ teaspoon ground nutmeg",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Combine pork fat, ground pork, onions, water, cloves, and nutmeg in a large pot; season with salt and black pepper. Bring to a boil over medium-high heat, then reduce heat to medium-low, mashing mixture with a potato masher every 15 minutes as it cooks; simmer until pork is tender, at least 1 ½ hours. Add water as necessary to keep mixture from boiling dry. Reduce liquid as much as possible when ready to stop cooking without letting it burn. Transfer to lidded containers.",
+            "Refrigerate gorton 8 hours to overnight. Remove and discard fat layer or stir into gorton for a creamier spread."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "pounds finely ground pork fat pounds finely ground pork onions finely chopped water ground cloves ¾ ground nutmeg salt ground black pepper taste",
+        "directions_text": "combine pork fat, ground pork, onions, water, cloves, and nutmeg in a large pot; season with salt and black pepper. bring to a boil over medium-high heat, then reduce heat to medium-low, mashing mixture with a potato masher every 15 minutes as it cooks; simmer until pork is tender, at least 1 ½ hours. add water as necessary to keep mixture from boiling dry. reduce liquid as much as possible when ready to stop cooking without letting it burn. transfer to lidded containers. refrigerate gorton 8 hours to overnight. remove and discard fat layer or stir into gorton for a creamier spread.",
+        "combined_text": "gorton (french-canadian pork spread) pate pate 2 pounds finely ground pork fat 2 pounds finely ground pork 2 onions, finely chopped 4 cups water 1 teaspoon ground cloves ¾ teaspoon ground nutmeg salt and ground black pepper to taste combine pork fat, ground pork, onions, water, cloves, and nutmeg in a large pot; season with salt and black pepper. bring to a boil over medium-high heat, then reduce heat to medium-low, mashing mixture with a potato masher every 15 minutes as it cooks; simmer until pork is tender, at least 1 ½ hours. add water as necessary to keep mixture from boiling dry. reduce liquid as much as possible when ready to stop cooking without letting it burn. transfer to lidded containers. refrigerate gorton 8 hours to overnight. remove and discard fat layer or stir into gorton for a creamier spread.",
+        "ingredients_raw": [
+            "2 pounds finely ground pork fat",
+            "2 pounds finely ground pork",
+            "2 onions, finely chopped",
+            "4 cups water",
+            "1 teaspoon ground cloves",
+            "¾ teaspoon ground nutmeg",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Combine pork fat, ground pork, onions, water, cloves, and nutmeg in a large pot; season with salt and black pepper. Bring to a boil over medium-high heat, then reduce heat to medium-low, mashing mixture with a potato masher every 15 minutes as it cooks; simmer until pork is tender, at least 1 ½ hours. Add water as necessary to keep mixture from boiling dry. Reduce liquid as much as possible when ready to stop cooking without letting it burn. Transfer to lidded containers.",
+            "Refrigerate gorton 8 hours to overnight. Remove and discard fat layer or stir into gorton for a creamier spread."
+        ],
+        "ingredients_canonical": [
+            "pounds finely ground pork fat",
+            "pounds finely ground pork",
+            "onions finely chopped",
+            "water",
+            "ground cloves",
+            "¾ ground nutmeg",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 7,
+        "medium_hits": 3,
+        "cook_speed": "slow",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 105,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mock Chopped Liver",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This mock chopped liver is made with cooked lentils. This flavorsome spread tastes just like real liver pâté! Make it vegetarian by using vegetable bouillon. Serve mounded on a platter with crackers.",
+        "ingredients": [
+            "2 cups water",
+            "1 cup lentils",
+            "2 cubes vegetable or chicken bouillon",
+            "1 teaspoon extra virgin olive oil",
+            "1 large onion, chopped",
+            "1 cup walnuts",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Place water, lentils, and bouillon cubes in a pot; cover and simmer over medium heat until tender, about 30 minutes. Drain well.",
+            "Heat oil in a skillet over medium heat; add onion and sauté until soft and translucent.",
+            "Blend cooked lentils, onions, and walnuts in a food processor until it reaches the desired consistency for pâté. Season to taste with salt and pepper. Chill before serving."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "water lentils cubes vegetable chicken bouillon extra virgin olive oil large onion chopped walnuts salt pepper taste",
+        "directions_text": "place water, lentils, and bouillon cubes in a pot; cover and simmer over medium heat until tender, about 30 minutes. drain well. heat oil in a skillet over medium heat; add onion and sauté until soft and translucent. blend cooked lentils, onions, and walnuts in a food processor until it reaches the desired consistency for pâté. season to taste with salt and pepper. chill before serving.",
+        "combined_text": "mock chopped liver pate pate 2 cups water 1 cup lentils 2 cubes vegetable or chicken bouillon 1 teaspoon extra virgin olive oil 1 large onion, chopped 1 cup walnuts salt and pepper to taste place water, lentils, and bouillon cubes in a pot; cover and simmer over medium heat until tender, about 30 minutes. drain well. heat oil in a skillet over medium heat; add onion and sauté until soft and translucent. blend cooked lentils, onions, and walnuts in a food processor until it reaches the desired consistency for pâté. season to taste with salt and pepper. chill before serving.",
+        "ingredients_raw": [
+            "2 cups water",
+            "1 cup lentils",
+            "2 cubes vegetable or chicken bouillon",
+            "1 teaspoon extra virgin olive oil",
+            "1 large onion, chopped",
+            "1 cup walnuts",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Place water, lentils, and bouillon cubes in a pot; cover and simmer over medium heat until tender, about 30 minutes. Drain well.",
+            "Heat oil in a skillet over medium heat; add onion and sauté until soft and translucent.",
+            "Blend cooked lentils, onions, and walnuts in a food processor until it reaches the desired consistency for pâté. Season to taste with salt and pepper. Chill before serving."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "lentils",
+            "cubes vegetable chicken bouillon",
+            "extra virgin olive oil",
+            "large onion chopped",
+            "walnuts",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "bitter",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 88,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Chicken Liver Pâté",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This chicken liver pâté makes a delicious spread for parties. Serve with assorted crackers or toasted, thinly sliced bread.",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 clove garlic, peeled and chopped",
+            "1 tablespoon chopped onion",
+            "¼ pound chicken livers, trimmed and chopped",
+            "2 tablespoons dry sherry",
+            "⅓ (8 ounce) package cream cheese, softened",
+            "hot sauce to taste",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Melt butter in a medium saucepan over medium heat. Stir in garlic, onion, and chicken livers. Reduce heat to low, and sauté until chicken livers are tender and no longer pink, about 10 minutes.",
+            "Place chicken liver mixture in a blender; add dry sherry, cream cheese, hot sauce, salt, and pepper. Blend until smooth; transfer to a medium bowl. For best results, cover and chill pâté in the refrigerator for approximately 2 hours before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "butter clove garlic peeled chopped chopped onion ¼ pound chicken livers trimmed chopped dry sherry ⅓ ounce package cream cheese softened hot sauce taste salt pepper taste",
+        "directions_text": "melt butter in a medium saucepan over medium heat. stir in garlic, onion, and chicken livers. reduce heat to low, and sauté until chicken livers are tender and no longer pink, about 10 minutes. place chicken liver mixture in a blender; add dry sherry, cream cheese, hot sauce, salt, and pepper. blend until smooth; transfer to a medium bowl. for best results, cover and chill pâté in the refrigerator for approximately 2 hours before serving.",
+        "combined_text": "chicken liver pâté pate pate 1 tablespoon butter 1 clove garlic, peeled and chopped 1 tablespoon chopped onion ¼ pound chicken livers, trimmed and chopped 2 tablespoons dry sherry ⅓ (8 ounce) package cream cheese, softened hot sauce to taste salt and pepper to taste melt butter in a medium saucepan over medium heat. stir in garlic, onion, and chicken livers. reduce heat to low, and sauté until chicken livers are tender and no longer pink, about 10 minutes. place chicken liver mixture in a blender; add dry sherry, cream cheese, hot sauce, salt, and pepper. blend until smooth; transfer to a medium bowl. for best results, cover and chill pâté in the refrigerator for approximately 2 hours before serving.",
+        "ingredients_raw": [
+            "1 tablespoon butter",
+            "1 clove garlic, peeled and chopped",
+            "1 tablespoon chopped onion",
+            "¼ pound chicken livers, trimmed and chopped",
+            "2 tablespoons dry sherry",
+            "⅓ (8 ounce) package cream cheese, softened",
+            "hot sauce to taste",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Melt butter in a medium saucepan over medium heat. Stir in garlic, onion, and chicken livers. Reduce heat to low, and sauté until chicken livers are tender and no longer pink, about 10 minutes.",
+            "Place chicken liver mixture in a blender; add dry sherry, cream cheese, hot sauce, salt, and pepper. Blend until smooth; transfer to a medium bowl. For best results, cover and chill pâté in the refrigerator for approximately 2 hours before serving."
+        ],
+        "ingredients_canonical": [
+            "butter",
+            "clove garlic peeled chopped",
+            "chopped onion",
+            "¼ pound chicken livers trimmed chopped",
+            "dry sherry",
+            "⅓ ounce package cream cheese softened",
+            "hot sauce taste",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Veggie Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Sandwiches and crackers will be transformed into savory wonders by this flavorful spread filled with vegetables, herbs and spices.",
+        "ingredients": [
+            "1 cup sunflower seeds",
+            "½ cup whole wheat flour",
+            "½ cup nutritional yeast",
+            "½ teaspoon salt",
+            "½ cup vegetable oil",
+            "2 tablespoons lemon juice",
+            "1 potato, peeled and chopped",
+            "1 large carrot, peeled and sliced",
+            "1 onion, chopped",
+            "1 stalk celery, chopped",
+            "1 clove garlic, peeled",
+            "1 ½ cups water",
+            "½ teaspoon dried thyme",
+            "½ teaspoon dried basil leaves",
+            "½ teaspoon dried sage",
+            "½ teaspoon dried savory",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon ground dry mustard"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x8 inch baking dish.",
+            "In a food processor, blend sunflower seeds, whole wheat flour, nutritional yeast, salt, vegetable oil, lemon juice, potato, carrot, onion, celery, garlic, water, thyme, basil, sage, savory, pepper and dry mustard. Process the mixture until almost smooth.",
+            "Transfer mixture to the baking dish. Bake in the preheated oven 1 hour, or until bubbly and lightly browned."
+        ],
+        "num_ingredients": 18,
+        "num_steps": 3,
+        "ingredient_text": "sunflower seeds ½ whole wheat flour ½ nutritional yeast ½ salt ½ vegetable oil lemon juice potato peeled chopped large carrot peeled sliced onion chopped stalk celery chopped clove garlic peeled ½ water ½ dried thyme ½ dried basil leaves ½ dried sage ½ dried savory ½ ground black pepper ½ ground dry mustard",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). lightly grease an 8x8 inch baking dish. in a food processor, blend sunflower seeds, whole wheat flour, nutritional yeast, salt, vegetable oil, lemon juice, potato, carrot, onion, celery, garlic, water, thyme, basil, sage, savory, pepper and dry mustard. process the mixture until almost smooth. transfer mixture to the baking dish. bake in the preheated oven 1 hour, or until bubbly and lightly browned.",
+        "combined_text": "veggie pate pate pate 1 cup sunflower seeds ½ cup whole wheat flour ½ cup nutritional yeast ½ teaspoon salt ½ cup vegetable oil 2 tablespoons lemon juice 1 potato, peeled and chopped 1 large carrot, peeled and sliced 1 onion, chopped 1 stalk celery, chopped 1 clove garlic, peeled 1 ½ cups water ½ teaspoon dried thyme ½ teaspoon dried basil leaves ½ teaspoon dried sage ½ teaspoon dried savory ½ teaspoon ground black pepper ½ teaspoon ground dry mustard preheat oven to 350 degrees f (175 degrees c). lightly grease an 8x8 inch baking dish. in a food processor, blend sunflower seeds, whole wheat flour, nutritional yeast, salt, vegetable oil, lemon juice, potato, carrot, onion, celery, garlic, water, thyme, basil, sage, savory, pepper and dry mustard. process the mixture until almost smooth. transfer mixture to the baking dish. bake in the preheated oven 1 hour, or until bubbly and lightly browned.",
+        "ingredients_raw": [
+            "1 cup sunflower seeds",
+            "½ cup whole wheat flour",
+            "½ cup nutritional yeast",
+            "½ teaspoon salt",
+            "½ cup vegetable oil",
+            "2 tablespoons lemon juice",
+            "1 potato, peeled and chopped",
+            "1 large carrot, peeled and sliced",
+            "1 onion, chopped",
+            "1 stalk celery, chopped",
+            "1 clove garlic, peeled",
+            "1 ½ cups water",
+            "½ teaspoon dried thyme",
+            "½ teaspoon dried basil leaves",
+            "½ teaspoon dried sage",
+            "½ teaspoon dried savory",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon ground dry mustard"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x8 inch baking dish.",
+            "In a food processor, blend sunflower seeds, whole wheat flour, nutritional yeast, salt, vegetable oil, lemon juice, potato, carrot, onion, celery, garlic, water, thyme, basil, sage, savory, pepper and dry mustard. Process the mixture until almost smooth.",
+            "Transfer mixture to the baking dish. Bake in the preheated oven 1 hour, or until bubbly and lightly browned."
+        ],
+        "ingredients_canonical": [
+            "sunflower seeds",
+            "½ whole wheat flour",
+            "½ nutritional yeast",
+            "½ salt",
+            "½ vegetable oil",
+            "lemon juice",
+            "potato peeled chopped",
+            "large carrot peeled sliced",
+            "onion chopped",
+            "stalk celery chopped",
+            "clove garlic peeled",
+            "½ water",
+            "½ dried thyme",
+            "½ dried basil leaves",
+            "½ dried sage",
+            "½ dried savory",
+            "½ ground black pepper",
+            "½ ground dry mustard"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "greek",
+            "italian",
+            "korean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 33,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Easy Liver Pâté",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This liverwurst pâté, made with Braunschweiger, is a favorite passed down to me from my mom. We have it at family gatherings and this year I'm taking it to the Super Bowl party. Seasonings may be adjusted to suit your taste. Serve with your choice of crackers.",
+        "ingredients": [
+            "1 pound Braunschweiger (a liver sausage), pork",
+            "½ (8 ounce) package cream cheese, softened",
+            "1 tablespoon milk",
+            "1 tablespoon finely chopped onion",
+            "1 tablespoon Worcestershire sauce",
+            "1 teaspoon chili powder",
+            "½ teaspoon sugar",
+            "½ teaspoon minced garlic"
+        ],
+        "directions": [
+            "Mix together sausage, cream cheese, milk, and onion in a medium bowl. Season with Worcestershire sauce, chili powder, sugar, and garlic, and mix until well blended.",
+            "Wrap in plastic wrap, and refrigerate for at least 2 hours, until firm."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "pound braunschweiger a liver sausage pork ½ ounce package cream cheese softened milk finely chopped onion worcestershire sauce chili powder ½ sugar ½ minced garlic",
+        "directions_text": "mix together sausage, cream cheese, milk, and onion in a medium bowl. season with worcestershire sauce, chili powder, sugar, and garlic, and mix until well blended. wrap in plastic wrap, and refrigerate for at least 2 hours, until firm.",
+        "combined_text": "easy liver pâté pate pate 1 pound braunschweiger (a liver sausage), pork ½ (8 ounce) package cream cheese, softened 1 tablespoon milk 1 tablespoon finely chopped onion 1 tablespoon worcestershire sauce 1 teaspoon chili powder ½ teaspoon sugar ½ teaspoon minced garlic mix together sausage, cream cheese, milk, and onion in a medium bowl. season with worcestershire sauce, chili powder, sugar, and garlic, and mix until well blended. wrap in plastic wrap, and refrigerate for at least 2 hours, until firm.",
+        "ingredients_raw": [
+            "1 pound Braunschweiger (a liver sausage), pork",
+            "½ (8 ounce) package cream cheese, softened",
+            "1 tablespoon milk",
+            "1 tablespoon finely chopped onion",
+            "1 tablespoon Worcestershire sauce",
+            "1 teaspoon chili powder",
+            "½ teaspoon sugar",
+            "½ teaspoon minced garlic"
+        ],
+        "directions_raw": [
+            "Mix together sausage, cream cheese, milk, and onion in a medium bowl. Season with Worcestershire sauce, chili powder, sugar, and garlic, and mix until well blended.",
+            "Wrap in plastic wrap, and refrigerate for at least 2 hours, until firm."
+        ],
+        "ingredients_canonical": [
+            "pound braunschweiger a liver sausage pork",
+            "½ ounce package cream cheese softened",
+            "milk",
+            "finely chopped onion",
+            "worcestershire sauce",
+            "chili powder",
+            "½ sugar",
+            "½ minced garlic"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean",
+            "vietnamese"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 30,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "French-Canadian Gorton Pork Spread",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Old gorton recipe from French-Canadian Memere (Grandma). Delicious and spicy pork spread for sandwiches. Pronounced \"gah-ton.\" Enjoy on a sandwich with mustard or eat alone.",
+        "ingredients": [
+            "1 pound lean pork butt, cut into pieces",
+            "1 onion, chopped",
+            "½ teaspoon ground cinnamon",
+            "¼ teaspoon ground cloves",
+            "salt and black pepper to taste"
+        ],
+        "directions": [
+            "Place pork, onion, cinnamon, and clove into a saucepan. Season with salt and pepper. Pour in enough water to just cover pork. Bring to a boil.",
+            "Reduce heat to medium-low and cook until water has nearly evaporated, about 1 hour. Stir occasionally to ensure pork cooks evenly.",
+            "Use a potato masher or wire whisk to break pork into thin strands. Pour off any remaining liquid, then spoon gorton into a serving bowl. Refrigerate until cold before serving."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "pound lean pork butt cut into pieces onion chopped ½ ground cinnamon ¼ ground cloves salt black pepper taste",
+        "directions_text": "place pork, onion, cinnamon, and clove into a saucepan. season with salt and pepper. pour in enough water to just cover pork. bring to a boil. reduce heat to medium-low and cook until water has nearly evaporated, about 1 hour. stir occasionally to ensure pork cooks evenly. use a potato masher or wire whisk to break pork into thin strands. pour off any remaining liquid, then spoon gorton into a serving bowl. refrigerate until cold before serving.",
+        "combined_text": "french-canadian gorton pork spread pate pate 1 pound lean pork butt, cut into pieces 1 onion, chopped ½ teaspoon ground cinnamon ¼ teaspoon ground cloves salt and black pepper to taste place pork, onion, cinnamon, and clove into a saucepan. season with salt and pepper. pour in enough water to just cover pork. bring to a boil. reduce heat to medium-low and cook until water has nearly evaporated, about 1 hour. stir occasionally to ensure pork cooks evenly. use a potato masher or wire whisk to break pork into thin strands. pour off any remaining liquid, then spoon gorton into a serving bowl. refrigerate until cold before serving.",
+        "ingredients_raw": [
+            "1 pound lean pork butt, cut into pieces",
+            "1 onion, chopped",
+            "½ teaspoon ground cinnamon",
+            "¼ teaspoon ground cloves",
+            "salt and black pepper to taste"
+        ],
+        "directions_raw": [
+            "Place pork, onion, cinnamon, and clove into a saucepan. Season with salt and pepper. Pour in enough water to just cover pork. Bring to a boil.",
+            "Reduce heat to medium-low and cook until water has nearly evaporated, about 1 hour. Stir occasionally to ensure pork cooks evenly.",
+            "Use a potato masher or wire whisk to break pork into thin strands. Pour off any remaining liquid, then spoon gorton into a serving bowl. Refrigerate until cold before serving."
+        ],
+        "ingredients_canonical": [
+            "pound lean pork butt cut into pieces",
+            "onion chopped",
+            "½ ground cinnamon",
+            "¼ ground cloves",
+            "salt black pepper taste"
+        ],
+        "cuisine_list": [
+            "american"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Red Salmon Pâté",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This creamy pâté with salmon and cream cheese is delicious spread on crackers. You can add pecans for a twist.",
+        "ingredients": [
+            "1 (7 ounce) can salmon, drained, flaked and bones removed",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 teaspoon prepared horseradish",
+            "1 tablespoon lemon juice",
+            "2 teaspoons grated onion",
+            "1 tablespoon chopped fresh parsley",
+            "½ cup chopped pecans (Optional)"
+        ],
+        "directions": [
+            "In a medium bowl, mix together salmon, cream cheese, horseradish, lemon juice, and onion. Chill if necessary until firm enough to handle, then form into a ball. Roll in parsley and pecans if desired. Refrigerate until serving. Serve with assorted crackers."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "ounce can salmon drained flaked bones removed ounce package cream cheese softened prepared horseradish lemon juice grated onion chopped fresh parsley ½ chopped pecans optional",
+        "directions_text": "in a medium bowl, mix together salmon, cream cheese, horseradish, lemon juice, and onion. chill if necessary until firm enough to handle, then form into a ball. roll in parsley and pecans if desired. refrigerate until serving. serve with assorted crackers.",
+        "combined_text": "red salmon pâté pate pate 1 (7 ounce) can salmon, drained, flaked and bones removed 1 (8 ounce) package cream cheese, softened 1 teaspoon prepared horseradish 1 tablespoon lemon juice 2 teaspoons grated onion 1 tablespoon chopped fresh parsley ½ cup chopped pecans (optional) in a medium bowl, mix together salmon, cream cheese, horseradish, lemon juice, and onion. chill if necessary until firm enough to handle, then form into a ball. roll in parsley and pecans if desired. refrigerate until serving. serve with assorted crackers.",
+        "ingredients_raw": [
+            "1 (7 ounce) can salmon, drained, flaked and bones removed",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 teaspoon prepared horseradish",
+            "1 tablespoon lemon juice",
+            "2 teaspoons grated onion",
+            "1 tablespoon chopped fresh parsley",
+            "½ cup chopped pecans (Optional)"
+        ],
+        "directions_raw": [
+            "In a medium bowl, mix together salmon, cream cheese, horseradish, lemon juice, and onion. Chill if necessary until firm enough to handle, then form into a ball. Roll in parsley and pecans if desired. Refrigerate until serving. Serve with assorted crackers."
+        ],
+        "ingredients_canonical": [
+            "ounce can salmon drained flaked bones removed",
+            "ounce package cream cheese softened",
+            "prepared horseradish",
+            "lemon juice",
+            "grated onion",
+            "chopped fresh parsley",
+            "½ chopped pecans optional"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "bread"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Salmon Terrine",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "In this salmon terrine recipe, salmon, butter, Dijon mustard, and fresh tarragon are just some of what make a traditional French fare so delicious. This no-bake version is more like a spread, which is perfect for casual parties, and you can make it in any kind of crock or bowl. Pair it with toasted baguette slices for an appetizer or eat it as a salad.",
+        "ingredients": [
+            "5 cups water",
+            "2 teaspoons salt",
+            "1 (12 ounce) fresh salmon fillet",
+            "8 ounces smoked salmon, chopped",
+            "⅓ cup chopped green onion",
+            "2 tablespoons chopped fresh parsley",
+            "1 teaspoon chopped fresh tarragon, or to taste",
+            "7 tablespoons butter, softened",
+            "½ cup mayonnaise",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon fresh lemon juice, or to taste",
+            "½ teaspoon black pepper"
+        ],
+        "directions": [
+            "Bring water to a boil in a large saucepan and add salt. Add salmon fillet, reduce to a simmer, and cook until just cooked through, 6 to 8 minutes. Transfer salmon to a plate using a slotted spoon and let cool 10 minutes. Flake salmon into a large bowl, discarding skin, and toss with smoked salmon, green onion, parsley, and tarragon.",
+            "Whisk together butter, mayonnaise, mustard, lemon juice, and pepper in a bowl until smooth. Add mayonnaise mixture to salmon mixture and gently stir until well combined.",
+            "Cover and chill 3 hours. Serve with toasted baguette slices or crackers."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 3,
+        "ingredient_text": "water salt ounce fresh salmon fillet ounces smoked salmon chopped ⅓ chopped green onion chopped fresh parsley chopped fresh tarragon taste butter softened ½ mayonnaise dijon mustard fresh lemon juice taste ½ black pepper",
+        "directions_text": "bring water to a boil in a large saucepan and add salt. add salmon fillet, reduce to a simmer, and cook until just cooked through, 6 to 8 minutes. transfer salmon to a plate using a slotted spoon and let cool 10 minutes. flake salmon into a large bowl, discarding skin, and toss with smoked salmon, green onion, parsley, and tarragon. whisk together butter, mayonnaise, mustard, lemon juice, and pepper in a bowl until smooth. add mayonnaise mixture to salmon mixture and gently stir until well combined. cover and chill 3 hours. serve with toasted baguette slices or crackers.",
+        "combined_text": "salmon terrine pate pate 5 cups water 2 teaspoons salt 1 (12 ounce) fresh salmon fillet 8 ounces smoked salmon, chopped ⅓ cup chopped green onion 2 tablespoons chopped fresh parsley 1 teaspoon chopped fresh tarragon, or to taste 7 tablespoons butter, softened ½ cup mayonnaise 1 tablespoon dijon mustard 1 tablespoon fresh lemon juice, or to taste ½ teaspoon black pepper bring water to a boil in a large saucepan and add salt. add salmon fillet, reduce to a simmer, and cook until just cooked through, 6 to 8 minutes. transfer salmon to a plate using a slotted spoon and let cool 10 minutes. flake salmon into a large bowl, discarding skin, and toss with smoked salmon, green onion, parsley, and tarragon. whisk together butter, mayonnaise, mustard, lemon juice, and pepper in a bowl until smooth. add mayonnaise mixture to salmon mixture and gently stir until well combined. cover and chill 3 hours. serve with toasted baguette slices or crackers.",
+        "ingredients_raw": [
+            "5 cups water",
+            "2 teaspoons salt",
+            "1 (12 ounce) fresh salmon fillet",
+            "8 ounces smoked salmon, chopped",
+            "⅓ cup chopped green onion",
+            "2 tablespoons chopped fresh parsley",
+            "1 teaspoon chopped fresh tarragon, or to taste",
+            "7 tablespoons butter, softened",
+            "½ cup mayonnaise",
+            "1 tablespoon Dijon mustard",
+            "1 tablespoon fresh lemon juice, or to taste",
+            "½ teaspoon black pepper"
+        ],
+        "directions_raw": [
+            "Bring water to a boil in a large saucepan and add salt. Add salmon fillet, reduce to a simmer, and cook until just cooked through, 6 to 8 minutes. Transfer salmon to a plate using a slotted spoon and let cool 10 minutes. Flake salmon into a large bowl, discarding skin, and toss with smoked salmon, green onion, parsley, and tarragon.",
+            "Whisk together butter, mayonnaise, mustard, lemon juice, and pepper in a bowl until smooth. Add mayonnaise mixture to salmon mixture and gently stir until well combined.",
+            "Cover and chill 3 hours. Serve with toasted baguette slices or crackers."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "salt",
+            "ounce fresh salmon fillet",
+            "ounces smoked salmon chopped",
+            "⅓ chopped green onion",
+            "chopped fresh parsley",
+            "chopped fresh tarragon taste",
+            "butter softened",
+            "½ mayonnaise",
+            "dijon mustard",
+            "fresh lemon juice taste",
+            "½ black pepper"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "bread"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 50,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Chicken Liver Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Yum! Keeps up to 2 months frozen.",
+        "ingredients": [
+            "1 cup butter, divided",
+            "1 onion, quartered",
+            "1 tart apple - peeled, cored, and quartered",
+            "1 pound chicken livers, rinsed and trimmed",
+            "¼ cup brandy",
+            "2 tablespoons heavy whipping cream",
+            "1 teaspoon lemon juice",
+            "1 ½ teaspoons salt",
+            "¼ teaspoon ground black pepper",
+            "1 tablespoon butter, melted"
+        ],
+        "directions": [
+            "Set aside 1/2 cup butter to soften slightly.",
+            "Place onion and apple in a food processor with the steel knife blade; process until coarsely chopped.",
+            "Melt 3 tablespoons butter in a large skillet over medium heat. Add onion and apple; cook and stir until lightly browned, 5 to 10 minutes. Return onion and apple to food processor.",
+            "Melt 5 tablespoons butter in the same skillet over high heat; cook chicken livers until browned and just done inside, about 5 minutes. Reduce heat to low and pour in brandy; allow to warm up without stirring. Carefully light the liquid; let flames subside.",
+            "Transfer chicken liver mixture to the food processor with onion and apple. Add cream and process until very smooth. Transfer mixture into a bowl and refrigerate until cool, at least 30 minutes.",
+            "Cut the softened 1/2 cup butter into pieces and process in the food processor; add about 1/3 of the liver mixture and blend about 5 seconds. Repeat 2 more times with remaining liver mixture. Add lemon juice, salt, and pepper and blend well.",
+            "Transfer pate to a serving dish or several small dishes; top with 1 tablespoon melted butter. Cover loosely with plastic wrap; refrigerate until chilled and set, about 3 hours."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 7,
+        "ingredient_text": "butter divided onion quartered tart apple - peeled cored quartered pound chicken livers rinsed trimmed ¼ brandy heavy whipping cream lemon juice ½ salt ¼ ground black pepper butter melted",
+        "directions_text": "set aside 1/2 cup butter to soften slightly. place onion and apple in a food processor with the steel knife blade; process until coarsely chopped. melt 3 tablespoons butter in a large skillet over medium heat. add onion and apple; cook and stir until lightly browned, 5 to 10 minutes. return onion and apple to food processor. melt 5 tablespoons butter in the same skillet over high heat; cook chicken livers until browned and just done inside, about 5 minutes. reduce heat to low and pour in brandy; allow to warm up without stirring. carefully light the liquid; let flames subside. transfer chicken liver mixture to the food processor with onion and apple. add cream and process until very smooth. transfer mixture into a bowl and refrigerate until cool, at least 30 minutes. cut the softened 1/2 cup butter into pieces and process in the food processor; add about 1/3 of the liver mixture and blend about 5 seconds. repeat 2 more times with remaining liver mixture. add lemon juice, salt, and pepper and blend well. transfer pate to a serving dish or several small dishes; top with 1 tablespoon melted butter. cover loosely with plastic wrap; refrigerate until chilled and set, about 3 hours.",
+        "combined_text": "easy chicken liver pate pate pate 1 cup butter, divided 1 onion, quartered 1 tart apple - peeled, cored, and quartered 1 pound chicken livers, rinsed and trimmed ¼ cup brandy 2 tablespoons heavy whipping cream 1 teaspoon lemon juice 1 ½ teaspoons salt ¼ teaspoon ground black pepper 1 tablespoon butter, melted set aside 1/2 cup butter to soften slightly. place onion and apple in a food processor with the steel knife blade; process until coarsely chopped. melt 3 tablespoons butter in a large skillet over medium heat. add onion and apple; cook and stir until lightly browned, 5 to 10 minutes. return onion and apple to food processor. melt 5 tablespoons butter in the same skillet over high heat; cook chicken livers until browned and just done inside, about 5 minutes. reduce heat to low and pour in brandy; allow to warm up without stirring. carefully light the liquid; let flames subside. transfer chicken liver mixture to the food processor with onion and apple. add cream and process until very smooth. transfer mixture into a bowl and refrigerate until cool, at least 30 minutes. cut the softened 1/2 cup butter into pieces and process in the food processor; add about 1/3 of the liver mixture and blend about 5 seconds. repeat 2 more times with remaining liver mixture. add lemon juice, salt, and pepper and blend well. transfer pate to a serving dish or several small dishes; top with 1 tablespoon melted butter. cover loosely with plastic wrap; refrigerate until chilled and set, about 3 hours.",
+        "ingredients_raw": [
+            "1 cup butter, divided",
+            "1 onion, quartered",
+            "1 tart apple - peeled, cored, and quartered",
+            "1 pound chicken livers, rinsed and trimmed",
+            "¼ cup brandy",
+            "2 tablespoons heavy whipping cream",
+            "1 teaspoon lemon juice",
+            "1 ½ teaspoons salt",
+            "¼ teaspoon ground black pepper",
+            "1 tablespoon butter, melted"
+        ],
+        "directions_raw": [
+            "Set aside 1/2 cup butter to soften slightly.",
+            "Place onion and apple in a food processor with the steel knife blade; process until coarsely chopped.",
+            "Melt 3 tablespoons butter in a large skillet over medium heat. Add onion and apple; cook and stir until lightly browned, 5 to 10 minutes. Return onion and apple to food processor.",
+            "Melt 5 tablespoons butter in the same skillet over high heat; cook chicken livers until browned and just done inside, about 5 minutes. Reduce heat to low and pour in brandy; allow to warm up without stirring. Carefully light the liquid; let flames subside.",
+            "Transfer chicken liver mixture to the food processor with onion and apple. Add cream and process until very smooth. Transfer mixture into a bowl and refrigerate until cool, at least 30 minutes.",
+            "Cut the softened 1/2 cup butter into pieces and process in the food processor; add about 1/3 of the liver mixture and blend about 5 seconds. Repeat 2 more times with remaining liver mixture. Add lemon juice, salt, and pepper and blend well.",
+            "Transfer pate to a serving dish or several small dishes; top with 1 tablespoon melted butter. Cover loosely with plastic wrap; refrigerate until chilled and set, about 3 hours."
+        ],
+        "ingredients_canonical": [
+            "butter divided",
+            "onion quartered",
+            "tart apple - peeled cored quartered",
+            "pound chicken livers rinsed trimmed",
+            "¼ brandy",
+            "heavy whipping cream",
+            "lemon juice",
+            "½ salt",
+            "¼ ground black pepper",
+            "butter melted"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 13,
+        "slow_hits": 4,
+        "medium_hits": 11,
+        "cook_speed": "fast",
+        "est_prep_time_min": 33,
+        "est_cook_time_min": 124,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Colleen's Chicken Liver Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "If you love pate, you will love this creamy chicken liver recipe that has a bit of a kick! Serve on toasted baguettes or sturdy crackers.",
+        "ingredients": [
+            "1 pound chicken livers, trimmed",
+            "1 cup milk",
+            "8 tablespoons cold unsalted butter, divided",
+            "1 small yellow onion, chopped",
+            "1 tablespoon whole black peppercorns, divided",
+            "2 cloves garlic, smashed",
+            "1 teaspoon red pepper flakes",
+            "1 tablespoon balsamic vinegar",
+            "1 teaspoon fresh thyme",
+            "2 bay leaves",
+            "salt and ground black pepper to taste",
+            "2 teaspoons Scotch whiskey"
+        ],
+        "directions": [
+            "Combine chicken livers and milk in a bowl. Let soak in the refrigerator, about 2 hours.",
+            "Melt 2 tablespoons butter in a saucepan over medium heat. Add onion; cook and stir until soft, about 5 minutes. Add 1 1/2 teaspoon black peppercorns, garlic, red pepper flakes, and thyme; cook and stir until fragrant, 1 to 2 minutes.",
+            "Remove chicken livers from the milk with a slotted spoon; add to the saucepan with balsamic vinegar and bay leaves. Season with salt and pepper. Cook until chicken livers are tender and no longer pink, 10 to 12 minutes. Remove from heat and cool slightly, 5 to 10 minutes.",
+            "Transfer chicken liver mixture to a food processor. Add remaining 1 1/2 teaspoons black peppercorns and Scotch; blend until smooth. Add remaining 6 tablespoons of butter and pulse until fully incorporated into the mixture.",
+            "Divide blended mixture evenly among 6 porcelain ramekins. Cover with plastic wrap and refrigerate until firm, about 6 hours."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "pound chicken livers trimmed milk cold unsalted butter divided small yellow onion chopped whole black peppercorns divided cloves garlic smashed red pepper flakes balsamic vinegar fresh thyme bay leaves salt ground black pepper taste scotch whiskey",
+        "directions_text": "combine chicken livers and milk in a bowl. let soak in the refrigerator, about 2 hours. melt 2 tablespoons butter in a saucepan over medium heat. add onion; cook and stir until soft, about 5 minutes. add 1 1/2 teaspoon black peppercorns, garlic, red pepper flakes, and thyme; cook and stir until fragrant, 1 to 2 minutes. remove chicken livers from the milk with a slotted spoon; add to the saucepan with balsamic vinegar and bay leaves. season with salt and pepper. cook until chicken livers are tender and no longer pink, 10 to 12 minutes. remove from heat and cool slightly, 5 to 10 minutes. transfer chicken liver mixture to a food processor. add remaining 1 1/2 teaspoons black peppercorns and scotch; blend until smooth. add remaining 6 tablespoons of butter and pulse until fully incorporated into the mixture. divide blended mixture evenly among 6 porcelain ramekins. cover with plastic wrap and refrigerate until firm, about 6 hours.",
+        "combined_text": "colleen's chicken liver pate pate pate 1 pound chicken livers, trimmed 1 cup milk 8 tablespoons cold unsalted butter, divided 1 small yellow onion, chopped 1 tablespoon whole black peppercorns, divided 2 cloves garlic, smashed 1 teaspoon red pepper flakes 1 tablespoon balsamic vinegar 1 teaspoon fresh thyme 2 bay leaves salt and ground black pepper to taste 2 teaspoons scotch whiskey combine chicken livers and milk in a bowl. let soak in the refrigerator, about 2 hours. melt 2 tablespoons butter in a saucepan over medium heat. add onion; cook and stir until soft, about 5 minutes. add 1 1/2 teaspoon black peppercorns, garlic, red pepper flakes, and thyme; cook and stir until fragrant, 1 to 2 minutes. remove chicken livers from the milk with a slotted spoon; add to the saucepan with balsamic vinegar and bay leaves. season with salt and pepper. cook until chicken livers are tender and no longer pink, 10 to 12 minutes. remove from heat and cool slightly, 5 to 10 minutes. transfer chicken liver mixture to a food processor. add remaining 1 1/2 teaspoons black peppercorns and scotch; blend until smooth. add remaining 6 tablespoons of butter and pulse until fully incorporated into the mixture. divide blended mixture evenly among 6 porcelain ramekins. cover with plastic wrap and refrigerate until firm, about 6 hours.",
+        "ingredients_raw": [
+            "1 pound chicken livers, trimmed",
+            "1 cup milk",
+            "8 tablespoons cold unsalted butter, divided",
+            "1 small yellow onion, chopped",
+            "1 tablespoon whole black peppercorns, divided",
+            "2 cloves garlic, smashed",
+            "1 teaspoon red pepper flakes",
+            "1 tablespoon balsamic vinegar",
+            "1 teaspoon fresh thyme",
+            "2 bay leaves",
+            "salt and ground black pepper to taste",
+            "2 teaspoons Scotch whiskey"
+        ],
+        "directions_raw": [
+            "Combine chicken livers and milk in a bowl. Let soak in the refrigerator, about 2 hours.",
+            "Melt 2 tablespoons butter in a saucepan over medium heat. Add onion; cook and stir until soft, about 5 minutes. Add 1 1/2 teaspoon black peppercorns, garlic, red pepper flakes, and thyme; cook and stir until fragrant, 1 to 2 minutes.",
+            "Remove chicken livers from the milk with a slotted spoon; add to the saucepan with balsamic vinegar and bay leaves. Season with salt and pepper. Cook until chicken livers are tender and no longer pink, 10 to 12 minutes. Remove from heat and cool slightly, 5 to 10 minutes.",
+            "Transfer chicken liver mixture to a food processor. Add remaining 1 1/2 teaspoons black peppercorns and Scotch; blend until smooth. Add remaining 6 tablespoons of butter and pulse until fully incorporated into the mixture.",
+            "Divide blended mixture evenly among 6 porcelain ramekins. Cover with plastic wrap and refrigerate until firm, about 6 hours."
+        ],
+        "ingredients_canonical": [
+            "pound chicken livers trimmed",
+            "milk",
+            "cold unsalted butter divided",
+            "small yellow onion chopped",
+            "whole black peppercorns divided",
+            "cloves garlic smashed",
+            "red pepper flakes",
+            "balsamic vinegar",
+            "fresh thyme",
+            "bay leaves",
+            "salt ground black pepper taste",
+            "scotch whiskey"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 81,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Danish Chicken Liver Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "A traditional Danish lunch item. Spread some on rye bread and top with cucumber or tomatoes or anything that takes your fancy. Makes a great addition to Danish smorgesbord. This should keep for 5 to 7 days in the refrigerator.",
+        "ingredients": [
+            "2 tablespoons all-purpose flour",
+            "1 teaspoon water, or as needed",
+            "1 pound chicken livers, trimmed",
+            "1 ¼ cups heavy whipping cream",
+            "1 onion, quartered",
+            "2 eggs",
+            "2 tablespoons butter, melted",
+            "1 teaspoon salt",
+            "¼ teaspoon ground nutmeg",
+            "ground black pepper to taste"
+        ],
+        "directions": [
+            "Preheat oven to 390 degrees F (200 degrees C).",
+            "Mix flour and water together in a bowl until a thin paste forms, adding more water as needed.",
+            "Combine flour mixture, chicken livers, cream, onion, eggs, butter, salt, nutmeg, and black pepper in a food processor; process until blended and smooth, 30 to 45 seconds.",
+            "Transfer liver mixture to three 7x4-inch disposable pans. Cover pans with aluminum foil and place in a baking pan. Pour enough water into the baking pan to come up halfway up the sides.",
+            "Bake in the preheated oven for 25 minutes. Remove foil and continue baking until cooked through, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Cool to room temperature. Cover with lids and refrigerate."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour water as needed pound chicken livers trimmed ¼ heavy whipping cream onion quartered eggs butter melted salt ¼ ground nutmeg ground black pepper taste",
+        "directions_text": "preheat oven to 390 degrees f (200 degrees c). mix flour and water together in a bowl until a thin paste forms, adding more water as needed. combine flour mixture, chicken livers, cream, onion, eggs, butter, salt, nutmeg, and black pepper in a food processor; process until blended and smooth, 30 to 45 seconds. transfer liver mixture to three 7x4-inch disposable pans. cover pans with aluminum foil and place in a baking pan. pour enough water into the baking pan to come up halfway up the sides. bake in the preheated oven for 25 minutes. remove foil and continue baking until cooked through, about 25 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). cool to room temperature. cover with lids and refrigerate.",
+        "combined_text": "danish chicken liver pate pate pate 2 tablespoons all-purpose flour 1 teaspoon water, or as needed 1 pound chicken livers, trimmed 1 ¼ cups heavy whipping cream 1 onion, quartered 2 eggs 2 tablespoons butter, melted 1 teaspoon salt ¼ teaspoon ground nutmeg ground black pepper to taste preheat oven to 390 degrees f (200 degrees c). mix flour and water together in a bowl until a thin paste forms, adding more water as needed. combine flour mixture, chicken livers, cream, onion, eggs, butter, salt, nutmeg, and black pepper in a food processor; process until blended and smooth, 30 to 45 seconds. transfer liver mixture to three 7x4-inch disposable pans. cover pans with aluminum foil and place in a baking pan. pour enough water into the baking pan to come up halfway up the sides. bake in the preheated oven for 25 minutes. remove foil and continue baking until cooked through, about 25 minutes. an instant-read thermometer inserted into the center should read at least 165 degrees f (74 degrees c). cool to room temperature. cover with lids and refrigerate.",
+        "ingredients_raw": [
+            "2 tablespoons all-purpose flour",
+            "1 teaspoon water, or as needed",
+            "1 pound chicken livers, trimmed",
+            "1 ¼ cups heavy whipping cream",
+            "1 onion, quartered",
+            "2 eggs",
+            "2 tablespoons butter, melted",
+            "1 teaspoon salt",
+            "¼ teaspoon ground nutmeg",
+            "ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Preheat oven to 390 degrees F (200 degrees C).",
+            "Mix flour and water together in a bowl until a thin paste forms, adding more water as needed.",
+            "Combine flour mixture, chicken livers, cream, onion, eggs, butter, salt, nutmeg, and black pepper in a food processor; process until blended and smooth, 30 to 45 seconds.",
+            "Transfer liver mixture to three 7x4-inch disposable pans. Cover pans with aluminum foil and place in a baking pan. Pour enough water into the baking pan to come up halfway up the sides.",
+            "Bake in the preheated oven for 25 minutes. Remove foil and continue baking until cooked through, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Cool to room temperature. Cover with lids and refrigerate."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "water as needed",
+            "pound chicken livers trimmed",
+            "¼ heavy whipping cream",
+            "onion quartered",
+            "eggs",
+            "butter melted",
+            "salt",
+            "¼ ground nutmeg",
+            "ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 44,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bug Lady Tofu Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "The inspiration and basic idea for this amazingly delicious tofu spread recipe comes from my most favorite entomologist friend, Leslie, a.k.a. 'Bug Lady'",
+        "ingredients": [
+            "1 (16 ounce) package soft tofu",
+            "¼ cup mayonnaise",
+            "¼ teaspoon garlic powder",
+            "¼ teaspoon ground white pepper",
+            "¼ teaspoon prepared mustard",
+            "¼ teaspoon seasoning salt",
+            "¼ teaspoon nutritional yeast",
+            "¼ teaspoon paprika",
+            "1 orange bell pepper, finely chopped",
+            "1 fresh red chile pepper, finely chopped",
+            "2 stalks celery, finely chopped",
+            "2 tablespoons chopped fresh parsley",
+            "2 tablespoons chopped fresh cilantro",
+            "2 tablespoons chopped fresh dill weed",
+            "2 cloves garlic, minced"
+        ],
+        "directions": [
+            "Wrap soft tofu in cheese cloth. Place over a medium bowl, and press to drain as much liquid as possible.",
+            "Place tofu in a medium bowl. Mix in mayonnaise, garlic powder, white pepper, mustard, seasoning salt, nutritional yeast, paprika, orange bell pepper, red chile pepper, celery, parsley, cilantro, dill weed and garlic. Blend until smooth. Cover and chill in the refrigerator until serving."
+        ],
+        "num_ingredients": 15,
+        "num_steps": 2,
+        "ingredient_text": "ounce package soft tofu ¼ mayonnaise ¼ garlic powder ¼ ground white pepper ¼ prepared mustard ¼ seasoning salt ¼ nutritional yeast ¼ paprika orange bell pepper finely chopped fresh red chile pepper finely chopped stalks celery finely chopped chopped fresh parsley chopped fresh cilantro chopped fresh dill weed cloves garlic minced",
+        "directions_text": "wrap soft tofu in cheese cloth. place over a medium bowl, and press to drain as much liquid as possible. place tofu in a medium bowl. mix in mayonnaise, garlic powder, white pepper, mustard, seasoning salt, nutritional yeast, paprika, orange bell pepper, red chile pepper, celery, parsley, cilantro, dill weed and garlic. blend until smooth. cover and chill in the refrigerator until serving.",
+        "combined_text": "bug lady tofu pate pate pate 1 (16 ounce) package soft tofu ¼ cup mayonnaise ¼ teaspoon garlic powder ¼ teaspoon ground white pepper ¼ teaspoon prepared mustard ¼ teaspoon seasoning salt ¼ teaspoon nutritional yeast ¼ teaspoon paprika 1 orange bell pepper, finely chopped 1 fresh red chile pepper, finely chopped 2 stalks celery, finely chopped 2 tablespoons chopped fresh parsley 2 tablespoons chopped fresh cilantro 2 tablespoons chopped fresh dill weed 2 cloves garlic, minced wrap soft tofu in cheese cloth. place over a medium bowl, and press to drain as much liquid as possible. place tofu in a medium bowl. mix in mayonnaise, garlic powder, white pepper, mustard, seasoning salt, nutritional yeast, paprika, orange bell pepper, red chile pepper, celery, parsley, cilantro, dill weed and garlic. blend until smooth. cover and chill in the refrigerator until serving.",
+        "ingredients_raw": [
+            "1 (16 ounce) package soft tofu",
+            "¼ cup mayonnaise",
+            "¼ teaspoon garlic powder",
+            "¼ teaspoon ground white pepper",
+            "¼ teaspoon prepared mustard",
+            "¼ teaspoon seasoning salt",
+            "¼ teaspoon nutritional yeast",
+            "¼ teaspoon paprika",
+            "1 orange bell pepper, finely chopped",
+            "1 fresh red chile pepper, finely chopped",
+            "2 stalks celery, finely chopped",
+            "2 tablespoons chopped fresh parsley",
+            "2 tablespoons chopped fresh cilantro",
+            "2 tablespoons chopped fresh dill weed",
+            "2 cloves garlic, minced"
+        ],
+        "directions_raw": [
+            "Wrap soft tofu in cheese cloth. Place over a medium bowl, and press to drain as much liquid as possible.",
+            "Place tofu in a medium bowl. Mix in mayonnaise, garlic powder, white pepper, mustard, seasoning salt, nutritional yeast, paprika, orange bell pepper, red chile pepper, celery, parsley, cilantro, dill weed and garlic. Blend until smooth. Cover and chill in the refrigerator until serving."
+        ],
+        "ingredients_canonical": [
+            "ounce package soft tofu",
+            "¼ mayonnaise",
+            "¼ garlic powder",
+            "¼ ground white pepper",
+            "¼ prepared mustard",
+            "¼ seasoning salt",
+            "¼ nutritional yeast",
+            "¼ paprika",
+            "orange bell pepper finely chopped",
+            "fresh red chile pepper finely chopped",
+            "stalks celery finely chopped",
+            "chopped fresh parsley",
+            "chopped fresh cilantro",
+            "chopped fresh dill weed",
+            "cloves garlic minced"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "german",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 16,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "To Die For Garlic Feta Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Friends beg me to make this when they come over. Cream cheese, garlic, anchovies, feta cheese and fresh chives are quickly blended and ready to serve in this easy gourmet snack. Even serious dieters can't resist this heavenly spread! Serve with crackers, toasted pita wedges, or sliced baguette.",
+        "ingredients": [
+            "2 cloves garlic, minced",
+            "4 anchovy fillets, chopped",
+            "6 tablespoons butter, softened",
+            "1 (8 ounce) package cream cheese, softened",
+            "¾ cup crumbled feta cheese",
+            "¼ cup sour cream",
+            "1 tablespoon chopped fresh chives",
+            "1 dash hot pepper sauce (e.g. Tabasco™), or to taste",
+            "freshly ground black pepper to taste"
+        ],
+        "directions": [
+            "Combine the garlic, anchovies, butter, cream cheese, feta cheese, sour cream, chives, hot pepper sauce and pepper in the container of a food processor. Process until smooth. Transfer to a serving bowl, and serve with crackers, bread slices, or pita chips."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 1,
+        "ingredient_text": "cloves garlic minced anchovy fillets chopped butter softened ounce package cream cheese softened ¾ crumbled feta cheese ¼ sour cream chopped fresh chives dash hot pepper sauce e tabasco taste freshly ground black pepper taste",
+        "directions_text": "combine the garlic, anchovies, butter, cream cheese, feta cheese, sour cream, chives, hot pepper sauce and pepper in the container of a food processor. process until smooth. transfer to a serving bowl, and serve with crackers, bread slices, or pita chips.",
+        "combined_text": "to die for garlic feta pate pate pate 2 cloves garlic, minced 4 anchovy fillets, chopped 6 tablespoons butter, softened 1 (8 ounce) package cream cheese, softened ¾ cup crumbled feta cheese ¼ cup sour cream 1 tablespoon chopped fresh chives 1 dash hot pepper sauce (e.g. tabasco™), or to taste freshly ground black pepper to taste combine the garlic, anchovies, butter, cream cheese, feta cheese, sour cream, chives, hot pepper sauce and pepper in the container of a food processor. process until smooth. transfer to a serving bowl, and serve with crackers, bread slices, or pita chips.",
+        "ingredients_raw": [
+            "2 cloves garlic, minced",
+            "4 anchovy fillets, chopped",
+            "6 tablespoons butter, softened",
+            "1 (8 ounce) package cream cheese, softened",
+            "¾ cup crumbled feta cheese",
+            "¼ cup sour cream",
+            "1 tablespoon chopped fresh chives",
+            "1 dash hot pepper sauce (e.g. Tabasco™), or to taste",
+            "freshly ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Combine the garlic, anchovies, butter, cream cheese, feta cheese, sour cream, chives, hot pepper sauce and pepper in the container of a food processor. Process until smooth. Transfer to a serving bowl, and serve with crackers, bread slices, or pita chips."
+        ],
+        "ingredients_canonical": [
+            "cloves garlic minced",
+            "anchovy fillets chopped",
+            "butter softened",
+            "ounce package cream cheese softened",
+            "¾ crumbled feta cheese",
+            "¼ sour cream",
+            "chopped fresh chives",
+            "dash hot pepper sauce e tabasco taste",
+            "freshly ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern",
+            "middle eastern region",
+            "russian"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "snack"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Special Occasion Smoked Bluefish Pâté",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This easy special occasion smoked bluefish pâté recipe is a classic holiday standby. Smoked bluefish is blended into a creamy, zesty spread. Smoked salmon or tuna may be substituted. Serve with crackers.",
+        "ingredients": [
+            "8 ounces skinless, boneless smoked bluefish",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 ½ teaspoons Dijon mustard, or to taste",
+            "1 ½ teaspoons prepared horseradish, or to taste"
+        ],
+        "directions": [
+            "Break up bluefish into pieces; place in the bowl of a food processor. Add cream cheese; pulse until smooth. Add Dijon and horseradish; pulse until reaches desired consistency.",
+            "Transfer pâté to a bowl; cover the bowl. Refrigerate before serving, 6 hours to overnight."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 2,
+        "ingredient_text": "ounces skinless boneless smoked bluefish ounce package cream cheese softened ½ dijon mustard taste ½ prepared horseradish taste",
+        "directions_text": "break up bluefish into pieces; place in the bowl of a food processor. add cream cheese; pulse until smooth. add dijon and horseradish; pulse until reaches desired consistency. transfer pâté to a bowl; cover the bowl. refrigerate before serving, 6 hours to overnight.",
+        "combined_text": "special occasion smoked bluefish pâté pate pate 8 ounces skinless, boneless smoked bluefish 1 (8 ounce) package cream cheese, softened 1 ½ teaspoons dijon mustard, or to taste 1 ½ teaspoons prepared horseradish, or to taste break up bluefish into pieces; place in the bowl of a food processor. add cream cheese; pulse until smooth. add dijon and horseradish; pulse until reaches desired consistency. transfer pâté to a bowl; cover the bowl. refrigerate before serving, 6 hours to overnight.",
+        "ingredients_raw": [
+            "8 ounces skinless, boneless smoked bluefish",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 ½ teaspoons Dijon mustard, or to taste",
+            "1 ½ teaspoons prepared horseradish, or to taste"
+        ],
+        "directions_raw": [
+            "Break up bluefish into pieces; place in the bowl of a food processor. Add cream cheese; pulse until smooth. Add Dijon and horseradish; pulse until reaches desired consistency.",
+            "Transfer pâté to a bowl; cover the bowl. Refrigerate before serving, 6 hours to overnight."
+        ],
+        "ingredients_canonical": [
+            "ounces skinless boneless smoked bluefish",
+            "ounce package cream cheese softened",
+            "½ dijon mustard taste",
+            "½ prepared horseradish taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "White Bean Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "A tasty alternative to a traditional liver pate. Serve with crusty bread or pita chips. This can be prepared 24 hours ahead.",
+        "ingredients": [
+            "½ teaspoon butter, or as needed",
+            "1 tablespoon olive oil",
+            "¼ teaspoon ground white pepper",
+            "½ teaspoon smoked paprika",
+            "⅛ teaspoon cayenne pepper",
+            "1 shallot, minced",
+            "2 cups cannellini (white kidney) beans, rinsed and drained",
+            "¼ teaspoon tomato paste",
+            "2 tablespoons dry sherry",
+            "1 teaspoon soy sauce",
+            "1 tablespoon melted butter",
+            "salt to taste",
+            "2 tablespoons chopped fresh parsley, or as desired",
+            "1 pinch paprika, or as desired"
+        ],
+        "directions": [
+            "Lightly grease a serving bowl with butter.",
+            "Pour olive oil into a skillet; add white pepper, smoked paprika, and cayenne pepper. Place the skillet over medium heat and warm the spices until fragrant, 2 to 3 minutes.",
+            "Stir shallot into the warm oil and spices; cook and stir until the shallot begins to change color, 3 to 5 minutes.",
+            "Stir cannellini beans and tomato paste into the shallot and spice mixture. Cook and stir while mashing the beans thoroughly, about 5 minutes.",
+            "Stir sherry and soy sauce through the mashed bean mixture; cook until the liquid evaporates, 1 to 2 minutes.",
+            "Remove the skillet from heat. Stir melted butter through the bean mixture; season with salt. Pack the bean mixture into the prepared bowl.",
+            "Chill in refrigerator at least 1 hour; garnish with parsley and paprika to serve."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 7,
+        "ingredient_text": "½ butter as needed olive oil ¼ ground white pepper ½ smoked paprika ⅛ cayenne pepper shallot minced cannellini white kidney beans rinsed drained ¼ tomato paste dry sherry soy sauce melted butter salt taste chopped fresh parsley as desired pinch paprika as desired",
+        "directions_text": "lightly grease a serving bowl with butter. pour olive oil into a skillet; add white pepper, smoked paprika, and cayenne pepper. place the skillet over medium heat and warm the spices until fragrant, 2 to 3 minutes. stir shallot into the warm oil and spices; cook and stir until the shallot begins to change color, 3 to 5 minutes. stir cannellini beans and tomato paste into the shallot and spice mixture. cook and stir while mashing the beans thoroughly, about 5 minutes. stir sherry and soy sauce through the mashed bean mixture; cook until the liquid evaporates, 1 to 2 minutes. remove the skillet from heat. stir melted butter through the bean mixture; season with salt. pack the bean mixture into the prepared bowl. chill in refrigerator at least 1 hour; garnish with parsley and paprika to serve.",
+        "combined_text": "white bean pate pate pate ½ teaspoon butter, or as needed 1 tablespoon olive oil ¼ teaspoon ground white pepper ½ teaspoon smoked paprika ⅛ teaspoon cayenne pepper 1 shallot, minced 2 cups cannellini (white kidney) beans, rinsed and drained ¼ teaspoon tomato paste 2 tablespoons dry sherry 1 teaspoon soy sauce 1 tablespoon melted butter salt to taste 2 tablespoons chopped fresh parsley, or as desired 1 pinch paprika, or as desired lightly grease a serving bowl with butter. pour olive oil into a skillet; add white pepper, smoked paprika, and cayenne pepper. place the skillet over medium heat and warm the spices until fragrant, 2 to 3 minutes. stir shallot into the warm oil and spices; cook and stir until the shallot begins to change color, 3 to 5 minutes. stir cannellini beans and tomato paste into the shallot and spice mixture. cook and stir while mashing the beans thoroughly, about 5 minutes. stir sherry and soy sauce through the mashed bean mixture; cook until the liquid evaporates, 1 to 2 minutes. remove the skillet from heat. stir melted butter through the bean mixture; season with salt. pack the bean mixture into the prepared bowl. chill in refrigerator at least 1 hour; garnish with parsley and paprika to serve.",
+        "ingredients_raw": [
+            "½ teaspoon butter, or as needed",
+            "1 tablespoon olive oil",
+            "¼ teaspoon ground white pepper",
+            "½ teaspoon smoked paprika",
+            "⅛ teaspoon cayenne pepper",
+            "1 shallot, minced",
+            "2 cups cannellini (white kidney) beans, rinsed and drained",
+            "¼ teaspoon tomato paste",
+            "2 tablespoons dry sherry",
+            "1 teaspoon soy sauce",
+            "1 tablespoon melted butter",
+            "salt to taste",
+            "2 tablespoons chopped fresh parsley, or as desired",
+            "1 pinch paprika, or as desired"
+        ],
+        "directions_raw": [
+            "Lightly grease a serving bowl with butter.",
+            "Pour olive oil into a skillet; add white pepper, smoked paprika, and cayenne pepper. Place the skillet over medium heat and warm the spices until fragrant, 2 to 3 minutes.",
+            "Stir shallot into the warm oil and spices; cook and stir until the shallot begins to change color, 3 to 5 minutes.",
+            "Stir cannellini beans and tomato paste into the shallot and spice mixture. Cook and stir while mashing the beans thoroughly, about 5 minutes.",
+            "Stir sherry and soy sauce through the mashed bean mixture; cook until the liquid evaporates, 1 to 2 minutes.",
+            "Remove the skillet from heat. Stir melted butter through the bean mixture; season with salt. Pack the bean mixture into the prepared bowl.",
+            "Chill in refrigerator at least 1 hour; garnish with parsley and paprika to serve."
+        ],
+        "ingredients_canonical": [
+            "½ butter as needed",
+            "olive oil",
+            "¼ ground white pepper",
+            "½ smoked paprika",
+            "⅛ cayenne pepper",
+            "shallot minced",
+            "cannellini white kidney beans rinsed drained",
+            "¼ tomato paste",
+            "dry sherry",
+            "soy sauce",
+            "melted butter",
+            "salt taste",
+            "chopped fresh parsley as desired",
+            "pinch paprika as desired"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 0,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 34,
+        "est_cook_time_min": 61,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lighter Cretons",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Cretons are an old French Canadian recipe. It was made with lots of lard and pork. This light version will be a delightful surprise. Spread on your favorite bread or crackers.",
+        "ingredients": [
+            "1 pound ground turkey",
+            "1 ½ cups water, divided",
+            "1 cup chopped onion",
+            "⅛ teaspoon ground cloves",
+            "⅛ teaspoon sage",
+            "⅛ teaspoon ground cinnamon",
+            "1 (.25 ounce) package unflavored gelatin (such as Knox ®)"
+        ],
+        "directions": [
+            "Place ground turkey, 1 cup water, onion, cloves, sage, and cinnamon in a saucepan. Bring turkey mixture to a boil, reduce heat, and simmer 45 minutes, mashing ingredients occasionally with a spatula while cooking; remove from heat.",
+            "Stir gelatin into remaining 1/2 cup water; stir gelatin mixture into turkey mixture. Transfer to a small container; refrigerate until cool, about 1 hour."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "pound ground turkey ½ water divided chopped onion ⅛ ground cloves ⅛ sage ⅛ ground cinnamon ounce package unflavored gelatin such as knox",
+        "directions_text": "place ground turkey, 1 cup water, onion, cloves, sage, and cinnamon in a saucepan. bring turkey mixture to a boil, reduce heat, and simmer 45 minutes, mashing ingredients occasionally with a spatula while cooking; remove from heat. stir gelatin into remaining 1/2 cup water; stir gelatin mixture into turkey mixture. transfer to a small container; refrigerate until cool, about 1 hour.",
+        "combined_text": "lighter cretons pate pate 1 pound ground turkey 1 ½ cups water, divided 1 cup chopped onion ⅛ teaspoon ground cloves ⅛ teaspoon sage ⅛ teaspoon ground cinnamon 1 (.25 ounce) package unflavored gelatin (such as knox ®) place ground turkey, 1 cup water, onion, cloves, sage, and cinnamon in a saucepan. bring turkey mixture to a boil, reduce heat, and simmer 45 minutes, mashing ingredients occasionally with a spatula while cooking; remove from heat. stir gelatin into remaining 1/2 cup water; stir gelatin mixture into turkey mixture. transfer to a small container; refrigerate until cool, about 1 hour.",
+        "ingredients_raw": [
+            "1 pound ground turkey",
+            "1 ½ cups water, divided",
+            "1 cup chopped onion",
+            "⅛ teaspoon ground cloves",
+            "⅛ teaspoon sage",
+            "⅛ teaspoon ground cinnamon",
+            "1 (.25 ounce) package unflavored gelatin (such as Knox ®)"
+        ],
+        "directions_raw": [
+            "Place ground turkey, 1 cup water, onion, cloves, sage, and cinnamon in a saucepan. Bring turkey mixture to a boil, reduce heat, and simmer 45 minutes, mashing ingredients occasionally with a spatula while cooking; remove from heat.",
+            "Stir gelatin into remaining 1/2 cup water; stir gelatin mixture into turkey mixture. Transfer to a small container; refrigerate until cool, about 1 hour."
+        ],
+        "ingredients_canonical": [
+            "pound ground turkey",
+            "½ water divided",
+            "chopped onion",
+            "⅛ ground cloves",
+            "⅛ sage",
+            "⅛ ground cinnamon",
+            "ounce package unflavored gelatin such as knox"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 57,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chicken Liver Pate with Currants",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "This has a tiny hint of something special that nobody seems to be able to identify, along with currents this is a unique pate.",
+        "ingredients": [
+            "½ cup dried currants",
+            "2 tablespoons brandy-based orange liqueur (such as Grand Marnier®)",
+            "1 cup butter, divided",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "2 pounds chicken livers, trimmed",
+            "½ cup heavy whipping cream",
+            "1 teaspoon dried thyme",
+            "½ teaspoon ground allspice",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Place currants in a small bowl; cover with orange liqueur. Let soak until plump, about 1 hour.",
+            "Melt 1/4 cup butter in a large skillet over medium heat. Cook and stir onion and garlic in the hot butter until softened, about 1 minute. Add chicken livers; cook and stir until no longer pink in the center, 5 to 8 minutes.",
+            "Place remaining 3/4 cup butter, chicken liver mixture, heavy cream, thyme, and allspice in a food processor; blend until smooth. Transfer to a bowl and stir in currants and orange liqueur. Season pate with salt and pepper.",
+            "Divide pate among small ramekins. Refrigerate until firm, at least 3 hours."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "½ dried currants brandy-based orange liqueur such as grand marnier butter divided onion finely chopped cloves garlic minced pounds chicken livers trimmed ½ heavy whipping cream dried thyme ½ ground allspice salt ground black pepper taste",
+        "directions_text": "place currants in a small bowl; cover with orange liqueur. let soak until plump, about 1 hour. melt 1/4 cup butter in a large skillet over medium heat. cook and stir onion and garlic in the hot butter until softened, about 1 minute. add chicken livers; cook and stir until no longer pink in the center, 5 to 8 minutes. place remaining 3/4 cup butter, chicken liver mixture, heavy cream, thyme, and allspice in a food processor; blend until smooth. transfer to a bowl and stir in currants and orange liqueur. season pate with salt and pepper. divide pate among small ramekins. refrigerate until firm, at least 3 hours.",
+        "combined_text": "chicken liver pate with currants pate pate ½ cup dried currants 2 tablespoons brandy-based orange liqueur (such as grand marnier®) 1 cup butter, divided 1 onion, finely chopped 2 cloves garlic, minced 2 pounds chicken livers, trimmed ½ cup heavy whipping cream 1 teaspoon dried thyme ½ teaspoon ground allspice salt and ground black pepper to taste place currants in a small bowl; cover with orange liqueur. let soak until plump, about 1 hour. melt 1/4 cup butter in a large skillet over medium heat. cook and stir onion and garlic in the hot butter until softened, about 1 minute. add chicken livers; cook and stir until no longer pink in the center, 5 to 8 minutes. place remaining 3/4 cup butter, chicken liver mixture, heavy cream, thyme, and allspice in a food processor; blend until smooth. transfer to a bowl and stir in currants and orange liqueur. season pate with salt and pepper. divide pate among small ramekins. refrigerate until firm, at least 3 hours.",
+        "ingredients_raw": [
+            "½ cup dried currants",
+            "2 tablespoons brandy-based orange liqueur (such as Grand Marnier®)",
+            "1 cup butter, divided",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "2 pounds chicken livers, trimmed",
+            "½ cup heavy whipping cream",
+            "1 teaspoon dried thyme",
+            "½ teaspoon ground allspice",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Place currants in a small bowl; cover with orange liqueur. Let soak until plump, about 1 hour.",
+            "Melt 1/4 cup butter in a large skillet over medium heat. Cook and stir onion and garlic in the hot butter until softened, about 1 minute. Add chicken livers; cook and stir until no longer pink in the center, 5 to 8 minutes.",
+            "Place remaining 3/4 cup butter, chicken liver mixture, heavy cream, thyme, and allspice in a food processor; blend until smooth. Transfer to a bowl and stir in currants and orange liqueur. Season pate with salt and pepper.",
+            "Divide pate among small ramekins. Refrigerate until firm, at least 3 hours."
+        ],
+        "ingredients_canonical": [
+            "½ dried currants",
+            "brandy-based orange liqueur such as grand marnier",
+            "butter divided",
+            "onion finely chopped",
+            "cloves garlic minced",
+            "pounds chicken livers trimmed",
+            "½ heavy whipping cream",
+            "dried thyme",
+            "½ ground allspice",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 66,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "George's Salmon-Pepper Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "Pate is a great way to use leftover salmon!",
+        "ingredients": [
+            "⅓ pound cooked salmon fillet",
+            "½ cup Greek yogurt",
+            "¼ teaspoon salt",
+            "1 teaspoon dried dill weed",
+            "2 tablespoons butter, or to taste",
+            "4 slices French bread, or to taste",
+            "2 tablespoons prepared jalapeno pepper jelly, or to taste"
+        ],
+        "directions": [
+            "Blend salmon, Greek yogurt, salt, and dill weed together in a food processor until creamy and smooth. Refrigerate pate until set, at least 1 hour.",
+            "Butter each slice of bread and toast in the toaster oven, about 4 minutes. Spread salmon pate over bread; spread pepper jelly on top."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "⅓ pound cooked salmon fillet ½ greek yogurt ¼ salt dried dill weed butter taste slices french bread taste prepared jalapeno pepper jelly taste",
+        "directions_text": "blend salmon, greek yogurt, salt, and dill weed together in a food processor until creamy and smooth. refrigerate pate until set, at least 1 hour. butter each slice of bread and toast in the toaster oven, about 4 minutes. spread salmon pate over bread; spread pepper jelly on top.",
+        "combined_text": "george's salmon-pepper pate pate pate ⅓ pound cooked salmon fillet ½ cup greek yogurt ¼ teaspoon salt 1 teaspoon dried dill weed 2 tablespoons butter, or to taste 4 slices french bread, or to taste 2 tablespoons prepared jalapeno pepper jelly, or to taste blend salmon, greek yogurt, salt, and dill weed together in a food processor until creamy and smooth. refrigerate pate until set, at least 1 hour. butter each slice of bread and toast in the toaster oven, about 4 minutes. spread salmon pate over bread; spread pepper jelly on top.",
+        "ingredients_raw": [
+            "⅓ pound cooked salmon fillet",
+            "½ cup Greek yogurt",
+            "¼ teaspoon salt",
+            "1 teaspoon dried dill weed",
+            "2 tablespoons butter, or to taste",
+            "4 slices French bread, or to taste",
+            "2 tablespoons prepared jalapeno pepper jelly, or to taste"
+        ],
+        "directions_raw": [
+            "Blend salmon, Greek yogurt, salt, and dill weed together in a food processor until creamy and smooth. Refrigerate pate until set, at least 1 hour.",
+            "Butter each slice of bread and toast in the toaster oven, about 4 minutes. Spread salmon pate over bread; spread pepper jelly on top."
+        ],
+        "ingredients_canonical": [
+            "⅓ pound cooked salmon fillet",
+            "½ greek yogurt",
+            "¼ salt",
+            "dried dill weed",
+            "butter taste",
+            "slices french bread taste",
+            "prepared jalapeno pepper jelly taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "breakfast"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Rustic Chicken Liver and Morel Pate",
+        "category": "Pate",
+        "subcategory": "Pate",
+        "description": "A rustic French pate baked in a terrine mould, this is much easier to make than you think! Enjoy this pate en terrine with crusty bread, mustard, and pickles.",
+        "ingredients": [
+            "½ cup warm milk",
+            "1 tablespoon cognac",
+            "1 ounce dried morel mushrooms",
+            "7 ounces chicken livers, rinsed and trimmed",
+            "7 ounces cubed, fully cooked ham",
+            "2 large cloves garlic",
+            "½ pound ground pork",
+            "1 large egg",
+            "1 teaspoon ground black pepper",
+            "½ teaspoon salt",
+            "1 large bay leaf"
+        ],
+        "directions": [
+            "Combine milk, cognac, and morel mushrooms in a bowl; soak for 20 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease a terrine mold.",
+            "Combine chicken livers, ham, and garlic in a food processor. Process until mixture is smooth and well combined. Add ground pork, egg, pepper, and salt. Process again until smooth and well combined.",
+            "Drain morel mushrooms and and chop; stir mushrooms into the meat mixture. Tip pate mixture into the prepared terrine mould. Smooth out mixture with the back of a spoon and gently press bay leaf on top.",
+            "Bake in the preheated oven until pate has set, about 1 hour. Remove from oven and allow to cool to room temperature. Chill in the refrigerator for at least 6 hours before serving"
+        ],
+        "num_ingredients": 11,
+        "num_steps": 5,
+        "ingredient_text": "½ warm milk cognac ounce dried morel mushrooms ounces chicken livers rinsed trimmed ounces cubed fully cooked ham large cloves garlic ½ pound ground pork large egg ground black pepper ½ salt large bay leaf",
+        "directions_text": "combine milk, cognac, and morel mushrooms in a bowl; soak for 20 minutes. preheat the oven to 350 degrees f (180 degrees c). grease a terrine mold. combine chicken livers, ham, and garlic in a food processor. process until mixture is smooth and well combined. add ground pork, egg, pepper, and salt. process again until smooth and well combined. drain morel mushrooms and and chop; stir mushrooms into the meat mixture. tip pate mixture into the prepared terrine mould. smooth out mixture with the back of a spoon and gently press bay leaf on top. bake in the preheated oven until pate has set, about 1 hour. remove from oven and allow to cool to room temperature. chill in the refrigerator for at least 6 hours before serving",
+        "combined_text": "rustic chicken liver and morel pate pate pate ½ cup warm milk 1 tablespoon cognac 1 ounce dried morel mushrooms 7 ounces chicken livers, rinsed and trimmed 7 ounces cubed, fully cooked ham 2 large cloves garlic ½ pound ground pork 1 large egg 1 teaspoon ground black pepper ½ teaspoon salt 1 large bay leaf combine milk, cognac, and morel mushrooms in a bowl; soak for 20 minutes. preheat the oven to 350 degrees f (180 degrees c). grease a terrine mold. combine chicken livers, ham, and garlic in a food processor. process until mixture is smooth and well combined. add ground pork, egg, pepper, and salt. process again until smooth and well combined. drain morel mushrooms and and chop; stir mushrooms into the meat mixture. tip pate mixture into the prepared terrine mould. smooth out mixture with the back of a spoon and gently press bay leaf on top. bake in the preheated oven until pate has set, about 1 hour. remove from oven and allow to cool to room temperature. chill in the refrigerator for at least 6 hours before serving",
+        "ingredients_raw": [
+            "½ cup warm milk",
+            "1 tablespoon cognac",
+            "1 ounce dried morel mushrooms",
+            "7 ounces chicken livers, rinsed and trimmed",
+            "7 ounces cubed, fully cooked ham",
+            "2 large cloves garlic",
+            "½ pound ground pork",
+            "1 large egg",
+            "1 teaspoon ground black pepper",
+            "½ teaspoon salt",
+            "1 large bay leaf"
+        ],
+        "directions_raw": [
+            "Combine milk, cognac, and morel mushrooms in a bowl; soak for 20 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease a terrine mold.",
+            "Combine chicken livers, ham, and garlic in a food processor. Process until mixture is smooth and well combined. Add ground pork, egg, pepper, and salt. Process again until smooth and well combined.",
+            "Drain morel mushrooms and and chop; stir mushrooms into the meat mixture. Tip pate mixture into the prepared terrine mould. Smooth out mixture with the back of a spoon and gently press bay leaf on top.",
+            "Bake in the preheated oven until pate has set, about 1 hour. Remove from oven and allow to cool to room temperature. Chill in the refrigerator for at least 6 hours before serving"
+        ],
+        "ingredients_canonical": [
+            "½ warm milk",
+            "cognac",
+            "ounce dried morel mushrooms",
+            "ounces chicken livers rinsed trimmed",
+            "ounces cubed fully cooked ham",
+            "large cloves garlic",
+            "½ pound ground pork",
+            "large egg",
+            "ground black pepper",
+            "½ salt",
+            "large bay leaf"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 39,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    }
+]

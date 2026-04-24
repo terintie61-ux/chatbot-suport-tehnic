@@ -1,0 +1,1038 @@
+[
+    {
+        "recipe_title": "Classic Mincemeat Pie",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "Talk about a quick and easy recipe! You can prep, bake, and serve this classic mincemeat pie in under an hour. Top warm pie with vanilla ice cream if desired.",
+        "ingredients": [
+            "1 (14.1 ounce) package double-crust pie pastry, thawed",
+            "1 (29 ounce) jar Crosse & Blackwell® Mincemeat Filling & Topping or Crosse & Blackwell® Rum & Brandy Mincemeat Filling & Topping"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Unroll pie crusts. Line an ungreased 9-inch pie plate with one pastry. Fill with mincemeat filling. Cover with the second pasty and press the edges to seal. Cut slits in the top pasty to vent steam.",
+            "Bake in the preheated oven until pastry is golden brown, 25 to 30 minutes."
+        ],
+        "num_ingredients": 2,
+        "num_steps": 3,
+        "ingredient_text": "ounce package double-crust pie pastry thawed ounce jar crosse blackwell mincemeat filling topping crosse blackwell rum brandy mincemeat filling topping",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). unroll pie crusts. line an ungreased 9-inch pie plate with one pastry. fill with mincemeat filling. cover with the second pasty and press the edges to seal. cut slits in the top pasty to vent steam. bake in the preheated oven until pastry is golden brown, 25 to 30 minutes.",
+        "combined_text": "classic mincemeat pie mincemeat pie mincemeat pie 1 (14.1 ounce) package double-crust pie pastry, thawed 1 (29 ounce) jar crosse & blackwell® mincemeat filling & topping or crosse & blackwell® rum & brandy mincemeat filling & topping preheat the oven to 425 degrees f (220 degrees c). unroll pie crusts. line an ungreased 9-inch pie plate with one pastry. fill with mincemeat filling. cover with the second pasty and press the edges to seal. cut slits in the top pasty to vent steam. bake in the preheated oven until pastry is golden brown, 25 to 30 minutes.",
+        "ingredients_raw": [
+            "1 (14.1 ounce) package double-crust pie pastry, thawed",
+            "1 (29 ounce) jar Crosse & Blackwell® Mincemeat Filling & Topping or Crosse & Blackwell® Rum & Brandy Mincemeat Filling & Topping"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Unroll pie crusts. Line an ungreased 9-inch pie plate with one pastry. Fill with mincemeat filling. Cover with the second pasty and press the edges to seal. Cut slits in the top pasty to vent steam.",
+            "Bake in the preheated oven until pastry is golden brown, 25 to 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce package double-crust pie pastry thawed",
+            "ounce jar crosse blackwell mincemeat filling topping crosse blackwell rum brandy mincemeat filling topping"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "bitter"
+        ],
+        "primary_taste": "bitter",
+        "secondary_taste": "none",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 5,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Meatless Mincemeat Pie",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "This meatless mincemeat pie is a sweet treat! You can use brandy or apple juice instead of rum in this recipe.",
+        "ingredients": [
+            "1 (18 ounce) jar prepared mincemeat pie filling",
+            "2 apples, peeled, cored, and chopped",
+            "1 ½ cups chopped walnuts",
+            "½ cup packed brown sugar",
+            "¼ cup rum",
+            "1 tablespoon lemon juice",
+            "1 1recipe pastry for a 9 inch double crust pie"
+        ],
+        "directions": [
+            "Combine mincemeat, apples, walnuts, brown sugar, rum, and lemon juice in a bowl. Cover bowl with plastic wrap; refrigerate 8 hours to overnight.",
+            "Preheat the oven to 425 degrees F (220 degrees C) with a rack in the lowest position.",
+            "Remove filling from the refrigerator; bring to room temperature. Meanwhile, place 1 crust in bottom of a 9-inch pie plate.",
+            "Stir mincemeat filling well; pour into the bottom crust. Top with remaining 1 pie crust; crimp edges. Cut vent slits in top crust (or cut top crust into strips and weave for a lattice top).",
+            "Bake in the preheated oven until golden brown, about 40 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "ounce jar prepared mincemeat pie filling apples peeled cored chopped ½ chopped walnuts ½ packed brown sugar ¼ rum lemon juice recipe pastry for a inch double crust pie",
+        "directions_text": "combine mincemeat, apples, walnuts, brown sugar, rum, and lemon juice in a bowl. cover bowl with plastic wrap; refrigerate 8 hours to overnight. preheat the oven to 425 degrees f (220 degrees c) with a rack in the lowest position. remove filling from the refrigerator; bring to room temperature. meanwhile, place 1 crust in bottom of a 9-inch pie plate. stir mincemeat filling well; pour into the bottom crust. top with remaining 1 pie crust; crimp edges. cut vent slits in top crust (or cut top crust into strips and weave for a lattice top). bake in the preheated oven until golden brown, about 40 minutes.",
+        "combined_text": "meatless mincemeat pie mincemeat pie mincemeat pie 1 (18 ounce) jar prepared mincemeat pie filling 2 apples, peeled, cored, and chopped 1 ½ cups chopped walnuts ½ cup packed brown sugar ¼ cup rum 1 tablespoon lemon juice 1 1recipe pastry for a 9 inch double crust pie combine mincemeat, apples, walnuts, brown sugar, rum, and lemon juice in a bowl. cover bowl with plastic wrap; refrigerate 8 hours to overnight. preheat the oven to 425 degrees f (220 degrees c) with a rack in the lowest position. remove filling from the refrigerator; bring to room temperature. meanwhile, place 1 crust in bottom of a 9-inch pie plate. stir mincemeat filling well; pour into the bottom crust. top with remaining 1 pie crust; crimp edges. cut vent slits in top crust (or cut top crust into strips and weave for a lattice top). bake in the preheated oven until golden brown, about 40 minutes.",
+        "ingredients_raw": [
+            "1 (18 ounce) jar prepared mincemeat pie filling",
+            "2 apples, peeled, cored, and chopped",
+            "1 ½ cups chopped walnuts",
+            "½ cup packed brown sugar",
+            "¼ cup rum",
+            "1 tablespoon lemon juice",
+            "1 1recipe pastry for a 9 inch double crust pie"
+        ],
+        "directions_raw": [
+            "Combine mincemeat, apples, walnuts, brown sugar, rum, and lemon juice in a bowl. Cover bowl with plastic wrap; refrigerate 8 hours to overnight.",
+            "Preheat the oven to 425 degrees F (220 degrees C) with a rack in the lowest position.",
+            "Remove filling from the refrigerator; bring to room temperature. Meanwhile, place 1 crust in bottom of a 9-inch pie plate.",
+            "Stir mincemeat filling well; pour into the bottom crust. Top with remaining 1 pie crust; crimp edges. Cut vent slits in top crust (or cut top crust into strips and weave for a lattice top).",
+            "Bake in the preheated oven until golden brown, about 40 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce jar prepared mincemeat pie filling",
+            "apples peeled cored chopped",
+            "½ chopped walnuts",
+            "½ packed brown sugar",
+            "¼ rum",
+            "lemon juice",
+            "recipe pastry for a inch double crust pie"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 66,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Mincemeat Pie Filling",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "Many years ago, a friend gave me this recipe for mincemeat pie filling made with simple ingredients. It's so good that even those who don't care for mincemeat pie will like it.",
+        "ingredients": [
+            "4 cups chopped apples",
+            "1 ½ cups diced cooked beef",
+            "1 ½ cups raisins",
+            "1 ½ cups white sugar",
+            "1 cup beef broth",
+            "1 large orange - peeled, sectioned, and cut into bite-sized pieces",
+            "½ cup sorghum or molasses",
+            "¼ cup sweet pickle juice",
+            "¼ cup pineapple juice or apricot juice",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground nutmeg",
+            "½ teaspoon ground cloves",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Mix apples, diced beef, raisins, sugar, beef broth, orange sections, sorghum, pickle juice, pineapple juice, cinnamon, nutmeg, cloves, and salt together in a large bowl until well combined.",
+            "Store filling in the refrigerator or freeze until ready to use."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 3,
+        "ingredient_text": "chopped apples ½ diced cooked beef ½ raisins ½ white sugar beef broth large orange - peeled sectioned cut into bite-sized pieces ½ sorghum molasses ¼ sweet pickle juice ¼ pineapple juice apricot juice ground cinnamon ground nutmeg ½ ground cloves ½ salt",
+        "directions_text": "gather all ingredients. mix apples, diced beef, raisins, sugar, beef broth, orange sections, sorghum, pickle juice, pineapple juice, cinnamon, nutmeg, cloves, and salt together in a large bowl until well combined. store filling in the refrigerator or freeze until ready to use.",
+        "combined_text": "mincemeat pie filling mincemeat pie mincemeat pie 4 cups chopped apples 1 ½ cups diced cooked beef 1 ½ cups raisins 1 ½ cups white sugar 1 cup beef broth 1 large orange - peeled, sectioned, and cut into bite-sized pieces ½ cup sorghum or molasses ¼ cup sweet pickle juice ¼ cup pineapple juice or apricot juice 1 teaspoon ground cinnamon 1 teaspoon ground nutmeg ½ teaspoon ground cloves ½ teaspoon salt gather all ingredients. mix apples, diced beef, raisins, sugar, beef broth, orange sections, sorghum, pickle juice, pineapple juice, cinnamon, nutmeg, cloves, and salt together in a large bowl until well combined. store filling in the refrigerator or freeze until ready to use.",
+        "ingredients_raw": [
+            "4 cups chopped apples",
+            "1 ½ cups diced cooked beef",
+            "1 ½ cups raisins",
+            "1 ½ cups white sugar",
+            "1 cup beef broth",
+            "1 large orange - peeled, sectioned, and cut into bite-sized pieces",
+            "½ cup sorghum or molasses",
+            "¼ cup sweet pickle juice",
+            "¼ cup pineapple juice or apricot juice",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground nutmeg",
+            "½ teaspoon ground cloves",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Mix apples, diced beef, raisins, sugar, beef broth, orange sections, sorghum, pickle juice, pineapple juice, cinnamon, nutmeg, cloves, and salt together in a large bowl until well combined.",
+            "Store filling in the refrigerator or freeze until ready to use."
+        ],
+        "ingredients_canonical": [
+            "chopped apples",
+            "½ diced cooked beef",
+            "½ raisins",
+            "½ white sugar",
+            "beef broth",
+            "large orange - peeled sectioned cut into bite-sized pieces",
+            "½ sorghum molasses",
+            "¼ sweet pickle juice",
+            "¼ pineapple juice apricot juice",
+            "ground cinnamon",
+            "ground nutmeg",
+            "½ ground cloves",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "drink",
+            "dessert",
+            "soup"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Apple Mincemeat Pie",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "An easy and very tasty apple mincemeat pie with a fruit base. My stepdad asks me to make this pie for him every Friday!",
+        "ingredients": [
+            "4 apples - peeled, cored and chopped",
+            "2 tablespoons butter",
+            "2 teaspoons lemon juice",
+            "½ cup white sugar",
+            "1 ½ teaspoons vanilla extract",
+            "½ teaspoon ground cinnamon",
+            "⅛ teaspoon ground nutmeg",
+            "2 cups prepared mincemeat (such as None Such®)",
+            "1 cup chopped walnuts (Optional)",
+            "1 package of refrigerated pastry for double-crust pie (such as Pillsbury®",
+            "1 egg yolk",
+            "1 tablespoon water"
+        ],
+        "directions": [
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Place apples, butter, and lemon juice into a saucepan over medium heat and cook, stirring often, until apples are tender, 8 to 10 minutes. Stir in sugar, vanilla, cinnamon, and nutmeg. Mix in mincemeat and walnuts until thoroughly combined and set the pie filling aside.",
+            "Fit pie crust into a 9-inch pie dish; pour filling into crust. With a brush dipped in water, moisten the edge of the bottom crust. Top pie with the second crust and crimp the two crusts together with a fork to seal. Cut 4 slits into top crust for steam vents. Whisk egg yolk with water in a small bowl and brush the yolk mixture over top crust.",
+            "Bake in the preheated oven for 15 minutes, then reduce oven temperature to 350 degrees F (175 degrees C). Remove pie from the oven and cover the crust edges with strips of aluminum foil to prevent overbaking. Return pie to the oven and bake until crust is golden brown and filling is bubbling, 30 to 35 more minutes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "apples - peeled cored chopped butter lemon juice ½ white sugar ½ vanilla extract ½ ground cinnamon ⅛ ground nutmeg prepared mincemeat such as none such chopped walnuts optional package refrigerated pastry for double-crust pie such as pillsbury egg yolk water",
+        "directions_text": "preheat the oven to 450 degrees f (230 degrees c). place apples, butter, and lemon juice into a saucepan over medium heat and cook, stirring often, until apples are tender, 8 to 10 minutes. stir in sugar, vanilla, cinnamon, and nutmeg. mix in mincemeat and walnuts until thoroughly combined and set the pie filling aside. fit pie crust into a 9-inch pie dish; pour filling into crust. with a brush dipped in water, moisten the edge of the bottom crust. top pie with the second crust and crimp the two crusts together with a fork to seal. cut 4 slits into top crust for steam vents. whisk egg yolk with water in a small bowl and brush the yolk mixture over top crust. bake in the preheated oven for 15 minutes, then reduce oven temperature to 350 degrees f (175 degrees c). remove pie from the oven and cover the crust edges with strips of aluminum foil to prevent overbaking. return pie to the oven and bake until crust is golden brown and filling is bubbling, 30 to 35 more minutes.",
+        "combined_text": "apple mincemeat pie mincemeat pie mincemeat pie 4 apples - peeled, cored and chopped 2 tablespoons butter 2 teaspoons lemon juice ½ cup white sugar 1 ½ teaspoons vanilla extract ½ teaspoon ground cinnamon ⅛ teaspoon ground nutmeg 2 cups prepared mincemeat (such as none such®) 1 cup chopped walnuts (optional) 1 package of refrigerated pastry for double-crust pie (such as pillsbury® 1 egg yolk 1 tablespoon water preheat the oven to 450 degrees f (230 degrees c). place apples, butter, and lemon juice into a saucepan over medium heat and cook, stirring often, until apples are tender, 8 to 10 minutes. stir in sugar, vanilla, cinnamon, and nutmeg. mix in mincemeat and walnuts until thoroughly combined and set the pie filling aside. fit pie crust into a 9-inch pie dish; pour filling into crust. with a brush dipped in water, moisten the edge of the bottom crust. top pie with the second crust and crimp the two crusts together with a fork to seal. cut 4 slits into top crust for steam vents. whisk egg yolk with water in a small bowl and brush the yolk mixture over top crust. bake in the preheated oven for 15 minutes, then reduce oven temperature to 350 degrees f (175 degrees c). remove pie from the oven and cover the crust edges with strips of aluminum foil to prevent overbaking. return pie to the oven and bake until crust is golden brown and filling is bubbling, 30 to 35 more minutes.",
+        "ingredients_raw": [
+            "4 apples - peeled, cored and chopped",
+            "2 tablespoons butter",
+            "2 teaspoons lemon juice",
+            "½ cup white sugar",
+            "1 ½ teaspoons vanilla extract",
+            "½ teaspoon ground cinnamon",
+            "⅛ teaspoon ground nutmeg",
+            "2 cups prepared mincemeat (such as None Such®)",
+            "1 cup chopped walnuts (Optional)",
+            "1 package of refrigerated pastry for double-crust pie (such as Pillsbury®",
+            "1 egg yolk",
+            "1 tablespoon water"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Place apples, butter, and lemon juice into a saucepan over medium heat and cook, stirring often, until apples are tender, 8 to 10 minutes. Stir in sugar, vanilla, cinnamon, and nutmeg. Mix in mincemeat and walnuts until thoroughly combined and set the pie filling aside.",
+            "Fit pie crust into a 9-inch pie dish; pour filling into crust. With a brush dipped in water, moisten the edge of the bottom crust. Top pie with the second crust and crimp the two crusts together with a fork to seal. Cut 4 slits into top crust for steam vents. Whisk egg yolk with water in a small bowl and brush the yolk mixture over top crust.",
+            "Bake in the preheated oven for 15 minutes, then reduce oven temperature to 350 degrees F (175 degrees C). Remove pie from the oven and cover the crust edges with strips of aluminum foil to prevent overbaking. Return pie to the oven and bake until crust is golden brown and filling is bubbling, 30 to 35 more minutes."
+        ],
+        "ingredients_canonical": [
+            "apples - peeled cored chopped",
+            "butter",
+            "lemon juice",
+            "½ white sugar",
+            "½ vanilla extract",
+            "½ ground cinnamon",
+            "⅛ ground nutmeg",
+            "prepared mincemeat such as none such",
+            "chopped walnuts optional",
+            "package refrigerated pastry for double-crust pie such as pillsbury",
+            "egg yolk",
+            "water"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 68,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Traditional Mince Pies",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "Mince pies are a British Christmas tradition. My brother gave me this recipe for these delicious homemade mince pies so I decided to share this wonderful recipe with you.",
+        "ingredients": [
+            "1 ¾ cups all-purpose flour",
+            "1/2 cup confectioners' sugar, divided",
+            "2 teaspoons ground cinnamon",
+            "2/3 cup butter, softened",
+            "2 tablespoons grated orange zest",
+            "1/4 cup ice water",
+            "3/4 cup prepared mincemeat pie filling",
+            "1 large egg, beaten"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Sift flour, 1/4 cup confectioners' sugar, and cinnamon together in a large bowl. Use a pastry cutter or two forks to mix in butter until mixture resembles fine crumbs. Stir in orange zest. Sprinkle with ice water and gather dough into a ball. Roll out on a lightly floured surface to 1/4 inch thick. Cut out approximately 18 (3-inch) diameter circles, and 18 (2-inch) circles, re-rolling dough as needed.",
+            "Line muffin cups or mini tart tins using the 3-inch pastry circles. Fill each pastry cup with about 1 tablespoon of mincemeat filling. Top with 2-inch pastry circles, pinching circles together to seal the edges. Brush the top of each pie with egg.",
+            "Bake pies in preheated oven until tops are golden brown, 15 to 20 minutes. Cool slightly on wire racks. Dust with remaining 1/4 cup confectioners' sugar just before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "¾ all-purpose flour confectioners sugar divided ground cinnamon butter softened grated orange zest ice water prepared mincemeat pie filling large egg beaten",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). sift flour, 1/4 cup confectioners' sugar, and cinnamon together in a large bowl. use a pastry cutter or two forks to mix in butter until mixture resembles fine crumbs. stir in orange zest. sprinkle with ice water and gather dough into a ball. roll out on a lightly floured surface to 1/4 inch thick. cut out approximately 18 (3-inch) diameter circles, and 18 (2-inch) circles, re-rolling dough as needed. line muffin cups or mini tart tins using the 3-inch pastry circles. fill each pastry cup with about 1 tablespoon of mincemeat filling. top with 2-inch pastry circles, pinching circles together to seal the edges. brush the top of each pie with egg. bake pies in preheated oven until tops are golden brown, 15 to 20 minutes. cool slightly on wire racks. dust with remaining 1/4 cup confectioners' sugar just before serving.",
+        "combined_text": "traditional mince pies mincemeat pie mincemeat pie 1 ¾ cups all-purpose flour 1/2 cup confectioners' sugar, divided 2 teaspoons ground cinnamon 2/3 cup butter, softened 2 tablespoons grated orange zest 1/4 cup ice water 3/4 cup prepared mincemeat pie filling 1 large egg, beaten preheat the oven to 400 degrees f (200 degrees c). sift flour, 1/4 cup confectioners' sugar, and cinnamon together in a large bowl. use a pastry cutter or two forks to mix in butter until mixture resembles fine crumbs. stir in orange zest. sprinkle with ice water and gather dough into a ball. roll out on a lightly floured surface to 1/4 inch thick. cut out approximately 18 (3-inch) diameter circles, and 18 (2-inch) circles, re-rolling dough as needed. line muffin cups or mini tart tins using the 3-inch pastry circles. fill each pastry cup with about 1 tablespoon of mincemeat filling. top with 2-inch pastry circles, pinching circles together to seal the edges. brush the top of each pie with egg. bake pies in preheated oven until tops are golden brown, 15 to 20 minutes. cool slightly on wire racks. dust with remaining 1/4 cup confectioners' sugar just before serving.",
+        "ingredients_raw": [
+            "1 ¾ cups all-purpose flour",
+            "1/2 cup confectioners' sugar, divided",
+            "2 teaspoons ground cinnamon",
+            "2/3 cup butter, softened",
+            "2 tablespoons grated orange zest",
+            "1/4 cup ice water",
+            "3/4 cup prepared mincemeat pie filling",
+            "1 large egg, beaten"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Sift flour, 1/4 cup confectioners' sugar, and cinnamon together in a large bowl. Use a pastry cutter or two forks to mix in butter until mixture resembles fine crumbs. Stir in orange zest. Sprinkle with ice water and gather dough into a ball. Roll out on a lightly floured surface to 1/4 inch thick. Cut out approximately 18 (3-inch) diameter circles, and 18 (2-inch) circles, re-rolling dough as needed.",
+            "Line muffin cups or mini tart tins using the 3-inch pastry circles. Fill each pastry cup with about 1 tablespoon of mincemeat filling. Top with 2-inch pastry circles, pinching circles together to seal the edges. Brush the top of each pie with egg.",
+            "Bake pies in preheated oven until tops are golden brown, 15 to 20 minutes. Cool slightly on wire racks. Dust with remaining 1/4 cup confectioners' sugar just before serving."
+        ],
+        "ingredients_canonical": [
+            "¾ all-purpose flour",
+            "confectioners sugar divided",
+            "ground cinnamon",
+            "butter softened",
+            "grated orange zest",
+            "ice water",
+            "prepared mincemeat pie filling",
+            "large egg beaten"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "breakfast",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Green Tomato Mock Mincemeat Pie Recipe",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "This green tomato mock mincemeat pie recipe represents the holidays for me. I remember the smell filling the house 60 years ago when my mom cooked it. This recipe is a great way to use any tomatoes in the garden that won't ripen at the end of the tomato season. A note from my mother: Put a heaping teaspoon of tapioca on the bottom crust before filling it. It will absorb some of the liquid.",
+        "ingredients": [
+            "2 cups chopped green tomato",
+            "2 cups peeled and chopped tart green apples",
+            "1 cup firmly packed brown sugar",
+            "½ cup chopped raisins",
+            "3 tablespoons apple cider vinegar",
+            "1 tablespoon butter",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon salt",
+            "¼ teaspoon ground nutmeg",
+            "¼ teaspoon ground cloves",
+            "1 pastry for a 9-inch double-crust pie"
+        ],
+        "directions": [
+            "Combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves in a large saucepan over medium-low heat; cook and stir until bubbling and slightly reduced in volume, about 25 minutes. Cool filling slightly, about 15 minutes.",
+            "Preheat the oven to 450 degrees F (230 degrees C). Press 1 pie crust in a 9-inch pie plate.",
+            "Pour filling into pie crust; top with remaining pie crust. Crimp crust edges together to seal.",
+            "Bake in the preheated oven for 15 minutes. Decrease the oven temperature to 375 degrees F (190 degrees C); continue baking until golden brown, 20 to 25 minutes more."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "chopped green tomato peeled chopped tart green apples firmly packed brown sugar ½ chopped raisins apple cider vinegar butter ground cinnamon ½ salt ¼ ground nutmeg ¼ ground cloves pastry for a -inch double-crust pie",
+        "directions_text": "combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves in a large saucepan over medium-low heat; cook and stir until bubbling and slightly reduced in volume, about 25 minutes. cool filling slightly, about 15 minutes. preheat the oven to 450 degrees f (230 degrees c). press 1 pie crust in a 9-inch pie plate. pour filling into pie crust; top with remaining pie crust. crimp crust edges together to seal. bake in the preheated oven for 15 minutes. decrease the oven temperature to 375 degrees f (190 degrees c); continue baking until golden brown, 20 to 25 minutes more.",
+        "combined_text": "green tomato mock mincemeat pie recipe mincemeat pie mincemeat pie 2 cups chopped green tomato 2 cups peeled and chopped tart green apples 1 cup firmly packed brown sugar ½ cup chopped raisins 3 tablespoons apple cider vinegar 1 tablespoon butter 1 teaspoon ground cinnamon ½ teaspoon salt ¼ teaspoon ground nutmeg ¼ teaspoon ground cloves 1 pastry for a 9-inch double-crust pie combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves in a large saucepan over medium-low heat; cook and stir until bubbling and slightly reduced in volume, about 25 minutes. cool filling slightly, about 15 minutes. preheat the oven to 450 degrees f (230 degrees c). press 1 pie crust in a 9-inch pie plate. pour filling into pie crust; top with remaining pie crust. crimp crust edges together to seal. bake in the preheated oven for 15 minutes. decrease the oven temperature to 375 degrees f (190 degrees c); continue baking until golden brown, 20 to 25 minutes more.",
+        "ingredients_raw": [
+            "2 cups chopped green tomato",
+            "2 cups peeled and chopped tart green apples",
+            "1 cup firmly packed brown sugar",
+            "½ cup chopped raisins",
+            "3 tablespoons apple cider vinegar",
+            "1 tablespoon butter",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon salt",
+            "¼ teaspoon ground nutmeg",
+            "¼ teaspoon ground cloves",
+            "1 pastry for a 9-inch double-crust pie"
+        ],
+        "directions_raw": [
+            "Combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves in a large saucepan over medium-low heat; cook and stir until bubbling and slightly reduced in volume, about 25 minutes. Cool filling slightly, about 15 minutes.",
+            "Preheat the oven to 450 degrees F (230 degrees C). Press 1 pie crust in a 9-inch pie plate.",
+            "Pour filling into pie crust; top with remaining pie crust. Crimp crust edges together to seal.",
+            "Bake in the preheated oven for 15 minutes. Decrease the oven temperature to 375 degrees F (190 degrees C); continue baking until golden brown, 20 to 25 minutes more."
+        ],
+        "ingredients_canonical": [
+            "chopped green tomato",
+            "peeled chopped tart green apples",
+            "firmly packed brown sugar",
+            "½ chopped raisins",
+            "apple cider vinegar",
+            "butter",
+            "ground cinnamon",
+            "½ salt",
+            "¼ ground nutmeg",
+            "¼ ground cloves",
+            "pastry for a -inch double-crust pie"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 34,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Homemade Mince Pie with Crumbly Topping",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "This homemade mince pie with crumbly topping has no meat (it's a mock mincemeat pie). It doesn't use mincemeat mixes or prepared pie crusts. It's homemade like Ma (or Grandma) used to make. Enjoy it! I made it for my father for Father's Day (he loves mince pie).",
+        "ingredients": [
+            "2 1/4 cups all-purpose flour, divided",
+            "½ cup unsalted butter, cold",
+            "½ teaspoon salt",
+            "½ cup cold water",
+            "5 apples, peeled, cored, and chopped",
+            "1 ½ cups raisins",
+            "½ cup apple cider",
+            "⅓ cup orange juice",
+            "2 tablespoons finely chopped grapefruit peel without white pith layer",
+            "¾ cup white sugar",
+            "1 graham cracker, crushed, divided",
+            "½ teaspoon ground cinnamon",
+            "¼ teaspoon ground cloves",
+            "6 tablespoons unsalted butter",
+            "⅓ cup white sugar"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine 1 1/2 cups flour, 1/2 cup cold butter, and salt in a bowl with a fork until very crumbly. Stir in water, 1 tablespoon at a time, just until mixture holds together; stir with a fork. Turn dough out onto a floured pastry cloth; pat into a circle shape. Roll into a 10-inch circle. Invert a 9-inch pie plate onto dough center; flip dough over. Peel off pastry cloth; evenly adjust crust into pie plate if necessary. Fold dough over edge of the pie plate; set aside.",
+            "Combine apples, raisins, apple cider, orange juice, and grapefruit peel in a saucepan over medium heat; bring to a simmer. Cook, stirring occasionally, until apples are soft, about 15 minutes. Stir in 3/4 cup sugar, 1/2 crushed graham cracker, cinnamon, and cloves; mix well.",
+            "Combine remaining 3/4 cup flour, 6 tablespoons butter, 1/3 cup sugar, and remaining 1/2 crushed graham cracker in a bowl, stirring until streusel looks like fine crumbs. Pour apple mincemeat filling into the prepared pie crust; sprinkle evenly with streusel topping.",
+            "Bake in the preheated oven for 15 minutes; reduce oven temperature to 350 degrees F (175 degrees C). Bake until topping is lightly browned, about 30 minutes more. Cool before serving."
+        ],
+        "num_ingredients": 15,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour divided ½ unsalted butter cold ½ salt ½ cold water apples peeled cored chopped ½ raisins ½ apple cider ⅓ orange juice finely chopped grapefruit peel without white pith layer ¾ white sugar graham cracker crushed divided ½ ground cinnamon ¼ ground cloves unsalted butter ⅓ white sugar",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). combine 1 1/2 cups flour, 1/2 cup cold butter, and salt in a bowl with a fork until very crumbly. stir in water, 1 tablespoon at a time, just until mixture holds together; stir with a fork. turn dough out onto a floured pastry cloth; pat into a circle shape. roll into a 10-inch circle. invert a 9-inch pie plate onto dough center; flip dough over. peel off pastry cloth; evenly adjust crust into pie plate if necessary. fold dough over edge of the pie plate; set aside. combine apples, raisins, apple cider, orange juice, and grapefruit peel in a saucepan over medium heat; bring to a simmer. cook, stirring occasionally, until apples are soft, about 15 minutes. stir in 3/4 cup sugar, 1/2 crushed graham cracker, cinnamon, and cloves; mix well. combine remaining 3/4 cup flour, 6 tablespoons butter, 1/3 cup sugar, and remaining 1/2 crushed graham cracker in a bowl, stirring until streusel looks like fine crumbs. pour apple mincemeat filling into the prepared pie crust; sprinkle evenly with streusel topping. bake in the preheated oven for 15 minutes; reduce oven temperature to 350 degrees f (175 degrees c). bake until topping is lightly browned, about 30 minutes more. cool before serving.",
+        "combined_text": "homemade mince pie with crumbly topping mincemeat pie mincemeat pie 2 1/4 cups all-purpose flour, divided ½ cup unsalted butter, cold ½ teaspoon salt ½ cup cold water 5 apples, peeled, cored, and chopped 1 ½ cups raisins ½ cup apple cider ⅓ cup orange juice 2 tablespoons finely chopped grapefruit peel without white pith layer ¾ cup white sugar 1 graham cracker, crushed, divided ½ teaspoon ground cinnamon ¼ teaspoon ground cloves 6 tablespoons unsalted butter ⅓ cup white sugar preheat the oven to 425 degrees f (220 degrees c). combine 1 1/2 cups flour, 1/2 cup cold butter, and salt in a bowl with a fork until very crumbly. stir in water, 1 tablespoon at a time, just until mixture holds together; stir with a fork. turn dough out onto a floured pastry cloth; pat into a circle shape. roll into a 10-inch circle. invert a 9-inch pie plate onto dough center; flip dough over. peel off pastry cloth; evenly adjust crust into pie plate if necessary. fold dough over edge of the pie plate; set aside. combine apples, raisins, apple cider, orange juice, and grapefruit peel in a saucepan over medium heat; bring to a simmer. cook, stirring occasionally, until apples are soft, about 15 minutes. stir in 3/4 cup sugar, 1/2 crushed graham cracker, cinnamon, and cloves; mix well. combine remaining 3/4 cup flour, 6 tablespoons butter, 1/3 cup sugar, and remaining 1/2 crushed graham cracker in a bowl, stirring until streusel looks like fine crumbs. pour apple mincemeat filling into the prepared pie crust; sprinkle evenly with streusel topping. bake in the preheated oven for 15 minutes; reduce oven temperature to 350 degrees f (175 degrees c). bake until topping is lightly browned, about 30 minutes more. cool before serving.",
+        "ingredients_raw": [
+            "2 1/4 cups all-purpose flour, divided",
+            "½ cup unsalted butter, cold",
+            "½ teaspoon salt",
+            "½ cup cold water",
+            "5 apples, peeled, cored, and chopped",
+            "1 ½ cups raisins",
+            "½ cup apple cider",
+            "⅓ cup orange juice",
+            "2 tablespoons finely chopped grapefruit peel without white pith layer",
+            "¾ cup white sugar",
+            "1 graham cracker, crushed, divided",
+            "½ teaspoon ground cinnamon",
+            "¼ teaspoon ground cloves",
+            "6 tablespoons unsalted butter",
+            "⅓ cup white sugar"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine 1 1/2 cups flour, 1/2 cup cold butter, and salt in a bowl with a fork until very crumbly. Stir in water, 1 tablespoon at a time, just until mixture holds together; stir with a fork. Turn dough out onto a floured pastry cloth; pat into a circle shape. Roll into a 10-inch circle. Invert a 9-inch pie plate onto dough center; flip dough over. Peel off pastry cloth; evenly adjust crust into pie plate if necessary. Fold dough over edge of the pie plate; set aside.",
+            "Combine apples, raisins, apple cider, orange juice, and grapefruit peel in a saucepan over medium heat; bring to a simmer. Cook, stirring occasionally, until apples are soft, about 15 minutes. Stir in 3/4 cup sugar, 1/2 crushed graham cracker, cinnamon, and cloves; mix well.",
+            "Combine remaining 3/4 cup flour, 6 tablespoons butter, 1/3 cup sugar, and remaining 1/2 crushed graham cracker in a bowl, stirring until streusel looks like fine crumbs. Pour apple mincemeat filling into the prepared pie crust; sprinkle evenly with streusel topping.",
+            "Bake in the preheated oven for 15 minutes; reduce oven temperature to 350 degrees F (175 degrees C). Bake until topping is lightly browned, about 30 minutes more. Cool before serving."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour divided",
+            "½ unsalted butter cold",
+            "½ salt",
+            "½ cold water",
+            "apples peeled cored chopped",
+            "½ raisins",
+            "½ apple cider",
+            "⅓ orange juice",
+            "finely chopped grapefruit peel without white pith layer",
+            "¾ white sugar",
+            "graham cracker crushed divided",
+            "½ ground cinnamon",
+            "¼ ground cloves",
+            "unsalted butter",
+            "⅓ white sugar"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 13,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 73,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mock Mincemeat Pie",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "My mother made this mock mincemeat pie recipe every Thanksgiving. Enhanced with a hint of orange, cinnamon, and cloves, it's a great variation on the typical apple and raisin filling. It's called \"mock\" because it contains no meat. You can prepare the filling several days in advance. For extra flavor, stir 1 to 2 tablespoons of brandy into the filling, if you like.",
+        "ingredients": [
+            "4 Granny Smith apples, peeled, cored, and sliced",
+            "1 ½ cups seedless raisins",
+            "½ cup apple cider",
+            "⅓ cup orange juice",
+            "1 tablespoon orange zest",
+            "¾ cup white sugar",
+            "2 soda crackers, finely crushed",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon ground cloves",
+            "2 (9-inch) pie crusts"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine apples, raisins, apple cider, orange juice, and orange zest in a large saucepan over medium heat; simmer, stirring occasionally, until apples are very soft, about 20 minutes. Stir in sugar, soda crackers, cinnamon, and cloves until well combined.",
+            "Pour apple mixture into pie crust; top with second crust. Pinch and crimp edges to seal. Pierce top crust in several places with a fork. (Or refrigerate apple mixture until ready to use.)",
+            "Bake in the preheated oven for 15 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C). Bake until top is golden brown, about 30 minutes more. Cool before serving."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "granny smith apples peeled cored sliced ½ seedless raisins ½ apple cider ⅓ orange juice orange zest ¾ white sugar soda crackers finely crushed ½ ground cinnamon ½ ground cloves -inch pie crusts",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). combine apples, raisins, apple cider, orange juice, and orange zest in a large saucepan over medium heat; simmer, stirring occasionally, until apples are very soft, about 20 minutes. stir in sugar, soda crackers, cinnamon, and cloves until well combined. pour apple mixture into pie crust; top with second crust. pinch and crimp edges to seal. pierce top crust in several places with a fork. (or refrigerate apple mixture until ready to use.) bake in the preheated oven for 15 minutes. reduce the oven temperature to 350 degrees f (175 degrees c). bake until top is golden brown, about 30 minutes more. cool before serving.",
+        "combined_text": "mock mincemeat pie mincemeat pie mincemeat pie 4 granny smith apples, peeled, cored, and sliced 1 ½ cups seedless raisins ½ cup apple cider ⅓ cup orange juice 1 tablespoon orange zest ¾ cup white sugar 2 soda crackers, finely crushed ½ teaspoon ground cinnamon ½ teaspoon ground cloves 2 (9-inch) pie crusts preheat the oven to 425 degrees f (220 degrees c). combine apples, raisins, apple cider, orange juice, and orange zest in a large saucepan over medium heat; simmer, stirring occasionally, until apples are very soft, about 20 minutes. stir in sugar, soda crackers, cinnamon, and cloves until well combined. pour apple mixture into pie crust; top with second crust. pinch and crimp edges to seal. pierce top crust in several places with a fork. (or refrigerate apple mixture until ready to use.) bake in the preheated oven for 15 minutes. reduce the oven temperature to 350 degrees f (175 degrees c). bake until top is golden brown, about 30 minutes more. cool before serving.",
+        "ingredients_raw": [
+            "4 Granny Smith apples, peeled, cored, and sliced",
+            "1 ½ cups seedless raisins",
+            "½ cup apple cider",
+            "⅓ cup orange juice",
+            "1 tablespoon orange zest",
+            "¾ cup white sugar",
+            "2 soda crackers, finely crushed",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon ground cloves",
+            "2 (9-inch) pie crusts"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine apples, raisins, apple cider, orange juice, and orange zest in a large saucepan over medium heat; simmer, stirring occasionally, until apples are very soft, about 20 minutes. Stir in sugar, soda crackers, cinnamon, and cloves until well combined.",
+            "Pour apple mixture into pie crust; top with second crust. Pinch and crimp edges to seal. Pierce top crust in several places with a fork. (Or refrigerate apple mixture until ready to use.)",
+            "Bake in the preheated oven for 15 minutes. Reduce the oven temperature to 350 degrees F (175 degrees C). Bake until top is golden brown, about 30 minutes more. Cool before serving."
+        ],
+        "ingredients_canonical": [
+            "granny smith apples peeled cored sliced",
+            "½ seedless raisins",
+            "½ apple cider",
+            "⅓ orange juice",
+            "orange zest",
+            "¾ white sugar",
+            "soda crackers finely crushed",
+            "½ ground cinnamon",
+            "½ ground cloves",
+            "-inch pie crusts"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 7,
+        "slow_hits": 5,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 77,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Christmas Mince Pies",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "Tangy mince pies with a hint of orange in the pastry.",
+        "ingredients": [
+            "2 ¼ cups all-purpose flour",
+            "1 pinch salt",
+            "½ cup butter, cubed",
+            "¼ cup vegetable shortening, cubed",
+            "¾ cup white sugar",
+            "2 oranges, zested",
+            "1 teaspoon vanilla extract",
+            "¼ cup fresh orange juice, chilled",
+            "7 ounces prepared mincemeat filling, or as needed",
+            "1 tablespoon confectioners' sugar"
+        ],
+        "directions": [
+            "Combine flour and salt in a large bowl. Add butter and shortening; rub in with cold fingers until mixture resembles fine bread crumbs. Mix in sugar and orange zest thoroughly. Mix in vanilla extract. Stir in enough orange juice to bring dough together.",
+            "Knead dough briefly to form a smooth ball. Wrap in plastic wrap; refrigerate until firm, at least 1 hour.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Roll dough out on a lightly floured work surface to a thickness of 1/8 inch. Cut out 12 circles using a 2 1/2-inch cutter and 12 circles using a 1-inch cutter.",
+            "Line 12 mini tart pans or a muffin tin with the 2 1/2-inch dough circles. Cover dough with about 1 tablespoon mincemeat filling. Lay 1-inch circles on top.",
+            "Bake in the preheated oven until tops are pale golden brown, 17 to 21 minutes. Cool slightly on wire racks, about 10 minutes. Dust with confectioners' sugar before serving."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 6,
+        "ingredient_text": "¼ all-purpose flour pinch salt ½ butter cubed ¼ vegetable shortening cubed ¾ white sugar oranges zested vanilla extract ¼ fresh orange juice chilled ounces prepared mincemeat filling as needed confectioners sugar",
+        "directions_text": "combine flour and salt in a large bowl. add butter and shortening; rub in with cold fingers until mixture resembles fine bread crumbs. mix in sugar and orange zest thoroughly. mix in vanilla extract. stir in enough orange juice to bring dough together. knead dough briefly to form a smooth ball. wrap in plastic wrap; refrigerate until firm, at least 1 hour. preheat oven to 350 degrees f (175 degrees c). roll dough out on a lightly floured work surface to a thickness of 1/8 inch. cut out 12 circles using a 2 1/2-inch cutter and 12 circles using a 1-inch cutter. line 12 mini tart pans or a muffin tin with the 2 1/2-inch dough circles. cover dough with about 1 tablespoon mincemeat filling. lay 1-inch circles on top. bake in the preheated oven until tops are pale golden brown, 17 to 21 minutes. cool slightly on wire racks, about 10 minutes. dust with confectioners' sugar before serving.",
+        "combined_text": "christmas mince pies mincemeat pie mincemeat pie 2 ¼ cups all-purpose flour 1 pinch salt ½ cup butter, cubed ¼ cup vegetable shortening, cubed ¾ cup white sugar 2 oranges, zested 1 teaspoon vanilla extract ¼ cup fresh orange juice, chilled 7 ounces prepared mincemeat filling, or as needed 1 tablespoon confectioners' sugar combine flour and salt in a large bowl. add butter and shortening; rub in with cold fingers until mixture resembles fine bread crumbs. mix in sugar and orange zest thoroughly. mix in vanilla extract. stir in enough orange juice to bring dough together. knead dough briefly to form a smooth ball. wrap in plastic wrap; refrigerate until firm, at least 1 hour. preheat oven to 350 degrees f (175 degrees c). roll dough out on a lightly floured work surface to a thickness of 1/8 inch. cut out 12 circles using a 2 1/2-inch cutter and 12 circles using a 1-inch cutter. line 12 mini tart pans or a muffin tin with the 2 1/2-inch dough circles. cover dough with about 1 tablespoon mincemeat filling. lay 1-inch circles on top. bake in the preheated oven until tops are pale golden brown, 17 to 21 minutes. cool slightly on wire racks, about 10 minutes. dust with confectioners' sugar before serving.",
+        "ingredients_raw": [
+            "2 ¼ cups all-purpose flour",
+            "1 pinch salt",
+            "½ cup butter, cubed",
+            "¼ cup vegetable shortening, cubed",
+            "¾ cup white sugar",
+            "2 oranges, zested",
+            "1 teaspoon vanilla extract",
+            "¼ cup fresh orange juice, chilled",
+            "7 ounces prepared mincemeat filling, or as needed",
+            "1 tablespoon confectioners' sugar"
+        ],
+        "directions_raw": [
+            "Combine flour and salt in a large bowl. Add butter and shortening; rub in with cold fingers until mixture resembles fine bread crumbs. Mix in sugar and orange zest thoroughly. Mix in vanilla extract. Stir in enough orange juice to bring dough together.",
+            "Knead dough briefly to form a smooth ball. Wrap in plastic wrap; refrigerate until firm, at least 1 hour.",
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Roll dough out on a lightly floured work surface to a thickness of 1/8 inch. Cut out 12 circles using a 2 1/2-inch cutter and 12 circles using a 1-inch cutter.",
+            "Line 12 mini tart pans or a muffin tin with the 2 1/2-inch dough circles. Cover dough with about 1 tablespoon mincemeat filling. Lay 1-inch circles on top.",
+            "Bake in the preheated oven until tops are pale golden brown, 17 to 21 minutes. Cool slightly on wire racks, about 10 minutes. Dust with confectioners' sugar before serving."
+        ],
+        "ingredients_canonical": [
+            "¼ all-purpose flour",
+            "pinch salt",
+            "½ butter cubed",
+            "¼ vegetable shortening cubed",
+            "¾ white sugar",
+            "oranges zested",
+            "vanilla extract",
+            "¼ fresh orange juice chilled",
+            "ounces prepared mincemeat filling as needed",
+            "confectioners sugar"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side",
+            "drink",
+            "bread",
+            "main",
+            "dessert",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 59,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mum's Mincemeat",
+        "category": "Mincemeat Pie",
+        "subcategory": "Mincemeat Pie",
+        "description": "My Mum's recipe from Lancashire, UK. I have taken over the yearly family tradition for making mincemeat. You will want to make this early- to mid-November to allow it to ferment and the flavors to mingle in time for Christmas.",
+        "ingredients": [
+            "1 pound suet",
+            "1 pound brown sugar",
+            "1 pound sultana raisins",
+            "1 pound dark raisins",
+            "1 pound dried currants",
+            "4 ounces candied mixed fruit peel",
+            "4 ounces chopped almonds",
+            "¼ cup ground allspice",
+            "3 tablespoons ground nutmeg",
+            "1 tablespoon salt",
+            "3 pounds apples, grated"
+        ],
+        "directions": [
+            "Melt suet in a saucepan over medium-low heat; strain liquid through a fine-mesh strainer into a bowl and discard solids. Refrigerate liquid until again solid.",
+            "Grate solid suet, measure 12 ounces of grated suet into a bowl, and set aside.",
+            "Stir brown sugar, sultana raisins, dark raisins, currants, fruit peel, almonds, allspice, nutmeg, and salt together in a large bowl; add grated suet and stir. Fold grated apple through the mixture.",
+            "Cover bowl loosely with aluminum foil and allow it to sit at room temperature, stirring once daily, until fermented, 3 to 5 days. Refrigerate until needed."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "pound suet pound brown sugar pound sultana raisins pound dark raisins pound dried currants ounces candied mixed fruit peel ounces chopped almonds ¼ ground allspice ground nutmeg salt pounds apples grated",
+        "directions_text": "melt suet in a saucepan over medium-low heat; strain liquid through a fine-mesh strainer into a bowl and discard solids. refrigerate liquid until again solid. grate solid suet, measure 12 ounces of grated suet into a bowl, and set aside. stir brown sugar, sultana raisins, dark raisins, currants, fruit peel, almonds, allspice, nutmeg, and salt together in a large bowl; add grated suet and stir. fold grated apple through the mixture. cover bowl loosely with aluminum foil and allow it to sit at room temperature, stirring once daily, until fermented, 3 to 5 days. refrigerate until needed.",
+        "combined_text": "mum's mincemeat mincemeat pie mincemeat pie 1 pound suet 1 pound brown sugar 1 pound sultana raisins 1 pound dark raisins 1 pound dried currants 4 ounces candied mixed fruit peel 4 ounces chopped almonds ¼ cup ground allspice 3 tablespoons ground nutmeg 1 tablespoon salt 3 pounds apples, grated melt suet in a saucepan over medium-low heat; strain liquid through a fine-mesh strainer into a bowl and discard solids. refrigerate liquid until again solid. grate solid suet, measure 12 ounces of grated suet into a bowl, and set aside. stir brown sugar, sultana raisins, dark raisins, currants, fruit peel, almonds, allspice, nutmeg, and salt together in a large bowl; add grated suet and stir. fold grated apple through the mixture. cover bowl loosely with aluminum foil and allow it to sit at room temperature, stirring once daily, until fermented, 3 to 5 days. refrigerate until needed.",
+        "ingredients_raw": [
+            "1 pound suet",
+            "1 pound brown sugar",
+            "1 pound sultana raisins",
+            "1 pound dark raisins",
+            "1 pound dried currants",
+            "4 ounces candied mixed fruit peel",
+            "4 ounces chopped almonds",
+            "¼ cup ground allspice",
+            "3 tablespoons ground nutmeg",
+            "1 tablespoon salt",
+            "3 pounds apples, grated"
+        ],
+        "directions_raw": [
+            "Melt suet in a saucepan over medium-low heat; strain liquid through a fine-mesh strainer into a bowl and discard solids. Refrigerate liquid until again solid.",
+            "Grate solid suet, measure 12 ounces of grated suet into a bowl, and set aside.",
+            "Stir brown sugar, sultana raisins, dark raisins, currants, fruit peel, almonds, allspice, nutmeg, and salt together in a large bowl; add grated suet and stir. Fold grated apple through the mixture.",
+            "Cover bowl loosely with aluminum foil and allow it to sit at room temperature, stirring once daily, until fermented, 3 to 5 days. Refrigerate until needed."
+        ],
+        "ingredients_canonical": [
+            "pound suet",
+            "pound brown sugar",
+            "pound sultana raisins",
+            "pound dark raisins",
+            "pound dried currants",
+            "ounces candied mixed fruit peel",
+            "ounces chopped almonds",
+            "¼ ground allspice",
+            "ground nutmeg",
+            "salt",
+            "pounds apples grated"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 46,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    }
+]

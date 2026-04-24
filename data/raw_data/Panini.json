@@ -1,0 +1,1672 @@
+[
+    {
+        "recipe_title": "Roasted Red Pepper Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "A homemade creamy pesto gives this panini sandwich so much fabulous flavor. We love the combination of spinach, roasted red pepper, and mozzarella, but feel free to experiment with your favorite ingredients.",
+        "ingredients": [
+            "¼ cup fresh basil",
+            "2 tablespoons Country Crock Spread",
+            "2 cloves garlic",
+            "½ cup baby spinach leaves",
+            "½ cup sliced roasted red bell peppers in water, drained",
+            "4 ounces sliced mozzarella cheese"
+        ],
+        "directions": [
+            "Combine basil, buttery spread, and garlic in the bowl of a food processor or blender; pulse until almost smooth.",
+            "Spread 2 slices bread with buttery basil spread; top with spinach, roasted pepper, mozzarella, and remaining bread slices.",
+            "To cook in a panini press: Preheat a panini press according to the manufacturer's instructions. Add sandwich; cook until golden and crisp, according to the manufacturer's instructions, 3 to 5 minutes. Repeat with remaining sandwich."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "¼ fresh basil country crock spread cloves garlic ½ baby spinach leaves ½ sliced roasted red bell peppers in water drained ounces sliced mozzarella cheese",
+        "directions_text": "combine basil, buttery spread, and garlic in the bowl of a food processor or blender; pulse until almost smooth. spread 2 slices bread with buttery basil spread; top with spinach, roasted pepper, mozzarella, and remaining bread slices. to cook in a panini press: preheat a panini press according to the manufacturer's instructions. add sandwich; cook until golden and crisp, according to the manufacturer's instructions, 3 to 5 minutes. repeat with remaining sandwich.",
+        "combined_text": "roasted red pepper panini panini panini ¼ cup fresh basil 2 tablespoons country crock spread 2 cloves garlic ½ cup baby spinach leaves ½ cup sliced roasted red bell peppers in water, drained 4 ounces sliced mozzarella cheese combine basil, buttery spread, and garlic in the bowl of a food processor or blender; pulse until almost smooth. spread 2 slices bread with buttery basil spread; top with spinach, roasted pepper, mozzarella, and remaining bread slices. to cook in a panini press: preheat a panini press according to the manufacturer's instructions. add sandwich; cook until golden and crisp, according to the manufacturer's instructions, 3 to 5 minutes. repeat with remaining sandwich.",
+        "ingredients_raw": [
+            "¼ cup fresh basil",
+            "2 tablespoons Country Crock Spread",
+            "2 cloves garlic",
+            "½ cup baby spinach leaves",
+            "½ cup sliced roasted red bell peppers in water, drained",
+            "4 ounces sliced mozzarella cheese"
+        ],
+        "directions_raw": [
+            "Combine basil, buttery spread, and garlic in the bowl of a food processor or blender; pulse until almost smooth.",
+            "Spread 2 slices bread with buttery basil spread; top with spinach, roasted pepper, mozzarella, and remaining bread slices.",
+            "To cook in a panini press: Preheat a panini press according to the manufacturer's instructions. Add sandwich; cook until golden and crisp, according to the manufacturer's instructions, 3 to 5 minutes. Repeat with remaining sandwich."
+        ],
+        "ingredients_canonical": [
+            "¼ fresh basil",
+            "country crock spread",
+            "cloves garlic",
+            "½ baby spinach leaves",
+            "½ sliced roasted red bell peppers in water drained",
+            "ounces sliced mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grilled Panini Sandwich Without a Panini Maker",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "This quick and easy grilled panini sandwich is made without a panini press! It's got that restaurant taste but is made in a grill pan. Feel free to use any meats or cheeses you have on hand. It works great with anything!",
+        "ingredients": [
+            "1 teaspoon mayonnaise, or to taste",
+            "2 (1-inch-thick) slices Italian bread",
+            "3 slices deli ham",
+            "2 slices provolone cheese",
+            "1 slice roasted red bell pepper"
+        ],
+        "directions": [
+            "Spread mayonnaise onto one side of each bread slice. Layer ham, provolone cheese, and roasted red bell pepper onto one slice, then top with the remaining slice, mayonnaise-side down.",
+            "Heat a grill pan over medium heat. Place sandwich onto the hot pan. Place another heavy pan onto the sandwich, then add two heavy cans to the top pan. Press down on the cans to compress the sandwich. Reduce the heat to medium and cook for 3 to 4 minutes. Flip the sandwich, replace the pan and cans, and cook until cheese is melted, 3 to 4 more minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "mayonnaise taste -inch-thick slices italian bread slices deli ham slices provolone cheese slice roasted red bell pepper",
+        "directions_text": "spread mayonnaise onto one side of each bread slice. layer ham, provolone cheese, and roasted red bell pepper onto one slice, then top with the remaining slice, mayonnaise-side down. heat a grill pan over medium heat. place sandwich onto the hot pan. place another heavy pan onto the sandwich, then add two heavy cans to the top pan. press down on the cans to compress the sandwich. reduce the heat to medium and cook for 3 to 4 minutes. flip the sandwich, replace the pan and cans, and cook until cheese is melted, 3 to 4 more minutes.",
+        "combined_text": "grilled panini sandwich without a panini maker panini panini 1 teaspoon mayonnaise, or to taste 2 (1-inch-thick) slices italian bread 3 slices deli ham 2 slices provolone cheese 1 slice roasted red bell pepper spread mayonnaise onto one side of each bread slice. layer ham, provolone cheese, and roasted red bell pepper onto one slice, then top with the remaining slice, mayonnaise-side down. heat a grill pan over medium heat. place sandwich onto the hot pan. place another heavy pan onto the sandwich, then add two heavy cans to the top pan. press down on the cans to compress the sandwich. reduce the heat to medium and cook for 3 to 4 minutes. flip the sandwich, replace the pan and cans, and cook until cheese is melted, 3 to 4 more minutes.",
+        "ingredients_raw": [
+            "1 teaspoon mayonnaise, or to taste",
+            "2 (1-inch-thick) slices Italian bread",
+            "3 slices deli ham",
+            "2 slices provolone cheese",
+            "1 slice roasted red bell pepper"
+        ],
+        "directions_raw": [
+            "Spread mayonnaise onto one side of each bread slice. Layer ham, provolone cheese, and roasted red bell pepper onto one slice, then top with the remaining slice, mayonnaise-side down.",
+            "Heat a grill pan over medium heat. Place sandwich onto the hot pan. Place another heavy pan onto the sandwich, then add two heavy cans to the top pan. Press down on the cans to compress the sandwich. Reduce the heat to medium and cook for 3 to 4 minutes. Flip the sandwich, replace the pan and cans, and cook until cheese is melted, 3 to 4 more minutes."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise taste",
+            "-inch-thick slices italian bread",
+            "slices deli ham",
+            "slices provolone cheese",
+            "slice roasted red bell pepper"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 8,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 70,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Turkey Avocado Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "This turkey avocado panini is such an easy, light, refreshing and YUMMY sandwich!",
+        "ingredients": [
+            "½ ripe avocado",
+            "¼ cup mayonnaise",
+            "2 ciabatta rolls, halved lengthwise",
+            "1 tablespoon olive oil, divided",
+            "2 slices provolone cheese, divided",
+            "1 cup whole fresh spinach leaves, divided",
+            "4 ounces thinly sliced mesquite-smoked turkey breast, divided",
+            "2 roasted red peppers, sliced into strips, divided"
+        ],
+        "directions": [
+            "Mash avocado and mayonnaise together in a bowl until thoroughly combined.",
+            "Preheat a panini sandwich press.",
+            "Brush bottom of each roll with olive oil; place onto the panini press, oiled sides down. Place 1 slice cheese, 1/2 spinach leaves, 1/2 turkey, and 1/2 sliced peppers on each roll on panini press. Spread 1/2 avocado mixture on cut surface of each top roll; place 1 top roll on each sandwich. Brush top of each roll with olive oil.",
+            "Close the panini press; cook until rolls toasted and crisp, with golden brown grill marks, and the cheese has melted, 5 to 8 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "½ ripe avocado ¼ mayonnaise ciabatta rolls halved lengthwise olive oil divided slices provolone cheese divided whole fresh spinach leaves divided ounces thinly sliced mesquite-smoked turkey breast divided roasted red peppers sliced into strips divided",
+        "directions_text": "mash avocado and mayonnaise together in a bowl until thoroughly combined. preheat a panini sandwich press. brush bottom of each roll with olive oil; place onto the panini press, oiled sides down. place 1 slice cheese, 1/2 spinach leaves, 1/2 turkey, and 1/2 sliced peppers on each roll on panini press. spread 1/2 avocado mixture on cut surface of each top roll; place 1 top roll on each sandwich. brush top of each roll with olive oil. close the panini press; cook until rolls toasted and crisp, with golden brown grill marks, and the cheese has melted, 5 to 8 minutes.",
+        "combined_text": "turkey avocado panini panini panini ½ ripe avocado ¼ cup mayonnaise 2 ciabatta rolls, halved lengthwise 1 tablespoon olive oil, divided 2 slices provolone cheese, divided 1 cup whole fresh spinach leaves, divided 4 ounces thinly sliced mesquite-smoked turkey breast, divided 2 roasted red peppers, sliced into strips, divided mash avocado and mayonnaise together in a bowl until thoroughly combined. preheat a panini sandwich press. brush bottom of each roll with olive oil; place onto the panini press, oiled sides down. place 1 slice cheese, 1/2 spinach leaves, 1/2 turkey, and 1/2 sliced peppers on each roll on panini press. spread 1/2 avocado mixture on cut surface of each top roll; place 1 top roll on each sandwich. brush top of each roll with olive oil. close the panini press; cook until rolls toasted and crisp, with golden brown grill marks, and the cheese has melted, 5 to 8 minutes.",
+        "ingredients_raw": [
+            "½ ripe avocado",
+            "¼ cup mayonnaise",
+            "2 ciabatta rolls, halved lengthwise",
+            "1 tablespoon olive oil, divided",
+            "2 slices provolone cheese, divided",
+            "1 cup whole fresh spinach leaves, divided",
+            "4 ounces thinly sliced mesquite-smoked turkey breast, divided",
+            "2 roasted red peppers, sliced into strips, divided"
+        ],
+        "directions_raw": [
+            "Mash avocado and mayonnaise together in a bowl until thoroughly combined.",
+            "Preheat a panini sandwich press.",
+            "Brush bottom of each roll with olive oil; place onto the panini press, oiled sides down. Place 1 slice cheese, 1/2 spinach leaves, 1/2 turkey, and 1/2 sliced peppers on each roll on panini press. Spread 1/2 avocado mixture on cut surface of each top roll; place 1 top roll on each sandwich. Brush top of each roll with olive oil.",
+            "Close the panini press; cook until rolls toasted and crisp, with golden brown grill marks, and the cheese has melted, 5 to 8 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ ripe avocado",
+            "¼ mayonnaise",
+            "ciabatta rolls halved lengthwise",
+            "olive oil divided",
+            "slices provolone cheese divided",
+            "whole fresh spinach leaves divided",
+            "ounces thinly sliced mesquite-smoked turkey breast divided",
+            "roasted red peppers sliced into strips divided"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Tuna Panini Melt",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "This tuna panini melt is a new twist on an old standby.",
+        "ingredients": [
+            "1 (5 ounce) can solid white albacore tuna in water (such as Bumble Bee)",
+            "1 tablespoon mayonnaise",
+            "1 tablespoon balsamic vinegar",
+            "1 tablespoon chopped onion",
+            "1 dill pickle, chopped",
+            "4 slices sourdough bread",
+            "2 slices American cheese"
+        ],
+        "directions": [
+            "Combine tuna, mayonnaise, balsamic vinegar, onion, and dill pickle in a bowl.",
+            "Spread tuna mixture over 2 slices bread. Top with American cheese and remaining 2 slices bread.",
+            "Preheat a panini press according to manufacturer's instructions.",
+            "Cook in the preheated panini press until bread crispy and cheese melted, 3 to 4 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "ounce can solid white albacore tuna in water such as bumble bee mayonnaise balsamic vinegar chopped onion dill pickle chopped slices sourdough bread slices american cheese",
+        "directions_text": "combine tuna, mayonnaise, balsamic vinegar, onion, and dill pickle in a bowl. spread tuna mixture over 2 slices bread. top with american cheese and remaining 2 slices bread. preheat a panini press according to manufacturer's instructions. cook in the preheated panini press until bread crispy and cheese melted, 3 to 4 minutes.",
+        "combined_text": "tuna panini melt panini panini 1 (5 ounce) can solid white albacore tuna in water (such as bumble bee) 1 tablespoon mayonnaise 1 tablespoon balsamic vinegar 1 tablespoon chopped onion 1 dill pickle, chopped 4 slices sourdough bread 2 slices american cheese combine tuna, mayonnaise, balsamic vinegar, onion, and dill pickle in a bowl. spread tuna mixture over 2 slices bread. top with american cheese and remaining 2 slices bread. preheat a panini press according to manufacturer's instructions. cook in the preheated panini press until bread crispy and cheese melted, 3 to 4 minutes.",
+        "ingredients_raw": [
+            "1 (5 ounce) can solid white albacore tuna in water (such as Bumble Bee)",
+            "1 tablespoon mayonnaise",
+            "1 tablespoon balsamic vinegar",
+            "1 tablespoon chopped onion",
+            "1 dill pickle, chopped",
+            "4 slices sourdough bread",
+            "2 slices American cheese"
+        ],
+        "directions_raw": [
+            "Combine tuna, mayonnaise, balsamic vinegar, onion, and dill pickle in a bowl.",
+            "Spread tuna mixture over 2 slices bread. Top with American cheese and remaining 2 slices bread.",
+            "Preheat a panini press according to manufacturer's instructions.",
+            "Cook in the preheated panini press until bread crispy and cheese melted, 3 to 4 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce can solid white albacore tuna in water such as bumble bee",
+            "mayonnaise",
+            "balsamic vinegar",
+            "chopped onion",
+            "dill pickle chopped",
+            "slices sourdough bread",
+            "slices american cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Prosciutto and Provolone Panini Sandwiches",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "The perfect flavor combo--prosciutto, Provolone, pesto, and roasted bell peppers--on rustic bread and toasted in a panini press makes a great lunch or a quick, light dinner.",
+        "ingredients": [
+            "½ cup CARAPELLI® Extra Virgin Olive Oil",
+            "8 slices rustic Italian or sourdough bread",
+            "¼ cup prepared basil pesto",
+            "16 thin slices Provolone cheese",
+            "12 thin slices prosciutto",
+            "4 whole, well-drained bottled roasted red peppers, cut into strips"
+        ],
+        "directions": [
+            "Heat a panini grill or waffle iron. Brush oil over bread slices. Turn 4 slices over; spread pesto evenly over bread. Top with half of the cheese, tearing to fit if necessary, all of the prosciutto and pepper strips and remaining cheese. Close sandwiches with remaining bread oiled sides up.",
+            "Cook (in batches) in panini maker* or waffle iron 3 to 4 minutes or until golden brown and cheese is melted."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "½ carapelli extra virgin olive oil slices rustic italian sourdough bread ¼ prepared basil pesto thin slices provolone cheese thin slices prosciutto whole well-drained bottled roasted red peppers cut into strips",
+        "directions_text": "heat a panini grill or waffle iron. brush oil over bread slices. turn 4 slices over; spread pesto evenly over bread. top with half of the cheese, tearing to fit if necessary, all of the prosciutto and pepper strips and remaining cheese. close sandwiches with remaining bread oiled sides up. cook (in batches) in panini maker* or waffle iron 3 to 4 minutes or until golden brown and cheese is melted.",
+        "combined_text": "prosciutto and provolone panini sandwiches panini panini ½ cup carapelli® extra virgin olive oil 8 slices rustic italian or sourdough bread ¼ cup prepared basil pesto 16 thin slices provolone cheese 12 thin slices prosciutto 4 whole, well-drained bottled roasted red peppers, cut into strips heat a panini grill or waffle iron. brush oil over bread slices. turn 4 slices over; spread pesto evenly over bread. top with half of the cheese, tearing to fit if necessary, all of the prosciutto and pepper strips and remaining cheese. close sandwiches with remaining bread oiled sides up. cook (in batches) in panini maker* or waffle iron 3 to 4 minutes or until golden brown and cheese is melted.",
+        "ingredients_raw": [
+            "½ cup CARAPELLI® Extra Virgin Olive Oil",
+            "8 slices rustic Italian or sourdough bread",
+            "¼ cup prepared basil pesto",
+            "16 thin slices Provolone cheese",
+            "12 thin slices prosciutto",
+            "4 whole, well-drained bottled roasted red peppers, cut into strips"
+        ],
+        "directions_raw": [
+            "Heat a panini grill or waffle iron. Brush oil over bread slices. Turn 4 slices over; spread pesto evenly over bread. Top with half of the cheese, tearing to fit if necessary, all of the prosciutto and pepper strips and remaining cheese. Close sandwiches with remaining bread oiled sides up.",
+            "Cook (in batches) in panini maker* or waffle iron 3 to 4 minutes or until golden brown and cheese is melted."
+        ],
+        "ingredients_canonical": [
+            "½ carapelli extra virgin olive oil",
+            "slices rustic italian sourdough bread",
+            "¼ prepared basil pesto",
+            "thin slices provolone cheese",
+            "thin slices prosciutto",
+            "whole well-drained bottled roasted red peppers cut into strips"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Turkey and Bacon Panini with Chipotle Mayonnaise",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "This turkey and bacon panini is one of my favorite sandwiches to make. I came up with the recipe when I was trying to use up leftovers one day, and my family raved! It's also excellent as a vegetarian sandwich if you leave out the turkey and bacon.",
+        "ingredients": [
+            "8 slices bacon",
+            "1 tablespoon butter",
+            "½ medium red onion, thinly sliced",
+            "2 cloves garlic, minced",
+            "3 cups fresh spinach leaves",
+            "½ cup reduced-fat mayonnaise",
+            "2 chipotle peppers in adobo sauce, minced",
+            "1 teaspoon adobo sauce from chipotle peppers",
+            "8 (4 inch) pieces focaccia bread",
+            "4 slices provolone cheese",
+            "½ pound sliced deli turkey meat"
+        ],
+        "directions": [
+            "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain on a paper towel-lined plate.",
+            "While the bacon is cooking, melt butter in a large skillet over medium heat. Add onion and cook, stirring occasionally, until soft and translucent, 7 to 10 minutes, adding garlic for the last minute. Stir in spinach and cook until wilted, about 3 minutes. Remove from the heat.",
+            "Preheat a panini press according to the manufacturer's instructions.",
+            "Stir mayonnaise, chipotle peppers, and adobo sauce together in a small bowl. Spread mixture over 4 slices of focaccia bread, then top each slice with provolone, turkey, two slices bacon, spinach mixture, and remaining bread slices.",
+            "Cook sandwiches in the preheated panini press until crispy and golden brown, about 5 minutes each."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 5,
+        "ingredient_text": "slices bacon butter ½ medium red onion thinly sliced cloves garlic minced fresh spinach leaves ½ reduced-fat mayonnaise chipotle peppers in adobo sauce minced adobo sauce from chipotle peppers inch pieces focaccia bread slices provolone cheese ½ pound sliced deli turkey meat",
+        "directions_text": "cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. drain on a paper towel-lined plate. while the bacon is cooking, melt butter in a large skillet over medium heat. add onion and cook, stirring occasionally, until soft and translucent, 7 to 10 minutes, adding garlic for the last minute. stir in spinach and cook until wilted, about 3 minutes. remove from the heat. preheat a panini press according to the manufacturer's instructions. stir mayonnaise, chipotle peppers, and adobo sauce together in a small bowl. spread mixture over 4 slices of focaccia bread, then top each slice with provolone, turkey, two slices bacon, spinach mixture, and remaining bread slices. cook sandwiches in the preheated panini press until crispy and golden brown, about 5 minutes each.",
+        "combined_text": "turkey and bacon panini with chipotle mayonnaise panini panini 8 slices bacon 1 tablespoon butter ½ medium red onion, thinly sliced 2 cloves garlic, minced 3 cups fresh spinach leaves ½ cup reduced-fat mayonnaise 2 chipotle peppers in adobo sauce, minced 1 teaspoon adobo sauce from chipotle peppers 8 (4 inch) pieces focaccia bread 4 slices provolone cheese ½ pound sliced deli turkey meat cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. drain on a paper towel-lined plate. while the bacon is cooking, melt butter in a large skillet over medium heat. add onion and cook, stirring occasionally, until soft and translucent, 7 to 10 minutes, adding garlic for the last minute. stir in spinach and cook until wilted, about 3 minutes. remove from the heat. preheat a panini press according to the manufacturer's instructions. stir mayonnaise, chipotle peppers, and adobo sauce together in a small bowl. spread mixture over 4 slices of focaccia bread, then top each slice with provolone, turkey, two slices bacon, spinach mixture, and remaining bread slices. cook sandwiches in the preheated panini press until crispy and golden brown, about 5 minutes each.",
+        "ingredients_raw": [
+            "8 slices bacon",
+            "1 tablespoon butter",
+            "½ medium red onion, thinly sliced",
+            "2 cloves garlic, minced",
+            "3 cups fresh spinach leaves",
+            "½ cup reduced-fat mayonnaise",
+            "2 chipotle peppers in adobo sauce, minced",
+            "1 teaspoon adobo sauce from chipotle peppers",
+            "8 (4 inch) pieces focaccia bread",
+            "4 slices provolone cheese",
+            "½ pound sliced deli turkey meat"
+        ],
+        "directions_raw": [
+            "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain on a paper towel-lined plate.",
+            "While the bacon is cooking, melt butter in a large skillet over medium heat. Add onion and cook, stirring occasionally, until soft and translucent, 7 to 10 minutes, adding garlic for the last minute. Stir in spinach and cook until wilted, about 3 minutes. Remove from the heat.",
+            "Preheat a panini press according to the manufacturer's instructions.",
+            "Stir mayonnaise, chipotle peppers, and adobo sauce together in a small bowl. Spread mixture over 4 slices of focaccia bread, then top each slice with provolone, turkey, two slices bacon, spinach mixture, and remaining bread slices.",
+            "Cook sandwiches in the preheated panini press until crispy and golden brown, about 5 minutes each."
+        ],
+        "ingredients_canonical": [
+            "slices bacon",
+            "butter",
+            "½ medium red onion thinly sliced",
+            "cloves garlic minced",
+            "fresh spinach leaves",
+            "½ reduced-fat mayonnaise",
+            "chipotle peppers in adobo sauce minced",
+            "adobo sauce from chipotle peppers",
+            "inch pieces focaccia bread",
+            "slices provolone cheese",
+            "½ pound sliced deli turkey meat"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 8,
+        "cook_speed": "medium",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 55,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Panini Sandwiches",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "Turkey and Swiss cheese panini with sundried tomato mayonnaise made with dinner rolls are quick and delicious!",
+        "ingredients": [
+            "4 Sister Schubert's Dinner Yeast Rolls, split"
+        ],
+        "directions": [
+            "Preheat grill pan or panini machine to medium heat.",
+            "Spread center of each roll with 1 tablespoon mayonnaise. Assemble sandwiches with remaining ingredients, except butter. Season with salt and pepper.",
+            "Spread small amount of butter on top and bottom of each roll; place sandwich either in pan on onto panini machine and grill. Cook 5 to 7 minutes.",
+            "(If using a pan, press sandwich down with a pan lid. Cook sandwiches about 3 to 4 minutes on each side or until bread is toasted.)",
+            "For mayonnaise: whisk all ingredients together in small bowl. Refrigerate until ready to use."
+        ],
+        "num_ingredients": 1,
+        "num_steps": 5,
+        "ingredient_text": "sister schubert s dinner yeast rolls split",
+        "directions_text": "preheat grill pan or panini machine to medium heat. spread center of each roll with 1 tablespoon mayonnaise. assemble sandwiches with remaining ingredients, except butter. season with salt and pepper. spread small amount of butter on top and bottom of each roll; place sandwich either in pan on onto panini machine and grill. cook 5 to 7 minutes. (if using a pan, press sandwich down with a pan lid. cook sandwiches about 3 to 4 minutes on each side or until bread is toasted.) for mayonnaise: whisk all ingredients together in small bowl. refrigerate until ready to use.",
+        "combined_text": "panini sandwiches panini panini 4 sister schubert's dinner yeast rolls, split preheat grill pan or panini machine to medium heat. spread center of each roll with 1 tablespoon mayonnaise. assemble sandwiches with remaining ingredients, except butter. season with salt and pepper. spread small amount of butter on top and bottom of each roll; place sandwich either in pan on onto panini machine and grill. cook 5 to 7 minutes. (if using a pan, press sandwich down with a pan lid. cook sandwiches about 3 to 4 minutes on each side or until bread is toasted.) for mayonnaise: whisk all ingredients together in small bowl. refrigerate until ready to use.",
+        "ingredients_raw": [
+            "4 Sister Schubert's Dinner Yeast Rolls, split"
+        ],
+        "directions_raw": [
+            "Preheat grill pan or panini machine to medium heat.",
+            "Spread center of each roll with 1 tablespoon mayonnaise. Assemble sandwiches with remaining ingredients, except butter. Season with salt and pepper.",
+            "Spread small amount of butter on top and bottom of each roll; place sandwich either in pan on onto panini machine and grill. Cook 5 to 7 minutes.",
+            "(If using a pan, press sandwich down with a pan lid. Cook sandwiches about 3 to 4 minutes on each side or until bread is toasted.)",
+            "For mayonnaise: whisk all ingredients together in small bowl. Refrigerate until ready to use."
+        ],
+        "ingredients_canonical": [
+            "sister schubert s dinner yeast rolls split"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 71,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grilled Turkey Cuban Sandwiches",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "This grilled turkey Cuban sandwich recipe combines turkey breast, ham, cheese, and pickles in a panini-style sandwich.",
+        "ingredients": [
+            "cooking spray",
+            "1 (3 pound) Butterball boneless breast of turkey roast, thawed",
+            "2 cloves garlic, sliced",
+            "1 tablespoon canola oil",
+            "1 tablespoon ground cumin",
+            "2 teaspoons salt",
+            "1 teaspoon coarsely ground black pepper",
+            "2 loaves Cuban, French, or Italian bread (15-inches long)",
+            "¼ cup honey mustard",
+            "8 ounces smoked ham",
+            "8 ounces sliced Swiss cheese",
+            "12 sandwich-style dill pickle slices"
+        ],
+        "directions": [
+            "Preheat an outdoor grill for medium heat and lightly coat the cold grate with cooking spray. Arrange a drip pan on grill.",
+            "Pat turkey dry with paper towels; discard gravy packet (or refrigerate and use within 2 to 3 days). Lift and shift string netting position for easier removal after cooking. Cut small slits, at least 1 inch apart, over entire surface of turkey. Insert 1 garlic slice into each slit; brush turkey with oil.",
+            "Combine cumin, salt, and black pepper; sprinkle over turkey.",
+            "Place turkey over drip pan on the preheated grill; grill, covered, until an instant-read thermometer inserted into the center reads 170 degrees F (77 degrees C), 1 ¼ to 1 ¾ hours. Transfer to a cutting board; rest 10 minutes. Keep grill on.",
+            "Remove string netting. Cut half of turkey into six ⅛-inch-thick slices; set aside. Refrigerate unsliced turkey for another use.",
+            "Halve bread loaves, lengthwise, then, cut each into 3 pieces (for 6 sandwiches). Spread each bread bottom with 2 teaspoons mustard; top with sliced turkey, ham, Swiss cheese, pickles, and bread tops. Press sandwiches with hands to flatten; tightly wrap each in aluminum foil.",
+            "Grill wrapped sandwiches, each weighted with a heavy iron-skillet or brick, until heated through, 3 to 5 minutes per side.",
+            "Serve sandwiches warm, wrapped in aluminum foil."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 8,
+        "ingredient_text": "cooking spray pound butterball boneless breast turkey roast thawed cloves garlic sliced canola oil ground cumin salt coarsely ground black pepper loaves cuban french italian bread -inches long ¼ honey mustard ounces smoked ham ounces sliced swiss cheese sandwich-style dill pickle slices",
+        "directions_text": "preheat an outdoor grill for medium heat and lightly coat the cold grate with cooking spray. arrange a drip pan on grill. pat turkey dry with paper towels; discard gravy packet (or refrigerate and use within 2 to 3 days). lift and shift string netting position for easier removal after cooking. cut small slits, at least 1 inch apart, over entire surface of turkey. insert 1 garlic slice into each slit; brush turkey with oil. combine cumin, salt, and black pepper; sprinkle over turkey. place turkey over drip pan on the preheated grill; grill, covered, until an instant-read thermometer inserted into the center reads 170 degrees f (77 degrees c), 1 ¼ to 1 ¾ hours. transfer to a cutting board; rest 10 minutes. keep grill on. remove string netting. cut half of turkey into six ⅛-inch-thick slices; set aside. refrigerate unsliced turkey for another use. halve bread loaves, lengthwise, then, cut each into 3 pieces (for 6 sandwiches). spread each bread bottom with 2 teaspoons mustard; top with sliced turkey, ham, swiss cheese, pickles, and bread tops. press sandwiches with hands to flatten; tightly wrap each in aluminum foil. grill wrapped sandwiches, each weighted with a heavy iron-skillet or brick, until heated through, 3 to 5 minutes per side. serve sandwiches warm, wrapped in aluminum foil.",
+        "combined_text": "grilled turkey cuban sandwiches panini panini cooking spray 1 (3 pound) butterball boneless breast of turkey roast, thawed 2 cloves garlic, sliced 1 tablespoon canola oil 1 tablespoon ground cumin 2 teaspoons salt 1 teaspoon coarsely ground black pepper 2 loaves cuban, french, or italian bread (15-inches long) ¼ cup honey mustard 8 ounces smoked ham 8 ounces sliced swiss cheese 12 sandwich-style dill pickle slices preheat an outdoor grill for medium heat and lightly coat the cold grate with cooking spray. arrange a drip pan on grill. pat turkey dry with paper towels; discard gravy packet (or refrigerate and use within 2 to 3 days). lift and shift string netting position for easier removal after cooking. cut small slits, at least 1 inch apart, over entire surface of turkey. insert 1 garlic slice into each slit; brush turkey with oil. combine cumin, salt, and black pepper; sprinkle over turkey. place turkey over drip pan on the preheated grill; grill, covered, until an instant-read thermometer inserted into the center reads 170 degrees f (77 degrees c), 1 ¼ to 1 ¾ hours. transfer to a cutting board; rest 10 minutes. keep grill on. remove string netting. cut half of turkey into six ⅛-inch-thick slices; set aside. refrigerate unsliced turkey for another use. halve bread loaves, lengthwise, then, cut each into 3 pieces (for 6 sandwiches). spread each bread bottom with 2 teaspoons mustard; top with sliced turkey, ham, swiss cheese, pickles, and bread tops. press sandwiches with hands to flatten; tightly wrap each in aluminum foil. grill wrapped sandwiches, each weighted with a heavy iron-skillet or brick, until heated through, 3 to 5 minutes per side. serve sandwiches warm, wrapped in aluminum foil.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 (3 pound) Butterball boneless breast of turkey roast, thawed",
+            "2 cloves garlic, sliced",
+            "1 tablespoon canola oil",
+            "1 tablespoon ground cumin",
+            "2 teaspoons salt",
+            "1 teaspoon coarsely ground black pepper",
+            "2 loaves Cuban, French, or Italian bread (15-inches long)",
+            "¼ cup honey mustard",
+            "8 ounces smoked ham",
+            "8 ounces sliced Swiss cheese",
+            "12 sandwich-style dill pickle slices"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill for medium heat and lightly coat the cold grate with cooking spray. Arrange a drip pan on grill.",
+            "Pat turkey dry with paper towels; discard gravy packet (or refrigerate and use within 2 to 3 days). Lift and shift string netting position for easier removal after cooking. Cut small slits, at least 1 inch apart, over entire surface of turkey. Insert 1 garlic slice into each slit; brush turkey with oil.",
+            "Combine cumin, salt, and black pepper; sprinkle over turkey.",
+            "Place turkey over drip pan on the preheated grill; grill, covered, until an instant-read thermometer inserted into the center reads 170 degrees F (77 degrees C), 1 ¼ to 1 ¾ hours. Transfer to a cutting board; rest 10 minutes. Keep grill on.",
+            "Remove string netting. Cut half of turkey into six ⅛-inch-thick slices; set aside. Refrigerate unsliced turkey for another use.",
+            "Halve bread loaves, lengthwise, then, cut each into 3 pieces (for 6 sandwiches). Spread each bread bottom with 2 teaspoons mustard; top with sliced turkey, ham, Swiss cheese, pickles, and bread tops. Press sandwiches with hands to flatten; tightly wrap each in aluminum foil.",
+            "Grill wrapped sandwiches, each weighted with a heavy iron-skillet or brick, until heated through, 3 to 5 minutes per side.",
+            "Serve sandwiches warm, wrapped in aluminum foil."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "pound butterball boneless breast turkey roast thawed",
+            "cloves garlic sliced",
+            "canola oil",
+            "ground cumin",
+            "salt",
+            "coarsely ground black pepper",
+            "loaves cuban french italian bread -inches long",
+            "¼ honey mustard",
+            "ounces smoked ham",
+            "ounces sliced swiss cheese",
+            "sandwich-style dill pickle slices"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "german",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 11,
+        "medium_hits": 7,
+        "cook_speed": "slow",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 191,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Best BLT Chicken Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "Transform an ordinary BLT into a gourmet sandwich by partnering it with a chicken panini. Use crusty bread, thinly-sliced roasted chicken from the deli, and those typical BLT ingredients. The whole family will enjoy this quick and easy sandwich recipe — it makes the best BLT chicken panini.",
+        "ingredients": [
+            "4 strips bacon",
+            "1 tablespoon mayonnaise",
+            "4 slices ciabatta bread",
+            "8 ounces deli-sliced roasted chicken",
+            "2 slices Swiss cheese",
+            "2 leaves lettuce",
+            "4 slices tomato, or to taste",
+            "cooking spray"
+        ],
+        "directions": [
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, 6 to 8 minutes. Drain on paper towels.",
+            "Spread mayonnaise on one side of each bread slice. Divide and layer chicken, Swiss cheese, lettuce, tomato, and bacon, in that order, on 2 bread slices (mayonnaise sides). Place remaining 2 bread slices on top, mayonnaise-sides-down.",
+            "Heat a panini press over medium-high heat according to manufacturer's instructions; coat with cooking spray. Place sandwiches inside; cook until heated through and cheese starts to melt, 5 to 7 minutes.",
+            "Cut panini in half. Serve immediately."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "strips bacon mayonnaise slices ciabatta bread ounces deli-sliced roasted chicken slices swiss cheese leaves lettuce slices tomato taste cooking spray",
+        "directions_text": "cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, 6 to 8 minutes. drain on paper towels. spread mayonnaise on one side of each bread slice. divide and layer chicken, swiss cheese, lettuce, tomato, and bacon, in that order, on 2 bread slices (mayonnaise sides). place remaining 2 bread slices on top, mayonnaise-sides-down. heat a panini press over medium-high heat according to manufacturer's instructions; coat with cooking spray. place sandwiches inside; cook until heated through and cheese starts to melt, 5 to 7 minutes. cut panini in half. serve immediately.",
+        "combined_text": "best blt chicken panini panini panini 4 strips bacon 1 tablespoon mayonnaise 4 slices ciabatta bread 8 ounces deli-sliced roasted chicken 2 slices swiss cheese 2 leaves lettuce 4 slices tomato, or to taste cooking spray cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, 6 to 8 minutes. drain on paper towels. spread mayonnaise on one side of each bread slice. divide and layer chicken, swiss cheese, lettuce, tomato, and bacon, in that order, on 2 bread slices (mayonnaise sides). place remaining 2 bread slices on top, mayonnaise-sides-down. heat a panini press over medium-high heat according to manufacturer's instructions; coat with cooking spray. place sandwiches inside; cook until heated through and cheese starts to melt, 5 to 7 minutes. cut panini in half. serve immediately.",
+        "ingredients_raw": [
+            "4 strips bacon",
+            "1 tablespoon mayonnaise",
+            "4 slices ciabatta bread",
+            "8 ounces deli-sliced roasted chicken",
+            "2 slices Swiss cheese",
+            "2 leaves lettuce",
+            "4 slices tomato, or to taste",
+            "cooking spray"
+        ],
+        "directions_raw": [
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, 6 to 8 minutes. Drain on paper towels.",
+            "Spread mayonnaise on one side of each bread slice. Divide and layer chicken, Swiss cheese, lettuce, tomato, and bacon, in that order, on 2 bread slices (mayonnaise sides). Place remaining 2 bread slices on top, mayonnaise-sides-down.",
+            "Heat a panini press over medium-high heat according to manufacturer's instructions; coat with cooking spray. Place sandwiches inside; cook until heated through and cheese starts to melt, 5 to 7 minutes.",
+            "Cut panini in half. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "strips bacon",
+            "mayonnaise",
+            "slices ciabatta bread",
+            "ounces deli-sliced roasted chicken",
+            "slices swiss cheese",
+            "leaves lettuce",
+            "slices tomato taste",
+            "cooking spray"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 10,
+        "cook_speed": "medium",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Italian \"Stuffed\" Toast (Toast Farcito)",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "The first time I went to a bar with friends in Italy, I was very curious when they offered me \"toast\" as pub grub. When this panino showed up, I understood that Italian toast and American toast are not the same thing. This Italian \"stuffed\" toast (toast farcito) recipe uses cooked ham, Fontina cheese, and giardiniera in this hot panino—it goes well with your favorite Italian beer.",
+        "ingredients": [
+            "2 slices prosciutto",
+            "2 slices Fontina cheese",
+            "4 slices thin sandwich bread",
+            "¼ cup chopped giardiniera (pickled Italian vegetables)",
+            "2 hot pickled peppers (Optional)"
+        ],
+        "directions": [
+            "Heat a panini press according to the manufacturer's instructions.",
+            "Place 1 slice each prosciutto and Fontina cheese onto 1 bread slice each; add 2 tablespoons giardiniera on top each cheese layer. Top sandwiches with remaining bread slices.",
+            "Cook panino in the press until cheese melted and bread toasted, 3 to 5 minutes. Repeat with remaining panino. Serve hot pickled peppers on the side."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "slices prosciutto slices fontina cheese slices thin sandwich bread ¼ chopped giardiniera pickled italian vegetables hot pickled peppers optional",
+        "directions_text": "heat a panini press according to the manufacturer's instructions. place 1 slice each prosciutto and fontina cheese onto 1 bread slice each; add 2 tablespoons giardiniera on top each cheese layer. top sandwiches with remaining bread slices. cook panino in the press until cheese melted and bread toasted, 3 to 5 minutes. repeat with remaining panino. serve hot pickled peppers on the side.",
+        "combined_text": "italian \"stuffed\" toast (toast farcito) panini panini 2 slices prosciutto 2 slices fontina cheese 4 slices thin sandwich bread ¼ cup chopped giardiniera (pickled italian vegetables) 2 hot pickled peppers (optional) heat a panini press according to the manufacturer's instructions. place 1 slice each prosciutto and fontina cheese onto 1 bread slice each; add 2 tablespoons giardiniera on top each cheese layer. top sandwiches with remaining bread slices. cook panino in the press until cheese melted and bread toasted, 3 to 5 minutes. repeat with remaining panino. serve hot pickled peppers on the side.",
+        "ingredients_raw": [
+            "2 slices prosciutto",
+            "2 slices Fontina cheese",
+            "4 slices thin sandwich bread",
+            "¼ cup chopped giardiniera (pickled Italian vegetables)",
+            "2 hot pickled peppers (Optional)"
+        ],
+        "directions_raw": [
+            "Heat a panini press according to the manufacturer's instructions.",
+            "Place 1 slice each prosciutto and Fontina cheese onto 1 bread slice each; add 2 tablespoons giardiniera on top each cheese layer. Top sandwiches with remaining bread slices.",
+            "Cook panino in the press until cheese melted and bread toasted, 3 to 5 minutes. Repeat with remaining panino. Serve hot pickled peppers on the side."
+        ],
+        "ingredients_canonical": [
+            "slices prosciutto",
+            "slices fontina cheese",
+            "slices thin sandwich bread",
+            "¼ chopped giardiniera pickled italian vegetables",
+            "hot pickled peppers optional"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "breakfast",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Ham and Cheese Pretzel Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "Substitute soft pretzels in place of bread to create a delicious ham and Havarti cheese panini. Serve with mustard for dipping.",
+        "ingredients": [
+            "16 slices deli ham",
+            "16 slices dill Havarti cheese",
+            "16 frozen soft pretzels (such as SuperPretzel®), thawed"
+        ],
+        "directions": [
+            "Preheat an outdoor grill to medium heat (325 to 375 degrees F (160 to 190 degrees C). Lightly oil grill grate.",
+            "Divide ham and cheese among 8 pretzels arranged salt-sides down on a baking sheet. Top with remaining pretzels, salt-sides up.",
+            "Transfer pretzel panini to grill and top with a heavy oven-safe skillet or bricks wrapped in foil to weigh them down. Close lid; grill panini until cheese is melted, 2 to 3 minutes per side."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 3,
+        "ingredient_text": "slices deli ham slices dill havarti cheese frozen soft pretzels such as superpretzel thawed",
+        "directions_text": "preheat an outdoor grill to medium heat (325 to 375 degrees f (160 to 190 degrees c). lightly oil grill grate. divide ham and cheese among 8 pretzels arranged salt-sides down on a baking sheet. top with remaining pretzels, salt-sides up. transfer pretzel panini to grill and top with a heavy oven-safe skillet or bricks wrapped in foil to weigh them down. close lid; grill panini until cheese is melted, 2 to 3 minutes per side.",
+        "combined_text": "ham and cheese pretzel panini panini panini 16 slices deli ham 16 slices dill havarti cheese 16 frozen soft pretzels (such as superpretzel®), thawed preheat an outdoor grill to medium heat (325 to 375 degrees f (160 to 190 degrees c). lightly oil grill grate. divide ham and cheese among 8 pretzels arranged salt-sides down on a baking sheet. top with remaining pretzels, salt-sides up. transfer pretzel panini to grill and top with a heavy oven-safe skillet or bricks wrapped in foil to weigh them down. close lid; grill panini until cheese is melted, 2 to 3 minutes per side.",
+        "ingredients_raw": [
+            "16 slices deli ham",
+            "16 slices dill Havarti cheese",
+            "16 frozen soft pretzels (such as SuperPretzel®), thawed"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill to medium heat (325 to 375 degrees F (160 to 190 degrees C). Lightly oil grill grate.",
+            "Divide ham and cheese among 8 pretzels arranged salt-sides down on a baking sheet. Top with remaining pretzels, salt-sides up.",
+            "Transfer pretzel panini to grill and top with a heavy oven-safe skillet or bricks wrapped in foil to weigh them down. Close lid; grill panini until cheese is melted, 2 to 3 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "slices deli ham",
+            "slices dill havarti cheese",
+            "frozen soft pretzels such as superpretzel thawed"
+        ],
+        "cuisine_list": [
+            "european",
+            "german"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 4,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Panzanella Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "I made this sandwich by combining my 2 favorite sandwiches, and salad, together. The result was delicious!",
+        "ingredients": [
+            "1 French deli roll, split",
+            "1 teaspoon balsamic vinegar",
+            "2 slices mozzarella cheese",
+            "1 small tomato, sliced",
+            "4 fresh basil leaves",
+            "olive oil"
+        ],
+        "directions": [
+            "Preheat a skillet over medium-low heat.",
+            "Sprinkle cut sides of roll with balsamic vinegar. Layer one slice of mozzarella cheese, tomato slices, basil leaves, and the remaining slice of mozzarella cheese on the roll. Close sandwich; rub outside with olive oil.",
+            "Place sandwich in preheated skillet; top with another heavy skillet to press. Cook until bread is toasted and golden, about 3 minutes. Flip sandwich; top with skillet. Cook second side until toasted, about an additional 2 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "french deli roll split balsamic vinegar slices mozzarella cheese small tomato sliced fresh basil leaves olive oil",
+        "directions_text": "preheat a skillet over medium-low heat. sprinkle cut sides of roll with balsamic vinegar. layer one slice of mozzarella cheese, tomato slices, basil leaves, and the remaining slice of mozzarella cheese on the roll. close sandwich; rub outside with olive oil. place sandwich in preheated skillet; top with another heavy skillet to press. cook until bread is toasted and golden, about 3 minutes. flip sandwich; top with skillet. cook second side until toasted, about an additional 2 minutes.",
+        "combined_text": "panzanella panini panini panini 1 french deli roll, split 1 teaspoon balsamic vinegar 2 slices mozzarella cheese 1 small tomato, sliced 4 fresh basil leaves olive oil preheat a skillet over medium-low heat. sprinkle cut sides of roll with balsamic vinegar. layer one slice of mozzarella cheese, tomato slices, basil leaves, and the remaining slice of mozzarella cheese on the roll. close sandwich; rub outside with olive oil. place sandwich in preheated skillet; top with another heavy skillet to press. cook until bread is toasted and golden, about 3 minutes. flip sandwich; top with skillet. cook second side until toasted, about an additional 2 minutes.",
+        "ingredients_raw": [
+            "1 French deli roll, split",
+            "1 teaspoon balsamic vinegar",
+            "2 slices mozzarella cheese",
+            "1 small tomato, sliced",
+            "4 fresh basil leaves",
+            "olive oil"
+        ],
+        "directions_raw": [
+            "Preheat a skillet over medium-low heat.",
+            "Sprinkle cut sides of roll with balsamic vinegar. Layer one slice of mozzarella cheese, tomato slices, basil leaves, and the remaining slice of mozzarella cheese on the roll. Close sandwich; rub outside with olive oil.",
+            "Place sandwich in preheated skillet; top with another heavy skillet to press. Cook until bread is toasted and golden, about 3 minutes. Flip sandwich; top with skillet. Cook second side until toasted, about an additional 2 minutes."
+        ],
+        "ingredients_canonical": [
+            "french deli roll split",
+            "balsamic vinegar",
+            "slices mozzarella cheese",
+            "small tomato sliced",
+            "fresh basil leaves",
+            "olive oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Best Chicken Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "I have a local eatery who makes an amazing flatbread sandwich. This panini is based on their chicken pesto sandwich. I recommend pane turano, or you may use a sturdy sourdough.",
+        "ingredients": [
+            "10 slices sourdough bread",
+            "10 teaspoons butter",
+            "1 (22 ounce) package grilled chicken strips",
+            "1 (2.5 ounce) package precooked bacon",
+            "1 (8 ounce) ball fresh mozzarella cheese, thinly sliced",
+            "1 medium avocado, peeled and thinly sliced",
+            "1 medium Roma tomato, sliced",
+            "5 teaspoons fresh basil pesto"
+        ],
+        "directions": [
+            "Heat a panini grill on the highest setting. Brush 2 pieces of bread with butter. Assemble panini with chicken, bacon, and mozzarella. Lower panini press. Cook until bread is golden and cheese is melted, about 5 minutes.",
+            "Carefully separate bread and add in some sliced avocado, tomato, and pesto. Repeat above steps for additional panini sandwiches.",
+            "Reassemble sandwiches and cut in half. Serve immediately."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "slices sourdough bread butter ounce package grilled chicken strips ounce package precooked bacon ounce ball fresh mozzarella cheese thinly sliced medium avocado peeled thinly sliced medium roma tomato sliced fresh basil pesto",
+        "directions_text": "heat a panini grill on the highest setting. brush 2 pieces of bread with butter. assemble panini with chicken, bacon, and mozzarella. lower panini press. cook until bread is golden and cheese is melted, about 5 minutes. carefully separate bread and add in some sliced avocado, tomato, and pesto. repeat above steps for additional panini sandwiches. reassemble sandwiches and cut in half. serve immediately.",
+        "combined_text": "best chicken panini panini panini 10 slices sourdough bread 10 teaspoons butter 1 (22 ounce) package grilled chicken strips 1 (2.5 ounce) package precooked bacon 1 (8 ounce) ball fresh mozzarella cheese, thinly sliced 1 medium avocado, peeled and thinly sliced 1 medium roma tomato, sliced 5 teaspoons fresh basil pesto heat a panini grill on the highest setting. brush 2 pieces of bread with butter. assemble panini with chicken, bacon, and mozzarella. lower panini press. cook until bread is golden and cheese is melted, about 5 minutes. carefully separate bread and add in some sliced avocado, tomato, and pesto. repeat above steps for additional panini sandwiches. reassemble sandwiches and cut in half. serve immediately.",
+        "ingredients_raw": [
+            "10 slices sourdough bread",
+            "10 teaspoons butter",
+            "1 (22 ounce) package grilled chicken strips",
+            "1 (2.5 ounce) package precooked bacon",
+            "1 (8 ounce) ball fresh mozzarella cheese, thinly sliced",
+            "1 medium avocado, peeled and thinly sliced",
+            "1 medium Roma tomato, sliced",
+            "5 teaspoons fresh basil pesto"
+        ],
+        "directions_raw": [
+            "Heat a panini grill on the highest setting. Brush 2 pieces of bread with butter. Assemble panini with chicken, bacon, and mozzarella. Lower panini press. Cook until bread is golden and cheese is melted, about 5 minutes.",
+            "Carefully separate bread and add in some sliced avocado, tomato, and pesto. Repeat above steps for additional panini sandwiches.",
+            "Reassemble sandwiches and cut in half. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "slices sourdough bread",
+            "butter",
+            "ounce package grilled chicken strips",
+            "ounce package precooked bacon",
+            "ounce ball fresh mozzarella cheese thinly sliced",
+            "medium avocado peeled thinly sliced",
+            "medium roma tomato sliced",
+            "fresh basil pesto"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Healthy Greek Chicken Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "A quick and delicious lunch idea that is extremely versatile.",
+        "ingredients": [
+            "1 (10 inch) multigrain flour tortillas",
+            "1 tablespoon hummus",
+            "1 (4 ounce) grilled chicken breast, sliced",
+            "2 medium roasted red peppers, drained",
+            "2 tablespoons crumbled reduced-fat feta cheese",
+            "1 cup baby spinach leaves, or to taste",
+            "cooking spray"
+        ],
+        "directions": [
+            "Heat a panini maker.",
+            "Lay tortilla on a work surface and spread with hummus. Top with sliced chicken, red peppers, feta cheese, and then spinach. Fold tortilla in half and spray with cooking spray.",
+            "Grill in the preheated panini maker until outside is golden brown, 6 to 8 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "inch multigrain flour tortillas hummus ounce grilled chicken breast sliced medium roasted red peppers drained crumbled reduced-fat feta cheese baby spinach leaves taste cooking spray",
+        "directions_text": "heat a panini maker. lay tortilla on a work surface and spread with hummus. top with sliced chicken, red peppers, feta cheese, and then spinach. fold tortilla in half and spray with cooking spray. grill in the preheated panini maker until outside is golden brown, 6 to 8 minutes.",
+        "combined_text": "healthy greek chicken panini panini panini 1 (10 inch) multigrain flour tortillas 1 tablespoon hummus 1 (4 ounce) grilled chicken breast, sliced 2 medium roasted red peppers, drained 2 tablespoons crumbled reduced-fat feta cheese 1 cup baby spinach leaves, or to taste cooking spray heat a panini maker. lay tortilla on a work surface and spread with hummus. top with sliced chicken, red peppers, feta cheese, and then spinach. fold tortilla in half and spray with cooking spray. grill in the preheated panini maker until outside is golden brown, 6 to 8 minutes.",
+        "ingredients_raw": [
+            "1 (10 inch) multigrain flour tortillas",
+            "1 tablespoon hummus",
+            "1 (4 ounce) grilled chicken breast, sliced",
+            "2 medium roasted red peppers, drained",
+            "2 tablespoons crumbled reduced-fat feta cheese",
+            "1 cup baby spinach leaves, or to taste",
+            "cooking spray"
+        ],
+        "directions_raw": [
+            "Heat a panini maker.",
+            "Lay tortilla on a work surface and spread with hummus. Top with sliced chicken, red peppers, feta cheese, and then spinach. Fold tortilla in half and spray with cooking spray.",
+            "Grill in the preheated panini maker until outside is golden brown, 6 to 8 minutes."
+        ],
+        "ingredients_canonical": [
+            "inch multigrain flour tortillas",
+            "hummus",
+            "ounce grilled chicken breast sliced",
+            "medium roasted red peppers drained",
+            "crumbled reduced-fat feta cheese",
+            "baby spinach leaves taste",
+            "cooking spray"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Rotisserie Chicken Panini with Roasted Sweet Red Pepper, Spinach, and Guacamole",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "Pull out your panini maker and create a yummy sandwich with leftover rotisserie chicken. The cheese forms the first layer, so it can anchor the chicken pieces and get nice and gooey! The recipe is for one sandwich, but it is easily increased, if you have more in your household. Every bakery has a different size for submarine buns, so adjust the ingredients as you need.",
+        "ingredients": [
+            "1 (6 inch) submarine sandwich roll, sliced lengthwise",
+            "1 slice Pepper Jack cheese",
+            "¾ cup cooked rotisserie chicken meat, shredded or sliced, or more to taste",
+            "1 medium roasted red pepper",
+            "1 thin slice red onion, separated into rings",
+            "2 slices cooked crispy bacon",
+            "¼ cup fresh spinach leaves, or to taste",
+            "⅓ cup prepared guacamole",
+            "1 teaspoon unsalted butter",
+            "1 spear dill pickle"
+        ],
+        "directions": [
+            "Preheat panini maker to medium-low.",
+            "Open the roll and place a layer of cheese on the bottom half of the bread, fitting cheese to the contours of the bun. Layer rotisserie chicken, roasted sweet red pepper, onion rings, and bacon on top.",
+            "Place a layer of fresh spinach leaves on the bacon and spoon prepared guacamole on top. Place second half of bun on top. Brush top and bottom plates of panini maker with butter, and place the sandwich in the buttered area.",
+            "Close the panini maker and cook until cheese is melted, chicken is warmed, and bun is crispy and lightly browned, 4 to 5 minutes. Serve warm with dill pickle spear."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "inch submarine sandwich roll sliced lengthwise slice pepper jack cheese ¾ cooked rotisserie chicken meat shredded sliced more taste medium roasted red pepper thin slice red onion separated into rings slices cooked crispy bacon ¼ fresh spinach leaves taste ⅓ prepared guacamole unsalted butter spear dill pickle",
+        "directions_text": "preheat panini maker to medium-low. open the roll and place a layer of cheese on the bottom half of the bread, fitting cheese to the contours of the bun. layer rotisserie chicken, roasted sweet red pepper, onion rings, and bacon on top. place a layer of fresh spinach leaves on the bacon and spoon prepared guacamole on top. place second half of bun on top. brush top and bottom plates of panini maker with butter, and place the sandwich in the buttered area. close the panini maker and cook until cheese is melted, chicken is warmed, and bun is crispy and lightly browned, 4 to 5 minutes. serve warm with dill pickle spear.",
+        "combined_text": "rotisserie chicken panini with roasted sweet red pepper, spinach, and guacamole panini panini 1 (6 inch) submarine sandwich roll, sliced lengthwise 1 slice pepper jack cheese ¾ cup cooked rotisserie chicken meat, shredded or sliced, or more to taste 1 medium roasted red pepper 1 thin slice red onion, separated into rings 2 slices cooked crispy bacon ¼ cup fresh spinach leaves, or to taste ⅓ cup prepared guacamole 1 teaspoon unsalted butter 1 spear dill pickle preheat panini maker to medium-low. open the roll and place a layer of cheese on the bottom half of the bread, fitting cheese to the contours of the bun. layer rotisserie chicken, roasted sweet red pepper, onion rings, and bacon on top. place a layer of fresh spinach leaves on the bacon and spoon prepared guacamole on top. place second half of bun on top. brush top and bottom plates of panini maker with butter, and place the sandwich in the buttered area. close the panini maker and cook until cheese is melted, chicken is warmed, and bun is crispy and lightly browned, 4 to 5 minutes. serve warm with dill pickle spear.",
+        "ingredients_raw": [
+            "1 (6 inch) submarine sandwich roll, sliced lengthwise",
+            "1 slice Pepper Jack cheese",
+            "¾ cup cooked rotisserie chicken meat, shredded or sliced, or more to taste",
+            "1 medium roasted red pepper",
+            "1 thin slice red onion, separated into rings",
+            "2 slices cooked crispy bacon",
+            "¼ cup fresh spinach leaves, or to taste",
+            "⅓ cup prepared guacamole",
+            "1 teaspoon unsalted butter",
+            "1 spear dill pickle"
+        ],
+        "directions_raw": [
+            "Preheat panini maker to medium-low.",
+            "Open the roll and place a layer of cheese on the bottom half of the bread, fitting cheese to the contours of the bun. Layer rotisserie chicken, roasted sweet red pepper, onion rings, and bacon on top.",
+            "Place a layer of fresh spinach leaves on the bacon and spoon prepared guacamole on top. Place second half of bun on top. Brush top and bottom plates of panini maker with butter, and place the sandwich in the buttered area.",
+            "Close the panini maker and cook until cheese is melted, chicken is warmed, and bun is crispy and lightly browned, 4 to 5 minutes. Serve warm with dill pickle spear."
+        ],
+        "ingredients_canonical": [
+            "inch submarine sandwich roll sliced lengthwise",
+            "slice pepper jack cheese",
+            "¾ cooked rotisserie chicken meat shredded sliced more taste",
+            "medium roasted red pepper",
+            "thin slice red onion separated into rings",
+            "slices cooked crispy bacon",
+            "¼ fresh spinach leaves taste",
+            "⅓ prepared guacamole",
+            "unsalted butter",
+            "spear dill pickle"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 9,
+        "cook_speed": "medium",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 69,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Caprese Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "A favorite salad get its turn in a sandwich.",
+        "ingredients": [
+            "2 tablespoons olive oil, divided",
+            "¾ cup diced tomato",
+            "1 tablespoon drained capers",
+            "1 pinch red pepper flakes",
+            "½ teaspoon balsamic vinegar",
+            "4 slices sourdough bread",
+            "¼ cup prepared pesto",
+            "1 (6 ounce) package sliced mozzarella cheese",
+            "sea salt and coarsely ground pepper to taste"
+        ],
+        "directions": [
+            "Heat 1 tablespoon oil in a nonstick skillet over medium-high heat. Add tomato, capers, and pepper flakes; saute until tomatoes just start to break down, about 3 minutes. Remove from the heat and stir in vinegar.",
+            "Brush one side of each bread slice with remaining oil. Spread the other sides with pesto. Place 2 slices of bread, pesto sides up, on a work surface. Layer with mozzarella cheese and then tomato mixture. Sprinkle with salt and pepper and top with remaining bread, oiled sides up.",
+            "Toast sandwiches in a large skillet over medium heat until golden, 5 to 7 minutes per side. Use a heavy skillet on top of the sandwiches to weigh them down as they cook."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "olive oil divided ¾ diced tomato drained capers pinch red pepper flakes ½ balsamic vinegar slices sourdough bread ¼ prepared pesto ounce package sliced mozzarella cheese sea salt coarsely ground pepper taste",
+        "directions_text": "heat 1 tablespoon oil in a nonstick skillet over medium-high heat. add tomato, capers, and pepper flakes; saute until tomatoes just start to break down, about 3 minutes. remove from the heat and stir in vinegar. brush one side of each bread slice with remaining oil. spread the other sides with pesto. place 2 slices of bread, pesto sides up, on a work surface. layer with mozzarella cheese and then tomato mixture. sprinkle with salt and pepper and top with remaining bread, oiled sides up. toast sandwiches in a large skillet over medium heat until golden, 5 to 7 minutes per side. use a heavy skillet on top of the sandwiches to weigh them down as they cook.",
+        "combined_text": "caprese panini panini panini 2 tablespoons olive oil, divided ¾ cup diced tomato 1 tablespoon drained capers 1 pinch red pepper flakes ½ teaspoon balsamic vinegar 4 slices sourdough bread ¼ cup prepared pesto 1 (6 ounce) package sliced mozzarella cheese sea salt and coarsely ground pepper to taste heat 1 tablespoon oil in a nonstick skillet over medium-high heat. add tomato, capers, and pepper flakes; saute until tomatoes just start to break down, about 3 minutes. remove from the heat and stir in vinegar. brush one side of each bread slice with remaining oil. spread the other sides with pesto. place 2 slices of bread, pesto sides up, on a work surface. layer with mozzarella cheese and then tomato mixture. sprinkle with salt and pepper and top with remaining bread, oiled sides up. toast sandwiches in a large skillet over medium heat until golden, 5 to 7 minutes per side. use a heavy skillet on top of the sandwiches to weigh them down as they cook.",
+        "ingredients_raw": [
+            "2 tablespoons olive oil, divided",
+            "¾ cup diced tomato",
+            "1 tablespoon drained capers",
+            "1 pinch red pepper flakes",
+            "½ teaspoon balsamic vinegar",
+            "4 slices sourdough bread",
+            "¼ cup prepared pesto",
+            "1 (6 ounce) package sliced mozzarella cheese",
+            "sea salt and coarsely ground pepper to taste"
+        ],
+        "directions_raw": [
+            "Heat 1 tablespoon oil in a nonstick skillet over medium-high heat. Add tomato, capers, and pepper flakes; saute until tomatoes just start to break down, about 3 minutes. Remove from the heat and stir in vinegar.",
+            "Brush one side of each bread slice with remaining oil. Spread the other sides with pesto. Place 2 slices of bread, pesto sides up, on a work surface. Layer with mozzarella cheese and then tomato mixture. Sprinkle with salt and pepper and top with remaining bread, oiled sides up.",
+            "Toast sandwiches in a large skillet over medium heat until golden, 5 to 7 minutes per side. Use a heavy skillet on top of the sandwiches to weigh them down as they cook."
+        ],
+        "ingredients_canonical": [
+            "olive oil divided",
+            "¾ diced tomato",
+            "drained capers",
+            "pinch red pepper flakes",
+            "½ balsamic vinegar",
+            "slices sourdough bread",
+            "¼ prepared pesto",
+            "ounce package sliced mozzarella cheese",
+            "sea salt coarsely ground pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "breakfast"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Italian Chicken Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "My mother made up this Italian chicken panini recipe and it is delicious.",
+        "ingredients": [
+            "1 tablespoon olive oil, or as needed",
+            "2 slices Italian bread",
+            "1 tablespoon pesto",
+            "2 slices mozzarella cheese",
+            "¼ pound sliced cooked chicken breast"
+        ],
+        "directions": [
+            "Preheat an electric grill (such as George Foreman®) for medium heat. Spread olive oil on one side of each bread slice.",
+            "Place one slice of bread, oil-side down, on the preheated grill. Spread 1/2 of the pesto on the bread and put a slice of mozzarella cheese over top. Arrange chicken over the cheese and top with remaining mozzarella. Spread remaining pesto on the other slice of bread and place on top of the sandwich.",
+            "Close the grill and cook until cheese is melted and bread is golden brown and crispy, about 4 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "olive oil as needed slices italian bread pesto slices mozzarella cheese ¼ pound sliced cooked chicken breast",
+        "directions_text": "preheat an electric grill (such as george foreman®) for medium heat. spread olive oil on one side of each bread slice. place one slice of bread, oil-side down, on the preheated grill. spread 1/2 of the pesto on the bread and put a slice of mozzarella cheese over top. arrange chicken over the cheese and top with remaining mozzarella. spread remaining pesto on the other slice of bread and place on top of the sandwich. close the grill and cook until cheese is melted and bread is golden brown and crispy, about 4 minutes.",
+        "combined_text": "italian chicken panini panini panini 1 tablespoon olive oil, or as needed 2 slices italian bread 1 tablespoon pesto 2 slices mozzarella cheese ¼ pound sliced cooked chicken breast preheat an electric grill (such as george foreman®) for medium heat. spread olive oil on one side of each bread slice. place one slice of bread, oil-side down, on the preheated grill. spread 1/2 of the pesto on the bread and put a slice of mozzarella cheese over top. arrange chicken over the cheese and top with remaining mozzarella. spread remaining pesto on the other slice of bread and place on top of the sandwich. close the grill and cook until cheese is melted and bread is golden brown and crispy, about 4 minutes.",
+        "ingredients_raw": [
+            "1 tablespoon olive oil, or as needed",
+            "2 slices Italian bread",
+            "1 tablespoon pesto",
+            "2 slices mozzarella cheese",
+            "¼ pound sliced cooked chicken breast"
+        ],
+        "directions_raw": [
+            "Preheat an electric grill (such as George Foreman®) for medium heat. Spread olive oil on one side of each bread slice.",
+            "Place one slice of bread, oil-side down, on the preheated grill. Spread 1/2 of the pesto on the bread and put a slice of mozzarella cheese over top. Arrange chicken over the cheese and top with remaining mozzarella. Spread remaining pesto on the other slice of bread and place on top of the sandwich.",
+            "Close the grill and cook until cheese is melted and bread is golden brown and crispy, about 4 minutes."
+        ],
+        "ingredients_canonical": [
+            "olive oil as needed",
+            "slices italian bread",
+            "pesto",
+            "slices mozzarella cheese",
+            "¼ pound sliced cooked chicken breast"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 10,
+        "slow_hits": 3,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 70,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Hatch Chile Turkey Panini",
+        "category": "Panini",
+        "subcategory": "Panini",
+        "description": "Hatch chile-infused turkey and cheese meld with spinach and red onions in this easy panini topped with blistered shishito peppers.",
+        "ingredients": [
+            "8 ounces Dietz & Watson Hatch Chile Turkey",
+            "3 ounces Dietz & Watson Hatch Chile Cheese",
+            "2 slices white bread",
+            "½ cup wilted spinach",
+            "¼ cup julienned red onion",
+            "2 shishito peppers"
+        ],
+        "directions": [
+            "Layer your ingredients as follows: bread, spinach, Dietz & Watson Hatch Chile Cheese, Dietz & Watson Hatch Turkey, red onion, and bread.",
+            "Place the panini on a panini press for 5 minutes.",
+            "Preheat an outdoor grill for medium heat and lightly oil the grate. Grill the shishito peppers until blistered, 1 to 2 minutes per side.",
+            "Plate the panini with the peppers."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "ounces dietz watson hatch chile turkey ounces dietz watson hatch chile cheese slices white bread ½ wilted spinach ¼ julienned red onion shishito peppers",
+        "directions_text": "layer your ingredients as follows: bread, spinach, dietz & watson hatch chile cheese, dietz & watson hatch turkey, red onion, and bread. place the panini on a panini press for 5 minutes. preheat an outdoor grill for medium heat and lightly oil the grate. grill the shishito peppers until blistered, 1 to 2 minutes per side. plate the panini with the peppers.",
+        "combined_text": "hatch chile turkey panini panini panini 8 ounces dietz & watson hatch chile turkey 3 ounces dietz & watson hatch chile cheese 2 slices white bread ½ cup wilted spinach ¼ cup julienned red onion 2 shishito peppers layer your ingredients as follows: bread, spinach, dietz & watson hatch chile cheese, dietz & watson hatch turkey, red onion, and bread. place the panini on a panini press for 5 minutes. preheat an outdoor grill for medium heat and lightly oil the grate. grill the shishito peppers until blistered, 1 to 2 minutes per side. plate the panini with the peppers.",
+        "ingredients_raw": [
+            "8 ounces Dietz & Watson Hatch Chile Turkey",
+            "3 ounces Dietz & Watson Hatch Chile Cheese",
+            "2 slices white bread",
+            "½ cup wilted spinach",
+            "¼ cup julienned red onion",
+            "2 shishito peppers"
+        ],
+        "directions_raw": [
+            "Layer your ingredients as follows: bread, spinach, Dietz & Watson Hatch Chile Cheese, Dietz & Watson Hatch Turkey, red onion, and bread.",
+            "Place the panini on a panini press for 5 minutes.",
+            "Preheat an outdoor grill for medium heat and lightly oil the grate. Grill the shishito peppers until blistered, 1 to 2 minutes per side.",
+            "Plate the panini with the peppers."
+        ],
+        "ingredients_canonical": [
+            "ounces dietz watson hatch chile turkey",
+            "ounces dietz watson hatch chile cheese",
+            "slices white bread",
+            "½ wilted spinach",
+            "¼ julienned red onion",
+            "shishito peppers"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 51,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    }
+]

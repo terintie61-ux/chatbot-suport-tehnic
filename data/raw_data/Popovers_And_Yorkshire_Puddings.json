@@ -1,0 +1,1537 @@
+[
+    {
+        "recipe_title": "Traditional Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "As legend has it, Yorkshire puddings were cooked in a pan of fat at the bottom of a hearth, underneath a large piece of roasting beef. The smoky heat from the fire and the drippings from the meat must've made for quite a delicious pastry. Though limited by modern ovens, in this recipe for traditional Yorkshire pudding, you can still come close to the original by using real rendered beef fat, without which you're just eating a popover.",
+        "ingredients": [
+            "4 large eggs",
+            "1 teaspoon kosher salt",
+            "1 cup whole milk",
+            "⅞ cup all-purpose flour",
+            "¾ cup melted beef fat"
+        ],
+        "directions": [
+            "Whisk eggs and salt together in a bowl until light and frothy. Whisk in milk and flour until smooth and lump-free; batter will be thin and barely coat the back of a spoon.",
+            "Transfer batter to a 4-cup measuring cup. Chill in the refrigerator at least 15 minutes.",
+            "Preheat the oven to 400 degrees F (200 degrees C) with oven rack in center position.",
+            "Spoon 1 tablespoon melted beef fat into cups of a 12-cup nonstick muffin tin; use your finger to grease sides and tops of cups. Place the prepared tin on a baking sheet.",
+            "Place in the preheated oven until fat is smoking hot, 10 to 15 minutes.",
+            "Remove from the oven; spoon batter into the cups, filling each 1/2 full.",
+            "Bake in the preheated oven until browned and fully puffed, about 25 minutes. Remove from the oven; immediately poke a hole in center of each to release steam. Serve hot, warm, or room-temperature."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 7,
+        "ingredient_text": "large eggs kosher salt whole milk ⅞ all-purpose flour ¾ melted beef fat",
+        "directions_text": "whisk eggs and salt together in a bowl until light and frothy. whisk in milk and flour until smooth and lump-free; batter will be thin and barely coat the back of a spoon. transfer batter to a 4-cup measuring cup. chill in the refrigerator at least 15 minutes. preheat the oven to 400 degrees f (200 degrees c) with oven rack in center position. spoon 1 tablespoon melted beef fat into cups of a 12-cup nonstick muffin tin; use your finger to grease sides and tops of cups. place the prepared tin on a baking sheet. place in the preheated oven until fat is smoking hot, 10 to 15 minutes. remove from the oven; spoon batter into the cups, filling each 1/2 full. bake in the preheated oven until browned and fully puffed, about 25 minutes. remove from the oven; immediately poke a hole in center of each to release steam. serve hot, warm, or room-temperature.",
+        "combined_text": "traditional yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 4 large eggs 1 teaspoon kosher salt 1 cup whole milk ⅞ cup all-purpose flour ¾ cup melted beef fat whisk eggs and salt together in a bowl until light and frothy. whisk in milk and flour until smooth and lump-free; batter will be thin and barely coat the back of a spoon. transfer batter to a 4-cup measuring cup. chill in the refrigerator at least 15 minutes. preheat the oven to 400 degrees f (200 degrees c) with oven rack in center position. spoon 1 tablespoon melted beef fat into cups of a 12-cup nonstick muffin tin; use your finger to grease sides and tops of cups. place the prepared tin on a baking sheet. place in the preheated oven until fat is smoking hot, 10 to 15 minutes. remove from the oven; spoon batter into the cups, filling each 1/2 full. bake in the preheated oven until browned and fully puffed, about 25 minutes. remove from the oven; immediately poke a hole in center of each to release steam. serve hot, warm, or room-temperature.",
+        "ingredients_raw": [
+            "4 large eggs",
+            "1 teaspoon kosher salt",
+            "1 cup whole milk",
+            "⅞ cup all-purpose flour",
+            "¾ cup melted beef fat"
+        ],
+        "directions_raw": [
+            "Whisk eggs and salt together in a bowl until light and frothy. Whisk in milk and flour until smooth and lump-free; batter will be thin and barely coat the back of a spoon.",
+            "Transfer batter to a 4-cup measuring cup. Chill in the refrigerator at least 15 minutes.",
+            "Preheat the oven to 400 degrees F (200 degrees C) with oven rack in center position.",
+            "Spoon 1 tablespoon melted beef fat into cups of a 12-cup nonstick muffin tin; use your finger to grease sides and tops of cups. Place the prepared tin on a baking sheet.",
+            "Place in the preheated oven until fat is smoking hot, 10 to 15 minutes.",
+            "Remove from the oven; spoon batter into the cups, filling each 1/2 full.",
+            "Bake in the preheated oven until browned and fully puffed, about 25 minutes. Remove from the oven; immediately poke a hole in center of each to release steam. Serve hot, warm, or room-temperature."
+        ],
+        "ingredients_canonical": [
+            "large eggs",
+            "kosher salt",
+            "whole milk",
+            "⅞ all-purpose flour",
+            "¾ melted beef fat"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 48,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Traditional Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "This recipe is for traditional popovers. They can be served plain, but my family prefers them with raspberry butter.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "¼ teaspoon salt",
+            "3 eggs",
+            "1 cup milk",
+            "1 tablespoon unsalted butter, melted",
+            "2 tablespoons unsalted butter, chilled"
+        ],
+        "directions": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Spray a popover pan with nonstick cooking spray. Place pan on center rack of oven and preheat for 2 minutes.",
+            "Blend flour, salt, eggs, milk, and melted butter until it looks like heavy cream, about 1 to 2 minutes.",
+            "Cut chilled butter into 6 even pieces. Place 1 piece of butter in each cup and place pan back in oven until butter is bubbly (about 1 minute).",
+            "Fill each cup half full with batter and bake 20 minutes. Reduce heat to 325 degrees F (165 degrees C) and bake for another 15 to 20 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour ¼ salt eggs milk unsalted butter melted unsalted butter chilled",
+        "directions_text": "preheat oven to 425 degrees f (220 degrees c). spray a popover pan with nonstick cooking spray. place pan on center rack of oven and preheat for 2 minutes. blend flour, salt, eggs, milk, and melted butter until it looks like heavy cream, about 1 to 2 minutes. cut chilled butter into 6 even pieces. place 1 piece of butter in each cup and place pan back in oven until butter is bubbly (about 1 minute). fill each cup half full with batter and bake 20 minutes. reduce heat to 325 degrees f (165 degrees c) and bake for another 15 to 20 minutes.",
+        "combined_text": "traditional popovers popovers and yorkshire puddings popovers and yorkshire puddings 1 cup all-purpose flour ¼ teaspoon salt 3 eggs 1 cup milk 1 tablespoon unsalted butter, melted 2 tablespoons unsalted butter, chilled preheat oven to 425 degrees f (220 degrees c). spray a popover pan with nonstick cooking spray. place pan on center rack of oven and preheat for 2 minutes. blend flour, salt, eggs, milk, and melted butter until it looks like heavy cream, about 1 to 2 minutes. cut chilled butter into 6 even pieces. place 1 piece of butter in each cup and place pan back in oven until butter is bubbly (about 1 minute). fill each cup half full with batter and bake 20 minutes. reduce heat to 325 degrees f (165 degrees c) and bake for another 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour",
+            "¼ teaspoon salt",
+            "3 eggs",
+            "1 cup milk",
+            "1 tablespoon unsalted butter, melted",
+            "2 tablespoons unsalted butter, chilled"
+        ],
+        "directions_raw": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Spray a popover pan with nonstick cooking spray. Place pan on center rack of oven and preheat for 2 minutes.",
+            "Blend flour, salt, eggs, milk, and melted butter until it looks like heavy cream, about 1 to 2 minutes.",
+            "Cut chilled butter into 6 even pieces. Place 1 piece of butter in each cup and place pan back in oven until butter is bubbly (about 1 minute).",
+            "Fill each cup half full with batter and bake 20 minutes. Reduce heat to 325 degrees F (165 degrees C) and bake for another 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "¼ salt",
+            "eggs",
+            "milk",
+            "unsalted butter melted",
+            "unsalted butter chilled"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 1,
+        "slow_hits": 3,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 76,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grandma's Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "These are delicious Yorkies! Very easy, too! Serve Yorkshire pudding with roast beef or pork, as this recipe requires meat drippings.",
+        "ingredients": [
+            "2 eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "1 cup beef drippings"
+        ],
+        "directions": [
+            "Preheat the oven to 450 degrees F (220 degrees C). Place about a tablespoon of beef drippings into each cup of a 6-cup muffin tin.",
+            "Whisk eggs in a medium bowl until well-blended. Stir in milk, flour, and salt. Fill the muffin cups about halfway.",
+            "Bake in the preheated oven for 15 minutes, then reduce the oven temperature to 350 degrees F (175 degrees C) and bake for an additional 15 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "eggs milk all-purpose flour salt beef drippings",
+        "directions_text": "preheat the oven to 450 degrees f (220 degrees c). place about a tablespoon of beef drippings into each cup of a 6-cup muffin tin. whisk eggs in a medium bowl until well-blended. stir in milk, flour, and salt. fill the muffin cups about halfway. bake in the preheated oven for 15 minutes, then reduce the oven temperature to 350 degrees f (175 degrees c) and bake for an additional 15 minutes.",
+        "combined_text": "grandma's yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 2 eggs 1 cup milk 1 cup all-purpose flour 1 teaspoon salt 1 cup beef drippings preheat the oven to 450 degrees f (220 degrees c). place about a tablespoon of beef drippings into each cup of a 6-cup muffin tin. whisk eggs in a medium bowl until well-blended. stir in milk, flour, and salt. fill the muffin cups about halfway. bake in the preheated oven for 15 minutes, then reduce the oven temperature to 350 degrees f (175 degrees c) and bake for an additional 15 minutes.",
+        "ingredients_raw": [
+            "2 eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "1 cup beef drippings"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 450 degrees F (220 degrees C). Place about a tablespoon of beef drippings into each cup of a 6-cup muffin tin.",
+            "Whisk eggs in a medium bowl until well-blended. Stir in milk, flour, and salt. Fill the muffin cups about halfway.",
+            "Bake in the preheated oven for 15 minutes, then reduce the oven temperature to 350 degrees F (175 degrees C) and bake for an additional 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "milk",
+            "all-purpose flour",
+            "salt",
+            "beef drippings"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "main",
+            "dessert",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "slow",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 50,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Simple Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "A delicious 15-minute Yorkshire pudding.",
+        "ingredients": [
+            "2 eggs",
+            "1 pinch salt",
+            "1 cup all-purpose flour",
+            "1 cup milk"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a small glass baking dish; place in oven to heat while you prepare the pudding.",
+            "Beat eggs with a pinch of salt in a bowl until smooth; add milk and flour and whisk until you have a smooth batter.",
+            "Pour batter into the hot baking dish and bake in preheated oven until no longer wet in the center, 10 to 12 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "eggs pinch salt all-purpose flour milk",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). grease a small glass baking dish; place in oven to heat while you prepare the pudding. beat eggs with a pinch of salt in a bowl until smooth; add milk and flour and whisk until you have a smooth batter. pour batter into the hot baking dish and bake in preheated oven until no longer wet in the center, 10 to 12 minutes.",
+        "combined_text": "simple yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 2 eggs 1 pinch salt 1 cup all-purpose flour 1 cup milk preheat oven to 350 degrees f (175 degrees c). grease a small glass baking dish; place in oven to heat while you prepare the pudding. beat eggs with a pinch of salt in a bowl until smooth; add milk and flour and whisk until you have a smooth batter. pour batter into the hot baking dish and bake in preheated oven until no longer wet in the center, 10 to 12 minutes.",
+        "ingredients_raw": [
+            "2 eggs",
+            "1 pinch salt",
+            "1 cup all-purpose flour",
+            "1 cup milk"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a small glass baking dish; place in oven to heat while you prepare the pudding.",
+            "Beat eggs with a pinch of salt in a bowl until smooth; add milk and flour and whisk until you have a smooth batter.",
+            "Pour batter into the hot baking dish and bake in preheated oven until no longer wet in the center, 10 to 12 minutes."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "pinch salt",
+            "all-purpose flour",
+            "milk"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Blueberry Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "A special blueberry popover recipe to serve at your next brunch. Eggy and rich, yet not too sweet; quite impressive, yet simple. Please try the lemon juice and powdered sugar on the top. It really adds to the total flavor!",
+        "ingredients": [
+            "3 tablespoons butter, cut into 6 pieces",
+            "1 tablespoon white sugar",
+            "1 teaspoon ground cinnamon",
+            "1 cup whole milk",
+            "¼ cup white sugar",
+            "3 large eggs, beaten",
+            "1 teaspoon vanilla extract",
+            "1 cup all-purpose flour",
+            "½ cup fresh blueberries",
+            "¼ cup confectioners' sugar, or to taste",
+            "1 medium lemon, halved"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Place a piece of butter into each cup of a jumbo muffin tin.",
+            "Place muffin tin into the preheating oven until butter melts, about 5 minutes. Remove and set aside.",
+            "Stir 1 tablespoon sugar and cinnamon together in a small bowl.",
+            "Beat milk, 1/4 cup sugar, eggs, and vanilla in a large bowl. Whisk in flour until incorporated. Divide batter among muffin cups. Drop an equal amount of blueberries into each cup, then sprinkle cinnamon-sugar mixture over top.",
+            "Bake in the preheated oven for 5 minutes. Reduce the heat to 350 degrees F (175 degrees C) and continue baking until popovers are no longer moist in the center, about 25 minutes.",
+            "Remove from the oven and transfer to a wire rack. Dust tops of popovers with confectioners' sugar and squeeze lemon halves over top. Serve warm."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 6,
+        "ingredient_text": "butter cut into pieces white sugar ground cinnamon whole milk ¼ white sugar large eggs beaten vanilla extract all-purpose flour ½ fresh blueberries ¼ confectioners sugar taste medium lemon halved",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). place a piece of butter into each cup of a jumbo muffin tin. place muffin tin into the preheating oven until butter melts, about 5 minutes. remove and set aside. stir 1 tablespoon sugar and cinnamon together in a small bowl. beat milk, 1/4 cup sugar, eggs, and vanilla in a large bowl. whisk in flour until incorporated. divide batter among muffin cups. drop an equal amount of blueberries into each cup, then sprinkle cinnamon-sugar mixture over top. bake in the preheated oven for 5 minutes. reduce the heat to 350 degrees f (175 degrees c) and continue baking until popovers are no longer moist in the center, about 25 minutes. remove from the oven and transfer to a wire rack. dust tops of popovers with confectioners' sugar and squeeze lemon halves over top. serve warm.",
+        "combined_text": "blueberry popovers popovers and yorkshire puddings popovers and yorkshire puddings 3 tablespoons butter, cut into 6 pieces 1 tablespoon white sugar 1 teaspoon ground cinnamon 1 cup whole milk ¼ cup white sugar 3 large eggs, beaten 1 teaspoon vanilla extract 1 cup all-purpose flour ½ cup fresh blueberries ¼ cup confectioners' sugar, or to taste 1 medium lemon, halved preheat the oven to 375 degrees f (190 degrees c). place a piece of butter into each cup of a jumbo muffin tin. place muffin tin into the preheating oven until butter melts, about 5 minutes. remove and set aside. stir 1 tablespoon sugar and cinnamon together in a small bowl. beat milk, 1/4 cup sugar, eggs, and vanilla in a large bowl. whisk in flour until incorporated. divide batter among muffin cups. drop an equal amount of blueberries into each cup, then sprinkle cinnamon-sugar mixture over top. bake in the preheated oven for 5 minutes. reduce the heat to 350 degrees f (175 degrees c) and continue baking until popovers are no longer moist in the center, about 25 minutes. remove from the oven and transfer to a wire rack. dust tops of popovers with confectioners' sugar and squeeze lemon halves over top. serve warm.",
+        "ingredients_raw": [
+            "3 tablespoons butter, cut into 6 pieces",
+            "1 tablespoon white sugar",
+            "1 teaspoon ground cinnamon",
+            "1 cup whole milk",
+            "¼ cup white sugar",
+            "3 large eggs, beaten",
+            "1 teaspoon vanilla extract",
+            "1 cup all-purpose flour",
+            "½ cup fresh blueberries",
+            "¼ cup confectioners' sugar, or to taste",
+            "1 medium lemon, halved"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Place a piece of butter into each cup of a jumbo muffin tin.",
+            "Place muffin tin into the preheating oven until butter melts, about 5 minutes. Remove and set aside.",
+            "Stir 1 tablespoon sugar and cinnamon together in a small bowl.",
+            "Beat milk, 1/4 cup sugar, eggs, and vanilla in a large bowl. Whisk in flour until incorporated. Divide batter among muffin cups. Drop an equal amount of blueberries into each cup, then sprinkle cinnamon-sugar mixture over top.",
+            "Bake in the preheated oven for 5 minutes. Reduce the heat to 350 degrees F (175 degrees C) and continue baking until popovers are no longer moist in the center, about 25 minutes.",
+            "Remove from the oven and transfer to a wire rack. Dust tops of popovers with confectioners' sugar and squeeze lemon halves over top. Serve warm."
+        ],
+        "ingredients_canonical": [
+            "butter cut into pieces",
+            "white sugar",
+            "ground cinnamon",
+            "whole milk",
+            "¼ white sugar",
+            "large eggs beaten",
+            "vanilla extract",
+            "all-purpose flour",
+            "½ fresh blueberries",
+            "¼ confectioners sugar taste",
+            "medium lemon halved"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Classic Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "Traditionally served with roast beef, Yorkshire pudding is actually not a pudding at all! Rather, it's a puffed pastry baked with meat drippings. People in the U.S. tend to think popovers and Yorkshire pudding are the same, but they're not. Popovers are hard and very airy, while Yorkshire pudding is softer and doesn't rise as high as a popover.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup whole milk",
+            "2 large eggs",
+            "½ teaspoon salt",
+            "3 tablespoons beef or bacon drippings"
+        ],
+        "directions": [
+            "Mix flour, milk, eggs, and salt together in a large bowl with an electric mixer until smooth, about 5 minutes. Cover and refrigerate for 1 hour.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Coat a 9x13-inch baking dish with beef drippings. Place the pan in the preheating oven until drippings are hot and sizzling, about 15 minutes.",
+            "Remove batter from the refrigerator; beat briefly, then scoop into the prepared baking pan.",
+            "Bake in the preheated oven for 20 minutes. Lower the oven temperature to 375 degrees F (190 degrees C). Without opening the oven, continue baking until pudding is puffed and golden brown, about 15 minutes more. Remove from oven, cut into 8 squares, and serve hot."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 4,
+        "ingredient_text": "all-purpose flour whole milk large eggs ½ salt beef bacon drippings",
+        "directions_text": "mix flour, milk, eggs, and salt together in a large bowl with an electric mixer until smooth, about 5 minutes. cover and refrigerate for 1 hour. preheat the oven to 425 degrees f (220 degrees c). coat a 9x13-inch baking dish with beef drippings. place the pan in the preheating oven until drippings are hot and sizzling, about 15 minutes. remove batter from the refrigerator; beat briefly, then scoop into the prepared baking pan. bake in the preheated oven for 20 minutes. lower the oven temperature to 375 degrees f (190 degrees c). without opening the oven, continue baking until pudding is puffed and golden brown, about 15 minutes more. remove from oven, cut into 8 squares, and serve hot.",
+        "combined_text": "classic yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 1 cup all-purpose flour 1 cup whole milk 2 large eggs ½ teaspoon salt 3 tablespoons beef or bacon drippings mix flour, milk, eggs, and salt together in a large bowl with an electric mixer until smooth, about 5 minutes. cover and refrigerate for 1 hour. preheat the oven to 425 degrees f (220 degrees c). coat a 9x13-inch baking dish with beef drippings. place the pan in the preheating oven until drippings are hot and sizzling, about 15 minutes. remove batter from the refrigerator; beat briefly, then scoop into the prepared baking pan. bake in the preheated oven for 20 minutes. lower the oven temperature to 375 degrees f (190 degrees c). without opening the oven, continue baking until pudding is puffed and golden brown, about 15 minutes more. remove from oven, cut into 8 squares, and serve hot.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour",
+            "1 cup whole milk",
+            "2 large eggs",
+            "½ teaspoon salt",
+            "3 tablespoons beef or bacon drippings"
+        ],
+        "directions_raw": [
+            "Mix flour, milk, eggs, and salt together in a large bowl with an electric mixer until smooth, about 5 minutes. Cover and refrigerate for 1 hour.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Coat a 9x13-inch baking dish with beef drippings. Place the pan in the preheating oven until drippings are hot and sizzling, about 15 minutes.",
+            "Remove batter from the refrigerator; beat briefly, then scoop into the prepared baking pan.",
+            "Bake in the preheated oven for 20 minutes. Lower the oven temperature to 375 degrees F (190 degrees C). Without opening the oven, continue baking until pudding is puffed and golden brown, about 15 minutes more. Remove from oven, cut into 8 squares, and serve hot."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "whole milk",
+            "large eggs",
+            "½ salt",
+            "beef bacon drippings"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 46,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Blender Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "Use your blender for a quick and easy way to make Yorkshire pudding with very little mess. This batter rises really high!",
+        "ingredients": [
+            "2 eggs",
+            "¾ cup all-purpose flour",
+            "½ teaspoon salt",
+            "1 cup milk, divided",
+            "¼ cup beef drippings, divided"
+        ],
+        "directions": [
+            "Blend eggs in a blender for 2 to 3 minutes.",
+            "Sift flour and salt together into a bowl. Add flour mixture and 1/4 cup milk to the blender; blend until smooth, about 1 minute. Scrape batter from the sides of the blender and pour in remaining 3/4 cup milk; blend until smooth, 2 to 3 more minutes.",
+            "Refrigerate batter for 1 to 2 hours before cooking.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Divide beef drippings among six muffin cups in a 12-cup muffin pan. Place the muffin pan into the preheating oven and heat until drippings are very hot.",
+            "Remove pan from the oven. Pour batter over hot beef drippings.",
+            "Bake in the preheated oven until puffed and slightly browned, 20 to 30 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 7,
+        "ingredient_text": "eggs ¾ all-purpose flour ½ salt milk divided ¼ beef drippings divided",
+        "directions_text": "blend eggs in a blender for 2 to 3 minutes. sift flour and salt together into a bowl. add flour mixture and 1/4 cup milk to the blender; blend until smooth, about 1 minute. scrape batter from the sides of the blender and pour in remaining 3/4 cup milk; blend until smooth, 2 to 3 more minutes. refrigerate batter for 1 to 2 hours before cooking. preheat the oven to 450 degrees f (230 degrees c). divide beef drippings among six muffin cups in a 12-cup muffin pan. place the muffin pan into the preheating oven and heat until drippings are very hot. remove pan from the oven. pour batter over hot beef drippings. bake in the preheated oven until puffed and slightly browned, 20 to 30 minutes.",
+        "combined_text": "blender yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 2 eggs ¾ cup all-purpose flour ½ teaspoon salt 1 cup milk, divided ¼ cup beef drippings, divided blend eggs in a blender for 2 to 3 minutes. sift flour and salt together into a bowl. add flour mixture and 1/4 cup milk to the blender; blend until smooth, about 1 minute. scrape batter from the sides of the blender and pour in remaining 3/4 cup milk; blend until smooth, 2 to 3 more minutes. refrigerate batter for 1 to 2 hours before cooking. preheat the oven to 450 degrees f (230 degrees c). divide beef drippings among six muffin cups in a 12-cup muffin pan. place the muffin pan into the preheating oven and heat until drippings are very hot. remove pan from the oven. pour batter over hot beef drippings. bake in the preheated oven until puffed and slightly browned, 20 to 30 minutes.",
+        "ingredients_raw": [
+            "2 eggs",
+            "¾ cup all-purpose flour",
+            "½ teaspoon salt",
+            "1 cup milk, divided",
+            "¼ cup beef drippings, divided"
+        ],
+        "directions_raw": [
+            "Blend eggs in a blender for 2 to 3 minutes.",
+            "Sift flour and salt together into a bowl. Add flour mixture and 1/4 cup milk to the blender; blend until smooth, about 1 minute. Scrape batter from the sides of the blender and pour in remaining 3/4 cup milk; blend until smooth, 2 to 3 more minutes.",
+            "Refrigerate batter for 1 to 2 hours before cooking.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Divide beef drippings among six muffin cups in a 12-cup muffin pan. Place the muffin pan into the preheating oven and heat until drippings are very hot.",
+            "Remove pan from the oven. Pour batter over hot beef drippings.",
+            "Bake in the preheated oven until puffed and slightly browned, 20 to 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "¾ all-purpose flour",
+            "½ salt",
+            "milk divided",
+            "¼ beef drippings divided"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "breakfast",
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 67,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "I got this popover recipe from a viewer Elizzaruth, who breaks from tradition and places the popovers in a cold oven and then bakes them at a high temperature for 30 minutes exactly. The popovers came out tall and fluffy, crispy on the outside, tender and delicious inside!",
+        "ingredients": [
+            "1 tablespoon butter",
+            "cooking spray",
+            "2 large eggs large eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "½ teaspoon salt",
+            "1 pinch cayenne pepper",
+            "2 tablespoons shredded Cheddar cheese (Optional)"
+        ],
+        "directions": [
+            "Grease a 6-tin muffin pan with butter and cooking spray.",
+            "Whisk eggs, milk, flour, salt, and cayenne pepper together in a medium bowl until smooth. Pour batter into each muffin tin, filling to about 3/4 of the way up the sides. Sprinkle about 1 teaspoon of grated Cheddar cheese atop each popover.",
+            "Place pan in a cold oven. Heat to 450 degrees F (230 degrees C) and bake until puffed and well-browned, without peeking, about 30 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "butter cooking spray large eggs large eggs milk all-purpose flour ½ salt pinch cayenne pepper shredded cheddar cheese optional",
+        "directions_text": "grease a 6-tin muffin pan with butter and cooking spray. whisk eggs, milk, flour, salt, and cayenne pepper together in a medium bowl until smooth. pour batter into each muffin tin, filling to about 3/4 of the way up the sides. sprinkle about 1 teaspoon of grated cheddar cheese atop each popover. place pan in a cold oven. heat to 450 degrees f (230 degrees c) and bake until puffed and well-browned, without peeking, about 30 minutes.",
+        "combined_text": "chef john's popovers popovers and yorkshire puddings popovers and yorkshire puddings 1 tablespoon butter cooking spray 2 large eggs large eggs 1 cup milk 1 cup all-purpose flour ½ teaspoon salt 1 pinch cayenne pepper 2 tablespoons shredded cheddar cheese (optional) grease a 6-tin muffin pan with butter and cooking spray. whisk eggs, milk, flour, salt, and cayenne pepper together in a medium bowl until smooth. pour batter into each muffin tin, filling to about 3/4 of the way up the sides. sprinkle about 1 teaspoon of grated cheddar cheese atop each popover. place pan in a cold oven. heat to 450 degrees f (230 degrees c) and bake until puffed and well-browned, without peeking, about 30 minutes.",
+        "ingredients_raw": [
+            "1 tablespoon butter",
+            "cooking spray",
+            "2 large eggs large eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "½ teaspoon salt",
+            "1 pinch cayenne pepper",
+            "2 tablespoons shredded Cheddar cheese (Optional)"
+        ],
+        "directions_raw": [
+            "Grease a 6-tin muffin pan with butter and cooking spray.",
+            "Whisk eggs, milk, flour, salt, and cayenne pepper together in a medium bowl until smooth. Pour batter into each muffin tin, filling to about 3/4 of the way up the sides. Sprinkle about 1 teaspoon of grated Cheddar cheese atop each popover.",
+            "Place pan in a cold oven. Heat to 450 degrees F (230 degrees C) and bake until puffed and well-browned, without peeking, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "butter",
+            "cooking spray",
+            "large eggs large eggs",
+            "milk",
+            "all-purpose flour",
+            "½ salt",
+            "pinch cayenne pepper",
+            "shredded cheddar cheese optional"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Hi-Rise Easy Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "Simple and easy Yorkshire pudding recipe.",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "3 eggs",
+            "2 egg whites",
+            "½ cup milk",
+            "1 cup all-purpose flour",
+            "2 tablespoons cold water"
+        ],
+        "directions": [
+            "Preheat oven to 450 degrees F (230 degrees C). Drop 1 teaspoon olive oil each into 6 muffin cups.",
+            "Beat eggs, egg whites, and milk together in a glass bowl until smooth.",
+            "Heat egg mixture in microwave oven until warmed, about 1 minute.",
+            "Stir flour into the egg mixture until completely incorporated into a batter.",
+            "Heat muffin cups in preheated oven until the oil is smoking, 2 to 3 minutes.",
+            "Stir cold water into batter. Pour 1/4 cup batter into each muffin cup.",
+            "Bake in the preheated oven until risen and cooked in their centers, about 25 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 7,
+        "ingredient_text": "olive oil eggs egg whites ½ milk all-purpose flour cold water",
+        "directions_text": "preheat oven to 450 degrees f (230 degrees c). drop 1 teaspoon olive oil each into 6 muffin cups. beat eggs, egg whites, and milk together in a glass bowl until smooth. heat egg mixture in microwave oven until warmed, about 1 minute. stir flour into the egg mixture until completely incorporated into a batter. heat muffin cups in preheated oven until the oil is smoking, 2 to 3 minutes. stir cold water into batter. pour 1/4 cup batter into each muffin cup. bake in the preheated oven until risen and cooked in their centers, about 25 minutes.",
+        "combined_text": "hi-rise easy yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 2 tablespoons olive oil 3 eggs 2 egg whites ½ cup milk 1 cup all-purpose flour 2 tablespoons cold water preheat oven to 450 degrees f (230 degrees c). drop 1 teaspoon olive oil each into 6 muffin cups. beat eggs, egg whites, and milk together in a glass bowl until smooth. heat egg mixture in microwave oven until warmed, about 1 minute. stir flour into the egg mixture until completely incorporated into a batter. heat muffin cups in preheated oven until the oil is smoking, 2 to 3 minutes. stir cold water into batter. pour 1/4 cup batter into each muffin cup. bake in the preheated oven until risen and cooked in their centers, about 25 minutes.",
+        "ingredients_raw": [
+            "2 tablespoons olive oil",
+            "3 eggs",
+            "2 egg whites",
+            "½ cup milk",
+            "1 cup all-purpose flour",
+            "2 tablespoons cold water"
+        ],
+        "directions_raw": [
+            "Preheat oven to 450 degrees F (230 degrees C). Drop 1 teaspoon olive oil each into 6 muffin cups.",
+            "Beat eggs, egg whites, and milk together in a glass bowl until smooth.",
+            "Heat egg mixture in microwave oven until warmed, about 1 minute.",
+            "Stir flour into the egg mixture until completely incorporated into a batter.",
+            "Heat muffin cups in preheated oven until the oil is smoking, 2 to 3 minutes.",
+            "Stir cold water into batter. Pour 1/4 cup batter into each muffin cup.",
+            "Bake in the preheated oven until risen and cooked in their centers, about 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "olive oil",
+            "eggs",
+            "egg whites",
+            "½ milk",
+            "all-purpose flour",
+            "cold water"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast",
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy and Delicious Crusty Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "I grew up with these buttery popovers served with homemade turkey noodle soup. Very easy to make and tasty. DO NOT open the oven until done!",
+        "ingredients": [
+            "4 eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "3 tablespoons butter, melted - divided"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Put 12-cup muffin tin in oven to preheat as well.",
+            "Beat eggs and milk together in a bowl with an electric hand mixer. Add flour and salt; continue beating into smooth batter.",
+            "Put about 3/4 teaspoon butter into each muffin tin and carefully spread butter up sides of each cup. Quickly divide batter among prepared cups.",
+            "Bake until popovers are risen well and browned, 30 to 35 minutes. Do not open the oven during baking."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 4,
+        "ingredient_text": "eggs milk all-purpose flour salt butter melted - divided",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). put 12-cup muffin tin in oven to preheat as well. beat eggs and milk together in a bowl with an electric hand mixer. add flour and salt; continue beating into smooth batter. put about 3/4 teaspoon butter into each muffin tin and carefully spread butter up sides of each cup. quickly divide batter among prepared cups. bake until popovers are risen well and browned, 30 to 35 minutes. do not open the oven during baking.",
+        "combined_text": "easy and delicious crusty popovers popovers and yorkshire puddings popovers and yorkshire puddings 4 eggs 1 cup milk 1 cup all-purpose flour 1 teaspoon salt 3 tablespoons butter, melted - divided preheat oven to 350 degrees f (175 degrees c). put 12-cup muffin tin in oven to preheat as well. beat eggs and milk together in a bowl with an electric hand mixer. add flour and salt; continue beating into smooth batter. put about 3/4 teaspoon butter into each muffin tin and carefully spread butter up sides of each cup. quickly divide batter among prepared cups. bake until popovers are risen well and browned, 30 to 35 minutes. do not open the oven during baking.",
+        "ingredients_raw": [
+            "4 eggs",
+            "1 cup milk",
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "3 tablespoons butter, melted - divided"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Put 12-cup muffin tin in oven to preheat as well.",
+            "Beat eggs and milk together in a bowl with an electric hand mixer. Add flour and salt; continue beating into smooth batter.",
+            "Put about 3/4 teaspoon butter into each muffin tin and carefully spread butter up sides of each cup. Quickly divide batter among prepared cups.",
+            "Bake until popovers are risen well and browned, 30 to 35 minutes. Do not open the oven during baking."
+        ],
+        "ingredients_canonical": [
+            "eggs",
+            "milk",
+            "all-purpose flour",
+            "salt",
+            "butter melted - divided"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Blue Cheese Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "I'm very excited to show you these blue cheese popovers. This is a new, and possibly slightly improved, popover recipe. While we may have tweaked the ingredient amounts a little bit, we are still going to be using our foolproof, cold-oven method for making these. The reason this technique is so fun to use is that it's literally the opposite of everything every popover expert says you should do.",
+        "ingredients": [
+            "5 large eggs, at room temperature",
+            "2 cups whole milk, at room temperature",
+            "2 cups all-purpose flour",
+            "¼ cup vegetable oil",
+            "1 teaspoon kosher salt",
+            "1 pinch cayenne pepper, or to taste",
+            "1 tablespoon unsalted butter, softened",
+            "nonstick vegetable oil cooking spray",
+            "½ cup crumbled blue cheese, or to taste"
+        ],
+        "directions": [
+            "Whisk eggs, milk, flour, oil, salt, and cayenne together in a large measuring cup or mixing bowl just until blended.",
+            "Cover the bowl with plastic wrap and allow to rest for 1 hour on the counter, or in the refrigerator for 2 to 3 hours, up to overnight.",
+            "Grease 14 nonstick muffin cups with butter, and then mist with cooking spray.",
+            "Whisk the batter for a few seconds and fill each prepared muffin cup 4/5 full. Sprinkle each evenly with blue cheese.",
+            "Place the muffin pans into a cold oven with a drip pan set underneath. Set the heat to 450 degrees F (230 degrees C). Bake in the oven until popovers are well browned and fully puffed, 30 to 35 minutes.",
+            "Poke each popover with a knife to allow steam to escape. Serve hot."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "large eggs at room temperature whole milk at room temperature all-purpose flour ¼ vegetable oil kosher salt pinch cayenne pepper taste unsalted butter softened nonstick vegetable oil cooking spray ½ crumbled blue cheese taste",
+        "directions_text": "whisk eggs, milk, flour, oil, salt, and cayenne together in a large measuring cup or mixing bowl just until blended. cover the bowl with plastic wrap and allow to rest for 1 hour on the counter, or in the refrigerator for 2 to 3 hours, up to overnight. grease 14 nonstick muffin cups with butter, and then mist with cooking spray. whisk the batter for a few seconds and fill each prepared muffin cup 4/5 full. sprinkle each evenly with blue cheese. place the muffin pans into a cold oven with a drip pan set underneath. set the heat to 450 degrees f (230 degrees c). bake in the oven until popovers are well browned and fully puffed, 30 to 35 minutes. poke each popover with a knife to allow steam to escape. serve hot.",
+        "combined_text": "blue cheese popovers popovers and yorkshire puddings popovers and yorkshire puddings 5 large eggs, at room temperature 2 cups whole milk, at room temperature 2 cups all-purpose flour ¼ cup vegetable oil 1 teaspoon kosher salt 1 pinch cayenne pepper, or to taste 1 tablespoon unsalted butter, softened nonstick vegetable oil cooking spray ½ cup crumbled blue cheese, or to taste whisk eggs, milk, flour, oil, salt, and cayenne together in a large measuring cup or mixing bowl just until blended. cover the bowl with plastic wrap and allow to rest for 1 hour on the counter, or in the refrigerator for 2 to 3 hours, up to overnight. grease 14 nonstick muffin cups with butter, and then mist with cooking spray. whisk the batter for a few seconds and fill each prepared muffin cup 4/5 full. sprinkle each evenly with blue cheese. place the muffin pans into a cold oven with a drip pan set underneath. set the heat to 450 degrees f (230 degrees c). bake in the oven until popovers are well browned and fully puffed, 30 to 35 minutes. poke each popover with a knife to allow steam to escape. serve hot.",
+        "ingredients_raw": [
+            "5 large eggs, at room temperature",
+            "2 cups whole milk, at room temperature",
+            "2 cups all-purpose flour",
+            "¼ cup vegetable oil",
+            "1 teaspoon kosher salt",
+            "1 pinch cayenne pepper, or to taste",
+            "1 tablespoon unsalted butter, softened",
+            "nonstick vegetable oil cooking spray",
+            "½ cup crumbled blue cheese, or to taste"
+        ],
+        "directions_raw": [
+            "Whisk eggs, milk, flour, oil, salt, and cayenne together in a large measuring cup or mixing bowl just until blended.",
+            "Cover the bowl with plastic wrap and allow to rest for 1 hour on the counter, or in the refrigerator for 2 to 3 hours, up to overnight.",
+            "Grease 14 nonstick muffin cups with butter, and then mist with cooking spray.",
+            "Whisk the batter for a few seconds and fill each prepared muffin cup 4/5 full. Sprinkle each evenly with blue cheese.",
+            "Place the muffin pans into a cold oven with a drip pan set underneath. Set the heat to 450 degrees F (230 degrees C). Bake in the oven until popovers are well browned and fully puffed, 30 to 35 minutes.",
+            "Poke each popover with a knife to allow steam to escape. Serve hot."
+        ],
+        "ingredients_canonical": [
+            "large eggs at room temperature",
+            "whole milk at room temperature",
+            "all-purpose flour",
+            "¼ vegetable oil",
+            "kosher salt",
+            "pinch cayenne pepper taste",
+            "unsalted butter softened",
+            "nonstick vegetable oil cooking spray",
+            "½ crumbled blue cheese taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "breakfast",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 64,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Laura's Famous Aebleskiver",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "Traditional Danish breakfast treat that's a cross between a pancake and a popover. Made using a special Aebleskiver pan. Often served during Christmastime. Serve with confectioners' sugar sprinkled over top. Maple syrup or jam is also delicious!",
+        "ingredients": [
+            "2 cups white flour",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "2 cups buttermilk",
+            "3 large eggs, separated"
+        ],
+        "directions": [
+            "Sift together flour, salt, and baking soda in a large bowl. Add buttermilk and egg yolks; stir until batter is smooth.",
+            "Whip egg whites in a separate large glass or metal mixing bowl until soft peaks form. Lift your beater or whisk straight up: egg whites will form soft mounds rather than a sharp peak. Fold whipped egg whites into batter until incorporated.",
+            "Place an Aebleskiver pan over medium heat; grease each cup with cooking spray. Pour batter into each prepared cup to about 2/3 full. Cook until golden brown on each side, using a toothpick to flip, 1 to 2 minutes per side."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "white flour salt baking soda buttermilk large eggs separated",
+        "directions_text": "sift together flour, salt, and baking soda in a large bowl. add buttermilk and egg yolks; stir until batter is smooth. whip egg whites in a separate large glass or metal mixing bowl until soft peaks form. lift your beater or whisk straight up: egg whites will form soft mounds rather than a sharp peak. fold whipped egg whites into batter until incorporated. place an aebleskiver pan over medium heat; grease each cup with cooking spray. pour batter into each prepared cup to about 2/3 full. cook until golden brown on each side, using a toothpick to flip, 1 to 2 minutes per side.",
+        "combined_text": "laura's famous aebleskiver popovers and yorkshire puddings popovers and yorkshire puddings 2 cups white flour 1 teaspoon salt 1 teaspoon baking soda 2 cups buttermilk 3 large eggs, separated sift together flour, salt, and baking soda in a large bowl. add buttermilk and egg yolks; stir until batter is smooth. whip egg whites in a separate large glass or metal mixing bowl until soft peaks form. lift your beater or whisk straight up: egg whites will form soft mounds rather than a sharp peak. fold whipped egg whites into batter until incorporated. place an aebleskiver pan over medium heat; grease each cup with cooking spray. pour batter into each prepared cup to about 2/3 full. cook until golden brown on each side, using a toothpick to flip, 1 to 2 minutes per side.",
+        "ingredients_raw": [
+            "2 cups white flour",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "2 cups buttermilk",
+            "3 large eggs, separated"
+        ],
+        "directions_raw": [
+            "Sift together flour, salt, and baking soda in a large bowl. Add buttermilk and egg yolks; stir until batter is smooth.",
+            "Whip egg whites in a separate large glass or metal mixing bowl until soft peaks form. Lift your beater or whisk straight up: egg whites will form soft mounds rather than a sharp peak. Fold whipped egg whites into batter until incorporated.",
+            "Place an Aebleskiver pan over medium heat; grease each cup with cooking spray. Pour batter into each prepared cup to about 2/3 full. Cook until golden brown on each side, using a toothpick to flip, 1 to 2 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "white flour",
+            "salt",
+            "baking soda",
+            "buttermilk",
+            "large eggs separated"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "Not the traditional Yorkshire pudding, but it sure is better! Its very important that the egg, milk, flour mixture be at room temperature.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup milk",
+            "2 eggs",
+            "1 tablespoon vegetable oil"
+        ],
+        "directions": [
+            "Mix flour, milk, and eggs together in a bowl; let sit for 2 hours.",
+            "Preheat oven to 400 degrees F (200 degrees C). Divide the vegetable oil among 6 large muffin cups and place in oven for 5 minutes.",
+            "Spoon flour mixture into the prepared muffin cups. Increase oven temperature to 425 degrees F (220 degrees C).",
+            "Bake in the preheated oven until browned, about 10 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 4,
+        "ingredient_text": "all-purpose flour milk eggs vegetable oil",
+        "directions_text": "mix flour, milk, and eggs together in a bowl; let sit for 2 hours. preheat oven to 400 degrees f (200 degrees c). divide the vegetable oil among 6 large muffin cups and place in oven for 5 minutes. spoon flour mixture into the prepared muffin cups. increase oven temperature to 425 degrees f (220 degrees c). bake in the preheated oven until browned, about 10 minutes.",
+        "combined_text": "easy yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 1 cup all-purpose flour 1 cup milk 2 eggs 1 tablespoon vegetable oil mix flour, milk, and eggs together in a bowl; let sit for 2 hours. preheat oven to 400 degrees f (200 degrees c). divide the vegetable oil among 6 large muffin cups and place in oven for 5 minutes. spoon flour mixture into the prepared muffin cups. increase oven temperature to 425 degrees f (220 degrees c). bake in the preheated oven until browned, about 10 minutes.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour",
+            "1 cup milk",
+            "2 eggs",
+            "1 tablespoon vegetable oil"
+        ],
+        "directions_raw": [
+            "Mix flour, milk, and eggs together in a bowl; let sit for 2 hours.",
+            "Preheat oven to 400 degrees F (200 degrees C). Divide the vegetable oil among 6 large muffin cups and place in oven for 5 minutes.",
+            "Spoon flour mixture into the prepared muffin cups. Increase oven temperature to 425 degrees F (220 degrees C).",
+            "Bake in the preheated oven until browned, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "milk",
+            "eggs",
+            "vegetable oil"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "side",
+            "dessert",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 41,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spring Herb Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "These crispy, warm spring herb popovers are made with fresh herbs. They will be a delicious addition to your next meal.",
+        "ingredients": [
+            "¼ cup Land O Lakes Butter with Olive Oil and Sea Salt, melted, divided",
+            "1 ½ cups all-purpose flour",
+            "1 ½ cups milk, at room temperature",
+            "4 Land O Lakes Eggs, at room temperature, lightly beaten",
+            "1 tablespoon chopped fresh chives",
+            "1 tablespoon finely chopped fresh dill weed",
+            "½ teaspoon salt",
+            "¼ tablespoon Land O Lakes Butter with Canola Oil (Optional)"
+        ],
+        "directions": [
+            "Heat the oven to 425 degrees F. Brush a 12-cup popover pan with 1 tablespoon melted olive oil butter. Heat pan in the oven, 5 minutes.",
+            "Meanwhile, combine remaining 3 tablespoons olive oil butter, flour, milk, eggs, chives, dill, and salt in a bowl; mix well. Pour batter into the preheated prepared popover cups, filling each about half full.",
+            "Bake in the preheated oven for 25 minutes. (Do not open the oven door during baking.)",
+            "Remove from the oven; poke top of each popover with a sharp knife to release steam. Serve warm with canola oil butter."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "¼ land o lakes butter with olive oil sea salt melted divided ½ all-purpose flour ½ milk at room temperature land o lakes eggs at room temperature lightly beaten chopped fresh chives finely chopped fresh dill weed ½ salt ¼ land o lakes butter with canola oil optional",
+        "directions_text": "heat the oven to 425 degrees f. brush a 12-cup popover pan with 1 tablespoon melted olive oil butter. heat pan in the oven, 5 minutes. meanwhile, combine remaining 3 tablespoons olive oil butter, flour, milk, eggs, chives, dill, and salt in a bowl; mix well. pour batter into the preheated prepared popover cups, filling each about half full. bake in the preheated oven for 25 minutes. (do not open the oven door during baking.) remove from the oven; poke top of each popover with a sharp knife to release steam. serve warm with canola oil butter.",
+        "combined_text": "spring herb popovers popovers and yorkshire puddings popovers and yorkshire puddings ¼ cup land o lakes butter with olive oil and sea salt, melted, divided 1 ½ cups all-purpose flour 1 ½ cups milk, at room temperature 4 land o lakes eggs, at room temperature, lightly beaten 1 tablespoon chopped fresh chives 1 tablespoon finely chopped fresh dill weed ½ teaspoon salt ¼ tablespoon land o lakes butter with canola oil (optional) heat the oven to 425 degrees f. brush a 12-cup popover pan with 1 tablespoon melted olive oil butter. heat pan in the oven, 5 minutes. meanwhile, combine remaining 3 tablespoons olive oil butter, flour, milk, eggs, chives, dill, and salt in a bowl; mix well. pour batter into the preheated prepared popover cups, filling each about half full. bake in the preheated oven for 25 minutes. (do not open the oven door during baking.) remove from the oven; poke top of each popover with a sharp knife to release steam. serve warm with canola oil butter.",
+        "ingredients_raw": [
+            "¼ cup Land O Lakes Butter with Olive Oil and Sea Salt, melted, divided",
+            "1 ½ cups all-purpose flour",
+            "1 ½ cups milk, at room temperature",
+            "4 Land O Lakes Eggs, at room temperature, lightly beaten",
+            "1 tablespoon chopped fresh chives",
+            "1 tablespoon finely chopped fresh dill weed",
+            "½ teaspoon salt",
+            "¼ tablespoon Land O Lakes Butter with Canola Oil (Optional)"
+        ],
+        "directions_raw": [
+            "Heat the oven to 425 degrees F. Brush a 12-cup popover pan with 1 tablespoon melted olive oil butter. Heat pan in the oven, 5 minutes.",
+            "Meanwhile, combine remaining 3 tablespoons olive oil butter, flour, milk, eggs, chives, dill, and salt in a bowl; mix well. Pour batter into the preheated prepared popover cups, filling each about half full.",
+            "Bake in the preheated oven for 25 minutes. (Do not open the oven door during baking.)",
+            "Remove from the oven; poke top of each popover with a sharp knife to release steam. Serve warm with canola oil butter."
+        ],
+        "ingredients_canonical": [
+            "¼ land o lakes butter with olive oil sea salt melted divided",
+            "½ all-purpose flour",
+            "½ milk at room temperature",
+            "land o lakes eggs at room temperature lightly beaten",
+            "chopped fresh chives",
+            "finely chopped fresh dill weed",
+            "½ salt",
+            "¼ land o lakes butter with canola oil optional"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Fancy Pear Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "A sweet and savory breakfast treat!",
+        "ingredients": [
+            "cooking spray",
+            "½ cup milk",
+            "½ cup all-purpose flour",
+            "2 eggs, lightly beaten",
+            "¼ teaspoon salt",
+            "2 tablespoons butter, cut into 6 pieces",
+            "½ cup grated sharp Cheddar cheese",
+            "¼ cup brown sugar",
+            "¼ teaspoon ground nutmeg",
+            "1 pear, thinly sliced"
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C). Spray 6 custard cups with cooking spray.",
+            "Pour milk, flour, eggs, and salt in a bowl. Mix until batter is fully combined.",
+            "Place a piece of butter in each prepared cup. Sprinkle each cup with Cheddar cheese, brown sugar, and nutmeg; line each evenly with pear slices. Pour batter evenly into the prepared cups.",
+            "Bake in the preheated oven until golden brown, 15 to 20 minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "cooking spray ½ milk ½ all-purpose flour eggs lightly beaten ¼ salt butter cut into pieces ½ grated sharp cheddar cheese ¼ brown sugar ¼ ground nutmeg pear thinly sliced",
+        "directions_text": "preheat oven to 400 degrees f (200 degrees c). spray 6 custard cups with cooking spray. pour milk, flour, eggs, and salt in a bowl. mix until batter is fully combined. place a piece of butter in each prepared cup. sprinkle each cup with cheddar cheese, brown sugar, and nutmeg; line each evenly with pear slices. pour batter evenly into the prepared cups. bake in the preheated oven until golden brown, 15 to 20 minutes.",
+        "combined_text": "fancy pear popovers popovers and yorkshire puddings popovers and yorkshire puddings cooking spray ½ cup milk ½ cup all-purpose flour 2 eggs, lightly beaten ¼ teaspoon salt 2 tablespoons butter, cut into 6 pieces ½ cup grated sharp cheddar cheese ¼ cup brown sugar ¼ teaspoon ground nutmeg 1 pear, thinly sliced preheat oven to 400 degrees f (200 degrees c). spray 6 custard cups with cooking spray. pour milk, flour, eggs, and salt in a bowl. mix until batter is fully combined. place a piece of butter in each prepared cup. sprinkle each cup with cheddar cheese, brown sugar, and nutmeg; line each evenly with pear slices. pour batter evenly into the prepared cups. bake in the preheated oven until golden brown, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "cooking spray",
+            "½ cup milk",
+            "½ cup all-purpose flour",
+            "2 eggs, lightly beaten",
+            "¼ teaspoon salt",
+            "2 tablespoons butter, cut into 6 pieces",
+            "½ cup grated sharp Cheddar cheese",
+            "¼ cup brown sugar",
+            "¼ teaspoon ground nutmeg",
+            "1 pear, thinly sliced"
+        ],
+        "directions_raw": [
+            "Preheat oven to 400 degrees F (200 degrees C). Spray 6 custard cups with cooking spray.",
+            "Pour milk, flour, eggs, and salt in a bowl. Mix until batter is fully combined.",
+            "Place a piece of butter in each prepared cup. Sprinkle each cup with Cheddar cheese, brown sugar, and nutmeg; line each evenly with pear slices. Pour batter evenly into the prepared cups.",
+            "Bake in the preheated oven until golden brown, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "½ milk",
+            "½ all-purpose flour",
+            "eggs lightly beaten",
+            "¼ salt",
+            "butter cut into pieces",
+            "½ grated sharp cheddar cheese",
+            "¼ brown sugar",
+            "¼ ground nutmeg",
+            "pear thinly sliced"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pumpkin Popovers",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "Enjoy these delicious, easy-to-make popovers with your festive holiday meals. Guests are sure to be impressed and begging for more! Serve hot popovers in a bread basket with whipped cream on the side!",
+        "ingredients": [
+            "1 cup milk",
+            "2 eggs",
+            "¼ cup pumpkin puree",
+            "1 tablespoon vegetable oil",
+            "1 cup all-purpose flour",
+            "1 tablespoon brown sugar",
+            "½ teaspoon pumpkin pie spice",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Butter 4 custard dishes or muffin cups.",
+            "Beat milk and eggs together in a bowl using an electric mixer until smooth; mix in pumpkin and oil. Beat flour, brown sugar, pumpkin pie spice, and salt into pumpkin mixture until batter is smooth. Pour batter into the prepared custard cups, filling each halfway.",
+            "Bake in the preheated oven until tops are lightly browned, 20 to 25 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "milk eggs ¼ pumpkin puree vegetable oil all-purpose flour brown sugar ½ pumpkin pie spice ½ salt",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). butter 4 custard dishes or muffin cups. beat milk and eggs together in a bowl using an electric mixer until smooth; mix in pumpkin and oil. beat flour, brown sugar, pumpkin pie spice, and salt into pumpkin mixture until batter is smooth. pour batter into the prepared custard cups, filling each halfway. bake in the preheated oven until tops are lightly browned, 20 to 25 minutes.",
+        "combined_text": "pumpkin popovers popovers and yorkshire puddings popovers and yorkshire puddings 1 cup milk 2 eggs ¼ cup pumpkin puree 1 tablespoon vegetable oil 1 cup all-purpose flour 1 tablespoon brown sugar ½ teaspoon pumpkin pie spice ½ teaspoon salt preheat oven to 350 degrees f (175 degrees c). butter 4 custard dishes or muffin cups. beat milk and eggs together in a bowl using an electric mixer until smooth; mix in pumpkin and oil. beat flour, brown sugar, pumpkin pie spice, and salt into pumpkin mixture until batter is smooth. pour batter into the prepared custard cups, filling each halfway. bake in the preheated oven until tops are lightly browned, 20 to 25 minutes.",
+        "ingredients_raw": [
+            "1 cup milk",
+            "2 eggs",
+            "¼ cup pumpkin puree",
+            "1 tablespoon vegetable oil",
+            "1 cup all-purpose flour",
+            "1 tablespoon brown sugar",
+            "½ teaspoon pumpkin pie spice",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Butter 4 custard dishes or muffin cups.",
+            "Beat milk and eggs together in a bowl using an electric mixer until smooth; mix in pumpkin and oil. Beat flour, brown sugar, pumpkin pie spice, and salt into pumpkin mixture until batter is smooth. Pour batter into the prepared custard cups, filling each halfway.",
+            "Bake in the preheated oven until tops are lightly browned, 20 to 25 minutes."
+        ],
+        "ingredients_canonical": [
+            "milk",
+            "eggs",
+            "¼ pumpkin puree",
+            "vegetable oil",
+            "all-purpose flour",
+            "brown sugar",
+            "½ pumpkin pie spice",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Yorkshire Pudding",
+        "category": "Popovers And Yorkshire Puddings",
+        "subcategory": "Popovers And Yorkshire Puddings",
+        "description": "This Yorkshire pudding recipe is a yummy and traditional addition to the holiday feast. If you intend to make this, the timing has to be just right. I suggest preparing the mixture the evening before and having it ready while the roast beef is cooking.",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "¾ teaspoon salt",
+            "¾ cup milk, room temperature",
+            "3 large eggs, room temperature",
+            "¾ cup water",
+            "½ cup beef drippings"
+        ],
+        "directions": [
+            "Mix together flour and salt in a large bowl; form a well in the center. Add milk and whisk until combined. Beat in eggs until incorporated. Add water; beat until mixture is light and frothy. Cover and set aside at room temperature for 1 hour (or, if it's the day before, store covered in the refrigerator for 8 hours to overnight).",
+            "Preheat the oven to 400 degrees F (205 degrees C).",
+            "Pour beef drippings into a 9x12-inch baking dish and place in the preheated oven until drippings sizzle. Pour batter over drippings and bake until the sides have risen and turned golden brown, about 30 minutes. Cut into 8 portions and serve immediately."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "½ all-purpose flour ¾ salt ¾ milk room temperature large eggs room temperature ¾ water ½ beef drippings",
+        "directions_text": "mix together flour and salt in a large bowl; form a well in the center. add milk and whisk until combined. beat in eggs until incorporated. add water; beat until mixture is light and frothy. cover and set aside at room temperature for 1 hour (or, if it's the day before, store covered in the refrigerator for 8 hours to overnight). preheat the oven to 400 degrees f (205 degrees c). pour beef drippings into a 9x12-inch baking dish and place in the preheated oven until drippings sizzle. pour batter over drippings and bake until the sides have risen and turned golden brown, about 30 minutes. cut into 8 portions and serve immediately.",
+        "combined_text": "yorkshire pudding popovers and yorkshire puddings popovers and yorkshire puddings 1 ½ cups all-purpose flour ¾ teaspoon salt ¾ cup milk, room temperature 3 large eggs, room temperature ¾ cup water ½ cup beef drippings mix together flour and salt in a large bowl; form a well in the center. add milk and whisk until combined. beat in eggs until incorporated. add water; beat until mixture is light and frothy. cover and set aside at room temperature for 1 hour (or, if it's the day before, store covered in the refrigerator for 8 hours to overnight). preheat the oven to 400 degrees f (205 degrees c). pour beef drippings into a 9x12-inch baking dish and place in the preheated oven until drippings sizzle. pour batter over drippings and bake until the sides have risen and turned golden brown, about 30 minutes. cut into 8 portions and serve immediately.",
+        "ingredients_raw": [
+            "1 ½ cups all-purpose flour",
+            "¾ teaspoon salt",
+            "¾ cup milk, room temperature",
+            "3 large eggs, room temperature",
+            "¾ cup water",
+            "½ cup beef drippings"
+        ],
+        "directions_raw": [
+            "Mix together flour and salt in a large bowl; form a well in the center. Add milk and whisk until combined. Beat in eggs until incorporated. Add water; beat until mixture is light and frothy. Cover and set aside at room temperature for 1 hour (or, if it's the day before, store covered in the refrigerator for 8 hours to overnight).",
+            "Preheat the oven to 400 degrees F (205 degrees C).",
+            "Pour beef drippings into a 9x12-inch baking dish and place in the preheated oven until drippings sizzle. Pour batter over drippings and bake until the sides have risen and turned golden brown, about 30 minutes. Cut into 8 portions and serve immediately."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "¾ salt",
+            "¾ milk room temperature",
+            "large eggs room temperature",
+            "¾ water",
+            "½ beef drippings"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 43,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    }
+]
