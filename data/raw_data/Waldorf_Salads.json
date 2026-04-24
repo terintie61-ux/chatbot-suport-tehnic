@@ -1,0 +1,192 @@
+[
+    {
+        "recipe_title": "Simple Waldorf Salad",
+        "category": "Waldorf Salads",
+        "subcategory": "Waldorf Salads",
+        "description": "This is my version of Waldorf salad. It's a very fast and easy recipe.",
+        "ingredients": [
+            "½ cup mayonnaise",
+            "1 ½ tablespoons distilled white vinegar or to taste",
+            "1 apple - peeled, cored, and chopped",
+            "1 large stalk celery, diced",
+            "½ cup raisins",
+            "½ cup chopped walnuts",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Whisk mayonnaise and vinegar together in a mixing bowl.",
+            "Add apples, celery, raisins, and walnuts. Season with salt and pepper; mix well.",
+            "Chill salad before serving, at least 30 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "½ mayonnaise ½ distilled white vinegar taste apple - peeled cored chopped large stalk celery diced ½ raisins ½ chopped walnuts salt pepper taste",
+        "directions_text": "whisk mayonnaise and vinegar together in a mixing bowl. add apples, celery, raisins, and walnuts. season with salt and pepper; mix well. chill salad before serving, at least 30 minutes.",
+        "combined_text": "simple waldorf salad waldorf salads waldorf salads ½ cup mayonnaise 1 ½ tablespoons distilled white vinegar or to taste 1 apple - peeled, cored, and chopped 1 large stalk celery, diced ½ cup raisins ½ cup chopped walnuts salt and pepper to taste whisk mayonnaise and vinegar together in a mixing bowl. add apples, celery, raisins, and walnuts. season with salt and pepper; mix well. chill salad before serving, at least 30 minutes.",
+        "ingredients_raw": [
+            "½ cup mayonnaise",
+            "1 ½ tablespoons distilled white vinegar or to taste",
+            "1 apple - peeled, cored, and chopped",
+            "1 large stalk celery, diced",
+            "½ cup raisins",
+            "½ cup chopped walnuts",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Whisk mayonnaise and vinegar together in a mixing bowl.",
+            "Add apples, celery, raisins, and walnuts. Season with salt and pepper; mix well.",
+            "Chill salad before serving, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ mayonnaise",
+            "½ distilled white vinegar taste",
+            "apple - peeled cored chopped",
+            "large stalk celery diced",
+            "½ raisins",
+            "½ chopped walnuts",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 9,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Waldorf Salad",
+        "category": "Waldorf Salads",
+        "subcategory": "Waldorf Salads",
+        "description": "This Waldorf salad with crisp chunks of apple, celery, and nuts is crunchy, sweet, and delicious. Sweet crisp apples, such as Granny Smith or Pink Lady work best. It's the perfect salad recipe for any time of the year and easy to vary the ingredients to suit your taste.",
+        "ingredients": [
+            "½ cup mayonnaise",
+            "1 tablespoon white sugar or to taste",
+            "1 teaspoon lemon juice",
+            "⅛ teaspoon salt",
+            "3 apples — peeled, cored, and chopped",
+            "1 cup thinly sliced celery",
+            "½ cup chopped walnuts",
+            "½ cup raisins (Optional)"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk mayonnaise, sugar, lemon juice, and salt together in a serving bowl.",
+            "Stir in apples, celery, walnuts, and raisins. Cover and chill in the refrigerator until ready to serve.",
+            "Serve and enjoy!"
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "½ mayonnaise white sugar taste lemon juice ⅛ salt apples peeled cored chopped thinly sliced celery ½ chopped walnuts ½ raisins optional",
+        "directions_text": "gather all ingredients. whisk mayonnaise, sugar, lemon juice, and salt together in a serving bowl. stir in apples, celery, walnuts, and raisins. cover and chill in the refrigerator until ready to serve. serve and enjoy!",
+        "combined_text": "waldorf salad waldorf salads waldorf salads ½ cup mayonnaise 1 tablespoon white sugar or to taste 1 teaspoon lemon juice ⅛ teaspoon salt 3 apples — peeled, cored, and chopped 1 cup thinly sliced celery ½ cup chopped walnuts ½ cup raisins (optional) gather all ingredients. whisk mayonnaise, sugar, lemon juice, and salt together in a serving bowl. stir in apples, celery, walnuts, and raisins. cover and chill in the refrigerator until ready to serve. serve and enjoy!",
+        "ingredients_raw": [
+            "½ cup mayonnaise",
+            "1 tablespoon white sugar or to taste",
+            "1 teaspoon lemon juice",
+            "⅛ teaspoon salt",
+            "3 apples — peeled, cored, and chopped",
+            "1 cup thinly sliced celery",
+            "½ cup chopped walnuts",
+            "½ cup raisins (Optional)"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Whisk mayonnaise, sugar, lemon juice, and salt together in a serving bowl.",
+            "Stir in apples, celery, walnuts, and raisins. Cover and chill in the refrigerator until ready to serve.",
+            "Serve and enjoy!"
+        ],
+        "ingredients_canonical": [
+            "½ mayonnaise",
+            "white sugar taste",
+            "lemon juice",
+            "⅛ salt",
+            "apples peeled cored chopped",
+            "thinly sliced celery",
+            "½ chopped walnuts",
+            "½ raisins optional"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 17,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    }
+]
