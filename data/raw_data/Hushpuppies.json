@@ -1,0 +1,522 @@
+[
+    {
+        "recipe_title": "Hush Puppies",
+        "category": "Hushpuppies",
+        "subcategory": "Hushpuppies",
+        "description": "Simple yet good.",
+        "ingredients": [
+            "1 quart vegetable oil for frying, or as needed",
+            "½ cup all-purpose flour",
+            "½ cup self-rising cornmeal",
+            "½ onion, minced",
+            "½ cup milk",
+            "1 egg, beaten",
+            "1 stalk celery, minced",
+            "2 cloves garlic, minced",
+            "1 pinch Cajun seasoning, or to taste"
+        ],
+        "directions": [
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Mix flour, cornmeal, onion, milk, egg, celery, garlic, and Cajun seasoning in a bowl.",
+            "Drop ping pong ball-sized balls of batter, about 5 at a time, into the hot oil. Fry until golden brown, about 5 minutes. Remove hush puppies with a slotted spoon and drain on a paper towel-lined plate. Repeat with remaining batter."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "quart vegetable oil for frying as needed ½ all-purpose flour ½ self-rising cornmeal ½ onion minced ½ milk egg beaten stalk celery minced cloves garlic minced pinch cajun seasoning taste",
+        "directions_text": "heat oil in a deep-fryer or large saucepan to 375 degrees f (190 degrees c). mix flour, cornmeal, onion, milk, egg, celery, garlic, and cajun seasoning in a bowl. drop ping pong ball-sized balls of batter, about 5 at a time, into the hot oil. fry until golden brown, about 5 minutes. remove hush puppies with a slotted spoon and drain on a paper towel-lined plate. repeat with remaining batter.",
+        "combined_text": "hush puppies hushpuppies hushpuppies 1 quart vegetable oil for frying, or as needed ½ cup all-purpose flour ½ cup self-rising cornmeal ½ onion, minced ½ cup milk 1 egg, beaten 1 stalk celery, minced 2 cloves garlic, minced 1 pinch cajun seasoning, or to taste heat oil in a deep-fryer or large saucepan to 375 degrees f (190 degrees c). mix flour, cornmeal, onion, milk, egg, celery, garlic, and cajun seasoning in a bowl. drop ping pong ball-sized balls of batter, about 5 at a time, into the hot oil. fry until golden brown, about 5 minutes. remove hush puppies with a slotted spoon and drain on a paper towel-lined plate. repeat with remaining batter.",
+        "ingredients_raw": [
+            "1 quart vegetable oil for frying, or as needed",
+            "½ cup all-purpose flour",
+            "½ cup self-rising cornmeal",
+            "½ onion, minced",
+            "½ cup milk",
+            "1 egg, beaten",
+            "1 stalk celery, minced",
+            "2 cloves garlic, minced",
+            "1 pinch Cajun seasoning, or to taste"
+        ],
+        "directions_raw": [
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Mix flour, cornmeal, onion, milk, egg, celery, garlic, and Cajun seasoning in a bowl.",
+            "Drop ping pong ball-sized balls of batter, about 5 at a time, into the hot oil. Fry until golden brown, about 5 minutes. Remove hush puppies with a slotted spoon and drain on a paper towel-lined plate. Repeat with remaining batter."
+        ],
+        "ingredients_canonical": [
+            "quart vegetable oil for frying as needed",
+            "½ all-purpose flour",
+            "½ self-rising cornmeal",
+            "½ onion minced",
+            "½ milk",
+            "egg beaten",
+            "stalk celery minced",
+            "cloves garlic minced",
+            "pinch cajun seasoning taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buttermilk Hush Puppies",
+        "category": "Hushpuppies",
+        "subcategory": "Hushpuppies",
+        "description": "Hush puppies are a great Southern tradition along with buttermilk coleslaw and Southern-fried catfish. Why not use buttermilk in all your recipes? Try them all!",
+        "ingredients": [
+            "1 quart vegetable oil for frying, or as needed",
+            "1 cup buttermilk",
+            "2 eggs, room temperature",
+            "¼ cup vegetable oil",
+            "1 cup cornmeal",
+            "1 cup all-purpose flour",
+            "¼ cup white sugar (Optional)",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "4 green onions, minced",
+            "½ cup minced onion"
+        ],
+        "directions": [
+            "Heat 1 quart vegetable oil in a deep fryer or large saucepan to 365 degrees F (185 degrees C).",
+            "Preheat the oven to 200 degrees F (95 degrees C).",
+            "Whisk buttermilk, eggs, and 1/4 cup vegetable oil together in a bowl.",
+            "Whisk cornmeal, flour, sugar, baking soda, and salt together in a separate bowl; fold in buttermilk mixture, green onions, and minced onion until just combined.",
+            "Carefully drop batter by tablespoon-sized balls into the hot oil in batches of 6 to 8 balls. Fry until golden brown, flipping to cook evenly, 6 to 10 minutes. Transfer hush puppies with a slotted spoon onto brown paper bags to drain. Repeat with any remaining batter.",
+            "Transfer hush puppies to a baking sheet; keep warm in the preheated oven until ready to serve."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 6,
+        "ingredient_text": "quart vegetable oil for frying as needed buttermilk eggs room temperature ¼ vegetable oil cornmeal all-purpose flour ¼ white sugar optional ½ baking soda ½ salt green onions minced ½ minced onion",
+        "directions_text": "heat 1 quart vegetable oil in a deep fryer or large saucepan to 365 degrees f (185 degrees c). preheat the oven to 200 degrees f (95 degrees c). whisk buttermilk, eggs, and 1/4 cup vegetable oil together in a bowl. whisk cornmeal, flour, sugar, baking soda, and salt together in a separate bowl; fold in buttermilk mixture, green onions, and minced onion until just combined. carefully drop batter by tablespoon-sized balls into the hot oil in batches of 6 to 8 balls. fry until golden brown, flipping to cook evenly, 6 to 10 minutes. transfer hush puppies with a slotted spoon onto brown paper bags to drain. repeat with any remaining batter. transfer hush puppies to a baking sheet; keep warm in the preheated oven until ready to serve.",
+        "combined_text": "buttermilk hush puppies hushpuppies hushpuppies 1 quart vegetable oil for frying, or as needed 1 cup buttermilk 2 eggs, room temperature ¼ cup vegetable oil 1 cup cornmeal 1 cup all-purpose flour ¼ cup white sugar (optional) ½ teaspoon baking soda ½ teaspoon salt 4 green onions, minced ½ cup minced onion heat 1 quart vegetable oil in a deep fryer or large saucepan to 365 degrees f (185 degrees c). preheat the oven to 200 degrees f (95 degrees c). whisk buttermilk, eggs, and 1/4 cup vegetable oil together in a bowl. whisk cornmeal, flour, sugar, baking soda, and salt together in a separate bowl; fold in buttermilk mixture, green onions, and minced onion until just combined. carefully drop batter by tablespoon-sized balls into the hot oil in batches of 6 to 8 balls. fry until golden brown, flipping to cook evenly, 6 to 10 minutes. transfer hush puppies with a slotted spoon onto brown paper bags to drain. repeat with any remaining batter. transfer hush puppies to a baking sheet; keep warm in the preheated oven until ready to serve.",
+        "ingredients_raw": [
+            "1 quart vegetable oil for frying, or as needed",
+            "1 cup buttermilk",
+            "2 eggs, room temperature",
+            "¼ cup vegetable oil",
+            "1 cup cornmeal",
+            "1 cup all-purpose flour",
+            "¼ cup white sugar (Optional)",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "4 green onions, minced",
+            "½ cup minced onion"
+        ],
+        "directions_raw": [
+            "Heat 1 quart vegetable oil in a deep fryer or large saucepan to 365 degrees F (185 degrees C).",
+            "Preheat the oven to 200 degrees F (95 degrees C).",
+            "Whisk buttermilk, eggs, and 1/4 cup vegetable oil together in a bowl.",
+            "Whisk cornmeal, flour, sugar, baking soda, and salt together in a separate bowl; fold in buttermilk mixture, green onions, and minced onion until just combined.",
+            "Carefully drop batter by tablespoon-sized balls into the hot oil in batches of 6 to 8 balls. Fry until golden brown, flipping to cook evenly, 6 to 10 minutes. Transfer hush puppies with a slotted spoon onto brown paper bags to drain. Repeat with any remaining batter.",
+            "Transfer hush puppies to a baking sheet; keep warm in the preheated oven until ready to serve."
+        ],
+        "ingredients_canonical": [
+            "quart vegetable oil for frying as needed",
+            "buttermilk",
+            "eggs room temperature",
+            "¼ vegetable oil",
+            "cornmeal",
+            "all-purpose flour",
+            "¼ white sugar optional",
+            "½ baking soda",
+            "½ salt",
+            "green onions minced",
+            "½ minced onion"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Quick and Easy Hush Puppies",
+        "category": "Hushpuppies",
+        "subcategory": "Hushpuppies",
+        "description": "I don't normally like hush puppies. They are generally too dry, too dense, and too bland for my taste. After tasting some in a restaurant that I actually liked, I decided to come up with a recipe of my own. This one deliberately uses stuff right out of the pantry so that it can be whipped up quickly and served fast.",
+        "ingredients": [
+            "2 (8.5 ounce) packages dry corn muffin mix (such as Jiffy®)",
+            "1 teaspoon salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon cayenne pepper",
+            "3 eggs",
+            "1 (5 ounce) can evaporated milk",
+            "1 (14.75 ounce) can cream-style corn",
+            "1 quart vegetable oil for frying, or as needed",
+            "1 pinch salt to taste"
+        ],
+        "directions": [
+            "Mix corn muffin mix, salt, garlic powder, onion powder, black pepper, and cayenne pepper in a bowl until blended.",
+            "Stir eggs and evaporated milk into dry ingredients until moistened.",
+            "Stir cream-style corn into mixture to make a moist batter. Let batter stand while oil heats.",
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Gently drop a teaspoon of batter at a time into the hot oil, staying as close to the oil as possible to avoid splattering. Fry hush puppies until golden brown, about 3 minutes per batch.",
+            "Remove hush puppies with a slotted spoon and place on a paper towel-lined plate to drain. Sprinkle with salt if desired."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 6,
+        "ingredient_text": "ounce packages dry corn muffin mix such as jiffy salt garlic powder onion powder ½ ground black pepper ½ cayenne pepper eggs ounce can evaporated milk ounce can cream-style corn quart vegetable oil for frying as needed pinch salt taste",
+        "directions_text": "mix corn muffin mix, salt, garlic powder, onion powder, black pepper, and cayenne pepper in a bowl until blended. stir eggs and evaporated milk into dry ingredients until moistened. stir cream-style corn into mixture to make a moist batter. let batter stand while oil heats. heat oil in a deep-fryer or large saucepan to 375 degrees f (190 degrees c). gently drop a teaspoon of batter at a time into the hot oil, staying as close to the oil as possible to avoid splattering. fry hush puppies until golden brown, about 3 minutes per batch. remove hush puppies with a slotted spoon and place on a paper towel-lined plate to drain. sprinkle with salt if desired.",
+        "combined_text": "quick and easy hush puppies hushpuppies hushpuppies 2 (8.5 ounce) packages dry corn muffin mix (such as jiffy®) 1 teaspoon salt 1 teaspoon garlic powder 1 teaspoon onion powder ½ teaspoon ground black pepper ½ teaspoon cayenne pepper 3 eggs 1 (5 ounce) can evaporated milk 1 (14.75 ounce) can cream-style corn 1 quart vegetable oil for frying, or as needed 1 pinch salt to taste mix corn muffin mix, salt, garlic powder, onion powder, black pepper, and cayenne pepper in a bowl until blended. stir eggs and evaporated milk into dry ingredients until moistened. stir cream-style corn into mixture to make a moist batter. let batter stand while oil heats. heat oil in a deep-fryer or large saucepan to 375 degrees f (190 degrees c). gently drop a teaspoon of batter at a time into the hot oil, staying as close to the oil as possible to avoid splattering. fry hush puppies until golden brown, about 3 minutes per batch. remove hush puppies with a slotted spoon and place on a paper towel-lined plate to drain. sprinkle with salt if desired.",
+        "ingredients_raw": [
+            "2 (8.5 ounce) packages dry corn muffin mix (such as Jiffy®)",
+            "1 teaspoon salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon cayenne pepper",
+            "3 eggs",
+            "1 (5 ounce) can evaporated milk",
+            "1 (14.75 ounce) can cream-style corn",
+            "1 quart vegetable oil for frying, or as needed",
+            "1 pinch salt to taste"
+        ],
+        "directions_raw": [
+            "Mix corn muffin mix, salt, garlic powder, onion powder, black pepper, and cayenne pepper in a bowl until blended.",
+            "Stir eggs and evaporated milk into dry ingredients until moistened.",
+            "Stir cream-style corn into mixture to make a moist batter. Let batter stand while oil heats.",
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Gently drop a teaspoon of batter at a time into the hot oil, staying as close to the oil as possible to avoid splattering. Fry hush puppies until golden brown, about 3 minutes per batch.",
+            "Remove hush puppies with a slotted spoon and place on a paper towel-lined plate to drain. Sprinkle with salt if desired."
+        ],
+        "ingredients_canonical": [
+            "ounce packages dry corn muffin mix such as jiffy",
+            "salt",
+            "garlic powder",
+            "onion powder",
+            "½ ground black pepper",
+            "½ cayenne pepper",
+            "eggs",
+            "ounce can evaporated milk",
+            "ounce can cream-style corn",
+            "quart vegetable oil for frying as needed",
+            "pinch salt taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "breakfast",
+            "side"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mom's Cajun Hush Puppies",
+        "category": "Hushpuppies",
+        "subcategory": "Hushpuppies",
+        "description": "With their crispy golden crusts and tender, fluffy interiors, Mom's recipe for Cajun hush puppies are tasty little delights and perfect appetizers. Serve them warm with tartar sauce for a zesty, satisfying bite.",
+        "ingredients": [
+            "6 cups all-purpose flour",
+            "3 cups cornmeal",
+            "1 cup white sugar",
+            "1 cup grated Parmesan cheese",
+            "¼ cup baking powder",
+            "salt and ground black pepper to taste",
+            "3 onions, minced",
+            "3 bell peppers, minced",
+            "1 (14 ounce) can cream-style corn",
+            "1 (14 ounce) can whole kernel corn",
+            "5 large eggs",
+            "1 cup chopped pimento peppers",
+            "2 quarts vegetable oil for frying"
+        ],
+        "directions": [
+            "Whisk flour, cornmeal, sugar, Parmesan cheese, baking powder, salt, and black pepper together in a large bowl; stir in onions, bell peppers, cream-style corn, whole kernel corn, eggs, and pimentos until combined.",
+            "Meanwhile, heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Carefully drop tablespoon-sized balls of batter into the hot oil in batches of 6 to 8. Fry until hush puppies are golden brown, about 5 minutes. Transfer hush puppies to a paper towel-lined plate with a slotted spoon to drain. Repeat with remaining batter."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour cornmeal white sugar grated parmesan cheese ¼ baking powder salt ground black pepper taste onions minced bell peppers minced ounce can cream-style corn ounce can whole kernel corn large eggs chopped pimento peppers quarts vegetable oil for frying",
+        "directions_text": "whisk flour, cornmeal, sugar, parmesan cheese, baking powder, salt, and black pepper together in a large bowl; stir in onions, bell peppers, cream-style corn, whole kernel corn, eggs, and pimentos until combined. meanwhile, heat oil in a deep fryer or large saucepan to 375 degrees f (190 degrees c). carefully drop tablespoon-sized balls of batter into the hot oil in batches of 6 to 8. fry until hush puppies are golden brown, about 5 minutes. transfer hush puppies to a paper towel-lined plate with a slotted spoon to drain. repeat with remaining batter.",
+        "combined_text": "mom's cajun hush puppies hushpuppies hushpuppies 6 cups all-purpose flour 3 cups cornmeal 1 cup white sugar 1 cup grated parmesan cheese ¼ cup baking powder salt and ground black pepper to taste 3 onions, minced 3 bell peppers, minced 1 (14 ounce) can cream-style corn 1 (14 ounce) can whole kernel corn 5 large eggs 1 cup chopped pimento peppers 2 quarts vegetable oil for frying whisk flour, cornmeal, sugar, parmesan cheese, baking powder, salt, and black pepper together in a large bowl; stir in onions, bell peppers, cream-style corn, whole kernel corn, eggs, and pimentos until combined. meanwhile, heat oil in a deep fryer or large saucepan to 375 degrees f (190 degrees c). carefully drop tablespoon-sized balls of batter into the hot oil in batches of 6 to 8. fry until hush puppies are golden brown, about 5 minutes. transfer hush puppies to a paper towel-lined plate with a slotted spoon to drain. repeat with remaining batter.",
+        "ingredients_raw": [
+            "6 cups all-purpose flour",
+            "3 cups cornmeal",
+            "1 cup white sugar",
+            "1 cup grated Parmesan cheese",
+            "¼ cup baking powder",
+            "salt and ground black pepper to taste",
+            "3 onions, minced",
+            "3 bell peppers, minced",
+            "1 (14 ounce) can cream-style corn",
+            "1 (14 ounce) can whole kernel corn",
+            "5 large eggs",
+            "1 cup chopped pimento peppers",
+            "2 quarts vegetable oil for frying"
+        ],
+        "directions_raw": [
+            "Whisk flour, cornmeal, sugar, Parmesan cheese, baking powder, salt, and black pepper together in a large bowl; stir in onions, bell peppers, cream-style corn, whole kernel corn, eggs, and pimentos until combined.",
+            "Meanwhile, heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Carefully drop tablespoon-sized balls of batter into the hot oil in batches of 6 to 8. Fry until hush puppies are golden brown, about 5 minutes. Transfer hush puppies to a paper towel-lined plate with a slotted spoon to drain. Repeat with remaining batter."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "cornmeal",
+            "white sugar",
+            "grated parmesan cheese",
+            "¼ baking powder",
+            "salt ground black pepper taste",
+            "onions minced",
+            "bell peppers minced",
+            "ounce can cream-style corn",
+            "ounce can whole kernel corn",
+            "large eggs",
+            "chopped pimento peppers",
+            "quarts vegetable oil for frying"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Hawaiian Hush Puppies",
+        "category": "Hushpuppies",
+        "subcategory": "Hushpuppies",
+        "description": "This was given to me by a friend years ago. I have since tweaked it to my liking and think you will like it also. I have eaten it many times with fried tilapia. I call them Hawaiian hush puppies because that's what they remind me of with the pineapples and slight sweetness.",
+        "ingredients": [
+            "oil for deep frying",
+            "1 (15 ounce) can cream-style corn, drained",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "2 cups cornmeal",
+            "1 cup self-rising flour",
+            "1 cup shredded Cheddar cheese",
+            "½ cup minced onion",
+            "½ cup white sugar",
+            "2 eggs, beaten",
+            "1 pinch salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Heat oil in a deep fryer or large saucepan to 365 degrees F (185 degrees C).",
+            "Mix canned corn, pineapple, cornmeal, flour, Cheddar cheese, onion, sugar, eggs, salt, and pepper together in a large bowl.",
+            "Drop as many teaspoonfuls of batter into the hot oil that the pan will allow; cook until golden brown or until they float to the top, about 5 minutes. Drain on a paper towel-lined plate. Repeat with any remaining batter."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "oil for deep frying ounce can cream-style corn drained ounce can crushed pineapple drained cornmeal self-rising flour shredded cheddar cheese ½ minced onion ½ white sugar eggs beaten pinch salt ground black pepper taste",
+        "directions_text": "heat oil in a deep fryer or large saucepan to 365 degrees f (185 degrees c). mix canned corn, pineapple, cornmeal, flour, cheddar cheese, onion, sugar, eggs, salt, and pepper together in a large bowl. drop as many teaspoonfuls of batter into the hot oil that the pan will allow; cook until golden brown or until they float to the top, about 5 minutes. drain on a paper towel-lined plate. repeat with any remaining batter.",
+        "combined_text": "hawaiian hush puppies hushpuppies hushpuppies oil for deep frying 1 (15 ounce) can cream-style corn, drained 1 (15 ounce) can crushed pineapple, drained 2 cups cornmeal 1 cup self-rising flour 1 cup shredded cheddar cheese ½ cup minced onion ½ cup white sugar 2 eggs, beaten 1 pinch salt and ground black pepper to taste heat oil in a deep fryer or large saucepan to 365 degrees f (185 degrees c). mix canned corn, pineapple, cornmeal, flour, cheddar cheese, onion, sugar, eggs, salt, and pepper together in a large bowl. drop as many teaspoonfuls of batter into the hot oil that the pan will allow; cook until golden brown or until they float to the top, about 5 minutes. drain on a paper towel-lined plate. repeat with any remaining batter.",
+        "ingredients_raw": [
+            "oil for deep frying",
+            "1 (15 ounce) can cream-style corn, drained",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "2 cups cornmeal",
+            "1 cup self-rising flour",
+            "1 cup shredded Cheddar cheese",
+            "½ cup minced onion",
+            "½ cup white sugar",
+            "2 eggs, beaten",
+            "1 pinch salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Heat oil in a deep fryer or large saucepan to 365 degrees F (185 degrees C).",
+            "Mix canned corn, pineapple, cornmeal, flour, Cheddar cheese, onion, sugar, eggs, salt, and pepper together in a large bowl.",
+            "Drop as many teaspoonfuls of batter into the hot oil that the pan will allow; cook until golden brown or until they float to the top, about 5 minutes. Drain on a paper towel-lined plate. Repeat with any remaining batter."
+        ],
+        "ingredients_canonical": [
+            "oil for deep frying",
+            "ounce can cream-style corn drained",
+            "ounce can crushed pineapple drained",
+            "cornmeal",
+            "self-rising flour",
+            "shredded cheddar cheese",
+            "½ minced onion",
+            "½ white sugar",
+            "eggs beaten",
+            "pinch salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

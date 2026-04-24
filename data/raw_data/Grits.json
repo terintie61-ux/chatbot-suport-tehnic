@@ -1,0 +1,2407 @@
+[
+    {
+        "recipe_title": "Chef John's Shrimp and Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "Shrimp and grits are very simple to make for breakfast, lunch, or dinner, and this recipe is a snap. You can make the grits a bit ahead since they stay hot for a long time. Have everything ready before you start cooking the shrimp as they only take a few minutes to sauté.",
+        "ingredients": [
+            "4 strips bacon, cut into 1/4-inch pieces",
+            "¼ cup water",
+            "2 tablespoons heavy whipping cream",
+            "2 teaspoons lemon juice",
+            "1 dash Worcestershire sauce",
+            "4 cups water",
+            "2 tablespoons unsalted butter",
+            "1 teaspoon salt",
+            "1 cup white grits",
+            "½ cup shredded white Cheddar cheese",
+            "1 pound shrimp, peeled and deveined",
+            "½ teaspoon Cajun seasoning",
+            "½ teaspoon salt, or to taste",
+            "¼ teaspoon ground black pepper",
+            "1 pinch cayenne pepper",
+            "1 tablespoon minced jalapeño pepper",
+            "2 tablespoons minced green onion",
+            "3 cloves garlic, minced",
+            "1 tablespoon chopped fresh parsley"
+        ],
+        "directions": [
+            "Gather the ingredients.",
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until almost crisp, 5 to 7 minutes. Transfer bacon to a dish; reserve drippings in the skillet.",
+            "Whisk 1/4 cup water, cream, lemon juice, and Worcestershire sauce together in a bowl.",
+            "Combine 4 cups water, butter, and 1 teaspoon salt in a pot; bring to a boil. Whisk in grits; bring to a simmer, reduce heat to low, and cook until creamy, 20 to 25 minutes. Off heat, stir in Cheddar cheese.",
+            "Season shrimp with Cajun seasoning, 1/2 teaspoon salt, black pepper, and a pinch of cayenne pepper in a large bowl.",
+            "Heat bacon drippings in the skillet over high heat. Add shrimp; cook 1 minute. Flip shrimp; add jalapeño and cook until fragrant, about 30 seconds.",
+            "Stir cream mixture, bacon, green onion, and garlic into shrimp mixture; cook and stir until shrimp cooked through, 3 to 4 minutes, adding water as necessary to thin sauce. Off heat, stir in parsley.",
+            "Ladle grits into a bowl; top with shrimp and sauce."
+        ],
+        "num_ingredients": 19,
+        "num_steps": 8,
+        "ingredient_text": "strips bacon cut into -inch pieces ¼ water heavy whipping cream lemon juice dash worcestershire sauce water unsalted butter salt white grits ½ shredded white cheddar cheese pound shrimp peeled deveined ½ cajun seasoning ½ salt taste ¼ ground black pepper pinch cayenne pepper minced jalapeño pepper minced green onion cloves garlic minced chopped fresh parsley",
+        "directions_text": "gather the ingredients. cook bacon in a large skillet over medium-high heat, turning occasionally, until almost crisp, 5 to 7 minutes. transfer bacon to a dish; reserve drippings in the skillet. whisk 1/4 cup water, cream, lemon juice, and worcestershire sauce together in a bowl. combine 4 cups water, butter, and 1 teaspoon salt in a pot; bring to a boil. whisk in grits; bring to a simmer, reduce heat to low, and cook until creamy, 20 to 25 minutes. off heat, stir in cheddar cheese. season shrimp with cajun seasoning, 1/2 teaspoon salt, black pepper, and a pinch of cayenne pepper in a large bowl. heat bacon drippings in the skillet over high heat. add shrimp; cook 1 minute. flip shrimp; add jalapeño and cook until fragrant, about 30 seconds. stir cream mixture, bacon, green onion, and garlic into shrimp mixture; cook and stir until shrimp cooked through, 3 to 4 minutes, adding water as necessary to thin sauce. off heat, stir in parsley. ladle grits into a bowl; top with shrimp and sauce.",
+        "combined_text": "chef john's shrimp and grits grits grits 4 strips bacon, cut into 1/4-inch pieces ¼ cup water 2 tablespoons heavy whipping cream 2 teaspoons lemon juice 1 dash worcestershire sauce 4 cups water 2 tablespoons unsalted butter 1 teaspoon salt 1 cup white grits ½ cup shredded white cheddar cheese 1 pound shrimp, peeled and deveined ½ teaspoon cajun seasoning ½ teaspoon salt, or to taste ¼ teaspoon ground black pepper 1 pinch cayenne pepper 1 tablespoon minced jalapeño pepper 2 tablespoons minced green onion 3 cloves garlic, minced 1 tablespoon chopped fresh parsley gather the ingredients. cook bacon in a large skillet over medium-high heat, turning occasionally, until almost crisp, 5 to 7 minutes. transfer bacon to a dish; reserve drippings in the skillet. whisk 1/4 cup water, cream, lemon juice, and worcestershire sauce together in a bowl. combine 4 cups water, butter, and 1 teaspoon salt in a pot; bring to a boil. whisk in grits; bring to a simmer, reduce heat to low, and cook until creamy, 20 to 25 minutes. off heat, stir in cheddar cheese. season shrimp with cajun seasoning, 1/2 teaspoon salt, black pepper, and a pinch of cayenne pepper in a large bowl. heat bacon drippings in the skillet over high heat. add shrimp; cook 1 minute. flip shrimp; add jalapeño and cook until fragrant, about 30 seconds. stir cream mixture, bacon, green onion, and garlic into shrimp mixture; cook and stir until shrimp cooked through, 3 to 4 minutes, adding water as necessary to thin sauce. off heat, stir in parsley. ladle grits into a bowl; top with shrimp and sauce.",
+        "ingredients_raw": [
+            "4 strips bacon, cut into 1/4-inch pieces",
+            "¼ cup water",
+            "2 tablespoons heavy whipping cream",
+            "2 teaspoons lemon juice",
+            "1 dash Worcestershire sauce",
+            "4 cups water",
+            "2 tablespoons unsalted butter",
+            "1 teaspoon salt",
+            "1 cup white grits",
+            "½ cup shredded white Cheddar cheese",
+            "1 pound shrimp, peeled and deveined",
+            "½ teaspoon Cajun seasoning",
+            "½ teaspoon salt, or to taste",
+            "¼ teaspoon ground black pepper",
+            "1 pinch cayenne pepper",
+            "1 tablespoon minced jalapeño pepper",
+            "2 tablespoons minced green onion",
+            "3 cloves garlic, minced",
+            "1 tablespoon chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "Gather the ingredients.",
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until almost crisp, 5 to 7 minutes. Transfer bacon to a dish; reserve drippings in the skillet.",
+            "Whisk 1/4 cup water, cream, lemon juice, and Worcestershire sauce together in a bowl.",
+            "Combine 4 cups water, butter, and 1 teaspoon salt in a pot; bring to a boil. Whisk in grits; bring to a simmer, reduce heat to low, and cook until creamy, 20 to 25 minutes. Off heat, stir in Cheddar cheese.",
+            "Season shrimp with Cajun seasoning, 1/2 teaspoon salt, black pepper, and a pinch of cayenne pepper in a large bowl.",
+            "Heat bacon drippings in the skillet over high heat. Add shrimp; cook 1 minute. Flip shrimp; add jalapeño and cook until fragrant, about 30 seconds.",
+            "Stir cream mixture, bacon, green onion, and garlic into shrimp mixture; cook and stir until shrimp cooked through, 3 to 4 minutes, adding water as necessary to thin sauce. Off heat, stir in parsley.",
+            "Ladle grits into a bowl; top with shrimp and sauce."
+        ],
+        "ingredients_canonical": [
+            "strips bacon cut into -inch pieces",
+            "¼ water",
+            "heavy whipping cream",
+            "lemon juice",
+            "dash worcestershire sauce",
+            "water",
+            "unsalted butter",
+            "salt",
+            "white grits",
+            "½ shredded white cheddar cheese",
+            "pound shrimp peeled deveined",
+            "½ cajun seasoning",
+            "½ salt taste",
+            "¼ ground black pepper",
+            "pinch cayenne pepper",
+            "minced jalapeño pepper",
+            "minced green onion",
+            "cloves garlic minced",
+            "chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 12,
+        "slow_hits": 2,
+        "medium_hits": 12,
+        "cook_speed": "medium",
+        "est_prep_time_min": 44,
+        "est_cook_time_min": 108,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheesy Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "Cheese grits ... easy, cheesy, rich, and delicious!",
+        "ingredients": [
+            "4 cups water",
+            "1 teaspoon salt",
+            "1 cup uncooked quick-cooking grits",
+            "1 cup shredded Cheddar cheese",
+            "½ cup shredded Parmesan cheese",
+            "2 tablespoons butter",
+            "ground black pepper to taste"
+        ],
+        "directions": [
+            "Gather the ingredients.",
+            "Bring water and salt to a boil in a saucepan. Whisk in grits, reduce heat to medium-low, and cook until thickened, 5 to 6 minutes. Remove from heat.",
+            "Stir in Cheddar, Parmesan, and butter until combined and cheese has melted.",
+            "Season with pepper; serve immediately."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "water salt uncooked quick-cooking grits shredded cheddar cheese ½ shredded parmesan cheese butter ground black pepper taste",
+        "directions_text": "gather the ingredients. bring water and salt to a boil in a saucepan. whisk in grits, reduce heat to medium-low, and cook until thickened, 5 to 6 minutes. remove from heat. stir in cheddar, parmesan, and butter until combined and cheese has melted. season with pepper; serve immediately.",
+        "combined_text": "cheesy grits grits grits 4 cups water 1 teaspoon salt 1 cup uncooked quick-cooking grits 1 cup shredded cheddar cheese ½ cup shredded parmesan cheese 2 tablespoons butter ground black pepper to taste gather the ingredients. bring water and salt to a boil in a saucepan. whisk in grits, reduce heat to medium-low, and cook until thickened, 5 to 6 minutes. remove from heat. stir in cheddar, parmesan, and butter until combined and cheese has melted. season with pepper; serve immediately.",
+        "ingredients_raw": [
+            "4 cups water",
+            "1 teaspoon salt",
+            "1 cup uncooked quick-cooking grits",
+            "1 cup shredded Cheddar cheese",
+            "½ cup shredded Parmesan cheese",
+            "2 tablespoons butter",
+            "ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Gather the ingredients.",
+            "Bring water and salt to a boil in a saucepan. Whisk in grits, reduce heat to medium-low, and cook until thickened, 5 to 6 minutes. Remove from heat.",
+            "Stir in Cheddar, Parmesan, and butter until combined and cheese has melted.",
+            "Season with pepper; serve immediately."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "salt",
+            "uncooked quick-cooking grits",
+            "shredded cheddar cheese",
+            "½ shredded parmesan cheese",
+            "butter",
+            "ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Ultimate Lowcountry Shrimp and Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "This recipe for the ultimate Lowcountry shrimp and grits is modeled after my mother-in-law's recipe, for which she won first place in Charleston, SC. It features grits with fresh white sweet corn, topped with a rich tomato gravy and deep fried shrimp, then finished with crumbled bacon.",
+        "ingredients": [
+            "4 cups water",
+            "1 cup milk",
+            "3 tablespoons butter",
+            "1 1/2 teaspoons kosher salt",
+            "1 1/4 cups grits",
+            "2 ears white sweet corn",
+            "1/4 teaspoon pepper"
+        ],
+        "directions": [
+            "Combine water, milk, butter, and salt in a large saucepan and bring just to a boil. Whisk in grits until incorporated. Reduce heat to simmer, cover, and cook until thick, 25 to 30 minutes, stirring often. If mixture gets too thick, add a little more milk or water.",
+            "Cut kernels off corn cobs, and using the back of the knife, carefully scrape the cob to release the creamy corn milk. Stir corn kernels and corn milk into grits and continue cooking until grits are creamy and tender, 15 to 20 minutes longer, stirring often. Stir in pepper and adjust seasonings if necessary.",
+            "Meanwhile, heat a large deep skillet or Dutch oven over medium heat. Add olive oil and bacon slices in a single layer, and cook until bacon is crisp, stirring occasionally, about 7 minutes. Remove bacon from the skillet, drain on paper towels, and set aside. Crumble bacon once cool enough to handle. Reserve drippings in the skillet and return skillet to medium-high heat.",
+            "Finely slice green onions and reserve green ends for garnish. Add white parts of green onion, onion, green and red bell peppers, and okra to the skillet and cook until softened and lightly browned, stirring often, about 5 minutes. Add in salt, pepper, garlic powder, and cayenne and cook for 1 minute. Add fresh tomatoes and garlic, and cook for 2 minutes.",
+            "Add butter to mixture and allow it to melt. Sprinkle flour over skillet and cook, stirring constantly, about 1 minute. Add in tomatoes, with juices, and stock while stirring constantly until smooth. Stir in sugar, Worcestershire, and hot sauce, and return mixture to a simmer. Cook gravy for 10 minutes, stirring occasionally.",
+            "Heat peanut oil to 350 degrees F (175 degrees C) in a large, deep skillet over medium-high heat. Whisk eggs in a bowl; add shrimp and stir to coat. In a shallow dish, whisk flour, salt, paprika, black pepper, and cayenne pepper.",
+            "Working a few at a time, remove shrimp from egg, allowing excess to drip off, and lightly coat in flour mixture. Transfer shrimp to a wire rack set inside a rimmed baking sheet. Repeat with remaining shrimp.",
+            "Working in batches, add shrimp to hot oil and cook, turning occasionally, until lightly browned and crisp, 1 to 2 minutes. Drain on a wire rack set over a paper towel-lined baking sheet.",
+            "To serve, place grits in the bottom of a shallow bowl. Top with about 1/2 cup of gravy and 6 to 8 shrimp. Top with crumbled bacon, and sprinkle with green onions and parsley if desired."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 9,
+        "ingredient_text": "water milk butter kosher salt grits ears white sweet corn pepper",
+        "directions_text": "combine water, milk, butter, and salt in a large saucepan and bring just to a boil. whisk in grits until incorporated. reduce heat to simmer, cover, and cook until thick, 25 to 30 minutes, stirring often. if mixture gets too thick, add a little more milk or water. cut kernels off corn cobs, and using the back of the knife, carefully scrape the cob to release the creamy corn milk. stir corn kernels and corn milk into grits and continue cooking until grits are creamy and tender, 15 to 20 minutes longer, stirring often. stir in pepper and adjust seasonings if necessary. meanwhile, heat a large deep skillet or dutch oven over medium heat. add olive oil and bacon slices in a single layer, and cook until bacon is crisp, stirring occasionally, about 7 minutes. remove bacon from the skillet, drain on paper towels, and set aside. crumble bacon once cool enough to handle. reserve drippings in the skillet and return skillet to medium-high heat. finely slice green onions and reserve green ends for garnish. add white parts of green onion, onion, green and red bell peppers, and okra to the skillet and cook until softened and lightly browned, stirring often, about 5 minutes. add in salt, pepper, garlic powder, and cayenne and cook for 1 minute. add fresh tomatoes and garlic, and cook for 2 minutes. add butter to mixture and allow it to melt. sprinkle flour over skillet and cook, stirring constantly, about 1 minute. add in tomatoes, with juices, and stock while stirring constantly until smooth. stir in sugar, worcestershire, and hot sauce, and return mixture to a simmer. cook gravy for 10 minutes, stirring occasionally. heat peanut oil to 350 degrees f (175 degrees c) in a large, deep skillet over medium-high heat. whisk eggs in a bowl; add shrimp and stir to coat. in a shallow dish, whisk flour, salt, paprika, black pepper, and cayenne pepper. working a few at a time, remove shrimp from egg, allowing excess to drip off, and lightly coat in flour mixture. transfer shrimp to a wire rack set inside a rimmed baking sheet. repeat with remaining shrimp. working in batches, add shrimp to hot oil and cook, turning occasionally, until lightly browned and crisp, 1 to 2 minutes. drain on a wire rack set over a paper towel-lined baking sheet. to serve, place grits in the bottom of a shallow bowl. top with about 1/2 cup of gravy and 6 to 8 shrimp. top with crumbled bacon, and sprinkle with green onions and parsley if desired.",
+        "combined_text": "ultimate lowcountry shrimp and grits grits grits 4 cups water 1 cup milk 3 tablespoons butter 1 1/2 teaspoons kosher salt 1 1/4 cups grits 2 ears white sweet corn 1/4 teaspoon pepper combine water, milk, butter, and salt in a large saucepan and bring just to a boil. whisk in grits until incorporated. reduce heat to simmer, cover, and cook until thick, 25 to 30 minutes, stirring often. if mixture gets too thick, add a little more milk or water. cut kernels off corn cobs, and using the back of the knife, carefully scrape the cob to release the creamy corn milk. stir corn kernels and corn milk into grits and continue cooking until grits are creamy and tender, 15 to 20 minutes longer, stirring often. stir in pepper and adjust seasonings if necessary. meanwhile, heat a large deep skillet or dutch oven over medium heat. add olive oil and bacon slices in a single layer, and cook until bacon is crisp, stirring occasionally, about 7 minutes. remove bacon from the skillet, drain on paper towels, and set aside. crumble bacon once cool enough to handle. reserve drippings in the skillet and return skillet to medium-high heat. finely slice green onions and reserve green ends for garnish. add white parts of green onion, onion, green and red bell peppers, and okra to the skillet and cook until softened and lightly browned, stirring often, about 5 minutes. add in salt, pepper, garlic powder, and cayenne and cook for 1 minute. add fresh tomatoes and garlic, and cook for 2 minutes. add butter to mixture and allow it to melt. sprinkle flour over skillet and cook, stirring constantly, about 1 minute. add in tomatoes, with juices, and stock while stirring constantly until smooth. stir in sugar, worcestershire, and hot sauce, and return mixture to a simmer. cook gravy for 10 minutes, stirring occasionally. heat peanut oil to 350 degrees f (175 degrees c) in a large, deep skillet over medium-high heat. whisk eggs in a bowl; add shrimp and stir to coat. in a shallow dish, whisk flour, salt, paprika, black pepper, and cayenne pepper. working a few at a time, remove shrimp from egg, allowing excess to drip off, and lightly coat in flour mixture. transfer shrimp to a wire rack set inside a rimmed baking sheet. repeat with remaining shrimp. working in batches, add shrimp to hot oil and cook, turning occasionally, until lightly browned and crisp, 1 to 2 minutes. drain on a wire rack set over a paper towel-lined baking sheet. to serve, place grits in the bottom of a shallow bowl. top with about 1/2 cup of gravy and 6 to 8 shrimp. top with crumbled bacon, and sprinkle with green onions and parsley if desired.",
+        "ingredients_raw": [
+            "4 cups water",
+            "1 cup milk",
+            "3 tablespoons butter",
+            "1 1/2 teaspoons kosher salt",
+            "1 1/4 cups grits",
+            "2 ears white sweet corn",
+            "1/4 teaspoon pepper"
+        ],
+        "directions_raw": [
+            "Combine water, milk, butter, and salt in a large saucepan and bring just to a boil. Whisk in grits until incorporated. Reduce heat to simmer, cover, and cook until thick, 25 to 30 minutes, stirring often. If mixture gets too thick, add a little more milk or water.",
+            "Cut kernels off corn cobs, and using the back of the knife, carefully scrape the cob to release the creamy corn milk. Stir corn kernels and corn milk into grits and continue cooking until grits are creamy and tender, 15 to 20 minutes longer, stirring often. Stir in pepper and adjust seasonings if necessary.",
+            "Meanwhile, heat a large deep skillet or Dutch oven over medium heat. Add olive oil and bacon slices in a single layer, and cook until bacon is crisp, stirring occasionally, about 7 minutes. Remove bacon from the skillet, drain on paper towels, and set aside. Crumble bacon once cool enough to handle. Reserve drippings in the skillet and return skillet to medium-high heat.",
+            "Finely slice green onions and reserve green ends for garnish. Add white parts of green onion, onion, green and red bell peppers, and okra to the skillet and cook until softened and lightly browned, stirring often, about 5 minutes. Add in salt, pepper, garlic powder, and cayenne and cook for 1 minute. Add fresh tomatoes and garlic, and cook for 2 minutes.",
+            "Add butter to mixture and allow it to melt. Sprinkle flour over skillet and cook, stirring constantly, about 1 minute. Add in tomatoes, with juices, and stock while stirring constantly until smooth. Stir in sugar, Worcestershire, and hot sauce, and return mixture to a simmer. Cook gravy for 10 minutes, stirring occasionally.",
+            "Heat peanut oil to 350 degrees F (175 degrees C) in a large, deep skillet over medium-high heat. Whisk eggs in a bowl; add shrimp and stir to coat. In a shallow dish, whisk flour, salt, paprika, black pepper, and cayenne pepper.",
+            "Working a few at a time, remove shrimp from egg, allowing excess to drip off, and lightly coat in flour mixture. Transfer shrimp to a wire rack set inside a rimmed baking sheet. Repeat with remaining shrimp.",
+            "Working in batches, add shrimp to hot oil and cook, turning occasionally, until lightly browned and crisp, 1 to 2 minutes. Drain on a wire rack set over a paper towel-lined baking sheet.",
+            "To serve, place grits in the bottom of a shallow bowl. Top with about 1/2 cup of gravy and 6 to 8 shrimp. Top with crumbled bacon, and sprinkle with green onions and parsley if desired."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "milk",
+            "butter",
+            "kosher salt",
+            "grits",
+            "ears white sweet corn",
+            "pepper"
+        ],
+        "cuisine_list": [
+            "african",
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 19,
+        "slow_hits": 3,
+        "medium_hits": 19,
+        "cook_speed": "medium",
+        "est_prep_time_min": 43,
+        "est_cook_time_min": 158,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "unspecified"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheesy Baked Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "I had these cheesy baked grits at a party at a colleague's house. I've loved cheese grits for years, but these are by far the best I've ever had.",
+        "ingredients": [
+            "1 quart milk",
+            "½ cup butter",
+            "1 cup uncooked grits",
+            "1 teaspoon salt",
+            "½ teaspoon white pepper",
+            "1 cup shredded Cheddar cheese",
+            "⅓ cup butter",
+            "½ cup grated Parmesan cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish.",
+            "Bring milk to a boil in a large pot over medium heat. Melt 1/2 cup butter in boiling milk. Gradually mix in grits; cook for 5 minutes, stirring constantly. Remove from heat and season with salt and pepper. Beat with a whisk or electric mixer until smooth. Mix in Cheddar cheese and 1/3 cup butter. Transfer to the prepared baking dish and sprinkle with Parmesan cheese.",
+            "Bake in the preheated oven until firm, about 1 hour."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "quart milk ½ butter uncooked grits salt ½ white pepper shredded cheddar cheese ⅓ butter ½ grated parmesan cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). lightly grease a medium baking dish. bring milk to a boil in a large pot over medium heat. melt 1/2 cup butter in boiling milk. gradually mix in grits; cook for 5 minutes, stirring constantly. remove from heat and season with salt and pepper. beat with a whisk or electric mixer until smooth. mix in cheddar cheese and 1/3 cup butter. transfer to the prepared baking dish and sprinkle with parmesan cheese. bake in the preheated oven until firm, about 1 hour.",
+        "combined_text": "cheesy baked grits grits grits 1 quart milk ½ cup butter 1 cup uncooked grits 1 teaspoon salt ½ teaspoon white pepper 1 cup shredded cheddar cheese ⅓ cup butter ½ cup grated parmesan cheese preheat the oven to 350 degrees f (175 degrees c). lightly grease a medium baking dish. bring milk to a boil in a large pot over medium heat. melt 1/2 cup butter in boiling milk. gradually mix in grits; cook for 5 minutes, stirring constantly. remove from heat and season with salt and pepper. beat with a whisk or electric mixer until smooth. mix in cheddar cheese and 1/3 cup butter. transfer to the prepared baking dish and sprinkle with parmesan cheese. bake in the preheated oven until firm, about 1 hour.",
+        "ingredients_raw": [
+            "1 quart milk",
+            "½ cup butter",
+            "1 cup uncooked grits",
+            "1 teaspoon salt",
+            "½ teaspoon white pepper",
+            "1 cup shredded Cheddar cheese",
+            "⅓ cup butter",
+            "½ cup grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish.",
+            "Bring milk to a boil in a large pot over medium heat. Melt 1/2 cup butter in boiling milk. Gradually mix in grits; cook for 5 minutes, stirring constantly. Remove from heat and season with salt and pepper. Beat with a whisk or electric mixer until smooth. Mix in Cheddar cheese and 1/3 cup butter. Transfer to the prepared baking dish and sprinkle with Parmesan cheese.",
+            "Bake in the preheated oven until firm, about 1 hour."
+        ],
+        "ingredients_canonical": [
+            "quart milk",
+            "½ butter",
+            "uncooked grits",
+            "salt",
+            "½ white pepper",
+            "shredded cheddar cheese",
+            "⅓ butter",
+            "½ grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "italian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Kentucky Garlic Cheese Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "These Kentucky garlic cheese grits are a wonderful dish and a favorite for Derby Day (or any day) brunch.",
+        "ingredients": [
+            "¾ cup milk",
+            "1 egg",
+            "1 tablespoon garlic powder",
+            "1 dash hot pepper sauce",
+            "4 cups water",
+            "1 teaspoon salt",
+            "1 cup quick-cooking grits",
+            "¼ cup butter",
+            "12 ounces shredded sharp Cheddar cheese, divided"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart baking dish.",
+            "Beat together milk, egg, garlic powder, and hot pepper sauce in a large bowl until well combined. Set aside.",
+            "Bring water and salt to a boil in a saucepan; cook and stir grits in boiling water until thickened, 3 to 5 minutes. Remove from heat; add butter and about 1/2 of the Cheddar cheese. Stir egg mixture into grits until well combined, then pour grits into the prepared baking dish. Sprinkle remaining Cheddar cheese over grits.",
+            "Bake in the preheated oven until cheese is melted and grits are set, about 1 hour. Allow grits to cool for 20 to 30 minutes before serving. Grits should be cornbread-like."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "¾ milk egg garlic powder dash hot pepper sauce water salt quick-cooking grits ¼ butter ounces shredded sharp cheddar cheese divided",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 2-quart baking dish. beat together milk, egg, garlic powder, and hot pepper sauce in a large bowl until well combined. set aside. bring water and salt to a boil in a saucepan; cook and stir grits in boiling water until thickened, 3 to 5 minutes. remove from heat; add butter and about 1/2 of the cheddar cheese. stir egg mixture into grits until well combined, then pour grits into the prepared baking dish. sprinkle remaining cheddar cheese over grits. bake in the preheated oven until cheese is melted and grits are set, about 1 hour. allow grits to cool for 20 to 30 minutes before serving. grits should be cornbread-like.",
+        "combined_text": "kentucky garlic cheese grits grits grits ¾ cup milk 1 egg 1 tablespoon garlic powder 1 dash hot pepper sauce 4 cups water 1 teaspoon salt 1 cup quick-cooking grits ¼ cup butter 12 ounces shredded sharp cheddar cheese, divided preheat the oven to 350 degrees f (175 degrees c). grease a 2-quart baking dish. beat together milk, egg, garlic powder, and hot pepper sauce in a large bowl until well combined. set aside. bring water and salt to a boil in a saucepan; cook and stir grits in boiling water until thickened, 3 to 5 minutes. remove from heat; add butter and about 1/2 of the cheddar cheese. stir egg mixture into grits until well combined, then pour grits into the prepared baking dish. sprinkle remaining cheddar cheese over grits. bake in the preheated oven until cheese is melted and grits are set, about 1 hour. allow grits to cool for 20 to 30 minutes before serving. grits should be cornbread-like.",
+        "ingredients_raw": [
+            "¾ cup milk",
+            "1 egg",
+            "1 tablespoon garlic powder",
+            "1 dash hot pepper sauce",
+            "4 cups water",
+            "1 teaspoon salt",
+            "1 cup quick-cooking grits",
+            "¼ cup butter",
+            "12 ounces shredded sharp Cheddar cheese, divided"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart baking dish.",
+            "Beat together milk, egg, garlic powder, and hot pepper sauce in a large bowl until well combined. Set aside.",
+            "Bring water and salt to a boil in a saucepan; cook and stir grits in boiling water until thickened, 3 to 5 minutes. Remove from heat; add butter and about 1/2 of the Cheddar cheese. Stir egg mixture into grits until well combined, then pour grits into the prepared baking dish. Sprinkle remaining Cheddar cheese over grits.",
+            "Bake in the preheated oven until cheese is melted and grits are set, about 1 hour. Allow grits to cool for 20 to 30 minutes before serving. Grits should be cornbread-like."
+        ],
+        "ingredients_canonical": [
+            "¾ milk",
+            "egg",
+            "garlic powder",
+            "dash hot pepper sauce",
+            "water",
+            "salt",
+            "quick-cooking grits",
+            "¼ butter",
+            "ounces shredded sharp cheddar cheese divided"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheesy Shrimp and Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "This recipe for cheesy shrimp and grits is an easy, creamy, flavorful classic Southern dish loaded with gooey cheese, tender shrimp, and crispy bacon. It's sure to become a family favorite.",
+        "ingredients": [
+            "1 cup stone-ground grits",
+            "2 cups shredded sharp Cheddar cheese",
+            "3 tablespoons unsalted butter",
+            "salt and ground black pepper to taste",
+            "6 strips bacon, chopped",
+            "1 pound shrimp, peeled and deveined",
+            "1 cup thinly sliced scallions",
+            "2 tablespoons chopped fresh parsley",
+            "4 teaspoons lemon juice",
+            "1 large clove garlic, minced"
+        ],
+        "directions": [
+            "Cook grits until tender according to package directions. Off heat, stir in Cheddar cheese and butter; season with salt and black pepper. Cover and set aside.",
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels, leaving drippings in the skillet.",
+            "Meanwhile, rinse shrimp; pat dry.",
+            "Cook shrimp in drippings in the same skillet over medium heat until begin to turn opaque, about 2 minutes. Add bacon, scallions, parsley, lemon juice, and garlic; continue cooking until shrimp are bright pink, about 3 minutes more.",
+            "Spoon grits into a serving bowl. Add shrimp mixture; mix well. Serve immediately."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "stone-ground grits shredded sharp cheddar cheese unsalted butter salt ground black pepper taste strips bacon chopped pound shrimp peeled deveined thinly sliced scallions chopped fresh parsley lemon juice large clove garlic minced",
+        "directions_text": "cook grits until tender according to package directions. off heat, stir in cheddar cheese and butter; season with salt and black pepper. cover and set aside. cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. drain on paper towels, leaving drippings in the skillet. meanwhile, rinse shrimp; pat dry. cook shrimp in drippings in the same skillet over medium heat until begin to turn opaque, about 2 minutes. add bacon, scallions, parsley, lemon juice, and garlic; continue cooking until shrimp are bright pink, about 3 minutes more. spoon grits into a serving bowl. add shrimp mixture; mix well. serve immediately.",
+        "combined_text": "cheesy shrimp and grits grits grits 1 cup stone-ground grits 2 cups shredded sharp cheddar cheese 3 tablespoons unsalted butter salt and ground black pepper to taste 6 strips bacon, chopped 1 pound shrimp, peeled and deveined 1 cup thinly sliced scallions 2 tablespoons chopped fresh parsley 4 teaspoons lemon juice 1 large clove garlic, minced cook grits until tender according to package directions. off heat, stir in cheddar cheese and butter; season with salt and black pepper. cover and set aside. cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. drain on paper towels, leaving drippings in the skillet. meanwhile, rinse shrimp; pat dry. cook shrimp in drippings in the same skillet over medium heat until begin to turn opaque, about 2 minutes. add bacon, scallions, parsley, lemon juice, and garlic; continue cooking until shrimp are bright pink, about 3 minutes more. spoon grits into a serving bowl. add shrimp mixture; mix well. serve immediately.",
+        "ingredients_raw": [
+            "1 cup stone-ground grits",
+            "2 cups shredded sharp Cheddar cheese",
+            "3 tablespoons unsalted butter",
+            "salt and ground black pepper to taste",
+            "6 strips bacon, chopped",
+            "1 pound shrimp, peeled and deveined",
+            "1 cup thinly sliced scallions",
+            "2 tablespoons chopped fresh parsley",
+            "4 teaspoons lemon juice",
+            "1 large clove garlic, minced"
+        ],
+        "directions_raw": [
+            "Cook grits until tender according to package directions. Off heat, stir in Cheddar cheese and butter; season with salt and black pepper. Cover and set aside.",
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels, leaving drippings in the skillet.",
+            "Meanwhile, rinse shrimp; pat dry.",
+            "Cook shrimp in drippings in the same skillet over medium heat until begin to turn opaque, about 2 minutes. Add bacon, scallions, parsley, lemon juice, and garlic; continue cooking until shrimp are bright pink, about 3 minutes more.",
+            "Spoon grits into a serving bowl. Add shrimp mixture; mix well. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "stone-ground grits",
+            "shredded sharp cheddar cheese",
+            "unsalted butter",
+            "salt ground black pepper taste",
+            "strips bacon chopped",
+            "pound shrimp peeled deveined",
+            "thinly sliced scallions",
+            "chopped fresh parsley",
+            "lemon juice",
+            "large clove garlic minced"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 57,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spicy Shrimp and Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "This spicy shrimp and grits recipe is quick and easy! It's loved by the whole family — and is a constant favorite in my house!",
+        "ingredients": [
+            "4 cups chicken broth",
+            "1 teaspoon salt",
+            "1 cup quick-cooking grits",
+            "2 tablespoons margarine",
+            "1 bunch green onions, chopped",
+            "1 green bell pepper, diced",
+            "2 cloves garlic, minced",
+            "1 pound peeled and deveined small shrimp",
+            "1 (10 ounce) can diced tomatoes and green chilies",
+            "1 cup shredded Monterey Jack cheese",
+            "1 cup shredded sharp Cheddar cheese, divided",
+            "½ teaspoon black pepper"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "Bring chicken broth and salt to a boil in a large saucepan over high heat. Stir in grits, return to a simmer, then reduce heat to medium-low; continue cooking for 20 minutes, stirring frequently.",
+            "Meanwhile, melt margarine in a skillet over medium heat. Stir in green onions, bell pepper, and garlic; cook until peppers have softened, about 5 minutes. Stir in shrimp; cook until they begin to firm.",
+            "Stir shrimp mixture, tomatoes, Monterey Jack cheese, ¾ cup Cheddar cheese, and black pepper into grits; pour into the prepared baking dish. Sprinkle with remaining ¼ cup Cheddar cheese.",
+            "Bake in the preheated oven until cheese is bubbly and beginning to brown, 30 to 45 minutes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "chicken broth salt quick-cooking grits margarine bunch green onions chopped green bell pepper diced cloves garlic minced pound peeled deveined small shrimp ounce can diced tomatoes green chilies shredded monterey jack cheese shredded sharp cheddar cheese divided ½ black pepper",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 9x13-inch baking dish. bring chicken broth and salt to a boil in a large saucepan over high heat. stir in grits, return to a simmer, then reduce heat to medium-low; continue cooking for 20 minutes, stirring frequently. meanwhile, melt margarine in a skillet over medium heat. stir in green onions, bell pepper, and garlic; cook until peppers have softened, about 5 minutes. stir in shrimp; cook until they begin to firm. stir shrimp mixture, tomatoes, monterey jack cheese, ¾ cup cheddar cheese, and black pepper into grits; pour into the prepared baking dish. sprinkle with remaining ¼ cup cheddar cheese. bake in the preheated oven until cheese is bubbly and beginning to brown, 30 to 45 minutes.",
+        "combined_text": "spicy shrimp and grits grits grits 4 cups chicken broth 1 teaspoon salt 1 cup quick-cooking grits 2 tablespoons margarine 1 bunch green onions, chopped 1 green bell pepper, diced 2 cloves garlic, minced 1 pound peeled and deveined small shrimp 1 (10 ounce) can diced tomatoes and green chilies 1 cup shredded monterey jack cheese 1 cup shredded sharp cheddar cheese, divided ½ teaspoon black pepper preheat the oven to 350 degrees f (175 degrees c). grease a 9x13-inch baking dish. bring chicken broth and salt to a boil in a large saucepan over high heat. stir in grits, return to a simmer, then reduce heat to medium-low; continue cooking for 20 minutes, stirring frequently. meanwhile, melt margarine in a skillet over medium heat. stir in green onions, bell pepper, and garlic; cook until peppers have softened, about 5 minutes. stir in shrimp; cook until they begin to firm. stir shrimp mixture, tomatoes, monterey jack cheese, ¾ cup cheddar cheese, and black pepper into grits; pour into the prepared baking dish. sprinkle with remaining ¼ cup cheddar cheese. bake in the preheated oven until cheese is bubbly and beginning to brown, 30 to 45 minutes.",
+        "ingredients_raw": [
+            "4 cups chicken broth",
+            "1 teaspoon salt",
+            "1 cup quick-cooking grits",
+            "2 tablespoons margarine",
+            "1 bunch green onions, chopped",
+            "1 green bell pepper, diced",
+            "2 cloves garlic, minced",
+            "1 pound peeled and deveined small shrimp",
+            "1 (10 ounce) can diced tomatoes and green chilies",
+            "1 cup shredded Monterey Jack cheese",
+            "1 cup shredded sharp Cheddar cheese, divided",
+            "½ teaspoon black pepper"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "Bring chicken broth and salt to a boil in a large saucepan over high heat. Stir in grits, return to a simmer, then reduce heat to medium-low; continue cooking for 20 minutes, stirring frequently.",
+            "Meanwhile, melt margarine in a skillet over medium heat. Stir in green onions, bell pepper, and garlic; cook until peppers have softened, about 5 minutes. Stir in shrimp; cook until they begin to firm.",
+            "Stir shrimp mixture, tomatoes, Monterey Jack cheese, ¾ cup Cheddar cheese, and black pepper into grits; pour into the prepared baking dish. Sprinkle with remaining ¼ cup Cheddar cheese.",
+            "Bake in the preheated oven until cheese is bubbly and beginning to brown, 30 to 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "chicken broth",
+            "salt",
+            "quick-cooking grits",
+            "margarine",
+            "bunch green onions chopped",
+            "green bell pepper diced",
+            "cloves garlic minced",
+            "pound peeled deveined small shrimp",
+            "ounce can diced tomatoes green chilies",
+            "shredded monterey jack cheese",
+            "shredded sharp cheddar cheese divided",
+            "½ black pepper"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "korean"
+        ],
+        "course_list": [
+            "soup",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 81,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Shrimp and Grits Louisiana Style",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "This shrimp and grits Louisiana-style recipe is probably the best shrimp and grits recipe I have made! It's easy and has a low ingredient count!",
+        "ingredients": [
+            "1 cup water",
+            "1 pinch salt",
+            "6 tablespoons grits",
+            "2 tablespoons olive oil",
+            "½ cup diced tasso ham",
+            "2 tablespoons diced onion",
+            "2 tablespoons diced green bell pepper",
+            "20 medium shrimp, peeled and deveined",
+            "¼ cup white wine",
+            "1 cup heavy whipping cream",
+            "salt and ground black pepper to taste",
+            "1 tablespoon chopped green onion, green parts only"
+        ],
+        "directions": [
+            "Bring water and 1 pinch salt in a saucepan to a boil; slowly stir in grits, stirring constantly. Reduce heat to low; simmer grits until tender and smooth, about 20 minutes, stirring often. Set aside and keep warm.",
+            "Heat olive oil in a large skillet over medium-high heat. Add ham; cook and stir until crisp. Stir in onion and bell pepper; cook until onion is translucent, about 4 minutes. Add shrimp; cook until just pink, 30 to 45 seconds. Transfer shrimp to a plate; set aside.",
+            "Pour wine into the skillet; stir, scraping the browned bits of food off the bottom of the skillet with a wooden spoon. Slowly add cream, reduce heat to low, and simmer until thickened, about 10 minutes. Season with salt and black pepper.",
+            "Divide grits between 2 serving plates; line edges of plates with 10 shrimp. Pour cream sauce over grits; sprinkle servings with green onions."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "water pinch salt grits olive oil ½ diced tasso ham diced onion diced green bell pepper medium shrimp peeled deveined ¼ white wine heavy whipping cream salt ground black pepper taste chopped green onion green parts only",
+        "directions_text": "bring water and 1 pinch salt in a saucepan to a boil; slowly stir in grits, stirring constantly. reduce heat to low; simmer grits until tender and smooth, about 20 minutes, stirring often. set aside and keep warm. heat olive oil in a large skillet over medium-high heat. add ham; cook and stir until crisp. stir in onion and bell pepper; cook until onion is translucent, about 4 minutes. add shrimp; cook until just pink, 30 to 45 seconds. transfer shrimp to a plate; set aside. pour wine into the skillet; stir, scraping the browned bits of food off the bottom of the skillet with a wooden spoon. slowly add cream, reduce heat to low, and simmer until thickened, about 10 minutes. season with salt and black pepper. divide grits between 2 serving plates; line edges of plates with 10 shrimp. pour cream sauce over grits; sprinkle servings with green onions.",
+        "combined_text": "shrimp and grits louisiana style grits grits 1 cup water 1 pinch salt 6 tablespoons grits 2 tablespoons olive oil ½ cup diced tasso ham 2 tablespoons diced onion 2 tablespoons diced green bell pepper 20 medium shrimp, peeled and deveined ¼ cup white wine 1 cup heavy whipping cream salt and ground black pepper to taste 1 tablespoon chopped green onion, green parts only bring water and 1 pinch salt in a saucepan to a boil; slowly stir in grits, stirring constantly. reduce heat to low; simmer grits until tender and smooth, about 20 minutes, stirring often. set aside and keep warm. heat olive oil in a large skillet over medium-high heat. add ham; cook and stir until crisp. stir in onion and bell pepper; cook until onion is translucent, about 4 minutes. add shrimp; cook until just pink, 30 to 45 seconds. transfer shrimp to a plate; set aside. pour wine into the skillet; stir, scraping the browned bits of food off the bottom of the skillet with a wooden spoon. slowly add cream, reduce heat to low, and simmer until thickened, about 10 minutes. season with salt and black pepper. divide grits between 2 serving plates; line edges of plates with 10 shrimp. pour cream sauce over grits; sprinkle servings with green onions.",
+        "ingredients_raw": [
+            "1 cup water",
+            "1 pinch salt",
+            "6 tablespoons grits",
+            "2 tablespoons olive oil",
+            "½ cup diced tasso ham",
+            "2 tablespoons diced onion",
+            "2 tablespoons diced green bell pepper",
+            "20 medium shrimp, peeled and deveined",
+            "¼ cup white wine",
+            "1 cup heavy whipping cream",
+            "salt and ground black pepper to taste",
+            "1 tablespoon chopped green onion, green parts only"
+        ],
+        "directions_raw": [
+            "Bring water and 1 pinch salt in a saucepan to a boil; slowly stir in grits, stirring constantly. Reduce heat to low; simmer grits until tender and smooth, about 20 minutes, stirring often. Set aside and keep warm.",
+            "Heat olive oil in a large skillet over medium-high heat. Add ham; cook and stir until crisp. Stir in onion and bell pepper; cook until onion is translucent, about 4 minutes. Add shrimp; cook until just pink, 30 to 45 seconds. Transfer shrimp to a plate; set aside.",
+            "Pour wine into the skillet; stir, scraping the browned bits of food off the bottom of the skillet with a wooden spoon. Slowly add cream, reduce heat to low, and simmer until thickened, about 10 minutes. Season with salt and black pepper.",
+            "Divide grits between 2 serving plates; line edges of plates with 10 shrimp. Pour cream sauce over grits; sprinkle servings with green onions."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "pinch salt",
+            "grits",
+            "olive oil",
+            "½ diced tasso ham",
+            "diced onion",
+            "diced green bell pepper",
+            "medium shrimp peeled deveined",
+            "¼ white wine",
+            "heavy whipping cream",
+            "salt ground black pepper taste",
+            "chopped green onion green parts only"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 4,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 31,
+        "est_cook_time_min": 100,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Shrimp and Cheesy Grits with Bacon",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "Lowcountry-style shrimp and grits with bacon at its best!",
+        "ingredients": [
+            "1 ½ cups chicken broth",
+            "1 ½ cups evaporated milk",
+            "¾ cup quick-cooking grits",
+            "½ teaspoon salt",
+            "1 cup shredded Cheddar cheese",
+            "1 cup chopped raw bacon",
+            "2 tablespoons bacon drippings",
+            "1 pound uncooked medium shrimp, peeled and deveined",
+            "½ cup diced green bell pepper",
+            "½ cup diced onion",
+            "1 tablespoon shredded Cheddar cheese, or as desired"
+        ],
+        "directions": [
+            "Pour chicken broth and evaporated milk into a large saucepan and bring to a boil. Stir in grits and salt; return to a boil. Reduce heat to low, cover, and simmer grits, stirring often, until thick, about 5 minutes. Stir in 1 cup Cheddar cheese until melted. Set grits aside and keep warm.",
+            "Heat a large skillet over medium heat. Cook and stir bacon in the hot skillet until crisp, 8 to 10 minutes. Use a slotted spoon to transfer bacon to a paper towel-lined plate. Drain all but 2 tablespoons bacon drippings from the skillet.",
+            "Return the skillet to medium heat. Cook and stir shrimp, bell pepper, and onion in hot bacon drippings until shrimp are bright pink and no longer translucent inside and bell pepper is tender, 5 to 8 minutes. Stir cooked bacon into shrimp mixture.",
+            "Spread grits into a serving dish, top with shrimp mixture, and garnish with 1 tablespoon Cheddar cheese."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "½ chicken broth ½ evaporated milk ¾ quick-cooking grits ½ salt shredded cheddar cheese chopped raw bacon bacon drippings pound uncooked medium shrimp peeled deveined ½ diced green bell pepper ½ diced onion shredded cheddar cheese as desired",
+        "directions_text": "pour chicken broth and evaporated milk into a large saucepan and bring to a boil. stir in grits and salt; return to a boil. reduce heat to low, cover, and simmer grits, stirring often, until thick, about 5 minutes. stir in 1 cup cheddar cheese until melted. set grits aside and keep warm. heat a large skillet over medium heat. cook and stir bacon in the hot skillet until crisp, 8 to 10 minutes. use a slotted spoon to transfer bacon to a paper towel-lined plate. drain all but 2 tablespoons bacon drippings from the skillet. return the skillet to medium heat. cook and stir shrimp, bell pepper, and onion in hot bacon drippings until shrimp are bright pink and no longer translucent inside and bell pepper is tender, 5 to 8 minutes. stir cooked bacon into shrimp mixture. spread grits into a serving dish, top with shrimp mixture, and garnish with 1 tablespoon cheddar cheese.",
+        "combined_text": "shrimp and cheesy grits with bacon grits grits 1 ½ cups chicken broth 1 ½ cups evaporated milk ¾ cup quick-cooking grits ½ teaspoon salt 1 cup shredded cheddar cheese 1 cup chopped raw bacon 2 tablespoons bacon drippings 1 pound uncooked medium shrimp, peeled and deveined ½ cup diced green bell pepper ½ cup diced onion 1 tablespoon shredded cheddar cheese, or as desired pour chicken broth and evaporated milk into a large saucepan and bring to a boil. stir in grits and salt; return to a boil. reduce heat to low, cover, and simmer grits, stirring often, until thick, about 5 minutes. stir in 1 cup cheddar cheese until melted. set grits aside and keep warm. heat a large skillet over medium heat. cook and stir bacon in the hot skillet until crisp, 8 to 10 minutes. use a slotted spoon to transfer bacon to a paper towel-lined plate. drain all but 2 tablespoons bacon drippings from the skillet. return the skillet to medium heat. cook and stir shrimp, bell pepper, and onion in hot bacon drippings until shrimp are bright pink and no longer translucent inside and bell pepper is tender, 5 to 8 minutes. stir cooked bacon into shrimp mixture. spread grits into a serving dish, top with shrimp mixture, and garnish with 1 tablespoon cheddar cheese.",
+        "ingredients_raw": [
+            "1 ½ cups chicken broth",
+            "1 ½ cups evaporated milk",
+            "¾ cup quick-cooking grits",
+            "½ teaspoon salt",
+            "1 cup shredded Cheddar cheese",
+            "1 cup chopped raw bacon",
+            "2 tablespoons bacon drippings",
+            "1 pound uncooked medium shrimp, peeled and deveined",
+            "½ cup diced green bell pepper",
+            "½ cup diced onion",
+            "1 tablespoon shredded Cheddar cheese, or as desired"
+        ],
+        "directions_raw": [
+            "Pour chicken broth and evaporated milk into a large saucepan and bring to a boil. Stir in grits and salt; return to a boil. Reduce heat to low, cover, and simmer grits, stirring often, until thick, about 5 minutes. Stir in 1 cup Cheddar cheese until melted. Set grits aside and keep warm.",
+            "Heat a large skillet over medium heat. Cook and stir bacon in the hot skillet until crisp, 8 to 10 minutes. Use a slotted spoon to transfer bacon to a paper towel-lined plate. Drain all but 2 tablespoons bacon drippings from the skillet.",
+            "Return the skillet to medium heat. Cook and stir shrimp, bell pepper, and onion in hot bacon drippings until shrimp are bright pink and no longer translucent inside and bell pepper is tender, 5 to 8 minutes. Stir cooked bacon into shrimp mixture.",
+            "Spread grits into a serving dish, top with shrimp mixture, and garnish with 1 tablespoon Cheddar cheese."
+        ],
+        "ingredients_canonical": [
+            "½ chicken broth",
+            "½ evaporated milk",
+            "¾ quick-cooking grits",
+            "½ salt",
+            "shredded cheddar cheese",
+            "chopped raw bacon",
+            "bacon drippings",
+            "pound uncooked medium shrimp peeled deveined",
+            "½ diced green bell pepper",
+            "½ diced onion",
+            "shredded cheddar cheese as desired"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region"
+        ],
+        "course_list": [
+            "soup"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 12,
+        "slow_hits": 2,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 71,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grits a Ya Ya",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "A friend of mine made this grits a ya ya dish for a Mardi Gras dinner. It was so delicious, I just had to have the recipe.",
+        "ingredients": [
+            "3 ½ cups chicken stock",
+            "¾ cup old fashioned grits",
+            "¼ cup heavy cream, plus more as needed",
+            "1 cup shredded smoked Gouda cheese, or more to taste",
+            "¼ cup butter"
+        ],
+        "directions": [
+            "Prepare the grits: Bring chicken stock to a boil in a saucepan over high heat.",
+            "Slowly pour grits into stock while stirring constantly. Reduce heat to low; simmer until grits are tender and thick, 15 to 20 minutes, stirring occasionally.",
+            "Stir in heavy cream to thin out the grits. Stir in Gouda cheese and butter until melted and smooth.",
+            "While grits are cooking, make the shrimp sauce: Place bacon in a large, deep skillet over medium heat; cook until bacon fat is rendered, about 3 minutes.",
+            "Stir in shallot and garlic; cooking and stirring until shallots are tender, about 5 minutes.",
+            "Pour in white wine and stir in butter, cooking and stirring until butter has melted.",
+            "Drop shrimp in the skillet; cook and stir until they are bright pink on the outside and the meat is no longer transparent in the center, about 3 minutes.",
+            "Stir in spinach, mushrooms, and green onions; cook and stir until the spinach wilts, about 2 minutes more.",
+            "Remove shrimp with a slotted spoon.",
+            "Stir in heavy cream to the sauce. Simmer until the cream is reduced by about a third, about 10 minutes. Season with hot sauce, salt, and pepper. Return shrimp to the skillet to heat through.",
+            "Serve shrimp with sauce over the prepared grits."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 11,
+        "ingredient_text": "½ chicken stock ¾ old fashioned grits ¼ heavy cream plus more as needed shredded smoked gouda cheese more taste ¼ butter",
+        "directions_text": "prepare the grits: bring chicken stock to a boil in a saucepan over high heat. slowly pour grits into stock while stirring constantly. reduce heat to low; simmer until grits are tender and thick, 15 to 20 minutes, stirring occasionally. stir in heavy cream to thin out the grits. stir in gouda cheese and butter until melted and smooth. while grits are cooking, make the shrimp sauce: place bacon in a large, deep skillet over medium heat; cook until bacon fat is rendered, about 3 minutes. stir in shallot and garlic; cooking and stirring until shallots are tender, about 5 minutes. pour in white wine and stir in butter, cooking and stirring until butter has melted. drop shrimp in the skillet; cook and stir until they are bright pink on the outside and the meat is no longer transparent in the center, about 3 minutes. stir in spinach, mushrooms, and green onions; cook and stir until the spinach wilts, about 2 minutes more. remove shrimp with a slotted spoon. stir in heavy cream to the sauce. simmer until the cream is reduced by about a third, about 10 minutes. season with hot sauce, salt, and pepper. return shrimp to the skillet to heat through. serve shrimp with sauce over the prepared grits.",
+        "combined_text": "grits a ya ya grits grits 3 ½ cups chicken stock ¾ cup old fashioned grits ¼ cup heavy cream, plus more as needed 1 cup shredded smoked gouda cheese, or more to taste ¼ cup butter prepare the grits: bring chicken stock to a boil in a saucepan over high heat. slowly pour grits into stock while stirring constantly. reduce heat to low; simmer until grits are tender and thick, 15 to 20 minutes, stirring occasionally. stir in heavy cream to thin out the grits. stir in gouda cheese and butter until melted and smooth. while grits are cooking, make the shrimp sauce: place bacon in a large, deep skillet over medium heat; cook until bacon fat is rendered, about 3 minutes. stir in shallot and garlic; cooking and stirring until shallots are tender, about 5 minutes. pour in white wine and stir in butter, cooking and stirring until butter has melted. drop shrimp in the skillet; cook and stir until they are bright pink on the outside and the meat is no longer transparent in the center, about 3 minutes. stir in spinach, mushrooms, and green onions; cook and stir until the spinach wilts, about 2 minutes more. remove shrimp with a slotted spoon. stir in heavy cream to the sauce. simmer until the cream is reduced by about a third, about 10 minutes. season with hot sauce, salt, and pepper. return shrimp to the skillet to heat through. serve shrimp with sauce over the prepared grits.",
+        "ingredients_raw": [
+            "3 ½ cups chicken stock",
+            "¾ cup old fashioned grits",
+            "¼ cup heavy cream, plus more as needed",
+            "1 cup shredded smoked Gouda cheese, or more to taste",
+            "¼ cup butter"
+        ],
+        "directions_raw": [
+            "Prepare the grits: Bring chicken stock to a boil in a saucepan over high heat.",
+            "Slowly pour grits into stock while stirring constantly. Reduce heat to low; simmer until grits are tender and thick, 15 to 20 minutes, stirring occasionally.",
+            "Stir in heavy cream to thin out the grits. Stir in Gouda cheese and butter until melted and smooth.",
+            "While grits are cooking, make the shrimp sauce: Place bacon in a large, deep skillet over medium heat; cook until bacon fat is rendered, about 3 minutes.",
+            "Stir in shallot and garlic; cooking and stirring until shallots are tender, about 5 minutes.",
+            "Pour in white wine and stir in butter, cooking and stirring until butter has melted.",
+            "Drop shrimp in the skillet; cook and stir until they are bright pink on the outside and the meat is no longer transparent in the center, about 3 minutes.",
+            "Stir in spinach, mushrooms, and green onions; cook and stir until the spinach wilts, about 2 minutes more.",
+            "Remove shrimp with a slotted spoon.",
+            "Stir in heavy cream to the sauce. Simmer until the cream is reduced by about a third, about 10 minutes. Season with hot sauce, salt, and pepper. Return shrimp to the skillet to heat through.",
+            "Serve shrimp with sauce over the prepared grits."
+        ],
+        "ingredients_canonical": [
+            "½ chicken stock",
+            "¾ old fashioned grits",
+            "¼ heavy cream plus more as needed",
+            "shredded smoked gouda cheese more taste",
+            "¼ butter"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 13,
+        "slow_hits": 3,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 109,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Sausage Cheese Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "This sausage and grits dish is great and flavorful. You can also use mild sausage and less hot sauce if you prefer to avoid the extra spice. The recipe can also be prepared up to the baking stage, and refrigerated or frozen until ready to finish.",
+        "ingredients": [
+            "1 pound bulk spicy pork sausage",
+            "4 cups water",
+            "1 cup quick-cooking grits",
+            "4 ounces shredded Gouda cheese",
+            "3 tablespoons butter",
+            "¼ teaspoon hot pepper sauce",
+            "3 eggs, beaten"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cook sausage in a large skillet over medium-high heat, stirring until sausage is crumbly and lightly browned. Drain off grease and place sausage in a bowl. Meanwhile, bring water to a boil in a large saucepan over high heat. Stir in grits, and reduce heat to medium-low. Cook and stir constantly for 5 minutes until grits are tender, or follow package directions.",
+            "Stir together sausage, cheese, butter, hot pepper sauce, and eggs. Fold in grits until combined, then spread into an ungreased, small casserole dish. Bake in the preheated oven until golden brown on top, 30 to 40 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "pound bulk spicy pork sausage water quick-cooking grits ounces shredded gouda cheese butter ¼ hot pepper sauce eggs beaten",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). cook sausage in a large skillet over medium-high heat, stirring until sausage is crumbly and lightly browned. drain off grease and place sausage in a bowl. meanwhile, bring water to a boil in a large saucepan over high heat. stir in grits, and reduce heat to medium-low. cook and stir constantly for 5 minutes until grits are tender, or follow package directions. stir together sausage, cheese, butter, hot pepper sauce, and eggs. fold in grits until combined, then spread into an ungreased, small casserole dish. bake in the preheated oven until golden brown on top, 30 to 40 minutes.",
+        "combined_text": "sausage cheese grits grits grits 1 pound bulk spicy pork sausage 4 cups water 1 cup quick-cooking grits 4 ounces shredded gouda cheese 3 tablespoons butter ¼ teaspoon hot pepper sauce 3 eggs, beaten preheat the oven to 375 degrees f (190 degrees c). cook sausage in a large skillet over medium-high heat, stirring until sausage is crumbly and lightly browned. drain off grease and place sausage in a bowl. meanwhile, bring water to a boil in a large saucepan over high heat. stir in grits, and reduce heat to medium-low. cook and stir constantly for 5 minutes until grits are tender, or follow package directions. stir together sausage, cheese, butter, hot pepper sauce, and eggs. fold in grits until combined, then spread into an ungreased, small casserole dish. bake in the preheated oven until golden brown on top, 30 to 40 minutes.",
+        "ingredients_raw": [
+            "1 pound bulk spicy pork sausage",
+            "4 cups water",
+            "1 cup quick-cooking grits",
+            "4 ounces shredded Gouda cheese",
+            "3 tablespoons butter",
+            "¼ teaspoon hot pepper sauce",
+            "3 eggs, beaten"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cook sausage in a large skillet over medium-high heat, stirring until sausage is crumbly and lightly browned. Drain off grease and place sausage in a bowl. Meanwhile, bring water to a boil in a large saucepan over high heat. Stir in grits, and reduce heat to medium-low. Cook and stir constantly for 5 minutes until grits are tender, or follow package directions.",
+            "Stir together sausage, cheese, butter, hot pepper sauce, and eggs. Fold in grits until combined, then spread into an ungreased, small casserole dish. Bake in the preheated oven until golden brown on top, 30 to 40 minutes."
+        ],
+        "ingredients_canonical": [
+            "pound bulk spicy pork sausage",
+            "water",
+            "quick-cooking grits",
+            "ounces shredded gouda cheese",
+            "butter",
+            "¼ hot pepper sauce",
+            "eggs beaten"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 63,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grits, Sausage, and Egg Casserole",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "Every time I make this someone wants the recipe. It is great if you have overnight guests. Make it ahead and enjoy the morning with them. Check for doneness by inserting a knife in casserole. If it comes out clean you are ready to serve. This is a great brunch recipe served with biscuits, sweet rolls, and fresh fruit.",
+        "ingredients": [
+            "3 cups water",
+            "1 cup half-and-half",
+            "1 teaspoon salt",
+            "1 cup stone-ground grits",
+            "8 ounces shredded sharp Cheddar cheese",
+            "½ cup butter",
+            "1 pound bulk pork sausage",
+            "3 eggs",
+            "½ cup milk",
+            "1 orange bell pepper, chopped small",
+            "1 red bell pepper, chopped small"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "Bring water, half-and-half, and salt to a boil in a saucepan; slowly whisk in grits. Reduce heat to low and simmer, stirring occasionally, until thick, about 20 minutes. Stir in Cheddar cheese and butter until melted. Cool.",
+            "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+            "Beat eggs and milk together in a bowl. Stir sausage, egg mixture, orange bell pepper, and red bell pepper into grits mixture. Pour grits mixture into prepared baking dish.",
+            "Bake in the preheated oven until set, 45 to 60 minutes."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 5,
+        "ingredient_text": "water half- -half salt stone-ground grits ounces shredded sharp cheddar cheese ½ butter pound bulk pork sausage eggs ½ milk orange bell pepper chopped small red bell pepper chopped small",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). grease a 9x13-inch baking dish. bring water, half-and-half, and salt to a boil in a saucepan; slowly whisk in grits. reduce heat to low and simmer, stirring occasionally, until thick, about 20 minutes. stir in cheddar cheese and butter until melted. cool. heat a large skillet over medium-high heat. cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. beat eggs and milk together in a bowl. stir sausage, egg mixture, orange bell pepper, and red bell pepper into grits mixture. pour grits mixture into prepared baking dish. bake in the preheated oven until set, 45 to 60 minutes.",
+        "combined_text": "grits, sausage, and egg casserole grits grits 3 cups water 1 cup half-and-half 1 teaspoon salt 1 cup stone-ground grits 8 ounces shredded sharp cheddar cheese ½ cup butter 1 pound bulk pork sausage 3 eggs ½ cup milk 1 orange bell pepper, chopped small 1 red bell pepper, chopped small preheat oven to 350 degrees f (175 degrees c). grease a 9x13-inch baking dish. bring water, half-and-half, and salt to a boil in a saucepan; slowly whisk in grits. reduce heat to low and simmer, stirring occasionally, until thick, about 20 minutes. stir in cheddar cheese and butter until melted. cool. heat a large skillet over medium-high heat. cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. beat eggs and milk together in a bowl. stir sausage, egg mixture, orange bell pepper, and red bell pepper into grits mixture. pour grits mixture into prepared baking dish. bake in the preheated oven until set, 45 to 60 minutes.",
+        "ingredients_raw": [
+            "3 cups water",
+            "1 cup half-and-half",
+            "1 teaspoon salt",
+            "1 cup stone-ground grits",
+            "8 ounces shredded sharp Cheddar cheese",
+            "½ cup butter",
+            "1 pound bulk pork sausage",
+            "3 eggs",
+            "½ cup milk",
+            "1 orange bell pepper, chopped small",
+            "1 red bell pepper, chopped small"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "Bring water, half-and-half, and salt to a boil in a saucepan; slowly whisk in grits. Reduce heat to low and simmer, stirring occasionally, until thick, about 20 minutes. Stir in Cheddar cheese and butter until melted. Cool.",
+            "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+            "Beat eggs and milk together in a bowl. Stir sausage, egg mixture, orange bell pepper, and red bell pepper into grits mixture. Pour grits mixture into prepared baking dish.",
+            "Bake in the preheated oven until set, 45 to 60 minutes."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "half- -half",
+            "salt",
+            "stone-ground grits",
+            "ounces shredded sharp cheddar cheese",
+            "½ butter",
+            "pound bulk pork sausage",
+            "eggs",
+            "½ milk",
+            "orange bell pepper chopped small",
+            "red bell pepper chopped small"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 71,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Oklahoma Cheese Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "It's a great day when my mom serves up this Southern specialty! Cooked grits are combined with seasonings, cheese, and eggs, then baked. The eggs are the secret to light fluffy grits that melt in your mouth! You may adjust or eliminate the hot sauce to suit your taste.",
+        "ingredients": [
+            "6 cups water",
+            "1 ½ cups quick-cooking grits, dry",
+            "¾ cup butter",
+            "1 pound processed cheese, cubed",
+            "2 teaspoons seasoning salt",
+            "1 tablespoon Worcestershire sauce",
+            "½ teaspoon hot pepper sauce",
+            "2 teaspoons salt",
+            "3 eggs, beaten"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "In a medium saucepan, bring the water to a boil. Stir in grits, and reduce heat to low. Cover, and cook 5 to 6 minutes, stirring occasionally. Mix in the butter, cheese, seasoning salt, Worcestershire sauce, hot pepper sauce, and salt. Continue cooking for 5 minutes, or until the cheese is melted. Remove from heat, cool slightly, and fold in the eggs. Pour into the prepared baking dish.",
+            "Bake 1 hour in the preheated oven, or until the top is lightly browned."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "water ½ quick-cooking grits dry ¾ butter pound processed cheese cubed seasoning salt worcestershire sauce ½ hot pepper sauce salt eggs beaten",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). lightly grease a 9x13 inch baking dish. in a medium saucepan, bring the water to a boil. stir in grits, and reduce heat to low. cover, and cook 5 to 6 minutes, stirring occasionally. mix in the butter, cheese, seasoning salt, worcestershire sauce, hot pepper sauce, and salt. continue cooking for 5 minutes, or until the cheese is melted. remove from heat, cool slightly, and fold in the eggs. pour into the prepared baking dish. bake 1 hour in the preheated oven, or until the top is lightly browned.",
+        "combined_text": "oklahoma cheese grits grits grits 6 cups water 1 ½ cups quick-cooking grits, dry ¾ cup butter 1 pound processed cheese, cubed 2 teaspoons seasoning salt 1 tablespoon worcestershire sauce ½ teaspoon hot pepper sauce 2 teaspoons salt 3 eggs, beaten preheat oven to 350 degrees f (175 degrees c). lightly grease a 9x13 inch baking dish. in a medium saucepan, bring the water to a boil. stir in grits, and reduce heat to low. cover, and cook 5 to 6 minutes, stirring occasionally. mix in the butter, cheese, seasoning salt, worcestershire sauce, hot pepper sauce, and salt. continue cooking for 5 minutes, or until the cheese is melted. remove from heat, cool slightly, and fold in the eggs. pour into the prepared baking dish. bake 1 hour in the preheated oven, or until the top is lightly browned.",
+        "ingredients_raw": [
+            "6 cups water",
+            "1 ½ cups quick-cooking grits, dry",
+            "¾ cup butter",
+            "1 pound processed cheese, cubed",
+            "2 teaspoons seasoning salt",
+            "1 tablespoon Worcestershire sauce",
+            "½ teaspoon hot pepper sauce",
+            "2 teaspoons salt",
+            "3 eggs, beaten"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "In a medium saucepan, bring the water to a boil. Stir in grits, and reduce heat to low. Cover, and cook 5 to 6 minutes, stirring occasionally. Mix in the butter, cheese, seasoning salt, Worcestershire sauce, hot pepper sauce, and salt. Continue cooking for 5 minutes, or until the cheese is melted. Remove from heat, cool slightly, and fold in the eggs. Pour into the prepared baking dish.",
+            "Bake 1 hour in the preheated oven, or until the top is lightly browned."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "½ quick-cooking grits dry",
+            "¾ butter",
+            "pound processed cheese cubed",
+            "seasoning salt",
+            "worcestershire sauce",
+            "½ hot pepper sauce",
+            "salt",
+            "eggs beaten"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic Cheese Grits with Shrimp",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "These cheese grits with shrimp are my version of a South Carolina coastal specialty. It will make a grits lover out of anyone!",
+        "ingredients": [
+            "¾ cup uncooked grits",
+            "6 ounces garlic-flavored processed cheese, cubed",
+            "1 pinch cayenne pepper",
+            "2 tablespoons butter",
+            "2 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "1 tomato, diced",
+            "2 pounds fresh shrimp, peeled and deveined",
+            "½ lemon, juiced",
+            "salt to taste"
+        ],
+        "directions": [
+            "Cook grits according to package directions. Stir in cubed cheese and cayenne pepper. Keep warm over low heat.",
+            "Heat butter and olive oil in a large skillet over medium-high heat. Sauté garlic and tomato in hot butter-oil mixture until tomato begins to soften. Stir in shrimp and lemon juice. Sauté until shrimp are bright pink on the outside and the meat is opaque. Season with salt.",
+            "Spread warm grits on a serving platter and cover with shrimp mixture."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "¾ uncooked grits ounces garlic-flavored processed cheese cubed pinch cayenne pepper butter olive oil cloves garlic minced tomato diced pounds fresh shrimp peeled deveined ½ lemon juiced salt taste",
+        "directions_text": "cook grits according to package directions. stir in cubed cheese and cayenne pepper. keep warm over low heat. heat butter and olive oil in a large skillet over medium-high heat. sauté garlic and tomato in hot butter-oil mixture until tomato begins to soften. stir in shrimp and lemon juice. sauté until shrimp are bright pink on the outside and the meat is opaque. season with salt. spread warm grits on a serving platter and cover with shrimp mixture.",
+        "combined_text": "garlic cheese grits with shrimp grits grits ¾ cup uncooked grits 6 ounces garlic-flavored processed cheese, cubed 1 pinch cayenne pepper 2 tablespoons butter 2 tablespoons olive oil 2 cloves garlic, minced 1 tomato, diced 2 pounds fresh shrimp, peeled and deveined ½ lemon, juiced salt to taste cook grits according to package directions. stir in cubed cheese and cayenne pepper. keep warm over low heat. heat butter and olive oil in a large skillet over medium-high heat. sauté garlic and tomato in hot butter-oil mixture until tomato begins to soften. stir in shrimp and lemon juice. sauté until shrimp are bright pink on the outside and the meat is opaque. season with salt. spread warm grits on a serving platter and cover with shrimp mixture.",
+        "ingredients_raw": [
+            "¾ cup uncooked grits",
+            "6 ounces garlic-flavored processed cheese, cubed",
+            "1 pinch cayenne pepper",
+            "2 tablespoons butter",
+            "2 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "1 tomato, diced",
+            "2 pounds fresh shrimp, peeled and deveined",
+            "½ lemon, juiced",
+            "salt to taste"
+        ],
+        "directions_raw": [
+            "Cook grits according to package directions. Stir in cubed cheese and cayenne pepper. Keep warm over low heat.",
+            "Heat butter and olive oil in a large skillet over medium-high heat. Sauté garlic and tomato in hot butter-oil mixture until tomato begins to soften. Stir in shrimp and lemon juice. Sauté until shrimp are bright pink on the outside and the meat is opaque. Season with salt.",
+            "Spread warm grits on a serving platter and cover with shrimp mixture."
+        ],
+        "ingredients_canonical": [
+            "¾ uncooked grits",
+            "ounces garlic-flavored processed cheese cubed",
+            "pinch cayenne pepper",
+            "butter",
+            "olive oil",
+            "cloves garlic minced",
+            "tomato diced",
+            "pounds fresh shrimp peeled deveined",
+            "½ lemon juiced",
+            "salt taste"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic Shrimp and Cheesy Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "Shrimp cooked with garlic and onion are served over garlic cheese grits. This is a dish for garlic lovers. Serve with garlic bread, or your preference of bread.",
+        "ingredients": [
+            "2 cups chicken broth",
+            "1 cup milk",
+            "1 teaspoon minced garlic",
+            "1 cup quick-cooking grits",
+            "6 ounces shredded Cheddar cheese",
+            "salt and ground black pepper to taste",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "2 teaspoons minced garlic",
+            "1 pound uncooked shrimp, peeled and deveined",
+            "1 dash hot pepper sauce, or to taste"
+        ],
+        "directions": [
+            "Bring chicken broth, milk, and 1 teaspoon garlic to a boil in a saucepan. Stir in grits, reduce heat to low, and simmer until thickened, about 5 minutes.",
+            "Remove from heat and thoroughly mix in Cheddar cheese; season with salt and black pepper. Set grits aside and keep warm.",
+            "Heat butter and olive oil in a skillet over medium heat. Cook and stir onion and 2 teaspoons garlic until softened and beginning to brown, about 5 minutes.",
+            "Stir shrimp into onion mixture and cook until shrimp are pink and no longer translucent in the center, about 5 more minutes. Stir in hot pepper sauce.",
+            "Serve grits in a large serving bowl topped with shrimp mixture."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "chicken broth milk minced garlic quick-cooking grits ounces shredded cheddar cheese salt ground black pepper taste butter olive oil onion chopped minced garlic pound uncooked shrimp peeled deveined dash hot pepper sauce taste",
+        "directions_text": "bring chicken broth, milk, and 1 teaspoon garlic to a boil in a saucepan. stir in grits, reduce heat to low, and simmer until thickened, about 5 minutes. remove from heat and thoroughly mix in cheddar cheese; season with salt and black pepper. set grits aside and keep warm. heat butter and olive oil in a skillet over medium heat. cook and stir onion and 2 teaspoons garlic until softened and beginning to brown, about 5 minutes. stir shrimp into onion mixture and cook until shrimp are pink and no longer translucent in the center, about 5 more minutes. stir in hot pepper sauce. serve grits in a large serving bowl topped with shrimp mixture.",
+        "combined_text": "garlic shrimp and cheesy grits grits grits 2 cups chicken broth 1 cup milk 1 teaspoon minced garlic 1 cup quick-cooking grits 6 ounces shredded cheddar cheese salt and ground black pepper to taste 1 tablespoon butter 1 tablespoon olive oil 1 onion, chopped 2 teaspoons minced garlic 1 pound uncooked shrimp, peeled and deveined 1 dash hot pepper sauce, or to taste bring chicken broth, milk, and 1 teaspoon garlic to a boil in a saucepan. stir in grits, reduce heat to low, and simmer until thickened, about 5 minutes. remove from heat and thoroughly mix in cheddar cheese; season with salt and black pepper. set grits aside and keep warm. heat butter and olive oil in a skillet over medium heat. cook and stir onion and 2 teaspoons garlic until softened and beginning to brown, about 5 minutes. stir shrimp into onion mixture and cook until shrimp are pink and no longer translucent in the center, about 5 more minutes. stir in hot pepper sauce. serve grits in a large serving bowl topped with shrimp mixture.",
+        "ingredients_raw": [
+            "2 cups chicken broth",
+            "1 cup milk",
+            "1 teaspoon minced garlic",
+            "1 cup quick-cooking grits",
+            "6 ounces shredded Cheddar cheese",
+            "salt and ground black pepper to taste",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "2 teaspoons minced garlic",
+            "1 pound uncooked shrimp, peeled and deveined",
+            "1 dash hot pepper sauce, or to taste"
+        ],
+        "directions_raw": [
+            "Bring chicken broth, milk, and 1 teaspoon garlic to a boil in a saucepan. Stir in grits, reduce heat to low, and simmer until thickened, about 5 minutes.",
+            "Remove from heat and thoroughly mix in Cheddar cheese; season with salt and black pepper. Set grits aside and keep warm.",
+            "Heat butter and olive oil in a skillet over medium heat. Cook and stir onion and 2 teaspoons garlic until softened and beginning to brown, about 5 minutes.",
+            "Stir shrimp into onion mixture and cook until shrimp are pink and no longer translucent in the center, about 5 more minutes. Stir in hot pepper sauce.",
+            "Serve grits in a large serving bowl topped with shrimp mixture."
+        ],
+        "ingredients_canonical": [
+            "chicken broth",
+            "milk",
+            "minced garlic",
+            "quick-cooking grits",
+            "ounces shredded cheddar cheese",
+            "salt ground black pepper taste",
+            "butter",
+            "olive oil",
+            "onion chopped",
+            "minced garlic",
+            "pound uncooked shrimp peeled deveined",
+            "dash hot pepper sauce taste"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 74,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Southern Cheese Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "A Southern tradition, creamy cheese grits with a zip of spice makes for a perfect side dish to barbecue, or for a holiday get together. They were always on the table at my mother-in-law's house. A real family tradition.",
+        "ingredients": [
+            "nonstick cooking spray",
+            "4 cups water",
+            "½ teaspoon salt",
+            "1 cup regular grits, uncooked",
+            "1 egg, well beaten",
+            "1 ½ cups grated sharp Cheddar cheese, divided",
+            "½ cup milk",
+            "2 tablespoons Worcestershire sauce",
+            "2 tablespoons butter",
+            "½ teaspoon freshly ground black pepper",
+            "¼ teaspoon garlic powder",
+            "1 dash hot pepper sauce (such as Tabasco®), or more to taste",
+            "1 pinch paprika, or as needed"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat a 2-quart casserole dish with nonstick cooking spray.",
+            "Bring water and salt to a boil in a pot over high heat. Add grits, reduce heat to low, and let simmer until tender, about 30 minutes.",
+            "Pour grits into a large mixing bowl. Add beaten egg slowly, followed by 1 1/4 cups Cheddar cheese, milk, Worcestershire sauce, butter, pepper, garlic powder, and hot sauce. Mix thoroughly and pour into the prepared dish. Sprinkle remaining Cheddar cheese on top and sprinkle lightly with paprika for coloring. Cover.",
+            "Bake in the preheated oven until thickened and cheese is melted, about 1 hour, uncovering the last 10 minutes to let a crust form on top."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 4,
+        "ingredient_text": "nonstick cooking spray water ½ salt regular grits uncooked egg well beaten ½ grated sharp cheddar cheese divided ½ milk worcestershire sauce butter ½ freshly ground black pepper ¼ garlic powder dash hot pepper sauce such as tabasco more taste pinch paprika as needed",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). coat a 2-quart casserole dish with nonstick cooking spray. bring water and salt to a boil in a pot over high heat. add grits, reduce heat to low, and let simmer until tender, about 30 minutes. pour grits into a large mixing bowl. add beaten egg slowly, followed by 1 1/4 cups cheddar cheese, milk, worcestershire sauce, butter, pepper, garlic powder, and hot sauce. mix thoroughly and pour into the prepared dish. sprinkle remaining cheddar cheese on top and sprinkle lightly with paprika for coloring. cover. bake in the preheated oven until thickened and cheese is melted, about 1 hour, uncovering the last 10 minutes to let a crust form on top.",
+        "combined_text": "southern cheese grits grits grits nonstick cooking spray 4 cups water ½ teaspoon salt 1 cup regular grits, uncooked 1 egg, well beaten 1 ½ cups grated sharp cheddar cheese, divided ½ cup milk 2 tablespoons worcestershire sauce 2 tablespoons butter ½ teaspoon freshly ground black pepper ¼ teaspoon garlic powder 1 dash hot pepper sauce (such as tabasco®), or more to taste 1 pinch paprika, or as needed preheat the oven to 350 degrees f (175 degrees c). coat a 2-quart casserole dish with nonstick cooking spray. bring water and salt to a boil in a pot over high heat. add grits, reduce heat to low, and let simmer until tender, about 30 minutes. pour grits into a large mixing bowl. add beaten egg slowly, followed by 1 1/4 cups cheddar cheese, milk, worcestershire sauce, butter, pepper, garlic powder, and hot sauce. mix thoroughly and pour into the prepared dish. sprinkle remaining cheddar cheese on top and sprinkle lightly with paprika for coloring. cover. bake in the preheated oven until thickened and cheese is melted, about 1 hour, uncovering the last 10 minutes to let a crust form on top.",
+        "ingredients_raw": [
+            "nonstick cooking spray",
+            "4 cups water",
+            "½ teaspoon salt",
+            "1 cup regular grits, uncooked",
+            "1 egg, well beaten",
+            "1 ½ cups grated sharp Cheddar cheese, divided",
+            "½ cup milk",
+            "2 tablespoons Worcestershire sauce",
+            "2 tablespoons butter",
+            "½ teaspoon freshly ground black pepper",
+            "¼ teaspoon garlic powder",
+            "1 dash hot pepper sauce (such as Tabasco®), or more to taste",
+            "1 pinch paprika, or as needed"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat a 2-quart casserole dish with nonstick cooking spray.",
+            "Bring water and salt to a boil in a pot over high heat. Add grits, reduce heat to low, and let simmer until tender, about 30 minutes.",
+            "Pour grits into a large mixing bowl. Add beaten egg slowly, followed by 1 1/4 cups Cheddar cheese, milk, Worcestershire sauce, butter, pepper, garlic powder, and hot sauce. Mix thoroughly and pour into the prepared dish. Sprinkle remaining Cheddar cheese on top and sprinkle lightly with paprika for coloring. Cover.",
+            "Bake in the preheated oven until thickened and cheese is melted, about 1 hour, uncovering the last 10 minutes to let a crust form on top."
+        ],
+        "ingredients_canonical": [
+            "nonstick cooking spray",
+            "water",
+            "½ salt",
+            "regular grits uncooked",
+            "egg well beaten",
+            "½ grated sharp cheddar cheese divided",
+            "½ milk",
+            "worcestershire sauce",
+            "butter",
+            "½ freshly ground black pepper",
+            "¼ garlic powder",
+            "dash hot pepper sauce such as tabasco more taste",
+            "pinch paprika as needed"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Creamy Southern Shrimp and Cheese Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "I came up with this recipe when I couldn't find anything else that would satisfy my cravings for a gourmet shrimp and grits without spending a ton of money at restaurants. This is simple and delicious, and is made with things we mostly all have in our homes. Use chicken stock in grits, if you prefer.",
+        "ingredients": [
+            "3 ½ cups water",
+            "1 cup quick-cooking grits",
+            "3 ounces farmers cheese",
+            "2 ounces goat cheese",
+            "1 slice American cheese",
+            "2 tablespoons butter",
+            "2 teaspoons vegetable oil",
+            "1 large tomato, diced",
+            "2 green onions, sliced",
+            "1 clove garlic, minced",
+            "1 teaspoon bacon drippings, or to taste (Optional)",
+            "1 pound fresh shrimp - peeled, deveined, and tails removed",
+            "salt and ground black pepper to taste",
+            "¼ cup half-and-half, or more to taste",
+            "1 tablespoon dry sherry",
+            "1 green onion (green tops only), sliced"
+        ],
+        "directions": [
+            "Bring water to a boil in a large saucepan and slowly whisk in grits; reduce heat to medium-low and simmer until thickened and tender, 5 to 7 minutes, stirring occasionally. Stir farmers cheese, goat cheese, and American cheese into grits until cheese has melted. Set grits aside and keep warm.",
+            "Melt butter with vegetable oil in a large skillet over medium heat. Cook and stir tomato, 2 green onions, and garlic in the hot skillet until the vegetables are tender, 5 to 7 minutes. Stir in bacon drippings until combined. Cook and stir shrimp with vegetables until bright pink, about 5 minutes; season to taste with salt and black pepper.",
+            "Mix grits into shrimp mixture and stir in half-and-half until smooth. Simmer the mixture to blend flavors, about 5 minutes, and add sherry. Simmer 3 more minutes before adjusting salt and black pepper. Garnish with sliced green tops of 1 green onion before serving."
+        ],
+        "num_ingredients": 16,
+        "num_steps": 3,
+        "ingredient_text": "½ water quick-cooking grits ounces farmers cheese ounces goat cheese slice american cheese butter vegetable oil large tomato diced green onions sliced clove garlic minced bacon drippings taste optional pound fresh shrimp - peeled deveined tails removed salt ground black pepper taste ¼ half- -half more taste dry sherry green onion green tops only sliced",
+        "directions_text": "bring water to a boil in a large saucepan and slowly whisk in grits; reduce heat to medium-low and simmer until thickened and tender, 5 to 7 minutes, stirring occasionally. stir farmers cheese, goat cheese, and american cheese into grits until cheese has melted. set grits aside and keep warm. melt butter with vegetable oil in a large skillet over medium heat. cook and stir tomato, 2 green onions, and garlic in the hot skillet until the vegetables are tender, 5 to 7 minutes. stir in bacon drippings until combined. cook and stir shrimp with vegetables until bright pink, about 5 minutes; season to taste with salt and black pepper. mix grits into shrimp mixture and stir in half-and-half until smooth. simmer the mixture to blend flavors, about 5 minutes, and add sherry. simmer 3 more minutes before adjusting salt and black pepper. garnish with sliced green tops of 1 green onion before serving.",
+        "combined_text": "creamy southern shrimp and cheese grits grits grits 3 ½ cups water 1 cup quick-cooking grits 3 ounces farmers cheese 2 ounces goat cheese 1 slice american cheese 2 tablespoons butter 2 teaspoons vegetable oil 1 large tomato, diced 2 green onions, sliced 1 clove garlic, minced 1 teaspoon bacon drippings, or to taste (optional) 1 pound fresh shrimp - peeled, deveined, and tails removed salt and ground black pepper to taste ¼ cup half-and-half, or more to taste 1 tablespoon dry sherry 1 green onion (green tops only), sliced bring water to a boil in a large saucepan and slowly whisk in grits; reduce heat to medium-low and simmer until thickened and tender, 5 to 7 minutes, stirring occasionally. stir farmers cheese, goat cheese, and american cheese into grits until cheese has melted. set grits aside and keep warm. melt butter with vegetable oil in a large skillet over medium heat. cook and stir tomato, 2 green onions, and garlic in the hot skillet until the vegetables are tender, 5 to 7 minutes. stir in bacon drippings until combined. cook and stir shrimp with vegetables until bright pink, about 5 minutes; season to taste with salt and black pepper. mix grits into shrimp mixture and stir in half-and-half until smooth. simmer the mixture to blend flavors, about 5 minutes, and add sherry. simmer 3 more minutes before adjusting salt and black pepper. garnish with sliced green tops of 1 green onion before serving.",
+        "ingredients_raw": [
+            "3 ½ cups water",
+            "1 cup quick-cooking grits",
+            "3 ounces farmers cheese",
+            "2 ounces goat cheese",
+            "1 slice American cheese",
+            "2 tablespoons butter",
+            "2 teaspoons vegetable oil",
+            "1 large tomato, diced",
+            "2 green onions, sliced",
+            "1 clove garlic, minced",
+            "1 teaspoon bacon drippings, or to taste (Optional)",
+            "1 pound fresh shrimp - peeled, deveined, and tails removed",
+            "salt and ground black pepper to taste",
+            "¼ cup half-and-half, or more to taste",
+            "1 tablespoon dry sherry",
+            "1 green onion (green tops only), sliced"
+        ],
+        "directions_raw": [
+            "Bring water to a boil in a large saucepan and slowly whisk in grits; reduce heat to medium-low and simmer until thickened and tender, 5 to 7 minutes, stirring occasionally. Stir farmers cheese, goat cheese, and American cheese into grits until cheese has melted. Set grits aside and keep warm.",
+            "Melt butter with vegetable oil in a large skillet over medium heat. Cook and stir tomato, 2 green onions, and garlic in the hot skillet until the vegetables are tender, 5 to 7 minutes. Stir in bacon drippings until combined. Cook and stir shrimp with vegetables until bright pink, about 5 minutes; season to taste with salt and black pepper.",
+            "Mix grits into shrimp mixture and stir in half-and-half until smooth. Simmer the mixture to blend flavors, about 5 minutes, and add sherry. Simmer 3 more minutes before adjusting salt and black pepper. Garnish with sliced green tops of 1 green onion before serving."
+        ],
+        "ingredients_canonical": [
+            "½ water",
+            "quick-cooking grits",
+            "ounces farmers cheese",
+            "ounces goat cheese",
+            "slice american cheese",
+            "butter",
+            "vegetable oil",
+            "large tomato diced",
+            "green onions sliced",
+            "clove garlic minced",
+            "bacon drippings taste optional",
+            "pound fresh shrimp - peeled deveined tails removed",
+            "salt ground black pepper taste",
+            "¼ half- -half more taste",
+            "dry sherry",
+            "green onion green tops only sliced"
+        ],
+        "cuisine_list": [
+            "african",
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 11,
+        "slow_hits": 4,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 34,
+        "est_cook_time_min": 87,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Robin's Cheesy Chipotle Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "These spicy, creamy grits are a hit at every family barbeque. People ask me for the recipe every time I make them.",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "½ onion, chopped",
+            "2 cups chicken broth",
+            "2 cups milk",
+            "1 cup quick-cooking grits",
+            "2 teaspoons salt",
+            "1 teaspoon ground black pepper",
+            "1 tablespoon ground cumin",
+            "4 chipotle peppers in adobo sauce, minced",
+            "1 (4 ounce) can chopped green chilies",
+            "1 ½ cups shredded sharp Cheddar cheese, divided"
+        ],
+        "directions": [
+            "Preheat an oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "Heat the olive oil in a saucepan over medium heat. Stir in the onion, and cook until the onion softens and turns translucent, about 5 minutes. Pour in the chicken broth and milk. Bring to a boil over high heat, then turn the heat to low. Slowly whisk in the grits, then cover the saucepan, and cook for 5 minutes.",
+            "Once the grits have cooked, stir in the salt, pepper, cumin, chipotle peppers, green chiles, and 1 cup of Cheddar cheese until the cheese has melted. Pour the grits into the prepared 9x13 inch dish, and sprinkle with the remaining 1/2 cup of Cheddar cheese.",
+            "Bake in the preheated oven until the cheese is bubbly, and has begun to brown, 30-45 minutes."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "olive oil ½ onion chopped chicken broth milk quick-cooking grits salt ground black pepper ground cumin chipotle peppers in adobo sauce minced ounce can chopped green chilies ½ shredded sharp cheddar cheese divided",
+        "directions_text": "preheat an oven to 375 degrees f (190 degrees c). lightly grease a 9x13 inch baking dish. heat the olive oil in a saucepan over medium heat. stir in the onion, and cook until the onion softens and turns translucent, about 5 minutes. pour in the chicken broth and milk. bring to a boil over high heat, then turn the heat to low. slowly whisk in the grits, then cover the saucepan, and cook for 5 minutes. once the grits have cooked, stir in the salt, pepper, cumin, chipotle peppers, green chiles, and 1 cup of cheddar cheese until the cheese has melted. pour the grits into the prepared 9x13 inch dish, and sprinkle with the remaining 1/2 cup of cheddar cheese. bake in the preheated oven until the cheese is bubbly, and has begun to brown, 30-45 minutes.",
+        "combined_text": "robin's cheesy chipotle grits grits grits 1 tablespoon olive oil ½ onion, chopped 2 cups chicken broth 2 cups milk 1 cup quick-cooking grits 2 teaspoons salt 1 teaspoon ground black pepper 1 tablespoon ground cumin 4 chipotle peppers in adobo sauce, minced 1 (4 ounce) can chopped green chilies 1 ½ cups shredded sharp cheddar cheese, divided preheat an oven to 375 degrees f (190 degrees c). lightly grease a 9x13 inch baking dish. heat the olive oil in a saucepan over medium heat. stir in the onion, and cook until the onion softens and turns translucent, about 5 minutes. pour in the chicken broth and milk. bring to a boil over high heat, then turn the heat to low. slowly whisk in the grits, then cover the saucepan, and cook for 5 minutes. once the grits have cooked, stir in the salt, pepper, cumin, chipotle peppers, green chiles, and 1 cup of cheddar cheese until the cheese has melted. pour the grits into the prepared 9x13 inch dish, and sprinkle with the remaining 1/2 cup of cheddar cheese. bake in the preheated oven until the cheese is bubbly, and has begun to brown, 30-45 minutes.",
+        "ingredients_raw": [
+            "1 tablespoon olive oil",
+            "½ onion, chopped",
+            "2 cups chicken broth",
+            "2 cups milk",
+            "1 cup quick-cooking grits",
+            "2 teaspoons salt",
+            "1 teaspoon ground black pepper",
+            "1 tablespoon ground cumin",
+            "4 chipotle peppers in adobo sauce, minced",
+            "1 (4 ounce) can chopped green chilies",
+            "1 ½ cups shredded sharp Cheddar cheese, divided"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish.",
+            "Heat the olive oil in a saucepan over medium heat. Stir in the onion, and cook until the onion softens and turns translucent, about 5 minutes. Pour in the chicken broth and milk. Bring to a boil over high heat, then turn the heat to low. Slowly whisk in the grits, then cover the saucepan, and cook for 5 minutes.",
+            "Once the grits have cooked, stir in the salt, pepper, cumin, chipotle peppers, green chiles, and 1 cup of Cheddar cheese until the cheese has melted. Pour the grits into the prepared 9x13 inch dish, and sprinkle with the remaining 1/2 cup of Cheddar cheese.",
+            "Bake in the preheated oven until the cheese is bubbly, and has begun to brown, 30-45 minutes."
+        ],
+        "ingredients_canonical": [
+            "olive oil",
+            "½ onion chopped",
+            "chicken broth",
+            "milk",
+            "quick-cooking grits",
+            "salt",
+            "ground black pepper",
+            "ground cumin",
+            "chipotle peppers in adobo sauce minced",
+            "ounce can chopped green chilies",
+            "½ shredded sharp cheddar cheese divided"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "filipino",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "soup",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 54,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Stuffed Tomatoes with Grits and Ricotta",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "This recipe makes a great appetizer. I spent a lot of time experimenting with ingredients and finally concluded that this recipe you now see listed turned out to be the best. The grits give a unique texture to the sharp flavors of the Parmesan and Asiago cheeses.",
+        "ingredients": [
+            "½ cup dry grits",
+            "1 ½ cups water",
+            "¾ teaspoon salt",
+            "cooking spray",
+            "1 ⅓ cups ricotta cheese",
+            "⅓ cup grated Parmesan cheese",
+            "½ cup grated Asiago cheese",
+            "2 eggs",
+            "2 ½ teaspoons garlic powder",
+            "¼ cup chopped fresh parsley",
+            "¼ teaspoon crushed red pepper",
+            "1 teaspoon salt",
+            "8 tomatoes"
+        ],
+        "directions": [
+            "In a small pot combine dry grits, 1 1/2 cups water, and 3/4 teaspoon of salt. Bring to a boil, then simmer until grits are tender, 15 to 20 minutes. Cool.",
+            "Preheat an oven to 350 degrees F (175 degrees C). Coat a baking sheet with nonstick cooking spray.",
+            "Beat the eggs in a large bowl, then stir in the cooled grits, ricotta cheese, Parmesan cheese, and Asiago cheese. Stir in the garlic powder, parsley, crushed red pepper, and 1 teaspoon salt. Mix well.",
+            "Slice the top off of each tomato. Use a spoon to hollow out the tomatoes, leaving the outer shells (approximately 1/4 inch thick) intact. Fill each with the grits mixture. Arrange stuffed tomatoes on prepared baking sheet.",
+            "Bake in preheated oven until light golden brown, 30 to 40 minutes. Allow to cool slightly before serving."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 5,
+        "ingredient_text": "½ dry grits ½ water ¾ salt cooking spray ⅓ ricotta cheese ⅓ grated parmesan cheese ½ grated asiago cheese eggs ½ garlic powder ¼ chopped fresh parsley ¼ crushed red pepper salt tomatoes",
+        "directions_text": "in a small pot combine dry grits, 1 1/2 cups water, and 3/4 teaspoon of salt. bring to a boil, then simmer until grits are tender, 15 to 20 minutes. cool. preheat an oven to 350 degrees f (175 degrees c). coat a baking sheet with nonstick cooking spray. beat the eggs in a large bowl, then stir in the cooled grits, ricotta cheese, parmesan cheese, and asiago cheese. stir in the garlic powder, parsley, crushed red pepper, and 1 teaspoon salt. mix well. slice the top off of each tomato. use a spoon to hollow out the tomatoes, leaving the outer shells (approximately 1/4 inch thick) intact. fill each with the grits mixture. arrange stuffed tomatoes on prepared baking sheet. bake in preheated oven until light golden brown, 30 to 40 minutes. allow to cool slightly before serving.",
+        "combined_text": "stuffed tomatoes with grits and ricotta grits grits ½ cup dry grits 1 ½ cups water ¾ teaspoon salt cooking spray 1 ⅓ cups ricotta cheese ⅓ cup grated parmesan cheese ½ cup grated asiago cheese 2 eggs 2 ½ teaspoons garlic powder ¼ cup chopped fresh parsley ¼ teaspoon crushed red pepper 1 teaspoon salt 8 tomatoes in a small pot combine dry grits, 1 1/2 cups water, and 3/4 teaspoon of salt. bring to a boil, then simmer until grits are tender, 15 to 20 minutes. cool. preheat an oven to 350 degrees f (175 degrees c). coat a baking sheet with nonstick cooking spray. beat the eggs in a large bowl, then stir in the cooled grits, ricotta cheese, parmesan cheese, and asiago cheese. stir in the garlic powder, parsley, crushed red pepper, and 1 teaspoon salt. mix well. slice the top off of each tomato. use a spoon to hollow out the tomatoes, leaving the outer shells (approximately 1/4 inch thick) intact. fill each with the grits mixture. arrange stuffed tomatoes on prepared baking sheet. bake in preheated oven until light golden brown, 30 to 40 minutes. allow to cool slightly before serving.",
+        "ingredients_raw": [
+            "½ cup dry grits",
+            "1 ½ cups water",
+            "¾ teaspoon salt",
+            "cooking spray",
+            "1 ⅓ cups ricotta cheese",
+            "⅓ cup grated Parmesan cheese",
+            "½ cup grated Asiago cheese",
+            "2 eggs",
+            "2 ½ teaspoons garlic powder",
+            "¼ cup chopped fresh parsley",
+            "¼ teaspoon crushed red pepper",
+            "1 teaspoon salt",
+            "8 tomatoes"
+        ],
+        "directions_raw": [
+            "In a small pot combine dry grits, 1 1/2 cups water, and 3/4 teaspoon of salt. Bring to a boil, then simmer until grits are tender, 15 to 20 minutes. Cool.",
+            "Preheat an oven to 350 degrees F (175 degrees C). Coat a baking sheet with nonstick cooking spray.",
+            "Beat the eggs in a large bowl, then stir in the cooled grits, ricotta cheese, Parmesan cheese, and Asiago cheese. Stir in the garlic powder, parsley, crushed red pepper, and 1 teaspoon salt. Mix well.",
+            "Slice the top off of each tomato. Use a spoon to hollow out the tomatoes, leaving the outer shells (approximately 1/4 inch thick) intact. Fill each with the grits mixture. Arrange stuffed tomatoes on prepared baking sheet.",
+            "Bake in preheated oven until light golden brown, 30 to 40 minutes. Allow to cool slightly before serving."
+        ],
+        "ingredients_canonical": [
+            "½ dry grits",
+            "½ water",
+            "¾ salt",
+            "cooking spray",
+            "⅓ ricotta cheese",
+            "⅓ grated parmesan cheese",
+            "½ grated asiago cheese",
+            "eggs",
+            "½ garlic powder",
+            "¼ chopped fresh parsley",
+            "¼ crushed red pepper",
+            "salt",
+            "tomatoes"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 56,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Instant Pot Cream Cheese Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "These grits are fast to make and combine cream cheese and Cheddar cheese. A touch of truffle salt elevates these grits an extra notch. Serve as a side dish for seafood or sausage.",
+        "ingredients": [
+            "2 ¼ cups chicken broth, divided",
+            "½ cup grits",
+            "½ cup shredded Cheddar cheese",
+            "2 ounces cream cheese",
+            "1 teaspoon butter",
+            "½ teaspoon truffle salt"
+        ],
+        "directions": [
+            "Combine 1 3/4 cups chicken broth and grits in a multi-functional pressure cooker (such as Instant Pot). Close and lock the lid. Select Porridge setting and high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Stir in remaining chicken broth. Mix in Cheddar cheese, cream cheese, butter, and truffle salt."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "¼ chicken broth divided ½ grits ½ shredded cheddar cheese ounces cream cheese butter ½ truffle salt",
+        "directions_text": "combine 1 3/4 cups chicken broth and grits in a multi-functional pressure cooker (such as instant pot). close and lock the lid. select porridge setting and high pressure according to manufacturer's instructions; set timer for 5 minutes. allow 10 to 15 minutes for pressure to build. release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. unlock and remove the lid. stir in remaining chicken broth. mix in cheddar cheese, cream cheese, butter, and truffle salt.",
+        "combined_text": "instant pot cream cheese grits grits grits 2 ¼ cups chicken broth, divided ½ cup grits ½ cup shredded cheddar cheese 2 ounces cream cheese 1 teaspoon butter ½ teaspoon truffle salt combine 1 3/4 cups chicken broth and grits in a multi-functional pressure cooker (such as instant pot). close and lock the lid. select porridge setting and high pressure according to manufacturer's instructions; set timer for 5 minutes. allow 10 to 15 minutes for pressure to build. release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. unlock and remove the lid. stir in remaining chicken broth. mix in cheddar cheese, cream cheese, butter, and truffle salt.",
+        "ingredients_raw": [
+            "2 ¼ cups chicken broth, divided",
+            "½ cup grits",
+            "½ cup shredded Cheddar cheese",
+            "2 ounces cream cheese",
+            "1 teaspoon butter",
+            "½ teaspoon truffle salt"
+        ],
+        "directions_raw": [
+            "Combine 1 3/4 cups chicken broth and grits in a multi-functional pressure cooker (such as Instant Pot). Close and lock the lid. Select Porridge setting and high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Stir in remaining chicken broth. Mix in Cheddar cheese, cream cheese, butter, and truffle salt."
+        ],
+        "ingredients_canonical": [
+            "¼ chicken broth divided",
+            "½ grits",
+            "½ shredded cheddar cheese",
+            "ounces cream cheese",
+            "butter",
+            "½ truffle salt"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "soup"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "poultry",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "TV's Grits Casserole",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "Grits are delicious and filling. This is truly a Southern comfort food. Good anytime. Enjoy.",
+        "ingredients": [
+            "1 pound bulk pork sausage",
+            "1 cup chopped onion",
+            "1 cup chopped celery",
+            "½ cup chopped green bell pepper",
+            "1 cup quick-cooking grits",
+            "4 cups water",
+            "1 teaspoon salt",
+            "1 (10.75 ounce) can condensed cream of celery soup",
+            "1 cup shredded Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat an oven to 375 degrees F (190 degrees C). Butter a 2-quart casserole dish.",
+            "Heat a large skillet over medium heat; cook the sausage in the hot skillet until completely browned, 5 to 7 minutes. Add the onion, celery, and green pepper; cook and stir until tender, about 5 minutes more. Transfer to the prepared casserole dish.",
+            "Bring the grits, water, and salt to a boil in a saucepan; reduce heat to medium-low, cover, and simmer until the grits are tender, about 30 minutes. Add to the sausage mixture in the casserole dish and stir; press into an even layer. Pour the soup over the mixture in an even layer. Sprinkle the Cheddar cheese over the soup.",
+            "Bake in the preheated oven until the cheese has melted, about 30 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "pound bulk pork sausage chopped onion chopped celery ½ chopped green bell pepper quick-cooking grits water salt ounce can condensed cream celery soup shredded cheddar cheese",
+        "directions_text": "preheat an oven to 375 degrees f (190 degrees c). butter a 2-quart casserole dish. heat a large skillet over medium heat; cook the sausage in the hot skillet until completely browned, 5 to 7 minutes. add the onion, celery, and green pepper; cook and stir until tender, about 5 minutes more. transfer to the prepared casserole dish. bring the grits, water, and salt to a boil in a saucepan; reduce heat to medium-low, cover, and simmer until the grits are tender, about 30 minutes. add to the sausage mixture in the casserole dish and stir; press into an even layer. pour the soup over the mixture in an even layer. sprinkle the cheddar cheese over the soup. bake in the preheated oven until the cheese has melted, about 30 minutes.",
+        "combined_text": "tv's grits casserole grits grits 1 pound bulk pork sausage 1 cup chopped onion 1 cup chopped celery ½ cup chopped green bell pepper 1 cup quick-cooking grits 4 cups water 1 teaspoon salt 1 (10.75 ounce) can condensed cream of celery soup 1 cup shredded cheddar cheese preheat an oven to 375 degrees f (190 degrees c). butter a 2-quart casserole dish. heat a large skillet over medium heat; cook the sausage in the hot skillet until completely browned, 5 to 7 minutes. add the onion, celery, and green pepper; cook and stir until tender, about 5 minutes more. transfer to the prepared casserole dish. bring the grits, water, and salt to a boil in a saucepan; reduce heat to medium-low, cover, and simmer until the grits are tender, about 30 minutes. add to the sausage mixture in the casserole dish and stir; press into an even layer. pour the soup over the mixture in an even layer. sprinkle the cheddar cheese over the soup. bake in the preheated oven until the cheese has melted, about 30 minutes.",
+        "ingredients_raw": [
+            "1 pound bulk pork sausage",
+            "1 cup chopped onion",
+            "1 cup chopped celery",
+            "½ cup chopped green bell pepper",
+            "1 cup quick-cooking grits",
+            "4 cups water",
+            "1 teaspoon salt",
+            "1 (10.75 ounce) can condensed cream of celery soup",
+            "1 cup shredded Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 375 degrees F (190 degrees C). Butter a 2-quart casserole dish.",
+            "Heat a large skillet over medium heat; cook the sausage in the hot skillet until completely browned, 5 to 7 minutes. Add the onion, celery, and green pepper; cook and stir until tender, about 5 minutes more. Transfer to the prepared casserole dish.",
+            "Bring the grits, water, and salt to a boil in a saucepan; reduce heat to medium-low, cover, and simmer until the grits are tender, about 30 minutes. Add to the sausage mixture in the casserole dish and stir; press into an even layer. Pour the soup over the mixture in an even layer. Sprinkle the Cheddar cheese over the soup.",
+            "Bake in the preheated oven until the cheese has melted, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "pound bulk pork sausage",
+            "chopped onion",
+            "chopped celery",
+            "½ chopped green bell pepper",
+            "quick-cooking grits",
+            "water",
+            "salt",
+            "ounce can condensed cream celery soup",
+            "shredded cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main",
+            "soup"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 83,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Gourmet Wasabi Grits",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "My budding gourmet chef husband invented this one morning as a perfect side to his wonderful Lump Crab Meat Swiss Cheese Omelets! Can't wait to serve it to dinner guests with a nice piece of Marinated Steel Head Salmon and steamed Asparagus!",
+        "ingredients": [
+            "1 (1 ounce) packet instant grits (such as Quaker®)",
+            "½ cup boiling water",
+            "1 teaspoon wasabi sauce (such as S&B® Wasabi)",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Mix grits and boiling water together in a bowl; stir in wasabi sauce, salt, and pepper."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "ounce packet instant grits such as quaker ½ boiling water wasabi sauce such as s b wasabi salt ground black pepper taste",
+        "directions_text": "mix grits and boiling water together in a bowl; stir in wasabi sauce, salt, and pepper.",
+        "combined_text": "gourmet wasabi grits grits grits 1 (1 ounce) packet instant grits (such as quaker®) ½ cup boiling water 1 teaspoon wasabi sauce (such as s&b® wasabi) salt and ground black pepper to taste mix grits and boiling water together in a bowl; stir in wasabi sauce, salt, and pepper.",
+        "ingredients_raw": [
+            "1 (1 ounce) packet instant grits (such as Quaker®)",
+            "½ cup boiling water",
+            "1 teaspoon wasabi sauce (such as S&B® Wasabi)",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Mix grits and boiling water together in a bowl; stir in wasabi sauce, salt, and pepper."
+        ],
+        "ingredients_canonical": [
+            "ounce packet instant grits such as quaker",
+            "½ boiling water",
+            "wasabi sauce such as s b wasabi",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "japanese"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 6,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mrs. Payson's SPAM® and Grits Brunch Casserole",
+        "category": "Grits",
+        "subcategory": "Grits",
+        "description": "You've got to try this! It converts any SPAM® or grits-haters that may be lurking in your house. Put this together the night before, and sleep in late!",
+        "ingredients": [
+            "4 cups water",
+            "1 cup quick-cooking grits",
+            "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), grated",
+            "1 (14.5 ounce) can diced tomatoes",
+            "1 (8 ounce) container sour cream",
+            "1 (16 ounce) package shredded Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.",
+            "Bring the water to a boil in a large saucepan over high heat. Slowly pour the grits into the water while stirring constantly. Reduce heat to medium-low, and simmer until the grits are tender and thick, 3 to 4 minutes. Stir the grits constantly as they cook. Set aside.",
+            "Heat a skillet over medium-high heat, and sprinkle in the grated luncheon meat. Cook, turning occasionally, until the luncheon meat has browned. Pour off any excess grease, and stir half of the luncheon meat into the grits along with the tomatoes, sour cream, and half of the Cheddar cheese. Pour the grits into the prepared baking dish, and sprinkle with the remaining luncheon meat and Cheddar cheese.",
+            "Bake in the preheated oven until the casserole is hot and the cheese has melted and is bubbly, about 30 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "water quick-cooking grits ounce can fully cooked luncheon meat such as spam grated ounce can diced tomatoes ounce container sour cream ounce package shredded cheddar cheese",
+        "directions_text": "preheat an oven to 350 degrees f (175 degrees c). grease a 9x13 inch baking dish. bring the water to a boil in a large saucepan over high heat. slowly pour the grits into the water while stirring constantly. reduce heat to medium-low, and simmer until the grits are tender and thick, 3 to 4 minutes. stir the grits constantly as they cook. set aside. heat a skillet over medium-high heat, and sprinkle in the grated luncheon meat. cook, turning occasionally, until the luncheon meat has browned. pour off any excess grease, and stir half of the luncheon meat into the grits along with the tomatoes, sour cream, and half of the cheddar cheese. pour the grits into the prepared baking dish, and sprinkle with the remaining luncheon meat and cheddar cheese. bake in the preheated oven until the casserole is hot and the cheese has melted and is bubbly, about 30 minutes.",
+        "combined_text": "mrs. payson's spam® and grits brunch casserole grits grits 4 cups water 1 cup quick-cooking grits 1 (12 ounce) can fully cooked luncheon meat (such as spam®), grated 1 (14.5 ounce) can diced tomatoes 1 (8 ounce) container sour cream 1 (16 ounce) package shredded cheddar cheese preheat an oven to 350 degrees f (175 degrees c). grease a 9x13 inch baking dish. bring the water to a boil in a large saucepan over high heat. slowly pour the grits into the water while stirring constantly. reduce heat to medium-low, and simmer until the grits are tender and thick, 3 to 4 minutes. stir the grits constantly as they cook. set aside. heat a skillet over medium-high heat, and sprinkle in the grated luncheon meat. cook, turning occasionally, until the luncheon meat has browned. pour off any excess grease, and stir half of the luncheon meat into the grits along with the tomatoes, sour cream, and half of the cheddar cheese. pour the grits into the prepared baking dish, and sprinkle with the remaining luncheon meat and cheddar cheese. bake in the preheated oven until the casserole is hot and the cheese has melted and is bubbly, about 30 minutes.",
+        "ingredients_raw": [
+            "4 cups water",
+            "1 cup quick-cooking grits",
+            "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), grated",
+            "1 (14.5 ounce) can diced tomatoes",
+            "1 (8 ounce) container sour cream",
+            "1 (16 ounce) package shredded Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish.",
+            "Bring the water to a boil in a large saucepan over high heat. Slowly pour the grits into the water while stirring constantly. Reduce heat to medium-low, and simmer until the grits are tender and thick, 3 to 4 minutes. Stir the grits constantly as they cook. Set aside.",
+            "Heat a skillet over medium-high heat, and sprinkle in the grated luncheon meat. Cook, turning occasionally, until the luncheon meat has browned. Pour off any excess grease, and stir half of the luncheon meat into the grits along with the tomatoes, sour cream, and half of the Cheddar cheese. Pour the grits into the prepared baking dish, and sprinkle with the remaining luncheon meat and Cheddar cheese.",
+            "Bake in the preheated oven until the casserole is hot and the cheese has melted and is bubbly, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "quick-cooking grits",
+            "ounce can fully cooked luncheon meat such as spam grated",
+            "ounce can diced tomatoes",
+            "ounce container sour cream",
+            "ounce package shredded cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 78,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

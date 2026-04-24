@@ -1,0 +1,2068 @@
+[
+    {
+        "recipe_title": "Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This key lime pie recipe is made with condensed milk and sour cream. Fabulously easy and a summertime favorite! If you have time, a homemade graham cracker crust is better. Garnish with whipped cream and thin slices of lime if you like.",
+        "ingredients": [
+            "3 cups sweetened condensed milk",
+            "¾ cup key lime juice",
+            "½ cup sour cream",
+            "1 tablespoon grated lime zest",
+            "1 (9 inch) prepared graham cracker crust"
+        ],
+        "directions": [
+            "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine condensed milk, key lime juice, sour cream, and lime zest in a bowl; mix well. Pour into graham cracker crust; place pie on a baking sheet.",
+            "Bake in the preheated oven for 5 to 8 minutes, until tiny pinhole bubbles burst on the surface of the pie. The filling will be wobbly but not browned.",
+            "Transfer pie to a wire rack to cool, then thoroughly chill pie in the refrigerator before serving, about 1 hour. Garnish with lime slices and whipped cream, if desired.",
+            "Serve and enjoy!"
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "sweetened condensed milk ¾ key lime juice ½ sour cream grated lime zest inch prepared graham cracker crust",
+        "directions_text": "gather all ingredients and preheat the oven to 350 degrees f (175 degrees c). combine condensed milk, key lime juice, sour cream, and lime zest in a bowl; mix well. pour into graham cracker crust; place pie on a baking sheet. bake in the preheated oven for 5 to 8 minutes, until tiny pinhole bubbles burst on the surface of the pie. the filling will be wobbly but not browned. transfer pie to a wire rack to cool, then thoroughly chill pie in the refrigerator before serving, about 1 hour. garnish with lime slices and whipped cream, if desired. serve and enjoy!",
+        "combined_text": "key lime pie key lime pie key lime pie 3 cups sweetened condensed milk ¾ cup key lime juice ½ cup sour cream 1 tablespoon grated lime zest 1 (9 inch) prepared graham cracker crust gather all ingredients and preheat the oven to 350 degrees f (175 degrees c). combine condensed milk, key lime juice, sour cream, and lime zest in a bowl; mix well. pour into graham cracker crust; place pie on a baking sheet. bake in the preheated oven for 5 to 8 minutes, until tiny pinhole bubbles burst on the surface of the pie. the filling will be wobbly but not browned. transfer pie to a wire rack to cool, then thoroughly chill pie in the refrigerator before serving, about 1 hour. garnish with lime slices and whipped cream, if desired. serve and enjoy!",
+        "ingredients_raw": [
+            "3 cups sweetened condensed milk",
+            "¾ cup key lime juice",
+            "½ cup sour cream",
+            "1 tablespoon grated lime zest",
+            "1 (9 inch) prepared graham cracker crust"
+        ],
+        "directions_raw": [
+            "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine condensed milk, key lime juice, sour cream, and lime zest in a bowl; mix well. Pour into graham cracker crust; place pie on a baking sheet.",
+            "Bake in the preheated oven for 5 to 8 minutes, until tiny pinhole bubbles burst on the surface of the pie. The filling will be wobbly but not browned.",
+            "Transfer pie to a wire rack to cool, then thoroughly chill pie in the refrigerator before serving, about 1 hour. Garnish with lime slices and whipped cream, if desired.",
+            "Serve and enjoy!"
+        ],
+        "ingredients_canonical": [
+            "sweetened condensed milk",
+            "¾ key lime juice",
+            "½ sour cream",
+            "grated lime zest",
+            "inch prepared graham cracker crust"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "russian",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 37,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This easy key lime pie recipe is the 1999 American Pie Council's National Pie Championship's 1st place winner in the Quick and Easy Category. If you like, garnish each piece with a slice of lime and a dollop of whipped cream or whipped topping.",
+        "ingredients": [
+            "5 large egg yolks, beaten",
+            "1 (14 ounce) can sweetened condensed milk",
+            "½ cup key lime juice",
+            "1 (9-inch) prepared graham cracker crust"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Combine sweetened condensed milk, key lime juice, and egg yolks in a large bowl; mix well.",
+            "Pour mixture into unbaked graham cracker crust.",
+            "Bake in the preheated oven until filling is set, about 15 minutes.",
+            "Allow to cool completely before slicing."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 6,
+        "ingredient_text": "large egg yolks beaten ounce can sweetened condensed milk ½ key lime juice -inch prepared graham cracker crust",
+        "directions_text": "gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). combine sweetened condensed milk, key lime juice, and egg yolks in a large bowl; mix well. pour mixture into unbaked graham cracker crust. bake in the preheated oven until filling is set, about 15 minutes. allow to cool completely before slicing.",
+        "combined_text": "easy key lime pie key lime pie key lime pie 5 large egg yolks, beaten 1 (14 ounce) can sweetened condensed milk ½ cup key lime juice 1 (9-inch) prepared graham cracker crust gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). combine sweetened condensed milk, key lime juice, and egg yolks in a large bowl; mix well. pour mixture into unbaked graham cracker crust. bake in the preheated oven until filling is set, about 15 minutes. allow to cool completely before slicing.",
+        "ingredients_raw": [
+            "5 large egg yolks, beaten",
+            "1 (14 ounce) can sweetened condensed milk",
+            "½ cup key lime juice",
+            "1 (9-inch) prepared graham cracker crust"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Combine sweetened condensed milk, key lime juice, and egg yolks in a large bowl; mix well.",
+            "Pour mixture into unbaked graham cracker crust.",
+            "Bake in the preheated oven until filling is set, about 15 minutes.",
+            "Allow to cool completely before slicing."
+        ],
+        "ingredients_canonical": [
+            "large egg yolks beaten",
+            "ounce can sweetened condensed milk",
+            "½ key lime juice",
+            "-inch prepared graham cracker crust"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Key Lime Cake",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This citrusy key lime cake is very moist, tangy, and easy to make. If you like key lime, you will love this cake!",
+        "ingredients": [
+            "1 (15.25 ounce) package lemon cake mix",
+            "1 ⅓ cups vegetable oil",
+            "¾ cup orange juice",
+            "4 large eggs",
+            "1 (3 ounce) package lime flavored Jell-O mix"
+        ],
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease three 8-inch round cake pans.",
+            "To make the cake: Beat cake mix, oil, orange juice, eggs, and gelatin mix in a large bowl until well combined.",
+            "Pour into the prepared cake pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center of a cake layer comes out clean, 16 to 18 minutes. Allow cake layers to cool completely.",
+            "Meanwhile, make frosting: Beat cream cheese and butter in a large bowl until light and fluffy.",
+            "Add confectioners' sugar and lime juice; mix until well combined.",
+            "Fill and frost cooled cake layers."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 7,
+        "ingredient_text": "ounce package lemon cake mix ⅓ vegetable oil ¾ orange juice large eggs ounce package lime flavored jell-o mix",
+        "directions_text": "gather all ingredients. preheat the oven to 350 degrees f (175 degrees c). grease three 8-inch round cake pans. to make the cake: beat cake mix, oil, orange juice, eggs, and gelatin mix in a large bowl until well combined. pour into the prepared cake pans. bake in the preheated oven until a toothpick inserted into the center of a cake layer comes out clean, 16 to 18 minutes. allow cake layers to cool completely. meanwhile, make frosting: beat cream cheese and butter in a large bowl until light and fluffy. add confectioners' sugar and lime juice; mix until well combined. fill and frost cooled cake layers.",
+        "combined_text": "key lime cake key lime pie key lime pie 1 (15.25 ounce) package lemon cake mix 1 ⅓ cups vegetable oil ¾ cup orange juice 4 large eggs 1 (3 ounce) package lime flavored jell-o mix gather all ingredients. preheat the oven to 350 degrees f (175 degrees c). grease three 8-inch round cake pans. to make the cake: beat cake mix, oil, orange juice, eggs, and gelatin mix in a large bowl until well combined. pour into the prepared cake pans. bake in the preheated oven until a toothpick inserted into the center of a cake layer comes out clean, 16 to 18 minutes. allow cake layers to cool completely. meanwhile, make frosting: beat cream cheese and butter in a large bowl until light and fluffy. add confectioners' sugar and lime juice; mix until well combined. fill and frost cooled cake layers.",
+        "ingredients_raw": [
+            "1 (15.25 ounce) package lemon cake mix",
+            "1 ⅓ cups vegetable oil",
+            "¾ cup orange juice",
+            "4 large eggs",
+            "1 (3 ounce) package lime flavored Jell-O mix"
+        ],
+        "directions_raw": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease three 8-inch round cake pans.",
+            "To make the cake: Beat cake mix, oil, orange juice, eggs, and gelatin mix in a large bowl until well combined.",
+            "Pour into the prepared cake pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center of a cake layer comes out clean, 16 to 18 minutes. Allow cake layers to cool completely.",
+            "Meanwhile, make frosting: Beat cream cheese and butter in a large bowl until light and fluffy.",
+            "Add confectioners' sugar and lime juice; mix until well combined.",
+            "Fill and frost cooled cake layers."
+        ],
+        "ingredients_canonical": [
+            "ounce package lemon cake mix",
+            "⅓ vegetable oil",
+            "¾ orange juice",
+            "large eggs",
+            "ounce package lime flavored jell-o mix"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "greek",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 42,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Mini Key Lime Pies",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "Nothing tastes better than key lime pie made with fresh key limes. This one is really tasty and super simple to make. Mini pies are great because everyone can have their own.",
+        "ingredients": [
+            "12 mini graham cracker crusts",
+            "3 cups sweetened condensed milk",
+            "1 cup sour cream",
+            "1 cup freshly squeezed Key lime juice",
+            "3 tablespoons grated Key lime zest",
+            "2 fresh Key limes, thinly sliced",
+            "1 (7 ounce) can whipped cream topping"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Place crusts on a baking sheet.",
+            "Whisk sweetened condensed milk, sour cream, Key lime juice, and Key lime zest together in a bow until smooth; divide and pour into crusts, filling to the top.",
+            "Bake in the preheated oven until hot, 5 to 8 minutes. Refrigerate until thoroughly chilled, at least 1 hour. Garnish each pie with a Key lime slice and dollop of whipped cream."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "mini graham cracker crusts sweetened condensed milk sour cream freshly squeezed key lime juice grated key lime zest fresh key limes thinly sliced ounce can whipped cream topping",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). place crusts on a baking sheet. whisk sweetened condensed milk, sour cream, key lime juice, and key lime zest together in a bow until smooth; divide and pour into crusts, filling to the top. bake in the preheated oven until hot, 5 to 8 minutes. refrigerate until thoroughly chilled, at least 1 hour. garnish each pie with a key lime slice and dollop of whipped cream.",
+        "combined_text": "mini key lime pies key lime pie key lime pie 12 mini graham cracker crusts 3 cups sweetened condensed milk 1 cup sour cream 1 cup freshly squeezed key lime juice 3 tablespoons grated key lime zest 2 fresh key limes, thinly sliced 1 (7 ounce) can whipped cream topping preheat the oven to 350 degrees f (175 degrees c). place crusts on a baking sheet. whisk sweetened condensed milk, sour cream, key lime juice, and key lime zest together in a bow until smooth; divide and pour into crusts, filling to the top. bake in the preheated oven until hot, 5 to 8 minutes. refrigerate until thoroughly chilled, at least 1 hour. garnish each pie with a key lime slice and dollop of whipped cream.",
+        "ingredients_raw": [
+            "12 mini graham cracker crusts",
+            "3 cups sweetened condensed milk",
+            "1 cup sour cream",
+            "1 cup freshly squeezed Key lime juice",
+            "3 tablespoons grated Key lime zest",
+            "2 fresh Key limes, thinly sliced",
+            "1 (7 ounce) can whipped cream topping"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Place crusts on a baking sheet.",
+            "Whisk sweetened condensed milk, sour cream, Key lime juice, and Key lime zest together in a bow until smooth; divide and pour into crusts, filling to the top.",
+            "Bake in the preheated oven until hot, 5 to 8 minutes. Refrigerate until thoroughly chilled, at least 1 hour. Garnish each pie with a Key lime slice and dollop of whipped cream."
+        ],
+        "ingredients_canonical": [
+            "mini graham cracker crusts",
+            "sweetened condensed milk",
+            "sour cream",
+            "freshly squeezed key lime juice",
+            "grated key lime zest",
+            "fresh key limes thinly sliced",
+            "ounce can whipped cream topping"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "russian",
+            "thai"
+        ],
+        "course_list": [
+            "drink",
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 38,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "World's Best Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "Very easy, very good, light Key lime taste that still makes you pucker. Took me a while to perfect this one. No baking, no fuss - takes me 10 or 15 minutes to make.",
+        "ingredients": [
+            "1 (10 inch) prepared graham cracker pie crust",
+            "1 (14 ounce) can sweetened condensed milk",
+            "½ cup key lime juice",
+            "1 (16 ounce) package frozen whipped topping, thawed"
+        ],
+        "directions": [
+            "In a large bowl, mix together condensed milk and lime juice. Fold in whipped topping and mix until smooth. Pour mixture into graham cracker crust. Refrigerate at least 1 hour before serving."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "inch prepared graham cracker pie crust ounce can sweetened condensed milk ½ key lime juice ounce package frozen whipped topping thawed",
+        "directions_text": "in a large bowl, mix together condensed milk and lime juice. fold in whipped topping and mix until smooth. pour mixture into graham cracker crust. refrigerate at least 1 hour before serving.",
+        "combined_text": "world's best key lime pie key lime pie key lime pie 1 (10 inch) prepared graham cracker pie crust 1 (14 ounce) can sweetened condensed milk ½ cup key lime juice 1 (16 ounce) package frozen whipped topping, thawed in a large bowl, mix together condensed milk and lime juice. fold in whipped topping and mix until smooth. pour mixture into graham cracker crust. refrigerate at least 1 hour before serving.",
+        "ingredients_raw": [
+            "1 (10 inch) prepared graham cracker pie crust",
+            "1 (14 ounce) can sweetened condensed milk",
+            "½ cup key lime juice",
+            "1 (16 ounce) package frozen whipped topping, thawed"
+        ],
+        "directions_raw": [
+            "In a large bowl, mix together condensed milk and lime juice. Fold in whipped topping and mix until smooth. Pour mixture into graham cracker crust. Refrigerate at least 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "inch prepared graham cracker pie crust",
+            "ounce can sweetened condensed milk",
+            "½ key lime juice",
+            "ounce package frozen whipped topping thawed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Classic Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "Creamy, sweet, and tart, this classic key lime pie is always a favorite.",
+        "ingredients": [
+            "1 ¼ cups graham cracker crumbs",
+            "2 tablespoons white sugar",
+            "5 tablespoons unsalted butter, melted"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Combine graham cracker crumbs and sugar in a bowl; add melted butter. Mix until evenly moistened; press into the bottom and sides of a 9-inch pie plate. Bake in the preheated oven until crust begins to brown, about 10 minutes. Cool on a wire rack for 15 minutes.",
+            "Whisk sweetened condensed milk, lime juice, and sour cream together in a large bowl until combined; stir in lime zest. Pour filling into crust. Bake until tiny bubbles begin to form on surface of pie, 7 to 10 minutes. Cool completely on a wire rack.",
+            "Beat heavy cream, confectioners' sugar, and vanilla extract in a chilled glass or metal bowl with an electric mixer on medium speed until stiff. Top pie with whipped cream. Chill at least 1 hour before serving. Best served the same day."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 4,
+        "ingredient_text": "¼ graham cracker crumbs white sugar unsalted butter melted",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). combine graham cracker crumbs and sugar in a bowl; add melted butter. mix until evenly moistened; press into the bottom and sides of a 9-inch pie plate. bake in the preheated oven until crust begins to brown, about 10 minutes. cool on a wire rack for 15 minutes. whisk sweetened condensed milk, lime juice, and sour cream together in a large bowl until combined; stir in lime zest. pour filling into crust. bake until tiny bubbles begin to form on surface of pie, 7 to 10 minutes. cool completely on a wire rack. beat heavy cream, confectioners' sugar, and vanilla extract in a chilled glass or metal bowl with an electric mixer on medium speed until stiff. top pie with whipped cream. chill at least 1 hour before serving. best served the same day.",
+        "combined_text": "classic key lime pie key lime pie key lime pie 1 ¼ cups graham cracker crumbs 2 tablespoons white sugar 5 tablespoons unsalted butter, melted preheat the oven to 325 degrees f (165 degrees c). combine graham cracker crumbs and sugar in a bowl; add melted butter. mix until evenly moistened; press into the bottom and sides of a 9-inch pie plate. bake in the preheated oven until crust begins to brown, about 10 minutes. cool on a wire rack for 15 minutes. whisk sweetened condensed milk, lime juice, and sour cream together in a large bowl until combined; stir in lime zest. pour filling into crust. bake until tiny bubbles begin to form on surface of pie, 7 to 10 minutes. cool completely on a wire rack. beat heavy cream, confectioners' sugar, and vanilla extract in a chilled glass or metal bowl with an electric mixer on medium speed until stiff. top pie with whipped cream. chill at least 1 hour before serving. best served the same day.",
+        "ingredients_raw": [
+            "1 ¼ cups graham cracker crumbs",
+            "2 tablespoons white sugar",
+            "5 tablespoons unsalted butter, melted"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Combine graham cracker crumbs and sugar in a bowl; add melted butter. Mix until evenly moistened; press into the bottom and sides of a 9-inch pie plate. Bake in the preheated oven until crust begins to brown, about 10 minutes. Cool on a wire rack for 15 minutes.",
+            "Whisk sweetened condensed milk, lime juice, and sour cream together in a large bowl until combined; stir in lime zest. Pour filling into crust. Bake until tiny bubbles begin to form on surface of pie, 7 to 10 minutes. Cool completely on a wire rack.",
+            "Beat heavy cream, confectioners' sugar, and vanilla extract in a chilled glass or metal bowl with an electric mixer on medium speed until stiff. Top pie with whipped cream. Chill at least 1 hour before serving. Best served the same day."
+        ],
+        "ingredients_canonical": [
+            "¼ graham cracker crumbs",
+            "white sugar",
+            "unsalted butter melted"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "russian",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 40,
+        "health_flags": [
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Key Lime Pie I",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This pie is always well received whenever served - it is light and refreshing and very attractive, too. An all-time favorite! You may substitute the key lime juice with a mixture of 1/4 cup fresh lemon juice and 1/4 cup fresh lime juice.",
+        "ingredients": [
+            "1 cup graham cracker crumbs",
+            "3 tablespoons white sugar",
+            "5 tablespoons butter, melted",
+            "3 eggs",
+            "½ cup key lime juice",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 pinch salt",
+            "1 pinch cream of tartar",
+            "1 cup heavy whipping cream",
+            "1 lime, sliced"
+        ],
+        "directions": [
+            "Preheat oven to 325 degrees F (165 degrees C). Mix graham cracker crumbs with sugar and melted butter. Press into 9 inch pie plate and bake for 5 minutes. Remove from oven and let cool.",
+            "Separate 2 of the eggs, placing the two egg whites into a mixing bowl. Reserve the yolks in another bowl.",
+            "To the yolks, add one whole egg, lime juice and sweetened condensed milk. Whisk until smooth. With clean mixer blades or a whisk attachment, beat the egg whites with salt and cream of tartar until stiff, but not dry. Fold whites into filling mixture. Pour filling into partially baked crust.",
+            "Bake in preheated 325 degrees F (165 degrees C) for 10 to 15 minutes or until set. Let cool at room temperature, then freeze 4 hours to overnight. Just before serving, whip cream to form stiff peaks. Serve decorated with whipped cream and lime slices."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "graham cracker crumbs white sugar butter melted eggs ½ key lime juice ounce can sweetened condensed milk pinch salt pinch cream tartar heavy whipping cream lime sliced",
+        "directions_text": "preheat oven to 325 degrees f (165 degrees c). mix graham cracker crumbs with sugar and melted butter. press into 9 inch pie plate and bake for 5 minutes. remove from oven and let cool. separate 2 of the eggs, placing the two egg whites into a mixing bowl. reserve the yolks in another bowl. to the yolks, add one whole egg, lime juice and sweetened condensed milk. whisk until smooth. with clean mixer blades or a whisk attachment, beat the egg whites with salt and cream of tartar until stiff, but not dry. fold whites into filling mixture. pour filling into partially baked crust. bake in preheated 325 degrees f (165 degrees c) for 10 to 15 minutes or until set. let cool at room temperature, then freeze 4 hours to overnight. just before serving, whip cream to form stiff peaks. serve decorated with whipped cream and lime slices.",
+        "combined_text": "key lime pie i key lime pie key lime pie 1 cup graham cracker crumbs 3 tablespoons white sugar 5 tablespoons butter, melted 3 eggs ½ cup key lime juice 1 (14 ounce) can sweetened condensed milk 1 pinch salt 1 pinch cream of tartar 1 cup heavy whipping cream 1 lime, sliced preheat oven to 325 degrees f (165 degrees c). mix graham cracker crumbs with sugar and melted butter. press into 9 inch pie plate and bake for 5 minutes. remove from oven and let cool. separate 2 of the eggs, placing the two egg whites into a mixing bowl. reserve the yolks in another bowl. to the yolks, add one whole egg, lime juice and sweetened condensed milk. whisk until smooth. with clean mixer blades or a whisk attachment, beat the egg whites with salt and cream of tartar until stiff, but not dry. fold whites into filling mixture. pour filling into partially baked crust. bake in preheated 325 degrees f (165 degrees c) for 10 to 15 minutes or until set. let cool at room temperature, then freeze 4 hours to overnight. just before serving, whip cream to form stiff peaks. serve decorated with whipped cream and lime slices.",
+        "ingredients_raw": [
+            "1 cup graham cracker crumbs",
+            "3 tablespoons white sugar",
+            "5 tablespoons butter, melted",
+            "3 eggs",
+            "½ cup key lime juice",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 pinch salt",
+            "1 pinch cream of tartar",
+            "1 cup heavy whipping cream",
+            "1 lime, sliced"
+        ],
+        "directions_raw": [
+            "Preheat oven to 325 degrees F (165 degrees C). Mix graham cracker crumbs with sugar and melted butter. Press into 9 inch pie plate and bake for 5 minutes. Remove from oven and let cool.",
+            "Separate 2 of the eggs, placing the two egg whites into a mixing bowl. Reserve the yolks in another bowl.",
+            "To the yolks, add one whole egg, lime juice and sweetened condensed milk. Whisk until smooth. With clean mixer blades or a whisk attachment, beat the egg whites with salt and cream of tartar until stiff, but not dry. Fold whites into filling mixture. Pour filling into partially baked crust.",
+            "Bake in preheated 325 degrees F (165 degrees C) for 10 to 15 minutes or until set. Let cool at room temperature, then freeze 4 hours to overnight. Just before serving, whip cream to form stiff peaks. Serve decorated with whipped cream and lime slices."
+        ],
+        "ingredients_canonical": [
+            "graham cracker crumbs",
+            "white sugar",
+            "butter melted",
+            "eggs",
+            "½ key lime juice",
+            "ounce can sweetened condensed milk",
+            "pinch salt",
+            "pinch cream tartar",
+            "heavy whipping cream",
+            "lime sliced"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 4,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 60,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 40,
+        "health_flags": [
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Florida Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "No bake Key Lime pie - easy and sooo goood! Vanilla extract may be substituted with lemon extract.",
+        "ingredients": [
+            "1 (9 inch) prepared graham cracker crust",
+            "2 (8 ounce) packages cream cheese, softened",
+            "2 (14 ounce) cans low-fat sweetened condensed milk",
+            "¾ cup key lime juice",
+            "1 teaspoon grated lime zest",
+            "¼ teaspoon salt",
+            "1 cup heavy cream, chilled",
+            "1 teaspoon vanilla extract",
+            "3 tablespoons confectioners' sugar"
+        ],
+        "directions": [
+            "To Make Lime Filling: In a large mixing bowl, whip cream cheese until fluffy. Add condensed milk, lime juice, lime rind, and salt. Whip until mixture is smooth. Pour into graham cracker crust. Cover with plastic wrap and chill thoroughly.",
+            "To Make Topping: In a medium bowl, whip cream until soft peaks form. Add vanilla or lemon extract and confectioners' sugar. Continue to whip until cream forms stiff peaks. Place topping in a fine-mesh sieve and place sieve over a bowl to catch liquid that drains off. Cover topping tightly with plastic wrap and allow to drain for 2 hours.",
+            "Before serving, discard liquid that has drained from topping. Spread topping over pie."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "inch prepared graham cracker crust ounce packages cream cheese softened ounce cans low-fat sweetened condensed milk ¾ key lime juice grated lime zest ¼ salt heavy cream chilled vanilla extract confectioners sugar",
+        "directions_text": "to make lime filling: in a large mixing bowl, whip cream cheese until fluffy. add condensed milk, lime juice, lime rind, and salt. whip until mixture is smooth. pour into graham cracker crust. cover with plastic wrap and chill thoroughly. to make topping: in a medium bowl, whip cream until soft peaks form. add vanilla or lemon extract and confectioners' sugar. continue to whip until cream forms stiff peaks. place topping in a fine-mesh sieve and place sieve over a bowl to catch liquid that drains off. cover topping tightly with plastic wrap and allow to drain for 2 hours. before serving, discard liquid that has drained from topping. spread topping over pie.",
+        "combined_text": "florida key lime pie key lime pie key lime pie 1 (9 inch) prepared graham cracker crust 2 (8 ounce) packages cream cheese, softened 2 (14 ounce) cans low-fat sweetened condensed milk ¾ cup key lime juice 1 teaspoon grated lime zest ¼ teaspoon salt 1 cup heavy cream, chilled 1 teaspoon vanilla extract 3 tablespoons confectioners' sugar to make lime filling: in a large mixing bowl, whip cream cheese until fluffy. add condensed milk, lime juice, lime rind, and salt. whip until mixture is smooth. pour into graham cracker crust. cover with plastic wrap and chill thoroughly. to make topping: in a medium bowl, whip cream until soft peaks form. add vanilla or lemon extract and confectioners' sugar. continue to whip until cream forms stiff peaks. place topping in a fine-mesh sieve and place sieve over a bowl to catch liquid that drains off. cover topping tightly with plastic wrap and allow to drain for 2 hours. before serving, discard liquid that has drained from topping. spread topping over pie.",
+        "ingredients_raw": [
+            "1 (9 inch) prepared graham cracker crust",
+            "2 (8 ounce) packages cream cheese, softened",
+            "2 (14 ounce) cans low-fat sweetened condensed milk",
+            "¾ cup key lime juice",
+            "1 teaspoon grated lime zest",
+            "¼ teaspoon salt",
+            "1 cup heavy cream, chilled",
+            "1 teaspoon vanilla extract",
+            "3 tablespoons confectioners' sugar"
+        ],
+        "directions_raw": [
+            "To Make Lime Filling: In a large mixing bowl, whip cream cheese until fluffy. Add condensed milk, lime juice, lime rind, and salt. Whip until mixture is smooth. Pour into graham cracker crust. Cover with plastic wrap and chill thoroughly.",
+            "To Make Topping: In a medium bowl, whip cream until soft peaks form. Add vanilla or lemon extract and confectioners' sugar. Continue to whip until cream forms stiff peaks. Place topping in a fine-mesh sieve and place sieve over a bowl to catch liquid that drains off. Cover topping tightly with plastic wrap and allow to drain for 2 hours.",
+            "Before serving, discard liquid that has drained from topping. Spread topping over pie."
+        ],
+        "ingredients_canonical": [
+            "inch prepared graham cracker crust",
+            "ounce packages cream cheese softened",
+            "ounce cans low-fat sweetened condensed milk",
+            "¾ key lime juice",
+            "grated lime zest",
+            "¼ salt",
+            "heavy cream chilled",
+            "vanilla extract",
+            "confectioners sugar"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "greek",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Phoenician's Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "I hope you all enjoy this Key lime pie. When I moved from Lebanon to Florida in the spring of 1999, the famous Key lime pie was new to me. It was a friend's favorite dessert so I kept playing with the recipe to get that wow flavor. I now live in North Bay, Ontario, where we only get Key limes twice a year, so sometimes I substitute them with fresh lime juice.",
+        "ingredients": [
+            "⅔ cup toasted slivered almonds",
+            "1 cup graham cracker crumbs",
+            "¼ cup white sugar",
+            "1 pinch salt",
+            "¼ cup butter, melted"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "To make the crust: Pulse almonds in a food processor until finely ground, then pour into a medium bowl. Add graham cracker crumbs, sugar, and salt. Pour in melted butter and mix until evenly moistened. Press into a 9-inch pie plate.",
+            "Bake in the preheated oven until crust is golden brown, 10 to 13 minutes.",
+            "While crust is baking, make the filling: Beat condensed milk, cream, egg yolks, and lime zest in a large bowl until well combined. Whisk in lime juice, a little at a time, to thicken custard. Pour custard into pie crust.",
+            "Bake until custard is set, about 15 minutes. Cool to room temperature on a wire rack, then cover loosely with plastic wrap and chill in the refrigerator for 8 hours to overnight."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "⅔ toasted slivered almonds graham cracker crumbs ¼ white sugar pinch salt ¼ butter melted",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). to make the crust: pulse almonds in a food processor until finely ground, then pour into a medium bowl. add graham cracker crumbs, sugar, and salt. pour in melted butter and mix until evenly moistened. press into a 9-inch pie plate. bake in the preheated oven until crust is golden brown, 10 to 13 minutes. while crust is baking, make the filling: beat condensed milk, cream, egg yolks, and lime zest in a large bowl until well combined. whisk in lime juice, a little at a time, to thicken custard. pour custard into pie crust. bake until custard is set, about 15 minutes. cool to room temperature on a wire rack, then cover loosely with plastic wrap and chill in the refrigerator for 8 hours to overnight.",
+        "combined_text": "phoenician's key lime pie key lime pie key lime pie ⅔ cup toasted slivered almonds 1 cup graham cracker crumbs ¼ cup white sugar 1 pinch salt ¼ cup butter, melted preheat the oven to 350 degrees f (175 degrees c). to make the crust: pulse almonds in a food processor until finely ground, then pour into a medium bowl. add graham cracker crumbs, sugar, and salt. pour in melted butter and mix until evenly moistened. press into a 9-inch pie plate. bake in the preheated oven until crust is golden brown, 10 to 13 minutes. while crust is baking, make the filling: beat condensed milk, cream, egg yolks, and lime zest in a large bowl until well combined. whisk in lime juice, a little at a time, to thicken custard. pour custard into pie crust. bake until custard is set, about 15 minutes. cool to room temperature on a wire rack, then cover loosely with plastic wrap and chill in the refrigerator for 8 hours to overnight.",
+        "ingredients_raw": [
+            "⅔ cup toasted slivered almonds",
+            "1 cup graham cracker crumbs",
+            "¼ cup white sugar",
+            "1 pinch salt",
+            "¼ cup butter, melted"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "To make the crust: Pulse almonds in a food processor until finely ground, then pour into a medium bowl. Add graham cracker crumbs, sugar, and salt. Pour in melted butter and mix until evenly moistened. Press into a 9-inch pie plate.",
+            "Bake in the preheated oven until crust is golden brown, 10 to 13 minutes.",
+            "While crust is baking, make the filling: Beat condensed milk, cream, egg yolks, and lime zest in a large bowl until well combined. Whisk in lime juice, a little at a time, to thicken custard. Pour custard into pie crust.",
+            "Bake until custard is set, about 15 minutes. Cool to room temperature on a wire rack, then cover loosely with plastic wrap and chill in the refrigerator for 8 hours to overnight."
+        ],
+        "ingredients_canonical": [
+            "⅔ toasted slivered almonds",
+            "graham cracker crumbs",
+            "¼ white sugar",
+            "pinch salt",
+            "¼ butter melted"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "british",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 51,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Key Lime Pie VI",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "A Key Lime Pie made without sweetened condensed milk. It really enhances the flavor of the lime.",
+        "ingredients": [
+            "1 cup white sugar",
+            "¼ cup all-purpose flour",
+            "3 tablespoons cornstarch",
+            "¼ teaspoon salt",
+            "2 cups water",
+            "3 eggs",
+            "1 tablespoon butter",
+            "¼ cup key lime juice",
+            "1 tablespoon grated lime zest",
+            "1 (9 inch) pie crust, baked",
+            "¼ teaspoon cream of tartar",
+            "6 tablespoons white sugar"
+        ],
+        "directions": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Separate the eggs. Beat the egg yolks and set the whites aside.",
+            "Combine the 1 cup white sugar, flour, cornstarch and salt in a saucepan. Gradually stir in the water. Cook over medium heat until thickened.",
+            "Gradually stir the cooked sugar mixture into the beaten egg yolks, beating constantly. Return the mixture to low heat and cook, stirring constantly, for 2 minutes. Stir in the butter, lime juice and lime zest. Let mixture cool slightly.",
+            "Beat egg whites until light and frothy. Add the cream of tartar and continue beating until stiff peaks form. Gradually beat in the remaining 6 tablespoons white sugar and beat until the meringue is stiff and glossy.",
+            "Pour the lime filling into the prepared pie shell. Then pile the meringue on top, spreading it until it touches the edges of the pastry to prevent the meringue from shrinking. Bake pie at 425 degrees F (220 degrees C) for 5 to 6 minutes or until meringue top is golden brown."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 6,
+        "ingredient_text": "white sugar ¼ all-purpose flour cornstarch ¼ salt water eggs butter ¼ key lime juice grated lime zest inch pie crust baked ¼ cream tartar white sugar",
+        "directions_text": "preheat oven to 425 degrees f (220 degrees c). separate the eggs. beat the egg yolks and set the whites aside. combine the 1 cup white sugar, flour, cornstarch and salt in a saucepan. gradually stir in the water. cook over medium heat until thickened. gradually stir the cooked sugar mixture into the beaten egg yolks, beating constantly. return the mixture to low heat and cook, stirring constantly, for 2 minutes. stir in the butter, lime juice and lime zest. let mixture cool slightly. beat egg whites until light and frothy. add the cream of tartar and continue beating until stiff peaks form. gradually beat in the remaining 6 tablespoons white sugar and beat until the meringue is stiff and glossy. pour the lime filling into the prepared pie shell. then pile the meringue on top, spreading it until it touches the edges of the pastry to prevent the meringue from shrinking. bake pie at 425 degrees f (220 degrees c) for 5 to 6 minutes or until meringue top is golden brown.",
+        "combined_text": "key lime pie vi key lime pie key lime pie 1 cup white sugar ¼ cup all-purpose flour 3 tablespoons cornstarch ¼ teaspoon salt 2 cups water 3 eggs 1 tablespoon butter ¼ cup key lime juice 1 tablespoon grated lime zest 1 (9 inch) pie crust, baked ¼ teaspoon cream of tartar 6 tablespoons white sugar preheat oven to 425 degrees f (220 degrees c). separate the eggs. beat the egg yolks and set the whites aside. combine the 1 cup white sugar, flour, cornstarch and salt in a saucepan. gradually stir in the water. cook over medium heat until thickened. gradually stir the cooked sugar mixture into the beaten egg yolks, beating constantly. return the mixture to low heat and cook, stirring constantly, for 2 minutes. stir in the butter, lime juice and lime zest. let mixture cool slightly. beat egg whites until light and frothy. add the cream of tartar and continue beating until stiff peaks form. gradually beat in the remaining 6 tablespoons white sugar and beat until the meringue is stiff and glossy. pour the lime filling into the prepared pie shell. then pile the meringue on top, spreading it until it touches the edges of the pastry to prevent the meringue from shrinking. bake pie at 425 degrees f (220 degrees c) for 5 to 6 minutes or until meringue top is golden brown.",
+        "ingredients_raw": [
+            "1 cup white sugar",
+            "¼ cup all-purpose flour",
+            "3 tablespoons cornstarch",
+            "¼ teaspoon salt",
+            "2 cups water",
+            "3 eggs",
+            "1 tablespoon butter",
+            "¼ cup key lime juice",
+            "1 tablespoon grated lime zest",
+            "1 (9 inch) pie crust, baked",
+            "¼ teaspoon cream of tartar",
+            "6 tablespoons white sugar"
+        ],
+        "directions_raw": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Separate the eggs. Beat the egg yolks and set the whites aside.",
+            "Combine the 1 cup white sugar, flour, cornstarch and salt in a saucepan. Gradually stir in the water. Cook over medium heat until thickened.",
+            "Gradually stir the cooked sugar mixture into the beaten egg yolks, beating constantly. Return the mixture to low heat and cook, stirring constantly, for 2 minutes. Stir in the butter, lime juice and lime zest. Let mixture cool slightly.",
+            "Beat egg whites until light and frothy. Add the cream of tartar and continue beating until stiff peaks form. Gradually beat in the remaining 6 tablespoons white sugar and beat until the meringue is stiff and glossy.",
+            "Pour the lime filling into the prepared pie shell. Then pile the meringue on top, spreading it until it touches the edges of the pastry to prevent the meringue from shrinking. Bake pie at 425 degrees F (220 degrees C) for 5 to 6 minutes or until meringue top is golden brown."
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "¼ all-purpose flour",
+            "cornstarch",
+            "¼ salt",
+            "water",
+            "eggs",
+            "butter",
+            "¼ key lime juice",
+            "grated lime zest",
+            "inch pie crust baked",
+            "¼ cream tartar",
+            "white sugar"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 12,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 28,
+        "est_cook_time_min": 50,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "No Bake Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This is a quick and easy refreshing pie. It may be served either chilled or frozen! Graham cracker pie crust can be used instead of a baked pie crust.",
+        "ingredients": [
+            "1 (12 fluid ounce) can frozen lemonade concentrate",
+            "½ cup water",
+            "1 (3 ounce) package lime flavored Jell-O® mix",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 (8 ounce) container frozen whipped topping, thawed",
+            "1 (9 inch) pie crust, baked"
+        ],
+        "directions": [
+            "Heat the lemonade and the water to boiling. Add the gelatin and the cream cheese and blend well.",
+            "Fold in the non-dairy whipped topping.",
+            "Pour mixture into the pie shell and chill or freeze. It's a breeze!"
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "fluid ounce can frozen lemonade concentrate ½ water ounce package lime flavored jell-o mix ounce package cream cheese softened ounce container frozen whipped topping thawed inch pie crust baked",
+        "directions_text": "heat the lemonade and the water to boiling. add the gelatin and the cream cheese and blend well. fold in the non-dairy whipped topping. pour mixture into the pie shell and chill or freeze. it's a breeze!",
+        "combined_text": "no bake key lime pie key lime pie key lime pie 1 (12 fluid ounce) can frozen lemonade concentrate ½ cup water 1 (3 ounce) package lime flavored jell-o® mix 1 (8 ounce) package cream cheese, softened 1 (8 ounce) container frozen whipped topping, thawed 1 (9 inch) pie crust, baked heat the lemonade and the water to boiling. add the gelatin and the cream cheese and blend well. fold in the non-dairy whipped topping. pour mixture into the pie shell and chill or freeze. it's a breeze!",
+        "ingredients_raw": [
+            "1 (12 fluid ounce) can frozen lemonade concentrate",
+            "½ cup water",
+            "1 (3 ounce) package lime flavored Jell-O® mix",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 (8 ounce) container frozen whipped topping, thawed",
+            "1 (9 inch) pie crust, baked"
+        ],
+        "directions_raw": [
+            "Heat the lemonade and the water to boiling. Add the gelatin and the cream cheese and blend well.",
+            "Fold in the non-dairy whipped topping.",
+            "Pour mixture into the pie shell and chill or freeze. It's a breeze!"
+        ],
+        "ingredients_canonical": [
+            "fluid ounce can frozen lemonade concentrate",
+            "½ water",
+            "ounce package lime flavored jell-o mix",
+            "ounce package cream cheese softened",
+            "ounce container frozen whipped topping thawed",
+            "inch pie crust baked"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 14,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Key Lime Pie VIII",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This is extremely easy and the crust doesn't get all soggy the second day. Fat-free ingredients work well. Garnish each slice with a dollop of whipped topping if you like.",
+        "ingredients": [
+            "1 (10 inch) pie crust, baked and cooled",
+            "1 tablespoon grated lime zest",
+            "1 cup fresh lime juice",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 (3.5 ounce) package instant vanilla pudding mix",
+            "1 (8 ounce) container frozen whipped topping, thawed"
+        ],
+        "directions": [
+            "In a large bowl, mix together lime rind, lime juice, and condensed milk. Whisk in pudding mix and allow to set up 5 minutes. Fold in 8 ounce tub of whipped topping. Pour mixture into pastry shell. Chill at least 2 hours before serving. Garnish with additional whipped topping if desired."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 1,
+        "ingredient_text": "inch pie crust baked cooled grated lime zest fresh lime juice ounce can sweetened condensed milk ounce package instant vanilla pudding mix ounce container frozen whipped topping thawed",
+        "directions_text": "in a large bowl, mix together lime rind, lime juice, and condensed milk. whisk in pudding mix and allow to set up 5 minutes. fold in 8 ounce tub of whipped topping. pour mixture into pastry shell. chill at least 2 hours before serving. garnish with additional whipped topping if desired.",
+        "combined_text": "key lime pie viii key lime pie key lime pie 1 (10 inch) pie crust, baked and cooled 1 tablespoon grated lime zest 1 cup fresh lime juice 1 (14 ounce) can sweetened condensed milk 1 (3.5 ounce) package instant vanilla pudding mix 1 (8 ounce) container frozen whipped topping, thawed in a large bowl, mix together lime rind, lime juice, and condensed milk. whisk in pudding mix and allow to set up 5 minutes. fold in 8 ounce tub of whipped topping. pour mixture into pastry shell. chill at least 2 hours before serving. garnish with additional whipped topping if desired.",
+        "ingredients_raw": [
+            "1 (10 inch) pie crust, baked and cooled",
+            "1 tablespoon grated lime zest",
+            "1 cup fresh lime juice",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 (3.5 ounce) package instant vanilla pudding mix",
+            "1 (8 ounce) container frozen whipped topping, thawed"
+        ],
+        "directions_raw": [
+            "In a large bowl, mix together lime rind, lime juice, and condensed milk. Whisk in pudding mix and allow to set up 5 minutes. Fold in 8 ounce tub of whipped topping. Pour mixture into pastry shell. Chill at least 2 hours before serving. Garnish with additional whipped topping if desired."
+        ],
+        "ingredients_canonical": [
+            "inch pie crust baked cooled",
+            "grated lime zest",
+            "fresh lime juice",
+            "ounce can sweetened condensed milk",
+            "ounce package instant vanilla pudding mix",
+            "ounce container frozen whipped topping thawed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "british",
+            "caribbean",
+            "european",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Traditional Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This traditional Key lime pie recipe is as authentic as it gets. I am a Florida native who had Key lime trees in the back yard. A real Key lime pie is plain and simple. This is the recipe I grew up with. I hope you like it.",
+        "ingredients": [
+            "2 (14 ounce) cans sweetened condensed milk",
+            "4 jumbo egg yolks",
+            "½ cup Key lime juice",
+            "1 (8 inch) graham cracker crust"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Whisk condensed milk and egg yolks together in a large mixing bowl. Mix in Key lime juice; mixture will be thin at first but will thicken as it is whisked. Whisk until smooth and thick. Pour into the graham cracker crust.",
+            "Bake in the preheated oven until filling is firm to the touch and only slightly jiggly in the center, 12 to 15 minutes.",
+            "Cool to room temperature, then refrigerate before serving, 5 hours to overnight."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 4,
+        "ingredient_text": "ounce cans sweetened condensed milk jumbo egg yolks ½ key lime juice inch graham cracker crust",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). whisk condensed milk and egg yolks together in a large mixing bowl. mix in key lime juice; mixture will be thin at first but will thicken as it is whisked. whisk until smooth and thick. pour into the graham cracker crust. bake in the preheated oven until filling is firm to the touch and only slightly jiggly in the center, 12 to 15 minutes. cool to room temperature, then refrigerate before serving, 5 hours to overnight.",
+        "combined_text": "traditional key lime pie key lime pie key lime pie 2 (14 ounce) cans sweetened condensed milk 4 jumbo egg yolks ½ cup key lime juice 1 (8 inch) graham cracker crust preheat the oven to 350 degrees f (175 degrees c). whisk condensed milk and egg yolks together in a large mixing bowl. mix in key lime juice; mixture will be thin at first but will thicken as it is whisked. whisk until smooth and thick. pour into the graham cracker crust. bake in the preheated oven until filling is firm to the touch and only slightly jiggly in the center, 12 to 15 minutes. cool to room temperature, then refrigerate before serving, 5 hours to overnight.",
+        "ingredients_raw": [
+            "2 (14 ounce) cans sweetened condensed milk",
+            "4 jumbo egg yolks",
+            "½ cup Key lime juice",
+            "1 (8 inch) graham cracker crust"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Whisk condensed milk and egg yolks together in a large mixing bowl. Mix in Key lime juice; mixture will be thin at first but will thicken as it is whisked. Whisk until smooth and thick. Pour into the graham cracker crust.",
+            "Bake in the preheated oven until filling is firm to the touch and only slightly jiggly in the center, 12 to 15 minutes.",
+            "Cool to room temperature, then refrigerate before serving, 5 hours to overnight."
+        ],
+        "ingredients_canonical": [
+            "ounce cans sweetened condensed milk",
+            "jumbo egg yolks",
+            "½ key lime juice",
+            "inch graham cracker crust"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 48,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Individual No-Bake Key Lime Pies",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "Tart, creamy, light, and sweet. The perfect dessert after a heavy meal or barbecue! This is the smaller version of the pie I make every summer. It couldn't be easier and tastes just like real key lime pie--but no eggs or baking required!",
+        "ingredients": [
+            "1 cup graham cracker crumbs",
+            "2 tablespoons graham cracker crumbs",
+            "⅓ cup butter, melted",
+            "¼ cup white sugar",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 (8 ounce) container frozen whipped topping, thawed",
+            "½ (12 fluid ounce) can frozen limeade concentrate",
+            "1 medium lime, zested",
+            "1 medium lime, sliced"
+        ],
+        "directions": [
+            "Line a 12-cup muffin tin with paper liners.",
+            "Combine 1 cup plus 2 tablespoons graham cracker crumbs, melted butter, and sugar in a medium bowl. Stir well until consistency is like slightly wet sand. Press mixture into the prepared muffin cups and refrigerate for 15 minutes.",
+            "Whisk condensed milk, whipped topping, limeade concentrate, and lime zest in a medium bowl until smooth, thick, and creamy. Fill each muffin cup to the top with lime mixture, reserving any extra for another use. Freeze at least 2 hours or until ready to serve.",
+            "Garnish with lime slices."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "graham cracker crumbs graham cracker crumbs ⅓ butter melted ¼ white sugar ounce can sweetened condensed milk ounce container frozen whipped topping thawed ½ fluid ounce can frozen limeade concentrate medium lime zested medium lime sliced",
+        "directions_text": "line a 12-cup muffin tin with paper liners. combine 1 cup plus 2 tablespoons graham cracker crumbs, melted butter, and sugar in a medium bowl. stir well until consistency is like slightly wet sand. press mixture into the prepared muffin cups and refrigerate for 15 minutes. whisk condensed milk, whipped topping, limeade concentrate, and lime zest in a medium bowl until smooth, thick, and creamy. fill each muffin cup to the top with lime mixture, reserving any extra for another use. freeze at least 2 hours or until ready to serve. garnish with lime slices.",
+        "combined_text": "individual no-bake key lime pies key lime pie key lime pie 1 cup graham cracker crumbs 2 tablespoons graham cracker crumbs ⅓ cup butter, melted ¼ cup white sugar 1 (14 ounce) can sweetened condensed milk 1 (8 ounce) container frozen whipped topping, thawed ½ (12 fluid ounce) can frozen limeade concentrate 1 medium lime, zested 1 medium lime, sliced line a 12-cup muffin tin with paper liners. combine 1 cup plus 2 tablespoons graham cracker crumbs, melted butter, and sugar in a medium bowl. stir well until consistency is like slightly wet sand. press mixture into the prepared muffin cups and refrigerate for 15 minutes. whisk condensed milk, whipped topping, limeade concentrate, and lime zest in a medium bowl until smooth, thick, and creamy. fill each muffin cup to the top with lime mixture, reserving any extra for another use. freeze at least 2 hours or until ready to serve. garnish with lime slices.",
+        "ingredients_raw": [
+            "1 cup graham cracker crumbs",
+            "2 tablespoons graham cracker crumbs",
+            "⅓ cup butter, melted",
+            "¼ cup white sugar",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 (8 ounce) container frozen whipped topping, thawed",
+            "½ (12 fluid ounce) can frozen limeade concentrate",
+            "1 medium lime, zested",
+            "1 medium lime, sliced"
+        ],
+        "directions_raw": [
+            "Line a 12-cup muffin tin with paper liners.",
+            "Combine 1 cup plus 2 tablespoons graham cracker crumbs, melted butter, and sugar in a medium bowl. Stir well until consistency is like slightly wet sand. Press mixture into the prepared muffin cups and refrigerate for 15 minutes.",
+            "Whisk condensed milk, whipped topping, limeade concentrate, and lime zest in a medium bowl until smooth, thick, and creamy. Fill each muffin cup to the top with lime mixture, reserving any extra for another use. Freeze at least 2 hours or until ready to serve.",
+            "Garnish with lime slices."
+        ],
+        "ingredients_canonical": [
+            "graham cracker crumbs",
+            "graham cracker crumbs",
+            "⅓ butter melted",
+            "¼ white sugar",
+            "ounce can sweetened condensed milk",
+            "ounce container frozen whipped topping thawed",
+            "½ fluid ounce can frozen limeade concentrate",
+            "medium lime zested",
+            "medium lime sliced"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 40,
+        "health_flags": [
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Key Lime Pie - Low Carb Version",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "A delicious, low-carb pie that actually tastes great! You, your family and friends will love this one.",
+        "ingredients": [
+            "1 cup ground pecans",
+            "3 tablespoons butter, melted",
+            "2 (1 gram) packets Splenda® no calorie sweetener",
+            "½ teaspoon coconut extract",
+            "½ cup heavy cream",
+            "2 (1 gram) packets Splenda® no calorie sweetener",
+            "1 (.6 ounce) package sugar-free lime-flavor Jell-O®",
+            "⅓ cup boiling water",
+            "⅓ cup cold water",
+            "2 (8 ounce) packages cream cheese, cut into pieces and softened",
+            "½ teaspoon coconut extract",
+            "2 tablespoons ground pecans"
+        ],
+        "directions": [
+            "In a medium bowl, mix together 1 cup ground pecans, butter, 2 packets sweetener, and 1/2 teaspoon coconut extract. Press firmly into bottom and up sides of an 8 inch pie plate; refrigerate until firm.",
+            "In a small bowl, whip the heavy cream with 2 packets sweetener until soft peaks form. Set aside.",
+            "In a large bowl with high sides, mix the gelatin with boiling water until all the gelatin has dissolved. Then stir in the cold water. With an electric mixer, slowly beat in the cream cheese. After all cream cheese is added, stir in remaining 1/2 teaspoon coconut extract, and beat at high speed until smooth. Carefully fold in the whipped cream. Use a spatula to scrape mixture into the pie pan and spread around. Sprinkle remaining 2 tablespoons ground nuts on top. Refrigerate several hours or overnight to allow gelatin to set thoroughly."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 3,
+        "ingredient_text": "ground pecans butter melted packets splenda no calorie sweetener ½ coconut extract ½ heavy cream packets splenda no calorie sweetener ounce package sugar-free lime-flavor jell-o ⅓ boiling water ⅓ cold water ounce packages cream cheese cut into pieces softened ½ coconut extract ground pecans",
+        "directions_text": "in a medium bowl, mix together 1 cup ground pecans, butter, 2 packets sweetener, and 1/2 teaspoon coconut extract. press firmly into bottom and up sides of an 8 inch pie plate; refrigerate until firm. in a small bowl, whip the heavy cream with 2 packets sweetener until soft peaks form. set aside. in a large bowl with high sides, mix the gelatin with boiling water until all the gelatin has dissolved. then stir in the cold water. with an electric mixer, slowly beat in the cream cheese. after all cream cheese is added, stir in remaining 1/2 teaspoon coconut extract, and beat at high speed until smooth. carefully fold in the whipped cream. use a spatula to scrape mixture into the pie pan and spread around. sprinkle remaining 2 tablespoons ground nuts on top. refrigerate several hours or overnight to allow gelatin to set thoroughly.",
+        "combined_text": "key lime pie - low carb version key lime pie key lime pie 1 cup ground pecans 3 tablespoons butter, melted 2 (1 gram) packets splenda® no calorie sweetener ½ teaspoon coconut extract ½ cup heavy cream 2 (1 gram) packets splenda® no calorie sweetener 1 (.6 ounce) package sugar-free lime-flavor jell-o® ⅓ cup boiling water ⅓ cup cold water 2 (8 ounce) packages cream cheese, cut into pieces and softened ½ teaspoon coconut extract 2 tablespoons ground pecans in a medium bowl, mix together 1 cup ground pecans, butter, 2 packets sweetener, and 1/2 teaspoon coconut extract. press firmly into bottom and up sides of an 8 inch pie plate; refrigerate until firm. in a small bowl, whip the heavy cream with 2 packets sweetener until soft peaks form. set aside. in a large bowl with high sides, mix the gelatin with boiling water until all the gelatin has dissolved. then stir in the cold water. with an electric mixer, slowly beat in the cream cheese. after all cream cheese is added, stir in remaining 1/2 teaspoon coconut extract, and beat at high speed until smooth. carefully fold in the whipped cream. use a spatula to scrape mixture into the pie pan and spread around. sprinkle remaining 2 tablespoons ground nuts on top. refrigerate several hours or overnight to allow gelatin to set thoroughly.",
+        "ingredients_raw": [
+            "1 cup ground pecans",
+            "3 tablespoons butter, melted",
+            "2 (1 gram) packets Splenda® no calorie sweetener",
+            "½ teaspoon coconut extract",
+            "½ cup heavy cream",
+            "2 (1 gram) packets Splenda® no calorie sweetener",
+            "1 (.6 ounce) package sugar-free lime-flavor Jell-O®",
+            "⅓ cup boiling water",
+            "⅓ cup cold water",
+            "2 (8 ounce) packages cream cheese, cut into pieces and softened",
+            "½ teaspoon coconut extract",
+            "2 tablespoons ground pecans"
+        ],
+        "directions_raw": [
+            "In a medium bowl, mix together 1 cup ground pecans, butter, 2 packets sweetener, and 1/2 teaspoon coconut extract. Press firmly into bottom and up sides of an 8 inch pie plate; refrigerate until firm.",
+            "In a small bowl, whip the heavy cream with 2 packets sweetener until soft peaks form. Set aside.",
+            "In a large bowl with high sides, mix the gelatin with boiling water until all the gelatin has dissolved. Then stir in the cold water. With an electric mixer, slowly beat in the cream cheese. After all cream cheese is added, stir in remaining 1/2 teaspoon coconut extract, and beat at high speed until smooth. Carefully fold in the whipped cream. Use a spatula to scrape mixture into the pie pan and spread around. Sprinkle remaining 2 tablespoons ground nuts on top. Refrigerate several hours or overnight to allow gelatin to set thoroughly."
+        ],
+        "ingredients_canonical": [
+            "ground pecans",
+            "butter melted",
+            "packets splenda no calorie sweetener",
+            "½ coconut extract",
+            "½ heavy cream",
+            "packets splenda no calorie sweetener",
+            "ounce package sugar-free lime-flavor jell-o",
+            "⅓ boiling water",
+            "⅓ cold water",
+            "ounce packages cream cheese cut into pieces softened",
+            "½ coconut extract",
+            "ground pecans"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Key Lime Pie IV",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "Easy pie! You can substitute a prepared shortbread or graham cracker crust for the pastry crust, if you like.",
+        "ingredients": [
+            "1 (14 ounce) can sweetened condensed milk",
+            "4 tablespoons fresh lime juice",
+            "4 tablespoons lemon juice",
+            "3 drops green food coloring",
+            "1 cup heavy whipping cream",
+            "1 (9 inch) pie shell, baked"
+        ],
+        "directions": [
+            "Combine milk, lime juice, lemon juice, and food coloring. This mixture will thicken.",
+            "Whip the cream until stiff. Fold into lime mixture. Pour into pie shell. Chill."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "ounce can sweetened condensed milk fresh lime juice lemon juice drops green food coloring heavy whipping cream inch pie shell baked",
+        "directions_text": "combine milk, lime juice, lemon juice, and food coloring. this mixture will thicken. whip the cream until stiff. fold into lime mixture. pour into pie shell. chill.",
+        "combined_text": "key lime pie iv key lime pie key lime pie 1 (14 ounce) can sweetened condensed milk 4 tablespoons fresh lime juice 4 tablespoons lemon juice 3 drops green food coloring 1 cup heavy whipping cream 1 (9 inch) pie shell, baked combine milk, lime juice, lemon juice, and food coloring. this mixture will thicken. whip the cream until stiff. fold into lime mixture. pour into pie shell. chill.",
+        "ingredients_raw": [
+            "1 (14 ounce) can sweetened condensed milk",
+            "4 tablespoons fresh lime juice",
+            "4 tablespoons lemon juice",
+            "3 drops green food coloring",
+            "1 cup heavy whipping cream",
+            "1 (9 inch) pie shell, baked"
+        ],
+        "directions_raw": [
+            "Combine milk, lime juice, lemon juice, and food coloring. This mixture will thicken.",
+            "Whip the cream until stiff. Fold into lime mixture. Pour into pie shell. Chill."
+        ],
+        "ingredients_canonical": [
+            "ounce can sweetened condensed milk",
+            "fresh lime juice",
+            "lemon juice",
+            "drops green food coloring",
+            "heavy whipping cream",
+            "inch pie shell baked"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "greek",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Frozen Key Lime Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This frozen key lime pie recipe is very easy to make, light, and not to mention delicious! It's a great summer refresher. Be sure to use only fresh eggs for this recipe.",
+        "ingredients": [
+            "4 large eggs, separated",
+            "1 (5 ounce) can sweetened condensed milk",
+            "¼ cup Key lime juice",
+            "¼ cup white sugar",
+            "¼ teaspoon cream of tartar",
+            "1 (9 inch) prepared graham cracker crust"
+        ],
+        "directions": [
+            "Beat egg yolks in a large bowl until very light and fluffy. Add sweetened condensed milk; beat until doubled in volume. Beat in lime juice; refrigerate yolk mixture until ready to use.",
+            "Beat egg whites in a large glass or metal bowl with an electric mixer until foamy; gradually add sugar and cream of tartar, continuing to beat until stiff peaks form.",
+            "Gently fold egg whites into yolk mixture until well blended; pour into crust and freeze. Serve frozen."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "large eggs separated ounce can sweetened condensed milk ¼ key lime juice ¼ white sugar ¼ cream tartar inch prepared graham cracker crust",
+        "directions_text": "beat egg yolks in a large bowl until very light and fluffy. add sweetened condensed milk; beat until doubled in volume. beat in lime juice; refrigerate yolk mixture until ready to use. beat egg whites in a large glass or metal bowl with an electric mixer until foamy; gradually add sugar and cream of tartar, continuing to beat until stiff peaks form. gently fold egg whites into yolk mixture until well blended; pour into crust and freeze. serve frozen.",
+        "combined_text": "frozen key lime pie key lime pie key lime pie 4 large eggs, separated 1 (5 ounce) can sweetened condensed milk ¼ cup key lime juice ¼ cup white sugar ¼ teaspoon cream of tartar 1 (9 inch) prepared graham cracker crust beat egg yolks in a large bowl until very light and fluffy. add sweetened condensed milk; beat until doubled in volume. beat in lime juice; refrigerate yolk mixture until ready to use. beat egg whites in a large glass or metal bowl with an electric mixer until foamy; gradually add sugar and cream of tartar, continuing to beat until stiff peaks form. gently fold egg whites into yolk mixture until well blended; pour into crust and freeze. serve frozen.",
+        "ingredients_raw": [
+            "4 large eggs, separated",
+            "1 (5 ounce) can sweetened condensed milk",
+            "¼ cup Key lime juice",
+            "¼ cup white sugar",
+            "¼ teaspoon cream of tartar",
+            "1 (9 inch) prepared graham cracker crust"
+        ],
+        "directions_raw": [
+            "Beat egg yolks in a large bowl until very light and fluffy. Add sweetened condensed milk; beat until doubled in volume. Beat in lime juice; refrigerate yolk mixture until ready to use.",
+            "Beat egg whites in a large glass or metal bowl with an electric mixer until foamy; gradually add sugar and cream of tartar, continuing to beat until stiff peaks form.",
+            "Gently fold egg whites into yolk mixture until well blended; pour into crust and freeze. Serve frozen."
+        ],
+        "ingredients_canonical": [
+            "large eggs separated",
+            "ounce can sweetened condensed milk",
+            "¼ key lime juice",
+            "¼ white sugar",
+            "¼ cream tartar",
+            "inch prepared graham cracker crust"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Key Lime and Raspberry Pies in Jars",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This Key lime and raspberry pies in jars recipe yields pretty, pastel, portable pies in jars. So refreshing, this recipe will quickly become your spring and summertime favorite dessert!",
+        "ingredients": [
+            "12 graham crackers",
+            "2 tablespoons white sugar",
+            "6 tablespoons unsalted butter, melted",
+            "6 half-pint) canning jars",
+            "1 (14 ounce) can sweetened condensed milk",
+            "4 egg yolks",
+            "1 tablespoon grated lime zest, divided",
+            "½ cup fresh lime juice",
+            "½ cup heavy cream",
+            "1 teaspoon white sugar",
+            "1 cup fresh raspberries"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a small pie plate with parchment paper.",
+            "Place graham crackers and 2 tablespoons sugar in the bowl of a food processor; pulse until mixture resembles coarse crumbs. Add melted butter; pulse until combined.",
+            "Press 2 tablespoons graham cracker crumbles into bottom of each jar; place jars on a large, rimmed baking sheet. Press remaining graham mixture into bottom of the prepared pie plate.",
+            "Place baking sheet with jars and pie plate in the preheated oven; bake until graham cracker mixture is golden brown, 12 to 15 minutes. Cool on wire rack. Break up graham cracker crust in pie plate into crumbles or pieces; set aside.",
+            "Reduce the oven temperature to 350 degrees F (175 degrees C).",
+            "Whisk sweetened condensed milk and egg yolks together in a large bowl until smooth; whisk in 1 ½ teaspoons lime zest and lime juice until combined. Pour into cooled jars.",
+            "Bake in the preheated oven until lime mixture has just set, 10 to 12 minutes. Cool on a wire rack, then chill in the refrigerator.",
+            "Beat heavy cream and 1 teaspoon sugar in a bowl with an electric mixer until stiff peaks form.",
+            "Divide raspberries, whipped cream, reserved graham cracker crust crumbles, and remaining 1 ½ teaspoons lime zest among jars."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 9,
+        "ingredient_text": "graham crackers white sugar unsalted butter melted half-pint canning jars ounce can sweetened condensed milk egg yolks grated lime zest divided ½ fresh lime juice ½ heavy cream white sugar fresh raspberries",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). line a small pie plate with parchment paper. place graham crackers and 2 tablespoons sugar in the bowl of a food processor; pulse until mixture resembles coarse crumbs. add melted butter; pulse until combined. press 2 tablespoons graham cracker crumbles into bottom of each jar; place jars on a large, rimmed baking sheet. press remaining graham mixture into bottom of the prepared pie plate. place baking sheet with jars and pie plate in the preheated oven; bake until graham cracker mixture is golden brown, 12 to 15 minutes. cool on wire rack. break up graham cracker crust in pie plate into crumbles or pieces; set aside. reduce the oven temperature to 350 degrees f (175 degrees c). whisk sweetened condensed milk and egg yolks together in a large bowl until smooth; whisk in 1 ½ teaspoons lime zest and lime juice until combined. pour into cooled jars. bake in the preheated oven until lime mixture has just set, 10 to 12 minutes. cool on a wire rack, then chill in the refrigerator. beat heavy cream and 1 teaspoon sugar in a bowl with an electric mixer until stiff peaks form. divide raspberries, whipped cream, reserved graham cracker crust crumbles, and remaining 1 ½ teaspoons lime zest among jars.",
+        "combined_text": "key lime and raspberry pies in jars key lime pie key lime pie 12 graham crackers 2 tablespoons white sugar 6 tablespoons unsalted butter, melted 6 half-pint) canning jars 1 (14 ounce) can sweetened condensed milk 4 egg yolks 1 tablespoon grated lime zest, divided ½ cup fresh lime juice ½ cup heavy cream 1 teaspoon white sugar 1 cup fresh raspberries preheat the oven to 375 degrees f (190 degrees c). line a small pie plate with parchment paper. place graham crackers and 2 tablespoons sugar in the bowl of a food processor; pulse until mixture resembles coarse crumbs. add melted butter; pulse until combined. press 2 tablespoons graham cracker crumbles into bottom of each jar; place jars on a large, rimmed baking sheet. press remaining graham mixture into bottom of the prepared pie plate. place baking sheet with jars and pie plate in the preheated oven; bake until graham cracker mixture is golden brown, 12 to 15 minutes. cool on wire rack. break up graham cracker crust in pie plate into crumbles or pieces; set aside. reduce the oven temperature to 350 degrees f (175 degrees c). whisk sweetened condensed milk and egg yolks together in a large bowl until smooth; whisk in 1 ½ teaspoons lime zest and lime juice until combined. pour into cooled jars. bake in the preheated oven until lime mixture has just set, 10 to 12 minutes. cool on a wire rack, then chill in the refrigerator. beat heavy cream and 1 teaspoon sugar in a bowl with an electric mixer until stiff peaks form. divide raspberries, whipped cream, reserved graham cracker crust crumbles, and remaining 1 ½ teaspoons lime zest among jars.",
+        "ingredients_raw": [
+            "12 graham crackers",
+            "2 tablespoons white sugar",
+            "6 tablespoons unsalted butter, melted",
+            "6 half-pint) canning jars",
+            "1 (14 ounce) can sweetened condensed milk",
+            "4 egg yolks",
+            "1 tablespoon grated lime zest, divided",
+            "½ cup fresh lime juice",
+            "½ cup heavy cream",
+            "1 teaspoon white sugar",
+            "1 cup fresh raspberries"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a small pie plate with parchment paper.",
+            "Place graham crackers and 2 tablespoons sugar in the bowl of a food processor; pulse until mixture resembles coarse crumbs. Add melted butter; pulse until combined.",
+            "Press 2 tablespoons graham cracker crumbles into bottom of each jar; place jars on a large, rimmed baking sheet. Press remaining graham mixture into bottom of the prepared pie plate.",
+            "Place baking sheet with jars and pie plate in the preheated oven; bake until graham cracker mixture is golden brown, 12 to 15 minutes. Cool on wire rack. Break up graham cracker crust in pie plate into crumbles or pieces; set aside.",
+            "Reduce the oven temperature to 350 degrees F (175 degrees C).",
+            "Whisk sweetened condensed milk and egg yolks together in a large bowl until smooth; whisk in 1 ½ teaspoons lime zest and lime juice until combined. Pour into cooled jars.",
+            "Bake in the preheated oven until lime mixture has just set, 10 to 12 minutes. Cool on a wire rack, then chill in the refrigerator.",
+            "Beat heavy cream and 1 teaspoon sugar in a bowl with an electric mixer until stiff peaks form.",
+            "Divide raspberries, whipped cream, reserved graham cracker crust crumbles, and remaining 1 ½ teaspoons lime zest among jars."
+        ],
+        "ingredients_canonical": [
+            "graham crackers",
+            "white sugar",
+            "unsalted butter melted",
+            "half-pint canning jars",
+            "ounce can sweetened condensed milk",
+            "egg yolks",
+            "grated lime zest divided",
+            "½ fresh lime juice",
+            "½ heavy cream",
+            "white sugar",
+            "fresh raspberries"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 78,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 44,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Easy Key Lime Pie II",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "A very refreshing, easy Florida specialty pie!",
+        "ingredients": [
+            "1 (9 inch) prepared graham cracker crust",
+            "3 eggs, separated",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 teaspoon grated lime zest",
+            "⅓ cup fresh lime juice",
+            "1 cup frozen whipped topping, thawed (Optional)"
+        ],
+        "directions": [
+            "Preheat oven to 250 degrees F (125 degrees C).",
+            "In a large glass or metal bowl, beat egg whites until stiff peaks form. Set aside.",
+            "In a medium bowl, beat egg yolks, then stir in condensed milk, lime rind, and lime juice. Mix well, then fold mixture into beaten egg whites. Pour mixture into graham cracker crust.",
+            "Bake in preheated oven for 10 minutes. Chill before serving. Garnish with whipped topping if desired."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "inch prepared graham cracker crust eggs separated ounce can sweetened condensed milk grated lime zest ⅓ fresh lime juice frozen whipped topping thawed optional",
+        "directions_text": "preheat oven to 250 degrees f (125 degrees c). in a large glass or metal bowl, beat egg whites until stiff peaks form. set aside. in a medium bowl, beat egg yolks, then stir in condensed milk, lime rind, and lime juice. mix well, then fold mixture into beaten egg whites. pour mixture into graham cracker crust. bake in preheated oven for 10 minutes. chill before serving. garnish with whipped topping if desired.",
+        "combined_text": "easy key lime pie ii key lime pie key lime pie 1 (9 inch) prepared graham cracker crust 3 eggs, separated 1 (14 ounce) can sweetened condensed milk 1 teaspoon grated lime zest ⅓ cup fresh lime juice 1 cup frozen whipped topping, thawed (optional) preheat oven to 250 degrees f (125 degrees c). in a large glass or metal bowl, beat egg whites until stiff peaks form. set aside. in a medium bowl, beat egg yolks, then stir in condensed milk, lime rind, and lime juice. mix well, then fold mixture into beaten egg whites. pour mixture into graham cracker crust. bake in preheated oven for 10 minutes. chill before serving. garnish with whipped topping if desired.",
+        "ingredients_raw": [
+            "1 (9 inch) prepared graham cracker crust",
+            "3 eggs, separated",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 teaspoon grated lime zest",
+            "⅓ cup fresh lime juice",
+            "1 cup frozen whipped topping, thawed (Optional)"
+        ],
+        "directions_raw": [
+            "Preheat oven to 250 degrees F (125 degrees C).",
+            "In a large glass or metal bowl, beat egg whites until stiff peaks form. Set aside.",
+            "In a medium bowl, beat egg yolks, then stir in condensed milk, lime rind, and lime juice. Mix well, then fold mixture into beaten egg whites. Pour mixture into graham cracker crust.",
+            "Bake in preheated oven for 10 minutes. Chill before serving. Garnish with whipped topping if desired."
+        ],
+        "ingredients_canonical": [
+            "inch prepared graham cracker crust",
+            "eggs separated",
+            "ounce can sweetened condensed milk",
+            "grated lime zest",
+            "⅓ fresh lime juice",
+            "frozen whipped topping thawed optional"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Key Lime and Pretzel Pie",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This unusual pie will have even the pickiest eater begging for more!! This recipe can use all fat free ingredients.",
+        "ingredients": [
+            "⅓ cup butter",
+            "3 tablespoons white sugar",
+            "1 ¼ cups crushed pretzels",
+            "¼ cup key lime juice",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 cup frozen whipped topping, thawed"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C.) Spray 9 inch pie plate with non-stick spray. In a saucepan, melt butter and stir in sugar. Remove from stove. Stir in crushed pretzels until mixed well. Press into pie plate. Bake for 7 to 9 minutes. Cool before filling.",
+            "In a medium bowl, combine key lime juice and sweetened condensed milk. Mix well and pour into crust. Chill in refrigerator overnight.",
+            "When ready to serve. Spoon the whipped topping into a pastry bag and pipe it decoratively around the outer edge of filling."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "⅓ butter white sugar ¼ crushed pretzels ¼ key lime juice ounce can sweetened condensed milk frozen whipped topping thawed",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c.) spray 9 inch pie plate with non-stick spray. in a saucepan, melt butter and stir in sugar. remove from stove. stir in crushed pretzels until mixed well. press into pie plate. bake for 7 to 9 minutes. cool before filling. in a medium bowl, combine key lime juice and sweetened condensed milk. mix well and pour into crust. chill in refrigerator overnight. when ready to serve. spoon the whipped topping into a pastry bag and pipe it decoratively around the outer edge of filling.",
+        "combined_text": "key lime and pretzel pie key lime pie key lime pie ⅓ cup butter 3 tablespoons white sugar 1 ¼ cups crushed pretzels ¼ cup key lime juice 1 (14 ounce) can sweetened condensed milk 1 cup frozen whipped topping, thawed preheat oven to 350 degrees f (175 degrees c.) spray 9 inch pie plate with non-stick spray. in a saucepan, melt butter and stir in sugar. remove from stove. stir in crushed pretzels until mixed well. press into pie plate. bake for 7 to 9 minutes. cool before filling. in a medium bowl, combine key lime juice and sweetened condensed milk. mix well and pour into crust. chill in refrigerator overnight. when ready to serve. spoon the whipped topping into a pastry bag and pipe it decoratively around the outer edge of filling.",
+        "ingredients_raw": [
+            "⅓ cup butter",
+            "3 tablespoons white sugar",
+            "1 ¼ cups crushed pretzels",
+            "¼ cup key lime juice",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 cup frozen whipped topping, thawed"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C.) Spray 9 inch pie plate with non-stick spray. In a saucepan, melt butter and stir in sugar. Remove from stove. Stir in crushed pretzels until mixed well. Press into pie plate. Bake for 7 to 9 minutes. Cool before filling.",
+            "In a medium bowl, combine key lime juice and sweetened condensed milk. Mix well and pour into crust. Chill in refrigerator overnight.",
+            "When ready to serve. Spoon the whipped topping into a pastry bag and pipe it decoratively around the outer edge of filling."
+        ],
+        "ingredients_canonical": [
+            "⅓ butter",
+            "white sugar",
+            "¼ crushed pretzels",
+            "¼ key lime juice",
+            "ounce can sweetened condensed milk",
+            "frozen whipped topping thawed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "german",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Breezy Key Lime Pie with Strawberry Rhubarb Glaze",
+        "category": "Key Lime Pie",
+        "subcategory": "Key Lime Pie",
+        "description": "This breezy Key lime pie with strawberry rhubarb glaze recipe is a tangy, sweet pie that's sure to tickle the tastebuds of anyone who loves the crisp, tart flavor of fresh lime and berries. Made in a sweet vanilla crust, it's the perfect end to a light, fresh meal. It's best to start this pie at least 12 hours before you wish to serve it. Garnish with whipped cream, strawberry slices, or fresh twists of lime.",
+        "ingredients": [
+            "3 cups vanilla wafer crumbs",
+            "3 tablespoons butter, softened",
+            "2 (14 ounce) cans sweetened condensed milk",
+            "1 teaspoon grated Key lime zest",
+            "1 cup fresh Key lime juice",
+            "6 large egg yolks",
+            "1 teaspoon vanilla extract",
+            "2 stalks fresh rhubarb, diced",
+            "2 cups chopped fresh strawberries",
+            "1 cup white sugar",
+            "½ cup water",
+            "2 teaspoons powdered fruit pectin"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine crumbs and butter in a bowl until evenly moistened; press into the bottom and up the sides of a 10-inch pie plate.",
+            "Beat sweetened condensed milk, Key lime zest, Key lime juice, egg yolks, and vanilla extract in a bowl with an electric mixer until smooth; pour filling into prepared crust.",
+            "Bake in the preheated oven until center is slightly jiggly, about 15 minutes. Cool for 10 minutes; refrigerate.",
+            "Combine rhubarb, strawberries, sugar, water, and pectin in a saucepan over medium heat; boil, stirring often, until rhubarb and berries break down and glaze begins to thicken and resemble jam, about 20 minutes. Cool until lukewarm; glaze will thicken as it cools.",
+            "Spread glaze over pie; refrigerate until chilled before serving, at least 8 hours for the best texture."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 6,
+        "ingredient_text": "vanilla wafer crumbs butter softened ounce cans sweetened condensed milk grated key lime zest fresh key lime juice large egg yolks vanilla extract stalks fresh rhubarb diced chopped fresh strawberries white sugar ½ water powdered fruit pectin",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). combine crumbs and butter in a bowl until evenly moistened; press into the bottom and up the sides of a 10-inch pie plate. beat sweetened condensed milk, key lime zest, key lime juice, egg yolks, and vanilla extract in a bowl with an electric mixer until smooth; pour filling into prepared crust. bake in the preheated oven until center is slightly jiggly, about 15 minutes. cool for 10 minutes; refrigerate. combine rhubarb, strawberries, sugar, water, and pectin in a saucepan over medium heat; boil, stirring often, until rhubarb and berries break down and glaze begins to thicken and resemble jam, about 20 minutes. cool until lukewarm; glaze will thicken as it cools. spread glaze over pie; refrigerate until chilled before serving, at least 8 hours for the best texture.",
+        "combined_text": "breezy key lime pie with strawberry rhubarb glaze key lime pie key lime pie 3 cups vanilla wafer crumbs 3 tablespoons butter, softened 2 (14 ounce) cans sweetened condensed milk 1 teaspoon grated key lime zest 1 cup fresh key lime juice 6 large egg yolks 1 teaspoon vanilla extract 2 stalks fresh rhubarb, diced 2 cups chopped fresh strawberries 1 cup white sugar ½ cup water 2 teaspoons powdered fruit pectin preheat the oven to 350 degrees f (175 degrees c). combine crumbs and butter in a bowl until evenly moistened; press into the bottom and up the sides of a 10-inch pie plate. beat sweetened condensed milk, key lime zest, key lime juice, egg yolks, and vanilla extract in a bowl with an electric mixer until smooth; pour filling into prepared crust. bake in the preheated oven until center is slightly jiggly, about 15 minutes. cool for 10 minutes; refrigerate. combine rhubarb, strawberries, sugar, water, and pectin in a saucepan over medium heat; boil, stirring often, until rhubarb and berries break down and glaze begins to thicken and resemble jam, about 20 minutes. cool until lukewarm; glaze will thicken as it cools. spread glaze over pie; refrigerate until chilled before serving, at least 8 hours for the best texture.",
+        "ingredients_raw": [
+            "3 cups vanilla wafer crumbs",
+            "3 tablespoons butter, softened",
+            "2 (14 ounce) cans sweetened condensed milk",
+            "1 teaspoon grated Key lime zest",
+            "1 cup fresh Key lime juice",
+            "6 large egg yolks",
+            "1 teaspoon vanilla extract",
+            "2 stalks fresh rhubarb, diced",
+            "2 cups chopped fresh strawberries",
+            "1 cup white sugar",
+            "½ cup water",
+            "2 teaspoons powdered fruit pectin"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine crumbs and butter in a bowl until evenly moistened; press into the bottom and up the sides of a 10-inch pie plate.",
+            "Beat sweetened condensed milk, Key lime zest, Key lime juice, egg yolks, and vanilla extract in a bowl with an electric mixer until smooth; pour filling into prepared crust.",
+            "Bake in the preheated oven until center is slightly jiggly, about 15 minutes. Cool for 10 minutes; refrigerate.",
+            "Combine rhubarb, strawberries, sugar, water, and pectin in a saucepan over medium heat; boil, stirring often, until rhubarb and berries break down and glaze begins to thicken and resemble jam, about 20 minutes. Cool until lukewarm; glaze will thicken as it cools.",
+            "Spread glaze over pie; refrigerate until chilled before serving, at least 8 hours for the best texture."
+        ],
+        "ingredients_canonical": [
+            "vanilla wafer crumbs",
+            "butter softened",
+            "ounce cans sweetened condensed milk",
+            "grated key lime zest",
+            "fresh key lime juice",
+            "large egg yolks",
+            "vanilla extract",
+            "stalks fresh rhubarb diced",
+            "chopped fresh strawberries",
+            "white sugar",
+            "½ water",
+            "powdered fruit pectin"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 71,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

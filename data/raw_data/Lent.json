@@ -1,0 +1,2978 @@
+[
+    {
+        "recipe_title": "Spinach Quiche",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This deliciously cheesy spinach quiche is very versatile and forgiving — add or remove ingredients in the filling according to your taste!",
+        "ingredients": [
+            "½ cup butter",
+            "1 small onion, chopped",
+            "3 cloves garlic, chopped",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 (4.5 ounce) can mushrooms, drained",
+            "1 (6 ounce) package herb and garlic feta, crumbled",
+            "1 (8 ounce) package shredded Cheddar cheese, divided",
+            "salt and pepper to taste",
+            "1 deep-dish (9-inch) pie crust",
+            "4 large eggs",
+            "1 cup milk"
+        ],
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C).",
+            "Melt butter in a medium skillet over medium heat. Add onion and garlic and saute until lightly browned, about 7 minutes.",
+            "Stir in spinach, mushrooms, feta, and 1/2 cup Cheddar. Season with salt and pepper.",
+            "Spoon mixture into prepared pie crust.",
+            "Whisk eggs and milk together in a medium bowl until combined. Season with salt and pepper.",
+            "Pour over the spinach mixture in pie crust, allowing egg mixture to thoroughly combine with spinach mixture.",
+            "Bake in the preheated oven for 15 minutes.",
+            "Sprinkle the top with remaining Cheddar and bake until set in center, 35 to 40 minutes longer.",
+            "Allow to cool briefly before slicing and serving, about 10 minutes."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 9,
+        "ingredient_text": "½ butter small onion chopped cloves garlic chopped ounce package frozen chopped spinach thawed drained ounce can mushrooms drained ounce package herb garlic feta crumbled ounce package shredded cheddar cheese divided salt pepper taste deep-dish -inch pie crust large eggs milk",
+        "directions_text": "gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). melt butter in a medium skillet over medium heat. add onion and garlic and saute until lightly browned, about 7 minutes. stir in spinach, mushrooms, feta, and 1/2 cup cheddar. season with salt and pepper. spoon mixture into prepared pie crust. whisk eggs and milk together in a medium bowl until combined. season with salt and pepper. pour over the spinach mixture in pie crust, allowing egg mixture to thoroughly combine with spinach mixture. bake in the preheated oven for 15 minutes. sprinkle the top with remaining cheddar and bake until set in center, 35 to 40 minutes longer. allow to cool briefly before slicing and serving, about 10 minutes.",
+        "combined_text": "spinach quiche lent lent ½ cup butter 1 small onion, chopped 3 cloves garlic, chopped 1 (10 ounce) package frozen chopped spinach, thawed and drained 1 (4.5 ounce) can mushrooms, drained 1 (6 ounce) package herb and garlic feta, crumbled 1 (8 ounce) package shredded cheddar cheese, divided salt and pepper to taste 1 deep-dish (9-inch) pie crust 4 large eggs 1 cup milk gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). melt butter in a medium skillet over medium heat. add onion and garlic and saute until lightly browned, about 7 minutes. stir in spinach, mushrooms, feta, and 1/2 cup cheddar. season with salt and pepper. spoon mixture into prepared pie crust. whisk eggs and milk together in a medium bowl until combined. season with salt and pepper. pour over the spinach mixture in pie crust, allowing egg mixture to thoroughly combine with spinach mixture. bake in the preheated oven for 15 minutes. sprinkle the top with remaining cheddar and bake until set in center, 35 to 40 minutes longer. allow to cool briefly before slicing and serving, about 10 minutes.",
+        "ingredients_raw": [
+            "½ cup butter",
+            "1 small onion, chopped",
+            "3 cloves garlic, chopped",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "1 (4.5 ounce) can mushrooms, drained",
+            "1 (6 ounce) package herb and garlic feta, crumbled",
+            "1 (8 ounce) package shredded Cheddar cheese, divided",
+            "salt and pepper to taste",
+            "1 deep-dish (9-inch) pie crust",
+            "4 large eggs",
+            "1 cup milk"
+        ],
+        "directions_raw": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C).",
+            "Melt butter in a medium skillet over medium heat. Add onion and garlic and saute until lightly browned, about 7 minutes.",
+            "Stir in spinach, mushrooms, feta, and 1/2 cup Cheddar. Season with salt and pepper.",
+            "Spoon mixture into prepared pie crust.",
+            "Whisk eggs and milk together in a medium bowl until combined. Season with salt and pepper.",
+            "Pour over the spinach mixture in pie crust, allowing egg mixture to thoroughly combine with spinach mixture.",
+            "Bake in the preheated oven for 15 minutes.",
+            "Sprinkle the top with remaining Cheddar and bake until set in center, 35 to 40 minutes longer.",
+            "Allow to cool briefly before slicing and serving, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter",
+            "small onion chopped",
+            "cloves garlic chopped",
+            "ounce package frozen chopped spinach thawed drained",
+            "ounce can mushrooms drained",
+            "ounce package herb garlic feta crumbled",
+            "ounce package shredded cheddar cheese divided",
+            "salt pepper taste",
+            "deep-dish -inch pie crust",
+            "large eggs",
+            "milk"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 66,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Louisiana Crawfish Boil",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This crawfish boil is quite a feast! Invite the family and dig into this messy, delicious meal. Combining crawfish, sausage, corn, mushrooms, potatoes, and artichokes, this is a dish you'll crave over and over. Add other seafood or vegetables to your liking.",
+        "ingredients": [
+            "2 heads garlic, unpeeled",
+            "5 bay leaves",
+            "2 (3 ounce) packages dry crab boil",
+            "1 tablespoon liquid shrimp and crab boil seasoning",
+            "salt and ground black pepper to taste",
+            "15 red potatoes, washed",
+            "3 large oranges, halved",
+            "3 large lemons, halved",
+            "2 large whole artichokes",
+            "2 (16 ounce) packages mushrooms, cleaned",
+            "½ pound fresh green beans, trimmed",
+            "2 large onions, sliced",
+            "30 pieces baby corn",
+            "2 (16 ounce) packages smoked sausage, cut into ½ inch slices",
+            "50 pounds live crawfish, rinsed well"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Fill a very large pot about 1/3 full with water. Add garlic, bay leaves, dry and liquid crab boil seasonings, salt, pepper, potatoes, oranges, lemons, and artichokes. Bring to a boil over high heat, then reduce to a simmer, and cook for 20 minutes.",
+            "Stir in mushrooms, green beans, onions, and baby corn, and continue to cook, about 15 minutes.",
+            "Stir in sausage; cook 5 minutes more.",
+            "Add crawfish and return the mixture to a boil, then simmer until crawfish shells turn bright red and the tails pull out easily, about 5 minutes. Test for doneness by peeling a crawfish. Be sure not to overcook, or crawfish will become tough.",
+            "Remove from the heat and carefully drain all liquid. Serve the crawfish boil hot, Louisiana-style, spread over a picnic table covered with newspapers."
+        ],
+        "num_ingredients": 15,
+        "num_steps": 6,
+        "ingredient_text": "heads garlic unpeeled bay leaves ounce packages dry crab boil liquid shrimp crab boil seasoning salt ground black pepper taste red potatoes washed large oranges halved large lemons halved large whole artichokes ounce packages mushrooms cleaned ½ pound fresh green beans trimmed large onions sliced pieces baby corn ounce packages smoked sausage cut into ½ inch slices pounds live crawfish rinsed well",
+        "directions_text": "gather all ingredients. fill a very large pot about 1/3 full with water. add garlic, bay leaves, dry and liquid crab boil seasonings, salt, pepper, potatoes, oranges, lemons, and artichokes. bring to a boil over high heat, then reduce to a simmer, and cook for 20 minutes. stir in mushrooms, green beans, onions, and baby corn, and continue to cook, about 15 minutes. stir in sausage; cook 5 minutes more. add crawfish and return the mixture to a boil, then simmer until crawfish shells turn bright red and the tails pull out easily, about 5 minutes. test for doneness by peeling a crawfish. be sure not to overcook, or crawfish will become tough. remove from the heat and carefully drain all liquid. serve the crawfish boil hot, louisiana-style, spread over a picnic table covered with newspapers.",
+        "combined_text": "louisiana crawfish boil lent lent 2 heads garlic, unpeeled 5 bay leaves 2 (3 ounce) packages dry crab boil 1 tablespoon liquid shrimp and crab boil seasoning salt and ground black pepper to taste 15 red potatoes, washed 3 large oranges, halved 3 large lemons, halved 2 large whole artichokes 2 (16 ounce) packages mushrooms, cleaned ½ pound fresh green beans, trimmed 2 large onions, sliced 30 pieces baby corn 2 (16 ounce) packages smoked sausage, cut into ½ inch slices 50 pounds live crawfish, rinsed well gather all ingredients. fill a very large pot about 1/3 full with water. add garlic, bay leaves, dry and liquid crab boil seasonings, salt, pepper, potatoes, oranges, lemons, and artichokes. bring to a boil over high heat, then reduce to a simmer, and cook for 20 minutes. stir in mushrooms, green beans, onions, and baby corn, and continue to cook, about 15 minutes. stir in sausage; cook 5 minutes more. add crawfish and return the mixture to a boil, then simmer until crawfish shells turn bright red and the tails pull out easily, about 5 minutes. test for doneness by peeling a crawfish. be sure not to overcook, or crawfish will become tough. remove from the heat and carefully drain all liquid. serve the crawfish boil hot, louisiana-style, spread over a picnic table covered with newspapers.",
+        "ingredients_raw": [
+            "2 heads garlic, unpeeled",
+            "5 bay leaves",
+            "2 (3 ounce) packages dry crab boil",
+            "1 tablespoon liquid shrimp and crab boil seasoning",
+            "salt and ground black pepper to taste",
+            "15 red potatoes, washed",
+            "3 large oranges, halved",
+            "3 large lemons, halved",
+            "2 large whole artichokes",
+            "2 (16 ounce) packages mushrooms, cleaned",
+            "½ pound fresh green beans, trimmed",
+            "2 large onions, sliced",
+            "30 pieces baby corn",
+            "2 (16 ounce) packages smoked sausage, cut into ½ inch slices",
+            "50 pounds live crawfish, rinsed well"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Fill a very large pot about 1/3 full with water. Add garlic, bay leaves, dry and liquid crab boil seasonings, salt, pepper, potatoes, oranges, lemons, and artichokes. Bring to a boil over high heat, then reduce to a simmer, and cook for 20 minutes.",
+            "Stir in mushrooms, green beans, onions, and baby corn, and continue to cook, about 15 minutes.",
+            "Stir in sausage; cook 5 minutes more.",
+            "Add crawfish and return the mixture to a boil, then simmer until crawfish shells turn bright red and the tails pull out easily, about 5 minutes. Test for doneness by peeling a crawfish. Be sure not to overcook, or crawfish will become tough.",
+            "Remove from the heat and carefully drain all liquid. Serve the crawfish boil hot, Louisiana-style, spread over a picnic table covered with newspapers."
+        ],
+        "ingredients_canonical": [
+            "heads garlic unpeeled",
+            "bay leaves",
+            "ounce packages dry crab boil",
+            "liquid shrimp crab boil seasoning",
+            "salt ground black pepper taste",
+            "red potatoes washed",
+            "large oranges halved",
+            "large lemons halved",
+            "large whole artichokes",
+            "ounce packages mushrooms cleaned",
+            "½ pound fresh green beans trimmed",
+            "large onions sliced",
+            "pieces baby corn",
+            "ounce packages smoked sausage cut into ½ inch slices",
+            "pounds live crawfish rinsed well"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 8,
+        "slow_hits": 4,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 96,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Broiled Scallops",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "These broiled scallops are delicious. My husband thinks these scallops are better than any we have found in any restaurant.",
+        "ingredients": [
+            "1 ½ pounds bay scallops",
+            "2 tablespoons melted butter, or as needed",
+            "2 tablespoons lemon juice",
+            "1 tablespoon garlic salt"
+        ],
+        "directions": [
+            "Preheat the broiler to high heat.",
+            "Rinse scallops and place in a shallow baking pan. Sprinkle with 2 tablespoons melted butter, lemon juice, and garlic salt.",
+            "Broil in the preheated broiler until scallops begin to turn golden, 6 to 8 minutes. Remove from the oven and serve with extra melted butter on the side for dipping."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "½ pounds bay scallops melted butter as needed lemon juice garlic salt",
+        "directions_text": "preheat the broiler to high heat. rinse scallops and place in a shallow baking pan. sprinkle with 2 tablespoons melted butter, lemon juice, and garlic salt. broil in the preheated broiler until scallops begin to turn golden, 6 to 8 minutes. remove from the oven and serve with extra melted butter on the side for dipping.",
+        "combined_text": "broiled scallops lent lent 1 ½ pounds bay scallops 2 tablespoons melted butter, or as needed 2 tablespoons lemon juice 1 tablespoon garlic salt preheat the broiler to high heat. rinse scallops and place in a shallow baking pan. sprinkle with 2 tablespoons melted butter, lemon juice, and garlic salt. broil in the preheated broiler until scallops begin to turn golden, 6 to 8 minutes. remove from the oven and serve with extra melted butter on the side for dipping.",
+        "ingredients_raw": [
+            "1 ½ pounds bay scallops",
+            "2 tablespoons melted butter, or as needed",
+            "2 tablespoons lemon juice",
+            "1 tablespoon garlic salt"
+        ],
+        "directions_raw": [
+            "Preheat the broiler to high heat.",
+            "Rinse scallops and place in a shallow baking pan. Sprinkle with 2 tablespoons melted butter, lemon juice, and garlic salt.",
+            "Broil in the preheated broiler until scallops begin to turn golden, 6 to 8 minutes. Remove from the oven and serve with extra melted butter on the side for dipping."
+        ],
+        "ingredients_canonical": [
+            "½ pounds bay scallops",
+            "melted butter as needed",
+            "lemon juice",
+            "garlic salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spaghetti Cacio e Pepe",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This spaghetti cacio e pepe recipe has been made in our family for many years, and everyone loves it. It is a very basic and easy variation on mac and cheese.",
+        "ingredients": [
+            "1 pound spaghetti",
+            "6 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "2 teaspoons ground black pepper",
+            "1 ¾ cups grated Pecorino Romano cheese"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Reserve 1 cup cooking water, then drain spaghetti.",
+            "Heat olive oil in a large skillet over medium heat. Cook and stir garlic and pepper in hot oil until fragrant, 1 to 2 minutes. Add cooked spaghetti and Pecorino Romano cheese. Ladle in 1/2 cup reserved cooking water; stir until cheese is melted, about 1 minute. Stir in more cooking water as needed, 1 tablespoon at a time, until sauce coats spaghetti, about 1 minute more."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "pound spaghetti olive oil cloves garlic minced ground black pepper ¾ grated pecorino romano cheese",
+        "directions_text": "bring a large pot of lightly salted water to a boil. cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. reserve 1 cup cooking water, then drain spaghetti. heat olive oil in a large skillet over medium heat. cook and stir garlic and pepper in hot oil until fragrant, 1 to 2 minutes. add cooked spaghetti and pecorino romano cheese. ladle in 1/2 cup reserved cooking water; stir until cheese is melted, about 1 minute. stir in more cooking water as needed, 1 tablespoon at a time, until sauce coats spaghetti, about 1 minute more.",
+        "combined_text": "spaghetti cacio e pepe lent lent 1 pound spaghetti 6 tablespoons olive oil 2 cloves garlic, minced 2 teaspoons ground black pepper 1 ¾ cups grated pecorino romano cheese bring a large pot of lightly salted water to a boil. cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. reserve 1 cup cooking water, then drain spaghetti. heat olive oil in a large skillet over medium heat. cook and stir garlic and pepper in hot oil until fragrant, 1 to 2 minutes. add cooked spaghetti and pecorino romano cheese. ladle in 1/2 cup reserved cooking water; stir until cheese is melted, about 1 minute. stir in more cooking water as needed, 1 tablespoon at a time, until sauce coats spaghetti, about 1 minute more.",
+        "ingredients_raw": [
+            "1 pound spaghetti",
+            "6 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "2 teaspoons ground black pepper",
+            "1 ¾ cups grated Pecorino Romano cheese"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Reserve 1 cup cooking water, then drain spaghetti.",
+            "Heat olive oil in a large skillet over medium heat. Cook and stir garlic and pepper in hot oil until fragrant, 1 to 2 minutes. Add cooked spaghetti and Pecorino Romano cheese. Ladle in 1/2 cup reserved cooking water; stir until cheese is melted, about 1 minute. Stir in more cooking water as needed, 1 tablespoon at a time, until sauce coats spaghetti, about 1 minute more."
+        ],
+        "ingredients_canonical": [
+            "pound spaghetti",
+            "olive oil",
+            "cloves garlic minced",
+            "ground black pepper",
+            "¾ grated pecorino romano cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Lemony Steamed Fish",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "Make mild-flavored, flaky fish fillets with this steamed fish recipe. Any type of fish will work, and you can increase the recipe easily. Try halibut, cod, salmon, red snapper, trout, etc. Serve with a white and wild rice blend.",
+        "ingredients": [
+            "6 (6 ounce) halibut fillets",
+            "1 tablespoon dried dill weed",
+            "1 tablespoon onion powder",
+            "2 teaspoons dried parsley",
+            "¼ teaspoon paprika",
+            "1 pinch seasoned salt, or more to taste",
+            "1 pinch lemon-pepper seasoning",
+            "1 pinch garlic powder",
+            "2 tablespoons lemon juice"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Cut six squares of aluminum foil large enough for each fillet.",
+            "Center each fillet on a foil square. Season with dill, onion powder, parsley, paprika, seasoned salt, lemon-pepper seasoning, and garlic powder, then sprinkle with lemon juice. Fold the foil squares around the fillets to make pockets. Fold the edges to seal. Place sealed packets onto a baking sheet.",
+            "Bake in the preheated oven until fish flakes easily with a fork, about 30 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "ounce halibut fillets dried dill weed onion powder dried parsley ¼ paprika pinch seasoned salt more taste pinch lemon-pepper seasoning pinch garlic powder lemon juice",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). cut six squares of aluminum foil large enough for each fillet. center each fillet on a foil square. season with dill, onion powder, parsley, paprika, seasoned salt, lemon-pepper seasoning, and garlic powder, then sprinkle with lemon juice. fold the foil squares around the fillets to make pockets. fold the edges to seal. place sealed packets onto a baking sheet. bake in the preheated oven until fish flakes easily with a fork, about 30 minutes.",
+        "combined_text": "lemony steamed fish lent lent 6 (6 ounce) halibut fillets 1 tablespoon dried dill weed 1 tablespoon onion powder 2 teaspoons dried parsley ¼ teaspoon paprika 1 pinch seasoned salt, or more to taste 1 pinch lemon-pepper seasoning 1 pinch garlic powder 2 tablespoons lemon juice preheat the oven to 375 degrees f (190 degrees c). cut six squares of aluminum foil large enough for each fillet. center each fillet on a foil square. season with dill, onion powder, parsley, paprika, seasoned salt, lemon-pepper seasoning, and garlic powder, then sprinkle with lemon juice. fold the foil squares around the fillets to make pockets. fold the edges to seal. place sealed packets onto a baking sheet. bake in the preheated oven until fish flakes easily with a fork, about 30 minutes.",
+        "ingredients_raw": [
+            "6 (6 ounce) halibut fillets",
+            "1 tablespoon dried dill weed",
+            "1 tablespoon onion powder",
+            "2 teaspoons dried parsley",
+            "¼ teaspoon paprika",
+            "1 pinch seasoned salt, or more to taste",
+            "1 pinch lemon-pepper seasoning",
+            "1 pinch garlic powder",
+            "2 tablespoons lemon juice"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Cut six squares of aluminum foil large enough for each fillet.",
+            "Center each fillet on a foil square. Season with dill, onion powder, parsley, paprika, seasoned salt, lemon-pepper seasoning, and garlic powder, then sprinkle with lemon juice. Fold the foil squares around the fillets to make pockets. Fold the edges to seal. Place sealed packets onto a baking sheet.",
+            "Bake in the preheated oven until fish flakes easily with a fork, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce halibut fillets",
+            "dried dill weed",
+            "onion powder",
+            "dried parsley",
+            "¼ paprika",
+            "pinch seasoned salt more taste",
+            "pinch lemon-pepper seasoning",
+            "pinch garlic powder",
+            "lemon juice"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Chef John's Salmon Loaf",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "Canned salmon is a great, inexpensive source of protein and omegas, and you may have stocked up on a few cans but not known what to do with them. This tasty shelter-in-place Chef John's salmon loaf recipe is so good for you! While salmon right out of the can may not be the most appealing thing to look at, this salmon loaf is so delicious that we can surely forgive some of its visual shortcomings. Remember, looks are less important than personality (and taste!) and this easy salmon loaf is proof of that. Serve with your favorite tartar sauce, cocktail sauce, or hot, white cream sauce.",
+        "ingredients": [
+            "¼ cup salted butter",
+            "⅓ cup diced onion",
+            "2 (7 ounce) cans red salmon, drained",
+            "½ cup finely crushed saltine cracker crumbs",
+            "2 teaspoons rice wine vinegar",
+            "½ teaspoon kosher salt, or to taste",
+            "¼ teaspoon Worcestershire sauce",
+            "⅛ teaspoon cayenne pepper",
+            "3 large eggs"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Generously butter a loaf pan.",
+            "Melt 1/4 cup butter in a skillet over medium heat until bubbling. Add onion; cook and stir for 1 minute. Turn off the heat; cool.",
+            "Place salmon in a large bowl; mash with a fork. Add cracker crumbs, vinegar, salt, Worcestershire sauce, cayenne pepper, and onion mixture; mix and mash with a spatula or spoon until smooth.",
+            "Separate eggs, adding yolks to salmon mixture and adding whites to a clean glass, metal, or ceramic bowl. Stir egg yolks into salmon mixture until well combined.",
+            "Whisk egg whites to medium stiff peaks; gently fold into salmon mixture in 2 additions.",
+            "Transfer salmon mixture into the prepared pan. Smooth top with a spatula to even out; shake and tap the pan to remove any air bubbles.",
+            "Bake in the center of the preheated oven until a toothpick inserted into center comes out clean, about 45 minutes. Rest for 5 minutes, then carefully invert loaf onto a cutting board. Slice and serve."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 7,
+        "ingredient_text": "¼ salted butter ⅓ diced onion ounce cans red salmon drained ½ finely crushed saltine cracker crumbs rice wine vinegar ½ kosher salt taste ¼ worcestershire sauce ⅛ cayenne pepper large eggs",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). generously butter a loaf pan. melt 1/4 cup butter in a skillet over medium heat until bubbling. add onion; cook and stir for 1 minute. turn off the heat; cool. place salmon in a large bowl; mash with a fork. add cracker crumbs, vinegar, salt, worcestershire sauce, cayenne pepper, and onion mixture; mix and mash with a spatula or spoon until smooth. separate eggs, adding yolks to salmon mixture and adding whites to a clean glass, metal, or ceramic bowl. stir egg yolks into salmon mixture until well combined. whisk egg whites to medium stiff peaks; gently fold into salmon mixture in 2 additions. transfer salmon mixture into the prepared pan. smooth top with a spatula to even out; shake and tap the pan to remove any air bubbles. bake in the center of the preheated oven until a toothpick inserted into center comes out clean, about 45 minutes. rest for 5 minutes, then carefully invert loaf onto a cutting board. slice and serve.",
+        "combined_text": "chef john's salmon loaf lent lent ¼ cup salted butter ⅓ cup diced onion 2 (7 ounce) cans red salmon, drained ½ cup finely crushed saltine cracker crumbs 2 teaspoons rice wine vinegar ½ teaspoon kosher salt, or to taste ¼ teaspoon worcestershire sauce ⅛ teaspoon cayenne pepper 3 large eggs preheat the oven to 325 degrees f (165 degrees c). generously butter a loaf pan. melt 1/4 cup butter in a skillet over medium heat until bubbling. add onion; cook and stir for 1 minute. turn off the heat; cool. place salmon in a large bowl; mash with a fork. add cracker crumbs, vinegar, salt, worcestershire sauce, cayenne pepper, and onion mixture; mix and mash with a spatula or spoon until smooth. separate eggs, adding yolks to salmon mixture and adding whites to a clean glass, metal, or ceramic bowl. stir egg yolks into salmon mixture until well combined. whisk egg whites to medium stiff peaks; gently fold into salmon mixture in 2 additions. transfer salmon mixture into the prepared pan. smooth top with a spatula to even out; shake and tap the pan to remove any air bubbles. bake in the center of the preheated oven until a toothpick inserted into center comes out clean, about 45 minutes. rest for 5 minutes, then carefully invert loaf onto a cutting board. slice and serve.",
+        "ingredients_raw": [
+            "¼ cup salted butter",
+            "⅓ cup diced onion",
+            "2 (7 ounce) cans red salmon, drained",
+            "½ cup finely crushed saltine cracker crumbs",
+            "2 teaspoons rice wine vinegar",
+            "½ teaspoon kosher salt, or to taste",
+            "¼ teaspoon Worcestershire sauce",
+            "⅛ teaspoon cayenne pepper",
+            "3 large eggs"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Generously butter a loaf pan.",
+            "Melt 1/4 cup butter in a skillet over medium heat until bubbling. Add onion; cook and stir for 1 minute. Turn off the heat; cool.",
+            "Place salmon in a large bowl; mash with a fork. Add cracker crumbs, vinegar, salt, Worcestershire sauce, cayenne pepper, and onion mixture; mix and mash with a spatula or spoon until smooth.",
+            "Separate eggs, adding yolks to salmon mixture and adding whites to a clean glass, metal, or ceramic bowl. Stir egg yolks into salmon mixture until well combined.",
+            "Whisk egg whites to medium stiff peaks; gently fold into salmon mixture in 2 additions.",
+            "Transfer salmon mixture into the prepared pan. Smooth top with a spatula to even out; shake and tap the pan to remove any air bubbles.",
+            "Bake in the center of the preheated oven until a toothpick inserted into center comes out clean, about 45 minutes. Rest for 5 minutes, then carefully invert loaf onto a cutting board. Slice and serve."
+        ],
+        "ingredients_canonical": [
+            "¼ salted butter",
+            "⅓ diced onion",
+            "ounce cans red salmon drained",
+            "½ finely crushed saltine cracker crumbs",
+            "rice wine vinegar",
+            "½ kosher salt taste",
+            "¼ worcestershire sauce",
+            "⅛ cayenne pepper",
+            "large eggs"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 12,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 70,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Potato and Egg Casserole",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This is a potato and egg casserole that was used for Lenten meals by my in-laws. It is Hungarian in origin and everywhere I take it, I get requests for the recipe.",
+        "ingredients": [
+            "6 medium potatoes",
+            "8 large eggs",
+            "1 teaspoon seasoning salt, or to taste",
+            "1 cup margarine",
+            "1 (16 ounce) container sour cream"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain and let cool.",
+            "While the potatoes are cooking, cover eggs in a saucepan and with cold water. Bring water to a boil, then immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water and place under cold running water to cool.",
+            "Slice potatoes. Peel and slice eggs.",
+            "Starting and ending with potatoes, layer potatoes and eggs in a 9x13-inch casserole dish, sprinkling each layer of eggs with seasoning salt.",
+            "Cook and stir sour cream and margarine in a small saucepan over low heat until melted. Pour over casserole and sprinkle lightly with seasoning salt.",
+            "Bake in the preheated oven for 30 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 7,
+        "ingredient_text": "medium potatoes large eggs seasoning salt taste margarine ounce container sour cream",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). bring a large pot of salted water to a boil. add potatoes and cook until tender but still firm, about 15 minutes. drain and let cool. while the potatoes are cooking, cover eggs in a saucepan and with cold water. bring water to a boil, then immediately remove from heat. cover and let eggs stand in hot water for 10 to 12 minutes. remove eggs from hot water and place under cold running water to cool. slice potatoes. peel and slice eggs. starting and ending with potatoes, layer potatoes and eggs in a 9x13-inch casserole dish, sprinkling each layer of eggs with seasoning salt. cook and stir sour cream and margarine in a small saucepan over low heat until melted. pour over casserole and sprinkle lightly with seasoning salt. bake in the preheated oven for 30 minutes.",
+        "combined_text": "potato and egg casserole lent lent 6 medium potatoes 8 large eggs 1 teaspoon seasoning salt, or to taste 1 cup margarine 1 (16 ounce) container sour cream preheat the oven to 350 degrees f (175 degrees c). bring a large pot of salted water to a boil. add potatoes and cook until tender but still firm, about 15 minutes. drain and let cool. while the potatoes are cooking, cover eggs in a saucepan and with cold water. bring water to a boil, then immediately remove from heat. cover and let eggs stand in hot water for 10 to 12 minutes. remove eggs from hot water and place under cold running water to cool. slice potatoes. peel and slice eggs. starting and ending with potatoes, layer potatoes and eggs in a 9x13-inch casserole dish, sprinkling each layer of eggs with seasoning salt. cook and stir sour cream and margarine in a small saucepan over low heat until melted. pour over casserole and sprinkle lightly with seasoning salt. bake in the preheated oven for 30 minutes.",
+        "ingredients_raw": [
+            "6 medium potatoes",
+            "8 large eggs",
+            "1 teaspoon seasoning salt, or to taste",
+            "1 cup margarine",
+            "1 (16 ounce) container sour cream"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain and let cool.",
+            "While the potatoes are cooking, cover eggs in a saucepan and with cold water. Bring water to a boil, then immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water and place under cold running water to cool.",
+            "Slice potatoes. Peel and slice eggs.",
+            "Starting and ending with potatoes, layer potatoes and eggs in a 9x13-inch casserole dish, sprinkling each layer of eggs with seasoning salt.",
+            "Cook and stir sour cream and margarine in a small saucepan over low heat until melted. Pour over casserole and sprinkle lightly with seasoning salt.",
+            "Bake in the preheated oven for 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "medium potatoes",
+            "large eggs",
+            "seasoning salt taste",
+            "margarine",
+            "ounce container sour cream"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 7,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 68,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lemon Pepper Cod",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "Sauteed cod fish fillets seasoned with lemon juice and black pepper. Serve with a buttery rice pilaf and a green salad.",
+        "ingredients": [
+            "3 tablespoons vegetable oil",
+            "1 ½ pounds cod fillets",
+            "1 lemon, juiced",
+            "ground black pepper to taste"
+        ],
+        "directions": [
+            "In a large skillet, heat oil over medium high heat until hot. Add fillets and squeeze 1/2 of the lemon's juice over the tops. Sprinkle with pepper to taste. Cook for 4 minutes and turn. Squeeze with the remaining lemon's juice and sprinkle with pepper to taste. Continue to cook until fillets flake easily with a fork."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "vegetable oil ½ pounds cod fillets lemon juiced ground black pepper taste",
+        "directions_text": "in a large skillet, heat oil over medium high heat until hot. add fillets and squeeze 1/2 of the lemon's juice over the tops. sprinkle with pepper to taste. cook for 4 minutes and turn. squeeze with the remaining lemon's juice and sprinkle with pepper to taste. continue to cook until fillets flake easily with a fork.",
+        "combined_text": "lemon pepper cod lent lent 3 tablespoons vegetable oil 1 ½ pounds cod fillets 1 lemon, juiced ground black pepper to taste in a large skillet, heat oil over medium high heat until hot. add fillets and squeeze 1/2 of the lemon's juice over the tops. sprinkle with pepper to taste. cook for 4 minutes and turn. squeeze with the remaining lemon's juice and sprinkle with pepper to taste. continue to cook until fillets flake easily with a fork.",
+        "ingredients_raw": [
+            "3 tablespoons vegetable oil",
+            "1 ½ pounds cod fillets",
+            "1 lemon, juiced",
+            "ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "In a large skillet, heat oil over medium high heat until hot. Add fillets and squeeze 1/2 of the lemon's juice over the tops. Sprinkle with pepper to taste. Cook for 4 minutes and turn. Squeeze with the remaining lemon's juice and sprinkle with pepper to taste. Continue to cook until fillets flake easily with a fork."
+        ],
+        "ingredients_canonical": [
+            "vegetable oil",
+            "½ pounds cod fillets",
+            "lemon juiced",
+            "ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Creamy Asparagus Pasta",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This creamy pasta with asparagus is a wonderfully satisfying meal that cooks in minutes. Delicious!",
+        "ingredients": [
+            "1 pound fresh asparagus, trimmed and cut into 2 inch pieces",
+            "2 tablespoons butter",
+            "1 clove garlic, minced",
+            "1 pint light cream",
+            "1 pound linguine pasta",
+            "1 lemon, juiced"
+        ],
+        "directions": [
+            "Bring a medium pot of water to a boil. Cook asparagus in boiling water until bright green and slightly crisp, 3 to 4 minutes; drain.",
+            "Melt butter in a large saucepan over medium heat. Sauté asparagus and garlic in hot butter for 3 to 4 minutes. Stir in cream and simmer for 10 minutes.",
+            "Meanwhile, bring a large pot of water to a boil. Cook linguine in boiling water until tender yet firm to the bite, 8 to 10 minutes; drain and transfer to a serving dish.",
+            "Stir lemon juice into asparagus mixture; pour mixture over hot pasta."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "pound fresh asparagus trimmed cut into inch pieces butter clove garlic minced pint light cream pound linguine pasta lemon juiced",
+        "directions_text": "bring a medium pot of water to a boil. cook asparagus in boiling water until bright green and slightly crisp, 3 to 4 minutes; drain. melt butter in a large saucepan over medium heat. sauté asparagus and garlic in hot butter for 3 to 4 minutes. stir in cream and simmer for 10 minutes. meanwhile, bring a large pot of water to a boil. cook linguine in boiling water until tender yet firm to the bite, 8 to 10 minutes; drain and transfer to a serving dish. stir lemon juice into asparagus mixture; pour mixture over hot pasta.",
+        "combined_text": "creamy asparagus pasta lent lent 1 pound fresh asparagus, trimmed and cut into 2 inch pieces 2 tablespoons butter 1 clove garlic, minced 1 pint light cream 1 pound linguine pasta 1 lemon, juiced bring a medium pot of water to a boil. cook asparagus in boiling water until bright green and slightly crisp, 3 to 4 minutes; drain. melt butter in a large saucepan over medium heat. sauté asparagus and garlic in hot butter for 3 to 4 minutes. stir in cream and simmer for 10 minutes. meanwhile, bring a large pot of water to a boil. cook linguine in boiling water until tender yet firm to the bite, 8 to 10 minutes; drain and transfer to a serving dish. stir lemon juice into asparagus mixture; pour mixture over hot pasta.",
+        "ingredients_raw": [
+            "1 pound fresh asparagus, trimmed and cut into 2 inch pieces",
+            "2 tablespoons butter",
+            "1 clove garlic, minced",
+            "1 pint light cream",
+            "1 pound linguine pasta",
+            "1 lemon, juiced"
+        ],
+        "directions_raw": [
+            "Bring a medium pot of water to a boil. Cook asparagus in boiling water until bright green and slightly crisp, 3 to 4 minutes; drain.",
+            "Melt butter in a large saucepan over medium heat. Sauté asparagus and garlic in hot butter for 3 to 4 minutes. Stir in cream and simmer for 10 minutes.",
+            "Meanwhile, bring a large pot of water to a boil. Cook linguine in boiling water until tender yet firm to the bite, 8 to 10 minutes; drain and transfer to a serving dish.",
+            "Stir lemon juice into asparagus mixture; pour mixture over hot pasta."
+        ],
+        "ingredients_canonical": [
+            "pound fresh asparagus trimmed cut into inch pieces",
+            "butter",
+            "clove garlic minced",
+            "pint light cream",
+            "pound linguine pasta",
+            "lemon juiced"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Salmon Cakes",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "I'm using canned salmon for this delicious salmon cakes recipe. Every grocery store carries it, and canned salmon is almost always wild salmon. I'm not going to go into the wild-versus-farmed salmon debate here, but wild is not only more eco-friendly, it tastes better, and is more nutritious. You could use fresh cooked salmon for this recipe if you have leftovers, but since we are mixing this up with eggs and cracker crumbs, fresh salmon just isn't necessary, so why spend the extra cash?",
+        "ingredients": [
+            "1 (14.75 ounce) can red salmon, skin and bone removed, drained and flaked",
+            "2 eggs",
+            "½ lemon, juiced",
+            "1 tablespoon chopped capers",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon cayenne pepper",
+            "12 saltine crackers",
+            "1 tablespoon bread crumbs, or as needed",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil"
+        ],
+        "directions": [
+            "Stir salmon, eggs, lemon juice, capers, salt, black pepper, and cayenne pepper together in a bowl until well-combined.",
+            "Crush saltine crackers with your hands into the salmon mixture and mix well. Wrap the bowl with plastic wrap and refrigerate, 30 minutes to overnight.",
+            "Dust a plate with half the bread crumbs. Divide salmon mixture into 4 portions and shape into patties; place onto prepared plate and sprinkle remaining bread crumbs atop the salmon patties.",
+            "Melt butter and oil in a large skillet over medium heat. Cook patties in hot oil until cooked and heated through, about 5 minutes per side."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "ounce can red salmon skin bone removed drained flaked eggs ½ lemon juiced chopped capers ½ salt ½ ground black pepper ½ cayenne pepper saltine crackers bread crumbs as needed butter olive oil",
+        "directions_text": "stir salmon, eggs, lemon juice, capers, salt, black pepper, and cayenne pepper together in a bowl until well-combined. crush saltine crackers with your hands into the salmon mixture and mix well. wrap the bowl with plastic wrap and refrigerate, 30 minutes to overnight. dust a plate with half the bread crumbs. divide salmon mixture into 4 portions and shape into patties; place onto prepared plate and sprinkle remaining bread crumbs atop the salmon patties. melt butter and oil in a large skillet over medium heat. cook patties in hot oil until cooked and heated through, about 5 minutes per side.",
+        "combined_text": "chef john's salmon cakes lent lent 1 (14.75 ounce) can red salmon, skin and bone removed, drained and flaked 2 eggs ½ lemon, juiced 1 tablespoon chopped capers ½ teaspoon salt ½ teaspoon ground black pepper ½ teaspoon cayenne pepper 12 saltine crackers 1 tablespoon bread crumbs, or as needed 1 tablespoon butter 1 tablespoon olive oil stir salmon, eggs, lemon juice, capers, salt, black pepper, and cayenne pepper together in a bowl until well-combined. crush saltine crackers with your hands into the salmon mixture and mix well. wrap the bowl with plastic wrap and refrigerate, 30 minutes to overnight. dust a plate with half the bread crumbs. divide salmon mixture into 4 portions and shape into patties; place onto prepared plate and sprinkle remaining bread crumbs atop the salmon patties. melt butter and oil in a large skillet over medium heat. cook patties in hot oil until cooked and heated through, about 5 minutes per side.",
+        "ingredients_raw": [
+            "1 (14.75 ounce) can red salmon, skin and bone removed, drained and flaked",
+            "2 eggs",
+            "½ lemon, juiced",
+            "1 tablespoon chopped capers",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon cayenne pepper",
+            "12 saltine crackers",
+            "1 tablespoon bread crumbs, or as needed",
+            "1 tablespoon butter",
+            "1 tablespoon olive oil"
+        ],
+        "directions_raw": [
+            "Stir salmon, eggs, lemon juice, capers, salt, black pepper, and cayenne pepper together in a bowl until well-combined.",
+            "Crush saltine crackers with your hands into the salmon mixture and mix well. Wrap the bowl with plastic wrap and refrigerate, 30 minutes to overnight.",
+            "Dust a plate with half the bread crumbs. Divide salmon mixture into 4 portions and shape into patties; place onto prepared plate and sprinkle remaining bread crumbs atop the salmon patties.",
+            "Melt butter and oil in a large skillet over medium heat. Cook patties in hot oil until cooked and heated through, about 5 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "ounce can red salmon skin bone removed drained flaked",
+            "eggs",
+            "½ lemon juiced",
+            "chopped capers",
+            "½ salt",
+            "½ ground black pepper",
+            "½ cayenne pepper",
+            "saltine crackers",
+            "bread crumbs as needed",
+            "butter",
+            "olive oil"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spinach Cheese Pie",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "A go-to spinach cheese pie recipe. My fiancé absolutely lives for this easy-to-prepare dish.",
+        "ingredients": [
+            "2 (9 inch) pie crusts",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "½ teaspoon salt",
+            "½ teaspoon freshly ground black pepper",
+            "¼ teaspoon ground nutmeg",
+            "15 ounces ricotta cheese",
+            "8 ounces mozzarella cheese",
+            "1 cup grated Parmesan cheese",
+            "2 cups diced Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Press bottom pie crust into a glass pie dish.",
+            "Combine spinach, salt, pepper, and nutmeg in a large bowl. Add ricotta, mozzarella, Parmesan, and Cheddar cheeses. Mix together well and pour into the bottom pie crust. Place second pie crust on top of filling, seal and trim edges.",
+            "Bake in the preheated oven for 40 minutes. Let stand for 10 minutes and cut into wedges."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "inch pie crusts ounce package frozen chopped spinach thawed drained ½ salt ½ freshly ground black pepper ¼ ground nutmeg ounces ricotta cheese ounces mozzarella cheese grated parmesan cheese diced cheddar cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). press bottom pie crust into a glass pie dish. combine spinach, salt, pepper, and nutmeg in a large bowl. add ricotta, mozzarella, parmesan, and cheddar cheeses. mix together well and pour into the bottom pie crust. place second pie crust on top of filling, seal and trim edges. bake in the preheated oven for 40 minutes. let stand for 10 minutes and cut into wedges.",
+        "combined_text": "spinach cheese pie lent lent 2 (9 inch) pie crusts 1 (10 ounce) package frozen chopped spinach, thawed and drained ½ teaspoon salt ½ teaspoon freshly ground black pepper ¼ teaspoon ground nutmeg 15 ounces ricotta cheese 8 ounces mozzarella cheese 1 cup grated parmesan cheese 2 cups diced cheddar cheese preheat the oven to 350 degrees f (175 degrees c). press bottom pie crust into a glass pie dish. combine spinach, salt, pepper, and nutmeg in a large bowl. add ricotta, mozzarella, parmesan, and cheddar cheeses. mix together well and pour into the bottom pie crust. place second pie crust on top of filling, seal and trim edges. bake in the preheated oven for 40 minutes. let stand for 10 minutes and cut into wedges.",
+        "ingredients_raw": [
+            "2 (9 inch) pie crusts",
+            "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+            "½ teaspoon salt",
+            "½ teaspoon freshly ground black pepper",
+            "¼ teaspoon ground nutmeg",
+            "15 ounces ricotta cheese",
+            "8 ounces mozzarella cheese",
+            "1 cup grated Parmesan cheese",
+            "2 cups diced Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Press bottom pie crust into a glass pie dish.",
+            "Combine spinach, salt, pepper, and nutmeg in a large bowl. Add ricotta, mozzarella, Parmesan, and Cheddar cheeses. Mix together well and pour into the bottom pie crust. Place second pie crust on top of filling, seal and trim edges.",
+            "Bake in the preheated oven for 40 minutes. Let stand for 10 minutes and cut into wedges."
+        ],
+        "ingredients_canonical": [
+            "inch pie crusts",
+            "ounce package frozen chopped spinach thawed drained",
+            "½ salt",
+            "½ freshly ground black pepper",
+            "¼ ground nutmeg",
+            "ounces ricotta cheese",
+            "ounces mozzarella cheese",
+            "grated parmesan cheese",
+            "diced cheddar cheese"
+        ],
+        "cuisine_list": [
+            "european",
+            "italian"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spinach and Cheese Stuffed Pasta Shells",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "A stuffed shells recipe for magnificent jumbo pasta bursting with cheesy spinach filling.",
+        "ingredients": [
+            "32 jumbo pasta shells",
+            "2 cups ricotta cheese",
+            "2 (10 ounce) packages frozen chopped spinach, thawed and drained",
+            "1 cup grated Parmesan cheese",
+            "2 tablespoons fennel seed",
+            "2 teaspoons dried basil",
+            "4 cloves garlic, minced",
+            "salt and pepper to taste",
+            "3 ½ cups spaghetti sauce"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of salted water to a boil. Gently place pasta shells in boiling water; return water to a boil. Cook until shells are just tender; drain well.",
+            "Squeeze spinach dry and place in a large mixing bowl. Add ricotta, 1/3 cup Parmesan cheese, fennel, basil, and garlic. Season with salt and pepper; mix well.",
+            "Spread 1/2 cup spaghetti sauce evenly over the bottom of a 9x13-inch baking dish.",
+            "Fill each pasta shell with spinach-cheese mixture. Arrange shells, filling-side up, in the baking dish. Spoon remaining spaghetti sauce over shells. Sprinkle remaining Parmesan cheese on top of shells.",
+            "Cover the pan loosely with aluminum foil and bake in the preheated oven until heated through, about 30 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "jumbo pasta shells ricotta cheese ounce packages frozen chopped spinach thawed drained grated parmesan cheese fennel seed dried basil cloves garlic minced salt pepper taste ½ spaghetti sauce",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). bring a large pot of salted water to a boil. gently place pasta shells in boiling water; return water to a boil. cook until shells are just tender; drain well. squeeze spinach dry and place in a large mixing bowl. add ricotta, 1/3 cup parmesan cheese, fennel, basil, and garlic. season with salt and pepper; mix well. spread 1/2 cup spaghetti sauce evenly over the bottom of a 9x13-inch baking dish. fill each pasta shell with spinach-cheese mixture. arrange shells, filling-side up, in the baking dish. spoon remaining spaghetti sauce over shells. sprinkle remaining parmesan cheese on top of shells. cover the pan loosely with aluminum foil and bake in the preheated oven until heated through, about 30 minutes.",
+        "combined_text": "spinach and cheese stuffed pasta shells lent lent 32 jumbo pasta shells 2 cups ricotta cheese 2 (10 ounce) packages frozen chopped spinach, thawed and drained 1 cup grated parmesan cheese 2 tablespoons fennel seed 2 teaspoons dried basil 4 cloves garlic, minced salt and pepper to taste 3 ½ cups spaghetti sauce preheat the oven to 350 degrees f (175 degrees c). bring a large pot of salted water to a boil. gently place pasta shells in boiling water; return water to a boil. cook until shells are just tender; drain well. squeeze spinach dry and place in a large mixing bowl. add ricotta, 1/3 cup parmesan cheese, fennel, basil, and garlic. season with salt and pepper; mix well. spread 1/2 cup spaghetti sauce evenly over the bottom of a 9x13-inch baking dish. fill each pasta shell with spinach-cheese mixture. arrange shells, filling-side up, in the baking dish. spoon remaining spaghetti sauce over shells. sprinkle remaining parmesan cheese on top of shells. cover the pan loosely with aluminum foil and bake in the preheated oven until heated through, about 30 minutes.",
+        "ingredients_raw": [
+            "32 jumbo pasta shells",
+            "2 cups ricotta cheese",
+            "2 (10 ounce) packages frozen chopped spinach, thawed and drained",
+            "1 cup grated Parmesan cheese",
+            "2 tablespoons fennel seed",
+            "2 teaspoons dried basil",
+            "4 cloves garlic, minced",
+            "salt and pepper to taste",
+            "3 ½ cups spaghetti sauce"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of salted water to a boil. Gently place pasta shells in boiling water; return water to a boil. Cook until shells are just tender; drain well.",
+            "Squeeze spinach dry and place in a large mixing bowl. Add ricotta, 1/3 cup Parmesan cheese, fennel, basil, and garlic. Season with salt and pepper; mix well.",
+            "Spread 1/2 cup spaghetti sauce evenly over the bottom of a 9x13-inch baking dish.",
+            "Fill each pasta shell with spinach-cheese mixture. Arrange shells, filling-side up, in the baking dish. Spoon remaining spaghetti sauce over shells. Sprinkle remaining Parmesan cheese on top of shells.",
+            "Cover the pan loosely with aluminum foil and bake in the preheated oven until heated through, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "jumbo pasta shells",
+            "ricotta cheese",
+            "ounce packages frozen chopped spinach thawed drained",
+            "grated parmesan cheese",
+            "fennel seed",
+            "dried basil",
+            "cloves garlic minced",
+            "salt pepper taste",
+            "½ spaghetti sauce"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Overnight Asparagus Mushroom Strata",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This asparagus strata recipe is one of my mom's best ideas. It is a colorful make-ahead dish that combines toasted English muffins with layers of cheese, mushrooms, and asparagus. It makes brunch a breeze!",
+        "ingredients": [
+            "2 teaspoons butter, or as needed",
+            "1 ¾ cups sliced crimini mushrooms",
+            "5 English muffins, split and toasted",
+            "2 cups shredded Colby-Monterey Jack cheese, divided",
+            "1 pound fresh asparagus, trimmed and cut into 1-inch pieces",
+            "½ cup chopped red bell pepper",
+            "½ onion, finely chopped",
+            "2 cups milk",
+            "8 eggs",
+            "1 teaspoon salt",
+            "1 teaspoon dry mustard powder",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions": [
+            "Melt butter in a skillet over medium heat. Add mushrooms; cook and stir until beginning to brown and most of their liquid has evaporated, about 10 minutes.",
+            "Grease a 9x13-inch baking dish. Arrange eight muffin halves, cut-side up, in the bottom of the dish. Tear remaining muffins into smaller pieces and use to fill any open spaces. Sprinkle with 1/2 of the cheese, then top with asparagus pieces, mushrooms, red pepper, and onion.",
+            "Whisk milk, eggs, salt, mustard powder, and black pepper together in a bowl; pour over muffins and vegetables. Cover the dish and refrigerate, 8 hours to overnight.",
+            "The next day, remove the casserole from the refrigerator and let stand for 30 minutes. Spread remaining cheese over the top.",
+            "Meanwhile, preheat the oven to 375 degrees F (190 degrees C).",
+            "Bake the casserole in the preheated oven until a knife inserted near the edge comes out clean, 40 to 45 minutes. Let stand for 5 to 10 minutes before cutting into squares."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 6,
+        "ingredient_text": "butter as needed ¾ sliced crimini mushrooms english muffins split toasted shredded colby-monterey jack cheese divided pound fresh asparagus trimmed cut into -inch pieces ½ chopped red bell pepper ½ onion finely chopped milk eggs salt dry mustard powder ¼ ground black pepper",
+        "directions_text": "melt butter in a skillet over medium heat. add mushrooms; cook and stir until beginning to brown and most of their liquid has evaporated, about 10 minutes. grease a 9x13-inch baking dish. arrange eight muffin halves, cut-side up, in the bottom of the dish. tear remaining muffins into smaller pieces and use to fill any open spaces. sprinkle with 1/2 of the cheese, then top with asparagus pieces, mushrooms, red pepper, and onion. whisk milk, eggs, salt, mustard powder, and black pepper together in a bowl; pour over muffins and vegetables. cover the dish and refrigerate, 8 hours to overnight. the next day, remove the casserole from the refrigerator and let stand for 30 minutes. spread remaining cheese over the top. meanwhile, preheat the oven to 375 degrees f (190 degrees c). bake the casserole in the preheated oven until a knife inserted near the edge comes out clean, 40 to 45 minutes. let stand for 5 to 10 minutes before cutting into squares.",
+        "combined_text": "overnight asparagus mushroom strata lent lent 2 teaspoons butter, or as needed 1 ¾ cups sliced crimini mushrooms 5 english muffins, split and toasted 2 cups shredded colby-monterey jack cheese, divided 1 pound fresh asparagus, trimmed and cut into 1-inch pieces ½ cup chopped red bell pepper ½ onion, finely chopped 2 cups milk 8 eggs 1 teaspoon salt 1 teaspoon dry mustard powder ¼ teaspoon ground black pepper melt butter in a skillet over medium heat. add mushrooms; cook and stir until beginning to brown and most of their liquid has evaporated, about 10 minutes. grease a 9x13-inch baking dish. arrange eight muffin halves, cut-side up, in the bottom of the dish. tear remaining muffins into smaller pieces and use to fill any open spaces. sprinkle with 1/2 of the cheese, then top with asparagus pieces, mushrooms, red pepper, and onion. whisk milk, eggs, salt, mustard powder, and black pepper together in a bowl; pour over muffins and vegetables. cover the dish and refrigerate, 8 hours to overnight. the next day, remove the casserole from the refrigerator and let stand for 30 minutes. spread remaining cheese over the top. meanwhile, preheat the oven to 375 degrees f (190 degrees c). bake the casserole in the preheated oven until a knife inserted near the edge comes out clean, 40 to 45 minutes. let stand for 5 to 10 minutes before cutting into squares.",
+        "ingredients_raw": [
+            "2 teaspoons butter, or as needed",
+            "1 ¾ cups sliced crimini mushrooms",
+            "5 English muffins, split and toasted",
+            "2 cups shredded Colby-Monterey Jack cheese, divided",
+            "1 pound fresh asparagus, trimmed and cut into 1-inch pieces",
+            "½ cup chopped red bell pepper",
+            "½ onion, finely chopped",
+            "2 cups milk",
+            "8 eggs",
+            "1 teaspoon salt",
+            "1 teaspoon dry mustard powder",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions_raw": [
+            "Melt butter in a skillet over medium heat. Add mushrooms; cook and stir until beginning to brown and most of their liquid has evaporated, about 10 minutes.",
+            "Grease a 9x13-inch baking dish. Arrange eight muffin halves, cut-side up, in the bottom of the dish. Tear remaining muffins into smaller pieces and use to fill any open spaces. Sprinkle with 1/2 of the cheese, then top with asparagus pieces, mushrooms, red pepper, and onion.",
+            "Whisk milk, eggs, salt, mustard powder, and black pepper together in a bowl; pour over muffins and vegetables. Cover the dish and refrigerate, 8 hours to overnight.",
+            "The next day, remove the casserole from the refrigerator and let stand for 30 minutes. Spread remaining cheese over the top.",
+            "Meanwhile, preheat the oven to 375 degrees F (190 degrees C).",
+            "Bake the casserole in the preheated oven until a knife inserted near the edge comes out clean, 40 to 45 minutes. Let stand for 5 to 10 minutes before cutting into squares."
+        ],
+        "ingredients_canonical": [
+            "butter as needed",
+            "¾ sliced crimini mushrooms",
+            "english muffins split toasted",
+            "shredded colby-monterey jack cheese divided",
+            "pound fresh asparagus trimmed cut into -inch pieces",
+            "½ chopped red bell pepper",
+            "½ onion finely chopped",
+            "milk",
+            "eggs",
+            "salt",
+            "dry mustard powder",
+            "¼ ground black pepper"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "german"
+        ],
+        "course_list": [
+            "main",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 79,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Pasta con le Sarde",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This is my version of Sicily's wonderful pasta con le sarde. I'm no survivalist, but like any responsible chef, I like to have a few cans of sardines stocked away, just in case. If times ever get tough, I could survive for hours, maybe days on them.",
+        "ingredients": [
+            "6 tablespoons extra-virgin olive oil, divided",
+            "¾ cup dry bread crumbs",
+            "1 pinch saffron",
+            "¼ cup white wine",
+            "8 ounces bucatini pasta",
+            "1 cup diced yellow onion",
+            "1 cup diced fennel bulb",
+            "1 pinch salt, or to taste",
+            "¼ cup golden raisins",
+            "2 cloves garlic, minced",
+            "1 anchovy fillet",
+            "¼ cup toasted pine nuts",
+            "1 pinch red pepper flakes",
+            "2 (4 ounce) cans sardines packed in oil, drained and crumbled",
+            "3 tablespoons chopped fennel fronds, or more to taste"
+        ],
+        "directions": [
+            "Heat 2 tablespoons oil in a skillet over medium heat. Add bread crumbs; cook and stir until crispy and toasted, 2 to 5 minutes. Transfer bread crumbs to a bowl.",
+            "Grind saffron threads with a mortar and pestle; pour white wine into the mortar and stir to combine.",
+            "Bring a large pot of lightly salted water to a boil. Cook bucatini in boiling water, stirring occasionally, until almost fully cooked through but still firm to the bite, 10 to 11 minutes. Drain, reserving 1/2 cup of the pasta water.",
+            "Heat remaining 4 tablespoons olive oil in large skillet over medium heat. Add onion, fennel, and salt; cook and stir until onion is soft, about 10 minutes. Add raisins, garlic, and anchovy; cook and stir until heated through, about 1 minute.",
+            "Pour wine mixture into the skillet and cook until almost evaporated, about 2 minutes. Pour 1 ladleful reserved pasta water into the skillet and bring to a simmer. Stir in pine nuts and red pepper flakes; simmer until flavors combine and sauce is reduced, about 5 minutes.",
+            "Stir bucatini and sardines into the skillet. Increase the heat to high and cook, stirring frequently and adding more reserved pasta water as necessary, until sauce and pasta are heated through, about 5 minutes. Remove from the heat.",
+            "Ladle into bowls and top with fennel fronds and toasted bread crumbs."
+        ],
+        "num_ingredients": 15,
+        "num_steps": 7,
+        "ingredient_text": "extra-virgin olive oil divided ¾ dry bread crumbs pinch saffron ¼ white wine ounces bucatini pasta diced yellow onion diced fennel bulb pinch salt taste ¼ golden raisins cloves garlic minced anchovy fillet ¼ toasted pine nuts pinch red pepper flakes ounce cans sardines packed in oil drained crumbled chopped fennel fronds more taste",
+        "directions_text": "heat 2 tablespoons oil in a skillet over medium heat. add bread crumbs; cook and stir until crispy and toasted, 2 to 5 minutes. transfer bread crumbs to a bowl. grind saffron threads with a mortar and pestle; pour white wine into the mortar and stir to combine. bring a large pot of lightly salted water to a boil. cook bucatini in boiling water, stirring occasionally, until almost fully cooked through but still firm to the bite, 10 to 11 minutes. drain, reserving 1/2 cup of the pasta water. heat remaining 4 tablespoons olive oil in large skillet over medium heat. add onion, fennel, and salt; cook and stir until onion is soft, about 10 minutes. add raisins, garlic, and anchovy; cook and stir until heated through, about 1 minute. pour wine mixture into the skillet and cook until almost evaporated, about 2 minutes. pour 1 ladleful reserved pasta water into the skillet and bring to a simmer. stir in pine nuts and red pepper flakes; simmer until flavors combine and sauce is reduced, about 5 minutes. stir bucatini and sardines into the skillet. increase the heat to high and cook, stirring frequently and adding more reserved pasta water as necessary, until sauce and pasta are heated through, about 5 minutes. remove from the heat. ladle into bowls and top with fennel fronds and toasted bread crumbs.",
+        "combined_text": "chef john's pasta con le sarde lent lent 6 tablespoons extra-virgin olive oil, divided ¾ cup dry bread crumbs 1 pinch saffron ¼ cup white wine 8 ounces bucatini pasta 1 cup diced yellow onion 1 cup diced fennel bulb 1 pinch salt, or to taste ¼ cup golden raisins 2 cloves garlic, minced 1 anchovy fillet ¼ cup toasted pine nuts 1 pinch red pepper flakes 2 (4 ounce) cans sardines packed in oil, drained and crumbled 3 tablespoons chopped fennel fronds, or more to taste heat 2 tablespoons oil in a skillet over medium heat. add bread crumbs; cook and stir until crispy and toasted, 2 to 5 minutes. transfer bread crumbs to a bowl. grind saffron threads with a mortar and pestle; pour white wine into the mortar and stir to combine. bring a large pot of lightly salted water to a boil. cook bucatini in boiling water, stirring occasionally, until almost fully cooked through but still firm to the bite, 10 to 11 minutes. drain, reserving 1/2 cup of the pasta water. heat remaining 4 tablespoons olive oil in large skillet over medium heat. add onion, fennel, and salt; cook and stir until onion is soft, about 10 minutes. add raisins, garlic, and anchovy; cook and stir until heated through, about 1 minute. pour wine mixture into the skillet and cook until almost evaporated, about 2 minutes. pour 1 ladleful reserved pasta water into the skillet and bring to a simmer. stir in pine nuts and red pepper flakes; simmer until flavors combine and sauce is reduced, about 5 minutes. stir bucatini and sardines into the skillet. increase the heat to high and cook, stirring frequently and adding more reserved pasta water as necessary, until sauce and pasta are heated through, about 5 minutes. remove from the heat. ladle into bowls and top with fennel fronds and toasted bread crumbs.",
+        "ingredients_raw": [
+            "6 tablespoons extra-virgin olive oil, divided",
+            "¾ cup dry bread crumbs",
+            "1 pinch saffron",
+            "¼ cup white wine",
+            "8 ounces bucatini pasta",
+            "1 cup diced yellow onion",
+            "1 cup diced fennel bulb",
+            "1 pinch salt, or to taste",
+            "¼ cup golden raisins",
+            "2 cloves garlic, minced",
+            "1 anchovy fillet",
+            "¼ cup toasted pine nuts",
+            "1 pinch red pepper flakes",
+            "2 (4 ounce) cans sardines packed in oil, drained and crumbled",
+            "3 tablespoons chopped fennel fronds, or more to taste"
+        ],
+        "directions_raw": [
+            "Heat 2 tablespoons oil in a skillet over medium heat. Add bread crumbs; cook and stir until crispy and toasted, 2 to 5 minutes. Transfer bread crumbs to a bowl.",
+            "Grind saffron threads with a mortar and pestle; pour white wine into the mortar and stir to combine.",
+            "Bring a large pot of lightly salted water to a boil. Cook bucatini in boiling water, stirring occasionally, until almost fully cooked through but still firm to the bite, 10 to 11 minutes. Drain, reserving 1/2 cup of the pasta water.",
+            "Heat remaining 4 tablespoons olive oil in large skillet over medium heat. Add onion, fennel, and salt; cook and stir until onion is soft, about 10 minutes. Add raisins, garlic, and anchovy; cook and stir until heated through, about 1 minute.",
+            "Pour wine mixture into the skillet and cook until almost evaporated, about 2 minutes. Pour 1 ladleful reserved pasta water into the skillet and bring to a simmer. Stir in pine nuts and red pepper flakes; simmer until flavors combine and sauce is reduced, about 5 minutes.",
+            "Stir bucatini and sardines into the skillet. Increase the heat to high and cook, stirring frequently and adding more reserved pasta water as necessary, until sauce and pasta are heated through, about 5 minutes. Remove from the heat.",
+            "Ladle into bowls and top with fennel fronds and toasted bread crumbs."
+        ],
+        "ingredients_canonical": [
+            "extra-virgin olive oil divided",
+            "¾ dry bread crumbs",
+            "pinch saffron",
+            "¼ white wine",
+            "ounces bucatini pasta",
+            "diced yellow onion",
+            "diced fennel bulb",
+            "pinch salt taste",
+            "¼ golden raisins",
+            "cloves garlic minced",
+            "anchovy fillet",
+            "¼ toasted pine nuts",
+            "pinch red pepper flakes",
+            "ounce cans sardines packed in oil drained crumbled",
+            "chopped fennel fronds more taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "spanish"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "bread",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 15,
+        "slow_hits": 2,
+        "medium_hits": 12,
+        "cook_speed": "fast",
+        "est_prep_time_min": 42,
+        "est_cook_time_min": 105,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Sweet Matzo Brei",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This sweet matzo brei recipe was handed down from my Italian grandmother. Go figure — it's a Jewish Passover dish! Serve warm with cinnamon sugar, syrup, honey, or even powdered sugar. Double the recipe to serve a bigger family.",
+        "ingredients": [
+            "5 matzo sheets",
+            "1 cup milk, or more as needed",
+            "2 large eggs",
+            "2 tablespoons ground cinnamon, or to taste",
+            "2 tablespoons white sugar, or to taste",
+            "1 teaspoon vanilla extract",
+            "½ cup butter"
+        ],
+        "directions": [
+            "Pass matzo sheets one at a time under cool running water briefly, then crumble into a large bowl. Stir in milk, eggs, cinnamon, sugar, and vanilla to form an evenly moist batter. Add more milk if batter is too dry.",
+            "Heat butter in a large skillet over medium heat. Scoop a generous spoonful of batter into hot butter and flatten with the back of a spatula. Cook until golden brown, 3 to 5 minutes per side. Repeat with remaining batter."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "matzo sheets milk more as needed large eggs ground cinnamon taste white sugar taste vanilla extract ½ butter",
+        "directions_text": "pass matzo sheets one at a time under cool running water briefly, then crumble into a large bowl. stir in milk, eggs, cinnamon, sugar, and vanilla to form an evenly moist batter. add more milk if batter is too dry. heat butter in a large skillet over medium heat. scoop a generous spoonful of batter into hot butter and flatten with the back of a spatula. cook until golden brown, 3 to 5 minutes per side. repeat with remaining batter.",
+        "combined_text": "sweet matzo brei lent lent 5 matzo sheets 1 cup milk, or more as needed 2 large eggs 2 tablespoons ground cinnamon, or to taste 2 tablespoons white sugar, or to taste 1 teaspoon vanilla extract ½ cup butter pass matzo sheets one at a time under cool running water briefly, then crumble into a large bowl. stir in milk, eggs, cinnamon, sugar, and vanilla to form an evenly moist batter. add more milk if batter is too dry. heat butter in a large skillet over medium heat. scoop a generous spoonful of batter into hot butter and flatten with the back of a spatula. cook until golden brown, 3 to 5 minutes per side. repeat with remaining batter.",
+        "ingredients_raw": [
+            "5 matzo sheets",
+            "1 cup milk, or more as needed",
+            "2 large eggs",
+            "2 tablespoons ground cinnamon, or to taste",
+            "2 tablespoons white sugar, or to taste",
+            "1 teaspoon vanilla extract",
+            "½ cup butter"
+        ],
+        "directions_raw": [
+            "Pass matzo sheets one at a time under cool running water briefly, then crumble into a large bowl. Stir in milk, eggs, cinnamon, sugar, and vanilla to form an evenly moist batter. Add more milk if batter is too dry.",
+            "Heat butter in a large skillet over medium heat. Scoop a generous spoonful of batter into hot butter and flatten with the back of a spatula. Cook until golden brown, 3 to 5 minutes per side. Repeat with remaining batter."
+        ],
+        "ingredients_canonical": [
+            "matzo sheets",
+            "milk more as needed",
+            "large eggs",
+            "ground cinnamon taste",
+            "white sugar taste",
+            "vanilla extract",
+            "½ butter"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 38,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Real New Orleans-Style BBQ Shrimp",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This oven-baked barbecue shrimp recipe is one of my husband's favorite dishes. The recipe isn't exactly healthy, but it is fabulous and feeds a lot of people. It is a common dish in Louisiana. You can cut it in half for a family dinner.",
+        "ingredients": [
+            "5 pounds medium shrimp, with shells",
+            "2 pounds butter",
+            "1 medium sweet onion, minced",
+            "8 cloves garlic, minced",
+            "2 stalks celery, diced",
+            "¼ cup chopped fresh parsley",
+            "2 tablespoons Creole seasoning",
+            "2 tablespoons dried rosemary",
+            "ground black pepper to taste",
+            "½ cup Worcestershire sauce",
+            "2 teaspoons fresh lemon juice"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Arrange the shrimp in a single layer in as many baking dishes as you need. Set aside.",
+            "Melt 1/2 cup of butter in a large skillet over medium heat. Add onion, garlic, celery, parsley, Creole seasoning, and rosemary. Cook and stir for a few minutes, until onion is tender. Add rest of butter and cook until melted over low heat. Stir in pepper, Worcestershire sauce, and lemon juice. Pour this mixture over shrimp so that shrimp are completely submerged.",
+            "Bake in the preheated oven until shrimp are pink, 15 to 20 minutes."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "pounds medium shrimp with shells pounds butter medium sweet onion minced cloves garlic minced stalks celery diced ¼ chopped fresh parsley creole seasoning dried rosemary ground black pepper taste ½ worcestershire sauce fresh lemon juice",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). arrange the shrimp in a single layer in as many baking dishes as you need. set aside. melt 1/2 cup of butter in a large skillet over medium heat. add onion, garlic, celery, parsley, creole seasoning, and rosemary. cook and stir for a few minutes, until onion is tender. add rest of butter and cook until melted over low heat. stir in pepper, worcestershire sauce, and lemon juice. pour this mixture over shrimp so that shrimp are completely submerged. bake in the preheated oven until shrimp are pink, 15 to 20 minutes.",
+        "combined_text": "real new orleans-style bbq shrimp lent lent 5 pounds medium shrimp, with shells 2 pounds butter 1 medium sweet onion, minced 8 cloves garlic, minced 2 stalks celery, diced ¼ cup chopped fresh parsley 2 tablespoons creole seasoning 2 tablespoons dried rosemary ground black pepper to taste ½ cup worcestershire sauce 2 teaspoons fresh lemon juice preheat the oven to 350 degrees f (175 degrees c). arrange the shrimp in a single layer in as many baking dishes as you need. set aside. melt 1/2 cup of butter in a large skillet over medium heat. add onion, garlic, celery, parsley, creole seasoning, and rosemary. cook and stir for a few minutes, until onion is tender. add rest of butter and cook until melted over low heat. stir in pepper, worcestershire sauce, and lemon juice. pour this mixture over shrimp so that shrimp are completely submerged. bake in the preheated oven until shrimp are pink, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "5 pounds medium shrimp, with shells",
+            "2 pounds butter",
+            "1 medium sweet onion, minced",
+            "8 cloves garlic, minced",
+            "2 stalks celery, diced",
+            "¼ cup chopped fresh parsley",
+            "2 tablespoons Creole seasoning",
+            "2 tablespoons dried rosemary",
+            "ground black pepper to taste",
+            "½ cup Worcestershire sauce",
+            "2 teaspoons fresh lemon juice"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Arrange the shrimp in a single layer in as many baking dishes as you need. Set aside.",
+            "Melt 1/2 cup of butter in a large skillet over medium heat. Add onion, garlic, celery, parsley, Creole seasoning, and rosemary. Cook and stir for a few minutes, until onion is tender. Add rest of butter and cook until melted over low heat. Stir in pepper, Worcestershire sauce, and lemon juice. Pour this mixture over shrimp so that shrimp are completely submerged.",
+            "Bake in the preheated oven until shrimp are pink, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "pounds medium shrimp with shells",
+            "pounds butter",
+            "medium sweet onion minced",
+            "cloves garlic minced",
+            "stalks celery diced",
+            "¼ chopped fresh parsley",
+            "creole seasoning",
+            "dried rosemary",
+            "ground black pepper taste",
+            "½ worcestershire sauce",
+            "fresh lemon juice"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 68,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Chef John's Baked Eggs",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "If you enjoy huevos rancheros, you will love Chef John's baked eggs recipe. The spicy sauce mingles with just barely set eggs in a similar way, and when you start scooping this up with toasted chunks of bread, it gets borderline magical.",
+        "ingredients": [
+            "⅓ cup marinara sauce",
+            "1 ½ teaspoons chopped fresh flat-leaf parsley",
+            "½ teaspoon red pepper flakes",
+            "salt and freshly ground black pepper to taste",
+            "2 eggs",
+            "1 tablespoon finely grated Parmigiano-Reggiano cheese",
+            "2 teaspoons olive oil",
+            "2 tablespoons heavy cream",
+            "2 slices toast"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Spread marinara sauce in the bottom of a small baking dish, about 1/4-inch high. Sprinkle with parsley, red pepper flakes, salt, and black pepper. Make a narrow well in center of sauce for eggs.",
+            "Crack each egg into a separate ramekin; gently pour into the well in the sauce.",
+            "Sprinkle with Parmigiano-Reggiano cheese, then drizzle with olive oil, followed by cream; season with salt and black pepper.",
+            "Bake in the preheated oven until yolks are just set, 10 to 12 minutes. Serve with toast."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "⅓ marinara sauce ½ chopped fresh flat-leaf parsley ½ red pepper flakes salt freshly ground black pepper taste eggs finely grated parmigiano-reggiano cheese olive oil heavy cream slices toast",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). spread marinara sauce in the bottom of a small baking dish, about 1/4-inch high. sprinkle with parsley, red pepper flakes, salt, and black pepper. make a narrow well in center of sauce for eggs. crack each egg into a separate ramekin; gently pour into the well in the sauce. sprinkle with parmigiano-reggiano cheese, then drizzle with olive oil, followed by cream; season with salt and black pepper. bake in the preheated oven until yolks are just set, 10 to 12 minutes. serve with toast.",
+        "combined_text": "chef john's baked eggs lent lent ⅓ cup marinara sauce 1 ½ teaspoons chopped fresh flat-leaf parsley ½ teaspoon red pepper flakes salt and freshly ground black pepper to taste 2 eggs 1 tablespoon finely grated parmigiano-reggiano cheese 2 teaspoons olive oil 2 tablespoons heavy cream 2 slices toast preheat the oven to 400 degrees f (200 degrees c). spread marinara sauce in the bottom of a small baking dish, about 1/4-inch high. sprinkle with parsley, red pepper flakes, salt, and black pepper. make a narrow well in center of sauce for eggs. crack each egg into a separate ramekin; gently pour into the well in the sauce. sprinkle with parmigiano-reggiano cheese, then drizzle with olive oil, followed by cream; season with salt and black pepper. bake in the preheated oven until yolks are just set, 10 to 12 minutes. serve with toast.",
+        "ingredients_raw": [
+            "⅓ cup marinara sauce",
+            "1 ½ teaspoons chopped fresh flat-leaf parsley",
+            "½ teaspoon red pepper flakes",
+            "salt and freshly ground black pepper to taste",
+            "2 eggs",
+            "1 tablespoon finely grated Parmigiano-Reggiano cheese",
+            "2 teaspoons olive oil",
+            "2 tablespoons heavy cream",
+            "2 slices toast"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Spread marinara sauce in the bottom of a small baking dish, about 1/4-inch high. Sprinkle with parsley, red pepper flakes, salt, and black pepper. Make a narrow well in center of sauce for eggs.",
+            "Crack each egg into a separate ramekin; gently pour into the well in the sauce.",
+            "Sprinkle with Parmigiano-Reggiano cheese, then drizzle with olive oil, followed by cream; season with salt and black pepper.",
+            "Bake in the preheated oven until yolks are just set, 10 to 12 minutes. Serve with toast."
+        ],
+        "ingredients_canonical": [
+            "⅓ marinara sauce",
+            "½ chopped fresh flat-leaf parsley",
+            "½ red pepper flakes",
+            "salt freshly ground black pepper taste",
+            "eggs",
+            "finely grated parmigiano-reggiano cheese",
+            "olive oil",
+            "heavy cream",
+            "slices toast"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Potato Curry",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This is a great creamy curry recipe. It is very mild, and unlike typical curries. A crowd pleaser!",
+        "ingredients": [
+            "3 tablespoons ghee",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon turmeric",
+            "1 teaspoon ground coriander",
+            "1 teaspoon salt",
+            "½ teaspoon mustard seed",
+            "½ teaspoon ground cayenne pepper",
+            "6 medium potatoes, peeled and diced",
+            "2 cups water",
+            "1 cup yogurt",
+            "⅔ cup frozen green peas"
+        ],
+        "directions": [
+            "Heat the ghee in a skillet over medium heat, and mix in the cumin, turmeric, coriander, salt, mustard seed, and cayenne pepper. Place potatoes in the skillet, and stir to evenly coat with the ghee. Cook 10 minutes, stirring often. Pour water into the skillet. Reduce heat to low, and simmer 30 minutes, until potatoes are tender.",
+            "Mix the yogurt and peas into the saucepan. Continue cooking until heated through."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 2,
+        "ingredient_text": "ghee cumin seeds turmeric ground coriander salt ½ mustard seed ½ ground cayenne pepper medium potatoes peeled diced water yogurt ⅔ frozen green peas",
+        "directions_text": "heat the ghee in a skillet over medium heat, and mix in the cumin, turmeric, coriander, salt, mustard seed, and cayenne pepper. place potatoes in the skillet, and stir to evenly coat with the ghee. cook 10 minutes, stirring often. pour water into the skillet. reduce heat to low, and simmer 30 minutes, until potatoes are tender. mix the yogurt and peas into the saucepan. continue cooking until heated through.",
+        "combined_text": "potato curry lent lent 3 tablespoons ghee 1 teaspoon cumin seeds 1 teaspoon turmeric 1 teaspoon ground coriander 1 teaspoon salt ½ teaspoon mustard seed ½ teaspoon ground cayenne pepper 6 medium potatoes, peeled and diced 2 cups water 1 cup yogurt ⅔ cup frozen green peas heat the ghee in a skillet over medium heat, and mix in the cumin, turmeric, coriander, salt, mustard seed, and cayenne pepper. place potatoes in the skillet, and stir to evenly coat with the ghee. cook 10 minutes, stirring often. pour water into the skillet. reduce heat to low, and simmer 30 minutes, until potatoes are tender. mix the yogurt and peas into the saucepan. continue cooking until heated through.",
+        "ingredients_raw": [
+            "3 tablespoons ghee",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon turmeric",
+            "1 teaspoon ground coriander",
+            "1 teaspoon salt",
+            "½ teaspoon mustard seed",
+            "½ teaspoon ground cayenne pepper",
+            "6 medium potatoes, peeled and diced",
+            "2 cups water",
+            "1 cup yogurt",
+            "⅔ cup frozen green peas"
+        ],
+        "directions_raw": [
+            "Heat the ghee in a skillet over medium heat, and mix in the cumin, turmeric, coriander, salt, mustard seed, and cayenne pepper. Place potatoes in the skillet, and stir to evenly coat with the ghee. Cook 10 minutes, stirring often. Pour water into the skillet. Reduce heat to low, and simmer 30 minutes, until potatoes are tender.",
+            "Mix the yogurt and peas into the saucepan. Continue cooking until heated through."
+        ],
+        "ingredients_canonical": [
+            "ghee",
+            "cumin seeds",
+            "turmeric",
+            "ground coriander",
+            "salt",
+            "½ mustard seed",
+            "½ ground cayenne pepper",
+            "medium potatoes peeled diced",
+            "water",
+            "yogurt",
+            "⅔ frozen green peas"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "german",
+            "greek",
+            "indian",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 55,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mediterranean-Style Eggplant Pasta",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "A Mediterranean-style eggplant sauce for pasta that can be served with chicken for meat-lovers. Use good quality pasta, cheeses, and fresh herbs for best results. Serve with slivered or grated Parmesan. Serve with a green salad.",
+        "ingredients": [
+            "1 eggplant, cut into 3/4-inch slices",
+            "salt as needed",
+            "9 ounces pappardelle pasta (wide fettuccine noodles)",
+            "3 tablespoons olive oil, divided",
+            "1 onion, finely chopped",
+            "3 cloves garlic, minced",
+            "2 teaspoons dried oregano",
+            "1 (18 ounce) can crushed tomatoes",
+            "1 tablespoon red wine vinegar",
+            "1 teaspoon salt",
+            "1 teaspoon white sugar",
+            "½ teaspoon freshly ground black pepper",
+            "½ pound fresh buffalo mozzarella cheese, torn into pieces",
+            "½ cup chopped fresh basil, or more to taste"
+        ],
+        "directions": [
+            "Arrange eggplant slices in a colander and sprinkle with enough salt to lightly coat; drain for about 10 minutes. Rinse eggplant and pat dry with paper towels. Chop eggplant into cubes.",
+            "Bring a large pot of lightly salted water to a boil. Cook pappardelle at a boil until tender yet firm to the bite, about 10 to 11 minutes; drain.",
+            "Heat 1 1/2 tablespoon olive oil in a skillet over medium heat; cook and stir eggplant, adding more oil if eggplant gets dry, until browned, 5 to 10 minutes. Transfer eggplant to a bowl, reserving oil in the skillet.",
+            "Heat remaining oil in the same skillet; cook and stir onion and garlic until golden, about 10 minutes. Return eggplant to skillet and season with oregano; cook and stir for 1 minute more.",
+            "Mix tomatoes, vinegar, salt, sugar, and black pepper into eggplant mixture; cover skillet and simmer sauce until eggplant is softened, about 10 minutes. Mix sauce with pasta in a bowl; top with mozzarella cheese and basil."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 5,
+        "ingredient_text": "eggplant cut into -inch slices salt as needed ounces pappardelle pasta wide fettuccine noodles olive oil divided onion finely chopped cloves garlic minced dried oregano ounce can crushed tomatoes red wine vinegar salt white sugar ½ freshly ground black pepper ½ pound fresh buffalo mozzarella cheese torn into pieces ½ chopped fresh basil more taste",
+        "directions_text": "arrange eggplant slices in a colander and sprinkle with enough salt to lightly coat; drain for about 10 minutes. rinse eggplant and pat dry with paper towels. chop eggplant into cubes. bring a large pot of lightly salted water to a boil. cook pappardelle at a boil until tender yet firm to the bite, about 10 to 11 minutes; drain. heat 1 1/2 tablespoon olive oil in a skillet over medium heat; cook and stir eggplant, adding more oil if eggplant gets dry, until browned, 5 to 10 minutes. transfer eggplant to a bowl, reserving oil in the skillet. heat remaining oil in the same skillet; cook and stir onion and garlic until golden, about 10 minutes. return eggplant to skillet and season with oregano; cook and stir for 1 minute more. mix tomatoes, vinegar, salt, sugar, and black pepper into eggplant mixture; cover skillet and simmer sauce until eggplant is softened, about 10 minutes. mix sauce with pasta in a bowl; top with mozzarella cheese and basil.",
+        "combined_text": "mediterranean-style eggplant pasta lent lent 1 eggplant, cut into 3/4-inch slices salt as needed 9 ounces pappardelle pasta (wide fettuccine noodles) 3 tablespoons olive oil, divided 1 onion, finely chopped 3 cloves garlic, minced 2 teaspoons dried oregano 1 (18 ounce) can crushed tomatoes 1 tablespoon red wine vinegar 1 teaspoon salt 1 teaspoon white sugar ½ teaspoon freshly ground black pepper ½ pound fresh buffalo mozzarella cheese, torn into pieces ½ cup chopped fresh basil, or more to taste arrange eggplant slices in a colander and sprinkle with enough salt to lightly coat; drain for about 10 minutes. rinse eggplant and pat dry with paper towels. chop eggplant into cubes. bring a large pot of lightly salted water to a boil. cook pappardelle at a boil until tender yet firm to the bite, about 10 to 11 minutes; drain. heat 1 1/2 tablespoon olive oil in a skillet over medium heat; cook and stir eggplant, adding more oil if eggplant gets dry, until browned, 5 to 10 minutes. transfer eggplant to a bowl, reserving oil in the skillet. heat remaining oil in the same skillet; cook and stir onion and garlic until golden, about 10 minutes. return eggplant to skillet and season with oregano; cook and stir for 1 minute more. mix tomatoes, vinegar, salt, sugar, and black pepper into eggplant mixture; cover skillet and simmer sauce until eggplant is softened, about 10 minutes. mix sauce with pasta in a bowl; top with mozzarella cheese and basil.",
+        "ingredients_raw": [
+            "1 eggplant, cut into 3/4-inch slices",
+            "salt as needed",
+            "9 ounces pappardelle pasta (wide fettuccine noodles)",
+            "3 tablespoons olive oil, divided",
+            "1 onion, finely chopped",
+            "3 cloves garlic, minced",
+            "2 teaspoons dried oregano",
+            "1 (18 ounce) can crushed tomatoes",
+            "1 tablespoon red wine vinegar",
+            "1 teaspoon salt",
+            "1 teaspoon white sugar",
+            "½ teaspoon freshly ground black pepper",
+            "½ pound fresh buffalo mozzarella cheese, torn into pieces",
+            "½ cup chopped fresh basil, or more to taste"
+        ],
+        "directions_raw": [
+            "Arrange eggplant slices in a colander and sprinkle with enough salt to lightly coat; drain for about 10 minutes. Rinse eggplant and pat dry with paper towels. Chop eggplant into cubes.",
+            "Bring a large pot of lightly salted water to a boil. Cook pappardelle at a boil until tender yet firm to the bite, about 10 to 11 minutes; drain.",
+            "Heat 1 1/2 tablespoon olive oil in a skillet over medium heat; cook and stir eggplant, adding more oil if eggplant gets dry, until browned, 5 to 10 minutes. Transfer eggplant to a bowl, reserving oil in the skillet.",
+            "Heat remaining oil in the same skillet; cook and stir onion and garlic until golden, about 10 minutes. Return eggplant to skillet and season with oregano; cook and stir for 1 minute more.",
+            "Mix tomatoes, vinegar, salt, sugar, and black pepper into eggplant mixture; cover skillet and simmer sauce until eggplant is softened, about 10 minutes. Mix sauce with pasta in a bowl; top with mozzarella cheese and basil."
+        ],
+        "ingredients_canonical": [
+            "eggplant cut into -inch slices",
+            "salt as needed",
+            "ounces pappardelle pasta wide fettuccine noodles",
+            "olive oil divided",
+            "onion finely chopped",
+            "cloves garlic minced",
+            "dried oregano",
+            "ounce can crushed tomatoes",
+            "red wine vinegar",
+            "salt",
+            "white sugar",
+            "½ freshly ground black pepper",
+            "½ pound fresh buffalo mozzarella cheese torn into pieces",
+            "½ chopped fresh basil more taste"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 13,
+        "slow_hits": 3,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 35,
+        "est_cook_time_min": 91,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "The Best Veggie Sandwich",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "A local restaurant used to serve a version of this sandwich but when they discontinued it, I experimented and made it better with the addition of dry roasted sesame seeds and using English Muffins instead of whole wheat bread. Garnish each with a black olive, if desired.",
+        "ingredients": [
+            "4 English muffins, split and toasted",
+            "1 avocado, mashed",
+            "1 cup alfalfa sprouts",
+            "1 small tomato, chopped",
+            "1 small sweet onion, chopped",
+            "4 tablespoons Ranch-style salad dressing",
+            "4 tablespoons toasted sesame seeds",
+            "1 cup shredded smoked Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat oven to broil.",
+            "Place each muffin open-faced on a cookie sheet. Spread each half with mashed avocado; place halves close together. Distributing ingredients evenly, cover each half with sprouts, tomatoes, onion, dressing, sesame seeds and cheese.",
+            "Place under broiler for about 5 minutes, or until cheese is melted and bubbly."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "english muffins split toasted avocado mashed alfalfa sprouts small tomato chopped small sweet onion chopped ranch-style salad dressing toasted sesame seeds shredded smoked cheddar cheese",
+        "directions_text": "preheat oven to broil. place each muffin open-faced on a cookie sheet. spread each half with mashed avocado; place halves close together. distributing ingredients evenly, cover each half with sprouts, tomatoes, onion, dressing, sesame seeds and cheese. place under broiler for about 5 minutes, or until cheese is melted and bubbly.",
+        "combined_text": "the best veggie sandwich lent lent 4 english muffins, split and toasted 1 avocado, mashed 1 cup alfalfa sprouts 1 small tomato, chopped 1 small sweet onion, chopped 4 tablespoons ranch-style salad dressing 4 tablespoons toasted sesame seeds 1 cup shredded smoked cheddar cheese preheat oven to broil. place each muffin open-faced on a cookie sheet. spread each half with mashed avocado; place halves close together. distributing ingredients evenly, cover each half with sprouts, tomatoes, onion, dressing, sesame seeds and cheese. place under broiler for about 5 minutes, or until cheese is melted and bubbly.",
+        "ingredients_raw": [
+            "4 English muffins, split and toasted",
+            "1 avocado, mashed",
+            "1 cup alfalfa sprouts",
+            "1 small tomato, chopped",
+            "1 small sweet onion, chopped",
+            "4 tablespoons Ranch-style salad dressing",
+            "4 tablespoons toasted sesame seeds",
+            "1 cup shredded smoked Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat oven to broil.",
+            "Place each muffin open-faced on a cookie sheet. Spread each half with mashed avocado; place halves close together. Distributing ingredients evenly, cover each half with sprouts, tomatoes, onion, dressing, sesame seeds and cheese.",
+            "Place under broiler for about 5 minutes, or until cheese is melted and bubbly."
+        ],
+        "ingredients_canonical": [
+            "english muffins split toasted",
+            "avocado mashed",
+            "alfalfa sprouts",
+            "small tomato chopped",
+            "small sweet onion chopped",
+            "ranch-style salad dressing",
+            "toasted sesame seeds",
+            "shredded smoked cheddar cheese"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "european",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "dessert",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Potato Lasagna",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This lasagna is made using potatoes in place of noodles. The perfect mix of fresh veggies, cheese and tomato sauce!",
+        "ingredients": [
+            "10 small red potatoes, thinly sliced",
+            "10 baby carrots, sliced",
+            "1 large green bell pepper, chopped",
+            "½ Vidalia onion, chopped",
+            "3 cloves garlic, chopped",
+            "2 cups baby spinach leaves",
+            "¼ cup shredded smoked Gouda cheese",
+            "1 ½ cups shredded mozzarella cheese",
+            "½ cup shredded sharp Cheddar cheese",
+            "salt and pepper to taste",
+            "1 (14 ounce) jar vodka marinara sauce"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 2 quart casserole dish.",
+            "In a medium bowl, toss together the carrots, bell pepper, onion, garlic, and spinach. In a separate bowl, blend together the Gouda cheese, mozzarella cheese, and sharp Cheddar cheese. Set aside.",
+            "Place two layers of sliced potatoes in the bottom of the prepared casserole dish. Season the potatoes with a little salt and pepper. Top with a layer of the spinach mixture, and pour about 1/2 cup of sauce over all. Sprinkle with some of the cheese blend. Repeat layering with remaining potatoes, vegetables, sauce and cheese, ending with cheese on the top.",
+            "Bake covered for 35 minutes in the preheated oven. Remove the lid, and bake for 10 more minutes until the top is browned."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "small red potatoes thinly sliced baby carrots sliced large green bell pepper chopped ½ vidalia onion chopped cloves garlic chopped baby spinach leaves ¼ shredded smoked gouda cheese ½ shredded mozzarella cheese ½ shredded sharp cheddar cheese salt pepper taste ounce jar vodka marinara sauce",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). lightly grease a 2 quart casserole dish. in a medium bowl, toss together the carrots, bell pepper, onion, garlic, and spinach. in a separate bowl, blend together the gouda cheese, mozzarella cheese, and sharp cheddar cheese. set aside. place two layers of sliced potatoes in the bottom of the prepared casserole dish. season the potatoes with a little salt and pepper. top with a layer of the spinach mixture, and pour about 1/2 cup of sauce over all. sprinkle with some of the cheese blend. repeat layering with remaining potatoes, vegetables, sauce and cheese, ending with cheese on the top. bake covered for 35 minutes in the preheated oven. remove the lid, and bake for 10 more minutes until the top is browned.",
+        "combined_text": "potato lasagna lent lent 10 small red potatoes, thinly sliced 10 baby carrots, sliced 1 large green bell pepper, chopped ½ vidalia onion, chopped 3 cloves garlic, chopped 2 cups baby spinach leaves ¼ cup shredded smoked gouda cheese 1 ½ cups shredded mozzarella cheese ½ cup shredded sharp cheddar cheese salt and pepper to taste 1 (14 ounce) jar vodka marinara sauce preheat the oven to 350 degrees f (175 degrees c). lightly grease a 2 quart casserole dish. in a medium bowl, toss together the carrots, bell pepper, onion, garlic, and spinach. in a separate bowl, blend together the gouda cheese, mozzarella cheese, and sharp cheddar cheese. set aside. place two layers of sliced potatoes in the bottom of the prepared casserole dish. season the potatoes with a little salt and pepper. top with a layer of the spinach mixture, and pour about 1/2 cup of sauce over all. sprinkle with some of the cheese blend. repeat layering with remaining potatoes, vegetables, sauce and cheese, ending with cheese on the top. bake covered for 35 minutes in the preheated oven. remove the lid, and bake for 10 more minutes until the top is browned.",
+        "ingredients_raw": [
+            "10 small red potatoes, thinly sliced",
+            "10 baby carrots, sliced",
+            "1 large green bell pepper, chopped",
+            "½ Vidalia onion, chopped",
+            "3 cloves garlic, chopped",
+            "2 cups baby spinach leaves",
+            "¼ cup shredded smoked Gouda cheese",
+            "1 ½ cups shredded mozzarella cheese",
+            "½ cup shredded sharp Cheddar cheese",
+            "salt and pepper to taste",
+            "1 (14 ounce) jar vodka marinara sauce"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 2 quart casserole dish.",
+            "In a medium bowl, toss together the carrots, bell pepper, onion, garlic, and spinach. In a separate bowl, blend together the Gouda cheese, mozzarella cheese, and sharp Cheddar cheese. Set aside.",
+            "Place two layers of sliced potatoes in the bottom of the prepared casserole dish. Season the potatoes with a little salt and pepper. Top with a layer of the spinach mixture, and pour about 1/2 cup of sauce over all. Sprinkle with some of the cheese blend. Repeat layering with remaining potatoes, vegetables, sauce and cheese, ending with cheese on the top.",
+            "Bake covered for 35 minutes in the preheated oven. Remove the lid, and bake for 10 more minutes until the top is browned."
+        ],
+        "ingredients_canonical": [
+            "small red potatoes thinly sliced",
+            "baby carrots sliced",
+            "large green bell pepper chopped",
+            "½ vidalia onion chopped",
+            "cloves garlic chopped",
+            "baby spinach leaves",
+            "¼ shredded smoked gouda cheese",
+            "½ shredded mozzarella cheese",
+            "½ shredded sharp cheddar cheese",
+            "salt pepper taste",
+            "ounce jar vodka marinara sauce"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 51,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Eggs Poached in Tomato Sauce",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This is very old recipe given to my by my mother-in-law. Serve over penne or pasta of your choice.",
+        "ingredients": [
+            "2 tablespoons olive oil, or to taste",
+            "½ onion, finely chopped",
+            "2 cloves garlic, finely chopped",
+            "8 cups tomato sauce",
+            "¼ cup dry red wine, or more to taste",
+            "1 tablespoon dried parsley",
+            "1 tablespoon dried basil",
+            "1 tablespoon dried oregano",
+            "½ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper, or more to taste",
+            "1 bay leaf, or more to taste",
+            "1 pinch red pepper flakes",
+            "8 eggs"
+        ],
+        "directions": [
+            "Heat olive oil in a large skillet over medium heat. Cook and stir onion and garlic in hot oil until tender, about 5 minutes.",
+            "Stir tomato sauce, red wine, parsley, basil, oregano, salt, pepper, bay leaf, and red pepper flakes with the onion and garlic; bring to a simmer, reduce heat to low, and cook until the sauce has thickened, about 45 minutes.",
+            "Crack eggs into a bowl one at a time and gently slide them into the tomato sauce; cook until beginning to firm, 2 to 3 minutes. Spoon sauce over the eggs to cover. Place a lid on the skillet and simmer until sauce has thickened, about 30 minutes."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 3,
+        "ingredient_text": "olive oil taste ½ onion finely chopped cloves garlic finely chopped tomato sauce ¼ dry red wine more taste dried parsley dried basil dried oregano ½ salt ¼ freshly ground black pepper more taste bay leaf more taste pinch red pepper flakes eggs",
+        "directions_text": "heat olive oil in a large skillet over medium heat. cook and stir onion and garlic in hot oil until tender, about 5 minutes. stir tomato sauce, red wine, parsley, basil, oregano, salt, pepper, bay leaf, and red pepper flakes with the onion and garlic; bring to a simmer, reduce heat to low, and cook until the sauce has thickened, about 45 minutes. crack eggs into a bowl one at a time and gently slide them into the tomato sauce; cook until beginning to firm, 2 to 3 minutes. spoon sauce over the eggs to cover. place a lid on the skillet and simmer until sauce has thickened, about 30 minutes.",
+        "combined_text": "eggs poached in tomato sauce lent lent 2 tablespoons olive oil, or to taste ½ onion, finely chopped 2 cloves garlic, finely chopped 8 cups tomato sauce ¼ cup dry red wine, or more to taste 1 tablespoon dried parsley 1 tablespoon dried basil 1 tablespoon dried oregano ½ teaspoon salt ¼ teaspoon freshly ground black pepper, or more to taste 1 bay leaf, or more to taste 1 pinch red pepper flakes 8 eggs heat olive oil in a large skillet over medium heat. cook and stir onion and garlic in hot oil until tender, about 5 minutes. stir tomato sauce, red wine, parsley, basil, oregano, salt, pepper, bay leaf, and red pepper flakes with the onion and garlic; bring to a simmer, reduce heat to low, and cook until the sauce has thickened, about 45 minutes. crack eggs into a bowl one at a time and gently slide them into the tomato sauce; cook until beginning to firm, 2 to 3 minutes. spoon sauce over the eggs to cover. place a lid on the skillet and simmer until sauce has thickened, about 30 minutes.",
+        "ingredients_raw": [
+            "2 tablespoons olive oil, or to taste",
+            "½ onion, finely chopped",
+            "2 cloves garlic, finely chopped",
+            "8 cups tomato sauce",
+            "¼ cup dry red wine, or more to taste",
+            "1 tablespoon dried parsley",
+            "1 tablespoon dried basil",
+            "1 tablespoon dried oregano",
+            "½ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper, or more to taste",
+            "1 bay leaf, or more to taste",
+            "1 pinch red pepper flakes",
+            "8 eggs"
+        ],
+        "directions_raw": [
+            "Heat olive oil in a large skillet over medium heat. Cook and stir onion and garlic in hot oil until tender, about 5 minutes.",
+            "Stir tomato sauce, red wine, parsley, basil, oregano, salt, pepper, bay leaf, and red pepper flakes with the onion and garlic; bring to a simmer, reduce heat to low, and cook until the sauce has thickened, about 45 minutes.",
+            "Crack eggs into a bowl one at a time and gently slide them into the tomato sauce; cook until beginning to firm, 2 to 3 minutes. Spoon sauce over the eggs to cover. Place a lid on the skillet and simmer until sauce has thickened, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "olive oil taste",
+            "½ onion finely chopped",
+            "cloves garlic finely chopped",
+            "tomato sauce",
+            "¼ dry red wine more taste",
+            "dried parsley",
+            "dried basil",
+            "dried oregano",
+            "½ salt",
+            "¼ freshly ground black pepper more taste",
+            "bay leaf more taste",
+            "pinch red pepper flakes",
+            "eggs"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 2,
+        "slow_hits": 3,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 80,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Jumbo Shrimp and Asparagus",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "If you don't love asparagus, this will bring you into the fold. It's fantastic.",
+        "ingredients": [
+            "2 cups water",
+            "2 bunches asparagus, trimmed and cut into 1 inch pieces",
+            "2 tablespoons vegetable oil",
+            "24 large fresh shrimp, peeled, deveined and cut in half lengthwise",
+            "2 teaspoons chopped fresh ginger root",
+            "3 tablespoons soy sauce",
+            "2 teaspoons granulated sugar",
+            "1 teaspoon dry sherry",
+            "salt to taste"
+        ],
+        "directions": [
+            "In a medium saucepan, bring two cups of water to a boil. Cook asparagus in boiling water for 3 minutes. Drain, reserving 2 tablespoons of liquid.",
+            "Heat the oil in a skillet over medium-high heat. Saute the shrimp pieces until the color changes, about 3 to 5 minutes. Stir in asparagus with reserved liquid , and season with ginger, soy sauce, sugar, sherry and salt to taste. Continue to cook for 5 more minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "water bunches asparagus trimmed cut into inch pieces vegetable oil large fresh shrimp peeled deveined cut in half lengthwise chopped fresh ginger root soy sauce granulated sugar dry sherry salt taste",
+        "directions_text": "in a medium saucepan, bring two cups of water to a boil. cook asparagus in boiling water for 3 minutes. drain, reserving 2 tablespoons of liquid. heat the oil in a skillet over medium-high heat. saute the shrimp pieces until the color changes, about 3 to 5 minutes. stir in asparagus with reserved liquid , and season with ginger, soy sauce, sugar, sherry and salt to taste. continue to cook for 5 more minutes.",
+        "combined_text": "jumbo shrimp and asparagus lent lent 2 cups water 2 bunches asparagus, trimmed and cut into 1 inch pieces 2 tablespoons vegetable oil 24 large fresh shrimp, peeled, deveined and cut in half lengthwise 2 teaspoons chopped fresh ginger root 3 tablespoons soy sauce 2 teaspoons granulated sugar 1 teaspoon dry sherry salt to taste in a medium saucepan, bring two cups of water to a boil. cook asparagus in boiling water for 3 minutes. drain, reserving 2 tablespoons of liquid. heat the oil in a skillet over medium-high heat. saute the shrimp pieces until the color changes, about 3 to 5 minutes. stir in asparagus with reserved liquid , and season with ginger, soy sauce, sugar, sherry and salt to taste. continue to cook for 5 more minutes.",
+        "ingredients_raw": [
+            "2 cups water",
+            "2 bunches asparagus, trimmed and cut into 1 inch pieces",
+            "2 tablespoons vegetable oil",
+            "24 large fresh shrimp, peeled, deveined and cut in half lengthwise",
+            "2 teaspoons chopped fresh ginger root",
+            "3 tablespoons soy sauce",
+            "2 teaspoons granulated sugar",
+            "1 teaspoon dry sherry",
+            "salt to taste"
+        ],
+        "directions_raw": [
+            "In a medium saucepan, bring two cups of water to a boil. Cook asparagus in boiling water for 3 minutes. Drain, reserving 2 tablespoons of liquid.",
+            "Heat the oil in a skillet over medium-high heat. Saute the shrimp pieces until the color changes, about 3 to 5 minutes. Stir in asparagus with reserved liquid , and season with ginger, soy sauce, sugar, sherry and salt to taste. Continue to cook for 5 more minutes."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "bunches asparagus trimmed cut into inch pieces",
+            "vegetable oil",
+            "large fresh shrimp peeled deveined cut in half lengthwise",
+            "chopped fresh ginger root",
+            "soy sauce",
+            "granulated sugar",
+            "dry sherry",
+            "salt taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Roasted Veggie Pasta",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "Wonderful rustic Italian style pasta dish! Meal can be dressed up or down with accompaniments to this tasty pasta.",
+        "ingredients": [
+            "¼ pound fresh asparagus",
+            "2 red bell pepper, sliced",
+            "¼ pound crimini mushrooms, sliced",
+            "10 cloves roasted garlic, chopped",
+            "½ tomato, quartered",
+            "½ teaspoon chopped fresh rosemary",
+            "½ teaspoon chopped fresh oregano",
+            "2 tablespoons olive oil",
+            "8 ounces dry fettuccini noodles",
+            "¼ cup grated Parmesan cheese",
+            "2 tablespoons tapenade"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Prepare asparagus by trimming woody base and cutting diagonally into 4 inch pieces.",
+            "In a roasting pan, combine asparagus, bell pepper, mushrooms, roasted garlic and tomato. Sprinkle with rosemary and oregano, then drizzle with olive oil. Bake in preheated oven for 15 minutes.",
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss with Parmesan cheese, tapenade and roasted vegetables."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "¼ pound fresh asparagus red bell pepper sliced ¼ pound crimini mushrooms sliced cloves roasted garlic chopped ½ tomato quartered ½ chopped fresh rosemary ½ chopped fresh oregano olive oil ounces dry fettuccini noodles ¼ grated parmesan cheese tapenade",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). prepare asparagus by trimming woody base and cutting diagonally into 4 inch pieces. in a roasting pan, combine asparagus, bell pepper, mushrooms, roasted garlic and tomato. sprinkle with rosemary and oregano, then drizzle with olive oil. bake in preheated oven for 15 minutes. bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente; drain. toss with parmesan cheese, tapenade and roasted vegetables.",
+        "combined_text": "roasted veggie pasta lent lent ¼ pound fresh asparagus 2 red bell pepper, sliced ¼ pound crimini mushrooms, sliced 10 cloves roasted garlic, chopped ½ tomato, quartered ½ teaspoon chopped fresh rosemary ½ teaspoon chopped fresh oregano 2 tablespoons olive oil 8 ounces dry fettuccini noodles ¼ cup grated parmesan cheese 2 tablespoons tapenade preheat oven to 350 degrees f (175 degrees c). prepare asparagus by trimming woody base and cutting diagonally into 4 inch pieces. in a roasting pan, combine asparagus, bell pepper, mushrooms, roasted garlic and tomato. sprinkle with rosemary and oregano, then drizzle with olive oil. bake in preheated oven for 15 minutes. bring a large pot of lightly salted water to a boil. add pasta and cook for 8 to 10 minutes or until al dente; drain. toss with parmesan cheese, tapenade and roasted vegetables.",
+        "ingredients_raw": [
+            "¼ pound fresh asparagus",
+            "2 red bell pepper, sliced",
+            "¼ pound crimini mushrooms, sliced",
+            "10 cloves roasted garlic, chopped",
+            "½ tomato, quartered",
+            "½ teaspoon chopped fresh rosemary",
+            "½ teaspoon chopped fresh oregano",
+            "2 tablespoons olive oil",
+            "8 ounces dry fettuccini noodles",
+            "¼ cup grated Parmesan cheese",
+            "2 tablespoons tapenade"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Prepare asparagus by trimming woody base and cutting diagonally into 4 inch pieces.",
+            "In a roasting pan, combine asparagus, bell pepper, mushrooms, roasted garlic and tomato. Sprinkle with rosemary and oregano, then drizzle with olive oil. Bake in preheated oven for 15 minutes.",
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss with Parmesan cheese, tapenade and roasted vegetables."
+        ],
+        "ingredients_canonical": [
+            "¼ pound fresh asparagus",
+            "red bell pepper sliced",
+            "¼ pound crimini mushrooms sliced",
+            "cloves roasted garlic chopped",
+            "½ tomato quartered",
+            "½ chopped fresh rosemary",
+            "½ chopped fresh oregano",
+            "olive oil",
+            "ounces dry fettuccini noodles",
+            "¼ grated parmesan cheese",
+            "tapenade"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Eggy Veggie Bake",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "Yummy dish that I created one night. You could add just about anything to it. Could be breakfast, lunch, or dinner! Warm, fresh, and dee-lish! I like mine with a dollop of sour cream and some slices of avocado.",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 cup sliced halved zucchini",
+            "3 green onions, chopped",
+            "½ sweet onion, thinly sliced",
+            "2 roma (plum) tomatoes, chopped",
+            "½ cup chopped fresh mushrooms",
+            "3 cups chopped baby spinach",
+            "½ lemon, juiced",
+            "Worcestershire sauce to taste",
+            "hot sauce to taste",
+            "garlic powder to taste",
+            "salt and ground black pepper to taste",
+            "1 ½ cups liquid egg substitute",
+            "¼ cup shredded Cheddar cheese"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Spray an 8x8 inch baking dish with cooking spray.",
+            "Heat the olive oil in a skillet over medium-high heat. Place zucchini, green onions, onion, tomatoes, mushrooms, and spinach in the skillet. Sprinkle with lemon juice, Worcestershire sauce, and hot sauce. Season with garlic powder, salt, and pepper. Cook until tender. Transfer to the prepared baking dish. Pour egg substitute over the vegetables in the dish. Top with cheese.",
+            "Bake 20 minutes in the preheated oven, or until egg substitute is set and cheese is melted. Cut with a spatula and enjoy!"
+        ],
+        "num_ingredients": 14,
+        "num_steps": 3,
+        "ingredient_text": "olive oil sliced halved zucchini green onions chopped ½ sweet onion thinly sliced roma plum tomatoes chopped ½ chopped fresh mushrooms chopped baby spinach ½ lemon juiced worcestershire sauce taste hot sauce taste garlic powder taste salt ground black pepper taste ½ liquid egg substitute ¼ shredded cheddar cheese",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). spray an 8x8 inch baking dish with cooking spray. heat the olive oil in a skillet over medium-high heat. place zucchini, green onions, onion, tomatoes, mushrooms, and spinach in the skillet. sprinkle with lemon juice, worcestershire sauce, and hot sauce. season with garlic powder, salt, and pepper. cook until tender. transfer to the prepared baking dish. pour egg substitute over the vegetables in the dish. top with cheese. bake 20 minutes in the preheated oven, or until egg substitute is set and cheese is melted. cut with a spatula and enjoy!",
+        "combined_text": "eggy veggie bake lent lent 1 tablespoon olive oil 1 cup sliced halved zucchini 3 green onions, chopped ½ sweet onion, thinly sliced 2 roma (plum) tomatoes, chopped ½ cup chopped fresh mushrooms 3 cups chopped baby spinach ½ lemon, juiced worcestershire sauce to taste hot sauce to taste garlic powder to taste salt and ground black pepper to taste 1 ½ cups liquid egg substitute ¼ cup shredded cheddar cheese preheat oven to 350 degrees f (175 degrees c). spray an 8x8 inch baking dish with cooking spray. heat the olive oil in a skillet over medium-high heat. place zucchini, green onions, onion, tomatoes, mushrooms, and spinach in the skillet. sprinkle with lemon juice, worcestershire sauce, and hot sauce. season with garlic powder, salt, and pepper. cook until tender. transfer to the prepared baking dish. pour egg substitute over the vegetables in the dish. top with cheese. bake 20 minutes in the preheated oven, or until egg substitute is set and cheese is melted. cut with a spatula and enjoy!",
+        "ingredients_raw": [
+            "1 tablespoon olive oil",
+            "1 cup sliced halved zucchini",
+            "3 green onions, chopped",
+            "½ sweet onion, thinly sliced",
+            "2 roma (plum) tomatoes, chopped",
+            "½ cup chopped fresh mushrooms",
+            "3 cups chopped baby spinach",
+            "½ lemon, juiced",
+            "Worcestershire sauce to taste",
+            "hot sauce to taste",
+            "garlic powder to taste",
+            "salt and ground black pepper to taste",
+            "1 ½ cups liquid egg substitute",
+            "¼ cup shredded Cheddar cheese"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Spray an 8x8 inch baking dish with cooking spray.",
+            "Heat the olive oil in a skillet over medium-high heat. Place zucchini, green onions, onion, tomatoes, mushrooms, and spinach in the skillet. Sprinkle with lemon juice, Worcestershire sauce, and hot sauce. Season with garlic powder, salt, and pepper. Cook until tender. Transfer to the prepared baking dish. Pour egg substitute over the vegetables in the dish. Top with cheese.",
+            "Bake 20 minutes in the preheated oven, or until egg substitute is set and cheese is melted. Cut with a spatula and enjoy!"
+        ],
+        "ingredients_canonical": [
+            "olive oil",
+            "sliced halved zucchini",
+            "green onions chopped",
+            "½ sweet onion thinly sliced",
+            "roma plum tomatoes chopped",
+            "½ chopped fresh mushrooms",
+            "chopped baby spinach",
+            "½ lemon juiced",
+            "worcestershire sauce taste",
+            "hot sauce taste",
+            "garlic powder taste",
+            "salt ground black pepper taste",
+            "½ liquid egg substitute",
+            "¼ shredded cheddar cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 27,
+        "est_cook_time_min": 46,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 96,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Lemon Pepper Pasta Seafood",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "Lemon pepper pasta served with sauteed garlic seafood. You can substitute the shrimp in this recipe with crab or scallops, or you could use a mixture of all three types of seafood.",
+        "ingredients": [
+            "1 (8 ounce) package lemon pepper linguine",
+            "4 tablespoons olive oil",
+            "2 tablespoons chopped garlic",
+            "1 tablespoon lemon pepper",
+            "1 pound medium shrimp - peeled and deveined",
+            "½ cup grated Parmesan cheese"
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to boil, add pasta, and cook for 8 to 10 minutes, or until al dente. Drain, and return pasta to the pot.",
+            "Heat olive oil in a skillet over medium heat. Cook garlic, lemon pepper seasoning, and shrimp in oil until shrimp is cooked through, 3 to 5 minutes.",
+            "Toss pasta with shrimp and Parmesan cheese."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "ounce package lemon pepper linguine olive oil chopped garlic lemon pepper pound medium shrimp - peeled deveined ½ grated parmesan cheese",
+        "directions_text": "bring a large pot of lightly salted water to boil, add pasta, and cook for 8 to 10 minutes, or until al dente. drain, and return pasta to the pot. heat olive oil in a skillet over medium heat. cook garlic, lemon pepper seasoning, and shrimp in oil until shrimp is cooked through, 3 to 5 minutes. toss pasta with shrimp and parmesan cheese.",
+        "combined_text": "lemon pepper pasta seafood lent lent 1 (8 ounce) package lemon pepper linguine 4 tablespoons olive oil 2 tablespoons chopped garlic 1 tablespoon lemon pepper 1 pound medium shrimp - peeled and deveined ½ cup grated parmesan cheese bring a large pot of lightly salted water to boil, add pasta, and cook for 8 to 10 minutes, or until al dente. drain, and return pasta to the pot. heat olive oil in a skillet over medium heat. cook garlic, lemon pepper seasoning, and shrimp in oil until shrimp is cooked through, 3 to 5 minutes. toss pasta with shrimp and parmesan cheese.",
+        "ingredients_raw": [
+            "1 (8 ounce) package lemon pepper linguine",
+            "4 tablespoons olive oil",
+            "2 tablespoons chopped garlic",
+            "1 tablespoon lemon pepper",
+            "1 pound medium shrimp - peeled and deveined",
+            "½ cup grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Bring a large pot of lightly salted water to boil, add pasta, and cook for 8 to 10 minutes, or until al dente. Drain, and return pasta to the pot.",
+            "Heat olive oil in a skillet over medium heat. Cook garlic, lemon pepper seasoning, and shrimp in oil until shrimp is cooked through, 3 to 5 minutes.",
+            "Toss pasta with shrimp and Parmesan cheese."
+        ],
+        "ingredients_canonical": [
+            "ounce package lemon pepper linguine",
+            "olive oil",
+            "chopped garlic",
+            "lemon pepper",
+            "pound medium shrimp - peeled deveined",
+            "½ grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "seafood",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Asparagus, Snow Pea, and Radish Salad",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "This asparagus, snow pea, and radish salad recipe came from a close family friend. We have it every Easter and it's always a hit! Thanks, Sharon!",
+        "ingredients": [
+            "1 ¼ pounds asparagus, trimmed and cut diagonally into 1-inch pieces",
+            "8 ounces snow peas, ends and strings removed, cut diagonally into 1-inch pieces",
+            "15 small radishes, trimmed and thinly sliced",
+            "3 scallions, thinly sliced",
+            "¼ cup fresh snipped dill",
+            "3 tablespoons canola oil",
+            "1 teaspoon white sugar",
+            "¾ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper",
+            "3 tablespoons freshly squeezed lime juice, or more to taste"
+        ],
+        "directions": [
+            "Fill a large saucepan with water; bring to a boil. Add asparagus; boil 1 minute. Add snow peas to pan with asparagus; boil 1 minute more. Drain and pat dry.",
+            "Transfer asparagus and snow peas to a large bowl. Add radishes, scallions, and dill; toss gently to combine.",
+            "Whisk oil, sugar, salt, and black pepper together in a small bowl; pour over salad and toss to coat. Set aside at room temperature to allow flavors to blend; about 1 hour. Drizzle lime juice over salad; toss gently to coat."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "¼ pounds asparagus trimmed cut diagonally into -inch pieces ounces snow peas ends strings removed cut diagonally into -inch pieces small radishes trimmed thinly sliced scallions thinly sliced ¼ fresh snipped dill canola oil white sugar ¾ salt ¼ freshly ground black pepper freshly squeezed lime juice more taste",
+        "directions_text": "fill a large saucepan with water; bring to a boil. add asparagus; boil 1 minute. add snow peas to pan with asparagus; boil 1 minute more. drain and pat dry. transfer asparagus and snow peas to a large bowl. add radishes, scallions, and dill; toss gently to combine. whisk oil, sugar, salt, and black pepper together in a small bowl; pour over salad and toss to coat. set aside at room temperature to allow flavors to blend; about 1 hour. drizzle lime juice over salad; toss gently to coat.",
+        "combined_text": "asparagus, snow pea, and radish salad lent lent 1 ¼ pounds asparagus, trimmed and cut diagonally into 1-inch pieces 8 ounces snow peas, ends and strings removed, cut diagonally into 1-inch pieces 15 small radishes, trimmed and thinly sliced 3 scallions, thinly sliced ¼ cup fresh snipped dill 3 tablespoons canola oil 1 teaspoon white sugar ¾ teaspoon salt ¼ teaspoon freshly ground black pepper 3 tablespoons freshly squeezed lime juice, or more to taste fill a large saucepan with water; bring to a boil. add asparagus; boil 1 minute. add snow peas to pan with asparagus; boil 1 minute more. drain and pat dry. transfer asparagus and snow peas to a large bowl. add radishes, scallions, and dill; toss gently to combine. whisk oil, sugar, salt, and black pepper together in a small bowl; pour over salad and toss to coat. set aside at room temperature to allow flavors to blend; about 1 hour. drizzle lime juice over salad; toss gently to coat.",
+        "ingredients_raw": [
+            "1 ¼ pounds asparagus, trimmed and cut diagonally into 1-inch pieces",
+            "8 ounces snow peas, ends and strings removed, cut diagonally into 1-inch pieces",
+            "15 small radishes, trimmed and thinly sliced",
+            "3 scallions, thinly sliced",
+            "¼ cup fresh snipped dill",
+            "3 tablespoons canola oil",
+            "1 teaspoon white sugar",
+            "¾ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper",
+            "3 tablespoons freshly squeezed lime juice, or more to taste"
+        ],
+        "directions_raw": [
+            "Fill a large saucepan with water; bring to a boil. Add asparagus; boil 1 minute. Add snow peas to pan with asparagus; boil 1 minute more. Drain and pat dry.",
+            "Transfer asparagus and snow peas to a large bowl. Add radishes, scallions, and dill; toss gently to combine.",
+            "Whisk oil, sugar, salt, and black pepper together in a small bowl; pour over salad and toss to coat. Set aside at room temperature to allow flavors to blend; about 1 hour. Drizzle lime juice over salad; toss gently to coat."
+        ],
+        "ingredients_canonical": [
+            "¼ pounds asparagus trimmed cut diagonally into -inch pieces",
+            "ounces snow peas ends strings removed cut diagonally into -inch pieces",
+            "small radishes trimmed thinly sliced",
+            "scallions thinly sliced",
+            "¼ fresh snipped dill",
+            "canola oil",
+            "white sugar",
+            "¾ salt",
+            "¼ freshly ground black pepper",
+            "freshly squeezed lime juice more taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 15,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 21,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spinach Ziti",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "A simple, colorful pasta dish. Serve with a tossed salad and freshly grated parmesan cheese for a great meal.",
+        "ingredients": [
+            "8 ounces ziti pasta",
+            "1 (14.5 ounce) can Italian-style stewed tomatoes",
+            "⅛ teaspoon crushed red pepper flakes",
+            "4 ounces fresh spinach, washed and chopped",
+            "2 ounces cream cheese",
+            "¼ teaspoon ground nutmeg"
+        ],
+        "directions": [
+            "Bring a large pot filled with salted water to a boil. Add ziti and cook until tender but still firm, about 12 minutes.",
+            "Meanwhile, in a medium sized non-reactive pan, combine tomatoes and hot pepper flakes. Warm over medium-low heat, breaking up tomatoes if necessary.",
+            "Drain pasta and return to hot pan. Add spinach, cream cheese and nutmeg. Cook, stirring, over low heat until spinach wilts, 1-2 minutes. Pour tomato sauce over spinach ziti. Stir and toss gently to mix."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "ounces ziti pasta ounce can italian-style stewed tomatoes ⅛ crushed red pepper flakes ounces fresh spinach washed chopped ounces cream cheese ¼ ground nutmeg",
+        "directions_text": "bring a large pot filled with salted water to a boil. add ziti and cook until tender but still firm, about 12 minutes. meanwhile, in a medium sized non-reactive pan, combine tomatoes and hot pepper flakes. warm over medium-low heat, breaking up tomatoes if necessary. drain pasta and return to hot pan. add spinach, cream cheese and nutmeg. cook, stirring, over low heat until spinach wilts, 1-2 minutes. pour tomato sauce over spinach ziti. stir and toss gently to mix.",
+        "combined_text": "spinach ziti lent lent 8 ounces ziti pasta 1 (14.5 ounce) can italian-style stewed tomatoes ⅛ teaspoon crushed red pepper flakes 4 ounces fresh spinach, washed and chopped 2 ounces cream cheese ¼ teaspoon ground nutmeg bring a large pot filled with salted water to a boil. add ziti and cook until tender but still firm, about 12 minutes. meanwhile, in a medium sized non-reactive pan, combine tomatoes and hot pepper flakes. warm over medium-low heat, breaking up tomatoes if necessary. drain pasta and return to hot pan. add spinach, cream cheese and nutmeg. cook, stirring, over low heat until spinach wilts, 1-2 minutes. pour tomato sauce over spinach ziti. stir and toss gently to mix.",
+        "ingredients_raw": [
+            "8 ounces ziti pasta",
+            "1 (14.5 ounce) can Italian-style stewed tomatoes",
+            "⅛ teaspoon crushed red pepper flakes",
+            "4 ounces fresh spinach, washed and chopped",
+            "2 ounces cream cheese",
+            "¼ teaspoon ground nutmeg"
+        ],
+        "directions_raw": [
+            "Bring a large pot filled with salted water to a boil. Add ziti and cook until tender but still firm, about 12 minutes.",
+            "Meanwhile, in a medium sized non-reactive pan, combine tomatoes and hot pepper flakes. Warm over medium-low heat, breaking up tomatoes if necessary.",
+            "Drain pasta and return to hot pan. Add spinach, cream cheese and nutmeg. Cook, stirring, over low heat until spinach wilts, 1-2 minutes. Pour tomato sauce over spinach ziti. Stir and toss gently to mix."
+        ],
+        "ingredients_canonical": [
+            "ounces ziti pasta",
+            "ounce can italian-style stewed tomatoes",
+            "⅛ crushed red pepper flakes",
+            "ounces fresh spinach washed chopped",
+            "ounces cream cheese",
+            "¼ ground nutmeg"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "italian",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Blue Cheese and Asparagus Pizza",
+        "category": "Lent",
+        "subcategory": "Lent",
+        "description": "My mother used to make this pizza; she didn't cook much so you know it's easy! And it tastes great!",
+        "ingredients": [
+            "1 bunch asparagus, trimmed and snapped into pieces",
+            "1 teaspoon olive oil, or as needed",
+            "salt and black pepper to taste",
+            "½ cup pizza sauce",
+            "1 (14 ounce) prebaked pizza crust (such as Boboli®)",
+            "¾ cup crumbled blue cheese"
+        ],
+        "directions": [
+            "Preheat an oven to 350 degrees F (175 degrees C).",
+            "Place asparagus on a baking sheet; drizzle with olive oil and sprinkle with salt and pepper.",
+            "Bake the asparagus in the preheated oven for 10 minutes.",
+            "While asparagus is baking, spread the pizza sauce over the pizza crust. Distribute asparagus pieces and crumbles of blue cheese evenly over the pizza.",
+            "Return pizza to center rack of preheated oven; bake until the cheese is melted and bubbling, 8 to 10 more minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "bunch asparagus trimmed snapped into pieces olive oil as needed salt black pepper taste ½ pizza sauce ounce prebaked pizza crust such as boboli ¾ crumbled blue cheese",
+        "directions_text": "preheat an oven to 350 degrees f (175 degrees c). place asparagus on a baking sheet; drizzle with olive oil and sprinkle with salt and pepper. bake the asparagus in the preheated oven for 10 minutes. while asparagus is baking, spread the pizza sauce over the pizza crust. distribute asparagus pieces and crumbles of blue cheese evenly over the pizza. return pizza to center rack of preheated oven; bake until the cheese is melted and bubbling, 8 to 10 more minutes.",
+        "combined_text": "blue cheese and asparagus pizza lent lent 1 bunch asparagus, trimmed and snapped into pieces 1 teaspoon olive oil, or as needed salt and black pepper to taste ½ cup pizza sauce 1 (14 ounce) prebaked pizza crust (such as boboli®) ¾ cup crumbled blue cheese preheat an oven to 350 degrees f (175 degrees c). place asparagus on a baking sheet; drizzle with olive oil and sprinkle with salt and pepper. bake the asparagus in the preheated oven for 10 minutes. while asparagus is baking, spread the pizza sauce over the pizza crust. distribute asparagus pieces and crumbles of blue cheese evenly over the pizza. return pizza to center rack of preheated oven; bake until the cheese is melted and bubbling, 8 to 10 more minutes.",
+        "ingredients_raw": [
+            "1 bunch asparagus, trimmed and snapped into pieces",
+            "1 teaspoon olive oil, or as needed",
+            "salt and black pepper to taste",
+            "½ cup pizza sauce",
+            "1 (14 ounce) prebaked pizza crust (such as Boboli®)",
+            "¾ cup crumbled blue cheese"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 350 degrees F (175 degrees C).",
+            "Place asparagus on a baking sheet; drizzle with olive oil and sprinkle with salt and pepper.",
+            "Bake the asparagus in the preheated oven for 10 minutes.",
+            "While asparagus is baking, spread the pizza sauce over the pizza crust. Distribute asparagus pieces and crumbles of blue cheese evenly over the pizza.",
+            "Return pizza to center rack of preheated oven; bake until the cheese is melted and bubbling, 8 to 10 more minutes."
+        ],
+        "ingredients_canonical": [
+            "bunch asparagus trimmed snapped into pieces",
+            "olive oil as needed",
+            "salt black pepper taste",
+            "½ pizza sauce",
+            "ounce prebaked pizza crust such as boboli",
+            "¾ crumbled blue cheese"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

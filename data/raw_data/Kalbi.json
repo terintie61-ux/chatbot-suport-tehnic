@@ -1,0 +1,1061 @@
+[
+    {
+        "recipe_title": "Kalbi (Marinated Beef Short Ribs)",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "This is a variation of a traditional Korean recipe for marinated beef short ribs. My friends all request it repeatedly! Very tasty!",
+        "ingredients": [
+            "¾ cup white sugar",
+            "¾ cup soy sauce",
+            "¼ cup sesame oil",
+            "4 cloves garlic, minced",
+            "3 green onions, chopped",
+            "2 tablespoons sesame seeds",
+            "5 pounds beef short ribs"
+        ],
+        "directions": [
+            "Stir the sugar into the soy sauce in a bowl until the sugar dissolves completely. Whisk the sesame oil, garlic, green onions, and sesame seeds into the soy sauce. Place the short ribs in a large, sealable bag and pour the marinade over the meat. Marinate in refrigerator for 8 hours or overnight.",
+            "Preheat an outdoor grill for medium heat, and lightly oil the grate. Remove the ribs from the bag; discard the marinade.",
+            "Cook the short ribs on the preheated grill until they are very firm, hot, and grey in the center, about 15 minutes per side. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "¾ white sugar ¾ soy sauce ¼ sesame oil cloves garlic minced green onions chopped sesame seeds pounds beef short ribs",
+        "directions_text": "stir the sugar into the soy sauce in a bowl until the sugar dissolves completely. whisk the sesame oil, garlic, green onions, and sesame seeds into the soy sauce. place the short ribs in a large, sealable bag and pour the marinade over the meat. marinate in refrigerator for 8 hours or overnight. preheat an outdoor grill for medium heat, and lightly oil the grate. remove the ribs from the bag; discard the marinade. cook the short ribs on the preheated grill until they are very firm, hot, and grey in the center, about 15 minutes per side. an instant-read thermometer inserted into the center should read 160 degrees f (70 degrees c).",
+        "combined_text": "kalbi (marinated beef short ribs) kalbi kalbi ¾ cup white sugar ¾ cup soy sauce ¼ cup sesame oil 4 cloves garlic, minced 3 green onions, chopped 2 tablespoons sesame seeds 5 pounds beef short ribs stir the sugar into the soy sauce in a bowl until the sugar dissolves completely. whisk the sesame oil, garlic, green onions, and sesame seeds into the soy sauce. place the short ribs in a large, sealable bag and pour the marinade over the meat. marinate in refrigerator for 8 hours or overnight. preheat an outdoor grill for medium heat, and lightly oil the grate. remove the ribs from the bag; discard the marinade. cook the short ribs on the preheated grill until they are very firm, hot, and grey in the center, about 15 minutes per side. an instant-read thermometer inserted into the center should read 160 degrees f (70 degrees c).",
+        "ingredients_raw": [
+            "¾ cup white sugar",
+            "¾ cup soy sauce",
+            "¼ cup sesame oil",
+            "4 cloves garlic, minced",
+            "3 green onions, chopped",
+            "2 tablespoons sesame seeds",
+            "5 pounds beef short ribs"
+        ],
+        "directions_raw": [
+            "Stir the sugar into the soy sauce in a bowl until the sugar dissolves completely. Whisk the sesame oil, garlic, green onions, and sesame seeds into the soy sauce. Place the short ribs in a large, sealable bag and pour the marinade over the meat. Marinate in refrigerator for 8 hours or overnight.",
+            "Preheat an outdoor grill for medium heat, and lightly oil the grate. Remove the ribs from the bag; discard the marinade.",
+            "Cook the short ribs on the preheated grill until they are very firm, hot, and grey in the center, about 15 minutes per side. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+        ],
+        "ingredients_canonical": [
+            "¾ white sugar",
+            "¾ soy sauce",
+            "¼ sesame oil",
+            "cloves garlic minced",
+            "green onions chopped",
+            "sesame seeds",
+            "pounds beef short ribs"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 60,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Instant Pot Galbi (Korean-Style Short Ribs)",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "This version of delicious Korean beef short ribs dish for your Instant Pot or other multi-cooker pressure cooker will have the ribs falling off the bone! Soaking the ribs first is the traditional method. I recommend soaking for at least an hour, though traditionally, you would soak them for longer, changing the water after the first hour. If you don't have an Asian pear, an apple will do as a substitute. Serve over white rice.",
+        "ingredients": [
+            "3 pounds beef short ribs",
+            "1 Asian pear - peeled, cored, and coarsely chopped",
+            "1 small onion, chopped",
+            "4 cloves garlic, chopped",
+            "½ tablespoon peeled and coarsely chopped fresh ginger",
+            "1 cup low-sodium soy sauce, divided",
+            "¼ cup rice wine",
+            "¼ cup water",
+            "¼ cup brown sugar",
+            "2 tablespoons sesame oil, divided",
+            "½ teaspoon ground black pepper",
+            "2 carrots, peeled and cut in chunks",
+            "5 radishes, peeled and cut into chunks",
+            "¼ cup white sugar",
+            "½ bunch green onions, chopped, or to taste",
+            "1 tablespoon sesame seeds, or to taste"
+        ],
+        "directions": [
+            "Soak ribs in a large bowl of water for 1 hour.",
+            "Meanwhile, combine Asian pear, onion, garlic, and ginger in a blender or food processor; purée until smooth. Transfer mixture to a mixing bowl. Mix in 3/4 cup soy sauce, rice wine, water, brown sugar, 1 tablespoon sesame oil, and pepper to create a sauce. Set aside.",
+            "Drain ribs and dry them well. Trim off excess fat. Place ribs in a multi-functional pressure cooker (such as Instant Pot), then add carrots and radishes. Pour Asian pear sauce on top. Close and lock the lid. Select Meat function according to manufacturer's instructions; set the timer for 35 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid. Transfer meat and vegetables to a plate and set aside.",
+            "Select the Sauté function on your Instant Pot. Stir in white sugar, remaining 1/4 cup soy sauce, and remaining 1 tablespoon sesame oil. Cook, stirring occasionally, until sugar has melted and sauce has thickened, about 10 minutes. Return ribs and vegetables to the pot; stir to coat with sauce.",
+            "Garnish ribs and vegetables with green onions and sesame seeds."
+        ],
+        "num_ingredients": 16,
+        "num_steps": 6,
+        "ingredient_text": "pounds beef short ribs asian pear - peeled cored coarsely chopped small onion chopped cloves garlic chopped ½ peeled coarsely chopped fresh ginger low-sodium soy sauce divided ¼ rice wine ¼ water ¼ brown sugar sesame oil divided ½ ground black pepper carrots peeled cut in chunks radishes peeled cut into chunks ¼ white sugar ½ bunch green onions chopped taste sesame seeds taste",
+        "directions_text": "soak ribs in a large bowl of water for 1 hour. meanwhile, combine asian pear, onion, garlic, and ginger in a blender or food processor; purée until smooth. transfer mixture to a mixing bowl. mix in 3/4 cup soy sauce, rice wine, water, brown sugar, 1 tablespoon sesame oil, and pepper to create a sauce. set aside. drain ribs and dry them well. trim off excess fat. place ribs in a multi-functional pressure cooker (such as instant pot), then add carrots and radishes. pour asian pear sauce on top. close and lock the lid. select meat function according to manufacturer's instructions; set the timer for 35 minutes. allow 10 to 15 minutes for pressure to build. release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. unlock and remove the lid. transfer meat and vegetables to a plate and set aside. select the sauté function on your instant pot. stir in white sugar, remaining 1/4 cup soy sauce, and remaining 1 tablespoon sesame oil. cook, stirring occasionally, until sugar has melted and sauce has thickened, about 10 minutes. return ribs and vegetables to the pot; stir to coat with sauce. garnish ribs and vegetables with green onions and sesame seeds.",
+        "combined_text": "instant pot galbi (korean-style short ribs) kalbi kalbi 3 pounds beef short ribs 1 asian pear - peeled, cored, and coarsely chopped 1 small onion, chopped 4 cloves garlic, chopped ½ tablespoon peeled and coarsely chopped fresh ginger 1 cup low-sodium soy sauce, divided ¼ cup rice wine ¼ cup water ¼ cup brown sugar 2 tablespoons sesame oil, divided ½ teaspoon ground black pepper 2 carrots, peeled and cut in chunks 5 radishes, peeled and cut into chunks ¼ cup white sugar ½ bunch green onions, chopped, or to taste 1 tablespoon sesame seeds, or to taste soak ribs in a large bowl of water for 1 hour. meanwhile, combine asian pear, onion, garlic, and ginger in a blender or food processor; purée until smooth. transfer mixture to a mixing bowl. mix in 3/4 cup soy sauce, rice wine, water, brown sugar, 1 tablespoon sesame oil, and pepper to create a sauce. set aside. drain ribs and dry them well. trim off excess fat. place ribs in a multi-functional pressure cooker (such as instant pot), then add carrots and radishes. pour asian pear sauce on top. close and lock the lid. select meat function according to manufacturer's instructions; set the timer for 35 minutes. allow 10 to 15 minutes for pressure to build. release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. unlock and remove the lid. transfer meat and vegetables to a plate and set aside. select the sauté function on your instant pot. stir in white sugar, remaining 1/4 cup soy sauce, and remaining 1 tablespoon sesame oil. cook, stirring occasionally, until sugar has melted and sauce has thickened, about 10 minutes. return ribs and vegetables to the pot; stir to coat with sauce. garnish ribs and vegetables with green onions and sesame seeds.",
+        "ingredients_raw": [
+            "3 pounds beef short ribs",
+            "1 Asian pear - peeled, cored, and coarsely chopped",
+            "1 small onion, chopped",
+            "4 cloves garlic, chopped",
+            "½ tablespoon peeled and coarsely chopped fresh ginger",
+            "1 cup low-sodium soy sauce, divided",
+            "¼ cup rice wine",
+            "¼ cup water",
+            "¼ cup brown sugar",
+            "2 tablespoons sesame oil, divided",
+            "½ teaspoon ground black pepper",
+            "2 carrots, peeled and cut in chunks",
+            "5 radishes, peeled and cut into chunks",
+            "¼ cup white sugar",
+            "½ bunch green onions, chopped, or to taste",
+            "1 tablespoon sesame seeds, or to taste"
+        ],
+        "directions_raw": [
+            "Soak ribs in a large bowl of water for 1 hour.",
+            "Meanwhile, combine Asian pear, onion, garlic, and ginger in a blender or food processor; purée until smooth. Transfer mixture to a mixing bowl. Mix in 3/4 cup soy sauce, rice wine, water, brown sugar, 1 tablespoon sesame oil, and pepper to create a sauce. Set aside.",
+            "Drain ribs and dry them well. Trim off excess fat. Place ribs in a multi-functional pressure cooker (such as Instant Pot), then add carrots and radishes. Pour Asian pear sauce on top. Close and lock the lid. Select Meat function according to manufacturer's instructions; set the timer for 35 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid. Transfer meat and vegetables to a plate and set aside.",
+            "Select the Sauté function on your Instant Pot. Stir in white sugar, remaining 1/4 cup soy sauce, and remaining 1 tablespoon sesame oil. Cook, stirring occasionally, until sugar has melted and sauce has thickened, about 10 minutes. Return ribs and vegetables to the pot; stir to coat with sauce.",
+            "Garnish ribs and vegetables with green onions and sesame seeds."
+        ],
+        "ingredients_canonical": [
+            "pounds beef short ribs",
+            "asian pear - peeled cored coarsely chopped",
+            "small onion chopped",
+            "cloves garlic chopped",
+            "½ peeled coarsely chopped fresh ginger",
+            "low-sodium soy sauce divided",
+            "¼ rice wine",
+            "¼ water",
+            "¼ brown sugar",
+            "sesame oil divided",
+            "½ ground black pepper",
+            "carrots peeled cut in chunks",
+            "radishes peeled cut into chunks",
+            "¼ white sugar",
+            "½ bunch green onions chopped taste",
+            "sesame seeds taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 12,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 31,
+        "est_cook_time_min": 64,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy and Simple Korean BBQ Ribs",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "This is a family recipe that's not only simple, but tastes great! Only needs some steamed rice to complete the meal.",
+        "ingredients": [
+            "1 cup soy sauce",
+            "1 cup white sugar",
+            "1 teaspoon ground black pepper",
+            "5 cloves garlic, chopped",
+            "3 green onions, chopped",
+            "2 tablespoons Asian (toasted) sesame oil",
+            "1 teaspoon sesame seeds",
+            "2 pounds Korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones)"
+        ],
+        "directions": [
+            "Whisk together the soy sauce and sugar in a bowl until the sugar has dissolved, and stir in the black pepper, garlic, green onions, sesame oil, and sesame seeds.",
+            "Place the ribs in a large bowl, and pour the marinade over the ribs. Stir to coat the ribs with the marinade, and refrigerate for 1 hour. Stir the ribs and marinade again, and refrigerate for 1 more hour.",
+            "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+            "Remove the ribs from the marinade, discard the marinade, and grill the ribs until brown and no longer pink in the center, about 5 minutes per side. Have a spray bottle of water handy in case the ribs flare up."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "soy sauce white sugar ground black pepper cloves garlic chopped green onions chopped asian toasted sesame oil sesame seeds pounds korean-style short ribs beef chuck flanken cut inch thick across bones",
+        "directions_text": "whisk together the soy sauce and sugar in a bowl until the sugar has dissolved, and stir in the black pepper, garlic, green onions, sesame oil, and sesame seeds. place the ribs in a large bowl, and pour the marinade over the ribs. stir to coat the ribs with the marinade, and refrigerate for 1 hour. stir the ribs and marinade again, and refrigerate for 1 more hour. preheat an outdoor grill for medium-high heat, and lightly oil the grate. remove the ribs from the marinade, discard the marinade, and grill the ribs until brown and no longer pink in the center, about 5 minutes per side. have a spray bottle of water handy in case the ribs flare up.",
+        "combined_text": "easy and simple korean bbq ribs kalbi kalbi 1 cup soy sauce 1 cup white sugar 1 teaspoon ground black pepper 5 cloves garlic, chopped 3 green onions, chopped 2 tablespoons asian (toasted) sesame oil 1 teaspoon sesame seeds 2 pounds korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones) whisk together the soy sauce and sugar in a bowl until the sugar has dissolved, and stir in the black pepper, garlic, green onions, sesame oil, and sesame seeds. place the ribs in a large bowl, and pour the marinade over the ribs. stir to coat the ribs with the marinade, and refrigerate for 1 hour. stir the ribs and marinade again, and refrigerate for 1 more hour. preheat an outdoor grill for medium-high heat, and lightly oil the grate. remove the ribs from the marinade, discard the marinade, and grill the ribs until brown and no longer pink in the center, about 5 minutes per side. have a spray bottle of water handy in case the ribs flare up.",
+        "ingredients_raw": [
+            "1 cup soy sauce",
+            "1 cup white sugar",
+            "1 teaspoon ground black pepper",
+            "5 cloves garlic, chopped",
+            "3 green onions, chopped",
+            "2 tablespoons Asian (toasted) sesame oil",
+            "1 teaspoon sesame seeds",
+            "2 pounds Korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones)"
+        ],
+        "directions_raw": [
+            "Whisk together the soy sauce and sugar in a bowl until the sugar has dissolved, and stir in the black pepper, garlic, green onions, sesame oil, and sesame seeds.",
+            "Place the ribs in a large bowl, and pour the marinade over the ribs. Stir to coat the ribs with the marinade, and refrigerate for 1 hour. Stir the ribs and marinade again, and refrigerate for 1 more hour.",
+            "Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+            "Remove the ribs from the marinade, discard the marinade, and grill the ribs until brown and no longer pink in the center, about 5 minutes per side. Have a spray bottle of water handy in case the ribs flare up."
+        ],
+        "ingredients_canonical": [
+            "soy sauce",
+            "white sugar",
+            "ground black pepper",
+            "cloves garlic chopped",
+            "green onions chopped",
+            "asian toasted sesame oil",
+            "sesame seeds",
+            "pounds korean-style short ribs beef chuck flanken cut inch thick across bones"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 70,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Homemade Kalbi (Korean BBQ Short Ribs)",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "After trying many recipes for homemade kalbi, I found this great kalbi (Korean BBQ short ribs) genuine recipe from a friend who learned it from his mom. It's sweet, salty, spicy, and very tender (thanks to the Coke). I use this same recipe to make bulgogi and dae ji bool gogi (spicy pork) and simply change the onions to sliced bulbs for the bulgogi.",
+        "ingredients": [
+            "¾ cup cola-flavored carbonated beverage (such as Coca-Cola)",
+            "¼ cup white sugar",
+            "¼ cup soy sauce",
+            "¼ cup water",
+            "2 green onions, chopped",
+            "3 tablespoons sesame oil",
+            "1 tablespoon minced garlic",
+            "1 ½ teaspoons sesame seeds",
+            "1 teaspoon ground black pepper",
+            "2 pounds short ribs"
+        ],
+        "directions": [
+            "Whisk cola, sugar, soy sauce, water, green onions, sesame oil, garlic, sesame seeds, and black pepper together in a bowl until combined. Pour into a resealable plastic bag. Add short ribs, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 2 hours.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove short ribs from marinade and shake off excess. Discard remaining marinade.",
+            "Cook until browned and reaches desired doneness, 3 to 4 minutes per side. An instant-read thermometer inserted into center should read 145 degrees F (63 degrees C)."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "¾ cola-flavored carbonated beverage such as coca-cola ¼ white sugar ¼ soy sauce ¼ water green onions chopped sesame oil minced garlic ½ sesame seeds ground black pepper pounds short ribs",
+        "directions_text": "whisk cola, sugar, soy sauce, water, green onions, sesame oil, garlic, sesame seeds, and black pepper together in a bowl until combined. pour into a resealable plastic bag. add short ribs, coat with marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator for at least 2 hours. preheat an outdoor grill for medium-high heat and lightly oil the grate. remove short ribs from marinade and shake off excess. discard remaining marinade. cook until browned and reaches desired doneness, 3 to 4 minutes per side. an instant-read thermometer inserted into center should read 145 degrees f (63 degrees c).",
+        "combined_text": "homemade kalbi (korean bbq short ribs) kalbi kalbi ¾ cup cola-flavored carbonated beverage (such as coca-cola) ¼ cup white sugar ¼ cup soy sauce ¼ cup water 2 green onions, chopped 3 tablespoons sesame oil 1 tablespoon minced garlic 1 ½ teaspoons sesame seeds 1 teaspoon ground black pepper 2 pounds short ribs whisk cola, sugar, soy sauce, water, green onions, sesame oil, garlic, sesame seeds, and black pepper together in a bowl until combined. pour into a resealable plastic bag. add short ribs, coat with marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator for at least 2 hours. preheat an outdoor grill for medium-high heat and lightly oil the grate. remove short ribs from marinade and shake off excess. discard remaining marinade. cook until browned and reaches desired doneness, 3 to 4 minutes per side. an instant-read thermometer inserted into center should read 145 degrees f (63 degrees c).",
+        "ingredients_raw": [
+            "¾ cup cola-flavored carbonated beverage (such as Coca-Cola)",
+            "¼ cup white sugar",
+            "¼ cup soy sauce",
+            "¼ cup water",
+            "2 green onions, chopped",
+            "3 tablespoons sesame oil",
+            "1 tablespoon minced garlic",
+            "1 ½ teaspoons sesame seeds",
+            "1 teaspoon ground black pepper",
+            "2 pounds short ribs"
+        ],
+        "directions_raw": [
+            "Whisk cola, sugar, soy sauce, water, green onions, sesame oil, garlic, sesame seeds, and black pepper together in a bowl until combined. Pour into a resealable plastic bag. Add short ribs, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 2 hours.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove short ribs from marinade and shake off excess. Discard remaining marinade.",
+            "Cook until browned and reaches desired doneness, 3 to 4 minutes per side. An instant-read thermometer inserted into center should read 145 degrees F (63 degrees C)."
+        ],
+        "ingredients_canonical": [
+            "¾ cola-flavored carbonated beverage such as coca-cola",
+            "¼ white sugar",
+            "¼ soy sauce",
+            "¼ water",
+            "green onions chopped",
+            "sesame oil",
+            "minced garlic",
+            "½ sesame seeds",
+            "ground black pepper",
+            "pounds short ribs"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 43,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Kalbi (Korean Marinated Short Ribs)",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "On my half-day off, I decided to relax by making my favorite Korean meat dish, kalbi (marinated short ribs). Serve with white rice and kimchi. If serving small children (and wanting to prevent a mess), it's best to cut the meat off the bone and slice into bite-sized pieces. The dark marinade can stain clothes, so be careful.",
+        "ingredients": [
+            "3 pounds beef short ribs",
+            "½ cup soy sauce",
+            "1 Asian pear, cored and diced",
+            "½ small onion",
+            "2 tablespoons finely chopped garlic",
+            "1 tablespoon chopped ginger",
+            "2 green onions, thinly sliced",
+            "2 tablespoons sesame oil",
+            "2 tablespoons brown sugar",
+            "2 tablespoons toasted sesame seeds",
+            "1 tablespoon honey",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions": [
+            "Place ribs in a bowl and cover with water; soak until water turns pink, about 1 hour. Drain and rinse in cold water.",
+            "Combine soy sauce, Asian pear, onion, garlic, and ginger in a food processor. Pulse until smooth.",
+            "Combine green onions, sesame oil, brown sugar, sesame seeds, honey, and black pepper in a large bowl; mix well. Add ribs and coat thoroughly with the marinade. Cover with plastic wrap and refrigerate 8 hours to overnight.",
+            "Preheat an outdoor grill for high heat and lightly oil the grate.",
+            "Cook ribs on the grill until slightly charred and tender, about 4 minutes per side."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "pounds beef short ribs ½ soy sauce asian pear cored diced ½ small onion finely chopped garlic chopped ginger green onions thinly sliced sesame oil brown sugar toasted sesame seeds honey ¼ ground black pepper",
+        "directions_text": "place ribs in a bowl and cover with water; soak until water turns pink, about 1 hour. drain and rinse in cold water. combine soy sauce, asian pear, onion, garlic, and ginger in a food processor. pulse until smooth. combine green onions, sesame oil, brown sugar, sesame seeds, honey, and black pepper in a large bowl; mix well. add ribs and coat thoroughly with the marinade. cover with plastic wrap and refrigerate 8 hours to overnight. preheat an outdoor grill for high heat and lightly oil the grate. cook ribs on the grill until slightly charred and tender, about 4 minutes per side.",
+        "combined_text": "kalbi (korean marinated short ribs) kalbi kalbi 3 pounds beef short ribs ½ cup soy sauce 1 asian pear, cored and diced ½ small onion 2 tablespoons finely chopped garlic 1 tablespoon chopped ginger 2 green onions, thinly sliced 2 tablespoons sesame oil 2 tablespoons brown sugar 2 tablespoons toasted sesame seeds 1 tablespoon honey ¼ teaspoon ground black pepper place ribs in a bowl and cover with water; soak until water turns pink, about 1 hour. drain and rinse in cold water. combine soy sauce, asian pear, onion, garlic, and ginger in a food processor. pulse until smooth. combine green onions, sesame oil, brown sugar, sesame seeds, honey, and black pepper in a large bowl; mix well. add ribs and coat thoroughly with the marinade. cover with plastic wrap and refrigerate 8 hours to overnight. preheat an outdoor grill for high heat and lightly oil the grate. cook ribs on the grill until slightly charred and tender, about 4 minutes per side.",
+        "ingredients_raw": [
+            "3 pounds beef short ribs",
+            "½ cup soy sauce",
+            "1 Asian pear, cored and diced",
+            "½ small onion",
+            "2 tablespoons finely chopped garlic",
+            "1 tablespoon chopped ginger",
+            "2 green onions, thinly sliced",
+            "2 tablespoons sesame oil",
+            "2 tablespoons brown sugar",
+            "2 tablespoons toasted sesame seeds",
+            "1 tablespoon honey",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions_raw": [
+            "Place ribs in a bowl and cover with water; soak until water turns pink, about 1 hour. Drain and rinse in cold water.",
+            "Combine soy sauce, Asian pear, onion, garlic, and ginger in a food processor. Pulse until smooth.",
+            "Combine green onions, sesame oil, brown sugar, sesame seeds, honey, and black pepper in a large bowl; mix well. Add ribs and coat thoroughly with the marinade. Cover with plastic wrap and refrigerate 8 hours to overnight.",
+            "Preheat an outdoor grill for high heat and lightly oil the grate.",
+            "Cook ribs on the grill until slightly charred and tender, about 4 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "pounds beef short ribs",
+            "½ soy sauce",
+            "asian pear cored diced",
+            "½ small onion",
+            "finely chopped garlic",
+            "chopped ginger",
+            "green onions thinly sliced",
+            "sesame oil",
+            "brown sugar",
+            "toasted sesame seeds",
+            "honey",
+            "¼ ground black pepper"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 78,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "The Real Deal Korean Beef Ribs",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "This is an authentic Korean beef rib recipe, not the Americanized version. This is super easy and a crowd pleaser. This is for 4 pounds of ribs. I find 2 tablespoons of honey is perfect for a not-so-sweet rib. This gives you the perfect amount of tanginess. However, if you like it sweeter you can add up to 3 tablespoons.",
+        "ingredients": [
+            "4 pounds Korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones)",
+            "½ cup reduced-sodium soy sauce",
+            "½ cup white sugar",
+            "2 tablespoons honey",
+            "2 tablespoons minced garlic",
+            "2 tablespoons ground black pepper",
+            "3 tablespoons water",
+            "1 tablespoon Asian (toasted) sesame oil",
+            "1 ½ tablespoons Asian plum wine"
+        ],
+        "directions": [
+            "Wash the ribs, removing any stray bits of bone, and allow to drain for 30 minutes.",
+            "Whisk together the soy sauce, sugar, honey, garlic, pepper, water, sesame oil, and plum wine until the sugar has dissolved; pour the mixture into a 1 gallon plastic zipper bag. Place the ribs into the marinade, squeeze all the air out of the bag, zip it up, and refrigerate at least 24 hours.",
+            "The next day, remove the ribs from the refrigerator and allow to come to room temperature before grilling. Remove the ribs from the marinade and discard the marinade.",
+            "Preheat an outdoor grill for medium-high heat, and lightly oil the grate. Grill the ribs until browned and no longer pink inside, 4 to 6 minutes per side."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "pounds korean-style short ribs beef chuck flanken cut inch thick across bones ½ reduced-sodium soy sauce ½ white sugar honey minced garlic ground black pepper water asian toasted sesame oil ½ asian plum wine",
+        "directions_text": "wash the ribs, removing any stray bits of bone, and allow to drain for 30 minutes. whisk together the soy sauce, sugar, honey, garlic, pepper, water, sesame oil, and plum wine until the sugar has dissolved; pour the mixture into a 1 gallon plastic zipper bag. place the ribs into the marinade, squeeze all the air out of the bag, zip it up, and refrigerate at least 24 hours. the next day, remove the ribs from the refrigerator and allow to come to room temperature before grilling. remove the ribs from the marinade and discard the marinade. preheat an outdoor grill for medium-high heat, and lightly oil the grate. grill the ribs until browned and no longer pink inside, 4 to 6 minutes per side.",
+        "combined_text": "the real deal korean beef ribs kalbi kalbi 4 pounds korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones) ½ cup reduced-sodium soy sauce ½ cup white sugar 2 tablespoons honey 2 tablespoons minced garlic 2 tablespoons ground black pepper 3 tablespoons water 1 tablespoon asian (toasted) sesame oil 1 ½ tablespoons asian plum wine wash the ribs, removing any stray bits of bone, and allow to drain for 30 minutes. whisk together the soy sauce, sugar, honey, garlic, pepper, water, sesame oil, and plum wine until the sugar has dissolved; pour the mixture into a 1 gallon plastic zipper bag. place the ribs into the marinade, squeeze all the air out of the bag, zip it up, and refrigerate at least 24 hours. the next day, remove the ribs from the refrigerator and allow to come to room temperature before grilling. remove the ribs from the marinade and discard the marinade. preheat an outdoor grill for medium-high heat, and lightly oil the grate. grill the ribs until browned and no longer pink inside, 4 to 6 minutes per side.",
+        "ingredients_raw": [
+            "4 pounds Korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones)",
+            "½ cup reduced-sodium soy sauce",
+            "½ cup white sugar",
+            "2 tablespoons honey",
+            "2 tablespoons minced garlic",
+            "2 tablespoons ground black pepper",
+            "3 tablespoons water",
+            "1 tablespoon Asian (toasted) sesame oil",
+            "1 ½ tablespoons Asian plum wine"
+        ],
+        "directions_raw": [
+            "Wash the ribs, removing any stray bits of bone, and allow to drain for 30 minutes.",
+            "Whisk together the soy sauce, sugar, honey, garlic, pepper, water, sesame oil, and plum wine until the sugar has dissolved; pour the mixture into a 1 gallon plastic zipper bag. Place the ribs into the marinade, squeeze all the air out of the bag, zip it up, and refrigerate at least 24 hours.",
+            "The next day, remove the ribs from the refrigerator and allow to come to room temperature before grilling. Remove the ribs from the marinade and discard the marinade.",
+            "Preheat an outdoor grill for medium-high heat, and lightly oil the grate. Grill the ribs until browned and no longer pink inside, 4 to 6 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "pounds korean-style short ribs beef chuck flanken cut inch thick across bones",
+            "½ reduced-sodium soy sauce",
+            "½ white sugar",
+            "honey",
+            "minced garlic",
+            "ground black pepper",
+            "water",
+            "asian toasted sesame oil",
+            "½ asian plum wine"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 70,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Gluten-Free Kalbi Beef",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "Great gluten-free option for a day of grilling.",
+        "ingredients": [
+            "2 tablespoons sesame seeds",
+            "1 ½ cups gluten-free soy sauce (tamari)",
+            "⅔ cup white sugar",
+            "½ cup chopped green onions",
+            "¼ cup sesame oil",
+            "2 tablespoons minced garlic",
+            "½ teaspoon red pepper flakes",
+            "5 pounds Korean short ribs (cut flanken-style into 1/2-inch slices across the bones)"
+        ],
+        "directions": [
+            "Toast sesame seeds in a small skillet over medium heat until lightly browned, 3 to 5 minutes.",
+            "Combine sesame seeds, soy sauce, sugar, green onions, sesame oil, garlic, and red pepper flakes in a saucepan. Simmer over medium-low heat, stirring constantly, until flavors combine, about 10 minutes. Remove from heat and let marinade cool completely, about 15 minutes.",
+            "Place short ribs in large resealable plastic bags and cover with cooled marinade. Seal and let marinate in the refrigerator, at least 1 hour or overnight for maximum flavor.",
+            "Preheat grill for medium heat and lightly oil the grate.",
+            "Drain short ribs, discarding marinade, and cook on the preheated grill until browned, about 5 minutes per side."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 5,
+        "ingredient_text": "sesame seeds ½ gluten-free soy sauce tamari ⅔ white sugar ½ chopped green onions ¼ sesame oil minced garlic ½ red pepper flakes pounds korean short ribs cut flanken-style into -inch slices across the bones",
+        "directions_text": "toast sesame seeds in a small skillet over medium heat until lightly browned, 3 to 5 minutes. combine sesame seeds, soy sauce, sugar, green onions, sesame oil, garlic, and red pepper flakes in a saucepan. simmer over medium-low heat, stirring constantly, until flavors combine, about 10 minutes. remove from heat and let marinade cool completely, about 15 minutes. place short ribs in large resealable plastic bags and cover with cooled marinade. seal and let marinate in the refrigerator, at least 1 hour or overnight for maximum flavor. preheat grill for medium heat and lightly oil the grate. drain short ribs, discarding marinade, and cook on the preheated grill until browned, about 5 minutes per side.",
+        "combined_text": "gluten-free kalbi beef kalbi kalbi 2 tablespoons sesame seeds 1 ½ cups gluten-free soy sauce (tamari) ⅔ cup white sugar ½ cup chopped green onions ¼ cup sesame oil 2 tablespoons minced garlic ½ teaspoon red pepper flakes 5 pounds korean short ribs (cut flanken-style into 1/2-inch slices across the bones) toast sesame seeds in a small skillet over medium heat until lightly browned, 3 to 5 minutes. combine sesame seeds, soy sauce, sugar, green onions, sesame oil, garlic, and red pepper flakes in a saucepan. simmer over medium-low heat, stirring constantly, until flavors combine, about 10 minutes. remove from heat and let marinade cool completely, about 15 minutes. place short ribs in large resealable plastic bags and cover with cooled marinade. seal and let marinate in the refrigerator, at least 1 hour or overnight for maximum flavor. preheat grill for medium heat and lightly oil the grate. drain short ribs, discarding marinade, and cook on the preheated grill until browned, about 5 minutes per side.",
+        "ingredients_raw": [
+            "2 tablespoons sesame seeds",
+            "1 ½ cups gluten-free soy sauce (tamari)",
+            "⅔ cup white sugar",
+            "½ cup chopped green onions",
+            "¼ cup sesame oil",
+            "2 tablespoons minced garlic",
+            "½ teaspoon red pepper flakes",
+            "5 pounds Korean short ribs (cut flanken-style into 1/2-inch slices across the bones)"
+        ],
+        "directions_raw": [
+            "Toast sesame seeds in a small skillet over medium heat until lightly browned, 3 to 5 minutes.",
+            "Combine sesame seeds, soy sauce, sugar, green onions, sesame oil, garlic, and red pepper flakes in a saucepan. Simmer over medium-low heat, stirring constantly, until flavors combine, about 10 minutes. Remove from heat and let marinade cool completely, about 15 minutes.",
+            "Place short ribs in large resealable plastic bags and cover with cooled marinade. Seal and let marinate in the refrigerator, at least 1 hour or overnight for maximum flavor.",
+            "Preheat grill for medium heat and lightly oil the grate.",
+            "Drain short ribs, discarding marinade, and cook on the preheated grill until browned, about 5 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "sesame seeds",
+            "½ gluten-free soy sauce tamari",
+            "⅔ white sugar",
+            "½ chopped green onions",
+            "¼ sesame oil",
+            "minced garlic",
+            "½ red pepper flakes",
+            "pounds korean short ribs cut flanken-style into -inch slices across the bones"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 81,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Korean BBQ-Inspired Short Ribs",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "These Galbi-inspired Korean short ribs are incredibly easy to make and very tasty. They can be served with sticky white rice and lettuce wraps and pair well with many other Korean BBQ dishes. Great for parties and backyard BBQs!",
+        "ingredients": [
+            "¼ cup rice wine vinegar",
+            "¼ cup soy sauce",
+            "¼ cup sriracha hot sauce, or to taste",
+            "2 tablespoons olive oil",
+            "¼ cup brown sugar",
+            "2 green onions, chopped (Optional)",
+            "3 cloves garlic, minced, or more to taste",
+            "1 tablespoon ground black pepper",
+            "1 tablespoon toasted sesame seeds",
+            "1 tablespoon minced fresh ginger",
+            "1 pinch Chinese five-spice powder",
+            "2 pounds beef short ribs, cut 1/3-inch-thick across the bones"
+        ],
+        "directions": [
+            "Whisk vinegar, soy sauce, sriracha hot sauce, and olive oil together in a large bowl; add brown sugar and stir until dissolved. Mix green onions, garlic, black pepper, sesame seeds, ginger, and five-spice powder into vinegar mixture until marinade is evenly combined.",
+            "Place short ribs in a large reseable bag and pour marinade over ribs; coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 3 hours.",
+            "Preheat grill for medium heat and lightly oil the grate.",
+            "Remove ribs from marinade and place on the grill; cook for 6 to 7 minutes. Flip ribs and spoon marinade over second side; cook until meat is no longer pink, 6 to 7 minutes more. Turn grill heat to high and cook ribs for 1 minute more per side. Remove ribs from heat and place on a plate; let rest for 5 minutes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "¼ rice wine vinegar ¼ soy sauce ¼ sriracha hot sauce taste olive oil ¼ brown sugar green onions chopped optional cloves garlic minced more taste ground black pepper toasted sesame seeds minced fresh ginger pinch chinese five-spice powder pounds beef short ribs cut -inch-thick across the bones",
+        "directions_text": "whisk vinegar, soy sauce, sriracha hot sauce, and olive oil together in a large bowl; add brown sugar and stir until dissolved. mix green onions, garlic, black pepper, sesame seeds, ginger, and five-spice powder into vinegar mixture until marinade is evenly combined. place short ribs in a large reseable bag and pour marinade over ribs; coat with the marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator for at least 3 hours. preheat grill for medium heat and lightly oil the grate. remove ribs from marinade and place on the grill; cook for 6 to 7 minutes. flip ribs and spoon marinade over second side; cook until meat is no longer pink, 6 to 7 minutes more. turn grill heat to high and cook ribs for 1 minute more per side. remove ribs from heat and place on a plate; let rest for 5 minutes.",
+        "combined_text": "korean bbq-inspired short ribs kalbi kalbi ¼ cup rice wine vinegar ¼ cup soy sauce ¼ cup sriracha hot sauce, or to taste 2 tablespoons olive oil ¼ cup brown sugar 2 green onions, chopped (optional) 3 cloves garlic, minced, or more to taste 1 tablespoon ground black pepper 1 tablespoon toasted sesame seeds 1 tablespoon minced fresh ginger 1 pinch chinese five-spice powder 2 pounds beef short ribs, cut 1/3-inch-thick across the bones whisk vinegar, soy sauce, sriracha hot sauce, and olive oil together in a large bowl; add brown sugar and stir until dissolved. mix green onions, garlic, black pepper, sesame seeds, ginger, and five-spice powder into vinegar mixture until marinade is evenly combined. place short ribs in a large reseable bag and pour marinade over ribs; coat with the marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator for at least 3 hours. preheat grill for medium heat and lightly oil the grate. remove ribs from marinade and place on the grill; cook for 6 to 7 minutes. flip ribs and spoon marinade over second side; cook until meat is no longer pink, 6 to 7 minutes more. turn grill heat to high and cook ribs for 1 minute more per side. remove ribs from heat and place on a plate; let rest for 5 minutes.",
+        "ingredients_raw": [
+            "¼ cup rice wine vinegar",
+            "¼ cup soy sauce",
+            "¼ cup sriracha hot sauce, or to taste",
+            "2 tablespoons olive oil",
+            "¼ cup brown sugar",
+            "2 green onions, chopped (Optional)",
+            "3 cloves garlic, minced, or more to taste",
+            "1 tablespoon ground black pepper",
+            "1 tablespoon toasted sesame seeds",
+            "1 tablespoon minced fresh ginger",
+            "1 pinch Chinese five-spice powder",
+            "2 pounds beef short ribs, cut 1/3-inch-thick across the bones"
+        ],
+        "directions_raw": [
+            "Whisk vinegar, soy sauce, sriracha hot sauce, and olive oil together in a large bowl; add brown sugar and stir until dissolved. Mix green onions, garlic, black pepper, sesame seeds, ginger, and five-spice powder into vinegar mixture until marinade is evenly combined.",
+            "Place short ribs in a large reseable bag and pour marinade over ribs; coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 3 hours.",
+            "Preheat grill for medium heat and lightly oil the grate.",
+            "Remove ribs from marinade and place on the grill; cook for 6 to 7 minutes. Flip ribs and spoon marinade over second side; cook until meat is no longer pink, 6 to 7 minutes more. Turn grill heat to high and cook ribs for 1 minute more per side. Remove ribs from heat and place on a plate; let rest for 5 minutes."
+        ],
+        "ingredients_canonical": [
+            "¼ rice wine vinegar",
+            "¼ soy sauce",
+            "¼ sriracha hot sauce taste",
+            "olive oil",
+            "¼ brown sugar",
+            "green onions chopped optional",
+            "cloves garlic minced more taste",
+            "ground black pepper",
+            "toasted sesame seeds",
+            "minced fresh ginger",
+            "pinch chinese five-spice powder",
+            "pounds beef short ribs cut -inch-thick across the bones"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 5,
+        "medium_hits": 9,
+        "cook_speed": "medium",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 117,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Stewed Korean Short Ribs (Kalbi Jim)",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "Great for the winter time, low maintenance recipe, once the beef is stewing. It's a soy sauce-based beef stew, sweet and salty.",
+        "ingredients": [
+            "2 pounds beef short ribs, trimmed",
+            "1 green onion, chopped",
+            "2 carrots, peeled and chopped",
+            "4 cloves garlic, minced",
+            "1 (1 inch) piece fresh ginger root, chopped",
+            "½ cup reduced-sodium soy sauce",
+            "¼ cup brown sugar",
+            "2 cups water to cover"
+        ],
+        "directions": [
+            "Score the surface of each beef short rib in a diamond pattern. Combine beef, green onion, carrots, garlic, ginger, soy sauce, and brown sugar in a large skillet. Pour enough water to cover the beef. Bring to a boil over medium-high heat, then reduce heat to medium-low. Simmer until beef is tender, about 1 hour. Skim off excess oil before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "pounds beef short ribs trimmed green onion chopped carrots peeled chopped cloves garlic minced inch piece fresh ginger root chopped ½ reduced-sodium soy sauce ¼ brown sugar water cover",
+        "directions_text": "score the surface of each beef short rib in a diamond pattern. combine beef, green onion, carrots, garlic, ginger, soy sauce, and brown sugar in a large skillet. pour enough water to cover the beef. bring to a boil over medium-high heat, then reduce heat to medium-low. simmer until beef is tender, about 1 hour. skim off excess oil before serving.",
+        "combined_text": "stewed korean short ribs (kalbi jim) kalbi kalbi 2 pounds beef short ribs, trimmed 1 green onion, chopped 2 carrots, peeled and chopped 4 cloves garlic, minced 1 (1 inch) piece fresh ginger root, chopped ½ cup reduced-sodium soy sauce ¼ cup brown sugar 2 cups water to cover score the surface of each beef short rib in a diamond pattern. combine beef, green onion, carrots, garlic, ginger, soy sauce, and brown sugar in a large skillet. pour enough water to cover the beef. bring to a boil over medium-high heat, then reduce heat to medium-low. simmer until beef is tender, about 1 hour. skim off excess oil before serving.",
+        "ingredients_raw": [
+            "2 pounds beef short ribs, trimmed",
+            "1 green onion, chopped",
+            "2 carrots, peeled and chopped",
+            "4 cloves garlic, minced",
+            "1 (1 inch) piece fresh ginger root, chopped",
+            "½ cup reduced-sodium soy sauce",
+            "¼ cup brown sugar",
+            "2 cups water to cover"
+        ],
+        "directions_raw": [
+            "Score the surface of each beef short rib in a diamond pattern. Combine beef, green onion, carrots, garlic, ginger, soy sauce, and brown sugar in a large skillet. Pour enough water to cover the beef. Bring to a boil over medium-high heat, then reduce heat to medium-low. Simmer until beef is tender, about 1 hour. Skim off excess oil before serving."
+        ],
+        "ingredients_canonical": [
+            "pounds beef short ribs trimmed",
+            "green onion chopped",
+            "carrots peeled chopped",
+            "cloves garlic minced",
+            "inch piece fresh ginger root chopped",
+            "½ reduced-sodium soy sauce",
+            "¼ brown sugar",
+            "water cover"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 3,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 37,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Las Vegas Galbi (Korean-Style Beef Ribs)",
+        "category": "Kalbi",
+        "subcategory": "Kalbi",
+        "description": "So this Korean ribs recipe is basically LA galbi with my own personal touches. It has received praise from many Koreans; however, I'm not sure if they were just being nice or not. You don't need a portable/tabletop stove for this (you can use a stovetop instead), but it's more fun this way. Serve with rice, kimchi, garlic, etc. Garnish with sesame seeds.",
+        "ingredients": [
+            "2 ½ pounds beef short ribs, cut flanken-style",
+            "½ large Asian pear, cored and cubed",
+            "1 white onion",
+            "1 kiwi, peeled and diced",
+            "5 cloves garlic",
+            "1 cup soy sauce",
+            "1 cup brown sugar",
+            "¼ cup honey",
+            "¼ cup sesame oil",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions": [
+            "Place ribs in a large bowl of water; soak for 1 hour. Drain ribs and return to the bowl.",
+            "Combine Asian pear, onion, kiwi, and garlic in a food processor and puree. Transfer to a bowl and stir in soy sauce, brown sugar, honey, sesame, oil, and black pepper. Pour marinade over ribs in the bowl. Cover with plastic wrap and marinate in the refrigerator, turning once, at least 8 hours or overnight.",
+            "Strain marinade and discard.",
+            "Preheat grill for medium heat and lightly oil the grate. Grill ribs until crispy outside and meat is no longer pink, about 8 minutes per side."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "½ pounds beef short ribs cut flanken-style ½ large asian pear cored cubed white onion kiwi peeled diced cloves garlic soy sauce brown sugar ¼ honey ¼ sesame oil ¼ ground black pepper",
+        "directions_text": "place ribs in a large bowl of water; soak for 1 hour. drain ribs and return to the bowl. combine asian pear, onion, kiwi, and garlic in a food processor and puree. transfer to a bowl and stir in soy sauce, brown sugar, honey, sesame, oil, and black pepper. pour marinade over ribs in the bowl. cover with plastic wrap and marinate in the refrigerator, turning once, at least 8 hours or overnight. strain marinade and discard. preheat grill for medium heat and lightly oil the grate. grill ribs until crispy outside and meat is no longer pink, about 8 minutes per side.",
+        "combined_text": "las vegas galbi (korean-style beef ribs) kalbi kalbi 2 ½ pounds beef short ribs, cut flanken-style ½ large asian pear, cored and cubed 1 white onion 1 kiwi, peeled and diced 5 cloves garlic 1 cup soy sauce 1 cup brown sugar ¼ cup honey ¼ cup sesame oil ¼ teaspoon ground black pepper place ribs in a large bowl of water; soak for 1 hour. drain ribs and return to the bowl. combine asian pear, onion, kiwi, and garlic in a food processor and puree. transfer to a bowl and stir in soy sauce, brown sugar, honey, sesame, oil, and black pepper. pour marinade over ribs in the bowl. cover with plastic wrap and marinate in the refrigerator, turning once, at least 8 hours or overnight. strain marinade and discard. preheat grill for medium heat and lightly oil the grate. grill ribs until crispy outside and meat is no longer pink, about 8 minutes per side.",
+        "ingredients_raw": [
+            "2 ½ pounds beef short ribs, cut flanken-style",
+            "½ large Asian pear, cored and cubed",
+            "1 white onion",
+            "1 kiwi, peeled and diced",
+            "5 cloves garlic",
+            "1 cup soy sauce",
+            "1 cup brown sugar",
+            "¼ cup honey",
+            "¼ cup sesame oil",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions_raw": [
+            "Place ribs in a large bowl of water; soak for 1 hour. Drain ribs and return to the bowl.",
+            "Combine Asian pear, onion, kiwi, and garlic in a food processor and puree. Transfer to a bowl and stir in soy sauce, brown sugar, honey, sesame, oil, and black pepper. Pour marinade over ribs in the bowl. Cover with plastic wrap and marinate in the refrigerator, turning once, at least 8 hours or overnight.",
+            "Strain marinade and discard.",
+            "Preheat grill for medium heat and lightly oil the grate. Grill ribs until crispy outside and meat is no longer pink, about 8 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "½ pounds beef short ribs cut flanken-style",
+            "½ large asian pear cored cubed",
+            "white onion",
+            "kiwi peeled diced",
+            "cloves garlic",
+            "soy sauce",
+            "brown sugar",
+            "¼ honey",
+            "¼ sesame oil",
+            "¼ ground black pepper"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    }
+]

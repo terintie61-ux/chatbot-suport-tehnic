@@ -1,0 +1,339 @@
+[
+    {
+        "recipe_title": "Microwave Divinity",
+        "category": "Divinity",
+        "subcategory": "Divinity",
+        "description": "Easy to make. Tastes like your grandma's divinity. No fail, you'll get it your first try; no more trying several times before it's perfect. Comes out perfectly the first time every time.",
+        "ingredients": [
+            "2 cups white sugar",
+            "⅓ cup light corn syrup (such as Karo®)",
+            "½ cup water",
+            "2 egg whites",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Mix sugar, corn syrup, and water together in a microwave-safe bowl.",
+            "Cook sugar mixture in the microwave until mixture is 250 degrees F (120 degrees C), or until a small amount of sugar mixture dropped into cold water forms a rigid ball, 3 minutes.",
+            "Beat egg whites in a glass or metal bowl until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks.",
+            "Stir sugar mixture into egg whites until no longer glossy, about 7 minutes. Stir in vanilla extract.",
+            "Drop candy by teaspoonfuls onto a sheet of waxed paper. Let stand until cooled, 15 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 5,
+        "ingredient_text": "white sugar ⅓ light corn syrup such as karo ½ water egg whites vanilla extract",
+        "directions_text": "mix sugar, corn syrup, and water together in a microwave-safe bowl. cook sugar mixture in the microwave until mixture is 250 degrees f (120 degrees c), or until a small amount of sugar mixture dropped into cold water forms a rigid ball, 3 minutes. beat egg whites in a glass or metal bowl until stiff peaks form. lift your beater or whisk straight up: the egg whites will form sharp peaks. stir sugar mixture into egg whites until no longer glossy, about 7 minutes. stir in vanilla extract. drop candy by teaspoonfuls onto a sheet of waxed paper. let stand until cooled, 15 minutes.",
+        "combined_text": "microwave divinity divinity divinity 2 cups white sugar ⅓ cup light corn syrup (such as karo®) ½ cup water 2 egg whites 1 teaspoon vanilla extract mix sugar, corn syrup, and water together in a microwave-safe bowl. cook sugar mixture in the microwave until mixture is 250 degrees f (120 degrees c), or until a small amount of sugar mixture dropped into cold water forms a rigid ball, 3 minutes. beat egg whites in a glass or metal bowl until stiff peaks form. lift your beater or whisk straight up: the egg whites will form sharp peaks. stir sugar mixture into egg whites until no longer glossy, about 7 minutes. stir in vanilla extract. drop candy by teaspoonfuls onto a sheet of waxed paper. let stand until cooled, 15 minutes.",
+        "ingredients_raw": [
+            "2 cups white sugar",
+            "⅓ cup light corn syrup (such as Karo®)",
+            "½ cup water",
+            "2 egg whites",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Mix sugar, corn syrup, and water together in a microwave-safe bowl.",
+            "Cook sugar mixture in the microwave until mixture is 250 degrees F (120 degrees C), or until a small amount of sugar mixture dropped into cold water forms a rigid ball, 3 minutes.",
+            "Beat egg whites in a glass or metal bowl until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks.",
+            "Stir sugar mixture into egg whites until no longer glossy, about 7 minutes. Stir in vanilla extract.",
+            "Drop candy by teaspoonfuls onto a sheet of waxed paper. Let stand until cooled, 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "⅓ light corn syrup such as karo",
+            "½ water",
+            "egg whites",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 20,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bill's Divinity",
+        "category": "Divinity",
+        "subcategory": "Divinity",
+        "description": "My brother used to make this every year.",
+        "ingredients": [
+            "2 ½ cups white sugar",
+            "½ cup light corn syrup",
+            "¼ teaspoon salt",
+            "½ cup water",
+            "2 egg whites",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "In a 2-quart saucepan, combine sugar, corn syrup, salt, and water. Cook to hard-ball stage (260 degrees F, or 125 degrees C), stirring only until sugar dissolves.",
+            "Meanwhile, beat egg whites to stiff peaks. Gradually pour syrup over egg whites, beating at high speed on electric mixer. Add vanilla and beat until candy holds its shape, about 4-5 minutes. Quickly drop from a teaspoon onto wax paper; cool."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "½ white sugar ½ light corn syrup ¼ salt ½ water egg whites vanilla extract",
+        "directions_text": "in a 2-quart saucepan, combine sugar, corn syrup, salt, and water. cook to hard-ball stage (260 degrees f, or 125 degrees c), stirring only until sugar dissolves. meanwhile, beat egg whites to stiff peaks. gradually pour syrup over egg whites, beating at high speed on electric mixer. add vanilla and beat until candy holds its shape, about 4-5 minutes. quickly drop from a teaspoon onto wax paper; cool.",
+        "combined_text": "bill's divinity divinity divinity 2 ½ cups white sugar ½ cup light corn syrup ¼ teaspoon salt ½ cup water 2 egg whites 1 teaspoon vanilla extract in a 2-quart saucepan, combine sugar, corn syrup, salt, and water. cook to hard-ball stage (260 degrees f, or 125 degrees c), stirring only until sugar dissolves. meanwhile, beat egg whites to stiff peaks. gradually pour syrup over egg whites, beating at high speed on electric mixer. add vanilla and beat until candy holds its shape, about 4-5 minutes. quickly drop from a teaspoon onto wax paper; cool.",
+        "ingredients_raw": [
+            "2 ½ cups white sugar",
+            "½ cup light corn syrup",
+            "¼ teaspoon salt",
+            "½ cup water",
+            "2 egg whites",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "In a 2-quart saucepan, combine sugar, corn syrup, salt, and water. Cook to hard-ball stage (260 degrees F, or 125 degrees C), stirring only until sugar dissolves.",
+            "Meanwhile, beat egg whites to stiff peaks. Gradually pour syrup over egg whites, beating at high speed on electric mixer. Add vanilla and beat until candy holds its shape, about 4-5 minutes. Quickly drop from a teaspoon onto wax paper; cool."
+        ],
+        "ingredients_canonical": [
+            "½ white sugar",
+            "½ light corn syrup",
+            "¼ salt",
+            "½ water",
+            "egg whites",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 11,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Gelatin Divinity",
+        "category": "Divinity",
+        "subcategory": "Divinity",
+        "description": "Use any flavor of gelatin mix for these sweet treats. Similar to fudge, this fun and flexible candy may become a holiday tradition.",
+        "ingredients": [
+            "3 cups white sugar",
+            "¾ cup light corn syrup",
+            "¾ cup water",
+            "2 egg whites",
+            "1 (3 ounce) package cherry flavored Jell-O® mix",
+            "1 cup chopped pecans"
+        ],
+        "directions": [
+            "Butter a 9x13 inch glass baking dish, and set aside. Combine the sugar, corn syrup, and water in a saucepan over medium-high heat. Stir just to blend, then bring to a boil. Heat to 250 to 265 degrees F (121 to 129 degrees C), or until a small amount of syrup dropped into cold water forms a rigid ball.",
+            "Meanwhile, whip egg whites with an electric mixer until foamy. Sprinkle in the gelatin powder, and continue whipping until peaks form when the beaters are turned off and lifted.",
+            "When the syrup reaches temperature, pour in a thin stream into the egg white mixture, mixing constantly on low speed. Increase to high speed once the syrup is in, and whip until the candy is stiff and loses its gloss. Fold in nuts, and spread into the prepared pan. Allow to stand until firm, then cut into squares."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "white sugar ¾ light corn syrup ¾ water egg whites ounce package cherry flavored jell-o mix chopped pecans",
+        "directions_text": "butter a 9x13 inch glass baking dish, and set aside. combine the sugar, corn syrup, and water in a saucepan over medium-high heat. stir just to blend, then bring to a boil. heat to 250 to 265 degrees f (121 to 129 degrees c), or until a small amount of syrup dropped into cold water forms a rigid ball. meanwhile, whip egg whites with an electric mixer until foamy. sprinkle in the gelatin powder, and continue whipping until peaks form when the beaters are turned off and lifted. when the syrup reaches temperature, pour in a thin stream into the egg white mixture, mixing constantly on low speed. increase to high speed once the syrup is in, and whip until the candy is stiff and loses its gloss. fold in nuts, and spread into the prepared pan. allow to stand until firm, then cut into squares.",
+        "combined_text": "gelatin divinity divinity divinity 3 cups white sugar ¾ cup light corn syrup ¾ cup water 2 egg whites 1 (3 ounce) package cherry flavored jell-o® mix 1 cup chopped pecans butter a 9x13 inch glass baking dish, and set aside. combine the sugar, corn syrup, and water in a saucepan over medium-high heat. stir just to blend, then bring to a boil. heat to 250 to 265 degrees f (121 to 129 degrees c), or until a small amount of syrup dropped into cold water forms a rigid ball. meanwhile, whip egg whites with an electric mixer until foamy. sprinkle in the gelatin powder, and continue whipping until peaks form when the beaters are turned off and lifted. when the syrup reaches temperature, pour in a thin stream into the egg white mixture, mixing constantly on low speed. increase to high speed once the syrup is in, and whip until the candy is stiff and loses its gloss. fold in nuts, and spread into the prepared pan. allow to stand until firm, then cut into squares.",
+        "ingredients_raw": [
+            "3 cups white sugar",
+            "¾ cup light corn syrup",
+            "¾ cup water",
+            "2 egg whites",
+            "1 (3 ounce) package cherry flavored Jell-O® mix",
+            "1 cup chopped pecans"
+        ],
+        "directions_raw": [
+            "Butter a 9x13 inch glass baking dish, and set aside. Combine the sugar, corn syrup, and water in a saucepan over medium-high heat. Stir just to blend, then bring to a boil. Heat to 250 to 265 degrees F (121 to 129 degrees C), or until a small amount of syrup dropped into cold water forms a rigid ball.",
+            "Meanwhile, whip egg whites with an electric mixer until foamy. Sprinkle in the gelatin powder, and continue whipping until peaks form when the beaters are turned off and lifted.",
+            "When the syrup reaches temperature, pour in a thin stream into the egg white mixture, mixing constantly on low speed. Increase to high speed once the syrup is in, and whip until the candy is stiff and loses its gloss. Fold in nuts, and spread into the prepared pan. Allow to stand until firm, then cut into squares."
+        ],
+        "ingredients_canonical": [
+            "white sugar",
+            "¾ light corn syrup",
+            "¾ water",
+            "egg whites",
+            "ounce package cherry flavored jell-o mix",
+            "chopped pecans"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 24,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Georgia Nuggets",
+        "category": "Divinity",
+        "subcategory": "Divinity",
+        "description": "This is a candy recipe that I share with all my family and friends at Christmas.",
+        "ingredients": [
+            "3 cups light brown sugar",
+            "1 cup evaporated milk",
+            "½ teaspoon vanilla extract",
+            "2 cups chopped pecans",
+            "1 tablespoon butter"
+        ],
+        "directions": [
+            "Combine the brown sugar and evaporated milk in a medium saucepan. Heat over medium-high heat, stirring to dissolve the sugar. When the mixture begins to boil, connect a candy thermometer to the side of the pan.",
+            "Heat to 232 degrees F (112 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface.",
+            "Remove from the heat and use a sturdy wooden spoon to stir in vanilla. Add butter and pecans and continue to stir until thick and creamy. It will lose some of its shine. Drop spoonfuls onto waxed paper and allow to cool at room temperature until set. Store in an airtight container at room temperature."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "light brown sugar evaporated milk ½ vanilla extract chopped pecans butter",
+        "directions_text": "combine the brown sugar and evaporated milk in a medium saucepan. heat over medium-high heat, stirring to dissolve the sugar. when the mixture begins to boil, connect a candy thermometer to the side of the pan. heat to 232 degrees f (112 degrees c), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface. remove from the heat and use a sturdy wooden spoon to stir in vanilla. add butter and pecans and continue to stir until thick and creamy. it will lose some of its shine. drop spoonfuls onto waxed paper and allow to cool at room temperature until set. store in an airtight container at room temperature.",
+        "combined_text": "georgia nuggets divinity divinity 3 cups light brown sugar 1 cup evaporated milk ½ teaspoon vanilla extract 2 cups chopped pecans 1 tablespoon butter combine the brown sugar and evaporated milk in a medium saucepan. heat over medium-high heat, stirring to dissolve the sugar. when the mixture begins to boil, connect a candy thermometer to the side of the pan. heat to 232 degrees f (112 degrees c), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface. remove from the heat and use a sturdy wooden spoon to stir in vanilla. add butter and pecans and continue to stir until thick and creamy. it will lose some of its shine. drop spoonfuls onto waxed paper and allow to cool at room temperature until set. store in an airtight container at room temperature.",
+        "ingredients_raw": [
+            "3 cups light brown sugar",
+            "1 cup evaporated milk",
+            "½ teaspoon vanilla extract",
+            "2 cups chopped pecans",
+            "1 tablespoon butter"
+        ],
+        "directions_raw": [
+            "Combine the brown sugar and evaporated milk in a medium saucepan. Heat over medium-high heat, stirring to dissolve the sugar. When the mixture begins to boil, connect a candy thermometer to the side of the pan.",
+            "Heat to 232 degrees F (112 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface.",
+            "Remove from the heat and use a sturdy wooden spoon to stir in vanilla. Add butter and pecans and continue to stir until thick and creamy. It will lose some of its shine. Drop spoonfuls onto waxed paper and allow to cool at room temperature until set. Store in an airtight container at room temperature."
+        ],
+        "ingredients_canonical": [
+            "light brown sugar",
+            "evaporated milk",
+            "½ vanilla extract",
+            "chopped pecans",
+            "butter"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 29,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 40,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    }
+]

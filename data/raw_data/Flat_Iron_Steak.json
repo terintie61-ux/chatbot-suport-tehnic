@@ -1,0 +1,1573 @@
+[
+    {
+        "recipe_title": "Flat Iron Steak with Balsamic Reduction",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "For this flat iron steak with balsamic reduction recipe, pepper-crusted flat iron steaks are pan seared then drizzled with a sweet and savory syrup. This dish is simple, impressive, and delicious!",
+        "ingredients": [
+            "3 pounds flat iron steak",
+            "3 tablespoons extra-virgin olive oil",
+            "2 tablespoons coarsely ground mixed peppercorns",
+            "1 ½ teaspoons salt",
+            "1 tablespoon unsalted butter",
+            "1 clove garlic, minced",
+            "1 cup balsamic vinegar",
+            "¼ cup chopped fresh parsley"
+        ],
+        "directions": [
+            "Brush flat iron steak with olive oil; press into ground peppercorns, then season with salt. Set aside. Melt butter in a large skillet over medium-high heat. Add steak; cook to desired degree of doneness, about 4 minutes per side for medium-rare. Transfer steak to a plate; keep warm.",
+            "Add garlic to the skillet; cook over medium heat until begins to brown around edges, about 1 minute. Pour in balsamic vinegar, increase heat to medium-high, cook until vinegar has reduced by half.",
+            "Thinly slice steak against the grain; arrange on a serving platter. Pour reduced balsamic vinegar over top; sprinkle with chopped parsley to serve."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "pounds flat iron steak extra-virgin olive oil coarsely ground mixed peppercorns ½ salt unsalted butter clove garlic minced balsamic vinegar ¼ chopped fresh parsley",
+        "directions_text": "brush flat iron steak with olive oil; press into ground peppercorns, then season with salt. set aside. melt butter in a large skillet over medium-high heat. add steak; cook to desired degree of doneness, about 4 minutes per side for medium-rare. transfer steak to a plate; keep warm. add garlic to the skillet; cook over medium heat until begins to brown around edges, about 1 minute. pour in balsamic vinegar, increase heat to medium-high, cook until vinegar has reduced by half. thinly slice steak against the grain; arrange on a serving platter. pour reduced balsamic vinegar over top; sprinkle with chopped parsley to serve.",
+        "combined_text": "flat iron steak with balsamic reduction flat iron steak flat iron steak 3 pounds flat iron steak 3 tablespoons extra-virgin olive oil 2 tablespoons coarsely ground mixed peppercorns 1 ½ teaspoons salt 1 tablespoon unsalted butter 1 clove garlic, minced 1 cup balsamic vinegar ¼ cup chopped fresh parsley brush flat iron steak with olive oil; press into ground peppercorns, then season with salt. set aside. melt butter in a large skillet over medium-high heat. add steak; cook to desired degree of doneness, about 4 minutes per side for medium-rare. transfer steak to a plate; keep warm. add garlic to the skillet; cook over medium heat until begins to brown around edges, about 1 minute. pour in balsamic vinegar, increase heat to medium-high, cook until vinegar has reduced by half. thinly slice steak against the grain; arrange on a serving platter. pour reduced balsamic vinegar over top; sprinkle with chopped parsley to serve.",
+        "ingredients_raw": [
+            "3 pounds flat iron steak",
+            "3 tablespoons extra-virgin olive oil",
+            "2 tablespoons coarsely ground mixed peppercorns",
+            "1 ½ teaspoons salt",
+            "1 tablespoon unsalted butter",
+            "1 clove garlic, minced",
+            "1 cup balsamic vinegar",
+            "¼ cup chopped fresh parsley"
+        ],
+        "directions_raw": [
+            "Brush flat iron steak with olive oil; press into ground peppercorns, then season with salt. Set aside. Melt butter in a large skillet over medium-high heat. Add steak; cook to desired degree of doneness, about 4 minutes per side for medium-rare. Transfer steak to a plate; keep warm.",
+            "Add garlic to the skillet; cook over medium heat until begins to brown around edges, about 1 minute. Pour in balsamic vinegar, increase heat to medium-high, cook until vinegar has reduced by half.",
+            "Thinly slice steak against the grain; arrange on a serving platter. Pour reduced balsamic vinegar over top; sprinkle with chopped parsley to serve."
+        ],
+        "ingredients_canonical": [
+            "pounds flat iron steak",
+            "extra-virgin olive oil",
+            "coarsely ground mixed peppercorns",
+            "½ salt",
+            "unsalted butter",
+            "clove garlic minced",
+            "balsamic vinegar",
+            "¼ chopped fresh parsley"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 0,
+        "medium_hits": 9,
+        "cook_speed": "medium",
+        "est_prep_time_min": 25,
+        "est_cook_time_min": 54,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Foolproof Flat Iron Steaks",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "My special recipe combines balsamic vinegar, olive oil, and spices creating a simple, delicious marinade. My technique yields the most tender and juicy steak.",
+        "ingredients": [
+            "2 (1 pound) flat iron steaks",
+            "¼ cup balsamic vinegar",
+            "3 tablespoons extra virgin olive oil",
+            "3 tablespoons finely chopped green onions",
+            "4 cloves garlic, minced",
+            "1 tablespoon soy sauce",
+            "1 teaspoon chopped fresh thyme",
+            "½ teaspoon dry mustard",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions": [
+            "Place steaks, balsamic vinegar, olive oil, green onions, garlic, soy sauce, thyme, mustard, and black pepper in an extra large resealable plastic bag, squeeze out excess air, and seal the bag. Knead the bag with your hands to distribute ingredients evenly and completely coat the steaks. Marinate in the refrigerator for 1 hour.",
+            "Preheat grill for medium-high heat and lightly oil the grate. Remove steaks from refrigerator and let sit at room temperature for 10 minutes.",
+            "Remove steaks from bag and discard marinade.",
+            "Cook steaks on the preheated grill until they start to firm and are reddish-pink and juicy in the center, 6 to 7 minutes per side. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C). Remove steaks to a plate and let rest for 5 minutes before slicing."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "pound flat iron steaks ¼ balsamic vinegar extra virgin olive oil finely chopped green onions cloves garlic minced soy sauce chopped fresh thyme ½ dry mustard ¼ ground black pepper",
+        "directions_text": "place steaks, balsamic vinegar, olive oil, green onions, garlic, soy sauce, thyme, mustard, and black pepper in an extra large resealable plastic bag, squeeze out excess air, and seal the bag. knead the bag with your hands to distribute ingredients evenly and completely coat the steaks. marinate in the refrigerator for 1 hour. preheat grill for medium-high heat and lightly oil the grate. remove steaks from refrigerator and let sit at room temperature for 10 minutes. remove steaks from bag and discard marinade. cook steaks on the preheated grill until they start to firm and are reddish-pink and juicy in the center, 6 to 7 minutes per side. an instant-read thermometer inserted into the center should read 130 degrees f (54 degrees c). remove steaks to a plate and let rest for 5 minutes before slicing.",
+        "combined_text": "foolproof flat iron steaks flat iron steak flat iron steak 2 (1 pound) flat iron steaks ¼ cup balsamic vinegar 3 tablespoons extra virgin olive oil 3 tablespoons finely chopped green onions 4 cloves garlic, minced 1 tablespoon soy sauce 1 teaspoon chopped fresh thyme ½ teaspoon dry mustard ¼ teaspoon ground black pepper place steaks, balsamic vinegar, olive oil, green onions, garlic, soy sauce, thyme, mustard, and black pepper in an extra large resealable plastic bag, squeeze out excess air, and seal the bag. knead the bag with your hands to distribute ingredients evenly and completely coat the steaks. marinate in the refrigerator for 1 hour. preheat grill for medium-high heat and lightly oil the grate. remove steaks from refrigerator and let sit at room temperature for 10 minutes. remove steaks from bag and discard marinade. cook steaks on the preheated grill until they start to firm and are reddish-pink and juicy in the center, 6 to 7 minutes per side. an instant-read thermometer inserted into the center should read 130 degrees f (54 degrees c). remove steaks to a plate and let rest for 5 minutes before slicing.",
+        "ingredients_raw": [
+            "2 (1 pound) flat iron steaks",
+            "¼ cup balsamic vinegar",
+            "3 tablespoons extra virgin olive oil",
+            "3 tablespoons finely chopped green onions",
+            "4 cloves garlic, minced",
+            "1 tablespoon soy sauce",
+            "1 teaspoon chopped fresh thyme",
+            "½ teaspoon dry mustard",
+            "¼ teaspoon ground black pepper"
+        ],
+        "directions_raw": [
+            "Place steaks, balsamic vinegar, olive oil, green onions, garlic, soy sauce, thyme, mustard, and black pepper in an extra large resealable plastic bag, squeeze out excess air, and seal the bag. Knead the bag with your hands to distribute ingredients evenly and completely coat the steaks. Marinate in the refrigerator for 1 hour.",
+            "Preheat grill for medium-high heat and lightly oil the grate. Remove steaks from refrigerator and let sit at room temperature for 10 minutes.",
+            "Remove steaks from bag and discard marinade.",
+            "Cook steaks on the preheated grill until they start to firm and are reddish-pink and juicy in the center, 6 to 7 minutes per side. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C). Remove steaks to a plate and let rest for 5 minutes before slicing."
+        ],
+        "ingredients_canonical": [
+            "pound flat iron steaks",
+            "¼ balsamic vinegar",
+            "extra virgin olive oil",
+            "finely chopped green onions",
+            "cloves garlic minced",
+            "soy sauce",
+            "chopped fresh thyme",
+            "½ dry mustard",
+            "¼ ground black pepper"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "german",
+            "greek",
+            "japanese",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 4,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 75,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Roasted Garlic Flat Iron Steak",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "These steaks, seasoned with a delicious hunk of garlic, are guaranteed to melt in your mouth and have the family begging for more.",
+        "ingredients": [
+            "15 cloves garlic",
+            "1 tablespoon olive oil",
+            "½ cup olive oil",
+            "4 (8 ounce) flat iron steaks",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Arrange garlic cloves on a baking sheet. Drizzle 1 tablespoon olive oil over garlic.",
+            "Bake garlic in preheated oven until golden brown, 15 to 20 minutes, stirring once to prevent burning. Remove from oven and allow to cool.",
+            "Place cooled garlic and 1/2 cup olive oil in a food processor; blend until mixture is a paste.",
+            "Season steaks with salt and pepper. Rub garlic paste on both sides of each steak.",
+            "Place a large skillet over medium heat. Cook the steaks until the internal temperature reaches 135 degrees to 140 degrees F (60 degrees C), about 5 minutes per side. Remove the whole pan from the heat and let stand until steaks reach an internal temperature of 145 degrees F (63 degrees C), or your desired degree of doneness."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 6,
+        "ingredient_text": "cloves garlic olive oil ½ olive oil ounce flat iron steaks salt ground black pepper taste",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). arrange garlic cloves on a baking sheet. drizzle 1 tablespoon olive oil over garlic. bake garlic in preheated oven until golden brown, 15 to 20 minutes, stirring once to prevent burning. remove from oven and allow to cool. place cooled garlic and 1/2 cup olive oil in a food processor; blend until mixture is a paste. season steaks with salt and pepper. rub garlic paste on both sides of each steak. place a large skillet over medium heat. cook the steaks until the internal temperature reaches 135 degrees to 140 degrees f (60 degrees c), about 5 minutes per side. remove the whole pan from the heat and let stand until steaks reach an internal temperature of 145 degrees f (63 degrees c), or your desired degree of doneness.",
+        "combined_text": "roasted garlic flat iron steak flat iron steak flat iron steak 15 cloves garlic 1 tablespoon olive oil ½ cup olive oil 4 (8 ounce) flat iron steaks salt and ground black pepper to taste preheat oven to 350 degrees f (175 degrees c). arrange garlic cloves on a baking sheet. drizzle 1 tablespoon olive oil over garlic. bake garlic in preheated oven until golden brown, 15 to 20 minutes, stirring once to prevent burning. remove from oven and allow to cool. place cooled garlic and 1/2 cup olive oil in a food processor; blend until mixture is a paste. season steaks with salt and pepper. rub garlic paste on both sides of each steak. place a large skillet over medium heat. cook the steaks until the internal temperature reaches 135 degrees to 140 degrees f (60 degrees c), about 5 minutes per side. remove the whole pan from the heat and let stand until steaks reach an internal temperature of 145 degrees f (63 degrees c), or your desired degree of doneness.",
+        "ingredients_raw": [
+            "15 cloves garlic",
+            "1 tablespoon olive oil",
+            "½ cup olive oil",
+            "4 (8 ounce) flat iron steaks",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Arrange garlic cloves on a baking sheet. Drizzle 1 tablespoon olive oil over garlic.",
+            "Bake garlic in preheated oven until golden brown, 15 to 20 minutes, stirring once to prevent burning. Remove from oven and allow to cool.",
+            "Place cooled garlic and 1/2 cup olive oil in a food processor; blend until mixture is a paste.",
+            "Season steaks with salt and pepper. Rub garlic paste on both sides of each steak.",
+            "Place a large skillet over medium heat. Cook the steaks until the internal temperature reaches 135 degrees to 140 degrees F (60 degrees C), about 5 minutes per side. Remove the whole pan from the heat and let stand until steaks reach an internal temperature of 145 degrees F (63 degrees C), or your desired degree of doneness."
+        ],
+        "ingredients_canonical": [
+            "cloves garlic",
+            "olive oil",
+            "½ olive oil",
+            "ounce flat iron steaks",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 60,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lemon Basil Pesto Flat Iron Steak",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "Lemon and basil combine nicely into a pesto topping for steaks.",
+        "ingredients": [
+            "4 cloves garlic",
+            "2 cups packed fresh basil leaves",
+            "⅓ cup pine nuts",
+            "½ cup extra-virgin olive oil",
+            "½ cup freshly grated Parmesan cheese",
+            "1 ½ tablespoons fresh lemon juice",
+            "¾ teaspoon red pepper flakes",
+            "6 (6 ounce) flat iron steaks",
+            "2 large cloves garlic, minced",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Chop garlic cloves in a food processor until minced. Add basil and pine nuts and pulse a few times to combine. With the food processor running, slowly pour in olive oil, stopping once or twice to scrape down the sides. Add Parmesan cheese, lemon juice, and red pepper flakes and pulse until blended. Season with salt and pepper.",
+            "Preheat an outdoor grill to medium-high heat and lightly oil the grate.",
+            "Rub steaks with minced garlic and season with salt and pepper.",
+            "Grill steaks to the desired degree of doneness on the preheated grill, about 4 minutes per side for medium. Baste steaks occasionally with a little of the pesto sauce. Once done, serve topped with the remaining pesto."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "cloves garlic packed fresh basil leaves ⅓ pine nuts ½ extra-virgin olive oil ½ freshly grated parmesan cheese ½ fresh lemon juice ¾ red pepper flakes ounce flat iron steaks large cloves garlic minced salt pepper taste",
+        "directions_text": "chop garlic cloves in a food processor until minced. add basil and pine nuts and pulse a few times to combine. with the food processor running, slowly pour in olive oil, stopping once or twice to scrape down the sides. add parmesan cheese, lemon juice, and red pepper flakes and pulse until blended. season with salt and pepper. preheat an outdoor grill to medium-high heat and lightly oil the grate. rub steaks with minced garlic and season with salt and pepper. grill steaks to the desired degree of doneness on the preheated grill, about 4 minutes per side for medium. baste steaks occasionally with a little of the pesto sauce. once done, serve topped with the remaining pesto.",
+        "combined_text": "lemon basil pesto flat iron steak flat iron steak flat iron steak 4 cloves garlic 2 cups packed fresh basil leaves ⅓ cup pine nuts ½ cup extra-virgin olive oil ½ cup freshly grated parmesan cheese 1 ½ tablespoons fresh lemon juice ¾ teaspoon red pepper flakes 6 (6 ounce) flat iron steaks 2 large cloves garlic, minced salt and pepper to taste chop garlic cloves in a food processor until minced. add basil and pine nuts and pulse a few times to combine. with the food processor running, slowly pour in olive oil, stopping once or twice to scrape down the sides. add parmesan cheese, lemon juice, and red pepper flakes and pulse until blended. season with salt and pepper. preheat an outdoor grill to medium-high heat and lightly oil the grate. rub steaks with minced garlic and season with salt and pepper. grill steaks to the desired degree of doneness on the preheated grill, about 4 minutes per side for medium. baste steaks occasionally with a little of the pesto sauce. once done, serve topped with the remaining pesto.",
+        "ingredients_raw": [
+            "4 cloves garlic",
+            "2 cups packed fresh basil leaves",
+            "⅓ cup pine nuts",
+            "½ cup extra-virgin olive oil",
+            "½ cup freshly grated Parmesan cheese",
+            "1 ½ tablespoons fresh lemon juice",
+            "¾ teaspoon red pepper flakes",
+            "6 (6 ounce) flat iron steaks",
+            "2 large cloves garlic, minced",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Chop garlic cloves in a food processor until minced. Add basil and pine nuts and pulse a few times to combine. With the food processor running, slowly pour in olive oil, stopping once or twice to scrape down the sides. Add Parmesan cheese, lemon juice, and red pepper flakes and pulse until blended. Season with salt and pepper.",
+            "Preheat an outdoor grill to medium-high heat and lightly oil the grate.",
+            "Rub steaks with minced garlic and season with salt and pepper.",
+            "Grill steaks to the desired degree of doneness on the preheated grill, about 4 minutes per side for medium. Baste steaks occasionally with a little of the pesto sauce. Once done, serve topped with the remaining pesto."
+        ],
+        "ingredients_canonical": [
+            "cloves garlic",
+            "packed fresh basil leaves",
+            "⅓ pine nuts",
+            "½ extra-virgin olive oil",
+            "½ freshly grated parmesan cheese",
+            "½ fresh lemon juice",
+            "¾ red pepper flakes",
+            "ounce flat iron steaks",
+            "large cloves garlic minced",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "sauce",
+            "main",
+            "drink",
+            "snack"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Flat Iron Steak with Mushroom Sauce",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "This flat iron steak with a creamy mushroom sauce recipe yields a wonderful beefy flavored and inexpensive company-worthy dish. It is wonderful served over roasted potatoes or a rice pilaf.",
+        "ingredients": [
+            "1 (1 pound) flat iron steak",
+            "1 ½ teaspoons kosher salt",
+            "1 teaspoon freshly ground black pepper",
+            "½ teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "1 tablespoon vegetable oil, divided",
+            "8 ounces cremini mushrooms",
+            "½ cup Burgundy wine",
+            "1 cup beef stock",
+            "1 tablespoon butter, softened",
+            "1 tablespoon all-purpose flour",
+            "½ cup heavy cream",
+            "2 tablespoons chopped fresh chives"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Season both sides flat iron steak with salt, black pepper, garlic powder, and onion powder. Heat a heavy, oven-proof skillet over medium-high heat; add 2 teaspoons vegetable oil and heat until oil shimmers. Add steak; sear until well browned, about 3 minutes per side. Transfer steak to a plate.",
+            "Reduce heat to medium; add remaining 1 teaspoon vegetable oil to skillet. Add mushrooms; cook and stir until wilted and browned, about 10 minutes. Reduce heat to medium-low; add wine to skillet and bring to a boil. Cook until wine is slightly reduced, 3 to 5 minutes; add beef stock and bring to a simmer.",
+            "Mash butter and flour in a small bowl into a paste using a fork; stir into mushroom mixture and simmer until sauce is thickened, about 5 minutes. Return flat iron steak to the skillet.",
+            "Cook in the preheated oven until steak is barely pink inside, about 10 minutes. Cut steak into thin slices on the diagonal against the grain; place on a platter.",
+            "Stir cream into mushroom sauce until heated through, 1 to 2 minutes; pour over steak and garnish with chives."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 6,
+        "ingredient_text": "pound flat iron steak ½ kosher salt freshly ground black pepper ½ garlic powder ½ onion powder vegetable oil divided ounces cremini mushrooms ½ burgundy wine beef stock butter softened all-purpose flour ½ heavy cream chopped fresh chives",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). season both sides flat iron steak with salt, black pepper, garlic powder, and onion powder. heat a heavy, oven-proof skillet over medium-high heat; add 2 teaspoons vegetable oil and heat until oil shimmers. add steak; sear until well browned, about 3 minutes per side. transfer steak to a plate. reduce heat to medium; add remaining 1 teaspoon vegetable oil to skillet. add mushrooms; cook and stir until wilted and browned, about 10 minutes. reduce heat to medium-low; add wine to skillet and bring to a boil. cook until wine is slightly reduced, 3 to 5 minutes; add beef stock and bring to a simmer. mash butter and flour in a small bowl into a paste using a fork; stir into mushroom mixture and simmer until sauce is thickened, about 5 minutes. return flat iron steak to the skillet. cook in the preheated oven until steak is barely pink inside, about 10 minutes. cut steak into thin slices on the diagonal against the grain; place on a platter. stir cream into mushroom sauce until heated through, 1 to 2 minutes; pour over steak and garnish with chives.",
+        "combined_text": "flat iron steak with mushroom sauce flat iron steak flat iron steak 1 (1 pound) flat iron steak 1 ½ teaspoons kosher salt 1 teaspoon freshly ground black pepper ½ teaspoon garlic powder ½ teaspoon onion powder 1 tablespoon vegetable oil, divided 8 ounces cremini mushrooms ½ cup burgundy wine 1 cup beef stock 1 tablespoon butter, softened 1 tablespoon all-purpose flour ½ cup heavy cream 2 tablespoons chopped fresh chives preheat the oven to 325 degrees f (165 degrees c). season both sides flat iron steak with salt, black pepper, garlic powder, and onion powder. heat a heavy, oven-proof skillet over medium-high heat; add 2 teaspoons vegetable oil and heat until oil shimmers. add steak; sear until well browned, about 3 minutes per side. transfer steak to a plate. reduce heat to medium; add remaining 1 teaspoon vegetable oil to skillet. add mushrooms; cook and stir until wilted and browned, about 10 minutes. reduce heat to medium-low; add wine to skillet and bring to a boil. cook until wine is slightly reduced, 3 to 5 minutes; add beef stock and bring to a simmer. mash butter and flour in a small bowl into a paste using a fork; stir into mushroom mixture and simmer until sauce is thickened, about 5 minutes. return flat iron steak to the skillet. cook in the preheated oven until steak is barely pink inside, about 10 minutes. cut steak into thin slices on the diagonal against the grain; place on a platter. stir cream into mushroom sauce until heated through, 1 to 2 minutes; pour over steak and garnish with chives.",
+        "ingredients_raw": [
+            "1 (1 pound) flat iron steak",
+            "1 ½ teaspoons kosher salt",
+            "1 teaspoon freshly ground black pepper",
+            "½ teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "1 tablespoon vegetable oil, divided",
+            "8 ounces cremini mushrooms",
+            "½ cup Burgundy wine",
+            "1 cup beef stock",
+            "1 tablespoon butter, softened",
+            "1 tablespoon all-purpose flour",
+            "½ cup heavy cream",
+            "2 tablespoons chopped fresh chives"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Season both sides flat iron steak with salt, black pepper, garlic powder, and onion powder. Heat a heavy, oven-proof skillet over medium-high heat; add 2 teaspoons vegetable oil and heat until oil shimmers. Add steak; sear until well browned, about 3 minutes per side. Transfer steak to a plate.",
+            "Reduce heat to medium; add remaining 1 teaspoon vegetable oil to skillet. Add mushrooms; cook and stir until wilted and browned, about 10 minutes. Reduce heat to medium-low; add wine to skillet and bring to a boil. Cook until wine is slightly reduced, 3 to 5 minutes; add beef stock and bring to a simmer.",
+            "Mash butter and flour in a small bowl into a paste using a fork; stir into mushroom mixture and simmer until sauce is thickened, about 5 minutes. Return flat iron steak to the skillet.",
+            "Cook in the preheated oven until steak is barely pink inside, about 10 minutes. Cut steak into thin slices on the diagonal against the grain; place on a platter.",
+            "Stir cream into mushroom sauce until heated through, 1 to 2 minutes; pour over steak and garnish with chives."
+        ],
+        "ingredients_canonical": [
+            "pound flat iron steak",
+            "½ kosher salt",
+            "freshly ground black pepper",
+            "½ garlic powder",
+            "½ onion powder",
+            "vegetable oil divided",
+            "ounces cremini mushrooms",
+            "½ burgundy wine",
+            "beef stock",
+            "butter softened",
+            "all-purpose flour",
+            "½ heavy cream",
+            "chopped fresh chives"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "sauce",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 5,
+        "medium_hits": 10,
+        "cook_speed": "medium",
+        "est_prep_time_min": 34,
+        "est_cook_time_min": 128,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "red_meat",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Asian Flat Iron Steak",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "In this recipe, tender flat iron steak meets trendy Asian bistro-style flavor! With a side of Asian vegetables and rice, it's an easy, delicious dinner!",
+        "ingredients": [
+            "½ cup reduced-sodium soy sauce",
+            "¼ cup rice wine vinegar",
+            "¼ cup brown sugar",
+            "¼ cup sliced green onions",
+            "1 tablespoon minced garlic",
+            "1 tablespoon mustard powder",
+            "2 pounds flat iron steak",
+            "2 tablespoons sesame seeds (Optional)"
+        ],
+        "directions": [
+            "Whisk soy sauce, vinegar, brown sugar, green onions, garlic, and mustard powder together in a bowl; pour into a resealable plastic bag. Add steak, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, 3 to 4 hours.",
+            "Remove steak from marinade; shake off excess. Discard remaining marinade.",
+            "Heat a non-stick skillet over medium-high heat. Add steak; cook until outside is seared, about 1 minute per side. Continue cooking until desired doneness is reached, about 5 minutes more per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C) for medium.",
+            "Transfer steak to a cutting board; rest before cutting, 3 to 5 minutes. Sprinkle sesame seeds over steak."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "½ reduced-sodium soy sauce ¼ rice wine vinegar ¼ brown sugar ¼ sliced green onions minced garlic mustard powder pounds flat iron steak sesame seeds optional",
+        "directions_text": "whisk soy sauce, vinegar, brown sugar, green onions, garlic, and mustard powder together in a bowl; pour into a resealable plastic bag. add steak, coat with marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator, 3 to 4 hours. remove steak from marinade; shake off excess. discard remaining marinade. heat a non-stick skillet over medium-high heat. add steak; cook until outside is seared, about 1 minute per side. continue cooking until desired doneness is reached, about 5 minutes more per side. an instant-read thermometer inserted into the center should read 140 degrees f (60 degrees c) for medium. transfer steak to a cutting board; rest before cutting, 3 to 5 minutes. sprinkle sesame seeds over steak.",
+        "combined_text": "asian flat iron steak flat iron steak flat iron steak ½ cup reduced-sodium soy sauce ¼ cup rice wine vinegar ¼ cup brown sugar ¼ cup sliced green onions 1 tablespoon minced garlic 1 tablespoon mustard powder 2 pounds flat iron steak 2 tablespoons sesame seeds (optional) whisk soy sauce, vinegar, brown sugar, green onions, garlic, and mustard powder together in a bowl; pour into a resealable plastic bag. add steak, coat with marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator, 3 to 4 hours. remove steak from marinade; shake off excess. discard remaining marinade. heat a non-stick skillet over medium-high heat. add steak; cook until outside is seared, about 1 minute per side. continue cooking until desired doneness is reached, about 5 minutes more per side. an instant-read thermometer inserted into the center should read 140 degrees f (60 degrees c) for medium. transfer steak to a cutting board; rest before cutting, 3 to 5 minutes. sprinkle sesame seeds over steak.",
+        "ingredients_raw": [
+            "½ cup reduced-sodium soy sauce",
+            "¼ cup rice wine vinegar",
+            "¼ cup brown sugar",
+            "¼ cup sliced green onions",
+            "1 tablespoon minced garlic",
+            "1 tablespoon mustard powder",
+            "2 pounds flat iron steak",
+            "2 tablespoons sesame seeds (Optional)"
+        ],
+        "directions_raw": [
+            "Whisk soy sauce, vinegar, brown sugar, green onions, garlic, and mustard powder together in a bowl; pour into a resealable plastic bag. Add steak, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, 3 to 4 hours.",
+            "Remove steak from marinade; shake off excess. Discard remaining marinade.",
+            "Heat a non-stick skillet over medium-high heat. Add steak; cook until outside is seared, about 1 minute per side. Continue cooking until desired doneness is reached, about 5 minutes more per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C) for medium.",
+            "Transfer steak to a cutting board; rest before cutting, 3 to 5 minutes. Sprinkle sesame seeds over steak."
+        ],
+        "ingredients_canonical": [
+            "½ reduced-sodium soy sauce",
+            "¼ rice wine vinegar",
+            "¼ brown sugar",
+            "¼ sliced green onions",
+            "minced garlic",
+            "mustard powder",
+            "pounds flat iron steak",
+            "sesame seeds optional"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "european",
+            "filipino",
+            "french",
+            "german",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 51,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Flat Iron Steak in Wine Sauce",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "This simple flat iron steak stays tender in a delicious wine sauce, and is a sure jaw dropper.",
+        "ingredients": [
+            "2 (6 ounce) flat iron steaks",
+            "2 tablespoons olive oil",
+            "⅛ teaspoon cayenne pepper, or to taste",
+            "1 teaspoon ground black pepper",
+            "1 tablespoon ground paprika",
+            "1 teaspoon salt",
+            "1 ½ teaspoons dry mustard powder",
+            "1 ½ teaspoons garlic powder",
+            "3 tablespoons olive oil",
+            "½ cup dry red wine",
+            "1 cup sliced portobello mushrooms"
+        ],
+        "directions": [
+            "Allow the steaks to come to room temperature.",
+            "Stir together 2 tablespoons of olive oil, cayenne pepper, black pepper, ground paprika, salt, mustard powder, and garlic powder in a small bowl to make a paste.",
+            "Prick steaks all over with a fork and rub them well with the spice rub paste, working the rub into the meat.",
+            "Heat a large, heavy skillet over high heat and add the remaining 3 tablespoons of olive oil. Heat oil until it just begins to smoke and quickly sear the steaks until the outside has browned but the center is still blood red and just warmed, 2-3 minutes per side. An instant-read thermometer inserted into the center should read 115 degrees F (46 degrees C).",
+            "Remove steaks from skillet with tongs. Pour the dry red wine into the skillet, and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Stir in the sliced portobello mushrooms, and cook and stir until mushrooms are cooked and have released their liquid, about 5 minutes.",
+            "Return steaks to the skillet on top of the mushroom-wine sauce. Reduce heat to LOW and cook until sauce reduces and thickens, about 5 minutes. Remove steaks to serving platter and pour mushroom sauce over steaks to serve."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 6,
+        "ingredient_text": "ounce flat iron steaks olive oil ⅛ cayenne pepper taste ground black pepper ground paprika salt ½ dry mustard powder ½ garlic powder olive oil ½ dry red wine sliced portobello mushrooms",
+        "directions_text": "allow the steaks to come to room temperature. stir together 2 tablespoons of olive oil, cayenne pepper, black pepper, ground paprika, salt, mustard powder, and garlic powder in a small bowl to make a paste. prick steaks all over with a fork and rub them well with the spice rub paste, working the rub into the meat. heat a large, heavy skillet over high heat and add the remaining 3 tablespoons of olive oil. heat oil until it just begins to smoke and quickly sear the steaks until the outside has browned but the center is still blood red and just warmed, 2-3 minutes per side. an instant-read thermometer inserted into the center should read 115 degrees f (46 degrees c). remove steaks from skillet with tongs. pour the dry red wine into the skillet, and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. stir in the sliced portobello mushrooms, and cook and stir until mushrooms are cooked and have released their liquid, about 5 minutes. return steaks to the skillet on top of the mushroom-wine sauce. reduce heat to low and cook until sauce reduces and thickens, about 5 minutes. remove steaks to serving platter and pour mushroom sauce over steaks to serve.",
+        "combined_text": "easy flat iron steak in wine sauce flat iron steak flat iron steak 2 (6 ounce) flat iron steaks 2 tablespoons olive oil ⅛ teaspoon cayenne pepper, or to taste 1 teaspoon ground black pepper 1 tablespoon ground paprika 1 teaspoon salt 1 ½ teaspoons dry mustard powder 1 ½ teaspoons garlic powder 3 tablespoons olive oil ½ cup dry red wine 1 cup sliced portobello mushrooms allow the steaks to come to room temperature. stir together 2 tablespoons of olive oil, cayenne pepper, black pepper, ground paprika, salt, mustard powder, and garlic powder in a small bowl to make a paste. prick steaks all over with a fork and rub them well with the spice rub paste, working the rub into the meat. heat a large, heavy skillet over high heat and add the remaining 3 tablespoons of olive oil. heat oil until it just begins to smoke and quickly sear the steaks until the outside has browned but the center is still blood red and just warmed, 2-3 minutes per side. an instant-read thermometer inserted into the center should read 115 degrees f (46 degrees c). remove steaks from skillet with tongs. pour the dry red wine into the skillet, and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. stir in the sliced portobello mushrooms, and cook and stir until mushrooms are cooked and have released their liquid, about 5 minutes. return steaks to the skillet on top of the mushroom-wine sauce. reduce heat to low and cook until sauce reduces and thickens, about 5 minutes. remove steaks to serving platter and pour mushroom sauce over steaks to serve.",
+        "ingredients_raw": [
+            "2 (6 ounce) flat iron steaks",
+            "2 tablespoons olive oil",
+            "⅛ teaspoon cayenne pepper, or to taste",
+            "1 teaspoon ground black pepper",
+            "1 tablespoon ground paprika",
+            "1 teaspoon salt",
+            "1 ½ teaspoons dry mustard powder",
+            "1 ½ teaspoons garlic powder",
+            "3 tablespoons olive oil",
+            "½ cup dry red wine",
+            "1 cup sliced portobello mushrooms"
+        ],
+        "directions_raw": [
+            "Allow the steaks to come to room temperature.",
+            "Stir together 2 tablespoons of olive oil, cayenne pepper, black pepper, ground paprika, salt, mustard powder, and garlic powder in a small bowl to make a paste.",
+            "Prick steaks all over with a fork and rub them well with the spice rub paste, working the rub into the meat.",
+            "Heat a large, heavy skillet over high heat and add the remaining 3 tablespoons of olive oil. Heat oil until it just begins to smoke and quickly sear the steaks until the outside has browned but the center is still blood red and just warmed, 2-3 minutes per side. An instant-read thermometer inserted into the center should read 115 degrees F (46 degrees C).",
+            "Remove steaks from skillet with tongs. Pour the dry red wine into the skillet, and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Stir in the sliced portobello mushrooms, and cook and stir until mushrooms are cooked and have released their liquid, about 5 minutes.",
+            "Return steaks to the skillet on top of the mushroom-wine sauce. Reduce heat to LOW and cook until sauce reduces and thickens, about 5 minutes. Remove steaks to serving platter and pour mushroom sauce over steaks to serve."
+        ],
+        "ingredients_canonical": [
+            "ounce flat iron steaks",
+            "olive oil",
+            "⅛ cayenne pepper taste",
+            "ground black pepper",
+            "ground paprika",
+            "salt",
+            "½ dry mustard powder",
+            "½ garlic powder",
+            "olive oil",
+            "½ dry red wine",
+            "sliced portobello mushrooms"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "sauce"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 12,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 84,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Flat Iron Steak with Three Pepper Rub",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "A simple blend of spices combines to make a wonderful rub for steak. Can be used on any steak but it's best on flat iron or flank steak.",
+        "ingredients": [
+            "1 tablespoon smoked paprika",
+            "2 teaspoons salt",
+            "1 teaspoon brown sugar",
+            "2 teaspoons chili powder",
+            "1 teaspoon chipotle chile powder",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "½ teaspoon ground cumin",
+            "2 pounds flat iron steaks"
+        ],
+        "directions": [
+            "Stir together the paprika, salt, sugar, chili powder, chipotle powder, black pepper, garlic powder, onion powder, and cumin in a small bowl until blended. Rub the seasoning mix all over the flat iron steaks, then wrap them tightly with plastic wrap. Marinate in the refrigerator 2 to 8 hours (the longer the better).",
+            "Preheat an outdoor grill for medium-high heat, and lightly oil grate.",
+            "Cook the steaks on the preheated grill until cooked to your desired degree of doneness, about 4 minutes per side for medium. Allow the steaks to rest for 5 minutes in a warm location before slicing."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "smoked paprika salt brown sugar chili powder chipotle chile powder ½ ground black pepper ½ garlic powder ½ onion powder ½ ground cumin pounds flat iron steaks",
+        "directions_text": "stir together the paprika, salt, sugar, chili powder, chipotle powder, black pepper, garlic powder, onion powder, and cumin in a small bowl until blended. rub the seasoning mix all over the flat iron steaks, then wrap them tightly with plastic wrap. marinate in the refrigerator 2 to 8 hours (the longer the better). preheat an outdoor grill for medium-high heat, and lightly oil grate. cook the steaks on the preheated grill until cooked to your desired degree of doneness, about 4 minutes per side for medium. allow the steaks to rest for 5 minutes in a warm location before slicing.",
+        "combined_text": "flat iron steak with three pepper rub flat iron steak flat iron steak 1 tablespoon smoked paprika 2 teaspoons salt 1 teaspoon brown sugar 2 teaspoons chili powder 1 teaspoon chipotle chile powder ½ teaspoon ground black pepper ½ teaspoon garlic powder ½ teaspoon onion powder ½ teaspoon ground cumin 2 pounds flat iron steaks stir together the paprika, salt, sugar, chili powder, chipotle powder, black pepper, garlic powder, onion powder, and cumin in a small bowl until blended. rub the seasoning mix all over the flat iron steaks, then wrap them tightly with plastic wrap. marinate in the refrigerator 2 to 8 hours (the longer the better). preheat an outdoor grill for medium-high heat, and lightly oil grate. cook the steaks on the preheated grill until cooked to your desired degree of doneness, about 4 minutes per side for medium. allow the steaks to rest for 5 minutes in a warm location before slicing.",
+        "ingredients_raw": [
+            "1 tablespoon smoked paprika",
+            "2 teaspoons salt",
+            "1 teaspoon brown sugar",
+            "2 teaspoons chili powder",
+            "1 teaspoon chipotle chile powder",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "½ teaspoon ground cumin",
+            "2 pounds flat iron steaks"
+        ],
+        "directions_raw": [
+            "Stir together the paprika, salt, sugar, chili powder, chipotle powder, black pepper, garlic powder, onion powder, and cumin in a small bowl until blended. Rub the seasoning mix all over the flat iron steaks, then wrap them tightly with plastic wrap. Marinate in the refrigerator 2 to 8 hours (the longer the better).",
+            "Preheat an outdoor grill for medium-high heat, and lightly oil grate.",
+            "Cook the steaks on the preheated grill until cooked to your desired degree of doneness, about 4 minutes per side for medium. Allow the steaks to rest for 5 minutes in a warm location before slicing."
+        ],
+        "ingredients_canonical": [
+            "smoked paprika",
+            "salt",
+            "brown sugar",
+            "chili powder",
+            "chipotle chile powder",
+            "½ ground black pepper",
+            "½ garlic powder",
+            "½ onion powder",
+            "½ ground cumin",
+            "pounds flat iron steaks"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean",
+            "vietnamese"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 4,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 72,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Flat Iron Steaks Marinated in Red Wine",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "Red wine and mustard do wonderful things for this tender cut of steak.",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "3 cloves garlic, minced",
+            "1 teaspoon chopped fresh parsley",
+            "1 teaspoon chopped fresh thyme",
+            "⅓ cup dry red wine",
+            "½ teaspoon dry mustard powder",
+            "salt and pepper to taste",
+            "4 (8 ounce) flat iron steaks",
+            "2 cloves garlic, minced",
+            "½ teaspoon dry mustard powder",
+            "½ teaspoon olive oil"
+        ],
+        "directions": [
+            "Whisk together 2 tablespoons of olive oil, 3 cloves minced garlic, parsley, thyme, red wine, 1/2 teaspoon mustard powder, salt, and pepper until combined. Pour into a resealable plastic bag over the flat iron steaks. Squeeze out excess air, seal, and marinate for 1 hour at room temperature, or 4 hours in the refrigerator.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil grate. Stir together 2 cloves minced garlic, 1/2 teaspoon mustard powder, and 1/2 teaspoon olive oil in a small bowl and set aside.",
+            "Remove steaks from the marinade, shake off excess, and discard remaining marinade. Cook on preheated grill to desired degree of doneness, about 4 minutes per side for medium-rare. Brush with reserved garlic mixture before serving."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "olive oil cloves garlic minced chopped fresh parsley chopped fresh thyme ⅓ dry red wine ½ dry mustard powder salt pepper taste ounce flat iron steaks cloves garlic minced ½ dry mustard powder ½ olive oil",
+        "directions_text": "whisk together 2 tablespoons of olive oil, 3 cloves minced garlic, parsley, thyme, red wine, 1/2 teaspoon mustard powder, salt, and pepper until combined. pour into a resealable plastic bag over the flat iron steaks. squeeze out excess air, seal, and marinate for 1 hour at room temperature, or 4 hours in the refrigerator. preheat an outdoor grill for medium-high heat and lightly oil grate. stir together 2 cloves minced garlic, 1/2 teaspoon mustard powder, and 1/2 teaspoon olive oil in a small bowl and set aside. remove steaks from the marinade, shake off excess, and discard remaining marinade. cook on preheated grill to desired degree of doneness, about 4 minutes per side for medium-rare. brush with reserved garlic mixture before serving.",
+        "combined_text": "flat iron steaks marinated in red wine flat iron steak flat iron steak 2 tablespoons olive oil 3 cloves garlic, minced 1 teaspoon chopped fresh parsley 1 teaspoon chopped fresh thyme ⅓ cup dry red wine ½ teaspoon dry mustard powder salt and pepper to taste 4 (8 ounce) flat iron steaks 2 cloves garlic, minced ½ teaspoon dry mustard powder ½ teaspoon olive oil whisk together 2 tablespoons of olive oil, 3 cloves minced garlic, parsley, thyme, red wine, 1/2 teaspoon mustard powder, salt, and pepper until combined. pour into a resealable plastic bag over the flat iron steaks. squeeze out excess air, seal, and marinate for 1 hour at room temperature, or 4 hours in the refrigerator. preheat an outdoor grill for medium-high heat and lightly oil grate. stir together 2 cloves minced garlic, 1/2 teaspoon mustard powder, and 1/2 teaspoon olive oil in a small bowl and set aside. remove steaks from the marinade, shake off excess, and discard remaining marinade. cook on preheated grill to desired degree of doneness, about 4 minutes per side for medium-rare. brush with reserved garlic mixture before serving.",
+        "ingredients_raw": [
+            "2 tablespoons olive oil",
+            "3 cloves garlic, minced",
+            "1 teaspoon chopped fresh parsley",
+            "1 teaspoon chopped fresh thyme",
+            "⅓ cup dry red wine",
+            "½ teaspoon dry mustard powder",
+            "salt and pepper to taste",
+            "4 (8 ounce) flat iron steaks",
+            "2 cloves garlic, minced",
+            "½ teaspoon dry mustard powder",
+            "½ teaspoon olive oil"
+        ],
+        "directions_raw": [
+            "Whisk together 2 tablespoons of olive oil, 3 cloves minced garlic, parsley, thyme, red wine, 1/2 teaspoon mustard powder, salt, and pepper until combined. Pour into a resealable plastic bag over the flat iron steaks. Squeeze out excess air, seal, and marinate for 1 hour at room temperature, or 4 hours in the refrigerator.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil grate. Stir together 2 cloves minced garlic, 1/2 teaspoon mustard powder, and 1/2 teaspoon olive oil in a small bowl and set aside.",
+            "Remove steaks from the marinade, shake off excess, and discard remaining marinade. Cook on preheated grill to desired degree of doneness, about 4 minutes per side for medium-rare. Brush with reserved garlic mixture before serving."
+        ],
+        "ingredients_canonical": [
+            "olive oil",
+            "cloves garlic minced",
+            "chopped fresh parsley",
+            "chopped fresh thyme",
+            "⅓ dry red wine",
+            "½ dry mustard powder",
+            "salt pepper taste",
+            "ounce flat iron steaks",
+            "cloves garlic minced",
+            "½ dry mustard powder",
+            "½ olive oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "german",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 55,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spicy Flat Iron Steak Rub",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "This is a super flavorful rub with a Southwest taste for flat iron steak. You can use this recipe for grilling, broiling or stove top (fry pan or stove top grill) cooking. The steak is also great served with a few slices of avocado on top. Let the rub sit for up to 2 days, if possible, for the best flavor.",
+        "ingredients": [
+            "2 tablespoons brown sugar",
+            "1 teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "1 tablespoon chili powder",
+            "1 ½ teaspoons ancho chile powder",
+            "1 teaspoon chipotle chile powder",
+            "1 tablespoon salt-free seasoning blend",
+            "salt and black pepper to taste",
+            "1 (2 pound) flat iron steak",
+            "¼ cup vegetable oil"
+        ],
+        "directions": [
+            "Mix the brown sugar, garlic powder, onion powder, chili powder, ancho chile powder, chipotle chile powder, salt-free seasoning blend, salt, and pepper together in a bowl until thoroughly blended. Sprinkle over both sides of the steak, and rub into the meat. Cover, and refrigerate at least 30 minutes, or up to 2 days.",
+            "Before cooking, drizzle steak with vegetable oil, and rub the oil into the meat. Cook as desired."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "brown sugar garlic powder ½ onion powder chili powder ½ ancho chile powder chipotle chile powder salt-free seasoning blend salt black pepper taste pound flat iron steak ¼ vegetable oil",
+        "directions_text": "mix the brown sugar, garlic powder, onion powder, chili powder, ancho chile powder, chipotle chile powder, salt-free seasoning blend, salt, and pepper together in a bowl until thoroughly blended. sprinkle over both sides of the steak, and rub into the meat. cover, and refrigerate at least 30 minutes, or up to 2 days. before cooking, drizzle steak with vegetable oil, and rub the oil into the meat. cook as desired.",
+        "combined_text": "spicy flat iron steak rub flat iron steak flat iron steak 2 tablespoons brown sugar 1 teaspoon garlic powder ½ teaspoon onion powder 1 tablespoon chili powder 1 ½ teaspoons ancho chile powder 1 teaspoon chipotle chile powder 1 tablespoon salt-free seasoning blend salt and black pepper to taste 1 (2 pound) flat iron steak ¼ cup vegetable oil mix the brown sugar, garlic powder, onion powder, chili powder, ancho chile powder, chipotle chile powder, salt-free seasoning blend, salt, and pepper together in a bowl until thoroughly blended. sprinkle over both sides of the steak, and rub into the meat. cover, and refrigerate at least 30 minutes, or up to 2 days. before cooking, drizzle steak with vegetable oil, and rub the oil into the meat. cook as desired.",
+        "ingredients_raw": [
+            "2 tablespoons brown sugar",
+            "1 teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "1 tablespoon chili powder",
+            "1 ½ teaspoons ancho chile powder",
+            "1 teaspoon chipotle chile powder",
+            "1 tablespoon salt-free seasoning blend",
+            "salt and black pepper to taste",
+            "1 (2 pound) flat iron steak",
+            "¼ cup vegetable oil"
+        ],
+        "directions_raw": [
+            "Mix the brown sugar, garlic powder, onion powder, chili powder, ancho chile powder, chipotle chile powder, salt-free seasoning blend, salt, and pepper together in a bowl until thoroughly blended. Sprinkle over both sides of the steak, and rub into the meat. Cover, and refrigerate at least 30 minutes, or up to 2 days.",
+            "Before cooking, drizzle steak with vegetable oil, and rub the oil into the meat. Cook as desired."
+        ],
+        "ingredients_canonical": [
+            "brown sugar",
+            "garlic powder",
+            "½ onion powder",
+            "chili powder",
+            "½ ancho chile powder",
+            "chipotle chile powder",
+            "salt-free seasoning blend",
+            "salt black pepper taste",
+            "pound flat iron steak",
+            "¼ vegetable oil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean",
+            "vietnamese"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Flat Iron, Grilled",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "With flat iron steak you have all the tenderness of filet, but you must provide the flavor with marinades or rubs.",
+        "ingredients": [
+            "4 (6 ounce) flat iron steaks",
+            "2 tablespoons olive oil",
+            "1 tablespoon ground black pepper",
+            "2 teaspoons kosher salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1 teaspoon cayenne pepper",
+            "1 teaspoon dark brown sugar",
+            "2 teaspoons fresh lime juice"
+        ],
+        "directions": [
+            "Lay steaks out on a platter and allow to come to room temperature, about 30 minutes.",
+            "Preheat an outdoor grill for high heat and lightly oil grate.",
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Whisk together the olive oil, pepper, salt, garlic powder, onion powder, cayenne pepper, brown sugar, and lemon juice in a small bowl. Evenly rub one side of each steak with the mixture.",
+            "Lay the steaks on the hot grill with the seasoned-side facing up for 2 minutes. Flip and sear the seasoned side about 2 minutes.",
+            "Transfer steaks to preheated oven; bake to desired doneness, seasoned-side up, 8 to 10 minutes for medium-well. Allow to rest 3 to 4 minutes before serving."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "ounce flat iron steaks olive oil ground black pepper kosher salt garlic powder onion powder cayenne pepper dark brown sugar fresh lime juice",
+        "directions_text": "lay steaks out on a platter and allow to come to room temperature, about 30 minutes. preheat an outdoor grill for high heat and lightly oil grate. preheat oven to 400 degrees f (200 degrees c). whisk together the olive oil, pepper, salt, garlic powder, onion powder, cayenne pepper, brown sugar, and lemon juice in a small bowl. evenly rub one side of each steak with the mixture. lay the steaks on the hot grill with the seasoned-side facing up for 2 minutes. flip and sear the seasoned side about 2 minutes. transfer steaks to preheated oven; bake to desired doneness, seasoned-side up, 8 to 10 minutes for medium-well. allow to rest 3 to 4 minutes before serving.",
+        "combined_text": "flat iron, grilled flat iron steak flat iron steak 4 (6 ounce) flat iron steaks 2 tablespoons olive oil 1 tablespoon ground black pepper 2 teaspoons kosher salt 1 teaspoon garlic powder 1 teaspoon onion powder 1 teaspoon cayenne pepper 1 teaspoon dark brown sugar 2 teaspoons fresh lime juice lay steaks out on a platter and allow to come to room temperature, about 30 minutes. preheat an outdoor grill for high heat and lightly oil grate. preheat oven to 400 degrees f (200 degrees c). whisk together the olive oil, pepper, salt, garlic powder, onion powder, cayenne pepper, brown sugar, and lemon juice in a small bowl. evenly rub one side of each steak with the mixture. lay the steaks on the hot grill with the seasoned-side facing up for 2 minutes. flip and sear the seasoned side about 2 minutes. transfer steaks to preheated oven; bake to desired doneness, seasoned-side up, 8 to 10 minutes for medium-well. allow to rest 3 to 4 minutes before serving.",
+        "ingredients_raw": [
+            "4 (6 ounce) flat iron steaks",
+            "2 tablespoons olive oil",
+            "1 tablespoon ground black pepper",
+            "2 teaspoons kosher salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1 teaspoon cayenne pepper",
+            "1 teaspoon dark brown sugar",
+            "2 teaspoons fresh lime juice"
+        ],
+        "directions_raw": [
+            "Lay steaks out on a platter and allow to come to room temperature, about 30 minutes.",
+            "Preheat an outdoor grill for high heat and lightly oil grate.",
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Whisk together the olive oil, pepper, salt, garlic powder, onion powder, cayenne pepper, brown sugar, and lemon juice in a small bowl. Evenly rub one side of each steak with the mixture.",
+            "Lay the steaks on the hot grill with the seasoned-side facing up for 2 minutes. Flip and sear the seasoned side about 2 minutes.",
+            "Transfer steaks to preheated oven; bake to desired doneness, seasoned-side up, 8 to 10 minutes for medium-well. Allow to rest 3 to 4 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "ounce flat iron steaks",
+            "olive oil",
+            "ground black pepper",
+            "kosher salt",
+            "garlic powder",
+            "onion powder",
+            "cayenne pepper",
+            "dark brown sugar",
+            "fresh lime juice"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "main",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 4,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 71,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Drunken Flat Iron Steak",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "A friend tried something like this in Texas and this was our version of it.",
+        "ingredients": [
+            "1 (2 pound) flat iron steak",
+            "¼ cup dry vermouth",
+            "¼ cup sweet vermouth",
+            "2 ½ tablespoons olive oil",
+            "1 tablespoon red pepper flakes"
+        ],
+        "directions": [
+            "Place steak into a large resealable bag or shallow dish. Pour in the dry vermouth and sweet vermouth and stir to coat the steak. Seal or cover and refrigerate for 6 hours to marinate.",
+            "Heat the oil in a large skillet over medium heat. Remove steak from the bag and discard the marinade. Season the steak on both sides with red pepper flakes. Fry for 3 to 4 minutes per side for medium-rare, or to your desired degree of doneness. Let rest for a few minutes before serving."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "pound flat iron steak ¼ dry vermouth ¼ sweet vermouth ½ olive oil red pepper flakes",
+        "directions_text": "place steak into a large resealable bag or shallow dish. pour in the dry vermouth and sweet vermouth and stir to coat the steak. seal or cover and refrigerate for 6 hours to marinate. heat the oil in a large skillet over medium heat. remove steak from the bag and discard the marinade. season the steak on both sides with red pepper flakes. fry for 3 to 4 minutes per side for medium-rare, or to your desired degree of doneness. let rest for a few minutes before serving.",
+        "combined_text": "drunken flat iron steak flat iron steak flat iron steak 1 (2 pound) flat iron steak ¼ cup dry vermouth ¼ cup sweet vermouth 2 ½ tablespoons olive oil 1 tablespoon red pepper flakes place steak into a large resealable bag or shallow dish. pour in the dry vermouth and sweet vermouth and stir to coat the steak. seal or cover and refrigerate for 6 hours to marinate. heat the oil in a large skillet over medium heat. remove steak from the bag and discard the marinade. season the steak on both sides with red pepper flakes. fry for 3 to 4 minutes per side for medium-rare, or to your desired degree of doneness. let rest for a few minutes before serving.",
+        "ingredients_raw": [
+            "1 (2 pound) flat iron steak",
+            "¼ cup dry vermouth",
+            "¼ cup sweet vermouth",
+            "2 ½ tablespoons olive oil",
+            "1 tablespoon red pepper flakes"
+        ],
+        "directions_raw": [
+            "Place steak into a large resealable bag or shallow dish. Pour in the dry vermouth and sweet vermouth and stir to coat the steak. Seal or cover and refrigerate for 6 hours to marinate.",
+            "Heat the oil in a large skillet over medium heat. Remove steak from the bag and discard the marinade. Season the steak on both sides with red pepper flakes. Fry for 3 to 4 minutes per side for medium-rare, or to your desired degree of doneness. Let rest for a few minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "pound flat iron steak",
+            "¼ dry vermouth",
+            "¼ sweet vermouth",
+            "½ olive oil",
+            "red pepper flakes"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 4,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 74,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Asian Flair Flat Iron Steak",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "One of our local food distributors has been promoting the sell of these becoming-ever-more-popular cuts of meat. After rummaging online recipes, and experimenting with my own, I came up with the following that my husband and I find quite tasty! You can also try cooking it in your indoor grill (we have a Foreman). Serve this over salad greens, or wrap in warm flour tortillas, adding a bit of your favorite Asian dressing.",
+        "ingredients": [
+            "2 tablespoons sesame oil",
+            "1 tablespoon minced garlic",
+            "1 teaspoon salt",
+            "½ teaspoon onion powder",
+            "1 teaspoon Cajun seasoning",
+            "1 teaspoon green hot pepper sauce",
+            "2 teaspoons soy sauce",
+            "1 teaspoon teriyaki sauce",
+            "2 teaspoons brown sugar",
+            "12 ounces flat iron steaks",
+            "3 tablespoons sesame oil",
+            "½ red bell pepper, sliced",
+            "2 green onions, chopped"
+        ],
+        "directions": [
+            "Whisk together 2 tablespoons of sesame oil with the garlic, salt, onion powder, Cajun seasoning, hot pepper sauce, soy sauce, teriyaki sauce, and brown sugar in a bowl, then pour into a resealable plastic bag. Add the flat iron steak, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 12 hours.",
+            "Remove the flat iron steak from the marinade, and shake off excess. Discard the remaining marinade. Heat the remaining 3 tablespoons of sesame oil in a cast iron skillet over medium high heat until it begins to smoke. Sear the steak in the hot oil until cooked to your desired degree of doneness, about 3 minutes per side for medium. Remove the steak from the skillet and set aside to rest for 5 minutes before slicing thinly. While the steak is resting, cook the bell pepper in the hot skillet until it begins to soften, about 1 minute. Stir in the green onions, and cook for 30 seconds more. Serve the pepper mixture over the sliced steak."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 2,
+        "ingredient_text": "sesame oil minced garlic salt ½ onion powder cajun seasoning green hot pepper sauce soy sauce teriyaki sauce brown sugar ounces flat iron steaks sesame oil ½ red bell pepper sliced green onions chopped",
+        "directions_text": "whisk together 2 tablespoons of sesame oil with the garlic, salt, onion powder, cajun seasoning, hot pepper sauce, soy sauce, teriyaki sauce, and brown sugar in a bowl, then pour into a resealable plastic bag. add the flat iron steak, coat with the marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator for 12 hours. remove the flat iron steak from the marinade, and shake off excess. discard the remaining marinade. heat the remaining 3 tablespoons of sesame oil in a cast iron skillet over medium high heat until it begins to smoke. sear the steak in the hot oil until cooked to your desired degree of doneness, about 3 minutes per side for medium. remove the steak from the skillet and set aside to rest for 5 minutes before slicing thinly. while the steak is resting, cook the bell pepper in the hot skillet until it begins to soften, about 1 minute. stir in the green onions, and cook for 30 seconds more. serve the pepper mixture over the sliced steak.",
+        "combined_text": "asian flair flat iron steak flat iron steak flat iron steak 2 tablespoons sesame oil 1 tablespoon minced garlic 1 teaspoon salt ½ teaspoon onion powder 1 teaspoon cajun seasoning 1 teaspoon green hot pepper sauce 2 teaspoons soy sauce 1 teaspoon teriyaki sauce 2 teaspoons brown sugar 12 ounces flat iron steaks 3 tablespoons sesame oil ½ red bell pepper, sliced 2 green onions, chopped whisk together 2 tablespoons of sesame oil with the garlic, salt, onion powder, cajun seasoning, hot pepper sauce, soy sauce, teriyaki sauce, and brown sugar in a bowl, then pour into a resealable plastic bag. add the flat iron steak, coat with the marinade, squeeze out excess air, and seal the bag. marinate in the refrigerator for 12 hours. remove the flat iron steak from the marinade, and shake off excess. discard the remaining marinade. heat the remaining 3 tablespoons of sesame oil in a cast iron skillet over medium high heat until it begins to smoke. sear the steak in the hot oil until cooked to your desired degree of doneness, about 3 minutes per side for medium. remove the steak from the skillet and set aside to rest for 5 minutes before slicing thinly. while the steak is resting, cook the bell pepper in the hot skillet until it begins to soften, about 1 minute. stir in the green onions, and cook for 30 seconds more. serve the pepper mixture over the sliced steak.",
+        "ingredients_raw": [
+            "2 tablespoons sesame oil",
+            "1 tablespoon minced garlic",
+            "1 teaspoon salt",
+            "½ teaspoon onion powder",
+            "1 teaspoon Cajun seasoning",
+            "1 teaspoon green hot pepper sauce",
+            "2 teaspoons soy sauce",
+            "1 teaspoon teriyaki sauce",
+            "2 teaspoons brown sugar",
+            "12 ounces flat iron steaks",
+            "3 tablespoons sesame oil",
+            "½ red bell pepper, sliced",
+            "2 green onions, chopped"
+        ],
+        "directions_raw": [
+            "Whisk together 2 tablespoons of sesame oil with the garlic, salt, onion powder, Cajun seasoning, hot pepper sauce, soy sauce, teriyaki sauce, and brown sugar in a bowl, then pour into a resealable plastic bag. Add the flat iron steak, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 12 hours.",
+            "Remove the flat iron steak from the marinade, and shake off excess. Discard the remaining marinade. Heat the remaining 3 tablespoons of sesame oil in a cast iron skillet over medium high heat until it begins to smoke. Sear the steak in the hot oil until cooked to your desired degree of doneness, about 3 minutes per side for medium. Remove the steak from the skillet and set aside to rest for 5 minutes before slicing thinly. While the steak is resting, cook the bell pepper in the hot skillet until it begins to soften, about 1 minute. Stir in the green onions, and cook for 30 seconds more. Serve the pepper mixture over the sliced steak."
+        ],
+        "ingredients_canonical": [
+            "sesame oil",
+            "minced garlic",
+            "salt",
+            "½ onion powder",
+            "cajun seasoning",
+            "green hot pepper sauce",
+            "soy sauce",
+            "teriyaki sauce",
+            "brown sugar",
+            "ounces flat iron steaks",
+            "sesame oil",
+            "½ red bell pepper sliced",
+            "green onions chopped"
+        ],
+        "cuisine_list": [
+            "asian",
+            "chinese",
+            "filipino",
+            "japanese",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 62,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Flat Iron Steak Grilled to a 'Tea'",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "Mustard and tea leaves add flavor and keeps steak moist. My dad made this when we were young and everyone (including my mother) was saying 'Ewwww, yuck!' Well, after we tasted it we were literally begging for more! The tea and mustard make a delicious, flavorful crust which keeps the inside tender and juicy.",
+        "ingredients": [
+            "salt to taste",
+            "4 (6 ounce) flat iron steaks",
+            "¼ cup spicy brown mustard (such as Gulden's®), or as needed",
+            "8 black tea bags, cut open, or as needed"
+        ],
+        "directions": [
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+            "Rub a generous amount of salt over each steak. Spread a thick layer of mustard on each side of each steak. Sprinkle tea leaves over each steak until mustard is completely covered.",
+            "Cook the steaks on the preheated grill until desired degree of doneness is reached, 5 to 10 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C)."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "salt taste ounce flat iron steaks ¼ spicy brown mustard such as gulden s as needed black tea bags cut open as needed",
+        "directions_text": "preheat an outdoor grill for medium-high heat and lightly oil the grate. rub a generous amount of salt over each steak. spread a thick layer of mustard on each side of each steak. sprinkle tea leaves over each steak until mustard is completely covered. cook the steaks on the preheated grill until desired degree of doneness is reached, 5 to 10 minutes per side. an instant-read thermometer inserted into the center should read 140 degrees f (60 degrees c).",
+        "combined_text": "flat iron steak grilled to a 'tea' flat iron steak flat iron steak salt to taste 4 (6 ounce) flat iron steaks ¼ cup spicy brown mustard (such as gulden's®), or as needed 8 black tea bags, cut open, or as needed preheat an outdoor grill for medium-high heat and lightly oil the grate. rub a generous amount of salt over each steak. spread a thick layer of mustard on each side of each steak. sprinkle tea leaves over each steak until mustard is completely covered. cook the steaks on the preheated grill until desired degree of doneness is reached, 5 to 10 minutes per side. an instant-read thermometer inserted into the center should read 140 degrees f (60 degrees c).",
+        "ingredients_raw": [
+            "salt to taste",
+            "4 (6 ounce) flat iron steaks",
+            "¼ cup spicy brown mustard (such as Gulden's®), or as needed",
+            "8 black tea bags, cut open, or as needed"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+            "Rub a generous amount of salt over each steak. Spread a thick layer of mustard on each side of each steak. Sprinkle tea leaves over each steak until mustard is completely covered.",
+            "Cook the steaks on the preheated grill until desired degree of doneness is reached, 5 to 10 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C)."
+        ],
+        "ingredients_canonical": [
+            "salt taste",
+            "ounce flat iron steaks",
+            "¼ spicy brown mustard such as gulden s as needed",
+            "black tea bags cut open as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "german"
+        ],
+        "course_list": [
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grilled Gorgonzola Flat Irons",
+        "category": "Flat Iron Steak",
+        "subcategory": "Flat Iron Steak",
+        "description": "My friends thought these steaks were heaven sent. The gorgonzola cheese, when melted on top, gives such an interesting contrast to the cinnamon and brown sugar rub. Very nice, however, not too calorie friendly!",
+        "ingredients": [
+            "1 tablespoon ground cinnamon",
+            "1 tablespoon cracked black pepper",
+            "1 tablespoon garlic powder",
+            "1 tablespoon chili powder",
+            "1 teaspoon cayenne pepper, or to taste",
+            "¼ cup dark brown sugar",
+            "4 (8 ounce) flat iron steaks",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "¼ cup red onion, minced",
+            "1 cup Cabernet Sauvignon (or other dry red wine)",
+            "1 cup crumbled Gorgonzola cheese",
+            "2 tablespoons chopped fresh basil"
+        ],
+        "directions": [
+            "Preheat an oven to 400 degrees F (200 degrees C). Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+            "Combine the cinnamon, black pepper, garlic powder, chili powder, cayenne pepper, and brown sugar in a small bowl. Sprinkle over the flat iron steaks on all sides, and press into the meat; set aside.",
+            "Heat the olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Pour in the red wine, and boil until the wine has nearly evaporated, about 5 minutes more. Remove the onions from the skillet and set aside.",
+            "Cook the flat iron steaks on the preheated grill for 4 minutes per side, then remove and place into the skillet. Top the steaks with the onion mixture, and sprinkle with Gorgonzola cheese.",
+            "Bake in the preheated oven until the cheese has melted and the steaks have cooked to your desired degree of doneness, about 5 minutes for medium. Sprinkle with chopped basil to serve."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 5,
+        "ingredient_text": "ground cinnamon cracked black pepper garlic powder chili powder cayenne pepper taste ¼ dark brown sugar ounce flat iron steaks olive oil cloves garlic minced ¼ red onion minced cabernet sauvignon other dry red wine crumbled gorgonzola cheese chopped fresh basil",
+        "directions_text": "preheat an oven to 400 degrees f (200 degrees c). preheat an outdoor grill for medium-high heat, and lightly oil the grate. combine the cinnamon, black pepper, garlic powder, chili powder, cayenne pepper, and brown sugar in a small bowl. sprinkle over the flat iron steaks on all sides, and press into the meat; set aside. heat the olive oil in a skillet over medium heat. stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. pour in the red wine, and boil until the wine has nearly evaporated, about 5 minutes more. remove the onions from the skillet and set aside. cook the flat iron steaks on the preheated grill for 4 minutes per side, then remove and place into the skillet. top the steaks with the onion mixture, and sprinkle with gorgonzola cheese. bake in the preheated oven until the cheese has melted and the steaks have cooked to your desired degree of doneness, about 5 minutes for medium. sprinkle with chopped basil to serve.",
+        "combined_text": "grilled gorgonzola flat irons flat iron steak flat iron steak 1 tablespoon ground cinnamon 1 tablespoon cracked black pepper 1 tablespoon garlic powder 1 tablespoon chili powder 1 teaspoon cayenne pepper, or to taste ¼ cup dark brown sugar 4 (8 ounce) flat iron steaks 2 tablespoons olive oil 4 cloves garlic, minced ¼ cup red onion, minced 1 cup cabernet sauvignon (or other dry red wine) 1 cup crumbled gorgonzola cheese 2 tablespoons chopped fresh basil preheat an oven to 400 degrees f (200 degrees c). preheat an outdoor grill for medium-high heat, and lightly oil the grate. combine the cinnamon, black pepper, garlic powder, chili powder, cayenne pepper, and brown sugar in a small bowl. sprinkle over the flat iron steaks on all sides, and press into the meat; set aside. heat the olive oil in a skillet over medium heat. stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. pour in the red wine, and boil until the wine has nearly evaporated, about 5 minutes more. remove the onions from the skillet and set aside. cook the flat iron steaks on the preheated grill for 4 minutes per side, then remove and place into the skillet. top the steaks with the onion mixture, and sprinkle with gorgonzola cheese. bake in the preheated oven until the cheese has melted and the steaks have cooked to your desired degree of doneness, about 5 minutes for medium. sprinkle with chopped basil to serve.",
+        "ingredients_raw": [
+            "1 tablespoon ground cinnamon",
+            "1 tablespoon cracked black pepper",
+            "1 tablespoon garlic powder",
+            "1 tablespoon chili powder",
+            "1 teaspoon cayenne pepper, or to taste",
+            "¼ cup dark brown sugar",
+            "4 (8 ounce) flat iron steaks",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "¼ cup red onion, minced",
+            "1 cup Cabernet Sauvignon (or other dry red wine)",
+            "1 cup crumbled Gorgonzola cheese",
+            "2 tablespoons chopped fresh basil"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 400 degrees F (200 degrees C). Preheat an outdoor grill for medium-high heat, and lightly oil the grate.",
+            "Combine the cinnamon, black pepper, garlic powder, chili powder, cayenne pepper, and brown sugar in a small bowl. Sprinkle over the flat iron steaks on all sides, and press into the meat; set aside.",
+            "Heat the olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Pour in the red wine, and boil until the wine has nearly evaporated, about 5 minutes more. Remove the onions from the skillet and set aside.",
+            "Cook the flat iron steaks on the preheated grill for 4 minutes per side, then remove and place into the skillet. Top the steaks with the onion mixture, and sprinkle with Gorgonzola cheese.",
+            "Bake in the preheated oven until the cheese has melted and the steaks have cooked to your desired degree of doneness, about 5 minutes for medium. Sprinkle with chopped basil to serve."
+        ],
+        "ingredients_canonical": [
+            "ground cinnamon",
+            "cracked black pepper",
+            "garlic powder",
+            "chili powder",
+            "cayenne pepper taste",
+            "¼ dark brown sugar",
+            "ounce flat iron steaks",
+            "olive oil",
+            "cloves garlic minced",
+            "¼ red onion minced",
+            "cabernet sauvignon other dry red wine",
+            "crumbled gorgonzola cheese",
+            "chopped fresh basil"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "vietnamese"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 11,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 30,
+        "est_cook_time_min": 81,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

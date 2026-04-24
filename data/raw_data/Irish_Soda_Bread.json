@@ -1,0 +1,2919 @@
+[
+    {
+        "recipe_title": "Guinness Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "I made this Guinness beer bread after visiting my ancestral homeland of Ireland. It's a type of soda bread and great way to use delicious Irish stout in your baking! Serve with soup or warm with butter and honey.",
+        "ingredients": [
+            "1 cup regular rolled oats, plus more for topping",
+            "2 cups whole wheat flour",
+            "½ cup brown sugar",
+            "2 teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "¼ cup melted butter",
+            "2 teaspoons vanilla extract",
+            "1 cup buttermilk",
+            "1 (12 fluid ounce) can or bottle Guinness"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Grease an 8x8-inch baking pan.",
+            "Mix oats, flour, sugar, baking soda, baking powder, and salt together in a bowl. Stir butter, vanilla, buttermilk, and Guinness together in a separate large bowl. Pour flour mixture into beer mixture, and gently stir until well combined. Pour batter into the prepared baking pan, and sprinkle with additional oats if desired.",
+            "Bake in preheated oven for 30 minutes, then turn the temperature down to 400 degrees F (200 degrees C), and bake for an additional 30 minutes. Turn the oven off, open the door, and allow to cool for 30 minutes in the oven before turning out onto a wire rack."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "regular rolled oats plus more for topping whole wheat flour ½ brown sugar baking soda baking powder ½ salt ¼ melted butter vanilla extract buttermilk fluid ounce can bottle guinness",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). grease an 8x8-inch baking pan. mix oats, flour, sugar, baking soda, baking powder, and salt together in a bowl. stir butter, vanilla, buttermilk, and guinness together in a separate large bowl. pour flour mixture into beer mixture, and gently stir until well combined. pour batter into the prepared baking pan, and sprinkle with additional oats if desired. bake in preheated oven for 30 minutes, then turn the temperature down to 400 degrees f (200 degrees c), and bake for an additional 30 minutes. turn the oven off, open the door, and allow to cool for 30 minutes in the oven before turning out onto a wire rack.",
+        "combined_text": "guinness bread irish soda bread irish soda bread 1 cup regular rolled oats, plus more for topping 2 cups whole wheat flour ½ cup brown sugar 2 teaspoons baking soda 1 teaspoon baking powder ½ teaspoon salt ¼ cup melted butter 2 teaspoons vanilla extract 1 cup buttermilk 1 (12 fluid ounce) can or bottle guinness preheat the oven to 425 degrees f (220 degrees c). grease an 8x8-inch baking pan. mix oats, flour, sugar, baking soda, baking powder, and salt together in a bowl. stir butter, vanilla, buttermilk, and guinness together in a separate large bowl. pour flour mixture into beer mixture, and gently stir until well combined. pour batter into the prepared baking pan, and sprinkle with additional oats if desired. bake in preheated oven for 30 minutes, then turn the temperature down to 400 degrees f (200 degrees c), and bake for an additional 30 minutes. turn the oven off, open the door, and allow to cool for 30 minutes in the oven before turning out onto a wire rack.",
+        "ingredients_raw": [
+            "1 cup regular rolled oats, plus more for topping",
+            "2 cups whole wheat flour",
+            "½ cup brown sugar",
+            "2 teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "¼ cup melted butter",
+            "2 teaspoons vanilla extract",
+            "1 cup buttermilk",
+            "1 (12 fluid ounce) can or bottle Guinness"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Grease an 8x8-inch baking pan.",
+            "Mix oats, flour, sugar, baking soda, baking powder, and salt together in a bowl. Stir butter, vanilla, buttermilk, and Guinness together in a separate large bowl. Pour flour mixture into beer mixture, and gently stir until well combined. Pour batter into the prepared baking pan, and sprinkle with additional oats if desired.",
+            "Bake in preheated oven for 30 minutes, then turn the temperature down to 400 degrees F (200 degrees C), and bake for an additional 30 minutes. Turn the oven off, open the door, and allow to cool for 30 minutes in the oven before turning out onto a wire rack."
+        ],
+        "ingredients_canonical": [
+            "regular rolled oats plus more for topping",
+            "whole wheat flour",
+            "½ brown sugar",
+            "baking soda",
+            "baking powder",
+            "½ salt",
+            "¼ melted butter",
+            "vanilla extract",
+            "buttermilk",
+            "fluid ounce can bottle guinness"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 33,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Brown Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This Irish brown soda bread is the real thing! It's made with whole wheat flour, oats, baking soda, and buttermilk. Because it must only be handled very lightly, it can never be made in a bread machine.",
+        "ingredients": [
+            "4 cups whole wheat flour",
+            "1 cup bread flour",
+            "⅓ cup rolled oats",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "2 ½ cups buttermilk"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Lightly grease two baking sheets.",
+            "Mix whole wheat flour, bread flour, rolled oats, baking soda, and salt together in a large bowl. Gently mix in buttermilk until a soft dough is formed; knead very lightly. Divide dough into 4 pieces; form into rounded flat loaves. Mark each loaf with an \"X\" and place on the prepared baking sheets.",
+            "Bake in the preheated oven until golden brown and the loaves sound hollow when tapped on the bottom, about 30 to 45 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "whole wheat flour bread flour ⅓ rolled oats baking soda salt ½ buttermilk",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). lightly grease two baking sheets. mix whole wheat flour, bread flour, rolled oats, baking soda, and salt together in a large bowl. gently mix in buttermilk until a soft dough is formed; knead very lightly. divide dough into 4 pieces; form into rounded flat loaves. mark each loaf with an \"x\" and place on the prepared baking sheets. bake in the preheated oven until golden brown and the loaves sound hollow when tapped on the bottom, about 30 to 45 minutes.",
+        "combined_text": "irish brown soda bread irish soda bread irish soda bread 4 cups whole wheat flour 1 cup bread flour ⅓ cup rolled oats 1 teaspoon baking soda 1 teaspoon salt 2 ½ cups buttermilk preheat the oven to 425 degrees f (220 degrees c). lightly grease two baking sheets. mix whole wheat flour, bread flour, rolled oats, baking soda, and salt together in a large bowl. gently mix in buttermilk until a soft dough is formed; knead very lightly. divide dough into 4 pieces; form into rounded flat loaves. mark each loaf with an \"x\" and place on the prepared baking sheets. bake in the preheated oven until golden brown and the loaves sound hollow when tapped on the bottom, about 30 to 45 minutes.",
+        "ingredients_raw": [
+            "4 cups whole wheat flour",
+            "1 cup bread flour",
+            "⅓ cup rolled oats",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "2 ½ cups buttermilk"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Lightly grease two baking sheets.",
+            "Mix whole wheat flour, bread flour, rolled oats, baking soda, and salt together in a large bowl. Gently mix in buttermilk until a soft dough is formed; knead very lightly. Divide dough into 4 pieces; form into rounded flat loaves. Mark each loaf with an \"X\" and place on the prepared baking sheets.",
+            "Bake in the preheated oven until golden brown and the loaves sound hollow when tapped on the bottom, about 30 to 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "whole wheat flour",
+            "bread flour",
+            "⅓ rolled oats",
+            "baking soda",
+            "salt",
+            "½ buttermilk"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 38,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "whole_grains",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Nana Dot's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This Irish soda bread recipe was my mom's mother's recipe (my Nana Dot) and has been passed down for generations, direct from Ireland. If you like soda bread, this is awesome!",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "1 ½ teaspoons baking soda",
+            "1 tablespoon baking powder",
+            "½ teaspoon salt",
+            "3 tablespoons white sugar",
+            "½ cup butter, cut into pieces",
+            "1 cup raisins",
+            "½ cup currants",
+            "2 teaspoons caraway seed (Optional)",
+            "¾ cup milk",
+            "3 tablespoons apple cider vinegar"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease two baking sheets.",
+            "Stir flour, baking soda, baking powder, salt, and sugar together in a large bowl until evenly blended. Cut in the butter using a pastry blender or your hands until the mixture resembles coarse crumbs. Stir in raisins, currants, and caraway seeds; make a well in the center and pour in the milk and vinegar. Stir with a spoon until the dry ingredients are moistened.",
+            "Turn the dough out onto a well floured work surface, and knead gently 8 to 10 times. Divide the dough into two balls, and place onto the prepared baking sheets.",
+            "Bake in preheated oven for 15 minutes, then reduce heat to 375 degrees F (190 degrees C), and bake until the top of the bread is golden brown, about 15 minutes more."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "½ all-purpose flour ½ baking soda baking powder ½ salt white sugar ½ butter cut into pieces raisins ½ currants caraway seed optional ¾ milk apple cider vinegar",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). grease two baking sheets. stir flour, baking soda, baking powder, salt, and sugar together in a large bowl until evenly blended. cut in the butter using a pastry blender or your hands until the mixture resembles coarse crumbs. stir in raisins, currants, and caraway seeds; make a well in the center and pour in the milk and vinegar. stir with a spoon until the dry ingredients are moistened. turn the dough out onto a well floured work surface, and knead gently 8 to 10 times. divide the dough into two balls, and place onto the prepared baking sheets. bake in preheated oven for 15 minutes, then reduce heat to 375 degrees f (190 degrees c), and bake until the top of the bread is golden brown, about 15 minutes more.",
+        "combined_text": "nana dot's irish soda bread irish soda bread irish soda bread 2 ½ cups all-purpose flour 1 ½ teaspoons baking soda 1 tablespoon baking powder ½ teaspoon salt 3 tablespoons white sugar ½ cup butter, cut into pieces 1 cup raisins ½ cup currants 2 teaspoons caraway seed (optional) ¾ cup milk 3 tablespoons apple cider vinegar preheat the oven to 400 degrees f (200 degrees c). grease two baking sheets. stir flour, baking soda, baking powder, salt, and sugar together in a large bowl until evenly blended. cut in the butter using a pastry blender or your hands until the mixture resembles coarse crumbs. stir in raisins, currants, and caraway seeds; make a well in the center and pour in the milk and vinegar. stir with a spoon until the dry ingredients are moistened. turn the dough out onto a well floured work surface, and knead gently 8 to 10 times. divide the dough into two balls, and place onto the prepared baking sheets. bake in preheated oven for 15 minutes, then reduce heat to 375 degrees f (190 degrees c), and bake until the top of the bread is golden brown, about 15 minutes more.",
+        "ingredients_raw": [
+            "2 ½ cups all-purpose flour",
+            "1 ½ teaspoons baking soda",
+            "1 tablespoon baking powder",
+            "½ teaspoon salt",
+            "3 tablespoons white sugar",
+            "½ cup butter, cut into pieces",
+            "1 cup raisins",
+            "½ cup currants",
+            "2 teaspoons caraway seed (Optional)",
+            "¾ cup milk",
+            "3 tablespoons apple cider vinegar"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease two baking sheets.",
+            "Stir flour, baking soda, baking powder, salt, and sugar together in a large bowl until evenly blended. Cut in the butter using a pastry blender or your hands until the mixture resembles coarse crumbs. Stir in raisins, currants, and caraway seeds; make a well in the center and pour in the milk and vinegar. Stir with a spoon until the dry ingredients are moistened.",
+            "Turn the dough out onto a well floured work surface, and knead gently 8 to 10 times. Divide the dough into two balls, and place onto the prepared baking sheets.",
+            "Bake in preheated oven for 15 minutes, then reduce heat to 375 degrees F (190 degrees C), and bake until the top of the bread is golden brown, about 15 minutes more."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "½ baking soda",
+            "baking powder",
+            "½ salt",
+            "white sugar",
+            "½ butter cut into pieces",
+            "raisins",
+            "½ currants",
+            "caraway seed optional",
+            "¾ milk",
+            "apple cider vinegar"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "filipino",
+            "french"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 5,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 87,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This Irish soda bread recipe was given to me by my mother, Agnes Walters. It is made with sour cream and always comes out moist and keeps for several days.",
+        "ingredients": [
+            "4 cups all-purpose flour",
+            "1 cup white sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 pint sour cream",
+            "1 cup raisins",
+            "3 eggs"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease two 8x4-inch loaf pans.",
+            "Mix flour, sugar, baking powder, baking soda, and salt. Add sour cream, raisins, and eggs; mix until just combined. Distribute batter evenly between the prepared pans.",
+            "Bake loaves in the preheated oven for 1 hour."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour white sugar baking powder baking soda ½ salt pint sour cream raisins eggs",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). grease two 8x4-inch loaf pans. mix flour, sugar, baking powder, baking soda, and salt. add sour cream, raisins, and eggs; mix until just combined. distribute batter evenly between the prepared pans. bake loaves in the preheated oven for 1 hour.",
+        "combined_text": "irish soda bread irish soda bread irish soda bread 4 cups all-purpose flour 1 cup white sugar 2 teaspoons baking powder 1 teaspoon baking soda ½ teaspoon salt 1 pint sour cream 1 cup raisins 3 eggs preheat the oven to 325 degrees f (165 degrees c). grease two 8x4-inch loaf pans. mix flour, sugar, baking powder, baking soda, and salt. add sour cream, raisins, and eggs; mix until just combined. distribute batter evenly between the prepared pans. bake loaves in the preheated oven for 1 hour.",
+        "ingredients_raw": [
+            "4 cups all-purpose flour",
+            "1 cup white sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 pint sour cream",
+            "1 cup raisins",
+            "3 eggs"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease two 8x4-inch loaf pans.",
+            "Mix flour, sugar, baking powder, baking soda, and salt. Add sour cream, raisins, and eggs; mix until just combined. Distribute batter evenly between the prepared pans.",
+            "Bake loaves in the preheated oven for 1 hour."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "white sugar",
+            "baking powder",
+            "baking soda",
+            "½ salt",
+            "pint sour cream",
+            "raisins",
+            "eggs"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Real Traditional Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "Irish soda bread is traditionally made in a skillet or griddle with just four ingredients. This recipe has been passed down through an Irish family for many generations and contains none of the modern supplements like yeast or sugar. This is a simple, very effective recipe.",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 pinch salt",
+            "1 teaspoon baking soda",
+            "1 cup buttermilk"
+        ],
+        "directions": [
+            "Heat a heavy skillet, griddle, or cast-iron frying pan over medium-low heat.",
+            "Stir the flour and salt together in a bowl, and sift in the baking soda. Make a well in the center of the flour mixture, and pour in the buttermilk. Stir the mixture quickly together into a dough, and turn out onto a floured work surface. Knead the dough a few times, just until it comes together. Gently form the dough into a flattened, round cake about 1/2 inch thick, and cut the round into quarters with a floured knife.",
+            "Sprinkle a little bit of flour into the bottom of the hot skillet, and cook the wedges 6 to 8 minutes per side, until golden brown."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour pinch salt baking soda buttermilk",
+        "directions_text": "heat a heavy skillet, griddle, or cast-iron frying pan over medium-low heat. stir the flour and salt together in a bowl, and sift in the baking soda. make a well in the center of the flour mixture, and pour in the buttermilk. stir the mixture quickly together into a dough, and turn out onto a floured work surface. knead the dough a few times, just until it comes together. gently form the dough into a flattened, round cake about 1/2 inch thick, and cut the round into quarters with a floured knife. sprinkle a little bit of flour into the bottom of the hot skillet, and cook the wedges 6 to 8 minutes per side, until golden brown.",
+        "combined_text": "real traditional irish soda bread irish soda bread irish soda bread 2 cups all-purpose flour 1 pinch salt 1 teaspoon baking soda 1 cup buttermilk heat a heavy skillet, griddle, or cast-iron frying pan over medium-low heat. stir the flour and salt together in a bowl, and sift in the baking soda. make a well in the center of the flour mixture, and pour in the buttermilk. stir the mixture quickly together into a dough, and turn out onto a floured work surface. knead the dough a few times, just until it comes together. gently form the dough into a flattened, round cake about 1/2 inch thick, and cut the round into quarters with a floured knife. sprinkle a little bit of flour into the bottom of the hot skillet, and cook the wedges 6 to 8 minutes per side, until golden brown.",
+        "ingredients_raw": [
+            "2 cups all-purpose flour",
+            "1 pinch salt",
+            "1 teaspoon baking soda",
+            "1 cup buttermilk"
+        ],
+        "directions_raw": [
+            "Heat a heavy skillet, griddle, or cast-iron frying pan over medium-low heat.",
+            "Stir the flour and salt together in a bowl, and sift in the baking soda. Make a well in the center of the flour mixture, and pour in the buttermilk. Stir the mixture quickly together into a dough, and turn out onto a floured work surface. Knead the dough a few times, just until it comes together. Gently form the dough into a flattened, round cake about 1/2 inch thick, and cut the round into quarters with a floured knife.",
+            "Sprinkle a little bit of flour into the bottom of the hot skillet, and cook the wedges 6 to 8 minutes per side, until golden brown."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "pinch salt",
+            "baking soda",
+            "buttermilk"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irresistible Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This traditional Irish soda bread recipe is very easy and makes a great-tasting soda bread. Best if made the day before, or several hours before serving.",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "⅓ cup white sugar",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "1 large egg, lightly beaten",
+            "2 cups buttermilk",
+            "¼ cup butter, melted"
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan.",
+            "Combine flour, baking powder, sugar, salt, and baking soda in a large bowl. Blend egg and buttermilk together; add all at once to the flour mixture and mix just until moistened. Stir in butter. Pour into prepared pan.",
+            "Bake in the preheated oven until the top is golden brown, about 65 to 70 minutes. A toothpick inserted into the bread should come out clean. Cool on a wire rack."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour baking powder ⅓ white sugar salt baking soda large egg lightly beaten buttermilk ¼ butter melted",
+        "directions_text": "preheat the oven to 325 degrees f (165 degrees c). grease a 9x5-inch loaf pan. combine flour, baking powder, sugar, salt, and baking soda in a large bowl. blend egg and buttermilk together; add all at once to the flour mixture and mix just until moistened. stir in butter. pour into prepared pan. bake in the preheated oven until the top is golden brown, about 65 to 70 minutes. a toothpick inserted into the bread should come out clean. cool on a wire rack.",
+        "combined_text": "irresistible irish soda bread irish soda bread irish soda bread 3 cups all-purpose flour 1 tablespoon baking powder ⅓ cup white sugar 1 teaspoon salt 1 teaspoon baking soda 1 large egg, lightly beaten 2 cups buttermilk ¼ cup butter, melted preheat the oven to 325 degrees f (165 degrees c). grease a 9x5-inch loaf pan. combine flour, baking powder, sugar, salt, and baking soda in a large bowl. blend egg and buttermilk together; add all at once to the flour mixture and mix just until moistened. stir in butter. pour into prepared pan. bake in the preheated oven until the top is golden brown, about 65 to 70 minutes. a toothpick inserted into the bread should come out clean. cool on a wire rack.",
+        "ingredients_raw": [
+            "3 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "⅓ cup white sugar",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "1 large egg, lightly beaten",
+            "2 cups buttermilk",
+            "¼ cup butter, melted"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan.",
+            "Combine flour, baking powder, sugar, salt, and baking soda in a large bowl. Blend egg and buttermilk together; add all at once to the flour mixture and mix just until moistened. Stir in butter. Pour into prepared pan.",
+            "Bake in the preheated oven until the top is golden brown, about 65 to 70 minutes. A toothpick inserted into the bread should come out clean. Cool on a wire rack."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "baking powder",
+            "⅓ white sugar",
+            "salt",
+            "baking soda",
+            "large egg lightly beaten",
+            "buttermilk",
+            "¼ butter melted"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Brennan's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This soda bread is made with soured milk. It's perfect when you have no buttermilk on hand. This traditional Irish recipe has been passed down through our family line and directly into our bellies. It requires very little kneading — just a light touch to shape it into a round loaf.",
+        "ingredients": [
+            "1 cup milk",
+            "2 tablespoons distilled white vinegar",
+            "2 cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Stir milk and vinegar together in a small bowl; allow to stand until curdled, about 10 minutes.",
+            "Meanwhile, preheat the oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet.",
+            "Whisk flour, sugar, baking soda, and salt together in a bowl; gradually stir in soured milk until dough just comes together. Turn dough out onto a well-floured surface; knead lightly and shape into a round.",
+            "Transfer dough to the prepared baking sheet. Cut an \"X\" into the top of the dough to release steam and help the bread keep its round shape while baking.",
+            "Bake in the preheated oven until golden brown and the bottom of the loaf sounds hollow when tapped, about 45 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "milk distilled white vinegar all-purpose flour white sugar ½ baking soda ½ salt",
+        "directions_text": "stir milk and vinegar together in a small bowl; allow to stand until curdled, about 10 minutes. meanwhile, preheat the oven to 400 degrees f (200 degrees c). lightly grease a baking sheet. whisk flour, sugar, baking soda, and salt together in a bowl; gradually stir in soured milk until dough just comes together. turn dough out onto a well-floured surface; knead lightly and shape into a round. transfer dough to the prepared baking sheet. cut an \"x\" into the top of the dough to release steam and help the bread keep its round shape while baking. bake in the preheated oven until golden brown and the bottom of the loaf sounds hollow when tapped, about 45 minutes.",
+        "combined_text": "brennan's irish soda bread irish soda bread irish soda bread 1 cup milk 2 tablespoons distilled white vinegar 2 cups all-purpose flour 1 tablespoon white sugar ½ teaspoon baking soda ½ teaspoon salt stir milk and vinegar together in a small bowl; allow to stand until curdled, about 10 minutes. meanwhile, preheat the oven to 400 degrees f (200 degrees c). lightly grease a baking sheet. whisk flour, sugar, baking soda, and salt together in a bowl; gradually stir in soured milk until dough just comes together. turn dough out onto a well-floured surface; knead lightly and shape into a round. transfer dough to the prepared baking sheet. cut an \"x\" into the top of the dough to release steam and help the bread keep its round shape while baking. bake in the preheated oven until golden brown and the bottom of the loaf sounds hollow when tapped, about 45 minutes.",
+        "ingredients_raw": [
+            "1 cup milk",
+            "2 tablespoons distilled white vinegar",
+            "2 cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Stir milk and vinegar together in a small bowl; allow to stand until curdled, about 10 minutes.",
+            "Meanwhile, preheat the oven to 400 degrees F (200 degrees C). Lightly grease a baking sheet.",
+            "Whisk flour, sugar, baking soda, and salt together in a bowl; gradually stir in soured milk until dough just comes together. Turn dough out onto a well-floured surface; knead lightly and shape into a round.",
+            "Transfer dough to the prepared baking sheet. Cut an \"X\" into the top of the dough to release steam and help the bread keep its round shape while baking.",
+            "Bake in the preheated oven until golden brown and the bottom of the loaf sounds hollow when tapped, about 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "milk",
+            "distilled white vinegar",
+            "all-purpose flour",
+            "white sugar",
+            "½ baking soda",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "filipino"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Amazingly Easy Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "Irish soda bread is actually easy to make with flour, baking soda, and buttermilk. This is the best Irish soda bread around — the buttermilk gives this crusty loaf a delicious flavor!",
+        "ingredients": [
+            "4 cups all-purpose flour",
+            "½ cup butter, softened",
+            "4 tablespoons white sugar",
+            "1 teaspoon baking soda",
+            "1 tablespoon baking powder",
+            "½ teaspoon salt",
+            "1 cup buttermilk",
+            "1 large egg",
+            "¼ cup butter, melted",
+            "¼ cup buttermilk"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a large baking sheet.",
+            "Mix flour, softened butter, sugar, baking soda, baking powder, and salt together in a large bowl. Stir in 1 cup of buttermilk and egg.",
+            "Turn dough out onto a lightly floured surface and knead slightly. Form dough into a round loaf and place on the prepared baking sheet. Note that the dough will be a little sticky.",
+            "Combine melted butter with 1/4 cup buttermilk in a small bowl; brush loaf with this mixture. Use a sharp knife to cut an 'X' into the top of the loaf.",
+            "Bake in preheated oven until a toothpick inserted into the center of the loaf comes out clean, 45 to 50 minutes. Check for doneness after 30 minutes. You may continue to brush the loaf with the butter mixture while it bakes.",
+            "Slice and enjoy!"
+        ],
+        "num_ingredients": 10,
+        "num_steps": 6,
+        "ingredient_text": "all-purpose flour ½ butter softened white sugar baking soda baking powder ½ salt buttermilk large egg ¼ butter melted ¼ buttermilk",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). lightly grease a large baking sheet. mix flour, softened butter, sugar, baking soda, baking powder, and salt together in a large bowl. stir in 1 cup of buttermilk and egg. turn dough out onto a lightly floured surface and knead slightly. form dough into a round loaf and place on the prepared baking sheet. note that the dough will be a little sticky. combine melted butter with 1/4 cup buttermilk in a small bowl; brush loaf with this mixture. use a sharp knife to cut an 'x' into the top of the loaf. bake in preheated oven until a toothpick inserted into the center of the loaf comes out clean, 45 to 50 minutes. check for doneness after 30 minutes. you may continue to brush the loaf with the butter mixture while it bakes. slice and enjoy!",
+        "combined_text": "amazingly easy irish soda bread irish soda bread irish soda bread 4 cups all-purpose flour ½ cup butter, softened 4 tablespoons white sugar 1 teaspoon baking soda 1 tablespoon baking powder ½ teaspoon salt 1 cup buttermilk 1 large egg ¼ cup butter, melted ¼ cup buttermilk preheat the oven to 375 degrees f (190 degrees c). lightly grease a large baking sheet. mix flour, softened butter, sugar, baking soda, baking powder, and salt together in a large bowl. stir in 1 cup of buttermilk and egg. turn dough out onto a lightly floured surface and knead slightly. form dough into a round loaf and place on the prepared baking sheet. note that the dough will be a little sticky. combine melted butter with 1/4 cup buttermilk in a small bowl; brush loaf with this mixture. use a sharp knife to cut an 'x' into the top of the loaf. bake in preheated oven until a toothpick inserted into the center of the loaf comes out clean, 45 to 50 minutes. check for doneness after 30 minutes. you may continue to brush the loaf with the butter mixture while it bakes. slice and enjoy!",
+        "ingredients_raw": [
+            "4 cups all-purpose flour",
+            "½ cup butter, softened",
+            "4 tablespoons white sugar",
+            "1 teaspoon baking soda",
+            "1 tablespoon baking powder",
+            "½ teaspoon salt",
+            "1 cup buttermilk",
+            "1 large egg",
+            "¼ cup butter, melted",
+            "¼ cup buttermilk"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a large baking sheet.",
+            "Mix flour, softened butter, sugar, baking soda, baking powder, and salt together in a large bowl. Stir in 1 cup of buttermilk and egg.",
+            "Turn dough out onto a lightly floured surface and knead slightly. Form dough into a round loaf and place on the prepared baking sheet. Note that the dough will be a little sticky.",
+            "Combine melted butter with 1/4 cup buttermilk in a small bowl; brush loaf with this mixture. Use a sharp knife to cut an 'X' into the top of the loaf.",
+            "Bake in preheated oven until a toothpick inserted into the center of the loaf comes out clean, 45 to 50 minutes. Check for doneness after 30 minutes. You may continue to brush the loaf with the butter mixture while it bakes.",
+            "Slice and enjoy!"
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "½ butter softened",
+            "white sugar",
+            "baking soda",
+            "baking powder",
+            "½ salt",
+            "buttermilk",
+            "large egg",
+            "¼ butter melted",
+            "¼ buttermilk"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 52,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Potato Farls",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "The word farl originates from the Gaelic word fardel meaning four parts. These potato griddle breads can be made with leftover mashed potatoes if you have them. Serve hot with a little butter and salt or fry them alongside soda bread as part of an Ulster Fry.",
+        "ingredients": [
+            "4 medium potatoes, peeled and halved",
+            "¼ cup all-purpose flour, plus extra for dusting",
+            "1 tablespoon melted butter",
+            "1 pinch salt"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Cover potatoes with water in a pot and bring to a boil over high heat. Simmer on medium-high heat until center of potatoes are tender when pricked with a fork, about 20 minutes. Turn off heat. Drain, return potatoes to the pot, and allow to completely dry out over the remaining residual heat.",
+            "Mash with a potato masher until smooth.",
+            "Place warm mashed potato in a medium bowl. Stir in flour, melted butter, and salt. Mix lightly until dough forms.",
+            "Knead dough lightly on a well-floured surface. The dough will be sticky. Use a floured rolling pin to flatten into a 9-inch circle about 1/4 inch thick. Cut into quarters using a floured knife.",
+            "Sprinkle a little flour into the bottom of a skillet and cook farls until evenly browned, about 3 minutes on each side. Season with a little salt and serve straight away."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 6,
+        "ingredient_text": "medium potatoes peeled halved ¼ all-purpose flour plus extra for dusting melted butter pinch salt",
+        "directions_text": "gather all ingredients. cover potatoes with water in a pot and bring to a boil over high heat. simmer on medium-high heat until center of potatoes are tender when pricked with a fork, about 20 minutes. turn off heat. drain, return potatoes to the pot, and allow to completely dry out over the remaining residual heat. mash with a potato masher until smooth. place warm mashed potato in a medium bowl. stir in flour, melted butter, and salt. mix lightly until dough forms. knead dough lightly on a well-floured surface. the dough will be sticky. use a floured rolling pin to flatten into a 9-inch circle about 1/4 inch thick. cut into quarters using a floured knife. sprinkle a little flour into the bottom of a skillet and cook farls until evenly browned, about 3 minutes on each side. season with a little salt and serve straight away.",
+        "combined_text": "irish potato farls irish soda bread irish soda bread 4 medium potatoes, peeled and halved ¼ cup all-purpose flour, plus extra for dusting 1 tablespoon melted butter 1 pinch salt gather all ingredients. cover potatoes with water in a pot and bring to a boil over high heat. simmer on medium-high heat until center of potatoes are tender when pricked with a fork, about 20 minutes. turn off heat. drain, return potatoes to the pot, and allow to completely dry out over the remaining residual heat. mash with a potato masher until smooth. place warm mashed potato in a medium bowl. stir in flour, melted butter, and salt. mix lightly until dough forms. knead dough lightly on a well-floured surface. the dough will be sticky. use a floured rolling pin to flatten into a 9-inch circle about 1/4 inch thick. cut into quarters using a floured knife. sprinkle a little flour into the bottom of a skillet and cook farls until evenly browned, about 3 minutes on each side. season with a little salt and serve straight away.",
+        "ingredients_raw": [
+            "4 medium potatoes, peeled and halved",
+            "¼ cup all-purpose flour, plus extra for dusting",
+            "1 tablespoon melted butter",
+            "1 pinch salt"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Cover potatoes with water in a pot and bring to a boil over high heat. Simmer on medium-high heat until center of potatoes are tender when pricked with a fork, about 20 minutes. Turn off heat. Drain, return potatoes to the pot, and allow to completely dry out over the remaining residual heat.",
+            "Mash with a potato masher until smooth.",
+            "Place warm mashed potato in a medium bowl. Stir in flour, melted butter, and salt. Mix lightly until dough forms.",
+            "Knead dough lightly on a well-floured surface. The dough will be sticky. Use a floured rolling pin to flatten into a 9-inch circle about 1/4 inch thick. Cut into quarters using a floured knife.",
+            "Sprinkle a little flour into the bottom of a skillet and cook farls until evenly browned, about 3 minutes on each side. Season with a little salt and serve straight away."
+        ],
+        "ingredients_canonical": [
+            "medium potatoes peeled halved",
+            "¼ all-purpose flour plus extra for dusting",
+            "melted butter",
+            "pinch salt"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 8,
+        "slow_hits": 3,
+        "medium_hits": 9,
+        "cook_speed": "medium",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 99,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Perfectly Moist Irish Wheaten Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This Irish wheaten bread is so easy to make and comes out perfectly every time. My husband, a native Northern Irishman, loves this bread with a bowl of tomato and lentil soup or with butter and cheese or jelly. I hope you will enjoy it too!",
+        "ingredients": [
+            "cooking spray",
+            "2 ¾ cups whole wheat flour",
+            "1 cup bread flour",
+            "3 teaspoons white sugar, divided",
+            "1 ¼ teaspoons salt",
+            "1 ¼ teaspoons baking soda",
+            "¼ cup margarine",
+            "2 cups buttermilk",
+            "¼ cup vegetable oil",
+            "1 tablespoon buttermilk"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Spray a shallow baking pan with cooking spray.",
+            "Sift both flours, 2 teaspoons sugar, salt, and baking soda together into a bowl. Cut in margarine until mixture resembles coarse crumbs. Make a well in the center of the mixture and pour in 2 cups buttermilk and oil; stir with a spatula until dry mixture is completely moistened.",
+            "Transfer dough to a lightly floured surface and knead gently for no more than 1 minute. Place dough into the prepared pan; pat down and around to form a round loaf. Cut a cross in the top of the loaf with your finger. Brush the top with 1 tablespoon buttermilk, then sprinkle with 1 teaspoon sugar.",
+            "Bake in the preheated oven for 30 minutes. Reduce the heat to 375 degrees F (190 degrees C), then rotate the pan and bake for 30 more minutes. Remove from the oven and let cool on a wire rack before slicing."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "cooking spray ¾ whole wheat flour bread flour white sugar divided ¼ salt ¼ baking soda ¼ margarine buttermilk ¼ vegetable oil buttermilk",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). spray a shallow baking pan with cooking spray. sift both flours, 2 teaspoons sugar, salt, and baking soda together into a bowl. cut in margarine until mixture resembles coarse crumbs. make a well in the center of the mixture and pour in 2 cups buttermilk and oil; stir with a spatula until dry mixture is completely moistened. transfer dough to a lightly floured surface and knead gently for no more than 1 minute. place dough into the prepared pan; pat down and around to form a round loaf. cut a cross in the top of the loaf with your finger. brush the top with 1 tablespoon buttermilk, then sprinkle with 1 teaspoon sugar. bake in the preheated oven for 30 minutes. reduce the heat to 375 degrees f (190 degrees c), then rotate the pan and bake for 30 more minutes. remove from the oven and let cool on a wire rack before slicing.",
+        "combined_text": "perfectly moist irish wheaten bread irish soda bread irish soda bread cooking spray 2 ¾ cups whole wheat flour 1 cup bread flour 3 teaspoons white sugar, divided 1 ¼ teaspoons salt 1 ¼ teaspoons baking soda ¼ cup margarine 2 cups buttermilk ¼ cup vegetable oil 1 tablespoon buttermilk preheat the oven to 400 degrees f (200 degrees c). spray a shallow baking pan with cooking spray. sift both flours, 2 teaspoons sugar, salt, and baking soda together into a bowl. cut in margarine until mixture resembles coarse crumbs. make a well in the center of the mixture and pour in 2 cups buttermilk and oil; stir with a spatula until dry mixture is completely moistened. transfer dough to a lightly floured surface and knead gently for no more than 1 minute. place dough into the prepared pan; pat down and around to form a round loaf. cut a cross in the top of the loaf with your finger. brush the top with 1 tablespoon buttermilk, then sprinkle with 1 teaspoon sugar. bake in the preheated oven for 30 minutes. reduce the heat to 375 degrees f (190 degrees c), then rotate the pan and bake for 30 more minutes. remove from the oven and let cool on a wire rack before slicing.",
+        "ingredients_raw": [
+            "cooking spray",
+            "2 ¾ cups whole wheat flour",
+            "1 cup bread flour",
+            "3 teaspoons white sugar, divided",
+            "1 ¼ teaspoons salt",
+            "1 ¼ teaspoons baking soda",
+            "¼ cup margarine",
+            "2 cups buttermilk",
+            "¼ cup vegetable oil",
+            "1 tablespoon buttermilk"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Spray a shallow baking pan with cooking spray.",
+            "Sift both flours, 2 teaspoons sugar, salt, and baking soda together into a bowl. Cut in margarine until mixture resembles coarse crumbs. Make a well in the center of the mixture and pour in 2 cups buttermilk and oil; stir with a spatula until dry mixture is completely moistened.",
+            "Transfer dough to a lightly floured surface and knead gently for no more than 1 minute. Place dough into the prepared pan; pat down and around to form a round loaf. Cut a cross in the top of the loaf with your finger. Brush the top with 1 tablespoon buttermilk, then sprinkle with 1 teaspoon sugar.",
+            "Bake in the preheated oven for 30 minutes. Reduce the heat to 375 degrees F (190 degrees C), then rotate the pan and bake for 30 more minutes. Remove from the oven and let cool on a wire rack before slicing."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "¾ whole wheat flour",
+            "bread flour",
+            "white sugar divided",
+            "¼ salt",
+            "¼ baking soda",
+            "¼ margarine",
+            "buttermilk",
+            "¼ vegetable oil",
+            "buttermilk"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 5,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 92,
+        "difficulty": "hard",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Soda Farls",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "Farl means four parts in Gaelic and this recipe is the traditional (and quickest) way to make soda bread farls for unexpected guests who drop by for a bit of \"craic\" (good fun). The soda bread dough is flattened into a round, then cooked on a dry griddle or pan. It's best eaten fresh with butter and jam but is also delicious pan-fried in oil or butter as part of an \"Ulster fry.\"",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "½ teaspoon salt",
+            "1 teaspoon baking soda",
+            "1 cup buttermilk"
+        ],
+        "directions": [
+            "Preheat a heavy based flat griddle or skillet on medium to low heat.",
+            "Place flour and salt in a bowl and sift in baking soda; make a well in the center, and pour in the buttermilk.",
+            "Work quickly to mix into a wet dough; knead very lightly on a well floured surface. Form into a flattened circle, about 1/2 inch thick and cut into quarters with a floured knife. The dough will be quite sticky.",
+            "Sprinkle a little flour over the base of the hot pan and cook the farls for 6 to 8 minutes on each side or until golden brown."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 4,
+        "ingredient_text": "all-purpose flour ½ salt baking soda buttermilk",
+        "directions_text": "preheat a heavy based flat griddle or skillet on medium to low heat. place flour and salt in a bowl and sift in baking soda; make a well in the center, and pour in the buttermilk. work quickly to mix into a wet dough; knead very lightly on a well floured surface. form into a flattened circle, about 1/2 inch thick and cut into quarters with a floured knife. the dough will be quite sticky. sprinkle a little flour over the base of the hot pan and cook the farls for 6 to 8 minutes on each side or until golden brown.",
+        "combined_text": "irish soda farls irish soda bread irish soda bread 2 cups all-purpose flour ½ teaspoon salt 1 teaspoon baking soda 1 cup buttermilk preheat a heavy based flat griddle or skillet on medium to low heat. place flour and salt in a bowl and sift in baking soda; make a well in the center, and pour in the buttermilk. work quickly to mix into a wet dough; knead very lightly on a well floured surface. form into a flattened circle, about 1/2 inch thick and cut into quarters with a floured knife. the dough will be quite sticky. sprinkle a little flour over the base of the hot pan and cook the farls for 6 to 8 minutes on each side or until golden brown.",
+        "ingredients_raw": [
+            "2 cups all-purpose flour",
+            "½ teaspoon salt",
+            "1 teaspoon baking soda",
+            "1 cup buttermilk"
+        ],
+        "directions_raw": [
+            "Preheat a heavy based flat griddle or skillet on medium to low heat.",
+            "Place flour and salt in a bowl and sift in baking soda; make a well in the center, and pour in the buttermilk.",
+            "Work quickly to mix into a wet dough; knead very lightly on a well floured surface. Form into a flattened circle, about 1/2 inch thick and cut into quarters with a floured knife. The dough will be quite sticky.",
+            "Sprinkle a little flour over the base of the hot pan and cook the farls for 6 to 8 minutes on each side or until golden brown."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "½ salt",
+            "baking soda",
+            "buttermilk"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Best Ever Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This is the best Irish soda bread recipe as it's made with buttermilk and raisins. It's moist, cake-like, and so delicious —you'll be craving it all year 'round.",
+        "ingredients": [
+            "4 cups all-purpose flour",
+            "¾ cup white sugar",
+            "1 teaspoon salt",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "½ cup butter, at room temperature",
+            "1 ½ cups raisins",
+            "1 ½ cups buttermilk, at room temperature",
+            "3 large eggs, at room temperature"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch pan.",
+            "Stir flour, sugar, salt, baking powder, and baking soda together in a large bowl. Using a pastry cutter, cut the butter gently into the flour mixture until well combined; stir in raisins. Whisk buttermilk and eggs together in a separate bowl; lightly beat egg mixture into flour mixture. Place dough into the prepared pan.",
+            "Bake in the preheated oven until the bread has risen and the top is golden brown, 45 minutes to 1 hour. A knife inserted into the center of the bread should come out clean. Cool the bread in the pan on a wire rack for 10 minutes before removing. Serve warm."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour ¾ white sugar salt baking powder baking soda ½ butter at room temperature ½ raisins ½ buttermilk at room temperature large eggs at room temperature",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch pan. stir flour, sugar, salt, baking powder, and baking soda together in a large bowl. using a pastry cutter, cut the butter gently into the flour mixture until well combined; stir in raisins. whisk buttermilk and eggs together in a separate bowl; lightly beat egg mixture into flour mixture. place dough into the prepared pan. bake in the preheated oven until the bread has risen and the top is golden brown, 45 minutes to 1 hour. a knife inserted into the center of the bread should come out clean. cool the bread in the pan on a wire rack for 10 minutes before removing. serve warm.",
+        "combined_text": "best ever irish soda bread irish soda bread irish soda bread 4 cups all-purpose flour ¾ cup white sugar 1 teaspoon salt 1 teaspoon baking powder 1 teaspoon baking soda ½ cup butter, at room temperature 1 ½ cups raisins 1 ½ cups buttermilk, at room temperature 3 large eggs, at room temperature preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch pan. stir flour, sugar, salt, baking powder, and baking soda together in a large bowl. using a pastry cutter, cut the butter gently into the flour mixture until well combined; stir in raisins. whisk buttermilk and eggs together in a separate bowl; lightly beat egg mixture into flour mixture. place dough into the prepared pan. bake in the preheated oven until the bread has risen and the top is golden brown, 45 minutes to 1 hour. a knife inserted into the center of the bread should come out clean. cool the bread in the pan on a wire rack for 10 minutes before removing. serve warm.",
+        "ingredients_raw": [
+            "4 cups all-purpose flour",
+            "¾ cup white sugar",
+            "1 teaspoon salt",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "½ cup butter, at room temperature",
+            "1 ½ cups raisins",
+            "1 ½ cups buttermilk, at room temperature",
+            "3 large eggs, at room temperature"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch pan.",
+            "Stir flour, sugar, salt, baking powder, and baking soda together in a large bowl. Using a pastry cutter, cut the butter gently into the flour mixture until well combined; stir in raisins. Whisk buttermilk and eggs together in a separate bowl; lightly beat egg mixture into flour mixture. Place dough into the prepared pan.",
+            "Bake in the preheated oven until the bread has risen and the top is golden brown, 45 minutes to 1 hour. A knife inserted into the center of the bread should come out clean. Cool the bread in the pan on a wire rack for 10 minutes before removing. Serve warm."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "¾ white sugar",
+            "salt",
+            "baking powder",
+            "baking soda",
+            "½ butter at room temperature",
+            "½ raisins",
+            "½ buttermilk at room temperature",
+            "large eggs at room temperature"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Soda Bread with Caraway Seeds",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This easy Irish soda bread recipe is the best there is! The bread is deliciously moist. Serve warm with butter for a tasty breakfast or mid- morning snack.",
+        "ingredients": [
+            "½ cup white sugar",
+            "4 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "¾ teaspoon salt",
+            "3 cups raisins",
+            "1 tablespoon caraway seeds",
+            "2 large eggs, lightly beaten",
+            "1 ¼ cups buttermilk",
+            "1 cup sour cream"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch round cast iron skillet or a 9-inch round baking or cake pan.",
+            "Combine flour (reserving 1 tablespoon), sugar, baking powder, baking soda, salt, raisins and caraway seeds in a large bowl.",
+            "Blend eggs, buttermilk and sour cream together in a small bowl; stir into flour mixture until flour is just moistened. Knead dough in bowl about 10 to 12 strokes. Dough will be sticky. Place the dough in the prepared skillet or pan and pat down. Cut a 4x¾ inch deep slit in the top of the bread. Dust with reserved flour.",
+            "Bake in the preheated oven for 65 to 75 minutes. Let cool and turn bread onto a wire rack."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "½ white sugar all-purpose flour baking powder baking soda ¾ salt raisins caraway seeds large eggs lightly beaten ¼ buttermilk sour cream",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch round cast iron skillet or a 9-inch round baking or cake pan. combine flour (reserving 1 tablespoon), sugar, baking powder, baking soda, salt, raisins and caraway seeds in a large bowl. blend eggs, buttermilk and sour cream together in a small bowl; stir into flour mixture until flour is just moistened. knead dough in bowl about 10 to 12 strokes. dough will be sticky. place the dough in the prepared skillet or pan and pat down. cut a 4x¾ inch deep slit in the top of the bread. dust with reserved flour. bake in the preheated oven for 65 to 75 minutes. let cool and turn bread onto a wire rack.",
+        "combined_text": "irish soda bread with caraway seeds irish soda bread irish soda bread ½ cup white sugar 4 cups all-purpose flour 2 teaspoons baking powder 1 teaspoon baking soda ¾ teaspoon salt 3 cups raisins 1 tablespoon caraway seeds 2 large eggs, lightly beaten 1 ¼ cups buttermilk 1 cup sour cream preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch round cast iron skillet or a 9-inch round baking or cake pan. combine flour (reserving 1 tablespoon), sugar, baking powder, baking soda, salt, raisins and caraway seeds in a large bowl. blend eggs, buttermilk and sour cream together in a small bowl; stir into flour mixture until flour is just moistened. knead dough in bowl about 10 to 12 strokes. dough will be sticky. place the dough in the prepared skillet or pan and pat down. cut a 4x¾ inch deep slit in the top of the bread. dust with reserved flour. bake in the preheated oven for 65 to 75 minutes. let cool and turn bread onto a wire rack.",
+        "ingredients_raw": [
+            "½ cup white sugar",
+            "4 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "¾ teaspoon salt",
+            "3 cups raisins",
+            "1 tablespoon caraway seeds",
+            "2 large eggs, lightly beaten",
+            "1 ¼ cups buttermilk",
+            "1 cup sour cream"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch round cast iron skillet or a 9-inch round baking or cake pan.",
+            "Combine flour (reserving 1 tablespoon), sugar, baking powder, baking soda, salt, raisins and caraway seeds in a large bowl.",
+            "Blend eggs, buttermilk and sour cream together in a small bowl; stir into flour mixture until flour is just moistened. Knead dough in bowl about 10 to 12 strokes. Dough will be sticky. Place the dough in the prepared skillet or pan and pat down. Cut a 4x¾ inch deep slit in the top of the bread. Dust with reserved flour.",
+            "Bake in the preheated oven for 65 to 75 minutes. Let cool and turn bread onto a wire rack."
+        ],
+        "ingredients_canonical": [
+            "½ white sugar",
+            "all-purpose flour",
+            "baking powder",
+            "baking soda",
+            "¾ salt",
+            "raisins",
+            "caraway seeds",
+            "large eggs lightly beaten",
+            "¼ buttermilk",
+            "sour cream"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 46,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Irish Brown Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "We love this Irish brown bread recipe. It makes a delicious brown bread closest to what we ate while in Ireland. It isn't Irish soda bread, which has a completely different taste and texture.",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "2 tablespoons white sugar",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 ½ tablespoons butter",
+            "2 cups whole wheat flour",
+            "¼ cup quick-cooking oatmeal",
+            "1 ½ cups nonfat plain yogurt",
+            "1 teaspoon milk, or more as needed (Optional)"
+        ],
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet.",
+            "Mix all-purpose flour, sugar, baking powder, baking soda, and salt together in a large bowl. Cut butter into flour mixture with a pastry blender or 2 knives until mixture forms fine crumbs. Stir in whole wheat flour and quick-cooking oatmeal until combined.",
+            "Gently stir in yogurt. If mixture is too dry to hold together, add milk, a little at a time, until dough holds together; it should not be too sticky.",
+            "Turn dough out onto a lightly floured work surface; knead gently about 5 times to form a ball. Place dough in the center of the prepared baking sheet; cut a large 'X' in the top of loaf.",
+            "Bake in the preheated oven until well browned, about 40 minutes; transfer to a wire rack to cool. Bread can be served warm or cold."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour white sugar baking powder baking soda ½ salt ½ butter whole wheat flour ¼ quick-cooking oatmeal ½ nonfat plain yogurt milk more as needed optional",
+        "directions_text": "gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). lightly grease a baking sheet. mix all-purpose flour, sugar, baking powder, baking soda, and salt together in a large bowl. cut butter into flour mixture with a pastry blender or 2 knives until mixture forms fine crumbs. stir in whole wheat flour and quick-cooking oatmeal until combined. gently stir in yogurt. if mixture is too dry to hold together, add milk, a little at a time, until dough holds together; it should not be too sticky. turn dough out onto a lightly floured work surface; knead gently about 5 times to form a ball. place dough in the center of the prepared baking sheet; cut a large 'x' in the top of loaf. bake in the preheated oven until well browned, about 40 minutes; transfer to a wire rack to cool. bread can be served warm or cold.",
+        "combined_text": "irish brown bread irish soda bread irish soda bread 1 cup all-purpose flour 2 tablespoons white sugar 1 teaspoon baking powder 1 teaspoon baking soda ½ teaspoon salt 1 ½ tablespoons butter 2 cups whole wheat flour ¼ cup quick-cooking oatmeal 1 ½ cups nonfat plain yogurt 1 teaspoon milk, or more as needed (optional) gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). lightly grease a baking sheet. mix all-purpose flour, sugar, baking powder, baking soda, and salt together in a large bowl. cut butter into flour mixture with a pastry blender or 2 knives until mixture forms fine crumbs. stir in whole wheat flour and quick-cooking oatmeal until combined. gently stir in yogurt. if mixture is too dry to hold together, add milk, a little at a time, until dough holds together; it should not be too sticky. turn dough out onto a lightly floured work surface; knead gently about 5 times to form a ball. place dough in the center of the prepared baking sheet; cut a large 'x' in the top of loaf. bake in the preheated oven until well browned, about 40 minutes; transfer to a wire rack to cool. bread can be served warm or cold.",
+        "ingredients_raw": [
+            "1 cup all-purpose flour",
+            "2 tablespoons white sugar",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 ½ tablespoons butter",
+            "2 cups whole wheat flour",
+            "¼ cup quick-cooking oatmeal",
+            "1 ½ cups nonfat plain yogurt",
+            "1 teaspoon milk, or more as needed (Optional)"
+        ],
+        "directions_raw": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet.",
+            "Mix all-purpose flour, sugar, baking powder, baking soda, and salt together in a large bowl. Cut butter into flour mixture with a pastry blender or 2 knives until mixture forms fine crumbs. Stir in whole wheat flour and quick-cooking oatmeal until combined.",
+            "Gently stir in yogurt. If mixture is too dry to hold together, add milk, a little at a time, until dough holds together; it should not be too sticky.",
+            "Turn dough out onto a lightly floured work surface; knead gently about 5 times to form a ball. Place dough in the center of the prepared baking sheet; cut a large 'X' in the top of loaf.",
+            "Bake in the preheated oven until well browned, about 40 minutes; transfer to a wire rack to cool. Bread can be served warm or cold."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "white sugar",
+            "baking powder",
+            "baking soda",
+            "½ salt",
+            "½ butter",
+            "whole wheat flour",
+            "¼ quick-cooking oatmeal",
+            "½ nonfat plain yogurt",
+            "milk more as needed optional"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 76,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chef John's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This soda bread recipe is a great way to celebrate St. Patrick's Day, which is right around the corner! If made correctly, this is one of the best quick breads (those leavened without yeast) you'll ever have. It's subtly sweet, with a light, tender crumb, and not at all dry.",
+        "ingredients": [
+            "3 ¼ cups all-purpose flour",
+            "½ cup whole wheat flour",
+            "¼ cup rolled oats",
+            "1 ½ teaspoons salt",
+            "1 ¼ teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "¼ cup cold unsalted butter, cut into small cubes",
+            "1 ¾ cups buttermilk",
+            "1 large egg",
+            "2 tablespoons honey, or more to taste",
+            "2 teaspoons grated orange zest",
+            "1 cup dried currants",
+            "⅓ cup golden raisins"
+        ],
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper or a silicone baking mat.",
+            "Whisk all-purpose flour, whole wheat flour, oats, salt, baking soda, and baking powder together in a large bowl. Cut butter into flour mixture using a pastry blender until mixture resembles coarse crumbs.",
+            "Beat buttermilk, egg, honey, and orange zest together in a medium bowl. Pour buttermilk mixture, currants, and raisins into flour-butter mixture; stir with a wooden spoon until a wet, sticky dough comes together.",
+            "Turn dough out onto a well-floured work surface; press dough together into a ball and cut into 2 equal pieces. Form each into a smooth, round loaf.",
+            "Transfer to the prepared baking sheet and let rest for 15 minutes. Cut a 1/2-inch-deep \"X\" into the top of each loaf using a serrated knife.",
+            "Bake in the preheated oven until golden brown and fragrant, about 45 minutes. Transfer loaves to a wire rack to cool completely before slicing.",
+            "Enjoy!"
+        ],
+        "num_ingredients": 13,
+        "num_steps": 7,
+        "ingredient_text": "¼ all-purpose flour ½ whole wheat flour ¼ rolled oats ½ salt ¼ baking soda baking powder ¼ cold unsalted butter cut into small cubes ¾ buttermilk large egg honey more taste grated orange zest dried currants ⅓ golden raisins",
+        "directions_text": "gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). line a baking sheet with parchment paper or a silicone baking mat. whisk all-purpose flour, whole wheat flour, oats, salt, baking soda, and baking powder together in a large bowl. cut butter into flour mixture using a pastry blender until mixture resembles coarse crumbs. beat buttermilk, egg, honey, and orange zest together in a medium bowl. pour buttermilk mixture, currants, and raisins into flour-butter mixture; stir with a wooden spoon until a wet, sticky dough comes together. turn dough out onto a well-floured work surface; press dough together into a ball and cut into 2 equal pieces. form each into a smooth, round loaf. transfer to the prepared baking sheet and let rest for 15 minutes. cut a 1/2-inch-deep \"x\" into the top of each loaf using a serrated knife. bake in the preheated oven until golden brown and fragrant, about 45 minutes. transfer loaves to a wire rack to cool completely before slicing. enjoy!",
+        "combined_text": "chef john's irish soda bread irish soda bread irish soda bread 3 ¼ cups all-purpose flour ½ cup whole wheat flour ¼ cup rolled oats 1 ½ teaspoons salt 1 ¼ teaspoons baking soda 1 teaspoon baking powder ¼ cup cold unsalted butter, cut into small cubes 1 ¾ cups buttermilk 1 large egg 2 tablespoons honey, or more to taste 2 teaspoons grated orange zest 1 cup dried currants ⅓ cup golden raisins gather all ingredients. preheat the oven to 375 degrees f (190 degrees c). line a baking sheet with parchment paper or a silicone baking mat. whisk all-purpose flour, whole wheat flour, oats, salt, baking soda, and baking powder together in a large bowl. cut butter into flour mixture using a pastry blender until mixture resembles coarse crumbs. beat buttermilk, egg, honey, and orange zest together in a medium bowl. pour buttermilk mixture, currants, and raisins into flour-butter mixture; stir with a wooden spoon until a wet, sticky dough comes together. turn dough out onto a well-floured work surface; press dough together into a ball and cut into 2 equal pieces. form each into a smooth, round loaf. transfer to the prepared baking sheet and let rest for 15 minutes. cut a 1/2-inch-deep \"x\" into the top of each loaf using a serrated knife. bake in the preheated oven until golden brown and fragrant, about 45 minutes. transfer loaves to a wire rack to cool completely before slicing. enjoy!",
+        "ingredients_raw": [
+            "3 ¼ cups all-purpose flour",
+            "½ cup whole wheat flour",
+            "¼ cup rolled oats",
+            "1 ½ teaspoons salt",
+            "1 ¼ teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "¼ cup cold unsalted butter, cut into small cubes",
+            "1 ¾ cups buttermilk",
+            "1 large egg",
+            "2 tablespoons honey, or more to taste",
+            "2 teaspoons grated orange zest",
+            "1 cup dried currants",
+            "⅓ cup golden raisins"
+        ],
+        "directions_raw": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper or a silicone baking mat.",
+            "Whisk all-purpose flour, whole wheat flour, oats, salt, baking soda, and baking powder together in a large bowl. Cut butter into flour mixture using a pastry blender until mixture resembles coarse crumbs.",
+            "Beat buttermilk, egg, honey, and orange zest together in a medium bowl. Pour buttermilk mixture, currants, and raisins into flour-butter mixture; stir with a wooden spoon until a wet, sticky dough comes together.",
+            "Turn dough out onto a well-floured work surface; press dough together into a ball and cut into 2 equal pieces. Form each into a smooth, round loaf.",
+            "Transfer to the prepared baking sheet and let rest for 15 minutes. Cut a 1/2-inch-deep \"X\" into the top of each loaf using a serrated knife.",
+            "Bake in the preheated oven until golden brown and fragrant, about 45 minutes. Transfer loaves to a wire rack to cool completely before slicing.",
+            "Enjoy!"
+        ],
+        "ingredients_canonical": [
+            "¼ all-purpose flour",
+            "½ whole wheat flour",
+            "¼ rolled oats",
+            "½ salt",
+            "¼ baking soda",
+            "baking powder",
+            "¼ cold unsalted butter cut into small cubes",
+            "¾ buttermilk",
+            "large egg",
+            "honey more taste",
+            "grated orange zest",
+            "dried currants",
+            "⅓ golden raisins"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 8,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 26,
+        "est_cook_time_min": 65,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mom's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "Authentic Irish soda bread does not contain raisins, but I like mine with raisins so I include them. This is a very easy and delicious Irish soda bread recipe.",
+        "ingredients": [
+            "1 cup buttermilk, divided",
+            "½ cup butter, melted - divided",
+            "1 ½ cups golden raisins",
+            "4 cups all-purpose flour",
+            "¼ cup white sugar",
+            "1 tablespoon baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 egg"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch pie plate.",
+            "Spoon 1 tablespoon buttermilk into a small bowl; pour remaining buttermilk into a medium bowl.",
+            "Stir 1 tablespoon melted butter into buttermilk in the small bowl until combined. Stir golden raisins into buttermilk in the medium bowl. Let both bowls sit until needed.",
+            "Whisk together flour, sugar, baking powder, baking soda, and salt in a large bowl. Make a well in the center and pour in remaining melted butter; stir until mixture resembles coarse crumbs. Add egg and mix until thoroughly combined.",
+            "Add buttermilk-raisin mixture to flour mixture; shape into a ball. Transfer dough to the prepared pie dish and lightly pat around the edges so the top is slightly domed. Slice the top in a 1/4-inch deep crisscross with a sharp knife. Brush buttermilk-butter mixture over loaf until thoroughly coated, getting mixture into all crevices.",
+            "Bake in the preheated oven until loaf is golden brown and a toothpick inserted into the center comes out clean, 55 minutes to 1 hour."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 6,
+        "ingredient_text": "buttermilk divided ½ butter melted - divided ½ golden raisins all-purpose flour ¼ white sugar baking powder baking soda ½ salt egg",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch pie plate. spoon 1 tablespoon buttermilk into a small bowl; pour remaining buttermilk into a medium bowl. stir 1 tablespoon melted butter into buttermilk in the small bowl until combined. stir golden raisins into buttermilk in the medium bowl. let both bowls sit until needed. whisk together flour, sugar, baking powder, baking soda, and salt in a large bowl. make a well in the center and pour in remaining melted butter; stir until mixture resembles coarse crumbs. add egg and mix until thoroughly combined. add buttermilk-raisin mixture to flour mixture; shape into a ball. transfer dough to the prepared pie dish and lightly pat around the edges so the top is slightly domed. slice the top in a 1/4-inch deep crisscross with a sharp knife. brush buttermilk-butter mixture over loaf until thoroughly coated, getting mixture into all crevices. bake in the preheated oven until loaf is golden brown and a toothpick inserted into the center comes out clean, 55 minutes to 1 hour.",
+        "combined_text": "mom's irish soda bread irish soda bread irish soda bread 1 cup buttermilk, divided ½ cup butter, melted - divided 1 ½ cups golden raisins 4 cups all-purpose flour ¼ cup white sugar 1 tablespoon baking powder 1 teaspoon baking soda ½ teaspoon salt 1 egg preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch pie plate. spoon 1 tablespoon buttermilk into a small bowl; pour remaining buttermilk into a medium bowl. stir 1 tablespoon melted butter into buttermilk in the small bowl until combined. stir golden raisins into buttermilk in the medium bowl. let both bowls sit until needed. whisk together flour, sugar, baking powder, baking soda, and salt in a large bowl. make a well in the center and pour in remaining melted butter; stir until mixture resembles coarse crumbs. add egg and mix until thoroughly combined. add buttermilk-raisin mixture to flour mixture; shape into a ball. transfer dough to the prepared pie dish and lightly pat around the edges so the top is slightly domed. slice the top in a 1/4-inch deep crisscross with a sharp knife. brush buttermilk-butter mixture over loaf until thoroughly coated, getting mixture into all crevices. bake in the preheated oven until loaf is golden brown and a toothpick inserted into the center comes out clean, 55 minutes to 1 hour.",
+        "ingredients_raw": [
+            "1 cup buttermilk, divided",
+            "½ cup butter, melted - divided",
+            "1 ½ cups golden raisins",
+            "4 cups all-purpose flour",
+            "¼ cup white sugar",
+            "1 tablespoon baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 egg"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch pie plate.",
+            "Spoon 1 tablespoon buttermilk into a small bowl; pour remaining buttermilk into a medium bowl.",
+            "Stir 1 tablespoon melted butter into buttermilk in the small bowl until combined. Stir golden raisins into buttermilk in the medium bowl. Let both bowls sit until needed.",
+            "Whisk together flour, sugar, baking powder, baking soda, and salt in a large bowl. Make a well in the center and pour in remaining melted butter; stir until mixture resembles coarse crumbs. Add egg and mix until thoroughly combined.",
+            "Add buttermilk-raisin mixture to flour mixture; shape into a ball. Transfer dough to the prepared pie dish and lightly pat around the edges so the top is slightly domed. Slice the top in a 1/4-inch deep crisscross with a sharp knife. Brush buttermilk-butter mixture over loaf until thoroughly coated, getting mixture into all crevices.",
+            "Bake in the preheated oven until loaf is golden brown and a toothpick inserted into the center comes out clean, 55 minutes to 1 hour."
+        ],
+        "ingredients_canonical": [
+            "buttermilk divided",
+            "½ butter melted - divided",
+            "½ golden raisins",
+            "all-purpose flour",
+            "¼ white sugar",
+            "baking powder",
+            "baking soda",
+            "½ salt",
+            "egg"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 30,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Soda Bread with Raisins",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "Love Irish soda bread with raisins with a good cup of tea or coffee. You can add an egg wash to the top of the bread and then sprinkle with sugar before baking, if desired.",
+        "ingredients": [
+            "8 cups all-purpose flour",
+            "¾ cup white sugar, or more to taste",
+            "2 tablespoons baking powder",
+            "2 ½ teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 ¼ cups buttermilk",
+            "1 cup butter, softened",
+            "2 eggs",
+            "1 ½ cups raisins"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+            "Mix flour, sugar, baking powder, baking soda, and salt together in a bowl. Add buttermilk, butter, and eggs. Knead together with your hands or use an electric mixer; add raisins. Split dough in half and form into 2 loaves. Place on the prepared baking sheet.",
+            "Bake in the preheated oven until a toothpick inserted into the center of each loaf comes out clean, about 45 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour ¾ white sugar more taste baking powder ½ baking soda salt ¼ buttermilk butter softened eggs ½ raisins",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. mix flour, sugar, baking powder, baking soda, and salt together in a bowl. add buttermilk, butter, and eggs. knead together with your hands or use an electric mixer; add raisins. split dough in half and form into 2 loaves. place on the prepared baking sheet. bake in the preheated oven until a toothpick inserted into the center of each loaf comes out clean, about 45 minutes.",
+        "combined_text": "irish soda bread with raisins irish soda bread irish soda bread 8 cups all-purpose flour ¾ cup white sugar, or more to taste 2 tablespoons baking powder 2 ½ teaspoons baking soda 1 teaspoon salt 2 ¼ cups buttermilk 1 cup butter, softened 2 eggs 1 ½ cups raisins preheat the oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. mix flour, sugar, baking powder, baking soda, and salt together in a bowl. add buttermilk, butter, and eggs. knead together with your hands or use an electric mixer; add raisins. split dough in half and form into 2 loaves. place on the prepared baking sheet. bake in the preheated oven until a toothpick inserted into the center of each loaf comes out clean, about 45 minutes.",
+        "ingredients_raw": [
+            "8 cups all-purpose flour",
+            "¾ cup white sugar, or more to taste",
+            "2 tablespoons baking powder",
+            "2 ½ teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 ¼ cups buttermilk",
+            "1 cup butter, softened",
+            "2 eggs",
+            "1 ½ cups raisins"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+            "Mix flour, sugar, baking powder, baking soda, and salt together in a bowl. Add buttermilk, butter, and eggs. Knead together with your hands or use an electric mixer; add raisins. Split dough in half and form into 2 loaves. Place on the prepared baking sheet.",
+            "Bake in the preheated oven until a toothpick inserted into the center of each loaf comes out clean, about 45 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "¾ white sugar more taste",
+            "baking powder",
+            "½ baking soda",
+            "salt",
+            "¼ buttermilk",
+            "butter softened",
+            "eggs",
+            "½ raisins"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 38,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grandpa McAndrew's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "My mom bugged grandpa for this recipe but he told her he didn't have one. So, when he made the bread one day she captured each ingredient in a bowl and measured it and put it in the bowl he planned to mix it in!",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "½ teaspoon baking soda",
+            "2 tablespoons white sugar",
+            "½ cup raisins",
+            "1 egg, beaten",
+            "1 cup buttermilk",
+            "2 tablespoons margarine, melted"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a cast iron skillet.",
+            "In a medium bowl, mix together the flour, baking soda and sugar. Toss the raisins with the flour mixture until coated. Make a well in the center and add the egg, buttermilk, and melted margarine. Stir until all of the dry ingredients are absorbed. Turn the dough out onto a floured surface and knead for a few quick turns just to even out the dough. Handle the dough as little as possible. Pat into a flat circle, and place into the prepared pan.",
+            "Bake the bread for 40 to 45 minutes in the preheated oven, or until the edges are golden."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour ½ baking soda white sugar ½ raisins egg beaten buttermilk margarine melted",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a cast iron skillet. in a medium bowl, mix together the flour, baking soda and sugar. toss the raisins with the flour mixture until coated. make a well in the center and add the egg, buttermilk, and melted margarine. stir until all of the dry ingredients are absorbed. turn the dough out onto a floured surface and knead for a few quick turns just to even out the dough. handle the dough as little as possible. pat into a flat circle, and place into the prepared pan. bake the bread for 40 to 45 minutes in the preheated oven, or until the edges are golden.",
+        "combined_text": "grandpa mcandrew's irish soda bread irish soda bread irish soda bread 3 cups all-purpose flour ½ teaspoon baking soda 2 tablespoons white sugar ½ cup raisins 1 egg, beaten 1 cup buttermilk 2 tablespoons margarine, melted preheat the oven to 350 degrees f (175 degrees c). grease a cast iron skillet. in a medium bowl, mix together the flour, baking soda and sugar. toss the raisins with the flour mixture until coated. make a well in the center and add the egg, buttermilk, and melted margarine. stir until all of the dry ingredients are absorbed. turn the dough out onto a floured surface and knead for a few quick turns just to even out the dough. handle the dough as little as possible. pat into a flat circle, and place into the prepared pan. bake the bread for 40 to 45 minutes in the preheated oven, or until the edges are golden.",
+        "ingredients_raw": [
+            "3 cups all-purpose flour",
+            "½ teaspoon baking soda",
+            "2 tablespoons white sugar",
+            "½ cup raisins",
+            "1 egg, beaten",
+            "1 cup buttermilk",
+            "2 tablespoons margarine, melted"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a cast iron skillet.",
+            "In a medium bowl, mix together the flour, baking soda and sugar. Toss the raisins with the flour mixture until coated. Make a well in the center and add the egg, buttermilk, and melted margarine. Stir until all of the dry ingredients are absorbed. Turn the dough out onto a floured surface and knead for a few quick turns just to even out the dough. Handle the dough as little as possible. Pat into a flat circle, and place into the prepared pan.",
+            "Bake the bread for 40 to 45 minutes in the preheated oven, or until the edges are golden."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "½ baking soda",
+            "white sugar",
+            "½ raisins",
+            "egg beaten",
+            "buttermilk",
+            "margarine melted"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 3,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 50,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Irish Soda Bread and Whiskey Butter",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "An old family recipe for whiskey butter and Irish soda bread that gets rave reviews!",
+        "ingredients": [
+            "1 cup raisins",
+            "½ cup whiskey",
+            "3 cups all-purpose flour",
+            "½ cup white sugar",
+            "1 tablespoon baking powder",
+            "1 teaspoon salt",
+            "½ teaspoon baking soda",
+            "1 tablespoon grated orange peel (Optional)",
+            "1 tablespoon caraway seeds (Optional)",
+            "1 ⅓ cups buttermilk",
+            "¼ cup butter, melted",
+            "½ cup butter, at room temperature"
+        ],
+        "directions": [
+            "Place raisins into a small bowl. Pour in whiskey and allow to soak, 8 hours to overnight.",
+            "The next day, strain raisins, reserving whiskey. Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish.",
+            "Whisk flour, sugar, baking powder, salt, and baking soda in a large bowl. Stir in drained raisins, orange peel, and caraway seeds. Beat in buttermilk and 1/4 cup melted butter until incorporated and batter is thick. Transfer to the prepared casserole dish.",
+            "Bake in the preheated oven until golden brown on top and a toothpick inserted into the center comes out clean, about 1 hour and 10 minutes.",
+            "Beat 1/2 cup butter in a bowl until fluffy; beat in reserved whiskey, 1 teaspoon at a time, to taste. Serve with soda bread."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 5,
+        "ingredient_text": "raisins ½ whiskey all-purpose flour ½ white sugar baking powder salt ½ baking soda grated orange peel optional caraway seeds optional ⅓ buttermilk ¼ butter melted ½ butter at room temperature",
+        "directions_text": "place raisins into a small bowl. pour in whiskey and allow to soak, 8 hours to overnight. the next day, strain raisins, reserving whiskey. preheat the oven to 350 degrees f (175 degrees c). grease a 2-quart casserole dish. whisk flour, sugar, baking powder, salt, and baking soda in a large bowl. stir in drained raisins, orange peel, and caraway seeds. beat in buttermilk and 1/4 cup melted butter until incorporated and batter is thick. transfer to the prepared casserole dish. bake in the preheated oven until golden brown on top and a toothpick inserted into the center comes out clean, about 1 hour and 10 minutes. beat 1/2 cup butter in a bowl until fluffy; beat in reserved whiskey, 1 teaspoon at a time, to taste. serve with soda bread.",
+        "combined_text": "irish soda bread and whiskey butter irish soda bread irish soda bread 1 cup raisins ½ cup whiskey 3 cups all-purpose flour ½ cup white sugar 1 tablespoon baking powder 1 teaspoon salt ½ teaspoon baking soda 1 tablespoon grated orange peel (optional) 1 tablespoon caraway seeds (optional) 1 ⅓ cups buttermilk ¼ cup butter, melted ½ cup butter, at room temperature place raisins into a small bowl. pour in whiskey and allow to soak, 8 hours to overnight. the next day, strain raisins, reserving whiskey. preheat the oven to 350 degrees f (175 degrees c). grease a 2-quart casserole dish. whisk flour, sugar, baking powder, salt, and baking soda in a large bowl. stir in drained raisins, orange peel, and caraway seeds. beat in buttermilk and 1/4 cup melted butter until incorporated and batter is thick. transfer to the prepared casserole dish. bake in the preheated oven until golden brown on top and a toothpick inserted into the center comes out clean, about 1 hour and 10 minutes. beat 1/2 cup butter in a bowl until fluffy; beat in reserved whiskey, 1 teaspoon at a time, to taste. serve with soda bread.",
+        "ingredients_raw": [
+            "1 cup raisins",
+            "½ cup whiskey",
+            "3 cups all-purpose flour",
+            "½ cup white sugar",
+            "1 tablespoon baking powder",
+            "1 teaspoon salt",
+            "½ teaspoon baking soda",
+            "1 tablespoon grated orange peel (Optional)",
+            "1 tablespoon caraway seeds (Optional)",
+            "1 ⅓ cups buttermilk",
+            "¼ cup butter, melted",
+            "½ cup butter, at room temperature"
+        ],
+        "directions_raw": [
+            "Place raisins into a small bowl. Pour in whiskey and allow to soak, 8 hours to overnight.",
+            "The next day, strain raisins, reserving whiskey. Preheat the oven to 350 degrees F (175 degrees C). Grease a 2-quart casserole dish.",
+            "Whisk flour, sugar, baking powder, salt, and baking soda in a large bowl. Stir in drained raisins, orange peel, and caraway seeds. Beat in buttermilk and 1/4 cup melted butter until incorporated and batter is thick. Transfer to the prepared casserole dish.",
+            "Bake in the preheated oven until golden brown on top and a toothpick inserted into the center comes out clean, about 1 hour and 10 minutes.",
+            "Beat 1/2 cup butter in a bowl until fluffy; beat in reserved whiskey, 1 teaspoon at a time, to taste. Serve with soda bread."
+        ],
+        "ingredients_canonical": [
+            "raisins",
+            "½ whiskey",
+            "all-purpose flour",
+            "½ white sugar",
+            "baking powder",
+            "salt",
+            "½ baking soda",
+            "grated orange peel optional",
+            "caraway seeds optional",
+            "⅓ buttermilk",
+            "¼ butter melted",
+            "½ butter at room temperature"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "main",
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Macomb's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "I found this simple, delicious recipe about a year ago, and it quickly became my favorite! It's incredibly addictive when served warm with butter and pairs well with corned beef and cabbage.",
+        "ingredients": [
+            "3 ½ cups all-purpose flour",
+            "½ cup white sugar",
+            "2 tablespoons caraway seeds",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "½ teaspoon baking soda",
+            "2 large eggs",
+            "1 (16 ounce) container sour cream",
+            "¾ cup raisins"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch springform pan.",
+            "Combine flour, sugar, caraway seeds, baking powder, salt, and baking soda in a large bowl. In another large bowl, whisk the eggs with the sour cream together.",
+            "Gently stir sour cream mixture into flour mixture until dough comes together. Fold in raisins. Spoon dough into the prepared springform pan.",
+            "Bake until golden brown, 40 to 45 minutes. A toothpick inserted into the center should come out clean. Cool bread in the pan for 10 minutes before removing. Cut into wedges and serve warm."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "½ all-purpose flour ½ white sugar caraway seeds baking powder salt ½ baking soda large eggs ounce container sour cream ¾ raisins",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch springform pan. combine flour, sugar, caraway seeds, baking powder, salt, and baking soda in a large bowl. in another large bowl, whisk the eggs with the sour cream together. gently stir sour cream mixture into flour mixture until dough comes together. fold in raisins. spoon dough into the prepared springform pan. bake until golden brown, 40 to 45 minutes. a toothpick inserted into the center should come out clean. cool bread in the pan for 10 minutes before removing. cut into wedges and serve warm.",
+        "combined_text": "macomb's irish soda bread irish soda bread irish soda bread 3 ½ cups all-purpose flour ½ cup white sugar 2 tablespoons caraway seeds 2 teaspoons baking powder 1 teaspoon salt ½ teaspoon baking soda 2 large eggs 1 (16 ounce) container sour cream ¾ cup raisins preheat the oven to 350 degrees f (175 degrees c). grease a 9-inch springform pan. combine flour, sugar, caraway seeds, baking powder, salt, and baking soda in a large bowl. in another large bowl, whisk the eggs with the sour cream together. gently stir sour cream mixture into flour mixture until dough comes together. fold in raisins. spoon dough into the prepared springform pan. bake until golden brown, 40 to 45 minutes. a toothpick inserted into the center should come out clean. cool bread in the pan for 10 minutes before removing. cut into wedges and serve warm.",
+        "ingredients_raw": [
+            "3 ½ cups all-purpose flour",
+            "½ cup white sugar",
+            "2 tablespoons caraway seeds",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "½ teaspoon baking soda",
+            "2 large eggs",
+            "1 (16 ounce) container sour cream",
+            "¾ cup raisins"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch springform pan.",
+            "Combine flour, sugar, caraway seeds, baking powder, salt, and baking soda in a large bowl. In another large bowl, whisk the eggs with the sour cream together.",
+            "Gently stir sour cream mixture into flour mixture until dough comes together. Fold in raisins. Spoon dough into the prepared springform pan.",
+            "Bake until golden brown, 40 to 45 minutes. A toothpick inserted into the center should come out clean. Cool bread in the pan for 10 minutes before removing. Cut into wedges and serve warm."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "½ white sugar",
+            "caraway seeds",
+            "baking powder",
+            "salt",
+            "½ baking soda",
+            "large eggs",
+            "ounce container sour cream",
+            "¾ raisins"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Sweet Irish Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "A sweet breakfast bread with raisins that tastes most excellent toasted.",
+        "ingredients": [
+            "¼ cup butter",
+            "1 cup white sugar",
+            "2 eggs, beaten",
+            "2 cups all-purpose flour",
+            "½ teaspoon baking soda",
+            "1 teaspoon cream of tartar",
+            "1 pinch salt",
+            "1 cup sour cream",
+            "1 cup raisins"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5 inch loaf pan. I use a glass one.",
+            "In a medium bowl, cream together the butter and sugar until smooth. Beat in the eggs one at a time, then stir in the sour cream. Sift together the flour, baking soda, cream of tartar and salt; stir into the sour cream mixture until just blended. Fold in raisins. Transfer the batter to the prepared loaf pan.",
+            "Bake for 50 to 60 minutes in the preheated oven, or until a small knife inserted into the crown, comes out clean."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "¼ butter white sugar eggs beaten all-purpose flour ½ baking soda cream tartar pinch salt sour cream raisins",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a 9x5 inch loaf pan. i use a glass one. in a medium bowl, cream together the butter and sugar until smooth. beat in the eggs one at a time, then stir in the sour cream. sift together the flour, baking soda, cream of tartar and salt; stir into the sour cream mixture until just blended. fold in raisins. transfer the batter to the prepared loaf pan. bake for 50 to 60 minutes in the preheated oven, or until a small knife inserted into the crown, comes out clean.",
+        "combined_text": "sweet irish bread irish soda bread irish soda bread ¼ cup butter 1 cup white sugar 2 eggs, beaten 2 cups all-purpose flour ½ teaspoon baking soda 1 teaspoon cream of tartar 1 pinch salt 1 cup sour cream 1 cup raisins preheat the oven to 350 degrees f (175 degrees c). grease a 9x5 inch loaf pan. i use a glass one. in a medium bowl, cream together the butter and sugar until smooth. beat in the eggs one at a time, then stir in the sour cream. sift together the flour, baking soda, cream of tartar and salt; stir into the sour cream mixture until just blended. fold in raisins. transfer the batter to the prepared loaf pan. bake for 50 to 60 minutes in the preheated oven, or until a small knife inserted into the crown, comes out clean.",
+        "ingredients_raw": [
+            "¼ cup butter",
+            "1 cup white sugar",
+            "2 eggs, beaten",
+            "2 cups all-purpose flour",
+            "½ teaspoon baking soda",
+            "1 teaspoon cream of tartar",
+            "1 pinch salt",
+            "1 cup sour cream",
+            "1 cup raisins"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5 inch loaf pan. I use a glass one.",
+            "In a medium bowl, cream together the butter and sugar until smooth. Beat in the eggs one at a time, then stir in the sour cream. Sift together the flour, baking soda, cream of tartar and salt; stir into the sour cream mixture until just blended. Fold in raisins. Transfer the batter to the prepared loaf pan.",
+            "Bake for 50 to 60 minutes in the preheated oven, or until a small knife inserted into the crown, comes out clean."
+        ],
+        "ingredients_canonical": [
+            "¼ butter",
+            "white sugar",
+            "eggs beaten",
+            "all-purpose flour",
+            "½ baking soda",
+            "cream tartar",
+            "pinch salt",
+            "sour cream",
+            "raisins"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "russian"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Irish Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "My mother-in-law was born in Ireland and this is her recipe, which was only shared with the family. My husband would make 20 loaves for St. Patrick's Day to give to friends but he would never give the recipe. When asked for it, he would make the person a loaf and tell them that the recipe was a secret. Now that both he and his mother have passed, I think she would like to share it. I make 4 loaves each year for our church bake sale. They sell for $17.00 each and people come to the early mass just to get one.",
+        "ingredients": [
+            "1 cup raisins",
+            "1 cup dried currants",
+            "4 cups all-purpose flour, or more if needed",
+            "1 cup white sugar",
+            "2 teaspoons salt",
+            "1 teaspoon baking soda",
+            "1 ¾ cups buttermilk"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch cast iron skillet.",
+            "Pour hot water over raisins and currants in a bowl and let soak. Whisk flour, sugar, salt, and baking soda in a separate bowl until well combined; whisk in buttermilk.",
+            "Drain raisins and currants and pat dry with paper towels; fold into dough. Turn dough out onto a floured work surface and knead gently until it holds its shape; if dough is too sticky, knead in more flour. Form into a round and place into prepared cast iron skillet. Use a sharp knife to cut a cross into the top of the loaf.",
+            "Bake in the preheated oven until golden brown and a slender knife inserted into the loaf comes out clean, about 1 hour."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "raisins dried currants all-purpose flour more if needed white sugar salt baking soda ¾ buttermilk",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). grease a 9-inch cast iron skillet. pour hot water over raisins and currants in a bowl and let soak. whisk flour, sugar, salt, and baking soda in a separate bowl until well combined; whisk in buttermilk. drain raisins and currants and pat dry with paper towels; fold into dough. turn dough out onto a floured work surface and knead gently until it holds its shape; if dough is too sticky, knead in more flour. form into a round and place into prepared cast iron skillet. use a sharp knife to cut a cross into the top of the loaf. bake in the preheated oven until golden brown and a slender knife inserted into the loaf comes out clean, about 1 hour.",
+        "combined_text": "irish bread irish soda bread irish soda bread 1 cup raisins 1 cup dried currants 4 cups all-purpose flour, or more if needed 1 cup white sugar 2 teaspoons salt 1 teaspoon baking soda 1 ¾ cups buttermilk preheat oven to 350 degrees f (175 degrees c). grease a 9-inch cast iron skillet. pour hot water over raisins and currants in a bowl and let soak. whisk flour, sugar, salt, and baking soda in a separate bowl until well combined; whisk in buttermilk. drain raisins and currants and pat dry with paper towels; fold into dough. turn dough out onto a floured work surface and knead gently until it holds its shape; if dough is too sticky, knead in more flour. form into a round and place into prepared cast iron skillet. use a sharp knife to cut a cross into the top of the loaf. bake in the preheated oven until golden brown and a slender knife inserted into the loaf comes out clean, about 1 hour.",
+        "ingredients_raw": [
+            "1 cup raisins",
+            "1 cup dried currants",
+            "4 cups all-purpose flour, or more if needed",
+            "1 cup white sugar",
+            "2 teaspoons salt",
+            "1 teaspoon baking soda",
+            "1 ¾ cups buttermilk"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch cast iron skillet.",
+            "Pour hot water over raisins and currants in a bowl and let soak. Whisk flour, sugar, salt, and baking soda in a separate bowl until well combined; whisk in buttermilk.",
+            "Drain raisins and currants and pat dry with paper towels; fold into dough. Turn dough out onto a floured work surface and knead gently until it holds its shape; if dough is too sticky, knead in more flour. Form into a round and place into prepared cast iron skillet. Use a sharp knife to cut a cross into the top of the loaf.",
+            "Bake in the preheated oven until golden brown and a slender knife inserted into the loaf comes out clean, about 1 hour."
+        ],
+        "ingredients_canonical": [
+            "raisins",
+            "dried currants",
+            "all-purpose flour more if needed",
+            "white sugar",
+            "salt",
+            "baking soda",
+            "¾ buttermilk"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 70,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spotted Dog Irish Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This is my family's traditional St. Patrick's Day bread. My grandmother has had this recipe for longer than I've been alive. I was SHOCKED to find out this wasn't real Irish Soda Bread, but instead more commonly known as Spotted Dog. Whatever you call it, it is unbeatable topped with a bit of butter.",
+        "ingredients": [
+            "5 cups all-purpose flour",
+            "1 ½ cups white sugar",
+            "2 ⅔ tablespoons baking powder",
+            "2 eggs",
+            "2 cups milk",
+            "2 cups raisins"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Grease a 12-inch cast iron skillet.",
+            "Sift flour, sugar, and baking powder together in a large bowl.",
+            "Beat eggs with milk in a separate bowl.",
+            "Stir egg mixture into flour mixture until moistened; batter will be very thick.",
+            "Fold in raisins until thoroughly combined.",
+            "Spread batter into prepared cast iron skillet.",
+            "Bake in the preheated oven until bread has risen and is golden brown on top, about 1 hour."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 8,
+        "ingredient_text": "all-purpose flour ½ white sugar ⅔ baking powder eggs milk raisins",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). grease a 12-inch cast iron skillet. sift flour, sugar, and baking powder together in a large bowl. beat eggs with milk in a separate bowl. stir egg mixture into flour mixture until moistened; batter will be very thick. fold in raisins until thoroughly combined. spread batter into prepared cast iron skillet. bake in the preheated oven until bread has risen and is golden brown on top, about 1 hour.",
+        "combined_text": "spotted dog irish bread irish soda bread irish soda bread 5 cups all-purpose flour 1 ½ cups white sugar 2 ⅔ tablespoons baking powder 2 eggs 2 cups milk 2 cups raisins preheat the oven to 375 degrees f (190 degrees c). grease a 12-inch cast iron skillet. sift flour, sugar, and baking powder together in a large bowl. beat eggs with milk in a separate bowl. stir egg mixture into flour mixture until moistened; batter will be very thick. fold in raisins until thoroughly combined. spread batter into prepared cast iron skillet. bake in the preheated oven until bread has risen and is golden brown on top, about 1 hour.",
+        "ingredients_raw": [
+            "5 cups all-purpose flour",
+            "1 ½ cups white sugar",
+            "2 ⅔ tablespoons baking powder",
+            "2 eggs",
+            "2 cups milk",
+            "2 cups raisins"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Grease a 12-inch cast iron skillet.",
+            "Sift flour, sugar, and baking powder together in a large bowl.",
+            "Beat eggs with milk in a separate bowl.",
+            "Stir egg mixture into flour mixture until moistened; batter will be very thick.",
+            "Fold in raisins until thoroughly combined.",
+            "Spread batter into prepared cast iron skillet.",
+            "Bake in the preheated oven until bread has risen and is golden brown on top, about 1 hour."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "½ white sugar",
+            "⅔ baking powder",
+            "eggs",
+            "milk",
+            "raisins"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 36,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Liquor-Infused Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "I always thought Irish soda bread was very good, but just missing something. But missing what? Bailey's® Irish Cream!",
+        "ingredients": [
+            "cooking spray"
+        ],
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet with cooking spray.",
+            "Mix flour, sugar, baking powder, baking soda, and salt together in a large bowl; add softened butter and mix until evenly moistened.",
+            "Make a well in the center of the flour mixture. Pour 1 cup buttermilk, egg, and 1/4 cup Irish cream liqueur into the well; add raisins to the buttermilk mixture. Knead mixture until raisins are spread throughout the dough. Form dough into a disk and cut an 'X' into the top of the dough; place onto prepared baking sheet and set aside.",
+            "Melt butter in a small saucepan over medium-low heat. Stir 1/4 cup buttermilk and 1/4 cup Irish cream liqueur into the melted butter until smooth; remove from heat and generously brush liquid over the dough.",
+            "Bake in preheated oven, brushing liquid onto loaf every 15 minutes, until no longer doughy in the center, about 45 minutes. Let bread cool on pan for 10 minutes before moving to a cooking rack to cool completely."
+        ],
+        "num_ingredients": 1,
+        "num_steps": 5,
+        "ingredient_text": "cooking spray",
+        "directions_text": "preheat oven to 375 degrees f (190 degrees c). grease a baking sheet with cooking spray. mix flour, sugar, baking powder, baking soda, and salt together in a large bowl; add softened butter and mix until evenly moistened. make a well in the center of the flour mixture. pour 1 cup buttermilk, egg, and 1/4 cup irish cream liqueur into the well; add raisins to the buttermilk mixture. knead mixture until raisins are spread throughout the dough. form dough into a disk and cut an 'x' into the top of the dough; place onto prepared baking sheet and set aside. melt butter in a small saucepan over medium-low heat. stir 1/4 cup buttermilk and 1/4 cup irish cream liqueur into the melted butter until smooth; remove from heat and generously brush liquid over the dough. bake in preheated oven, brushing liquid onto loaf every 15 minutes, until no longer doughy in the center, about 45 minutes. let bread cool on pan for 10 minutes before moving to a cooking rack to cool completely.",
+        "combined_text": "liquor-infused irish soda bread irish soda bread irish soda bread cooking spray preheat oven to 375 degrees f (190 degrees c). grease a baking sheet with cooking spray. mix flour, sugar, baking powder, baking soda, and salt together in a large bowl; add softened butter and mix until evenly moistened. make a well in the center of the flour mixture. pour 1 cup buttermilk, egg, and 1/4 cup irish cream liqueur into the well; add raisins to the buttermilk mixture. knead mixture until raisins are spread throughout the dough. form dough into a disk and cut an 'x' into the top of the dough; place onto prepared baking sheet and set aside. melt butter in a small saucepan over medium-low heat. stir 1/4 cup buttermilk and 1/4 cup irish cream liqueur into the melted butter until smooth; remove from heat and generously brush liquid over the dough. bake in preheated oven, brushing liquid onto loaf every 15 minutes, until no longer doughy in the center, about 45 minutes. let bread cool on pan for 10 minutes before moving to a cooking rack to cool completely.",
+        "ingredients_raw": [
+            "cooking spray"
+        ],
+        "directions_raw": [
+            "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet with cooking spray.",
+            "Mix flour, sugar, baking powder, baking soda, and salt together in a large bowl; add softened butter and mix until evenly moistened.",
+            "Make a well in the center of the flour mixture. Pour 1 cup buttermilk, egg, and 1/4 cup Irish cream liqueur into the well; add raisins to the buttermilk mixture. Knead mixture until raisins are spread throughout the dough. Form dough into a disk and cut an 'X' into the top of the dough; place onto prepared baking sheet and set aside.",
+            "Melt butter in a small saucepan over medium-low heat. Stir 1/4 cup buttermilk and 1/4 cup Irish cream liqueur into the melted butter until smooth; remove from heat and generously brush liquid over the dough.",
+            "Bake in preheated oven, brushing liquid onto loaf every 15 minutes, until no longer doughy in the center, about 45 minutes. Let bread cool on pan for 10 minutes before moving to a cooking rack to cool completely."
+        ],
+        "ingredients_canonical": [
+            "cooking spray"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 64,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Irish Soda Bread with Buttermilk",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "There's no excuse not to whip up a crusty loaf of Irish soda bread this St. Patrick's Day, especially when it's part-whole wheat and packed with oats! One of the best quick breads out there, soda bread is so easy that the hardest part is waiting for it to cool before serving it with salted Irish butter. I've also included a few variations you can try out!",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 cups whole wheat pastry flour",
+            "¾ cup rolled oats",
+            "2 tablespoons white sugar",
+            "1 ½ tablespoons baking powder",
+            "¾ teaspoon baking soda",
+            "2 teaspoons kosher salt",
+            "2 cups buttermilk",
+            "6 tablespoons unsalted butter, melted"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (191 degrees C). Line a cookie sheet with parchment paper.",
+            "Mix flours, rolled oats, sugar, baking powder, baking soda, and salt in a medium bowl. Mix buttermilk and melted butter together in a small bowl.",
+            "Make a small well in the flour mixture and pour in the buttermilk-butter mixture. Stir together with a wooden spoon until well combined.",
+            "Turn the dough out on a generously floured surface and knead into a smooth, round loaf. Place on the cookie sheet and cut a shallow X into the top of the dough.",
+            "Bake in the preheated oven until top is golden brown, about 1 hour. Carefully tap the bottom of the loaf; it should sound hollow. Cool on a baking rack for at least 30 minutes before slicing."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "all-purpose flour whole wheat pastry flour ¾ rolled oats white sugar ½ baking powder ¾ baking soda kosher salt buttermilk unsalted butter melted",
+        "directions_text": "preheat the oven to 375 degrees f (191 degrees c). line a cookie sheet with parchment paper. mix flours, rolled oats, sugar, baking powder, baking soda, and salt in a medium bowl. mix buttermilk and melted butter together in a small bowl. make a small well in the flour mixture and pour in the buttermilk-butter mixture. stir together with a wooden spoon until well combined. turn the dough out on a generously floured surface and knead into a smooth, round loaf. place on the cookie sheet and cut a shallow x into the top of the dough. bake in the preheated oven until top is golden brown, about 1 hour. carefully tap the bottom of the loaf; it should sound hollow. cool on a baking rack for at least 30 minutes before slicing.",
+        "combined_text": "irish soda bread with buttermilk irish soda bread irish soda bread 2 cups all-purpose flour 2 cups whole wheat pastry flour ¾ cup rolled oats 2 tablespoons white sugar 1 ½ tablespoons baking powder ¾ teaspoon baking soda 2 teaspoons kosher salt 2 cups buttermilk 6 tablespoons unsalted butter, melted preheat the oven to 375 degrees f (191 degrees c). line a cookie sheet with parchment paper. mix flours, rolled oats, sugar, baking powder, baking soda, and salt in a medium bowl. mix buttermilk and melted butter together in a small bowl. make a small well in the flour mixture and pour in the buttermilk-butter mixture. stir together with a wooden spoon until well combined. turn the dough out on a generously floured surface and knead into a smooth, round loaf. place on the cookie sheet and cut a shallow x into the top of the dough. bake in the preheated oven until top is golden brown, about 1 hour. carefully tap the bottom of the loaf; it should sound hollow. cool on a baking rack for at least 30 minutes before slicing.",
+        "ingredients_raw": [
+            "2 cups all-purpose flour",
+            "2 cups whole wheat pastry flour",
+            "¾ cup rolled oats",
+            "2 tablespoons white sugar",
+            "1 ½ tablespoons baking powder",
+            "¾ teaspoon baking soda",
+            "2 teaspoons kosher salt",
+            "2 cups buttermilk",
+            "6 tablespoons unsalted butter, melted"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (191 degrees C). Line a cookie sheet with parchment paper.",
+            "Mix flours, rolled oats, sugar, baking powder, baking soda, and salt in a medium bowl. Mix buttermilk and melted butter together in a small bowl.",
+            "Make a small well in the flour mixture and pour in the buttermilk-butter mixture. Stir together with a wooden spoon until well combined.",
+            "Turn the dough out on a generously floured surface and knead into a smooth, round loaf. Place on the cookie sheet and cut a shallow X into the top of the dough.",
+            "Bake in the preheated oven until top is golden brown, about 1 hour. Carefully tap the bottom of the loaf; it should sound hollow. Cool on a baking rack for at least 30 minutes before slicing."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "whole wheat pastry flour",
+            "¾ rolled oats",
+            "white sugar",
+            "½ baking powder",
+            "¾ baking soda",
+            "kosher salt",
+            "buttermilk",
+            "unsalted butter melted"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Basic Irish Soda Bread With Cheese",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This is the most simple Irish Soda Bread recipe I've ever used. I learned it from an old Irish gentleman years ago, and it's been my favorite ever since. You can make it simply, and without the cheese, or add the cheese. With or without it, this recipe is great served with soups!",
+        "ingredients": [
+            "2 eggs, beaten",
+            "⅓ cup grated Parmesan cheese",
+            "2 cups all-purpose flour",
+            "½ teaspoon salt",
+            "½ teaspoon baking soda",
+            "1 cup milk, or as needed"
+        ],
+        "directions": [
+            "Preheat an oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper. Beat eggs in a bowl and set aside. Place the Parmesan cheese into a shallow bowl.",
+            "In a bowl, mix the flour, salt, and baking soda until well combined. Add in milk, several tablespoons at a time, until the mixture forms a soft dough. Turn the dough out onto a well-floured work surface, and knead several times until the dough comes together.",
+            "Roll the dough out into a rectangle about 1/2 inch thick, and cut into 2x3-inch squares. Brush each square with beaten egg, and dip the top of the square into the Parmesan cheese. Place the squares onto the prepared baking sheet.",
+            "Bake in the preheated oven until the squares are lightly browned, about 10 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "eggs beaten ⅓ grated parmesan cheese all-purpose flour ½ salt ½ baking soda milk as needed",
+        "directions_text": "preheat an oven to 400 degrees f (200 degrees c). line a baking sheet with parchment paper. beat eggs in a bowl and set aside. place the parmesan cheese into a shallow bowl. in a bowl, mix the flour, salt, and baking soda until well combined. add in milk, several tablespoons at a time, until the mixture forms a soft dough. turn the dough out onto a well-floured work surface, and knead several times until the dough comes together. roll the dough out into a rectangle about 1/2 inch thick, and cut into 2x3-inch squares. brush each square with beaten egg, and dip the top of the square into the parmesan cheese. place the squares onto the prepared baking sheet. bake in the preheated oven until the squares are lightly browned, about 10 minutes.",
+        "combined_text": "basic irish soda bread with cheese irish soda bread irish soda bread 2 eggs, beaten ⅓ cup grated parmesan cheese 2 cups all-purpose flour ½ teaspoon salt ½ teaspoon baking soda 1 cup milk, or as needed preheat an oven to 400 degrees f (200 degrees c). line a baking sheet with parchment paper. beat eggs in a bowl and set aside. place the parmesan cheese into a shallow bowl. in a bowl, mix the flour, salt, and baking soda until well combined. add in milk, several tablespoons at a time, until the mixture forms a soft dough. turn the dough out onto a well-floured work surface, and knead several times until the dough comes together. roll the dough out into a rectangle about 1/2 inch thick, and cut into 2x3-inch squares. brush each square with beaten egg, and dip the top of the square into the parmesan cheese. place the squares onto the prepared baking sheet. bake in the preheated oven until the squares are lightly browned, about 10 minutes.",
+        "ingredients_raw": [
+            "2 eggs, beaten",
+            "⅓ cup grated Parmesan cheese",
+            "2 cups all-purpose flour",
+            "½ teaspoon salt",
+            "½ teaspoon baking soda",
+            "1 cup milk, or as needed"
+        ],
+        "directions_raw": [
+            "Preheat an oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper. Beat eggs in a bowl and set aside. Place the Parmesan cheese into a shallow bowl.",
+            "In a bowl, mix the flour, salt, and baking soda until well combined. Add in milk, several tablespoons at a time, until the mixture forms a soft dough. Turn the dough out onto a well-floured work surface, and knead several times until the dough comes together.",
+            "Roll the dough out into a rectangle about 1/2 inch thick, and cut into 2x3-inch squares. Brush each square with beaten egg, and dip the top of the square into the Parmesan cheese. Place the squares onto the prepared baking sheet.",
+            "Bake in the preheated oven until the squares are lightly browned, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "eggs beaten",
+            "⅓ grated parmesan cheese",
+            "all-purpose flour",
+            "½ salt",
+            "½ baking soda",
+            "milk as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "italian"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 51,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "O'Kee's Irish Soda Oatmeal Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This bread is delicious. Plan ahead 12 hours!",
+        "ingredients": [
+            "1 cup regular rolled oats",
+            "2 cups buttermilk",
+            "3 tablespoons dark molasses",
+            "3 cups whole wheat flour",
+            "1 cup all-purpose flour, plus extra for dusting",
+            "1 ½ teaspoons salt",
+            "1 ½ teaspoons baking soda",
+            "1 teaspoon cream of tartar"
+        ],
+        "directions": [
+            "Mix rolled oats, buttermilk, and molasses in a large bowl until thoroughly combined.",
+            "Whisk together whole wheat flour, all-purpose flour, salt, baking soda, and cream of tartar until combined; pour flour mixture into buttermilk mixture and stir just until moistened.",
+            "Turn dough out onto a lightly-floured work surface and knead 3 or 4 times until dough holds its shape.",
+            "Cut dough in half; pat each half into a 6-inch round loaf.",
+            "Use a sharp knife to deeply score each loaf in quarters, cutting 1-inch deep.",
+            "Wrap each loaf in plastic wrap and allow to stand at least 12 hours at room temperature to ferment. (Loaves can be refrigerated up to 2 more days after this, if desired.)",
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Place loaves on an ungreased baking sheet.",
+            "Bake loaves for 15 minutes and reduce heat to 350 degrees F (175 degrees C). Continue to bake until loaves are browned and make a hollow sound when tapped on the bottom, about 20 more minutes.",
+            "Allow breads to cool for 10 minutes before slicing. To serve, slice loaves 3/4-inch thick all across the loaf, then cut slices in half."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 10,
+        "ingredient_text": "regular rolled oats buttermilk dark molasses whole wheat flour all-purpose flour plus extra for dusting ½ salt ½ baking soda cream tartar",
+        "directions_text": "mix rolled oats, buttermilk, and molasses in a large bowl until thoroughly combined. whisk together whole wheat flour, all-purpose flour, salt, baking soda, and cream of tartar until combined; pour flour mixture into buttermilk mixture and stir just until moistened. turn dough out onto a lightly-floured work surface and knead 3 or 4 times until dough holds its shape. cut dough in half; pat each half into a 6-inch round loaf. use a sharp knife to deeply score each loaf in quarters, cutting 1-inch deep. wrap each loaf in plastic wrap and allow to stand at least 12 hours at room temperature to ferment. (loaves can be refrigerated up to 2 more days after this, if desired.) preheat oven to 400 degrees f (200 degrees c). place loaves on an ungreased baking sheet. bake loaves for 15 minutes and reduce heat to 350 degrees f (175 degrees c). continue to bake until loaves are browned and make a hollow sound when tapped on the bottom, about 20 more minutes. allow breads to cool for 10 minutes before slicing. to serve, slice loaves 3/4-inch thick all across the loaf, then cut slices in half.",
+        "combined_text": "o'kee's irish soda oatmeal bread irish soda bread irish soda bread 1 cup regular rolled oats 2 cups buttermilk 3 tablespoons dark molasses 3 cups whole wheat flour 1 cup all-purpose flour, plus extra for dusting 1 ½ teaspoons salt 1 ½ teaspoons baking soda 1 teaspoon cream of tartar mix rolled oats, buttermilk, and molasses in a large bowl until thoroughly combined. whisk together whole wheat flour, all-purpose flour, salt, baking soda, and cream of tartar until combined; pour flour mixture into buttermilk mixture and stir just until moistened. turn dough out onto a lightly-floured work surface and knead 3 or 4 times until dough holds its shape. cut dough in half; pat each half into a 6-inch round loaf. use a sharp knife to deeply score each loaf in quarters, cutting 1-inch deep. wrap each loaf in plastic wrap and allow to stand at least 12 hours at room temperature to ferment. (loaves can be refrigerated up to 2 more days after this, if desired.) preheat oven to 400 degrees f (200 degrees c). place loaves on an ungreased baking sheet. bake loaves for 15 minutes and reduce heat to 350 degrees f (175 degrees c). continue to bake until loaves are browned and make a hollow sound when tapped on the bottom, about 20 more minutes. allow breads to cool for 10 minutes before slicing. to serve, slice loaves 3/4-inch thick all across the loaf, then cut slices in half.",
+        "ingredients_raw": [
+            "1 cup regular rolled oats",
+            "2 cups buttermilk",
+            "3 tablespoons dark molasses",
+            "3 cups whole wheat flour",
+            "1 cup all-purpose flour, plus extra for dusting",
+            "1 ½ teaspoons salt",
+            "1 ½ teaspoons baking soda",
+            "1 teaspoon cream of tartar"
+        ],
+        "directions_raw": [
+            "Mix rolled oats, buttermilk, and molasses in a large bowl until thoroughly combined.",
+            "Whisk together whole wheat flour, all-purpose flour, salt, baking soda, and cream of tartar until combined; pour flour mixture into buttermilk mixture and stir just until moistened.",
+            "Turn dough out onto a lightly-floured work surface and knead 3 or 4 times until dough holds its shape.",
+            "Cut dough in half; pat each half into a 6-inch round loaf.",
+            "Use a sharp knife to deeply score each loaf in quarters, cutting 1-inch deep.",
+            "Wrap each loaf in plastic wrap and allow to stand at least 12 hours at room temperature to ferment. (Loaves can be refrigerated up to 2 more days after this, if desired.)",
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Place loaves on an ungreased baking sheet.",
+            "Bake loaves for 15 minutes and reduce heat to 350 degrees F (175 degrees C). Continue to bake until loaves are browned and make a hollow sound when tapped on the bottom, about 20 more minutes.",
+            "Allow breads to cool for 10 minutes before slicing. To serve, slice loaves 3/4-inch thick all across the loaf, then cut slices in half."
+        ],
+        "ingredients_canonical": [
+            "regular rolled oats",
+            "buttermilk",
+            "dark molasses",
+            "whole wheat flour",
+            "all-purpose flour plus extra for dusting",
+            "½ salt",
+            "½ baking soda",
+            "cream tartar"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "main",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 6,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 122,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "whole_grains",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "McNamara's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "A recipe handed down by my grandmother Anna Marie McNamara (nee Player). This is a great recipe for a light tea dessert bread. Delicious with light butter hot out of the oven. You can use any type of milk. I usually make this bread when my milk is about to go sour. I like to use raw crystallized sugar in place of the white granulated sugar. My father likes to use buttermilk.",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "½ teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "9 tablespoons white sugar",
+            "½ teaspoon salt",
+            "3 ½ tablespoons butter, softened",
+            "½ cup milk",
+            "2 eggs",
+            "½ cup raisins",
+            "1 tablespoon white sugar"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Grease an 8 1/2x4 1/2-inch loaf pan.",
+            "Mix flour, baking powder, baking soda, 9 tablespoons sugar, and salt in the mixing bowl of a large stand mixer on low speed until combined.",
+            "Mix in butter until thoroughly combined.",
+            "Beat in milk, then eggs, then raisins, incorporating each ingredient well before adding the next.",
+            "Transfer dough to the prepared loaf pan and sprinkle with 1 tablespoon sugar.",
+            "Bake in the preheated oven until bread has risen and the top is golden brown, about 45 minutes. A toothpick or cake tester inserted into the center should come out clean.",
+            "Cool for about 10 minutes before slicing. Best served warm."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 8,
+        "ingredient_text": "½ all-purpose flour ½ baking powder baking soda white sugar ½ salt ½ butter softened ½ milk eggs ½ raisins white sugar",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). grease an 8 1/2x4 1/2-inch loaf pan. mix flour, baking powder, baking soda, 9 tablespoons sugar, and salt in the mixing bowl of a large stand mixer on low speed until combined. mix in butter until thoroughly combined. beat in milk, then eggs, then raisins, incorporating each ingredient well before adding the next. transfer dough to the prepared loaf pan and sprinkle with 1 tablespoon sugar. bake in the preheated oven until bread has risen and the top is golden brown, about 45 minutes. a toothpick or cake tester inserted into the center should come out clean. cool for about 10 minutes before slicing. best served warm.",
+        "combined_text": "mcnamara's irish soda bread irish soda bread irish soda bread 2 ½ cups all-purpose flour ½ teaspoon baking powder 1 teaspoon baking soda 9 tablespoons white sugar ½ teaspoon salt 3 ½ tablespoons butter, softened ½ cup milk 2 eggs ½ cup raisins 1 tablespoon white sugar preheat oven to 350 degrees f (175 degrees c). grease an 8 1/2x4 1/2-inch loaf pan. mix flour, baking powder, baking soda, 9 tablespoons sugar, and salt in the mixing bowl of a large stand mixer on low speed until combined. mix in butter until thoroughly combined. beat in milk, then eggs, then raisins, incorporating each ingredient well before adding the next. transfer dough to the prepared loaf pan and sprinkle with 1 tablespoon sugar. bake in the preheated oven until bread has risen and the top is golden brown, about 45 minutes. a toothpick or cake tester inserted into the center should come out clean. cool for about 10 minutes before slicing. best served warm.",
+        "ingredients_raw": [
+            "2 ½ cups all-purpose flour",
+            "½ teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "9 tablespoons white sugar",
+            "½ teaspoon salt",
+            "3 ½ tablespoons butter, softened",
+            "½ cup milk",
+            "2 eggs",
+            "½ cup raisins",
+            "1 tablespoon white sugar"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Grease an 8 1/2x4 1/2-inch loaf pan.",
+            "Mix flour, baking powder, baking soda, 9 tablespoons sugar, and salt in the mixing bowl of a large stand mixer on low speed until combined.",
+            "Mix in butter until thoroughly combined.",
+            "Beat in milk, then eggs, then raisins, incorporating each ingredient well before adding the next.",
+            "Transfer dough to the prepared loaf pan and sprinkle with 1 tablespoon sugar.",
+            "Bake in the preheated oven until bread has risen and the top is golden brown, about 45 minutes. A toothpick or cake tester inserted into the center should come out clean.",
+            "Cool for about 10 minutes before slicing. Best served warm."
+        ],
+        "ingredients_canonical": [
+            "½ all-purpose flour",
+            "½ baking powder",
+            "baking soda",
+            "white sugar",
+            "½ salt",
+            "½ butter softened",
+            "½ milk",
+            "eggs",
+            "½ raisins",
+            "white sugar"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main",
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 41,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Aunt Kathy's Irish Soda Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "My aunt's Irish soda bread which we all loved. Family from the County Cork.",
+        "ingredients": [
+            "4 cups all-purpose flour",
+            "1 cup white sugar",
+            "1 cup raisins",
+            "2 tablespoons caraway seeds",
+            "1 tablespoon baking powder",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "2 eggs, beaten",
+            "1 cup buttermilk",
+            "¾ cup milk"
+        ],
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C). Grease and flour a heavy pan.",
+            "Mix flour, sugar, raisins, caraway seeds, baking powder, baking soda, and salt in a large bowl. Add eggs, buttermilk, and milk to the flour mixture; stir until evenly incorporated. Transfer dough to the prepared pan.",
+            "Bake in preheated oven until when the bread is tapped on top it sounds hollow, about 75 minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour white sugar raisins caraway seeds baking powder ½ baking soda ½ salt eggs beaten buttermilk ¾ milk",
+        "directions_text": "preheat oven to 375 degrees f (190 degrees c). grease and flour a heavy pan. mix flour, sugar, raisins, caraway seeds, baking powder, baking soda, and salt in a large bowl. add eggs, buttermilk, and milk to the flour mixture; stir until evenly incorporated. transfer dough to the prepared pan. bake in preheated oven until when the bread is tapped on top it sounds hollow, about 75 minutes.",
+        "combined_text": "aunt kathy's irish soda bread irish soda bread irish soda bread 4 cups all-purpose flour 1 cup white sugar 1 cup raisins 2 tablespoons caraway seeds 1 tablespoon baking powder ½ teaspoon baking soda ½ teaspoon salt 2 eggs, beaten 1 cup buttermilk ¾ cup milk preheat oven to 375 degrees f (190 degrees c). grease and flour a heavy pan. mix flour, sugar, raisins, caraway seeds, baking powder, baking soda, and salt in a large bowl. add eggs, buttermilk, and milk to the flour mixture; stir until evenly incorporated. transfer dough to the prepared pan. bake in preheated oven until when the bread is tapped on top it sounds hollow, about 75 minutes.",
+        "ingredients_raw": [
+            "4 cups all-purpose flour",
+            "1 cup white sugar",
+            "1 cup raisins",
+            "2 tablespoons caraway seeds",
+            "1 tablespoon baking powder",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "2 eggs, beaten",
+            "1 cup buttermilk",
+            "¾ cup milk"
+        ],
+        "directions_raw": [
+            "Preheat oven to 375 degrees F (190 degrees C). Grease and flour a heavy pan.",
+            "Mix flour, sugar, raisins, caraway seeds, baking powder, baking soda, and salt in a large bowl. Add eggs, buttermilk, and milk to the flour mixture; stir until evenly incorporated. Transfer dough to the prepared pan.",
+            "Bake in preheated oven until when the bread is tapped on top it sounds hollow, about 75 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "white sugar",
+            "raisins",
+            "caraway seeds",
+            "baking powder",
+            "½ baking soda",
+            "½ salt",
+            "eggs beaten",
+            "buttermilk",
+            "¾ milk"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Auntie Mae's Irish Bread",
+        "category": "Irish Soda Bread",
+        "subcategory": "Irish Soda Bread",
+        "description": "This recipe has been handed down in my family for over 150 years. We haven't changed a thing!",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "1 ¼ cups milk, or more as needed",
+            "1 cup raisins",
+            "¾ cup white sugar",
+            "2 tablespoons caraway seeds (Optional)",
+            "1 tablespoon vegetable oil",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "¼ teaspoon salt"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch round glass baking dish.",
+            "Mix flour, milk, raisins, sugar, caraway seeds, vegetable oil, baking powder, baking soda, and salt together in a bowl until dough is not wet enough to pour and not dry enough to handle. Add more milk if dough is too dry. Transfer dough to the baking dish.",
+            "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 50 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour ¼ milk more as needed raisins ¾ white sugar caraway seeds optional vegetable oil baking powder baking soda ¼ salt",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). grease an 8-inch round glass baking dish. mix flour, milk, raisins, sugar, caraway seeds, vegetable oil, baking powder, baking soda, and salt together in a bowl until dough is not wet enough to pour and not dry enough to handle. add more milk if dough is too dry. transfer dough to the baking dish. bake in the preheated oven until a toothpick inserted in the center comes out clean, about 50 minutes.",
+        "combined_text": "auntie mae's irish bread irish soda bread irish soda bread 3 cups all-purpose flour 1 ¼ cups milk, or more as needed 1 cup raisins ¾ cup white sugar 2 tablespoons caraway seeds (optional) 1 tablespoon vegetable oil 2 teaspoons baking powder 1 teaspoon baking soda ¼ teaspoon salt preheat oven to 350 degrees f (175 degrees c). grease an 8-inch round glass baking dish. mix flour, milk, raisins, sugar, caraway seeds, vegetable oil, baking powder, baking soda, and salt together in a bowl until dough is not wet enough to pour and not dry enough to handle. add more milk if dough is too dry. transfer dough to the baking dish. bake in the preheated oven until a toothpick inserted in the center comes out clean, about 50 minutes.",
+        "ingredients_raw": [
+            "3 cups all-purpose flour",
+            "1 ¼ cups milk, or more as needed",
+            "1 cup raisins",
+            "¾ cup white sugar",
+            "2 tablespoons caraway seeds (Optional)",
+            "1 tablespoon vegetable oil",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "¼ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease an 8-inch round glass baking dish.",
+            "Mix flour, milk, raisins, sugar, caraway seeds, vegetable oil, baking powder, baking soda, and salt together in a bowl until dough is not wet enough to pour and not dry enough to handle. Add more milk if dough is too dry. Transfer dough to the baking dish.",
+            "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 50 minutes."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "¼ milk more as needed",
+            "raisins",
+            "¾ white sugar",
+            "caraway seeds optional",
+            "vegetable oil",
+            "baking powder",
+            "baking soda",
+            "¼ salt"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

@@ -1,0 +1,3575 @@
+[
+    {
+        "recipe_title": "Traditional Mexican Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This guacamole recipe is great! Whether or not you want it spicy, this guacamole is a dip to die for.",
+        "ingredients": [
+            "2 avocados, peeled and pitted",
+            "1 cup chopped tomatoes",
+            "¼ cup chopped onion",
+            "¼ cup chopped cilantro",
+            "2 tablespoons lemon juice",
+            "1 jalapeno pepper, seeded and minced (Optional)",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Mash avocados in a bowl until creamy.",
+            "Mix tomatoes, onion, cilantro, lemon juice, and jalapeño pepper into mashed avocado until well combined. Season with salt and pepper."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "avocados peeled pitted chopped tomatoes ¼ chopped onion ¼ chopped cilantro lemon juice jalapeno pepper seeded minced optional salt ground black pepper taste",
+        "directions_text": "mash avocados in a bowl until creamy. mix tomatoes, onion, cilantro, lemon juice, and jalapeño pepper into mashed avocado until well combined. season with salt and pepper.",
+        "combined_text": "traditional mexican guacamole guacamole guacamole 2 avocados, peeled and pitted 1 cup chopped tomatoes ¼ cup chopped onion ¼ cup chopped cilantro 2 tablespoons lemon juice 1 jalapeno pepper, seeded and minced (optional) salt and ground black pepper to taste mash avocados in a bowl until creamy. mix tomatoes, onion, cilantro, lemon juice, and jalapeño pepper into mashed avocado until well combined. season with salt and pepper.",
+        "ingredients_raw": [
+            "2 avocados, peeled and pitted",
+            "1 cup chopped tomatoes",
+            "¼ cup chopped onion",
+            "¼ cup chopped cilantro",
+            "2 tablespoons lemon juice",
+            "1 jalapeno pepper, seeded and minced (Optional)",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Mash avocados in a bowl until creamy.",
+            "Mix tomatoes, onion, cilantro, lemon juice, and jalapeño pepper into mashed avocado until well combined. Season with salt and pepper."
+        ],
+        "ingredients_canonical": [
+            "avocados peeled pitted",
+            "chopped tomatoes",
+            "¼ chopped onion",
+            "¼ chopped cilantro",
+            "lemon juice",
+            "jalapeno pepper seeded minced optional",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Best Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "The real trick to a great guacamole recipe is to use good avocados. Make sure your avocados are ripe and of the Hass variety! Serve this dip with corn chips or an array of fresh vegetables.",
+        "ingredients": [
+            "2 avocados",
+            "½ lemon, juiced",
+            "2 tablespoons chopped onion",
+            "2 tablespoons olive oil",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Cut avocados into halves. Remove seeds and scoop out the pulp into a small bowl. Use a fork to mash the avocado.",
+            "Stir in lemon juice, onion, olive oil, and salt. Cover the bowl and refrigerate for 1 hour before serving."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "avocados ½ lemon juiced chopped onion olive oil ½ salt",
+        "directions_text": "cut avocados into halves. remove seeds and scoop out the pulp into a small bowl. use a fork to mash the avocado. stir in lemon juice, onion, olive oil, and salt. cover the bowl and refrigerate for 1 hour before serving.",
+        "combined_text": "best guacamole guacamole guacamole 2 avocados ½ lemon, juiced 2 tablespoons chopped onion 2 tablespoons olive oil ½ teaspoon salt cut avocados into halves. remove seeds and scoop out the pulp into a small bowl. use a fork to mash the avocado. stir in lemon juice, onion, olive oil, and salt. cover the bowl and refrigerate for 1 hour before serving.",
+        "ingredients_raw": [
+            "2 avocados",
+            "½ lemon, juiced",
+            "2 tablespoons chopped onion",
+            "2 tablespoons olive oil",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Cut avocados into halves. Remove seeds and scoop out the pulp into a small bowl. Use a fork to mash the avocado.",
+            "Stir in lemon juice, onion, olive oil, and salt. Cover the bowl and refrigerate for 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "avocados",
+            "½ lemon juiced",
+            "chopped onion",
+            "olive oil",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Easy Never Forgotten Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This guacamole has been a hit at our house for years. Great for the Superbowl or any occasion. Sour cream and cream cheese make the guac extra creamy. Spice it up with crushed red pepper.",
+        "ingredients": [
+            "3 avocados - peeled, pitted and diced",
+            "1 tablespoon sour cream",
+            "2 (3 ounce) packages cream cheese, softened",
+            "2 tablespoons salsa",
+            "1 pinch salt",
+            "1 dash ground black pepper",
+            "1 dash garlic salt",
+            "1 dash onion powder"
+        ],
+        "directions": [
+            "In a small bowl, mix together the avocados, sour cream, cream cheese and salsa. Blend to desired consistency.",
+            "In a small bowl mix the salt, pepper, garlic salt and onion powder. Stir into the avocado mixture. Cover and chill in the refrigerator 1/2 hour before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "avocados - peeled pitted diced sour cream ounce packages cream cheese softened salsa pinch salt dash ground black pepper dash garlic salt dash onion powder",
+        "directions_text": "in a small bowl, mix together the avocados, sour cream, cream cheese and salsa. blend to desired consistency. in a small bowl mix the salt, pepper, garlic salt and onion powder. stir into the avocado mixture. cover and chill in the refrigerator 1/2 hour before serving.",
+        "combined_text": "easy never forgotten guacamole guacamole guacamole 3 avocados - peeled, pitted and diced 1 tablespoon sour cream 2 (3 ounce) packages cream cheese, softened 2 tablespoons salsa 1 pinch salt 1 dash ground black pepper 1 dash garlic salt 1 dash onion powder in a small bowl, mix together the avocados, sour cream, cream cheese and salsa. blend to desired consistency. in a small bowl mix the salt, pepper, garlic salt and onion powder. stir into the avocado mixture. cover and chill in the refrigerator 1/2 hour before serving.",
+        "ingredients_raw": [
+            "3 avocados - peeled, pitted and diced",
+            "1 tablespoon sour cream",
+            "2 (3 ounce) packages cream cheese, softened",
+            "2 tablespoons salsa",
+            "1 pinch salt",
+            "1 dash ground black pepper",
+            "1 dash garlic salt",
+            "1 dash onion powder"
+        ],
+        "directions_raw": [
+            "In a small bowl, mix together the avocados, sour cream, cream cheese and salsa. Blend to desired consistency.",
+            "In a small bowl mix the salt, pepper, garlic salt and onion powder. Stir into the avocado mixture. Cover and chill in the refrigerator 1/2 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "avocados - peeled pitted diced",
+            "sour cream",
+            "ounce packages cream cheese softened",
+            "salsa",
+            "pinch salt",
+            "dash ground black pepper",
+            "dash garlic salt",
+            "dash onion powder"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean",
+            "russian"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Quick and Easy Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "I started making guacamole this way after eating at one of my students' moms' restaurants. I loved her guacamole. It's quick and easy, so I tried to recreate it with this recipe.",
+        "ingredients": [
+            "2 avocados, peeled, pitted, and diced",
+            "2 green onions, chopped",
+            "1 tablespoon chopped fresh cilantro",
+            "1 teaspoon seasoned salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon minced garlic",
+            "½ lime, juiced"
+        ],
+        "directions": [
+            "Combine avocados, green onions, cilantro, seasoned salt, black pepper, garlic, and lime juice in a bowl; mash with a spoon or potato masher until mostly smooth with small chunks."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "avocados peeled pitted diced green onions chopped chopped fresh cilantro seasoned salt ground black pepper minced garlic ½ lime juiced",
+        "directions_text": "combine avocados, green onions, cilantro, seasoned salt, black pepper, garlic, and lime juice in a bowl; mash with a spoon or potato masher until mostly smooth with small chunks.",
+        "combined_text": "quick and easy guacamole guacamole guacamole 2 avocados, peeled, pitted, and diced 2 green onions, chopped 1 tablespoon chopped fresh cilantro 1 teaspoon seasoned salt 1 teaspoon ground black pepper 1 teaspoon minced garlic ½ lime, juiced combine avocados, green onions, cilantro, seasoned salt, black pepper, garlic, and lime juice in a bowl; mash with a spoon or potato masher until mostly smooth with small chunks.",
+        "ingredients_raw": [
+            "2 avocados, peeled, pitted, and diced",
+            "2 green onions, chopped",
+            "1 tablespoon chopped fresh cilantro",
+            "1 teaspoon seasoned salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon minced garlic",
+            "½ lime, juiced"
+        ],
+        "directions_raw": [
+            "Combine avocados, green onions, cilantro, seasoned salt, black pepper, garlic, and lime juice in a bowl; mash with a spoon or potato masher until mostly smooth with small chunks."
+        ],
+        "ingredients_canonical": [
+            "avocados peeled pitted diced",
+            "green onions chopped",
+            "chopped fresh cilantro",
+            "seasoned salt",
+            "ground black pepper",
+            "minced garlic",
+            "½ lime juiced"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Chef John's Classic Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "There are few things as easy, healthy, and delicious as this ubiquitous dip. However, unless you're grinding your aromatic vegetation in a molcajete, or against a cutting board, you're really not tasting a classic guacamole. The flavors not only become more intense, but actually change in character. This is just what those bland, fatty, but delectable avocados need. That and a thoughtful seasoning of lime juice, and maybe some more salt.",
+        "ingredients": [
+            "2 tablespoons minced fresh serrano chili",
+            "½ cup chopped fresh cilantro, divided",
+            "¼ cup finely diced white onion",
+            "½ teaspoon kosher salt for grinding vegetables, plus more to taste",
+            "4 large Hass avocados",
+            "1 cup diced ripe tomatoes, drained (Optional)",
+            "1 lime, juiced, or more to taste"
+        ],
+        "directions": [
+            "Place minced peppers, 1/4 cup of the chopped cilantro, and the diced onions on a cutting board. Chop them together into very small pieces. Sprinkle with kosher salt. Using the flat side of the knife blade, smear the mixture to work it into a paste, and chop again to achieve as fine a texture as possible.",
+            "Stem, halve, and pit the avocados. Scoop out flesh and place in a bowl. Add 1/4 cup chopped cilantro, onion and serrano mixture, salt, and fresh lime juice. Mash with a potato masher to desired texture (smooth or chunky), 5 or 6 minutes. Taste and adjust seasonings. If not serving immediately, cover and refrigerate."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "minced fresh serrano chili ½ chopped fresh cilantro divided ¼ finely diced white onion ½ kosher salt for grinding vegetables plus more taste large hass avocados diced ripe tomatoes drained optional lime juiced more taste",
+        "directions_text": "place minced peppers, 1/4 cup of the chopped cilantro, and the diced onions on a cutting board. chop them together into very small pieces. sprinkle with kosher salt. using the flat side of the knife blade, smear the mixture to work it into a paste, and chop again to achieve as fine a texture as possible. stem, halve, and pit the avocados. scoop out flesh and place in a bowl. add 1/4 cup chopped cilantro, onion and serrano mixture, salt, and fresh lime juice. mash with a potato masher to desired texture (smooth or chunky), 5 or 6 minutes. taste and adjust seasonings. if not serving immediately, cover and refrigerate.",
+        "combined_text": "chef john's classic guacamole guacamole guacamole 2 tablespoons minced fresh serrano chili ½ cup chopped fresh cilantro, divided ¼ cup finely diced white onion ½ teaspoon kosher salt for grinding vegetables, plus more to taste 4 large hass avocados 1 cup diced ripe tomatoes, drained (optional) 1 lime, juiced, or more to taste place minced peppers, 1/4 cup of the chopped cilantro, and the diced onions on a cutting board. chop them together into very small pieces. sprinkle with kosher salt. using the flat side of the knife blade, smear the mixture to work it into a paste, and chop again to achieve as fine a texture as possible. stem, halve, and pit the avocados. scoop out flesh and place in a bowl. add 1/4 cup chopped cilantro, onion and serrano mixture, salt, and fresh lime juice. mash with a potato masher to desired texture (smooth or chunky), 5 or 6 minutes. taste and adjust seasonings. if not serving immediately, cover and refrigerate.",
+        "ingredients_raw": [
+            "2 tablespoons minced fresh serrano chili",
+            "½ cup chopped fresh cilantro, divided",
+            "¼ cup finely diced white onion",
+            "½ teaspoon kosher salt for grinding vegetables, plus more to taste",
+            "4 large Hass avocados",
+            "1 cup diced ripe tomatoes, drained (Optional)",
+            "1 lime, juiced, or more to taste"
+        ],
+        "directions_raw": [
+            "Place minced peppers, 1/4 cup of the chopped cilantro, and the diced onions on a cutting board. Chop them together into very small pieces. Sprinkle with kosher salt. Using the flat side of the knife blade, smear the mixture to work it into a paste, and chop again to achieve as fine a texture as possible.",
+            "Stem, halve, and pit the avocados. Scoop out flesh and place in a bowl. Add 1/4 cup chopped cilantro, onion and serrano mixture, salt, and fresh lime juice. Mash with a potato masher to desired texture (smooth or chunky), 5 or 6 minutes. Taste and adjust seasonings. If not serving immediately, cover and refrigerate."
+        ],
+        "ingredients_canonical": [
+            "minced fresh serrano chili",
+            "½ chopped fresh cilantro divided",
+            "¼ finely diced white onion",
+            "½ kosher salt for grinding vegetables plus more taste",
+            "large hass avocados",
+            "diced ripe tomatoes drained optional",
+            "lime juiced more taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "spanish",
+            "thai",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Asparagus Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Guacamole made with spring asparagus instead of avocado.",
+        "ingredients": [
+            "24 spears fresh asparagus, trimmed and coarsely chopped",
+            "½ cup salsa",
+            "1 tablespoon chopped cilantro",
+            "2 cloves garlic",
+            "4 green onions, sliced"
+        ],
+        "directions": [
+            "Place the asparagus in a pot with enough water to cover. Bring to a boil, and cook 5 minutes, until tender but firm. Drain, and rinse with cold water.",
+            "Place the asparagus, salsa, cilantro, garlic, and green onions in a food processor or blender, and process to desired consistency. Refrigerate until chilled before serving."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "spears fresh asparagus trimmed coarsely chopped ½ salsa chopped cilantro cloves garlic green onions sliced",
+        "directions_text": "place the asparagus in a pot with enough water to cover. bring to a boil, and cook 5 minutes, until tender but firm. drain, and rinse with cold water. place the asparagus, salsa, cilantro, garlic, and green onions in a food processor or blender, and process to desired consistency. refrigerate until chilled before serving.",
+        "combined_text": "asparagus guacamole guacamole guacamole 24 spears fresh asparagus, trimmed and coarsely chopped ½ cup salsa 1 tablespoon chopped cilantro 2 cloves garlic 4 green onions, sliced place the asparagus in a pot with enough water to cover. bring to a boil, and cook 5 minutes, until tender but firm. drain, and rinse with cold water. place the asparagus, salsa, cilantro, garlic, and green onions in a food processor or blender, and process to desired consistency. refrigerate until chilled before serving.",
+        "ingredients_raw": [
+            "24 spears fresh asparagus, trimmed and coarsely chopped",
+            "½ cup salsa",
+            "1 tablespoon chopped cilantro",
+            "2 cloves garlic",
+            "4 green onions, sliced"
+        ],
+        "directions_raw": [
+            "Place the asparagus in a pot with enough water to cover. Bring to a boil, and cook 5 minutes, until tender but firm. Drain, and rinse with cold water.",
+            "Place the asparagus, salsa, cilantro, garlic, and green onions in a food processor or blender, and process to desired consistency. Refrigerate until chilled before serving."
+        ],
+        "ingredients_canonical": [
+            "spears fresh asparagus trimmed coarsely chopped",
+            "½ salsa",
+            "chopped cilantro",
+            "cloves garlic",
+            "green onions sliced"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 33,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Avocado-Spinach Dip",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Keep this creamy avocado spinach dip covered and chilled until ready to serve.",
+        "ingredients": [
+            "2 cups fresh spinach",
+            "1 cup diced avocado",
+            "½ cup reduced-fat sour cream",
+            "¼ cup chopped red onion",
+            "1 tablespoon fresh lime juice",
+            "1 tablespoon chopped seeded jalapeno pepper",
+            "1 large garlic clove",
+            "½ teaspoon salt",
+            "⅛ teaspoon ground black pepper",
+            "hot sauce"
+        ],
+        "directions": [
+            "Process spinach, avocado, sour cream, red onion, lime juice, jalapeno pepper, garlic, salt, black pepper, and hot sauce in a food processor until smooth.",
+            "Scrape dip into a serving bowl, cover with plastic wrap, and refrigerate until chilled, at least 1 hour."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "fresh spinach diced avocado ½ reduced-fat sour cream ¼ chopped red onion fresh lime juice chopped seeded jalapeno pepper large garlic clove ½ salt ⅛ ground black pepper hot sauce",
+        "directions_text": "process spinach, avocado, sour cream, red onion, lime juice, jalapeno pepper, garlic, salt, black pepper, and hot sauce in a food processor until smooth. scrape dip into a serving bowl, cover with plastic wrap, and refrigerate until chilled, at least 1 hour.",
+        "combined_text": "avocado-spinach dip guacamole guacamole 2 cups fresh spinach 1 cup diced avocado ½ cup reduced-fat sour cream ¼ cup chopped red onion 1 tablespoon fresh lime juice 1 tablespoon chopped seeded jalapeno pepper 1 large garlic clove ½ teaspoon salt ⅛ teaspoon ground black pepper hot sauce process spinach, avocado, sour cream, red onion, lime juice, jalapeno pepper, garlic, salt, black pepper, and hot sauce in a food processor until smooth. scrape dip into a serving bowl, cover with plastic wrap, and refrigerate until chilled, at least 1 hour.",
+        "ingredients_raw": [
+            "2 cups fresh spinach",
+            "1 cup diced avocado",
+            "½ cup reduced-fat sour cream",
+            "¼ cup chopped red onion",
+            "1 tablespoon fresh lime juice",
+            "1 tablespoon chopped seeded jalapeno pepper",
+            "1 large garlic clove",
+            "½ teaspoon salt",
+            "⅛ teaspoon ground black pepper",
+            "hot sauce"
+        ],
+        "directions_raw": [
+            "Process spinach, avocado, sour cream, red onion, lime juice, jalapeno pepper, garlic, salt, black pepper, and hot sauce in a food processor until smooth.",
+            "Scrape dip into a serving bowl, cover with plastic wrap, and refrigerate until chilled, at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "fresh spinach",
+            "diced avocado",
+            "½ reduced-fat sour cream",
+            "¼ chopped red onion",
+            "fresh lime juice",
+            "chopped seeded jalapeno pepper",
+            "large garlic clove",
+            "½ salt",
+            "⅛ ground black pepper",
+            "hot sauce"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "korean",
+            "russian",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Basic Guacamole Dip",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Simple guacamole dip made with just four ingredients. Serve with tortilla chips.",
+        "ingredients": [
+            "4 medium ripe avocados - peeled, pitted, and mashed",
+            "2 medium tomatoes, diced",
+            "2 tablespoons minced onion",
+            "1 tablespoon lemon juice"
+        ],
+        "directions": [
+            "Mix avocados, tomatoes, onion, and lemon juice together in a bowl until thoroughly combined. Serve immediately. Store any unused dip in the refrigerator."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "medium ripe avocados - peeled pitted mashed medium tomatoes diced minced onion lemon juice",
+        "directions_text": "mix avocados, tomatoes, onion, and lemon juice together in a bowl until thoroughly combined. serve immediately. store any unused dip in the refrigerator.",
+        "combined_text": "basic guacamole dip guacamole guacamole 4 medium ripe avocados - peeled, pitted, and mashed 2 medium tomatoes, diced 2 tablespoons minced onion 1 tablespoon lemon juice mix avocados, tomatoes, onion, and lemon juice together in a bowl until thoroughly combined. serve immediately. store any unused dip in the refrigerator.",
+        "ingredients_raw": [
+            "4 medium ripe avocados - peeled, pitted, and mashed",
+            "2 medium tomatoes, diced",
+            "2 tablespoons minced onion",
+            "1 tablespoon lemon juice"
+        ],
+        "directions_raw": [
+            "Mix avocados, tomatoes, onion, and lemon juice together in a bowl until thoroughly combined. Serve immediately. Store any unused dip in the refrigerator."
+        ],
+        "ingredients_canonical": [
+            "medium ripe avocados - peeled pitted mashed",
+            "medium tomatoes diced",
+            "minced onion",
+            "lemon juice"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "LuvAnn's Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This homemade guacamole recipe is simple and always the first to get eaten at our barbecues. It's perfect to serve with tortilla chips or as a topping for tacos. To prevent browning, leave an avocado seed in the guacamole until ready to serve.",
+        "ingredients": [
+            "2 medium avocados - peeled, pitted and diced",
+            "1 ½ teaspoons salt, or to taste",
+            "1 large tomato, diced",
+            "1 medium onion, diced",
+            "2 medium jalapeño peppers, chopped",
+            "2 tablespoons fresh lime juice",
+            "½ tablespoon chopped fresh cilantro"
+        ],
+        "directions": [
+            "Mash avocados in a medium bowl until desired consistency is reached. Stir in salt. Mix in tomato, onion, jalapeño peppers, lime juice, and cilantro until combined.",
+            "Cover and chill in the refrigerator for at least 30 minutes before serving."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "medium avocados - peeled pitted diced ½ salt taste large tomato diced medium onion diced medium jalapeño peppers chopped fresh lime juice ½ chopped fresh cilantro",
+        "directions_text": "mash avocados in a medium bowl until desired consistency is reached. stir in salt. mix in tomato, onion, jalapeño peppers, lime juice, and cilantro until combined. cover and chill in the refrigerator for at least 30 minutes before serving.",
+        "combined_text": "luvann's guacamole guacamole guacamole 2 medium avocados - peeled, pitted and diced 1 ½ teaspoons salt, or to taste 1 large tomato, diced 1 medium onion, diced 2 medium jalapeño peppers, chopped 2 tablespoons fresh lime juice ½ tablespoon chopped fresh cilantro mash avocados in a medium bowl until desired consistency is reached. stir in salt. mix in tomato, onion, jalapeño peppers, lime juice, and cilantro until combined. cover and chill in the refrigerator for at least 30 minutes before serving.",
+        "ingredients_raw": [
+            "2 medium avocados - peeled, pitted and diced",
+            "1 ½ teaspoons salt, or to taste",
+            "1 large tomato, diced",
+            "1 medium onion, diced",
+            "2 medium jalapeño peppers, chopped",
+            "2 tablespoons fresh lime juice",
+            "½ tablespoon chopped fresh cilantro"
+        ],
+        "directions_raw": [
+            "Mash avocados in a medium bowl until desired consistency is reached. Stir in salt. Mix in tomato, onion, jalapeño peppers, lime juice, and cilantro until combined.",
+            "Cover and chill in the refrigerator for at least 30 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "medium avocados - peeled pitted diced",
+            "½ salt taste",
+            "large tomato diced",
+            "medium onion diced",
+            "medium jalapeño peppers chopped",
+            "fresh lime juice",
+            "½ chopped fresh cilantro"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Savory Mango Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "A twist on traditional guacamole, with a sweet mango tang. Enjoy with chips!",
+        "ingredients": [
+            "3 large avocados, peeled and pitted",
+            "1 small red onion, chopped",
+            "1 mango - peeled, pitted, and chopped",
+            "1 lime, juiced",
+            "1 tablespoon minced garlic",
+            "1 tablespoon salt",
+            "3 tablespoons chopped fresh cilantro"
+        ],
+        "directions": [
+            "Mash avocados in a medium bowl to a lumpy consistency. Mix in onion, mango, lime juice, garlic, salt, and cilantro."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "large avocados peeled pitted small red onion chopped mango - peeled pitted chopped lime juiced minced garlic salt chopped fresh cilantro",
+        "directions_text": "mash avocados in a medium bowl to a lumpy consistency. mix in onion, mango, lime juice, garlic, salt, and cilantro.",
+        "combined_text": "savory mango guacamole guacamole guacamole 3 large avocados, peeled and pitted 1 small red onion, chopped 1 mango - peeled, pitted, and chopped 1 lime, juiced 1 tablespoon minced garlic 1 tablespoon salt 3 tablespoons chopped fresh cilantro mash avocados in a medium bowl to a lumpy consistency. mix in onion, mango, lime juice, garlic, salt, and cilantro.",
+        "ingredients_raw": [
+            "3 large avocados, peeled and pitted",
+            "1 small red onion, chopped",
+            "1 mango - peeled, pitted, and chopped",
+            "1 lime, juiced",
+            "1 tablespoon minced garlic",
+            "1 tablespoon salt",
+            "3 tablespoons chopped fresh cilantro"
+        ],
+        "directions_raw": [
+            "Mash avocados in a medium bowl to a lumpy consistency. Mix in onion, mango, lime juice, garlic, salt, and cilantro."
+        ],
+        "ingredients_canonical": [
+            "large avocados peeled pitted",
+            "small red onion chopped",
+            "mango - peeled pitted chopped",
+            "lime juiced",
+            "minced garlic",
+            "salt",
+            "chopped fresh cilantro"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Daddy's Guacamole Dip",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This recipe for guacamole with cottage cheese is one of my dad's favorite recipes that he handed down to my sisters and me. It's a little different from traditional guacamole dip because of the cottage cheese, but it's very delicious! Serve with chips or vegetables.",
+        "ingredients": [
+            "2 avocados, halved with pits removed",
+            "1 lemon, juiced",
+            "2 cups cottage cheese",
+            "2 tomatoes, diced",
+            "½ cup diced sweet onion",
+            "1 jalapeño pepper, seeded and minced",
+            "½ teaspoon garlic powder",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Scoop avocado flesh out of the skins and place into a medium mixing bowl; discard skins. Add lemon juice to the bowl and mash well. Add cottage cheese, tomatoes, onion, jalapeño, garlic powder, salt, and pepper; stir until combined. Chill for at least 1 hour before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "avocados halved with pits removed lemon juiced cottage cheese tomatoes diced ½ diced sweet onion jalapeño pepper seeded minced ½ garlic powder salt pepper taste",
+        "directions_text": "scoop avocado flesh out of the skins and place into a medium mixing bowl; discard skins. add lemon juice to the bowl and mash well. add cottage cheese, tomatoes, onion, jalapeño, garlic powder, salt, and pepper; stir until combined. chill for at least 1 hour before serving.",
+        "combined_text": "daddy's guacamole dip guacamole guacamole 2 avocados, halved with pits removed 1 lemon, juiced 2 cups cottage cheese 2 tomatoes, diced ½ cup diced sweet onion 1 jalapeño pepper, seeded and minced ½ teaspoon garlic powder salt and pepper to taste scoop avocado flesh out of the skins and place into a medium mixing bowl; discard skins. add lemon juice to the bowl and mash well. add cottage cheese, tomatoes, onion, jalapeño, garlic powder, salt, and pepper; stir until combined. chill for at least 1 hour before serving.",
+        "ingredients_raw": [
+            "2 avocados, halved with pits removed",
+            "1 lemon, juiced",
+            "2 cups cottage cheese",
+            "2 tomatoes, diced",
+            "½ cup diced sweet onion",
+            "1 jalapeño pepper, seeded and minced",
+            "½ teaspoon garlic powder",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Scoop avocado flesh out of the skins and place into a medium mixing bowl; discard skins. Add lemon juice to the bowl and mash well. Add cottage cheese, tomatoes, onion, jalapeño, garlic powder, salt, and pepper; stir until combined. Chill for at least 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "avocados halved with pits removed",
+            "lemon juiced",
+            "cottage cheese",
+            "tomatoes diced",
+            "½ diced sweet onion",
+            "jalapeño pepper seeded minced",
+            "½ garlic powder",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 94,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Fresh Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This guacamole recipe is fresh, green, and a little zesty.",
+        "ingredients": [
+            "1 avocado, peeled, pitted, and diced",
+            "1 Roma (plum) tomato, diced",
+            "½ red onion, diced",
+            "1 serrano chile pepper, seeded and minced",
+            "6 cilantro leaves, minced",
+            "1 teaspoon Worcestershire sauce",
+            "½ teaspoon kosher salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon garlic powder",
+            "3 drops hot sauce",
+            "1 tablespoon fresh lime juice"
+        ],
+        "directions": [
+            "Combine avocado, tomato, onion, serrano, cilantro, Worcestershire sauce, salt, black pepper, garlic powder, and hot sauce in a bowl; pour lime juice over top. Serve immediately."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 1,
+        "ingredient_text": "avocado peeled pitted diced roma plum tomato diced ½ red onion diced serrano chile pepper seeded minced cilantro leaves minced worcestershire sauce ½ kosher salt ½ ground black pepper ½ garlic powder drops hot sauce fresh lime juice",
+        "directions_text": "combine avocado, tomato, onion, serrano, cilantro, worcestershire sauce, salt, black pepper, garlic powder, and hot sauce in a bowl; pour lime juice over top. serve immediately.",
+        "combined_text": "fresh guacamole guacamole guacamole 1 avocado, peeled, pitted, and diced 1 roma (plum) tomato, diced ½ red onion, diced 1 serrano chile pepper, seeded and minced 6 cilantro leaves, minced 1 teaspoon worcestershire sauce ½ teaspoon kosher salt ½ teaspoon ground black pepper ½ teaspoon garlic powder 3 drops hot sauce 1 tablespoon fresh lime juice combine avocado, tomato, onion, serrano, cilantro, worcestershire sauce, salt, black pepper, garlic powder, and hot sauce in a bowl; pour lime juice over top. serve immediately.",
+        "ingredients_raw": [
+            "1 avocado, peeled, pitted, and diced",
+            "1 Roma (plum) tomato, diced",
+            "½ red onion, diced",
+            "1 serrano chile pepper, seeded and minced",
+            "6 cilantro leaves, minced",
+            "1 teaspoon Worcestershire sauce",
+            "½ teaspoon kosher salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon garlic powder",
+            "3 drops hot sauce",
+            "1 tablespoon fresh lime juice"
+        ],
+        "directions_raw": [
+            "Combine avocado, tomato, onion, serrano, cilantro, Worcestershire sauce, salt, black pepper, garlic powder, and hot sauce in a bowl; pour lime juice over top. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "avocado peeled pitted diced",
+            "roma plum tomato diced",
+            "½ red onion diced",
+            "serrano chile pepper seeded minced",
+            "cilantro leaves minced",
+            "worcestershire sauce",
+            "½ kosher salt",
+            "½ ground black pepper",
+            "½ garlic powder",
+            "drops hot sauce",
+            "fresh lime juice"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "spanish",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 3,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 90,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Corn and Black Bean Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This is a hearty guacamole recipe that my friends request from me whenever we have a gathering! It's chunky and colorful and adds gusto to any Mexican dish! Serve with favorite tortilla chips and enjoy!",
+        "ingredients": [
+            "½ red bell pepper, minced",
+            "½ red onion, minced",
+            "2 cloves garlic, minced",
+            "½ (15.25 ounce) can sweet corn, drained",
+            "½ (15 ounce) can black beans, drained and rinsed",
+            "3 ripe avocados, peeled, pitted and sliced",
+            "2 tablespoons fresh lime juice",
+            "¼ teaspoon salt",
+            "1 pinch ground black pepper, or to taste",
+            "½ cup chopped fresh cilantro, or more to taste"
+        ],
+        "directions": [
+            "Stir red bell pepper, red onion, garlic, sweet corn, black beans, and avocado slices together in a large bowl.",
+            "Mix lime juice, salt, black pepper, and cilantro into avocado mixture until desired texture is achieved."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "½ red bell pepper minced ½ red onion minced cloves garlic minced ½ ounce can sweet corn drained ½ ounce can black beans drained rinsed ripe avocados peeled pitted sliced fresh lime juice ¼ salt pinch ground black pepper taste ½ chopped fresh cilantro more taste",
+        "directions_text": "stir red bell pepper, red onion, garlic, sweet corn, black beans, and avocado slices together in a large bowl. mix lime juice, salt, black pepper, and cilantro into avocado mixture until desired texture is achieved.",
+        "combined_text": "corn and black bean guacamole guacamole guacamole ½ red bell pepper, minced ½ red onion, minced 2 cloves garlic, minced ½ (15.25 ounce) can sweet corn, drained ½ (15 ounce) can black beans, drained and rinsed 3 ripe avocados, peeled, pitted and sliced 2 tablespoons fresh lime juice ¼ teaspoon salt 1 pinch ground black pepper, or to taste ½ cup chopped fresh cilantro, or more to taste stir red bell pepper, red onion, garlic, sweet corn, black beans, and avocado slices together in a large bowl. mix lime juice, salt, black pepper, and cilantro into avocado mixture until desired texture is achieved.",
+        "ingredients_raw": [
+            "½ red bell pepper, minced",
+            "½ red onion, minced",
+            "2 cloves garlic, minced",
+            "½ (15.25 ounce) can sweet corn, drained",
+            "½ (15 ounce) can black beans, drained and rinsed",
+            "3 ripe avocados, peeled, pitted and sliced",
+            "2 tablespoons fresh lime juice",
+            "¼ teaspoon salt",
+            "1 pinch ground black pepper, or to taste",
+            "½ cup chopped fresh cilantro, or more to taste"
+        ],
+        "directions_raw": [
+            "Stir red bell pepper, red onion, garlic, sweet corn, black beans, and avocado slices together in a large bowl.",
+            "Mix lime juice, salt, black pepper, and cilantro into avocado mixture until desired texture is achieved."
+        ],
+        "ingredients_canonical": [
+            "½ red bell pepper minced",
+            "½ red onion minced",
+            "cloves garlic minced",
+            "½ ounce can sweet corn drained",
+            "½ ounce can black beans drained rinsed",
+            "ripe avocados peeled pitted sliced",
+            "fresh lime juice",
+            "¼ salt",
+            "pinch ground black pepper taste",
+            "½ chopped fresh cilantro more taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "latin american",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 6,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 90,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Tomatillo Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Not only does this dip have a kick, it's vibrant color will allure any adventurous taste buds. The first time I served this dip, it was gone in the 15 minutes.",
+        "ingredients": [
+            "3 avocados - peeled, pitted, and mashed",
+            "3 tomatillos, husked and chopped",
+            "1 red onion, finely chopped",
+            "3 roma (plum) tomatoes, seeded and chopped",
+            "1 tablespoon lime juice",
+            "1 teaspoon red pepper flakes",
+            "3 drops hot pepper sauce",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "In a medium bowl, mix avocados, tomatillos, red onion, roma tomatoes, and lime juice. Season with red pepper flakes, hot pepper sauce, and salt and pepper. Cover, and refrigerate at least 45 minutes before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "avocados - peeled pitted mashed tomatillos husked chopped red onion finely chopped roma plum tomatoes seeded chopped lime juice red pepper flakes drops hot pepper sauce salt pepper taste",
+        "directions_text": "in a medium bowl, mix avocados, tomatillos, red onion, roma tomatoes, and lime juice. season with red pepper flakes, hot pepper sauce, and salt and pepper. cover, and refrigerate at least 45 minutes before serving.",
+        "combined_text": "tomatillo guacamole guacamole guacamole 3 avocados - peeled, pitted, and mashed 3 tomatillos, husked and chopped 1 red onion, finely chopped 3 roma (plum) tomatoes, seeded and chopped 1 tablespoon lime juice 1 teaspoon red pepper flakes 3 drops hot pepper sauce salt and pepper to taste in a medium bowl, mix avocados, tomatillos, red onion, roma tomatoes, and lime juice. season with red pepper flakes, hot pepper sauce, and salt and pepper. cover, and refrigerate at least 45 minutes before serving.",
+        "ingredients_raw": [
+            "3 avocados - peeled, pitted, and mashed",
+            "3 tomatillos, husked and chopped",
+            "1 red onion, finely chopped",
+            "3 roma (plum) tomatoes, seeded and chopped",
+            "1 tablespoon lime juice",
+            "1 teaspoon red pepper flakes",
+            "3 drops hot pepper sauce",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "In a medium bowl, mix avocados, tomatillos, red onion, roma tomatoes, and lime juice. Season with red pepper flakes, hot pepper sauce, and salt and pepper. Cover, and refrigerate at least 45 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "avocados - peeled pitted mashed",
+            "tomatillos husked chopped",
+            "red onion finely chopped",
+            "roma plum tomatoes seeded chopped",
+            "lime juice",
+            "red pepper flakes",
+            "drops hot pepper sauce",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Chipotle Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This is a great guacamole recipe which is very easy to customize to your own tastes. The addition of lime and chipotle puts a spin on this simple recipe and separate it from the pack.",
+        "ingredients": [
+            "2 avocados, peeled, seeded and cubed",
+            "1 tablespoon fresh lime juice",
+            "2 tablespoons sour cream",
+            "¼ cup salsa, or to taste",
+            "¼ teaspoon adobo sauce from canned chilies, or to taste",
+            "salt and pepper to taste"
+        ],
+        "directions": [
+            "Mash together cubed avocado, lime juice, sour cream, salsa, and adobo sauce in a bowl until blended. Season with salt and pepper."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 1,
+        "ingredient_text": "avocados peeled seeded cubed fresh lime juice sour cream ¼ salsa taste ¼ adobo sauce from canned chilies taste salt pepper taste",
+        "directions_text": "mash together cubed avocado, lime juice, sour cream, salsa, and adobo sauce in a bowl until blended. season with salt and pepper.",
+        "combined_text": "chipotle guacamole guacamole guacamole 2 avocados, peeled, seeded and cubed 1 tablespoon fresh lime juice 2 tablespoons sour cream ¼ cup salsa, or to taste ¼ teaspoon adobo sauce from canned chilies, or to taste salt and pepper to taste mash together cubed avocado, lime juice, sour cream, salsa, and adobo sauce in a bowl until blended. season with salt and pepper.",
+        "ingredients_raw": [
+            "2 avocados, peeled, seeded and cubed",
+            "1 tablespoon fresh lime juice",
+            "2 tablespoons sour cream",
+            "¼ cup salsa, or to taste",
+            "¼ teaspoon adobo sauce from canned chilies, or to taste",
+            "salt and pepper to taste"
+        ],
+        "directions_raw": [
+            "Mash together cubed avocado, lime juice, sour cream, salsa, and adobo sauce in a bowl until blended. Season with salt and pepper."
+        ],
+        "ingredients_canonical": [
+            "avocados peeled seeded cubed",
+            "fresh lime juice",
+            "sour cream",
+            "¼ salsa taste",
+            "¼ adobo sauce from canned chilies taste",
+            "salt pepper taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "filipino",
+            "french",
+            "russian",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Avocado and Black Bean Dip",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "I created and devoured this guac-bean dip in college because it's very cheap, filling, and healthy. When I am low on fiber, this is the perfect snack or meal. Serve with pita or tortilla chips.",
+        "ingredients": [
+            "1 avocado - peeled, pitted, and mashed",
+            "½ (15 ounce) can black beans, drained and rinsed",
+            "1 tablespoon lime juice",
+            "1 clove garlic, minced, or more to taste",
+            "⅓ cup shredded Cheddar cheese",
+            "1 pinch sea salt to taste"
+        ],
+        "directions": [
+            "Mix avocado, black beans, lime juice, and garlic together in a microwave-safe bowl. Sprinkle with Cheddar cheese.",
+            "Microwave dip on high until cheese is melted, about 1 minute. Season with sea salt if desired."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "avocado - peeled pitted mashed ½ ounce can black beans drained rinsed lime juice clove garlic minced more taste ⅓ shredded cheddar cheese pinch sea salt taste",
+        "directions_text": "mix avocado, black beans, lime juice, and garlic together in a microwave-safe bowl. sprinkle with cheddar cheese. microwave dip on high until cheese is melted, about 1 minute. season with sea salt if desired.",
+        "combined_text": "avocado and black bean dip guacamole guacamole 1 avocado - peeled, pitted, and mashed ½ (15 ounce) can black beans, drained and rinsed 1 tablespoon lime juice 1 clove garlic, minced, or more to taste ⅓ cup shredded cheddar cheese 1 pinch sea salt to taste mix avocado, black beans, lime juice, and garlic together in a microwave-safe bowl. sprinkle with cheddar cheese. microwave dip on high until cheese is melted, about 1 minute. season with sea salt if desired.",
+        "ingredients_raw": [
+            "1 avocado - peeled, pitted, and mashed",
+            "½ (15 ounce) can black beans, drained and rinsed",
+            "1 tablespoon lime juice",
+            "1 clove garlic, minced, or more to taste",
+            "⅓ cup shredded Cheddar cheese",
+            "1 pinch sea salt to taste"
+        ],
+        "directions_raw": [
+            "Mix avocado, black beans, lime juice, and garlic together in a microwave-safe bowl. Sprinkle with Cheddar cheese.",
+            "Microwave dip on high until cheese is melted, about 1 minute. Season with sea salt if desired."
+        ],
+        "ingredients_canonical": [
+            "avocado - peeled pitted mashed",
+            "½ ounce can black beans drained rinsed",
+            "lime juice",
+            "clove garlic minced more taste",
+            "⅓ shredded cheddar cheese",
+            "pinch sea salt taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "latin american",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Tasty Tomatillo Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "A flavorful guacamole that's easy to adjust to your heat or taste preferences. A little untraditional to make, but won't stay around long. Great with fresh tortilla chips or as a condiment on many Latin dishes.",
+        "ingredients": [
+            "6 fresh tomatillos, husks discarded and tomatillos rinsed",
+            "1 white onion, quartered",
+            "2 cloves garlic",
+            "2 jalapeno peppers, seeded if desired",
+            "1 ½ cups water, or amount to cover",
+            "salt to taste",
+            "¼ cup chopped fresh cilantro",
+            "1 tablespoon fresh lime juice, or to taste",
+            "3 ripe avocados, halved lengthwise and pitted"
+        ],
+        "directions": [
+            "Place tomatillos, onion, garlic, and jalapeno peppers into a saucepan over medium heat, and pour in enough water to cover. Bring the mixture to a boil, reduce heat, and simmer until the tomatillos soften and change color from bright green to a yellow-green color, 5 to 8 minutes.",
+            "With a slotted spoon, transfer vegetables to a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the tomatillo mixture moving before leaving it on to puree. Puree until smooth, about 1 minute; mix in salt, cilantro, and lime juice. Blend again for a few seconds just to mix.",
+            "Scoop out the avocado flesh, and place into the blender; blend until well mixed. Adjust salt, cilantro, and lime juice before serving."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "fresh tomatillos husks discarded tomatillos rinsed white onion quartered cloves garlic jalapeno peppers seeded if desired ½ water amount cover salt taste ¼ chopped fresh cilantro fresh lime juice taste ripe avocados halved lengthwise pitted",
+        "directions_text": "place tomatillos, onion, garlic, and jalapeno peppers into a saucepan over medium heat, and pour in enough water to cover. bring the mixture to a boil, reduce heat, and simmer until the tomatillos soften and change color from bright green to a yellow-green color, 5 to 8 minutes. with a slotted spoon, transfer vegetables to a blender, filling the pitcher no more than halfway full. hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the tomatillo mixture moving before leaving it on to puree. puree until smooth, about 1 minute; mix in salt, cilantro, and lime juice. blend again for a few seconds just to mix. scoop out the avocado flesh, and place into the blender; blend until well mixed. adjust salt, cilantro, and lime juice before serving.",
+        "combined_text": "tasty tomatillo guacamole guacamole guacamole 6 fresh tomatillos, husks discarded and tomatillos rinsed 1 white onion, quartered 2 cloves garlic 2 jalapeno peppers, seeded if desired 1 ½ cups water, or amount to cover salt to taste ¼ cup chopped fresh cilantro 1 tablespoon fresh lime juice, or to taste 3 ripe avocados, halved lengthwise and pitted place tomatillos, onion, garlic, and jalapeno peppers into a saucepan over medium heat, and pour in enough water to cover. bring the mixture to a boil, reduce heat, and simmer until the tomatillos soften and change color from bright green to a yellow-green color, 5 to 8 minutes. with a slotted spoon, transfer vegetables to a blender, filling the pitcher no more than halfway full. hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the tomatillo mixture moving before leaving it on to puree. puree until smooth, about 1 minute; mix in salt, cilantro, and lime juice. blend again for a few seconds just to mix. scoop out the avocado flesh, and place into the blender; blend until well mixed. adjust salt, cilantro, and lime juice before serving.",
+        "ingredients_raw": [
+            "6 fresh tomatillos, husks discarded and tomatillos rinsed",
+            "1 white onion, quartered",
+            "2 cloves garlic",
+            "2 jalapeno peppers, seeded if desired",
+            "1 ½ cups water, or amount to cover",
+            "salt to taste",
+            "¼ cup chopped fresh cilantro",
+            "1 tablespoon fresh lime juice, or to taste",
+            "3 ripe avocados, halved lengthwise and pitted"
+        ],
+        "directions_raw": [
+            "Place tomatillos, onion, garlic, and jalapeno peppers into a saucepan over medium heat, and pour in enough water to cover. Bring the mixture to a boil, reduce heat, and simmer until the tomatillos soften and change color from bright green to a yellow-green color, 5 to 8 minutes.",
+            "With a slotted spoon, transfer vegetables to a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the tomatillo mixture moving before leaving it on to puree. Puree until smooth, about 1 minute; mix in salt, cilantro, and lime juice. Blend again for a few seconds just to mix.",
+            "Scoop out the avocado flesh, and place into the blender; blend until well mixed. Adjust salt, cilantro, and lime juice before serving."
+        ],
+        "ingredients_canonical": [
+            "fresh tomatillos husks discarded tomatillos rinsed",
+            "white onion quartered",
+            "cloves garlic",
+            "jalapeno peppers seeded if desired",
+            "½ water amount cover",
+            "salt taste",
+            "¼ chopped fresh cilantro",
+            "fresh lime juice taste",
+            "ripe avocados halved lengthwise pitted"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 15,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 27,
+        "est_cook_time_min": 53,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Spicy Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This party-time guacamole is spicy, quick, and relatively healthy. Refrigerate guacamole with plastic wrap against the surface of the dip to prolong shelf life. Serve with tortilla chips or your favorite dipping accompaniment.",
+        "ingredients": [
+            "3 ripe avocados, peeled and pitted",
+            "lemon, juiced",
+            "3 Roma tomatoes, seeded and finely chopped",
+            "4 scallions, white parts only, thinly sliced",
+            "3 jalapeno peppers, finely chopped",
+            "3 cloves garlic, minced",
+            "1 tablespoon chopped fresh cilantro",
+            "1 teaspoon sea salt",
+            "½ teaspoon red pepper flakes",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon cayenne pepper"
+        ],
+        "directions": [
+            "Add avocados and lemon juice to a medium mixing bowl; mash until desired consistency is almost reached. Stir in tomatoes, scallions, jalapeno peppers, garlic, cilantro, salt, red pepper flakes, pepper, and cayenne. Taste guacamole and adjust for seasoning."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 1,
+        "ingredient_text": "ripe avocados peeled pitted lemon juiced roma tomatoes seeded finely chopped scallions white parts only thinly sliced jalapeno peppers finely chopped cloves garlic minced chopped fresh cilantro sea salt ½ red pepper flakes ¼ ground black pepper ¼ cayenne pepper",
+        "directions_text": "add avocados and lemon juice to a medium mixing bowl; mash until desired consistency is almost reached. stir in tomatoes, scallions, jalapeno peppers, garlic, cilantro, salt, red pepper flakes, pepper, and cayenne. taste guacamole and adjust for seasoning.",
+        "combined_text": "spicy guacamole guacamole guacamole 3 ripe avocados, peeled and pitted lemon, juiced 3 roma tomatoes, seeded and finely chopped 4 scallions, white parts only, thinly sliced 3 jalapeno peppers, finely chopped 3 cloves garlic, minced 1 tablespoon chopped fresh cilantro 1 teaspoon sea salt ½ teaspoon red pepper flakes ¼ teaspoon ground black pepper ¼ teaspoon cayenne pepper add avocados and lemon juice to a medium mixing bowl; mash until desired consistency is almost reached. stir in tomatoes, scallions, jalapeno peppers, garlic, cilantro, salt, red pepper flakes, pepper, and cayenne. taste guacamole and adjust for seasoning.",
+        "ingredients_raw": [
+            "3 ripe avocados, peeled and pitted",
+            "lemon, juiced",
+            "3 Roma tomatoes, seeded and finely chopped",
+            "4 scallions, white parts only, thinly sliced",
+            "3 jalapeno peppers, finely chopped",
+            "3 cloves garlic, minced",
+            "1 tablespoon chopped fresh cilantro",
+            "1 teaspoon sea salt",
+            "½ teaspoon red pepper flakes",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon cayenne pepper"
+        ],
+        "directions_raw": [
+            "Add avocados and lemon juice to a medium mixing bowl; mash until desired consistency is almost reached. Stir in tomatoes, scallions, jalapeno peppers, garlic, cilantro, salt, red pepper flakes, pepper, and cayenne. Taste guacamole and adjust for seasoning."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados peeled pitted",
+            "lemon juiced",
+            "roma tomatoes seeded finely chopped",
+            "scallions white parts only thinly sliced",
+            "jalapeno peppers finely chopped",
+            "cloves garlic minced",
+            "chopped fresh cilantro",
+            "sea salt",
+            "½ red pepper flakes",
+            "¼ ground black pepper",
+            "¼ cayenne pepper"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 3,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 90,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Guacamole with Corn",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This easy Mexican guacamole with corn (guacamole con elote) and tomatoes tastes great with corn chips. As with all guacamole recipes, make sure you are using ripe avocados. [Recipe originally submitted to Allrecipes.com.mx]",
+        "ingredients": [
+            "3 large avocados - peeled, pitted, and mashed",
+            "1 lime, juiced",
+            "salt to taste",
+            "1 large plum tomato, seeded and chopped",
+            "½ white onion, chopped",
+            "1 serrano chile, seeded and finely chopped",
+            "2 tablespoons chopped fresh cilantro",
+            "1 tablespoon olive oil",
+            "1 (8.75 ounce) can whole kernel corn, drained and rinsed"
+        ],
+        "directions": [
+            "Mash avocados, lime juice, and salt together in a medium bowl. Mix in tomato, onion, serrano chile, and olive oil. Stir in corn kernels. Serve immediately."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 1,
+        "ingredient_text": "large avocados - peeled pitted mashed lime juiced salt taste large plum tomato seeded chopped ½ white onion chopped serrano chile seeded finely chopped chopped fresh cilantro olive oil ounce can whole kernel corn drained rinsed",
+        "directions_text": "mash avocados, lime juice, and salt together in a medium bowl. mix in tomato, onion, serrano chile, and olive oil. stir in corn kernels. serve immediately.",
+        "combined_text": "guacamole with corn guacamole guacamole 3 large avocados - peeled, pitted, and mashed 1 lime, juiced salt to taste 1 large plum tomato, seeded and chopped ½ white onion, chopped 1 serrano chile, seeded and finely chopped 2 tablespoons chopped fresh cilantro 1 tablespoon olive oil 1 (8.75 ounce) can whole kernel corn, drained and rinsed mash avocados, lime juice, and salt together in a medium bowl. mix in tomato, onion, serrano chile, and olive oil. stir in corn kernels. serve immediately.",
+        "ingredients_raw": [
+            "3 large avocados - peeled, pitted, and mashed",
+            "1 lime, juiced",
+            "salt to taste",
+            "1 large plum tomato, seeded and chopped",
+            "½ white onion, chopped",
+            "1 serrano chile, seeded and finely chopped",
+            "2 tablespoons chopped fresh cilantro",
+            "1 tablespoon olive oil",
+            "1 (8.75 ounce) can whole kernel corn, drained and rinsed"
+        ],
+        "directions_raw": [
+            "Mash avocados, lime juice, and salt together in a medium bowl. Mix in tomato, onion, serrano chile, and olive oil. Stir in corn kernels. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "large avocados - peeled pitted mashed",
+            "lime juiced",
+            "salt taste",
+            "large plum tomato seeded chopped",
+            "½ white onion chopped",
+            "serrano chile seeded finely chopped",
+            "chopped fresh cilantro",
+            "olive oil",
+            "ounce can whole kernel corn drained rinsed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "spanish",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 3,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Guacamole with Nopales (Mexican Cactus)",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Guacamole is served in many variations in Mexico - here it is combined with nopales, Mexican cactus paddles. [Recipe originally submitted to Allrecipes.com.mx]",
+        "ingredients": [
+            "½ cup diced nopales (Mexican cactus)",
+            "1 large ripe avocado, halved and pitted",
+            "½ lime, juiced",
+            "1 tablespoon olive oil",
+            "salt to taste",
+            "1 plum tomato, seeded and chopped",
+            "1 fresh jalapeno pepper - seeded, deveined, and minced, or to taste",
+            "4 sprigs fresh cilantro, chopped"
+        ],
+        "directions": [
+            "Heat a small nonstick skillet over medium heat. Add nopales and cook, stirring occasionally, until soft, about 10 minutes. Let cool.",
+            "Mash avocado in a bowl with lime juice, olive oil, and salt. Stir in tomato, jalapeno, cilantro, and cooked nopales."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "½ diced nopales mexican cactus large ripe avocado halved pitted ½ lime juiced olive oil salt taste plum tomato seeded chopped fresh jalapeno pepper - seeded deveined minced taste sprigs fresh cilantro chopped",
+        "directions_text": "heat a small nonstick skillet over medium heat. add nopales and cook, stirring occasionally, until soft, about 10 minutes. let cool. mash avocado in a bowl with lime juice, olive oil, and salt. stir in tomato, jalapeno, cilantro, and cooked nopales.",
+        "combined_text": "guacamole with nopales (mexican cactus) guacamole guacamole ½ cup diced nopales (mexican cactus) 1 large ripe avocado, halved and pitted ½ lime, juiced 1 tablespoon olive oil salt to taste 1 plum tomato, seeded and chopped 1 fresh jalapeno pepper - seeded, deveined, and minced, or to taste 4 sprigs fresh cilantro, chopped heat a small nonstick skillet over medium heat. add nopales and cook, stirring occasionally, until soft, about 10 minutes. let cool. mash avocado in a bowl with lime juice, olive oil, and salt. stir in tomato, jalapeno, cilantro, and cooked nopales.",
+        "ingredients_raw": [
+            "½ cup diced nopales (Mexican cactus)",
+            "1 large ripe avocado, halved and pitted",
+            "½ lime, juiced",
+            "1 tablespoon olive oil",
+            "salt to taste",
+            "1 plum tomato, seeded and chopped",
+            "1 fresh jalapeno pepper - seeded, deveined, and minced, or to taste",
+            "4 sprigs fresh cilantro, chopped"
+        ],
+        "directions_raw": [
+            "Heat a small nonstick skillet over medium heat. Add nopales and cook, stirring occasionally, until soft, about 10 minutes. Let cool.",
+            "Mash avocado in a bowl with lime juice, olive oil, and salt. Stir in tomato, jalapeno, cilantro, and cooked nopales."
+        ],
+        "ingredients_canonical": [
+            "½ diced nopales mexican cactus",
+            "large ripe avocado halved pitted",
+            "½ lime juiced",
+            "olive oil",
+            "salt taste",
+            "plum tomato seeded chopped",
+            "fresh jalapeno pepper - seeded deveined minced taste",
+            "sprigs fresh cilantro chopped"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Lite Brocamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This lite version of guacamole can be used as a delicious appetizer with tortilla chips, or add as a topping to your favorite Tex-Mex recipes. Use more lime juice to make this dip extra tangy.",
+        "ingredients": [
+            "1 avocado, peeled and pitted",
+            "1 large head fresh broccoli",
+            "2 tablespoons red onion, minced",
+            "4 cloves garlic, minced",
+            "2 tablespoons lime juice",
+            "1 tablespoon hot pepper sauce",
+            "2 tablespoons chopped fresh cilantro",
+            "salt to taste"
+        ],
+        "directions": [
+            "Boil or steam broccoli until very soft.",
+            "In a large bowl, mash broccoli with avocado. Mix in onions, garlic, lime juice, hot pepper sauce, and cilantro until mixture resembles the consistency of mashed potatoes. Season to taste with salt."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "avocado peeled pitted large head fresh broccoli red onion minced cloves garlic minced lime juice hot pepper sauce chopped fresh cilantro salt taste",
+        "directions_text": "boil or steam broccoli until very soft. in a large bowl, mash broccoli with avocado. mix in onions, garlic, lime juice, hot pepper sauce, and cilantro until mixture resembles the consistency of mashed potatoes. season to taste with salt.",
+        "combined_text": "lite brocamole guacamole guacamole 1 avocado, peeled and pitted 1 large head fresh broccoli 2 tablespoons red onion, minced 4 cloves garlic, minced 2 tablespoons lime juice 1 tablespoon hot pepper sauce 2 tablespoons chopped fresh cilantro salt to taste boil or steam broccoli until very soft. in a large bowl, mash broccoli with avocado. mix in onions, garlic, lime juice, hot pepper sauce, and cilantro until mixture resembles the consistency of mashed potatoes. season to taste with salt.",
+        "ingredients_raw": [
+            "1 avocado, peeled and pitted",
+            "1 large head fresh broccoli",
+            "2 tablespoons red onion, minced",
+            "4 cloves garlic, minced",
+            "2 tablespoons lime juice",
+            "1 tablespoon hot pepper sauce",
+            "2 tablespoons chopped fresh cilantro",
+            "salt to taste"
+        ],
+        "directions_raw": [
+            "Boil or steam broccoli until very soft.",
+            "In a large bowl, mash broccoli with avocado. Mix in onions, garlic, lime juice, hot pepper sauce, and cilantro until mixture resembles the consistency of mashed potatoes. Season to taste with salt."
+        ],
+        "ingredients_canonical": [
+            "avocado peeled pitted",
+            "large head fresh broccoli",
+            "red onion minced",
+            "cloves garlic minced",
+            "lime juice",
+            "hot pepper sauce",
+            "chopped fresh cilantro",
+            "salt taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Fall in Love (with) Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "I call this 'fall in love' guacamole because everyone I know who has tried it has fallen in love with guacamole. Quick, easy, and addictive! Add more salt, lime juice, or cilantro to your taste preference!",
+        "ingredients": [
+            "3 avocados, peeled and pitted",
+            "1 teaspoon sea salt",
+            "1 teaspoon garlic powder",
+            "2 tablespoons fresh lime juice",
+            "½ cup diced onion",
+            "2 roma (plum) tomatoes, diced",
+            "3 tablespoons chopped cilantro",
+            "1 pinch cayenne pepper, or more to taste (Optional)"
+        ],
+        "directions": [
+            "Mash avocados, sea salt, garlic powder, and lime juice in a bowl using a fork.",
+            "Mix onion, tomatoes, and cilantro into avocado mixture; season with cayenne pepper."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "avocados peeled pitted sea salt garlic powder fresh lime juice ½ diced onion roma plum tomatoes diced chopped cilantro pinch cayenne pepper more taste optional",
+        "directions_text": "mash avocados, sea salt, garlic powder, and lime juice in a bowl using a fork. mix onion, tomatoes, and cilantro into avocado mixture; season with cayenne pepper.",
+        "combined_text": "fall in love (with) guacamole guacamole guacamole 3 avocados, peeled and pitted 1 teaspoon sea salt 1 teaspoon garlic powder 2 tablespoons fresh lime juice ½ cup diced onion 2 roma (plum) tomatoes, diced 3 tablespoons chopped cilantro 1 pinch cayenne pepper, or more to taste (optional) mash avocados, sea salt, garlic powder, and lime juice in a bowl using a fork. mix onion, tomatoes, and cilantro into avocado mixture; season with cayenne pepper.",
+        "ingredients_raw": [
+            "3 avocados, peeled and pitted",
+            "1 teaspoon sea salt",
+            "1 teaspoon garlic powder",
+            "2 tablespoons fresh lime juice",
+            "½ cup diced onion",
+            "2 roma (plum) tomatoes, diced",
+            "3 tablespoons chopped cilantro",
+            "1 pinch cayenne pepper, or more to taste (Optional)"
+        ],
+        "directions_raw": [
+            "Mash avocados, sea salt, garlic powder, and lime juice in a bowl using a fork.",
+            "Mix onion, tomatoes, and cilantro into avocado mixture; season with cayenne pepper."
+        ],
+        "ingredients_canonical": [
+            "avocados peeled pitted",
+            "sea salt",
+            "garlic powder",
+            "fresh lime juice",
+            "½ diced onion",
+            "roma plum tomatoes diced",
+            "chopped cilantro",
+            "pinch cayenne pepper more taste optional"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 90,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "My Grandma's Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "My grandmother from Mexico taught me to make this. It has been passed down for many generations...",
+        "ingredients": [
+            "2 fresh chile de arbol peppers, or to taste",
+            "3 medium avocados - peeled, pitted, and mashed (one pit reserved)",
+            "2 tablespoons finely chopped onion",
+            "¼ cup chopped roma tomatoes",
+            "1 (14.5 ounce) can whole peeled tomatoes",
+            "1 ½ cups chopped fresh cilantro",
+            "2 pinches garlic powder, or to taste",
+            "salt to taste",
+            "1 lime, juiced"
+        ],
+        "directions": [
+            "Preheat oven to 300 degrees F (150 degrees C). Arrange chile peppers on a baking sheet.",
+            "Toast chile peppers in the preheated until browned, about 7 minutes. Remove stems.",
+            "Mix avocados, onion, and roma tomatoes together in a bowl.",
+            "Blend canned tomatoes, cilantro, toasted chile peppers, garlic powder, and salt in a blender until smooth. Pour about half the blended tomato mixture into avocado mixture. Reserve remaining tomato mixture for another use or for dipping.",
+            "Squeeze lime juice into avocado mixture and gently stir until evenly combined. Transfer guacamole to a smaller serving bowl; place reserved avocado pit in the middle to prevent browning."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 5,
+        "ingredient_text": "fresh chile de arbol peppers taste medium avocados - peeled pitted mashed one pit reserved finely chopped onion ¼ chopped roma tomatoes ounce can whole peeled tomatoes ½ chopped fresh cilantro pinches garlic powder taste salt taste lime juiced",
+        "directions_text": "preheat oven to 300 degrees f (150 degrees c). arrange chile peppers on a baking sheet. toast chile peppers in the preheated until browned, about 7 minutes. remove stems. mix avocados, onion, and roma tomatoes together in a bowl. blend canned tomatoes, cilantro, toasted chile peppers, garlic powder, and salt in a blender until smooth. pour about half the blended tomato mixture into avocado mixture. reserve remaining tomato mixture for another use or for dipping. squeeze lime juice into avocado mixture and gently stir until evenly combined. transfer guacamole to a smaller serving bowl; place reserved avocado pit in the middle to prevent browning.",
+        "combined_text": "my grandma's guacamole guacamole guacamole 2 fresh chile de arbol peppers, or to taste 3 medium avocados - peeled, pitted, and mashed (one pit reserved) 2 tablespoons finely chopped onion ¼ cup chopped roma tomatoes 1 (14.5 ounce) can whole peeled tomatoes 1 ½ cups chopped fresh cilantro 2 pinches garlic powder, or to taste salt to taste 1 lime, juiced preheat oven to 300 degrees f (150 degrees c). arrange chile peppers on a baking sheet. toast chile peppers in the preheated until browned, about 7 minutes. remove stems. mix avocados, onion, and roma tomatoes together in a bowl. blend canned tomatoes, cilantro, toasted chile peppers, garlic powder, and salt in a blender until smooth. pour about half the blended tomato mixture into avocado mixture. reserve remaining tomato mixture for another use or for dipping. squeeze lime juice into avocado mixture and gently stir until evenly combined. transfer guacamole to a smaller serving bowl; place reserved avocado pit in the middle to prevent browning.",
+        "ingredients_raw": [
+            "2 fresh chile de arbol peppers, or to taste",
+            "3 medium avocados - peeled, pitted, and mashed (one pit reserved)",
+            "2 tablespoons finely chopped onion",
+            "¼ cup chopped roma tomatoes",
+            "1 (14.5 ounce) can whole peeled tomatoes",
+            "1 ½ cups chopped fresh cilantro",
+            "2 pinches garlic powder, or to taste",
+            "salt to taste",
+            "1 lime, juiced"
+        ],
+        "directions_raw": [
+            "Preheat oven to 300 degrees F (150 degrees C). Arrange chile peppers on a baking sheet.",
+            "Toast chile peppers in the preheated until browned, about 7 minutes. Remove stems.",
+            "Mix avocados, onion, and roma tomatoes together in a bowl.",
+            "Blend canned tomatoes, cilantro, toasted chile peppers, garlic powder, and salt in a blender until smooth. Pour about half the blended tomato mixture into avocado mixture. Reserve remaining tomato mixture for another use or for dipping.",
+            "Squeeze lime juice into avocado mixture and gently stir until evenly combined. Transfer guacamole to a smaller serving bowl; place reserved avocado pit in the middle to prevent browning."
+        ],
+        "ingredients_canonical": [
+            "fresh chile de arbol peppers taste",
+            "medium avocados - peeled pitted mashed one pit reserved",
+            "finely chopped onion",
+            "¼ chopped roma tomatoes",
+            "ounce can whole peeled tomatoes",
+            "½ chopped fresh cilantro",
+            "pinches garlic powder taste",
+            "salt taste",
+            "lime juiced"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "breakfast",
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 25,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 90,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Creamy, Spicy Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Quick and easy prep for a delicious, creamy guacamole everyone will love!",
+        "ingredients": [
+            "3 large avocados - peeled, pitted, and diced",
+            "1 tomato, seeded and chopped",
+            "2 green onions, finely chopped",
+            "½ lime, juiced",
+            "1 tablespoon salsa, or more to taste",
+            "1 clove garlic, minced",
+            "1 teaspoon sour cream",
+            "1 teaspoon white vinegar",
+            "½ teaspoon cayenne pepper",
+            "¼ teaspoon cumin",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Mash avocado in a large bowl. Stir tomato, green onions, lime juice, salsa, garlic, sour cream, vinegar, cayenne pepper, and cumin with the mashed avocado until evenly mixed; season with salt and black pepper.",
+            "Cover bowl with plastic wrap and refrigerate until the flavors blend, about 30 minutes."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 2,
+        "ingredient_text": "large avocados - peeled pitted diced tomato seeded chopped green onions finely chopped ½ lime juiced salsa more taste clove garlic minced sour cream white vinegar ½ cayenne pepper ¼ cumin salt ground black pepper taste",
+        "directions_text": "mash avocado in a large bowl. stir tomato, green onions, lime juice, salsa, garlic, sour cream, vinegar, cayenne pepper, and cumin with the mashed avocado until evenly mixed; season with salt and black pepper. cover bowl with plastic wrap and refrigerate until the flavors blend, about 30 minutes.",
+        "combined_text": "creamy, spicy guacamole guacamole guacamole 3 large avocados - peeled, pitted, and diced 1 tomato, seeded and chopped 2 green onions, finely chopped ½ lime, juiced 1 tablespoon salsa, or more to taste 1 clove garlic, minced 1 teaspoon sour cream 1 teaspoon white vinegar ½ teaspoon cayenne pepper ¼ teaspoon cumin salt and ground black pepper to taste mash avocado in a large bowl. stir tomato, green onions, lime juice, salsa, garlic, sour cream, vinegar, cayenne pepper, and cumin with the mashed avocado until evenly mixed; season with salt and black pepper. cover bowl with plastic wrap and refrigerate until the flavors blend, about 30 minutes.",
+        "ingredients_raw": [
+            "3 large avocados - peeled, pitted, and diced",
+            "1 tomato, seeded and chopped",
+            "2 green onions, finely chopped",
+            "½ lime, juiced",
+            "1 tablespoon salsa, or more to taste",
+            "1 clove garlic, minced",
+            "1 teaspoon sour cream",
+            "1 teaspoon white vinegar",
+            "½ teaspoon cayenne pepper",
+            "¼ teaspoon cumin",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Mash avocado in a large bowl. Stir tomato, green onions, lime juice, salsa, garlic, sour cream, vinegar, cayenne pepper, and cumin with the mashed avocado until evenly mixed; season with salt and black pepper.",
+            "Cover bowl with plastic wrap and refrigerate until the flavors blend, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "large avocados - peeled pitted diced",
+            "tomato seeded chopped",
+            "green onions finely chopped",
+            "½ lime juiced",
+            "salsa more taste",
+            "clove garlic minced",
+            "sour cream",
+            "white vinegar",
+            "½ cayenne pepper",
+            "¼ cumin",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "filipino",
+            "french",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "russian",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 84,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Holiday Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "I tried this recipe at a friend of the family's. It is such a great twist to traditional guacamole. I wanted others to be able to try this. This not only tastes great but it looks nice as well. Don't be scared off by the ingredients, it is great with unsalted tortilla chips!",
+        "ingredients": [
+            "½ white onion, minced",
+            "4 serrano chile peppers, minced",
+            "1 teaspoon kosher salt",
+            "4 avocados - peeled, pitted and diced",
+            "2 ½ tablespoons fresh lime juice",
+            "1 pear - peeled, cored and diced",
+            "1 cup seedless green grapes, halved",
+            "1 cup pomegranate seeds"
+        ],
+        "directions": [
+            "Mix the onion, chile peppers, and salt in a bowl. Fold in the avocados and lime juice. Stir in pear, grapes, and pomegranate. Chill until serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "½ white onion minced serrano chile peppers minced kosher salt avocados - peeled pitted diced ½ fresh lime juice pear - peeled cored diced seedless green grapes halved pomegranate seeds",
+        "directions_text": "mix the onion, chile peppers, and salt in a bowl. fold in the avocados and lime juice. stir in pear, grapes, and pomegranate. chill until serving.",
+        "combined_text": "holiday guacamole guacamole guacamole ½ white onion, minced 4 serrano chile peppers, minced 1 teaspoon kosher salt 4 avocados - peeled, pitted and diced 2 ½ tablespoons fresh lime juice 1 pear - peeled, cored and diced 1 cup seedless green grapes, halved 1 cup pomegranate seeds mix the onion, chile peppers, and salt in a bowl. fold in the avocados and lime juice. stir in pear, grapes, and pomegranate. chill until serving.",
+        "ingredients_raw": [
+            "½ white onion, minced",
+            "4 serrano chile peppers, minced",
+            "1 teaspoon kosher salt",
+            "4 avocados - peeled, pitted and diced",
+            "2 ½ tablespoons fresh lime juice",
+            "1 pear - peeled, cored and diced",
+            "1 cup seedless green grapes, halved",
+            "1 cup pomegranate seeds"
+        ],
+        "directions_raw": [
+            "Mix the onion, chile peppers, and salt in a bowl. Fold in the avocados and lime juice. Stir in pear, grapes, and pomegranate. Chill until serving."
+        ],
+        "ingredients_canonical": [
+            "½ white onion minced",
+            "serrano chile peppers minced",
+            "kosher salt",
+            "avocados - peeled pitted diced",
+            "½ fresh lime juice",
+            "pear - peeled cored diced",
+            "seedless green grapes halved",
+            "pomegranate seeds"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "spanish",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Our Favorite Most Amazing Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "My husband and I tried a ridiculous amount of guacamole over our decades together, but no recipe ever hit home for us. After much experimenting, I finally created a recipe we can't get enough of. It even beats every restaurant we've ever been to. The two of us can eat this whole bowl in one sitting, and enjoy every bite. I'm so happy to share it with you. Now Taco Tuesday can be any night of the week! Serve it with tortilla chips, or use it to top tacos, quesadillas, fajitas, burritos, and more.",
+        "ingredients": [
+            "3 ripe avocados - halved, pitted, and peeled",
+            "1 lime",
+            "10 cherry tomatoes, or to taste",
+            "1 shallot, minced",
+            "2 tablespoons chopped fresh cilantro, or to taste",
+            "1 clove garlic, minced, or to taste",
+            "¼ teaspoon kosher salt, or to taste",
+            "1 pinch ground multi-colored peppercorns, or to taste"
+        ],
+        "directions": [
+            "Place avocados in a medium bowl and squeeze in lime juice. Add tomatoes, shallot, cilantro, garlic, salt, and pepper. Mash with an immersion blender or a sturdy fork until avocado is mashed and ingredients are combined. Stir gently and serve immediately."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "ripe avocados - halved pitted peeled lime cherry tomatoes taste shallot minced chopped fresh cilantro taste clove garlic minced taste ¼ kosher salt taste pinch ground multi-colored peppercorns taste",
+        "directions_text": "place avocados in a medium bowl and squeeze in lime juice. add tomatoes, shallot, cilantro, garlic, salt, and pepper. mash with an immersion blender or a sturdy fork until avocado is mashed and ingredients are combined. stir gently and serve immediately.",
+        "combined_text": "our favorite most amazing guacamole guacamole guacamole 3 ripe avocados - halved, pitted, and peeled 1 lime 10 cherry tomatoes, or to taste 1 shallot, minced 2 tablespoons chopped fresh cilantro, or to taste 1 clove garlic, minced, or to taste ¼ teaspoon kosher salt, or to taste 1 pinch ground multi-colored peppercorns, or to taste place avocados in a medium bowl and squeeze in lime juice. add tomatoes, shallot, cilantro, garlic, salt, and pepper. mash with an immersion blender or a sturdy fork until avocado is mashed and ingredients are combined. stir gently and serve immediately.",
+        "ingredients_raw": [
+            "3 ripe avocados - halved, pitted, and peeled",
+            "1 lime",
+            "10 cherry tomatoes, or to taste",
+            "1 shallot, minced",
+            "2 tablespoons chopped fresh cilantro, or to taste",
+            "1 clove garlic, minced, or to taste",
+            "¼ teaspoon kosher salt, or to taste",
+            "1 pinch ground multi-colored peppercorns, or to taste"
+        ],
+        "directions_raw": [
+            "Place avocados in a medium bowl and squeeze in lime juice. Add tomatoes, shallot, cilantro, garlic, salt, and pepper. Mash with an immersion blender or a sturdy fork until avocado is mashed and ingredients are combined. Stir gently and serve immediately."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados - halved pitted peeled",
+            "lime",
+            "cherry tomatoes taste",
+            "shallot minced",
+            "chopped fresh cilantro taste",
+            "clove garlic minced taste",
+            "¼ kosher salt taste",
+            "pinch ground multi-colored peppercorns taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Spicy Lentil Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Cooked sprouted green lentils bring extra flavor and texture to this spicy guacamole with jalapeno peppers and fresh lime juice.",
+        "ingredients": [
+            "2 ripe avocados, pitted and peeled",
+            "1 cup cooked and cooled truRoots® Organic Sprouted Green Lentils",
+            "2 Roma tomatoes, seeded and chopped",
+            "1 jalapeno, seeded and finely chopped",
+            "¼ cup finely chopped red onion",
+            "1 ½ tablespoons fresh lime juice, or more to taste",
+            "¾ teaspoon salt",
+            "1 tablespoon minced cilantro"
+        ],
+        "directions": [
+            "Mash avocados in medium bowl. Add lentils, tomatoes, jalapeno, onion, lime juice, salt and cilantro. Stir to combine. Chill."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "ripe avocados pitted peeled cooked cooled truroots organic sprouted green lentils roma tomatoes seeded chopped jalapeno seeded finely chopped ¼ finely chopped red onion ½ fresh lime juice more taste ¾ salt minced cilantro",
+        "directions_text": "mash avocados in medium bowl. add lentils, tomatoes, jalapeno, onion, lime juice, salt and cilantro. stir to combine. chill.",
+        "combined_text": "spicy lentil guacamole guacamole guacamole 2 ripe avocados, pitted and peeled 1 cup cooked and cooled truroots® organic sprouted green lentils 2 roma tomatoes, seeded and chopped 1 jalapeno, seeded and finely chopped ¼ cup finely chopped red onion 1 ½ tablespoons fresh lime juice, or more to taste ¾ teaspoon salt 1 tablespoon minced cilantro mash avocados in medium bowl. add lentils, tomatoes, jalapeno, onion, lime juice, salt and cilantro. stir to combine. chill.",
+        "ingredients_raw": [
+            "2 ripe avocados, pitted and peeled",
+            "1 cup cooked and cooled truRoots® Organic Sprouted Green Lentils",
+            "2 Roma tomatoes, seeded and chopped",
+            "1 jalapeno, seeded and finely chopped",
+            "¼ cup finely chopped red onion",
+            "1 ½ tablespoons fresh lime juice, or more to taste",
+            "¾ teaspoon salt",
+            "1 tablespoon minced cilantro"
+        ],
+        "directions_raw": [
+            "Mash avocados in medium bowl. Add lentils, tomatoes, jalapeno, onion, lime juice, salt and cilantro. Stir to combine. Chill."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados pitted peeled",
+            "cooked cooled truroots organic sprouted green lentils",
+            "roma tomatoes seeded chopped",
+            "jalapeno seeded finely chopped",
+            "¼ finely chopped red onion",
+            "½ fresh lime juice more taste",
+            "¾ salt",
+            "minced cilantro"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Peach Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This peach guacamole recipe takes fresh, juicy peaches, and the slightly earthy and spicy notes of ancho chile to transform plain guacamole into something extraordinary! Adjust the chile to your liking.",
+        "ingredients": [
+            "3 medium avocados, peeled and pitted",
+            "2 teaspoons lime juice",
+            "½ teaspoon ancho chile powder",
+            "1 pinch salt to taste",
+            "1 large fresh peach, peeled, pitted, and diced",
+            "2 tablespoons minced red onion",
+            "2 tablespoons minced cilantro",
+            "½ small jalapeño pepper, seeded and minced"
+        ],
+        "directions": [
+            "Mash avocados in a small bowl. Stir in lime juice and ancho chile powder; season with salt. Stir in peach, red onion, cilantro, and jalapeño."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "medium avocados peeled pitted lime juice ½ ancho chile powder pinch salt taste large fresh peach peeled pitted diced minced red onion minced cilantro ½ small jalapeño pepper seeded minced",
+        "directions_text": "mash avocados in a small bowl. stir in lime juice and ancho chile powder; season with salt. stir in peach, red onion, cilantro, and jalapeño.",
+        "combined_text": "peach guacamole guacamole guacamole 3 medium avocados, peeled and pitted 2 teaspoons lime juice ½ teaspoon ancho chile powder 1 pinch salt to taste 1 large fresh peach, peeled, pitted, and diced 2 tablespoons minced red onion 2 tablespoons minced cilantro ½ small jalapeño pepper, seeded and minced mash avocados in a small bowl. stir in lime juice and ancho chile powder; season with salt. stir in peach, red onion, cilantro, and jalapeño.",
+        "ingredients_raw": [
+            "3 medium avocados, peeled and pitted",
+            "2 teaspoons lime juice",
+            "½ teaspoon ancho chile powder",
+            "1 pinch salt to taste",
+            "1 large fresh peach, peeled, pitted, and diced",
+            "2 tablespoons minced red onion",
+            "2 tablespoons minced cilantro",
+            "½ small jalapeño pepper, seeded and minced"
+        ],
+        "directions_raw": [
+            "Mash avocados in a small bowl. Stir in lime juice and ancho chile powder; season with salt. Stir in peach, red onion, cilantro, and jalapeño."
+        ],
+        "ingredients_canonical": [
+            "medium avocados peeled pitted",
+            "lime juice",
+            "½ ancho chile powder",
+            "pinch salt taste",
+            "large fresh peach peeled pitted diced",
+            "minced red onion",
+            "minced cilantro",
+            "½ small jalapeño pepper seeded minced"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Tzatziki Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "A yummy dip that can be used instead of traditional guacamole or tzatziki. I made it for a family dinner and served it with nacho chips and veggie chips. It would be great with pitas or in a sandwich. Something a little different to add to your table.",
+        "ingredients": [
+            "4 ripe avocados, peeled and pitted",
+            "¼ cup minced garlic",
+            "2 tablespoons lemon juice",
+            "⅓ cup plain yogurt",
+            "⅓ cup sour cream",
+            "1 cup diced English cucumber",
+            "¼ cup chopped fresh mint",
+            "¼ cup chopped fresh dill",
+            "3 tablespoons chopped fresh cilantro",
+            "1 ½ tablespoons red pepper flakes",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Combine avocados, garlic, and lemon juice in a bowl; mash into a paste using a fork or spoon. Mix in yogurt and sour cream. Stir in cucumber, mint, dill, cilantro, red pepper flakes. Season with salt and pepper. Cover and refrigerate for at least 1 hour before serving."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 1,
+        "ingredient_text": "ripe avocados peeled pitted ¼ minced garlic lemon juice ⅓ plain yogurt ⅓ sour cream diced english cucumber ¼ chopped fresh mint ¼ chopped fresh dill chopped fresh cilantro ½ red pepper flakes salt ground black pepper taste",
+        "directions_text": "combine avocados, garlic, and lemon juice in a bowl; mash into a paste using a fork or spoon. mix in yogurt and sour cream. stir in cucumber, mint, dill, cilantro, red pepper flakes. season with salt and pepper. cover and refrigerate for at least 1 hour before serving.",
+        "combined_text": "tzatziki guacamole guacamole guacamole 4 ripe avocados, peeled and pitted ¼ cup minced garlic 2 tablespoons lemon juice ⅓ cup plain yogurt ⅓ cup sour cream 1 cup diced english cucumber ¼ cup chopped fresh mint ¼ cup chopped fresh dill 3 tablespoons chopped fresh cilantro 1 ½ tablespoons red pepper flakes salt and ground black pepper to taste combine avocados, garlic, and lemon juice in a bowl; mash into a paste using a fork or spoon. mix in yogurt and sour cream. stir in cucumber, mint, dill, cilantro, red pepper flakes. season with salt and pepper. cover and refrigerate for at least 1 hour before serving.",
+        "ingredients_raw": [
+            "4 ripe avocados, peeled and pitted",
+            "¼ cup minced garlic",
+            "2 tablespoons lemon juice",
+            "⅓ cup plain yogurt",
+            "⅓ cup sour cream",
+            "1 cup diced English cucumber",
+            "¼ cup chopped fresh mint",
+            "¼ cup chopped fresh dill",
+            "3 tablespoons chopped fresh cilantro",
+            "1 ½ tablespoons red pepper flakes",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Combine avocados, garlic, and lemon juice in a bowl; mash into a paste using a fork or spoon. Mix in yogurt and sour cream. Stir in cucumber, mint, dill, cilantro, red pepper flakes. Season with salt and pepper. Cover and refrigerate for at least 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados peeled pitted",
+            "¼ minced garlic",
+            "lemon juice",
+            "⅓ plain yogurt",
+            "⅓ sour cream",
+            "diced english cucumber",
+            "¼ chopped fresh mint",
+            "¼ chopped fresh dill",
+            "chopped fresh cilantro",
+            "½ red pepper flakes",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "russian",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 15,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "World's Best Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "A recipe that will top your guacamole standards. The flavor and texture of the pomegranate gives it a fine touch and makes it the favorite of everybody, including the most sophisticated palates. It is not only delicious, but colorful and, definitely, Mexican. Try it! After the pomegranate, you will never go back to tomatoes.",
+        "ingredients": [
+            "¼ cup minced onion",
+            "2 limes, juiced",
+            "2 serrano chile peppers, or to taste",
+            "2 limes, juiced",
+            "salt to taste",
+            "4 ripe avocados, peeled and pitted",
+            "¼ cup chopped fresh cilantro",
+            "¼ cup pomegranate seeds, divided",
+            "1 sprig cilantro for garnish"
+        ],
+        "directions": [
+            "Combine the onion with the juice of 2 limes in a small bowl; allow the onion to soak in the lime juice for 2 hours. Strain through a fine-mesh sieve and discard the lime juice. Set the onions aside.",
+            "Grind the serrano chile peppers, the juice of 2 limes, and salt together in a food processor until smooth; add the avocado and continue processing until creamy and smooth. Transfer the mixture into a small serving bowl; fold the soaked onions, chopped cilantro, and about half the pomegranate seeds into the avocado mixture. Top with the remaining pomegranate seeds and garnish with the cilantro sprig to serve."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "¼ minced onion limes juiced serrano chile peppers taste limes juiced salt taste ripe avocados peeled pitted ¼ chopped fresh cilantro ¼ pomegranate seeds divided sprig cilantro for garnish",
+        "directions_text": "combine the onion with the juice of 2 limes in a small bowl; allow the onion to soak in the lime juice for 2 hours. strain through a fine-mesh sieve and discard the lime juice. set the onions aside. grind the serrano chile peppers, the juice of 2 limes, and salt together in a food processor until smooth; add the avocado and continue processing until creamy and smooth. transfer the mixture into a small serving bowl; fold the soaked onions, chopped cilantro, and about half the pomegranate seeds into the avocado mixture. top with the remaining pomegranate seeds and garnish with the cilantro sprig to serve.",
+        "combined_text": "world's best guacamole guacamole guacamole ¼ cup minced onion 2 limes, juiced 2 serrano chile peppers, or to taste 2 limes, juiced salt to taste 4 ripe avocados, peeled and pitted ¼ cup chopped fresh cilantro ¼ cup pomegranate seeds, divided 1 sprig cilantro for garnish combine the onion with the juice of 2 limes in a small bowl; allow the onion to soak in the lime juice for 2 hours. strain through a fine-mesh sieve and discard the lime juice. set the onions aside. grind the serrano chile peppers, the juice of 2 limes, and salt together in a food processor until smooth; add the avocado and continue processing until creamy and smooth. transfer the mixture into a small serving bowl; fold the soaked onions, chopped cilantro, and about half the pomegranate seeds into the avocado mixture. top with the remaining pomegranate seeds and garnish with the cilantro sprig to serve.",
+        "ingredients_raw": [
+            "¼ cup minced onion",
+            "2 limes, juiced",
+            "2 serrano chile peppers, or to taste",
+            "2 limes, juiced",
+            "salt to taste",
+            "4 ripe avocados, peeled and pitted",
+            "¼ cup chopped fresh cilantro",
+            "¼ cup pomegranate seeds, divided",
+            "1 sprig cilantro for garnish"
+        ],
+        "directions_raw": [
+            "Combine the onion with the juice of 2 limes in a small bowl; allow the onion to soak in the lime juice for 2 hours. Strain through a fine-mesh sieve and discard the lime juice. Set the onions aside.",
+            "Grind the serrano chile peppers, the juice of 2 limes, and salt together in a food processor until smooth; add the avocado and continue processing until creamy and smooth. Transfer the mixture into a small serving bowl; fold the soaked onions, chopped cilantro, and about half the pomegranate seeds into the avocado mixture. Top with the remaining pomegranate seeds and garnish with the cilantro sprig to serve."
+        ],
+        "ingredients_canonical": [
+            "¼ minced onion",
+            "limes juiced",
+            "serrano chile peppers taste",
+            "limes juiced",
+            "salt taste",
+            "ripe avocados peeled pitted",
+            "¼ chopped fresh cilantro",
+            "¼ pomegranate seeds divided",
+            "sprig cilantro for garnish"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "spanish",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 12,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 76,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Julia's New Mexican Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This dip recipe was passed from my mother to me when I was young and I'd like to share it with anyone who enjoys fresh, spicy, chunky guacamole. Enjoy!",
+        "ingredients": [
+            "2 ripe avocados",
+            "1 (8 ounce) package cream cheese (such as Philadelphia®), softened",
+            "2 Roma tomatoes, diced",
+            "4 serrano peppers, finely chopped",
+            "3 jalapeno peppers, finely chopped",
+            "2 tablespoons finely chopped Hatch green chile peppers (Optional)",
+            "3 hot yellow chile peppers, finely chopped (Optional)",
+            "1 lime, juiced",
+            "1 teaspoon garlic powder, or more to taste",
+            "5 drops hot pepper sauce (such as Tabasco®)",
+            "salt to taste"
+        ],
+        "directions": [
+            "Pit and spoon avocados into a small bowl and add cream cheese. Mash together until well blended.",
+            "Add tomatoes and peppers to the mixture and mix well. Mix in lime juice, garlic powder, hot sauce, and salt. Chill for at least 20 minutes before serving."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 2,
+        "ingredient_text": "ripe avocados ounce package cream cheese such as philadelphia softened roma tomatoes diced serrano peppers finely chopped jalapeno peppers finely chopped finely chopped hatch green chile peppers optional hot yellow chile peppers finely chopped optional lime juiced garlic powder more taste drops hot pepper sauce such as tabasco salt taste",
+        "directions_text": "pit and spoon avocados into a small bowl and add cream cheese. mash together until well blended. add tomatoes and peppers to the mixture and mix well. mix in lime juice, garlic powder, hot sauce, and salt. chill for at least 20 minutes before serving.",
+        "combined_text": "julia's new mexican guacamole guacamole guacamole 2 ripe avocados 1 (8 ounce) package cream cheese (such as philadelphia®), softened 2 roma tomatoes, diced 4 serrano peppers, finely chopped 3 jalapeno peppers, finely chopped 2 tablespoons finely chopped hatch green chile peppers (optional) 3 hot yellow chile peppers, finely chopped (optional) 1 lime, juiced 1 teaspoon garlic powder, or more to taste 5 drops hot pepper sauce (such as tabasco®) salt to taste pit and spoon avocados into a small bowl and add cream cheese. mash together until well blended. add tomatoes and peppers to the mixture and mix well. mix in lime juice, garlic powder, hot sauce, and salt. chill for at least 20 minutes before serving.",
+        "ingredients_raw": [
+            "2 ripe avocados",
+            "1 (8 ounce) package cream cheese (such as Philadelphia®), softened",
+            "2 Roma tomatoes, diced",
+            "4 serrano peppers, finely chopped",
+            "3 jalapeno peppers, finely chopped",
+            "2 tablespoons finely chopped Hatch green chile peppers (Optional)",
+            "3 hot yellow chile peppers, finely chopped (Optional)",
+            "1 lime, juiced",
+            "1 teaspoon garlic powder, or more to taste",
+            "5 drops hot pepper sauce (such as Tabasco®)",
+            "salt to taste"
+        ],
+        "directions_raw": [
+            "Pit and spoon avocados into a small bowl and add cream cheese. Mash together until well blended.",
+            "Add tomatoes and peppers to the mixture and mix well. Mix in lime juice, garlic powder, hot sauce, and salt. Chill for at least 20 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados",
+            "ounce package cream cheese such as philadelphia softened",
+            "roma tomatoes diced",
+            "serrano peppers finely chopped",
+            "jalapeno peppers finely chopped",
+            "finely chopped hatch green chile peppers optional",
+            "hot yellow chile peppers finely chopped optional",
+            "lime juiced",
+            "garlic powder more taste",
+            "drops hot pepper sauce such as tabasco",
+            "salt taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "korean",
+            "spanish",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 6,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 80,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Spicy Guacamole with Chipotle",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Good spicy-smoky twist to classic guacamole! Simple and easy to make. Great as a dip or on sandwiches, burgers, salads, soups, or just straight up by itself! Enjoy. To watch a video of this recipe, visit my YouTube channel, \"Kingston Hannibal.\"",
+        "ingredients": [
+            "4 large avocados",
+            "2 limes, halved",
+            "¼ cup chopped cilantro leaves",
+            "2 chipotle peppers in adobo sauce, chopped, divided",
+            "salt and ground black pepper to taste",
+            "⅓ cup diced red onion",
+            "¼ cup seeded and diced jalapeno peppers",
+            "½ cup diced tomato"
+        ],
+        "directions": [
+            "Cut open avocados and scoop all the flesh into a large bowl. Mash with a bean masher or spoon until there are no large chunks of avocado left.",
+            "Squeeze lime juice over the avocado. Add cilantro and 1 chipotle pepper with some adobo sauce. Season with salt and pepper; mix to combine. Mix in red onion and jalapenos. Add tomato and mix gently to combine. Chill before serving garnished with remaining chipotle pepper and adobo sauce."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "large avocados limes halved ¼ chopped cilantro leaves chipotle peppers in adobo sauce chopped divided salt ground black pepper taste ⅓ diced red onion ¼ seeded diced jalapeno peppers ½ diced tomato",
+        "directions_text": "cut open avocados and scoop all the flesh into a large bowl. mash with a bean masher or spoon until there are no large chunks of avocado left. squeeze lime juice over the avocado. add cilantro and 1 chipotle pepper with some adobo sauce. season with salt and pepper; mix to combine. mix in red onion and jalapenos. add tomato and mix gently to combine. chill before serving garnished with remaining chipotle pepper and adobo sauce.",
+        "combined_text": "spicy guacamole with chipotle guacamole guacamole 4 large avocados 2 limes, halved ¼ cup chopped cilantro leaves 2 chipotle peppers in adobo sauce, chopped, divided salt and ground black pepper to taste ⅓ cup diced red onion ¼ cup seeded and diced jalapeno peppers ½ cup diced tomato cut open avocados and scoop all the flesh into a large bowl. mash with a bean masher or spoon until there are no large chunks of avocado left. squeeze lime juice over the avocado. add cilantro and 1 chipotle pepper with some adobo sauce. season with salt and pepper; mix to combine. mix in red onion and jalapenos. add tomato and mix gently to combine. chill before serving garnished with remaining chipotle pepper and adobo sauce.",
+        "ingredients_raw": [
+            "4 large avocados",
+            "2 limes, halved",
+            "¼ cup chopped cilantro leaves",
+            "2 chipotle peppers in adobo sauce, chopped, divided",
+            "salt and ground black pepper to taste",
+            "⅓ cup diced red onion",
+            "¼ cup seeded and diced jalapeno peppers",
+            "½ cup diced tomato"
+        ],
+        "directions_raw": [
+            "Cut open avocados and scoop all the flesh into a large bowl. Mash with a bean masher or spoon until there are no large chunks of avocado left.",
+            "Squeeze lime juice over the avocado. Add cilantro and 1 chipotle pepper with some adobo sauce. Season with salt and pepper; mix to combine. Mix in red onion and jalapenos. Add tomato and mix gently to combine. Chill before serving garnished with remaining chipotle pepper and adobo sauce."
+        ],
+        "ingredients_canonical": [
+            "large avocados",
+            "limes halved",
+            "¼ chopped cilantro leaves",
+            "chipotle peppers in adobo sauce chopped divided",
+            "salt ground black pepper taste",
+            "⅓ diced red onion",
+            "¼ seeded diced jalapeno peppers",
+            "½ diced tomato"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "filipino",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 10,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 11,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Mango Chipotle Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "A smoky twist on traditional guacamole. Excellent with chips, or paired with carne asada or carnitas.",
+        "ingredients": [
+            "2 ripe avocados from Mexico, peeled and pitted",
+            "1 mango, peeled, pitted and diced",
+            "1 small clove garlic, minced",
+            "1 tablespoon chopped fresh cilantro leaves",
+            "2 teaspoons lime juice",
+            "¼ teaspoon ground dried chipotle pepper",
+            "1 pinch Salt to taste"
+        ],
+        "directions": [
+            "Mash avocados in a small bowl, leaving chunks if desired. Mix in mango, garlic, cilantro, lime juice, chipotle powder and salt. Serve immediately."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "ripe avocados from mexico peeled pitted mango peeled pitted diced small clove garlic minced chopped fresh cilantro leaves lime juice ¼ ground dried chipotle pepper pinch salt taste",
+        "directions_text": "mash avocados in a small bowl, leaving chunks if desired. mix in mango, garlic, cilantro, lime juice, chipotle powder and salt. serve immediately.",
+        "combined_text": "mango chipotle guacamole guacamole guacamole 2 ripe avocados from mexico, peeled and pitted 1 mango, peeled, pitted and diced 1 small clove garlic, minced 1 tablespoon chopped fresh cilantro leaves 2 teaspoons lime juice ¼ teaspoon ground dried chipotle pepper 1 pinch salt to taste mash avocados in a small bowl, leaving chunks if desired. mix in mango, garlic, cilantro, lime juice, chipotle powder and salt. serve immediately.",
+        "ingredients_raw": [
+            "2 ripe avocados from Mexico, peeled and pitted",
+            "1 mango, peeled, pitted and diced",
+            "1 small clove garlic, minced",
+            "1 tablespoon chopped fresh cilantro leaves",
+            "2 teaspoons lime juice",
+            "¼ teaspoon ground dried chipotle pepper",
+            "1 pinch Salt to taste"
+        ],
+        "directions_raw": [
+            "Mash avocados in a small bowl, leaving chunks if desired. Mix in mango, garlic, cilantro, lime juice, chipotle powder and salt. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados from mexico peeled pitted",
+            "mango peeled pitted diced",
+            "small clove garlic minced",
+            "chopped fresh cilantro leaves",
+            "lime juice",
+            "¼ ground dried chipotle pepper",
+            "pinch salt taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Quick Tomatillo Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Tangy, spicy, creamy, and delicious, this may very well change the way you eat guac forever--or at least it will be your new favorite dip. Serve with chips or on your favorite tacos!",
+        "ingredients": [
+            "1 avocado, chopped",
+            "1 large tomatillo, husked and chopped",
+            "½ white onion, roughly chopped",
+            "1 jalapeno pepper, seeded and chopped, or more to taste",
+            "1 clove garlic, chopped, or more to taste",
+            "1 lime, juiced",
+            "2 tablespoons chopped fresh cilantro",
+            "½ teaspoon ground cumin",
+            "salt and ground black pepper to taste"
+        ],
+        "directions": [
+            "Place avocado, tomatillo, onion, jalapeno, garlic, lime juice, cilantro, cumin, salt, and pepper in a blender; blend until smooth, 2 to 3 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 1,
+        "ingredient_text": "avocado chopped large tomatillo husked chopped ½ white onion roughly chopped jalapeno pepper seeded chopped more taste clove garlic chopped more taste lime juiced chopped fresh cilantro ½ ground cumin salt ground black pepper taste",
+        "directions_text": "place avocado, tomatillo, onion, jalapeno, garlic, lime juice, cilantro, cumin, salt, and pepper in a blender; blend until smooth, 2 to 3 minutes.",
+        "combined_text": "quick tomatillo guacamole guacamole guacamole 1 avocado, chopped 1 large tomatillo, husked and chopped ½ white onion, roughly chopped 1 jalapeno pepper, seeded and chopped, or more to taste 1 clove garlic, chopped, or more to taste 1 lime, juiced 2 tablespoons chopped fresh cilantro ½ teaspoon ground cumin salt and ground black pepper to taste place avocado, tomatillo, onion, jalapeno, garlic, lime juice, cilantro, cumin, salt, and pepper in a blender; blend until smooth, 2 to 3 minutes.",
+        "ingredients_raw": [
+            "1 avocado, chopped",
+            "1 large tomatillo, husked and chopped",
+            "½ white onion, roughly chopped",
+            "1 jalapeno pepper, seeded and chopped, or more to taste",
+            "1 clove garlic, chopped, or more to taste",
+            "1 lime, juiced",
+            "2 tablespoons chopped fresh cilantro",
+            "½ teaspoon ground cumin",
+            "salt and ground black pepper to taste"
+        ],
+        "directions_raw": [
+            "Place avocado, tomatillo, onion, jalapeno, garlic, lime juice, cilantro, cumin, salt, and pepper in a blender; blend until smooth, 2 to 3 minutes."
+        ],
+        "ingredients_canonical": [
+            "avocado chopped",
+            "large tomatillo husked chopped",
+            "½ white onion roughly chopped",
+            "jalapeno pepper seeded chopped more taste",
+            "clove garlic chopped more taste",
+            "lime juiced",
+            "chopped fresh cilantro",
+            "½ ground cumin",
+            "salt ground black pepper taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 8,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Guacamole 3 Ways",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This is a sweet citrus take on guacamole, but you can use any fruit or vegetables, snipped fresh herbs, crumbled cheese, and spicy pepper or onion you like. Two variations are listed below. Serve with tortilla chips, plantain chips, or cut fresh vegetables.",
+        "ingredients": [
+            "2 medium avocados - halved, pitted, and peeled",
+            "2 tablespoons fresh lime juice",
+            "¼ cup chopped orange",
+            "¼ cup chopped fresh cilantro",
+            "¼ cup crumbled cotija cheese",
+            "1 tablespoon finely chopped jalapeno",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Mash together avocados and lime juice in a bowl. Stir in orange, cilantro, cotija cheese, jalapeno, and salt."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 1,
+        "ingredient_text": "medium avocados - halved pitted peeled fresh lime juice ¼ chopped orange ¼ chopped fresh cilantro ¼ crumbled cotija cheese finely chopped jalapeno ½ salt",
+        "directions_text": "mash together avocados and lime juice in a bowl. stir in orange, cilantro, cotija cheese, jalapeno, and salt.",
+        "combined_text": "guacamole 3 ways guacamole guacamole 2 medium avocados - halved, pitted, and peeled 2 tablespoons fresh lime juice ¼ cup chopped orange ¼ cup chopped fresh cilantro ¼ cup crumbled cotija cheese 1 tablespoon finely chopped jalapeno ½ teaspoon salt mash together avocados and lime juice in a bowl. stir in orange, cilantro, cotija cheese, jalapeno, and salt.",
+        "ingredients_raw": [
+            "2 medium avocados - halved, pitted, and peeled",
+            "2 tablespoons fresh lime juice",
+            "¼ cup chopped orange",
+            "¼ cup chopped fresh cilantro",
+            "¼ cup crumbled cotija cheese",
+            "1 tablespoon finely chopped jalapeno",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Mash together avocados and lime juice in a bowl. Stir in orange, cilantro, cotija cheese, jalapeno, and salt."
+        ],
+        "ingredients_canonical": [
+            "medium avocados - halved pitted peeled",
+            "fresh lime juice",
+            "¼ chopped orange",
+            "¼ chopped fresh cilantro",
+            "¼ crumbled cotija cheese",
+            "finely chopped jalapeno",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 78,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Spicy Mango Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "This is a summery guacamole that is sweet, spicy, and savory. Serve with tortilla chips; it also makes a great accompaniment to grilled chicken or fish.",
+        "ingredients": [
+            "2 ripe avocados, chopped",
+            "1 small lime, juiced",
+            "¼ teaspoon salt",
+            "1 ripe mango, chopped",
+            "½ cup finely chopped white onion",
+            "½ cup fresh cilantro, finely chopped",
+            "2 jalapeno peppers, seeded and chopped",
+            "½ teaspoon hot sauce, or to taste"
+        ],
+        "directions": [
+            "Mash avocados, lime juice, and salt lightly together in a bowl, so some avocado chunks remain. Mix in mango, onion, cilantro, and jalapeno peppers.",
+            "Refrigerate guacamole for about 1 hour. Drizzle hot sauce on top before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "ripe avocados chopped small lime juiced ¼ salt ripe mango chopped ½ finely chopped white onion ½ fresh cilantro finely chopped jalapeno peppers seeded chopped ½ hot sauce taste",
+        "directions_text": "mash avocados, lime juice, and salt lightly together in a bowl, so some avocado chunks remain. mix in mango, onion, cilantro, and jalapeno peppers. refrigerate guacamole for about 1 hour. drizzle hot sauce on top before serving.",
+        "combined_text": "spicy mango guacamole guacamole guacamole 2 ripe avocados, chopped 1 small lime, juiced ¼ teaspoon salt 1 ripe mango, chopped ½ cup finely chopped white onion ½ cup fresh cilantro, finely chopped 2 jalapeno peppers, seeded and chopped ½ teaspoon hot sauce, or to taste mash avocados, lime juice, and salt lightly together in a bowl, so some avocado chunks remain. mix in mango, onion, cilantro, and jalapeno peppers. refrigerate guacamole for about 1 hour. drizzle hot sauce on top before serving.",
+        "ingredients_raw": [
+            "2 ripe avocados, chopped",
+            "1 small lime, juiced",
+            "¼ teaspoon salt",
+            "1 ripe mango, chopped",
+            "½ cup finely chopped white onion",
+            "½ cup fresh cilantro, finely chopped",
+            "2 jalapeno peppers, seeded and chopped",
+            "½ teaspoon hot sauce, or to taste"
+        ],
+        "directions_raw": [
+            "Mash avocados, lime juice, and salt lightly together in a bowl, so some avocado chunks remain. Mix in mango, onion, cilantro, and jalapeno peppers.",
+            "Refrigerate guacamole for about 1 hour. Drizzle hot sauce on top before serving."
+        ],
+        "ingredients_canonical": [
+            "ripe avocados chopped",
+            "small lime juiced",
+            "¼ salt",
+            "ripe mango chopped",
+            "½ finely chopped white onion",
+            "½ fresh cilantro finely chopped",
+            "jalapeno peppers seeded chopped",
+            "½ hot sauce taste"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Mango-Tomatillo Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "I omitted the chilies and it turned out amazing! Love love love!",
+        "ingredients": [
+            "2 ripe Hass avocados - halved, pitted, and peeled",
+            "2 tomatillos, husked and chopped",
+            "1 ripe mango - peeled, seeded, and cut into cubes",
+            "½ small red onion, finely chopped",
+            "1 serrano chile pepper, finely chopped",
+            "2 tablespoons chopped fresh cilantro",
+            "1 tablespoon chopped fresh mint",
+            "1 ½ tablespoons fresh lemon juice",
+            "kosher salt to taste"
+        ],
+        "directions": [
+            "Mash avocados in a bowl with a fork until slightly chunky. Fold tomatillos, mango, onion, serrano chile pepper, cilantro, and mint through the avocado; add lemon juice and gently mix. Season the guacamole with salt.",
+            "Lay a piece of plastic wrap directly on the surface of the guacamole so it doesn't discolor and refrigerate until chilled, at least 1 hour."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "ripe hass avocados - halved pitted peeled tomatillos husked chopped ripe mango - peeled seeded cut into cubes ½ small red onion finely chopped serrano chile pepper finely chopped chopped fresh cilantro chopped fresh mint ½ fresh lemon juice kosher salt taste",
+        "directions_text": "mash avocados in a bowl with a fork until slightly chunky. fold tomatillos, mango, onion, serrano chile pepper, cilantro, and mint through the avocado; add lemon juice and gently mix. season the guacamole with salt. lay a piece of plastic wrap directly on the surface of the guacamole so it doesn't discolor and refrigerate until chilled, at least 1 hour.",
+        "combined_text": "mango-tomatillo guacamole guacamole guacamole 2 ripe hass avocados - halved, pitted, and peeled 2 tomatillos, husked and chopped 1 ripe mango - peeled, seeded, and cut into cubes ½ small red onion, finely chopped 1 serrano chile pepper, finely chopped 2 tablespoons chopped fresh cilantro 1 tablespoon chopped fresh mint 1 ½ tablespoons fresh lemon juice kosher salt to taste mash avocados in a bowl with a fork until slightly chunky. fold tomatillos, mango, onion, serrano chile pepper, cilantro, and mint through the avocado; add lemon juice and gently mix. season the guacamole with salt. lay a piece of plastic wrap directly on the surface of the guacamole so it doesn't discolor and refrigerate until chilled, at least 1 hour.",
+        "ingredients_raw": [
+            "2 ripe Hass avocados - halved, pitted, and peeled",
+            "2 tomatillos, husked and chopped",
+            "1 ripe mango - peeled, seeded, and cut into cubes",
+            "½ small red onion, finely chopped",
+            "1 serrano chile pepper, finely chopped",
+            "2 tablespoons chopped fresh cilantro",
+            "1 tablespoon chopped fresh mint",
+            "1 ½ tablespoons fresh lemon juice",
+            "kosher salt to taste"
+        ],
+        "directions_raw": [
+            "Mash avocados in a bowl with a fork until slightly chunky. Fold tomatillos, mango, onion, serrano chile pepper, cilantro, and mint through the avocado; add lemon juice and gently mix. Season the guacamole with salt.",
+            "Lay a piece of plastic wrap directly on the surface of the guacamole so it doesn't discolor and refrigerate until chilled, at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "ripe hass avocados - halved pitted peeled",
+            "tomatillos husked chopped",
+            "ripe mango - peeled seeded cut into cubes",
+            "½ small red onion finely chopped",
+            "serrano chile pepper finely chopped",
+            "chopped fresh cilantro",
+            "chopped fresh mint",
+            "½ fresh lemon juice",
+            "kosher salt taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "middle eastern region",
+            "spanish",
+            "turkish",
+            "vietnamese"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 18,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 86,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "healthy"
+    },
+    {
+        "recipe_title": "Black Bean and Corn Guacamole",
+        "category": "Guacamole",
+        "subcategory": "Guacamole",
+        "description": "Cheer on the Cornhuskers with this Nebraska-inspired dip. It's loaded with black beans, corn and authentic guac flavor, thanks to McCormick® Guacamole Seasoning Mix. Perfect for dipping with tortilla chips, it also tastes great on grilled meats and tacos.",
+        "ingredients": [
+            "1 (1 ounce) package McCormick® Guacamole Seasoning Mix",
+            "2 ripe avocados - peeled, pitted, and mashed",
+            "1 (8.75 ounce) can whole kernel corn, drained",
+            "1 cup canned black beans, rinsed and drained",
+            "1 cup chopped tomato"
+        ],
+        "directions": [
+            "Stir Seasoning Mix and mashed avocados in medium bowl until well blended. Stir in corn, beans and tomato. Cover surface with plastic wrap.",
+            "Refrigerate 30 minutes to allow flavors to blend. Stir before serving. Serve as a dip with tortilla chips."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "ounce package mccormick guacamole seasoning mix ripe avocados - peeled pitted mashed ounce can whole kernel corn drained canned black beans rinsed drained chopped tomato",
+        "directions_text": "stir seasoning mix and mashed avocados in medium bowl until well blended. stir in corn, beans and tomato. cover surface with plastic wrap. refrigerate 30 minutes to allow flavors to blend. stir before serving. serve as a dip with tortilla chips.",
+        "combined_text": "black bean and corn guacamole guacamole guacamole 1 (1 ounce) package mccormick® guacamole seasoning mix 2 ripe avocados - peeled, pitted, and mashed 1 (8.75 ounce) can whole kernel corn, drained 1 cup canned black beans, rinsed and drained 1 cup chopped tomato stir seasoning mix and mashed avocados in medium bowl until well blended. stir in corn, beans and tomato. cover surface with plastic wrap. refrigerate 30 minutes to allow flavors to blend. stir before serving. serve as a dip with tortilla chips.",
+        "ingredients_raw": [
+            "1 (1 ounce) package McCormick® Guacamole Seasoning Mix",
+            "2 ripe avocados - peeled, pitted, and mashed",
+            "1 (8.75 ounce) can whole kernel corn, drained",
+            "1 cup canned black beans, rinsed and drained",
+            "1 cup chopped tomato"
+        ],
+        "directions_raw": [
+            "Stir Seasoning Mix and mashed avocados in medium bowl until well blended. Stir in corn, beans and tomato. Cover surface with plastic wrap.",
+            "Refrigerate 30 minutes to allow flavors to blend. Stir before serving. Serve as a dip with tortilla chips."
+        ],
+        "ingredients_canonical": [
+            "ounce package mccormick guacamole seasoning mix",
+            "ripe avocados - peeled pitted mashed",
+            "ounce can whole kernel corn drained",
+            "canned black beans rinsed drained",
+            "chopped tomato"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "european",
+            "latin american",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "side",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 82,
+        "health_flags": [
+            "plant_based"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "healthy"
+    }
+]

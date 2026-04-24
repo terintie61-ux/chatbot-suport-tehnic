@@ -1,0 +1,575 @@
+[
+    {
+        "recipe_title": "English Muffin Bread",
+        "category": "English Muffins",
+        "subcategory": "English Muffins",
+        "description": "This bread has the chewy consistency of English muffins. It's especially good toasted!",
+        "ingredients": [
+            "2 cups milk",
+            "½ cup water",
+            "2 tablespoons cornmeal",
+            "6 cups bread flour",
+            "2 (.25 ounce) packages active dry yeast",
+            "1 tablespoon white sugar",
+            "2 teaspoons salt",
+            "¼ teaspoon baking soda"
+        ],
+        "directions": [
+            "Warm the milk and water in a small saucepan until very warm (125 degrees F/50 degrees C). Lightly grease two 8x4 inch loaf pans; sprinkle cornmeal inside pans.",
+            "In a large bowl, mix together 3 cups flour, yeast, sugar, salt and soda. Stir milk into the flour mixture; beat well. Stir in the remaining flour, 1 cup at a time, until a stiff batter is formed. Spoon batter into prepared pans. Cover and let rise in a warm place for until nearly doubled in size, about 45 minutes. Meanwhile, preheat oven to 400 degrees F (200 degrees C).",
+            "Bake in preheated oven until golden brown, about 25 minutes. Remove from pans immediately and cool."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "milk ½ water cornmeal bread flour ounce packages active dry yeast white sugar salt ¼ baking soda",
+        "directions_text": "warm the milk and water in a small saucepan until very warm (125 degrees f/50 degrees c). lightly grease two 8x4 inch loaf pans; sprinkle cornmeal inside pans. in a large bowl, mix together 3 cups flour, yeast, sugar, salt and soda. stir milk into the flour mixture; beat well. stir in the remaining flour, 1 cup at a time, until a stiff batter is formed. spoon batter into prepared pans. cover and let rise in a warm place for until nearly doubled in size, about 45 minutes. meanwhile, preheat oven to 400 degrees f (200 degrees c). bake in preheated oven until golden brown, about 25 minutes. remove from pans immediately and cool.",
+        "combined_text": "english muffin bread english muffins english muffins 2 cups milk ½ cup water 2 tablespoons cornmeal 6 cups bread flour 2 (.25 ounce) packages active dry yeast 1 tablespoon white sugar 2 teaspoons salt ¼ teaspoon baking soda warm the milk and water in a small saucepan until very warm (125 degrees f/50 degrees c). lightly grease two 8x4 inch loaf pans; sprinkle cornmeal inside pans. in a large bowl, mix together 3 cups flour, yeast, sugar, salt and soda. stir milk into the flour mixture; beat well. stir in the remaining flour, 1 cup at a time, until a stiff batter is formed. spoon batter into prepared pans. cover and let rise in a warm place for until nearly doubled in size, about 45 minutes. meanwhile, preheat oven to 400 degrees f (200 degrees c). bake in preheated oven until golden brown, about 25 minutes. remove from pans immediately and cool.",
+        "ingredients_raw": [
+            "2 cups milk",
+            "½ cup water",
+            "2 tablespoons cornmeal",
+            "6 cups bread flour",
+            "2 (.25 ounce) packages active dry yeast",
+            "1 tablespoon white sugar",
+            "2 teaspoons salt",
+            "¼ teaspoon baking soda"
+        ],
+        "directions_raw": [
+            "Warm the milk and water in a small saucepan until very warm (125 degrees F/50 degrees C). Lightly grease two 8x4 inch loaf pans; sprinkle cornmeal inside pans.",
+            "In a large bowl, mix together 3 cups flour, yeast, sugar, salt and soda. Stir milk into the flour mixture; beat well. Stir in the remaining flour, 1 cup at a time, until a stiff batter is formed. Spoon batter into prepared pans. Cover and let rise in a warm place for until nearly doubled in size, about 45 minutes. Meanwhile, preheat oven to 400 degrees F (200 degrees C).",
+            "Bake in preheated oven until golden brown, about 25 minutes. Remove from pans immediately and cool."
+        ],
+        "ingredients_canonical": [
+            "milk",
+            "½ water",
+            "cornmeal",
+            "bread flour",
+            "ounce packages active dry yeast",
+            "white sugar",
+            "salt",
+            "¼ baking soda"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 53,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Microwave English Muffin Bread",
+        "category": "English Muffins",
+        "subcategory": "English Muffins",
+        "description": "Try this microwaved bread recipe for delicate English muffin bread that's baked in your microwave!",
+        "ingredients": [
+            "1 tablespoon yellow cornmeal",
+            "¼ cup warm water (110 degrees F/45 degrees C)",
+            "1 (.25 ounce) package active dry yeast",
+            "1 cup lukewarm milk",
+            "2 teaspoons white sugar",
+            "1 teaspoon salt",
+            "⅛ teaspoon baking soda",
+            "1 cup whole wheat flour",
+            "2 cups all-purpose flour"
+        ],
+        "directions": [
+            "Lightly grease a 9x5-inch microwave-safe loaf pan and sprinkle with cornmeal.",
+            "Pour water into a large bowl. Add yeast and stir to dissolve. Add milk, sugar, salt, and baking soda, then add whole wheat flour; beat until well combined. Beat in all-purpose flour, 1/2 cup at a time, until a soft dough forms.",
+            "Turn dough out onto a lightly floured surface and knead until smooth, about 5 minutes. Shape dough into a loaf and place into the prepared pan.",
+            "Cook, uncovered, in a 650-watt microwave oven set at 50% power for 1 minute. Let rest for 10 minutes.",
+            "Repeat Step 4 one or two times, until loaf has doubled in size.",
+            "Microwave on high until top of loaf is no longer moist, 4 to 6 minutes.",
+            "Remove from the microwave and let stand in the pan for 5 minutes. Remove to a wire rack to finish cooling."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 7,
+        "ingredient_text": "yellow cornmeal ¼ warm water degrees f degrees c ounce package active dry yeast lukewarm milk white sugar salt ⅛ baking soda whole wheat flour all-purpose flour",
+        "directions_text": "lightly grease a 9x5-inch microwave-safe loaf pan and sprinkle with cornmeal. pour water into a large bowl. add yeast and stir to dissolve. add milk, sugar, salt, and baking soda, then add whole wheat flour; beat until well combined. beat in all-purpose flour, 1/2 cup at a time, until a soft dough forms. turn dough out onto a lightly floured surface and knead until smooth, about 5 minutes. shape dough into a loaf and place into the prepared pan. cook, uncovered, in a 650-watt microwave oven set at 50% power for 1 minute. let rest for 10 minutes. repeat step 4 one or two times, until loaf has doubled in size. microwave on high until top of loaf is no longer moist, 4 to 6 minutes. remove from the microwave and let stand in the pan for 5 minutes. remove to a wire rack to finish cooling.",
+        "combined_text": "microwave english muffin bread english muffins english muffins 1 tablespoon yellow cornmeal ¼ cup warm water (110 degrees f/45 degrees c) 1 (.25 ounce) package active dry yeast 1 cup lukewarm milk 2 teaspoons white sugar 1 teaspoon salt ⅛ teaspoon baking soda 1 cup whole wheat flour 2 cups all-purpose flour lightly grease a 9x5-inch microwave-safe loaf pan and sprinkle with cornmeal. pour water into a large bowl. add yeast and stir to dissolve. add milk, sugar, salt, and baking soda, then add whole wheat flour; beat until well combined. beat in all-purpose flour, 1/2 cup at a time, until a soft dough forms. turn dough out onto a lightly floured surface and knead until smooth, about 5 minutes. shape dough into a loaf and place into the prepared pan. cook, uncovered, in a 650-watt microwave oven set at 50% power for 1 minute. let rest for 10 minutes. repeat step 4 one or two times, until loaf has doubled in size. microwave on high until top of loaf is no longer moist, 4 to 6 minutes. remove from the microwave and let stand in the pan for 5 minutes. remove to a wire rack to finish cooling.",
+        "ingredients_raw": [
+            "1 tablespoon yellow cornmeal",
+            "¼ cup warm water (110 degrees F/45 degrees C)",
+            "1 (.25 ounce) package active dry yeast",
+            "1 cup lukewarm milk",
+            "2 teaspoons white sugar",
+            "1 teaspoon salt",
+            "⅛ teaspoon baking soda",
+            "1 cup whole wheat flour",
+            "2 cups all-purpose flour"
+        ],
+        "directions_raw": [
+            "Lightly grease a 9x5-inch microwave-safe loaf pan and sprinkle with cornmeal.",
+            "Pour water into a large bowl. Add yeast and stir to dissolve. Add milk, sugar, salt, and baking soda, then add whole wheat flour; beat until well combined. Beat in all-purpose flour, 1/2 cup at a time, until a soft dough forms.",
+            "Turn dough out onto a lightly floured surface and knead until smooth, about 5 minutes. Shape dough into a loaf and place into the prepared pan.",
+            "Cook, uncovered, in a 650-watt microwave oven set at 50% power for 1 minute. Let rest for 10 minutes.",
+            "Repeat Step 4 one or two times, until loaf has doubled in size.",
+            "Microwave on high until top of loaf is no longer moist, 4 to 6 minutes.",
+            "Remove from the microwave and let stand in the pan for 5 minutes. Remove to a wire rack to finish cooling."
+        ],
+        "ingredients_canonical": [
+            "yellow cornmeal",
+            "¼ warm water degrees f degrees c",
+            "ounce package active dry yeast",
+            "lukewarm milk",
+            "white sugar",
+            "salt",
+            "⅛ baking soda",
+            "whole wheat flour",
+            "all-purpose flour"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 11,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 60,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy English Muffins",
+        "category": "English Muffins",
+        "subcategory": "English Muffins",
+        "description": "This easy English muffins recipe was inspired by Model Bakery in Napa, California, which fries them in clarified butter. I revised the recipe for a simpler, faster version and kept the frying method!",
+        "ingredients": [
+            "2 cups all-purpose flour, divided, plus more for rolling",
+            "1 ½ teaspoons active dry yeast",
+            "¾ cup warm water, divided",
+            "2 teaspoons vegetable oil",
+            "1 large egg white",
+            "1 teaspoon salt",
+            "2 tablespoons cornmeal, or as needed",
+            "¼ cup clarified butter (ghee)"
+        ],
+        "directions": [
+            "Whisk 1/4 cup flour, yeast, and 1/2 cup water together in a large bowl until foamy, about 10 minutes. Add oil, egg white, salt, remaining 1 ¾ cups flour, and remaining 1/4 cup water. Mix together until well combined; dough will be very wet and sticky. Cover, place in a warm spot, and let rise until double in size, about 2 hours.",
+            "Turn dough onto a well-floured surface. Work in just enough flour until dough is easy to work with, about 1 minute. Cut dough into 6 equal portions. Form each into a seamless dough ball, adding a pinch of flour to keep them from sticking to the work surface. Flatten to make thick disks. Transfer disks onto a lined baking sheet sprinkled generously with cornmeal. Let rise until double in size, about 1 to 1 ½ hours.",
+            "Add clarified butter to a large skillet over medium heat. Carefully transfer muffin disks to the skillet, cooking in batches to avoid overcrowding. Brown on both sides, turning halfway through cooking time, 10 to 12 minutes total. Continue turning to get muffins evenly brown and cooked through, 7 or 8 minutes more per side. Transfer to a rack to cool completely (this is key as you can't split muffins unless they're cool).",
+            "Split cooled muffins with a fork, inserting the tines all the way around the edges so the two sides can be pulled apart. Toast and serve with jam."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "all-purpose flour divided plus more for rolling ½ active dry yeast ¾ warm water divided vegetable oil large egg white salt cornmeal as needed ¼ clarified butter ghee",
+        "directions_text": "whisk 1/4 cup flour, yeast, and 1/2 cup water together in a large bowl until foamy, about 10 minutes. add oil, egg white, salt, remaining 1 ¾ cups flour, and remaining 1/4 cup water. mix together until well combined; dough will be very wet and sticky. cover, place in a warm spot, and let rise until double in size, about 2 hours. turn dough onto a well-floured surface. work in just enough flour until dough is easy to work with, about 1 minute. cut dough into 6 equal portions. form each into a seamless dough ball, adding a pinch of flour to keep them from sticking to the work surface. flatten to make thick disks. transfer disks onto a lined baking sheet sprinkled generously with cornmeal. let rise until double in size, about 1 to 1 ½ hours. add clarified butter to a large skillet over medium heat. carefully transfer muffin disks to the skillet, cooking in batches to avoid overcrowding. brown on both sides, turning halfway through cooking time, 10 to 12 minutes total. continue turning to get muffins evenly brown and cooked through, 7 or 8 minutes more per side. transfer to a rack to cool completely (this is key as you can't split muffins unless they're cool). split cooled muffins with a fork, inserting the tines all the way around the edges so the two sides can be pulled apart. toast and serve with jam.",
+        "combined_text": "easy english muffins english muffins english muffins 2 cups all-purpose flour, divided, plus more for rolling 1 ½ teaspoons active dry yeast ¾ cup warm water, divided 2 teaspoons vegetable oil 1 large egg white 1 teaspoon salt 2 tablespoons cornmeal, or as needed ¼ cup clarified butter (ghee) whisk 1/4 cup flour, yeast, and 1/2 cup water together in a large bowl until foamy, about 10 minutes. add oil, egg white, salt, remaining 1 ¾ cups flour, and remaining 1/4 cup water. mix together until well combined; dough will be very wet and sticky. cover, place in a warm spot, and let rise until double in size, about 2 hours. turn dough onto a well-floured surface. work in just enough flour until dough is easy to work with, about 1 minute. cut dough into 6 equal portions. form each into a seamless dough ball, adding a pinch of flour to keep them from sticking to the work surface. flatten to make thick disks. transfer disks onto a lined baking sheet sprinkled generously with cornmeal. let rise until double in size, about 1 to 1 ½ hours. add clarified butter to a large skillet over medium heat. carefully transfer muffin disks to the skillet, cooking in batches to avoid overcrowding. brown on both sides, turning halfway through cooking time, 10 to 12 minutes total. continue turning to get muffins evenly brown and cooked through, 7 or 8 minutes more per side. transfer to a rack to cool completely (this is key as you can't split muffins unless they're cool). split cooled muffins with a fork, inserting the tines all the way around the edges so the two sides can be pulled apart. toast and serve with jam.",
+        "ingredients_raw": [
+            "2 cups all-purpose flour, divided, plus more for rolling",
+            "1 ½ teaspoons active dry yeast",
+            "¾ cup warm water, divided",
+            "2 teaspoons vegetable oil",
+            "1 large egg white",
+            "1 teaspoon salt",
+            "2 tablespoons cornmeal, or as needed",
+            "¼ cup clarified butter (ghee)"
+        ],
+        "directions_raw": [
+            "Whisk 1/4 cup flour, yeast, and 1/2 cup water together in a large bowl until foamy, about 10 minutes. Add oil, egg white, salt, remaining 1 ¾ cups flour, and remaining 1/4 cup water. Mix together until well combined; dough will be very wet and sticky. Cover, place in a warm spot, and let rise until double in size, about 2 hours.",
+            "Turn dough onto a well-floured surface. Work in just enough flour until dough is easy to work with, about 1 minute. Cut dough into 6 equal portions. Form each into a seamless dough ball, adding a pinch of flour to keep them from sticking to the work surface. Flatten to make thick disks. Transfer disks onto a lined baking sheet sprinkled generously with cornmeal. Let rise until double in size, about 1 to 1 ½ hours.",
+            "Add clarified butter to a large skillet over medium heat. Carefully transfer muffin disks to the skillet, cooking in batches to avoid overcrowding. Brown on both sides, turning halfway through cooking time, 10 to 12 minutes total. Continue turning to get muffins evenly brown and cooked through, 7 or 8 minutes more per side. Transfer to a rack to cool completely (this is key as you can't split muffins unless they're cool).",
+            "Split cooled muffins with a fork, inserting the tines all the way around the edges so the two sides can be pulled apart. Toast and serve with jam."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour divided plus more for rolling",
+            "½ active dry yeast",
+            "¾ warm water divided",
+            "vegetable oil",
+            "large egg white",
+            "salt",
+            "cornmeal as needed",
+            "¼ clarified butter ghee"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "indian"
+        ],
+        "course_list": [
+            "breakfast",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 4,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 80,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grandma's English Muffin Bread",
+        "category": "English Muffins",
+        "subcategory": "English Muffins",
+        "description": "Make the dough for English muffins in the bread machine, then bake the loaves in the oven, and toast slices just before eating for the best taste. My grandma used to bake her loaves in large greased cans coated with cornmeal, which added to the English muffin appearance. Today she uses nonstick pans.",
+        "ingredients": [
+            "1 cup warm milk",
+            "¼ cup water",
+            "3 cups all-purpose flour",
+            "½ tablespoon white sugar",
+            "1 teaspoon salt",
+            "⅛ teaspoon baking powder",
+            "2 ¼ teaspoons active dry yeast"
+        ],
+        "directions": [
+            "Place milk, water, flour, sugar, salt, baking powder, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. Run Dough cycle. Remove dough from the machine after the cycle is done, about 90 minutes.",
+            "Shape 2/3 of the dough into a loaf; place into a 9x5-inch nonstick loaf pan. Shape remaining dough into a smaller loaf; place into a 7x3-inch nonstick loaf pan. Cover and let rise until doubled in volume, about 30 minutes.",
+            "Meanwhile, preheat the oven to 400 degrees F (200 degrees C).",
+            "Bake loaves in the preheated oven until golden brown on top, about 15 minutes. Carefully tip loaves out of the pans onto a work surface and gently tap bottoms. If they sound hollow, bread is done."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "warm milk ¼ water all-purpose flour ½ white sugar salt ⅛ baking powder ¼ active dry yeast",
+        "directions_text": "place milk, water, flour, sugar, salt, baking powder, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. run dough cycle. remove dough from the machine after the cycle is done, about 90 minutes. shape 2/3 of the dough into a loaf; place into a 9x5-inch nonstick loaf pan. shape remaining dough into a smaller loaf; place into a 7x3-inch nonstick loaf pan. cover and let rise until doubled in volume, about 30 minutes. meanwhile, preheat the oven to 400 degrees f (200 degrees c). bake loaves in the preheated oven until golden brown on top, about 15 minutes. carefully tip loaves out of the pans onto a work surface and gently tap bottoms. if they sound hollow, bread is done.",
+        "combined_text": "grandma's english muffin bread english muffins english muffins 1 cup warm milk ¼ cup water 3 cups all-purpose flour ½ tablespoon white sugar 1 teaspoon salt ⅛ teaspoon baking powder 2 ¼ teaspoons active dry yeast place milk, water, flour, sugar, salt, baking powder, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. run dough cycle. remove dough from the machine after the cycle is done, about 90 minutes. shape 2/3 of the dough into a loaf; place into a 9x5-inch nonstick loaf pan. shape remaining dough into a smaller loaf; place into a 7x3-inch nonstick loaf pan. cover and let rise until doubled in volume, about 30 minutes. meanwhile, preheat the oven to 400 degrees f (200 degrees c). bake loaves in the preheated oven until golden brown on top, about 15 minutes. carefully tip loaves out of the pans onto a work surface and gently tap bottoms. if they sound hollow, bread is done.",
+        "ingredients_raw": [
+            "1 cup warm milk",
+            "¼ cup water",
+            "3 cups all-purpose flour",
+            "½ tablespoon white sugar",
+            "1 teaspoon salt",
+            "⅛ teaspoon baking powder",
+            "2 ¼ teaspoons active dry yeast"
+        ],
+        "directions_raw": [
+            "Place milk, water, flour, sugar, salt, baking powder, and yeast into a bread machine in the order listed, or follow the order recommended by the manufacturer if different. Run Dough cycle. Remove dough from the machine after the cycle is done, about 90 minutes.",
+            "Shape 2/3 of the dough into a loaf; place into a 9x5-inch nonstick loaf pan. Shape remaining dough into a smaller loaf; place into a 7x3-inch nonstick loaf pan. Cover and let rise until doubled in volume, about 30 minutes.",
+            "Meanwhile, preheat the oven to 400 degrees F (200 degrees C).",
+            "Bake loaves in the preheated oven until golden brown on top, about 15 minutes. Carefully tip loaves out of the pans onto a work surface and gently tap bottoms. If they sound hollow, bread is done."
+        ],
+        "ingredients_canonical": [
+            "warm milk",
+            "¼ water",
+            "all-purpose flour",
+            "½ white sugar",
+            "salt",
+            "⅛ baking powder",
+            "¼ active dry yeast"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "breakfast",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 5,
+        "medium_hits": 3,
+        "cook_speed": "slow",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 87,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Homemade English Muffins",
+        "category": "English Muffins",
+        "subcategory": "English Muffins",
+        "description": "You can't make a true homemade English muffin without using bread flour; it gives the muffins the chewy texture you identify with and love. I've tried many recipes with all-purpose and bread flour, and this is the best.",
+        "ingredients": [
+            "21 ounces (4",
+            "2 ¼ teaspoons instant dry yeast",
+            "2 teaspoons kosher salt",
+            "14 ounces lukewarm whole milk",
+            "2 tablespoons white sugar",
+            "2 tablespoons butter, softened",
+            "1 large egg, at room temperature, slightly beaten",
+            "¼ cup semolina, or as needed"
+        ],
+        "directions": [
+            "Place flour in a large bowl. Sprinkle yeast on one side of flour and salt on other side. Add milk, sugar, butter, and egg; stir to make a soft dough.",
+            "Turn dough out onto a lightly floured surface; knead until soft, smooth, and stretchy, about 10 minutes.",
+            "Place dough into a large oiled bowl. Cover and let rise in a warm place until doubled in volume, about 1 hour.",
+            "Deflate dough; divide into 16 pieces. Press each dough piece into English muffin rings; sprinkle both sides with semolina. Let rest 30 minutes.",
+            "Preheat a griddle to 400 degrees F (200 degrees C) or a heavy skillet over low heat. Cook muffins on the preheated griddle or skillet until an instant-read thermometer inserted into centers reaches 200 F (93 degrees C), 7 to 10 minutes per side."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 5,
+        "ingredient_text": "ounces ¼ instant dry yeast kosher salt ounces lukewarm whole milk white sugar butter softened large egg at room temperature slightly beaten ¼ semolina as needed",
+        "directions_text": "place flour in a large bowl. sprinkle yeast on one side of flour and salt on other side. add milk, sugar, butter, and egg; stir to make a soft dough. turn dough out onto a lightly floured surface; knead until soft, smooth, and stretchy, about 10 minutes. place dough into a large oiled bowl. cover and let rise in a warm place until doubled in volume, about 1 hour. deflate dough; divide into 16 pieces. press each dough piece into english muffin rings; sprinkle both sides with semolina. let rest 30 minutes. preheat a griddle to 400 degrees f (200 degrees c) or a heavy skillet over low heat. cook muffins on the preheated griddle or skillet until an instant-read thermometer inserted into centers reaches 200 f (93 degrees c), 7 to 10 minutes per side.",
+        "combined_text": "homemade english muffins english muffins english muffins 21 ounces (4 2 ¼ teaspoons instant dry yeast 2 teaspoons kosher salt 14 ounces lukewarm whole milk 2 tablespoons white sugar 2 tablespoons butter, softened 1 large egg, at room temperature, slightly beaten ¼ cup semolina, or as needed place flour in a large bowl. sprinkle yeast on one side of flour and salt on other side. add milk, sugar, butter, and egg; stir to make a soft dough. turn dough out onto a lightly floured surface; knead until soft, smooth, and stretchy, about 10 minutes. place dough into a large oiled bowl. cover and let rise in a warm place until doubled in volume, about 1 hour. deflate dough; divide into 16 pieces. press each dough piece into english muffin rings; sprinkle both sides with semolina. let rest 30 minutes. preheat a griddle to 400 degrees f (200 degrees c) or a heavy skillet over low heat. cook muffins on the preheated griddle or skillet until an instant-read thermometer inserted into centers reaches 200 f (93 degrees c), 7 to 10 minutes per side.",
+        "ingredients_raw": [
+            "21 ounces (4",
+            "2 ¼ teaspoons instant dry yeast",
+            "2 teaspoons kosher salt",
+            "14 ounces lukewarm whole milk",
+            "2 tablespoons white sugar",
+            "2 tablespoons butter, softened",
+            "1 large egg, at room temperature, slightly beaten",
+            "¼ cup semolina, or as needed"
+        ],
+        "directions_raw": [
+            "Place flour in a large bowl. Sprinkle yeast on one side of flour and salt on other side. Add milk, sugar, butter, and egg; stir to make a soft dough.",
+            "Turn dough out onto a lightly floured surface; knead until soft, smooth, and stretchy, about 10 minutes.",
+            "Place dough into a large oiled bowl. Cover and let rise in a warm place until doubled in volume, about 1 hour.",
+            "Deflate dough; divide into 16 pieces. Press each dough piece into English muffin rings; sprinkle both sides with semolina. Let rest 30 minutes.",
+            "Preheat a griddle to 400 degrees F (200 degrees C) or a heavy skillet over low heat. Cook muffins on the preheated griddle or skillet until an instant-read thermometer inserted into centers reaches 200 F (93 degrees C), 7 to 10 minutes per side."
+        ],
+        "ingredients_canonical": [
+            "ounces",
+            "¼ instant dry yeast",
+            "kosher salt",
+            "ounces lukewarm whole milk",
+            "white sugar",
+            "butter softened",
+            "large egg at room temperature slightly beaten",
+            "¼ semolina as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 3,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 81,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "No-Knead English Muffin Loaves",
+        "category": "English Muffins",
+        "subcategory": "English Muffins",
+        "description": "Forget about store bought English muffins! Make your own! Slice and serve with butter, jam, sugar and cinnamon, whatever.",
+        "ingredients": [
+            "2 (.25 ounce) packages active dry yeast",
+            "1 tablespoon white sugar",
+            "½ cup warm water (110 degrees F/45 degrees C)",
+            "2 cups warm milk (110 degrees F/45 degrees C)",
+            "6 cups bread flour, divided",
+            "2 teaspoons salt",
+            "¼ teaspoon baking soda",
+            "2 tablespoons yellow cornmeal"
+        ],
+        "directions": [
+            "In a small bowl, dissolve yeast and sugar in warm water. Let stand until creamy, about 10 minutes.",
+            "In a large bowl, combine the yeast mixture with warm milk, 3 cups flour, salt and baking soda; stir well to combine. Stir in the remaining flour, 1 cup at a time until a stiff batter is formed. Spoon batter into two lightly greased 9x5 inch loaf pans that have each been sprinkled with 1 tablespoon cornmeal. Cover and let rise in a warm place until doubled in size, about 45 minutes.",
+            "Preheat an oven to 400 degrees F (200 degrees C).",
+            "Bake in preheated oven for about 25 to 30 minutes or until the top is golden brown and the bottom of the loaf sounds hollow when tapped. Remove from pans immediately and place on wire racks to cool."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "ounce packages active dry yeast white sugar ½ warm water degrees f degrees c warm milk degrees f degrees c bread flour divided salt ¼ baking soda yellow cornmeal",
+        "directions_text": "in a small bowl, dissolve yeast and sugar in warm water. let stand until creamy, about 10 minutes. in a large bowl, combine the yeast mixture with warm milk, 3 cups flour, salt and baking soda; stir well to combine. stir in the remaining flour, 1 cup at a time until a stiff batter is formed. spoon batter into two lightly greased 9x5 inch loaf pans that have each been sprinkled with 1 tablespoon cornmeal. cover and let rise in a warm place until doubled in size, about 45 minutes. preheat an oven to 400 degrees f (200 degrees c). bake in preheated oven for about 25 to 30 minutes or until the top is golden brown and the bottom of the loaf sounds hollow when tapped. remove from pans immediately and place on wire racks to cool.",
+        "combined_text": "no-knead english muffin loaves english muffins english muffins 2 (.25 ounce) packages active dry yeast 1 tablespoon white sugar ½ cup warm water (110 degrees f/45 degrees c) 2 cups warm milk (110 degrees f/45 degrees c) 6 cups bread flour, divided 2 teaspoons salt ¼ teaspoon baking soda 2 tablespoons yellow cornmeal in a small bowl, dissolve yeast and sugar in warm water. let stand until creamy, about 10 minutes. in a large bowl, combine the yeast mixture with warm milk, 3 cups flour, salt and baking soda; stir well to combine. stir in the remaining flour, 1 cup at a time until a stiff batter is formed. spoon batter into two lightly greased 9x5 inch loaf pans that have each been sprinkled with 1 tablespoon cornmeal. cover and let rise in a warm place until doubled in size, about 45 minutes. preheat an oven to 400 degrees f (200 degrees c). bake in preheated oven for about 25 to 30 minutes or until the top is golden brown and the bottom of the loaf sounds hollow when tapped. remove from pans immediately and place on wire racks to cool.",
+        "ingredients_raw": [
+            "2 (.25 ounce) packages active dry yeast",
+            "1 tablespoon white sugar",
+            "½ cup warm water (110 degrees F/45 degrees C)",
+            "2 cups warm milk (110 degrees F/45 degrees C)",
+            "6 cups bread flour, divided",
+            "2 teaspoons salt",
+            "¼ teaspoon baking soda",
+            "2 tablespoons yellow cornmeal"
+        ],
+        "directions_raw": [
+            "In a small bowl, dissolve yeast and sugar in warm water. Let stand until creamy, about 10 minutes.",
+            "In a large bowl, combine the yeast mixture with warm milk, 3 cups flour, salt and baking soda; stir well to combine. Stir in the remaining flour, 1 cup at a time until a stiff batter is formed. Spoon batter into two lightly greased 9x5 inch loaf pans that have each been sprinkled with 1 tablespoon cornmeal. Cover and let rise in a warm place until doubled in size, about 45 minutes.",
+            "Preheat an oven to 400 degrees F (200 degrees C).",
+            "Bake in preheated oven for about 25 to 30 minutes or until the top is golden brown and the bottom of the loaf sounds hollow when tapped. Remove from pans immediately and place on wire racks to cool."
+        ],
+        "ingredients_canonical": [
+            "ounce packages active dry yeast",
+            "white sugar",
+            "½ warm water degrees f degrees c",
+            "warm milk degrees f degrees c",
+            "bread flour divided",
+            "salt",
+            "¼ baking soda",
+            "yellow cornmeal"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "bread",
+            "breakfast",
+            "main",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 61,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

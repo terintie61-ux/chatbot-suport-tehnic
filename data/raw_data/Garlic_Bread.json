@@ -1,0 +1,3517 @@
+[
+    {
+        "recipe_title": "Antipasti Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This antipasti garlic bread is vibrant with a pop of brightly colored cherry tomatoes, creamy mozzarella cheese, basil, and prosciutto on golden-toasted garlic butter French bread.",
+        "ingredients": [
+            "1 French baguette",
+            "2 to 3 garlic cloves, peeled",
+            "1 pinch salt",
+            "1/2 cup unsalted butter",
+            "8 ounces mozzarella cheese",
+            "1 cup cherry tomatoes,",
+            "1 (4 ounce) package prosciutto",
+            "2 to 3 basil leaves"
+        ],
+        "directions": [
+            "Preheat the oven's broiler to 500 degrees F (260 degrees C), and set a rack 6 inches from the heat source. Line a baking sheet with foil. Lay bread slices on the prepared sheet.",
+            "Rub peeled garlic cloves over a microplane grater to make a paste. Add garlic paste to a bowl; sprinkle with salt. Add softened butter and mix well. Spread 1 to 2 teaspoons garlic butter on each bread slice.",
+            "Broil garlic bread under the preheated broiler until golden, 1 to 3 minutes.",
+            "Remove garlic bread from oven to cool slightly on a wire rack. Place mozzarella and tomatoes in a bowl; gently toss mixture, and divide evenly between bread slices. Garnish with prosciutto and basil; serve."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "french baguette garlic cloves peeled pinch salt unsalted butter ounces mozzarella cheese cherry tomatoes ounce package prosciutto basil leaves",
+        "directions_text": "preheat the oven's broiler to 500 degrees f (260 degrees c), and set a rack 6 inches from the heat source. line a baking sheet with foil. lay bread slices on the prepared sheet. rub peeled garlic cloves over a microplane grater to make a paste. add garlic paste to a bowl; sprinkle with salt. add softened butter and mix well. spread 1 to 2 teaspoons garlic butter on each bread slice. broil garlic bread under the preheated broiler until golden, 1 to 3 minutes. remove garlic bread from oven to cool slightly on a wire rack. place mozzarella and tomatoes in a bowl; gently toss mixture, and divide evenly between bread slices. garnish with prosciutto and basil; serve.",
+        "combined_text": "antipasti garlic bread garlic bread garlic bread 1 french baguette 2 to 3 garlic cloves, peeled 1 pinch salt 1/2 cup unsalted butter 8 ounces mozzarella cheese 1 cup cherry tomatoes, 1 (4 ounce) package prosciutto 2 to 3 basil leaves preheat the oven's broiler to 500 degrees f (260 degrees c), and set a rack 6 inches from the heat source. line a baking sheet with foil. lay bread slices on the prepared sheet. rub peeled garlic cloves over a microplane grater to make a paste. add garlic paste to a bowl; sprinkle with salt. add softened butter and mix well. spread 1 to 2 teaspoons garlic butter on each bread slice. broil garlic bread under the preheated broiler until golden, 1 to 3 minutes. remove garlic bread from oven to cool slightly on a wire rack. place mozzarella and tomatoes in a bowl; gently toss mixture, and divide evenly between bread slices. garnish with prosciutto and basil; serve.",
+        "ingredients_raw": [
+            "1 French baguette",
+            "2 to 3 garlic cloves, peeled",
+            "1 pinch salt",
+            "1/2 cup unsalted butter",
+            "8 ounces mozzarella cheese",
+            "1 cup cherry tomatoes,",
+            "1 (4 ounce) package prosciutto",
+            "2 to 3 basil leaves"
+        ],
+        "directions_raw": [
+            "Preheat the oven's broiler to 500 degrees F (260 degrees C), and set a rack 6 inches from the heat source. Line a baking sheet with foil. Lay bread slices on the prepared sheet.",
+            "Rub peeled garlic cloves over a microplane grater to make a paste. Add garlic paste to a bowl; sprinkle with salt. Add softened butter and mix well. Spread 1 to 2 teaspoons garlic butter on each bread slice.",
+            "Broil garlic bread under the preheated broiler until golden, 1 to 3 minutes.",
+            "Remove garlic bread from oven to cool slightly on a wire rack. Place mozzarella and tomatoes in a bowl; gently toss mixture, and divide evenly between bread slices. Garnish with prosciutto and basil; serve."
+        ],
+        "ingredients_canonical": [
+            "french baguette",
+            "garlic cloves peeled",
+            "pinch salt",
+            "unsalted butter",
+            "ounces mozzarella cheese",
+            "cherry tomatoes",
+            "ounce package prosciutto",
+            "basil leaves"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": false,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Caprese Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "I made this caprese garlic bread because just about everybody loves crusty garlic bread. And when you add tomatoes, mozzarella, basil, and a drizzle of balsamic, it kicks up the flavor to sensational. French, Italian and ciabatta are all good bread choices.",
+        "ingredients": [
+            "1 (12 ounce) loaf French bread",
+            "olive oil spray",
+            "4 tablespoons salted butter",
+            "5 cloves garlic",
+            "12 ounces mozzarella cheese",
+            "4 small tomatoes",
+            "salt and freshly ground black pepper",
+            "1/3 cup chopped fresh basil",
+            "balsamic glaze"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C), and line a baking sheet with parchment paper. Cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up.",
+            "In a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices.",
+            "Bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes.",
+            "Remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. Drizzle with balsamic glaze, cut into slices, and serve."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "ounce loaf french bread olive oil spray salted butter cloves garlic ounces mozzarella cheese small tomatoes salt freshly ground black pepper chopped fresh basil balsamic glaze",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c), and line a baking sheet with parchment paper. cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up. in a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices. bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes. remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. drizzle with balsamic glaze, cut into slices, and serve.",
+        "combined_text": "caprese garlic bread garlic bread garlic bread 1 (12 ounce) loaf french bread olive oil spray 4 tablespoons salted butter 5 cloves garlic 12 ounces mozzarella cheese 4 small tomatoes salt and freshly ground black pepper 1/3 cup chopped fresh basil balsamic glaze preheat the oven to 400 degrees f (200 degrees c), and line a baking sheet with parchment paper. cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up. in a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices. bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes. remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. drizzle with balsamic glaze, cut into slices, and serve.",
+        "ingredients_raw": [
+            "1 (12 ounce) loaf French bread",
+            "olive oil spray",
+            "4 tablespoons salted butter",
+            "5 cloves garlic",
+            "12 ounces mozzarella cheese",
+            "4 small tomatoes",
+            "salt and freshly ground black pepper",
+            "1/3 cup chopped fresh basil",
+            "balsamic glaze"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C), and line a baking sheet with parchment paper. Cut bread in half lengthwise, lightly spray with olive oil, and place on the baking sheet, cut side up.",
+            "In a small bowl, combine butter and garlic; spread evenly on the bread halves, and top with mozzarella slices.",
+            "Bake in the preheated oven until cheese is melted, and bread edges are starting to brown, 8 to 11 minutes.",
+            "Remove from the oven, place tomato slices on top of the cheese, season with salt and pepper, and sprinkle with basil. Drizzle with balsamic glaze, cut into slices, and serve."
+        ],
+        "ingredients_canonical": [
+            "ounce loaf french bread",
+            "olive oil spray",
+            "salted butter",
+            "cloves garlic",
+            "ounces mozzarella cheese",
+            "small tomatoes",
+            "salt freshly ground black pepper",
+            "chopped fresh basil",
+            "balsamic glaze"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 8,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Garlic Knots",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "These easy garlic knots are so good, you'll want to make an extra batch to take pizza night to the next level.",
+        "ingredients": [
+            "10 ounces pizza dough",
+            "1/3 cup extra-virgin olive oil",
+            "1/3 cup minced garlic",
+            "1/3 cup grated Parmesan cheese",
+            "3 tablespoons fresh parsley",
+            "1 teaspoon crushed red pepper",
+            "1/2 teaspoon kosher salt"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a large baking sheet.",
+            "Roll out dough on a lightly floured surface to a 10x16-inch rectangle. Cut dough lengthwise into 12 strips. Halve strips to make 24 (8-inch-long) strips. Tie each strip in a knot. Arrange on prepared baking sheet.",
+            "Bake in the preheated oven until golden brown, 10 to 15 minutes. Transfer knots to a large bowl. Drizzle with oil. Sprinkle with garlic, Parmesan, parsley, crushed red pepper, and salt. Toss gently to coat."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "ounces pizza dough extra-virgin olive oil minced garlic grated parmesan cheese fresh parsley crushed red pepper kosher salt",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). grease a large baking sheet. roll out dough on a lightly floured surface to a 10x16-inch rectangle. cut dough lengthwise into 12 strips. halve strips to make 24 (8-inch-long) strips. tie each strip in a knot. arrange on prepared baking sheet. bake in the preheated oven until golden brown, 10 to 15 minutes. transfer knots to a large bowl. drizzle with oil. sprinkle with garlic, parmesan, parsley, crushed red pepper, and salt. toss gently to coat.",
+        "combined_text": "easy garlic knots garlic bread garlic bread 10 ounces pizza dough 1/3 cup extra-virgin olive oil 1/3 cup minced garlic 1/3 cup grated parmesan cheese 3 tablespoons fresh parsley 1 teaspoon crushed red pepper 1/2 teaspoon kosher salt preheat the oven to 350 degrees f (175 degrees c). grease a large baking sheet. roll out dough on a lightly floured surface to a 10x16-inch rectangle. cut dough lengthwise into 12 strips. halve strips to make 24 (8-inch-long) strips. tie each strip in a knot. arrange on prepared baking sheet. bake in the preheated oven until golden brown, 10 to 15 minutes. transfer knots to a large bowl. drizzle with oil. sprinkle with garlic, parmesan, parsley, crushed red pepper, and salt. toss gently to coat.",
+        "ingredients_raw": [
+            "10 ounces pizza dough",
+            "1/3 cup extra-virgin olive oil",
+            "1/3 cup minced garlic",
+            "1/3 cup grated Parmesan cheese",
+            "3 tablespoons fresh parsley",
+            "1 teaspoon crushed red pepper",
+            "1/2 teaspoon kosher salt"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a large baking sheet.",
+            "Roll out dough on a lightly floured surface to a 10x16-inch rectangle. Cut dough lengthwise into 12 strips. Halve strips to make 24 (8-inch-long) strips. Tie each strip in a knot. Arrange on prepared baking sheet.",
+            "Bake in the preheated oven until golden brown, 10 to 15 minutes. Transfer knots to a large bowl. Drizzle with oil. Sprinkle with garlic, Parmesan, parsley, crushed red pepper, and salt. Toss gently to coat."
+        ],
+        "ingredients_canonical": [
+            "ounces pizza dough",
+            "extra-virgin olive oil",
+            "minced garlic",
+            "grated parmesan cheese",
+            "fresh parsley",
+            "crushed red pepper",
+            "kosher salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 31,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheesy Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This cheesy garlic bread is as simple and straightforward as a cheesy garlic bread should be. Serve with your favorite pasta dish or with soup.",
+        "ingredients": [
+            "1 (14 ounce) loaf French bread",
+            "8 tablespoons unsalted butter",
+            "1 teaspoon garlic powder",
+            "1/2 cup grated Parmesan-Romano",
+            "1 cup shredded mozzarella cheese",
+            "1/4 cup chopped chopped parsley"
+        ],
+        "directions": [
+            "Preheat the oven's broiler to Low. Place bread slices face up on a baking sheet; brush melted butter over tops.",
+            "Divide garlic powder, Parmesan blend, and mozzarella evenly between slices, in that order.",
+            "Place baking sheet on the middle rack. Broil on low until golden and bubbly, about 9 minutes. Sprinkle with chopped parsley."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 3,
+        "ingredient_text": "ounce loaf french bread unsalted butter garlic powder grated parmesan-romano shredded mozzarella cheese chopped chopped parsley",
+        "directions_text": "preheat the oven's broiler to low. place bread slices face up on a baking sheet; brush melted butter over tops. divide garlic powder, parmesan blend, and mozzarella evenly between slices, in that order. place baking sheet on the middle rack. broil on low until golden and bubbly, about 9 minutes. sprinkle with chopped parsley.",
+        "combined_text": "cheesy garlic bread garlic bread garlic bread 1 (14 ounce) loaf french bread 8 tablespoons unsalted butter 1 teaspoon garlic powder 1/2 cup grated parmesan-romano 1 cup shredded mozzarella cheese 1/4 cup chopped chopped parsley preheat the oven's broiler to low. place bread slices face up on a baking sheet; brush melted butter over tops. divide garlic powder, parmesan blend, and mozzarella evenly between slices, in that order. place baking sheet on the middle rack. broil on low until golden and bubbly, about 9 minutes. sprinkle with chopped parsley.",
+        "ingredients_raw": [
+            "1 (14 ounce) loaf French bread",
+            "8 tablespoons unsalted butter",
+            "1 teaspoon garlic powder",
+            "1/2 cup grated Parmesan-Romano",
+            "1 cup shredded mozzarella cheese",
+            "1/4 cup chopped chopped parsley"
+        ],
+        "directions_raw": [
+            "Preheat the oven's broiler to Low. Place bread slices face up on a baking sheet; brush melted butter over tops.",
+            "Divide garlic powder, Parmesan blend, and mozzarella evenly between slices, in that order.",
+            "Place baking sheet on the middle rack. Broil on low until golden and bubbly, about 9 minutes. Sprinkle with chopped parsley."
+        ],
+        "ingredients_canonical": [
+            "ounce loaf french bread",
+            "unsalted butter",
+            "garlic powder",
+            "grated parmesan-romano",
+            "shredded mozzarella cheese",
+            "chopped chopped parsley"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheesy Stuffed Garlic Hawaiian Rolls",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "These cheesy stuffed garlic Hawaiian rolls are an explosion of flavor in the best way. Baked with string cheese tucked inside, and a parsley-garlic butter brushed over, you'll never make garlic bread any other way.",
+        "ingredients": [
+            "1 (12 Hawaiian rolls",
+            "6 mozzarella string cheese sticks",
+            "5 tablespoons butter",
+            "2 cloves garlic",
+            "2 teaspoons dried parsley",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon pepper",
+            "1 grated Parmesan cheese"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Separate each roll and, using a paring knife, cut a 1/2-inch slit in the side and hollow out a small hole, taking care not to cut all the way through.",
+            "Cut each string cheese in half and stick 1 piece into each prepared roll. Place rolls in a baking dish nestled close to each other.",
+            "Place butter, garlic, parsley, salt, and pepper in a small microwave-safe bowl or measuring cup and cover loosely with a paper towel. Microwave until melted, stirring halfway through, until melted, 30 seconds to 1 minute. Brush butter mixture generously over each roll and sprinkle with grated Parmesan.",
+            "Bake in the preheated oven until rolls are golden brown and lightly toasted, 15 to 18 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 4,
+        "ingredient_text": "hawaiian rolls mozzarella string cheese sticks butter cloves garlic dried parsley salt pepper grated parmesan cheese",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). separate each roll and, using a paring knife, cut a 1/2-inch slit in the side and hollow out a small hole, taking care not to cut all the way through. cut each string cheese in half and stick 1 piece into each prepared roll. place rolls in a baking dish nestled close to each other. place butter, garlic, parsley, salt, and pepper in a small microwave-safe bowl or measuring cup and cover loosely with a paper towel. microwave until melted, stirring halfway through, until melted, 30 seconds to 1 minute. brush butter mixture generously over each roll and sprinkle with grated parmesan. bake in the preheated oven until rolls are golden brown and lightly toasted, 15 to 18 minutes.",
+        "combined_text": "cheesy stuffed garlic hawaiian rolls garlic bread garlic bread 1 (12 hawaiian rolls 6 mozzarella string cheese sticks 5 tablespoons butter 2 cloves garlic 2 teaspoons dried parsley 1/2 teaspoon salt 1/4 teaspoon pepper 1 grated parmesan cheese preheat the oven to 350 degrees f (175 degrees c). separate each roll and, using a paring knife, cut a 1/2-inch slit in the side and hollow out a small hole, taking care not to cut all the way through. cut each string cheese in half and stick 1 piece into each prepared roll. place rolls in a baking dish nestled close to each other. place butter, garlic, parsley, salt, and pepper in a small microwave-safe bowl or measuring cup and cover loosely with a paper towel. microwave until melted, stirring halfway through, until melted, 30 seconds to 1 minute. brush butter mixture generously over each roll and sprinkle with grated parmesan. bake in the preheated oven until rolls are golden brown and lightly toasted, 15 to 18 minutes.",
+        "ingredients_raw": [
+            "1 (12 Hawaiian rolls",
+            "6 mozzarella string cheese sticks",
+            "5 tablespoons butter",
+            "2 cloves garlic",
+            "2 teaspoons dried parsley",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon pepper",
+            "1 grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Separate each roll and, using a paring knife, cut a 1/2-inch slit in the side and hollow out a small hole, taking care not to cut all the way through.",
+            "Cut each string cheese in half and stick 1 piece into each prepared roll. Place rolls in a baking dish nestled close to each other.",
+            "Place butter, garlic, parsley, salt, and pepper in a small microwave-safe bowl or measuring cup and cover loosely with a paper towel. Microwave until melted, stirring halfway through, until melted, 30 seconds to 1 minute. Brush butter mixture generously over each roll and sprinkle with grated Parmesan.",
+            "Bake in the preheated oven until rolls are golden brown and lightly toasted, 15 to 18 minutes."
+        ],
+        "ingredients_canonical": [
+            "hawaiian rolls",
+            "mozzarella string cheese sticks",
+            "butter",
+            "cloves garlic",
+            "dried parsley",
+            "salt",
+            "pepper",
+            "grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Roasted Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Easy roasted garlic bread made with roasted garlic, butter, and Parmesan cheese.",
+        "ingredients": [
+            "3 heads garlic",
+            "2 tablespoons olive oil",
+            "1 (1 pound) loaf Italian bread",
+            "½ cup butter, softened",
+            "2 tablespoons grated Parmesan cheese (Optional)",
+            "1 tablespoon chopped fresh parsley (Optional)"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Slice the tops off of garlic heads, so the tip of each clove is exposed. Place garlic heads, cut-sides up, on a baking sheet; drizzle tops with olive oil.",
+            "Bake in the preheated oven until garlic is soft, about 30 minutes.",
+            "Set the oven to broil.",
+            "Slice bread loaf in half horizontally; place cut-side up on a baking sheet.",
+            "Squeeze garlic cloves from their skins into a medium bowl. Stir in butter, Parmesan cheese, and parsley until well blended. Spread onto the cut sides of bread.",
+            "Broil bread until toasted, about 5 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 7,
+        "ingredient_text": "heads garlic olive oil pound loaf italian bread ½ butter softened grated parmesan cheese optional chopped fresh parsley optional",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). slice the tops off of garlic heads, so the tip of each clove is exposed. place garlic heads, cut-sides up, on a baking sheet; drizzle tops with olive oil. bake in the preheated oven until garlic is soft, about 30 minutes. set the oven to broil. slice bread loaf in half horizontally; place cut-side up on a baking sheet. squeeze garlic cloves from their skins into a medium bowl. stir in butter, parmesan cheese, and parsley until well blended. spread onto the cut sides of bread. broil bread until toasted, about 5 minutes.",
+        "combined_text": "roasted garlic bread garlic bread garlic bread 3 heads garlic 2 tablespoons olive oil 1 (1 pound) loaf italian bread ½ cup butter, softened 2 tablespoons grated parmesan cheese (optional) 1 tablespoon chopped fresh parsley (optional) preheat the oven to 350 degrees f (175 degrees c). slice the tops off of garlic heads, so the tip of each clove is exposed. place garlic heads, cut-sides up, on a baking sheet; drizzle tops with olive oil. bake in the preheated oven until garlic is soft, about 30 minutes. set the oven to broil. slice bread loaf in half horizontally; place cut-side up on a baking sheet. squeeze garlic cloves from their skins into a medium bowl. stir in butter, parmesan cheese, and parsley until well blended. spread onto the cut sides of bread. broil bread until toasted, about 5 minutes.",
+        "ingredients_raw": [
+            "3 heads garlic",
+            "2 tablespoons olive oil",
+            "1 (1 pound) loaf Italian bread",
+            "½ cup butter, softened",
+            "2 tablespoons grated Parmesan cheese (Optional)",
+            "1 tablespoon chopped fresh parsley (Optional)"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Slice the tops off of garlic heads, so the tip of each clove is exposed. Place garlic heads, cut-sides up, on a baking sheet; drizzle tops with olive oil.",
+            "Bake in the preheated oven until garlic is soft, about 30 minutes.",
+            "Set the oven to broil.",
+            "Slice bread loaf in half horizontally; place cut-side up on a baking sheet.",
+            "Squeeze garlic cloves from their skins into a medium bowl. Stir in butter, Parmesan cheese, and parsley until well blended. Spread onto the cut sides of bread.",
+            "Broil bread until toasted, about 5 minutes."
+        ],
+        "ingredients_canonical": [
+            "heads garlic",
+            "olive oil",
+            "pound loaf italian bread",
+            "½ butter softened",
+            "grated parmesan cheese optional",
+            "chopped fresh parsley optional"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 7,
+        "cook_speed": "medium",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 68,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic Bread Spread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This garlic bread spread recipe makes tasty homemade garlic bread that goes great with most Italian dishes. I usually make it with chicken Parmesan. Delicious!",
+        "ingredients": [
+            "½ cup butter, softened",
+            "¼ cup grated Parmesan cheese",
+            "2 cloves garlic, minced",
+            "¼ teaspoon dried marjoram",
+            "¼ teaspoon dried basil",
+            "¼ teaspoon fines herbs",
+            "¼ teaspoon dried oregano",
+            "¼ teaspoon dried parsley, or to taste",
+            "ground black pepper to taste",
+            "1 loaf unsliced Italian bread"
+        ],
+        "directions": [
+            "Gather ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix butter, Parmesan cheese, garlic, marjoram, basil, fines herbs, oregano, parsley, and pepper together in a bowl until thoroughly combined.",
+            "Slice Italian bread loaf in half lengthwise; spread each half generously with the garlic butter mixture. Transfer onto a baking sheet.",
+            "Bake on the top rack of the preheated oven until butter mixture melts and bubbles, about 10 to 15 minutes. Turn on the oven's broiler and broil until the bread is your desired shade of golden brown, 1 to 2 more minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "½ butter softened ¼ grated parmesan cheese cloves garlic minced ¼ dried marjoram ¼ dried basil ¼ fines herbs ¼ dried oregano ¼ dried parsley taste ground black pepper taste loaf unsliced italian bread",
+        "directions_text": "gather ingredients and preheat the oven to 350 degrees f (175 degrees c). mix butter, parmesan cheese, garlic, marjoram, basil, fines herbs, oregano, parsley, and pepper together in a bowl until thoroughly combined. slice italian bread loaf in half lengthwise; spread each half generously with the garlic butter mixture. transfer onto a baking sheet. bake on the top rack of the preheated oven until butter mixture melts and bubbles, about 10 to 15 minutes. turn on the oven's broiler and broil until the bread is your desired shade of golden brown, 1 to 2 more minutes.",
+        "combined_text": "garlic bread spread garlic bread garlic bread ½ cup butter, softened ¼ cup grated parmesan cheese 2 cloves garlic, minced ¼ teaspoon dried marjoram ¼ teaspoon dried basil ¼ teaspoon fines herbs ¼ teaspoon dried oregano ¼ teaspoon dried parsley, or to taste ground black pepper to taste 1 loaf unsliced italian bread gather ingredients and preheat the oven to 350 degrees f (175 degrees c). mix butter, parmesan cheese, garlic, marjoram, basil, fines herbs, oregano, parsley, and pepper together in a bowl until thoroughly combined. slice italian bread loaf in half lengthwise; spread each half generously with the garlic butter mixture. transfer onto a baking sheet. bake on the top rack of the preheated oven until butter mixture melts and bubbles, about 10 to 15 minutes. turn on the oven's broiler and broil until the bread is your desired shade of golden brown, 1 to 2 more minutes.",
+        "ingredients_raw": [
+            "½ cup butter, softened",
+            "¼ cup grated Parmesan cheese",
+            "2 cloves garlic, minced",
+            "¼ teaspoon dried marjoram",
+            "¼ teaspoon dried basil",
+            "¼ teaspoon fines herbs",
+            "¼ teaspoon dried oregano",
+            "¼ teaspoon dried parsley, or to taste",
+            "ground black pepper to taste",
+            "1 loaf unsliced Italian bread"
+        ],
+        "directions_raw": [
+            "Gather ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix butter, Parmesan cheese, garlic, marjoram, basil, fines herbs, oregano, parsley, and pepper together in a bowl until thoroughly combined.",
+            "Slice Italian bread loaf in half lengthwise; spread each half generously with the garlic butter mixture. Transfer onto a baking sheet.",
+            "Bake on the top rack of the preheated oven until butter mixture melts and bubbles, about 10 to 15 minutes. Turn on the oven's broiler and broil until the bread is your desired shade of golden brown, 1 to 2 more minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter softened",
+            "¼ grated parmesan cheese",
+            "cloves garlic minced",
+            "¼ dried marjoram",
+            "¼ dried basil",
+            "¼ fines herbs",
+            "¼ dried oregano",
+            "¼ dried parsley taste",
+            "ground black pepper taste",
+            "loaf unsliced italian bread"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Toasted Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This garlic toast recipe is quick to make and scrumptious to eat! It will complement any Italian meal. Melted mozzarella is optional but delicious.",
+        "ingredients": [
+            "1 (1 pound) loaf Italian bread",
+            "5 tablespoons butter, softened",
+            "3 cloves garlic, crushed",
+            "2 teaspoons extra virgin olive oil",
+            "1 teaspoon dried oregano",
+            "salt and pepper to taste",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Cut loaf into ten 1-inch slices.",
+            "Mix butter, garlic, oil, oregano, salt, and pepper together in a bowl; spread butter mixture on one side of each slice of bread; arrange bread slices, butter-side up, in a single layer on a baking sheet.",
+            "Cook under the preheated broiler until slightly brown, checking frequently so they do not burn, about 3 minutes.",
+            "Top bread slices with cheese and return to broiler until cheese is slightly brown and melted, about 2 minutes.",
+            "Serve hot."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 6,
+        "ingredient_text": "pound loaf italian bread butter softened cloves garlic crushed extra virgin olive oil dried oregano salt pepper taste shredded mozzarella cheese",
+        "directions_text": "gather all ingredients. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. cut loaf into ten 1-inch slices. mix butter, garlic, oil, oregano, salt, and pepper together in a bowl; spread butter mixture on one side of each slice of bread; arrange bread slices, butter-side up, in a single layer on a baking sheet. cook under the preheated broiler until slightly brown, checking frequently so they do not burn, about 3 minutes. top bread slices with cheese and return to broiler until cheese is slightly brown and melted, about 2 minutes. serve hot.",
+        "combined_text": "toasted garlic bread garlic bread garlic bread 1 (1 pound) loaf italian bread 5 tablespoons butter, softened 3 cloves garlic, crushed 2 teaspoons extra virgin olive oil 1 teaspoon dried oregano salt and pepper to taste 1 cup shredded mozzarella cheese gather all ingredients. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. cut loaf into ten 1-inch slices. mix butter, garlic, oil, oregano, salt, and pepper together in a bowl; spread butter mixture on one side of each slice of bread; arrange bread slices, butter-side up, in a single layer on a baking sheet. cook under the preheated broiler until slightly brown, checking frequently so they do not burn, about 3 minutes. top bread slices with cheese and return to broiler until cheese is slightly brown and melted, about 2 minutes. serve hot.",
+        "ingredients_raw": [
+            "1 (1 pound) loaf Italian bread",
+            "5 tablespoons butter, softened",
+            "3 cloves garlic, crushed",
+            "2 teaspoons extra virgin olive oil",
+            "1 teaspoon dried oregano",
+            "salt and pepper to taste",
+            "1 cup shredded mozzarella cheese"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Cut loaf into ten 1-inch slices.",
+            "Mix butter, garlic, oil, oregano, salt, and pepper together in a bowl; spread butter mixture on one side of each slice of bread; arrange bread slices, butter-side up, in a single layer on a baking sheet.",
+            "Cook under the preheated broiler until slightly brown, checking frequently so they do not burn, about 3 minutes.",
+            "Top bread slices with cheese and return to broiler until cheese is slightly brown and melted, about 2 minutes.",
+            "Serve hot."
+        ],
+        "ingredients_canonical": [
+            "pound loaf italian bread",
+            "butter softened",
+            "cloves garlic crushed",
+            "extra virgin olive oil",
+            "dried oregano",
+            "salt pepper taste",
+            "shredded mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "medium",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 48,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Make-Ahead Garlic Toast",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "I love this garlic toast recipe. It's a great way to use up leftover bread. The best part is that you can pull out as many pieces as you want and bake them straight from the freezer!",
+        "ingredients": [
+            "½ cup butter, softened",
+            "⅓ cup grated Parmesan cheese",
+            "1 teaspoon dried parsley",
+            "½ teaspoon garlic powder",
+            "18 thick slices Italian bread"
+        ],
+        "directions": [
+            "Mix butter, Parmesan, parsley, and garlic powder together in a bowl until well combined.",
+            "Arrange bread slices on a large baking sheet; spread with seasoned butter. Place the baking sheet in the freezer until bread is frozen solid, about 1 hour. Transfer bread to a resealable plastic freezer bag and store in the freezer until needed."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "½ butter softened ⅓ grated parmesan cheese dried parsley ½ garlic powder thick slices italian bread",
+        "directions_text": "mix butter, parmesan, parsley, and garlic powder together in a bowl until well combined. arrange bread slices on a large baking sheet; spread with seasoned butter. place the baking sheet in the freezer until bread is frozen solid, about 1 hour. transfer bread to a resealable plastic freezer bag and store in the freezer until needed.",
+        "combined_text": "make-ahead garlic toast garlic bread garlic bread ½ cup butter, softened ⅓ cup grated parmesan cheese 1 teaspoon dried parsley ½ teaspoon garlic powder 18 thick slices italian bread mix butter, parmesan, parsley, and garlic powder together in a bowl until well combined. arrange bread slices on a large baking sheet; spread with seasoned butter. place the baking sheet in the freezer until bread is frozen solid, about 1 hour. transfer bread to a resealable plastic freezer bag and store in the freezer until needed.",
+        "ingredients_raw": [
+            "½ cup butter, softened",
+            "⅓ cup grated Parmesan cheese",
+            "1 teaspoon dried parsley",
+            "½ teaspoon garlic powder",
+            "18 thick slices Italian bread"
+        ],
+        "directions_raw": [
+            "Mix butter, Parmesan, parsley, and garlic powder together in a bowl until well combined.",
+            "Arrange bread slices on a large baking sheet; spread with seasoned butter. Place the baking sheet in the freezer until bread is frozen solid, about 1 hour. Transfer bread to a resealable plastic freezer bag and store in the freezer until needed."
+        ],
+        "ingredients_canonical": [
+            "½ butter softened",
+            "⅓ grated parmesan cheese",
+            "dried parsley",
+            "½ garlic powder",
+            "thick slices italian bread"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 16,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Emergency Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This garlic bread is made with sliced hot dog buns for a quick side. I stumbled upon this creation when I needed garlic bread but didn't have French bread. You'd never know the difference!",
+        "ingredients": [
+            "4 hot dog buns",
+            "4 teaspoons butter, softened, or as needed",
+            "2 teaspoons garlic powder, or to taste"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Separate buns and spread butter onto the cut side of each one.",
+            "Sprinkle with garlic powder. Place on a baking tray.",
+            "Toast under the preheated broiler until golden brown, about 4 minutes."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 5,
+        "ingredient_text": "hot dog buns butter softened as needed garlic powder taste",
+        "directions_text": "gather all ingredients. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. separate buns and spread butter onto the cut side of each one. sprinkle with garlic powder. place on a baking tray. toast under the preheated broiler until golden brown, about 4 minutes.",
+        "combined_text": "emergency garlic bread garlic bread garlic bread 4 hot dog buns 4 teaspoons butter, softened, or as needed 2 teaspoons garlic powder, or to taste gather all ingredients. set an oven rack about 6 inches from the heat source and preheat the oven's broiler. separate buns and spread butter onto the cut side of each one. sprinkle with garlic powder. place on a baking tray. toast under the preheated broiler until golden brown, about 4 minutes.",
+        "ingredients_raw": [
+            "4 hot dog buns",
+            "4 teaspoons butter, softened, or as needed",
+            "2 teaspoons garlic powder, or to taste"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Separate buns and spread butter onto the cut side of each one.",
+            "Sprinkle with garlic powder. Place on a baking tray.",
+            "Toast under the preheated broiler until golden brown, about 4 minutes."
+        ],
+        "ingredients_canonical": [
+            "hot dog buns",
+            "butter softened as needed",
+            "garlic powder taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 35,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Homemade Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "If you're a garlic lover this garlic bread recipe's for you! Garlic, butter, olive oil, and freshly baked bread-what else can you ask for? Try this recipe today--you won't regret it!",
+        "ingredients": [
+            "½ cup butter, softened",
+            "3 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1 tablespoon garlic powder",
+            "1 tablespoon chopped fresh parsley",
+            "½ teaspoon salt",
+            "1 loaf French bread"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+            "Mix butter, olive oil, minced garlic, garlic powder, parsley, and salt in a bowl until well combined.",
+            "Cut bread loaf into 1-inch slices and spread garlic mixture over each slice. Place each on a baking sheet. Wrap with additional aluminum foil.",
+            "Bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "½ butter softened olive oil cloves garlic minced garlic powder chopped fresh parsley ½ salt loaf french bread",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). line a baking sheet with aluminum foil. mix butter, olive oil, minced garlic, garlic powder, parsley, and salt in a bowl until well combined. cut bread loaf into 1-inch slices and spread garlic mixture over each slice. place each on a baking sheet. wrap with additional aluminum foil. bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes.",
+        "combined_text": "homemade garlic bread garlic bread garlic bread ½ cup butter, softened 3 tablespoons olive oil 4 cloves garlic, minced 1 tablespoon garlic powder 1 tablespoon chopped fresh parsley ½ teaspoon salt 1 loaf french bread preheat the oven to 400 degrees f (200 degrees c). line a baking sheet with aluminum foil. mix butter, olive oil, minced garlic, garlic powder, parsley, and salt in a bowl until well combined. cut bread loaf into 1-inch slices and spread garlic mixture over each slice. place each on a baking sheet. wrap with additional aluminum foil. bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes.",
+        "ingredients_raw": [
+            "½ cup butter, softened",
+            "3 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "1 tablespoon garlic powder",
+            "1 tablespoon chopped fresh parsley",
+            "½ teaspoon salt",
+            "1 loaf French bread"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+            "Mix butter, olive oil, minced garlic, garlic powder, parsley, and salt in a bowl until well combined.",
+            "Cut bread loaf into 1-inch slices and spread garlic mixture over each slice. Place each on a baking sheet. Wrap with additional aluminum foil.",
+            "Bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter softened",
+            "olive oil",
+            "cloves garlic minced",
+            "garlic powder",
+            "chopped fresh parsley",
+            "½ salt",
+            "loaf french bread"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Quick Garlic Breadsticks",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This hot dog bun garlic bread recipe will be a quick addition to your weeknight Italian dinners.",
+        "ingredients": [
+            "2 tablespoons grated Parmesan cheese",
+            "1 teaspoon garlic powder",
+            "1 teaspoon dried basil, crushed",
+            "4 hot dog buns, split",
+            "2 tablespoons margarine, softened"
+        ],
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a rimmed baking sheet with parchment paper.",
+            "Stir Parmesan cheese, garlic powder, and basil together in a small bowl.",
+            "Place hot dog buns, cut-sides up, onto the prepared baking sheet. Spread margarine onto buns, then sprinkle Parmesan mixture over top.",
+            "Bake in the preheated oven until golden brown, about 10 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 4,
+        "ingredient_text": "grated parmesan cheese garlic powder dried basil crushed hot dog buns split margarine softened",
+        "directions_text": "preheat the oven to 400 degrees f (200 degrees c). line a rimmed baking sheet with parchment paper. stir parmesan cheese, garlic powder, and basil together in a small bowl. place hot dog buns, cut-sides up, onto the prepared baking sheet. spread margarine onto buns, then sprinkle parmesan mixture over top. bake in the preheated oven until golden brown, about 10 minutes.",
+        "combined_text": "quick garlic breadsticks garlic bread garlic bread 2 tablespoons grated parmesan cheese 1 teaspoon garlic powder 1 teaspoon dried basil, crushed 4 hot dog buns, split 2 tablespoons margarine, softened preheat the oven to 400 degrees f (200 degrees c). line a rimmed baking sheet with parchment paper. stir parmesan cheese, garlic powder, and basil together in a small bowl. place hot dog buns, cut-sides up, onto the prepared baking sheet. spread margarine onto buns, then sprinkle parmesan mixture over top. bake in the preheated oven until golden brown, about 10 minutes.",
+        "ingredients_raw": [
+            "2 tablespoons grated Parmesan cheese",
+            "1 teaspoon garlic powder",
+            "1 teaspoon dried basil, crushed",
+            "4 hot dog buns, split",
+            "2 tablespoons margarine, softened"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a rimmed baking sheet with parchment paper.",
+            "Stir Parmesan cheese, garlic powder, and basil together in a small bowl.",
+            "Place hot dog buns, cut-sides up, onto the prepared baking sheet. Spread margarine onto buns, then sprinkle Parmesan mixture over top.",
+            "Bake in the preheated oven until golden brown, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "grated parmesan cheese",
+            "garlic powder",
+            "dried basil crushed",
+            "hot dog buns split",
+            "margarine softened"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Parmesan Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This garlicky parmesan bread is great with most Italian dishes. I came up with the recipe myself. It can be doubled as needed.",
+        "ingredients": [
+            "½ cup butter, melted",
+            "1 tablespoon grated Parmesan cheese, or more to taste",
+            "1 teaspoon garlic salt",
+            "¼ teaspoon dried rosemary",
+            "⅛ teaspoon dried basil",
+            "⅛ teaspoon dried thyme",
+            "⅛ teaspoon garlic powder",
+            "1 (1 pound) loaf French bread, halved lengthwise"
+        ],
+        "directions": [
+            "Preheat the oven to 300 degrees F (150 degrees C).",
+            "Mix butter, Parmesan, garlic salt, rosemary, basil, thyme, and garlic powder together in a small bowl. Spread 1/2 of the mixture onto each piece of French bread. Sprinkle with additional Parmesan cheese if desired. Transfer bread, seasoned-side up, to a medium baking sheet.",
+            "Bake in the preheated oven until the edges are very lightly browned, 10 to 12 minutes."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ butter melted grated parmesan cheese more taste garlic salt ¼ dried rosemary ⅛ dried basil ⅛ dried thyme ⅛ garlic powder pound loaf french bread halved lengthwise",
+        "directions_text": "preheat the oven to 300 degrees f (150 degrees c). mix butter, parmesan, garlic salt, rosemary, basil, thyme, and garlic powder together in a small bowl. spread 1/2 of the mixture onto each piece of french bread. sprinkle with additional parmesan cheese if desired. transfer bread, seasoned-side up, to a medium baking sheet. bake in the preheated oven until the edges are very lightly browned, 10 to 12 minutes.",
+        "combined_text": "parmesan garlic bread garlic bread garlic bread ½ cup butter, melted 1 tablespoon grated parmesan cheese, or more to taste 1 teaspoon garlic salt ¼ teaspoon dried rosemary ⅛ teaspoon dried basil ⅛ teaspoon dried thyme ⅛ teaspoon garlic powder 1 (1 pound) loaf french bread, halved lengthwise preheat the oven to 300 degrees f (150 degrees c). mix butter, parmesan, garlic salt, rosemary, basil, thyme, and garlic powder together in a small bowl. spread 1/2 of the mixture onto each piece of french bread. sprinkle with additional parmesan cheese if desired. transfer bread, seasoned-side up, to a medium baking sheet. bake in the preheated oven until the edges are very lightly browned, 10 to 12 minutes.",
+        "ingredients_raw": [
+            "½ cup butter, melted",
+            "1 tablespoon grated Parmesan cheese, or more to taste",
+            "1 teaspoon garlic salt",
+            "¼ teaspoon dried rosemary",
+            "⅛ teaspoon dried basil",
+            "⅛ teaspoon dried thyme",
+            "⅛ teaspoon garlic powder",
+            "1 (1 pound) loaf French bread, halved lengthwise"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 300 degrees F (150 degrees C).",
+            "Mix butter, Parmesan, garlic salt, rosemary, basil, thyme, and garlic powder together in a small bowl. Spread 1/2 of the mixture onto each piece of French bread. Sprinkle with additional Parmesan cheese if desired. Transfer bread, seasoned-side up, to a medium baking sheet.",
+            "Bake in the preheated oven until the edges are very lightly browned, 10 to 12 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter melted",
+            "grated parmesan cheese more taste",
+            "garlic salt",
+            "¼ dried rosemary",
+            "⅛ dried basil",
+            "⅛ dried thyme",
+            "⅛ garlic powder",
+            "pound loaf french bread halved lengthwise"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Cheesy Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This irresistibly easy, cheesy garlic bread recipe is loaded with melted butter and Parmesan cheese and transforms French bread into a show-stopping treat.",
+        "ingredients": [
+            "1 (8 ounce) loaf French bread",
+            "½ cup butter, softened",
+            "⅓ cup grated Parmesan cheese",
+            "2 tablespoons garlic powder",
+            "1 teaspoon dried parsley"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cut bread into 1-inch thick slices, without cutting all the way through the loaf. Combine butter, Parmesan cheese, garlic powder, and parsley in a small bowl; spread between bread slices and over top of loaf. Wrap loaf in aluminum foil, leaving top partially uncovered.",
+            "Bake in the preheated oven until butter melts and bread toasts, 15 to 20 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "ounce loaf french bread ½ butter softened ⅓ grated parmesan cheese garlic powder dried parsley",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). cut bread into 1-inch thick slices, without cutting all the way through the loaf. combine butter, parmesan cheese, garlic powder, and parsley in a small bowl; spread between bread slices and over top of loaf. wrap loaf in aluminum foil, leaving top partially uncovered. bake in the preheated oven until butter melts and bread toasts, 15 to 20 minutes.",
+        "combined_text": "easy cheesy garlic bread garlic bread garlic bread 1 (8 ounce) loaf french bread ½ cup butter, softened ⅓ cup grated parmesan cheese 2 tablespoons garlic powder 1 teaspoon dried parsley preheat the oven to 375 degrees f (190 degrees c). cut bread into 1-inch thick slices, without cutting all the way through the loaf. combine butter, parmesan cheese, garlic powder, and parsley in a small bowl; spread between bread slices and over top of loaf. wrap loaf in aluminum foil, leaving top partially uncovered. bake in the preheated oven until butter melts and bread toasts, 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 (8 ounce) loaf French bread",
+            "½ cup butter, softened",
+            "⅓ cup grated Parmesan cheese",
+            "2 tablespoons garlic powder",
+            "1 teaspoon dried parsley"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cut bread into 1-inch thick slices, without cutting all the way through the loaf. Combine butter, Parmesan cheese, garlic powder, and parsley in a small bowl; spread between bread slices and over top of loaf. Wrap loaf in aluminum foil, leaving top partially uncovered.",
+            "Bake in the preheated oven until butter melts and bread toasts, 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce loaf french bread",
+            "½ butter softened",
+            "⅓ grated parmesan cheese",
+            "garlic powder",
+            "dried parsley"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Stef's Super Cheesy Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This super cheesy garlic bread is not your typical garlic bread! It's extra cheesy and very filling.",
+        "ingredients": [
+            "½ cup butter, softened",
+            "¾ cup mayonnaise",
+            "1 bunch green onions, chopped",
+            "3 cloves garlic, minced",
+            "1 ¼ cups Parmesan cheese",
+            "1 ½ cups shredded Monterey Jack cheese",
+            "1 (1 pound) loaf French bread, halved lengthwise"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix together butter, mayonnaise, green onions, garlic, Parmesan cheese, and Monterey Jack cheese in a large bowl until well combined.",
+            "Cut each French bread half into 4 pieces. Spread cheese mixture evenly over each bread piece.",
+            "Bake in the preheated oven for 8 minutes. Turn the broiler to high. Broil until hot and bubbly, about 2 more minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "½ butter softened ¾ mayonnaise bunch green onions chopped cloves garlic minced ¼ parmesan cheese ½ shredded monterey jack cheese pound loaf french bread halved lengthwise",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). mix together butter, mayonnaise, green onions, garlic, parmesan cheese, and monterey jack cheese in a large bowl until well combined. cut each french bread half into 4 pieces. spread cheese mixture evenly over each bread piece. bake in the preheated oven for 8 minutes. turn the broiler to high. broil until hot and bubbly, about 2 more minutes.",
+        "combined_text": "stef's super cheesy garlic bread garlic bread garlic bread ½ cup butter, softened ¾ cup mayonnaise 1 bunch green onions, chopped 3 cloves garlic, minced 1 ¼ cups parmesan cheese 1 ½ cups shredded monterey jack cheese 1 (1 pound) loaf french bread, halved lengthwise preheat the oven to 350 degrees f (175 degrees c). mix together butter, mayonnaise, green onions, garlic, parmesan cheese, and monterey jack cheese in a large bowl until well combined. cut each french bread half into 4 pieces. spread cheese mixture evenly over each bread piece. bake in the preheated oven for 8 minutes. turn the broiler to high. broil until hot and bubbly, about 2 more minutes.",
+        "ingredients_raw": [
+            "½ cup butter, softened",
+            "¾ cup mayonnaise",
+            "1 bunch green onions, chopped",
+            "3 cloves garlic, minced",
+            "1 ¼ cups Parmesan cheese",
+            "1 ½ cups shredded Monterey Jack cheese",
+            "1 (1 pound) loaf French bread, halved lengthwise"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix together butter, mayonnaise, green onions, garlic, Parmesan cheese, and Monterey Jack cheese in a large bowl until well combined.",
+            "Cut each French bread half into 4 pieces. Spread cheese mixture evenly over each bread piece.",
+            "Bake in the preheated oven for 8 minutes. Turn the broiler to high. Broil until hot and bubbly, about 2 more minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter softened",
+            "¾ mayonnaise",
+            "bunch green onions chopped",
+            "cloves garlic minced",
+            "¼ parmesan cheese",
+            "½ shredded monterey jack cheese",
+            "pound loaf french bread halved lengthwise"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic Pita Bread Bites",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Great and easy to make--as well as delicious. Everyone goes crazy about these when I make them.",
+        "ingredients": [
+            "1 (10 ounce) package pita bread, cut in half",
+            "3 tablespoons butter",
+            "1 teaspoon crushed garlic",
+            "1 teaspoon dried Italian-style seasoning",
+            "2 tablespoons grated Parmesan cheese"
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Open pita bread halves and roughly cut into approximately 2 inch pieces. Arrange on a medium baking sheet.",
+            "In a small saucepan over medium heat, melt butter and mix in garlic and dried Italian-style seasoning. Pour the mixture over pita bread pieces.",
+            "Sprinkle bread with Parmesan cheese, adjusting the amount as desired. Bake in the preheated oven 10 minutes, or until lightly browned."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 4,
+        "ingredient_text": "ounce package pita bread cut in half butter crushed garlic dried italian-style seasoning grated parmesan cheese",
+        "directions_text": "preheat oven to 350 degrees f (175 degrees c). open pita bread halves and roughly cut into approximately 2 inch pieces. arrange on a medium baking sheet. in a small saucepan over medium heat, melt butter and mix in garlic and dried italian-style seasoning. pour the mixture over pita bread pieces. sprinkle bread with parmesan cheese, adjusting the amount as desired. bake in the preheated oven 10 minutes, or until lightly browned.",
+        "combined_text": "garlic pita bread bites garlic bread garlic bread 1 (10 ounce) package pita bread, cut in half 3 tablespoons butter 1 teaspoon crushed garlic 1 teaspoon dried italian-style seasoning 2 tablespoons grated parmesan cheese preheat oven to 350 degrees f (175 degrees c). open pita bread halves and roughly cut into approximately 2 inch pieces. arrange on a medium baking sheet. in a small saucepan over medium heat, melt butter and mix in garlic and dried italian-style seasoning. pour the mixture over pita bread pieces. sprinkle bread with parmesan cheese, adjusting the amount as desired. bake in the preheated oven 10 minutes, or until lightly browned.",
+        "ingredients_raw": [
+            "1 (10 ounce) package pita bread, cut in half",
+            "3 tablespoons butter",
+            "1 teaspoon crushed garlic",
+            "1 teaspoon dried Italian-style seasoning",
+            "2 tablespoons grated Parmesan cheese"
+        ],
+        "directions_raw": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Open pita bread halves and roughly cut into approximately 2 inch pieces. Arrange on a medium baking sheet.",
+            "In a small saucepan over medium heat, melt butter and mix in garlic and dried Italian-style seasoning. Pour the mixture over pita bread pieces.",
+            "Sprinkle bread with Parmesan cheese, adjusting the amount as desired. Bake in the preheated oven 10 minutes, or until lightly browned."
+        ],
+        "ingredients_canonical": [
+            "ounce package pita bread cut in half",
+            "butter",
+            "crushed garlic",
+            "dried italian-style seasoning",
+            "grated parmesan cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Stuffed Italian Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This stuffed Italian bread is an easy way to dress up a plain loaf of bread! Great as an appetizer or as a side dish to grilled steaks. My local grocery sells a blend of mozzarella and provolone cheese that I use.",
+        "ingredients": [
+            "½ cup unsalted butter, melted",
+            "3 tablespoons chopped fresh parsley",
+            "2 tablespoons olive oil",
+            "3 cloves garlic, minced",
+            "1 loaf Italian bread",
+            "12 ounces shredded Italian cheese blend"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine butter, parsley, olive oil, and garlic in a bowl.",
+            "Slice loaf on the diagonal, about every 2 inches, starting on top of loaf to the bottom without cutting all the way through. Repeat on the opposite diagonal to create cube-shaped sections still attached to the bottom crust.",
+            "Spread butter mixture carefully between bread sections; followed by cheese. Wrap loaf in aluminum foil.",
+            "Bake in the preheated oven 15 minutes. Unwrap loaf; continue baking until cheese melted, about 10 minutes more."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "½ unsalted butter melted chopped fresh parsley olive oil cloves garlic minced loaf italian bread ounces shredded italian cheese blend",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). combine butter, parsley, olive oil, and garlic in a bowl. slice loaf on the diagonal, about every 2 inches, starting on top of loaf to the bottom without cutting all the way through. repeat on the opposite diagonal to create cube-shaped sections still attached to the bottom crust. spread butter mixture carefully between bread sections; followed by cheese. wrap loaf in aluminum foil. bake in the preheated oven 15 minutes. unwrap loaf; continue baking until cheese melted, about 10 minutes more.",
+        "combined_text": "stuffed italian bread garlic bread garlic bread ½ cup unsalted butter, melted 3 tablespoons chopped fresh parsley 2 tablespoons olive oil 3 cloves garlic, minced 1 loaf italian bread 12 ounces shredded italian cheese blend preheat the oven to 350 degrees f (175 degrees c). combine butter, parsley, olive oil, and garlic in a bowl. slice loaf on the diagonal, about every 2 inches, starting on top of loaf to the bottom without cutting all the way through. repeat on the opposite diagonal to create cube-shaped sections still attached to the bottom crust. spread butter mixture carefully between bread sections; followed by cheese. wrap loaf in aluminum foil. bake in the preheated oven 15 minutes. unwrap loaf; continue baking until cheese melted, about 10 minutes more.",
+        "ingredients_raw": [
+            "½ cup unsalted butter, melted",
+            "3 tablespoons chopped fresh parsley",
+            "2 tablespoons olive oil",
+            "3 cloves garlic, minced",
+            "1 loaf Italian bread",
+            "12 ounces shredded Italian cheese blend"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine butter, parsley, olive oil, and garlic in a bowl.",
+            "Slice loaf on the diagonal, about every 2 inches, starting on top of loaf to the bottom without cutting all the way through. Repeat on the opposite diagonal to create cube-shaped sections still attached to the bottom crust.",
+            "Spread butter mixture carefully between bread sections; followed by cheese. Wrap loaf in aluminum foil.",
+            "Bake in the preheated oven 15 minutes. Unwrap loaf; continue baking until cheese melted, about 10 minutes more."
+        ],
+        "ingredients_canonical": [
+            "½ unsalted butter melted",
+            "chopped fresh parsley",
+            "olive oil",
+            "cloves garlic minced",
+            "loaf italian bread",
+            "ounces shredded italian cheese blend"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 32,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Bread Machine Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This bread is great if you're a garlic lover like me! Sometimes I add even more garlic!",
+        "ingredients": [
+            "1 cup warm water (110 degrees F)",
+            "1 tablespoon butter",
+            "1 tablespoon dry milk powder",
+            "1 tablespoon white sugar",
+            "1 ½ teaspoons salt",
+            "1 ½ tablespoons dried parsley",
+            "2 teaspoons garlic powder",
+            "3 cups bread flour",
+            "2 teaspoons active dry yeast"
+        ],
+        "directions": [
+            "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Basic Bread cycle; press Start."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 1,
+        "ingredient_text": "warm water degrees f butter dry milk powder white sugar ½ salt ½ dried parsley garlic powder bread flour active dry yeast",
+        "directions_text": "place ingredients in the pan of the bread machine in the order recommended by the manufacturer. select basic bread cycle; press start.",
+        "combined_text": "bread machine garlic bread garlic bread garlic bread 1 cup warm water (110 degrees f) 1 tablespoon butter 1 tablespoon dry milk powder 1 tablespoon white sugar 1 ½ teaspoons salt 1 ½ tablespoons dried parsley 2 teaspoons garlic powder 3 cups bread flour 2 teaspoons active dry yeast place ingredients in the pan of the bread machine in the order recommended by the manufacturer. select basic bread cycle; press start.",
+        "ingredients_raw": [
+            "1 cup warm water (110 degrees F)",
+            "1 tablespoon butter",
+            "1 tablespoon dry milk powder",
+            "1 tablespoon white sugar",
+            "1 ½ teaspoons salt",
+            "1 ½ tablespoons dried parsley",
+            "2 teaspoons garlic powder",
+            "3 cups bread flour",
+            "2 teaspoons active dry yeast"
+        ],
+        "directions_raw": [
+            "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Basic Bread cycle; press Start."
+        ],
+        "ingredients_canonical": [
+            "warm water degrees f",
+            "butter",
+            "dry milk powder",
+            "white sugar",
+            "½ salt",
+            "½ dried parsley",
+            "garlic powder",
+            "bread flour",
+            "active dry yeast"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 0,
+        "slow_hits": 4,
+        "medium_hits": 1,
+        "cook_speed": "slow",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 56,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic Bread Fantastique",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "A zippy change to the usual garlic bread recipe that will surely be your favorite ever!",
+        "ingredients": [
+            "½ cup butter, softened",
+            "2 tablespoons mayonnaise",
+            "3 cloves garlic, chopped",
+            "2 teaspoons dried oregano",
+            "½ teaspoon salt",
+            "½ teaspoon black pepper",
+            "¼ teaspoon sage",
+            "1 French baguette, halved lengthwise",
+            "2 tablespoons grated Parmesan cheese, or to taste"
+        ],
+        "directions": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Mix butter, mayonnaise, garlic, oregano, salt, pepper, and sage in a bowl until well combined. Spread mixture evenly on baguette halves, then sprinkle Parmesan cheese over top.",
+            "Place baguette under the preheated broiler until lightly toasted, about 5 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 3,
+        "ingredient_text": "½ butter softened mayonnaise cloves garlic chopped dried oregano ½ salt ½ black pepper ¼ sage french baguette halved lengthwise grated parmesan cheese taste",
+        "directions_text": "set an oven rack about 6 inches from the heat source and preheat the oven's broiler. mix butter, mayonnaise, garlic, oregano, salt, pepper, and sage in a bowl until well combined. spread mixture evenly on baguette halves, then sprinkle parmesan cheese over top. place baguette under the preheated broiler until lightly toasted, about 5 minutes.",
+        "combined_text": "garlic bread fantastique garlic bread garlic bread ½ cup butter, softened 2 tablespoons mayonnaise 3 cloves garlic, chopped 2 teaspoons dried oregano ½ teaspoon salt ½ teaspoon black pepper ¼ teaspoon sage 1 french baguette, halved lengthwise 2 tablespoons grated parmesan cheese, or to taste set an oven rack about 6 inches from the heat source and preheat the oven's broiler. mix butter, mayonnaise, garlic, oregano, salt, pepper, and sage in a bowl until well combined. spread mixture evenly on baguette halves, then sprinkle parmesan cheese over top. place baguette under the preheated broiler until lightly toasted, about 5 minutes.",
+        "ingredients_raw": [
+            "½ cup butter, softened",
+            "2 tablespoons mayonnaise",
+            "3 cloves garlic, chopped",
+            "2 teaspoons dried oregano",
+            "½ teaspoon salt",
+            "½ teaspoon black pepper",
+            "¼ teaspoon sage",
+            "1 French baguette, halved lengthwise",
+            "2 tablespoons grated Parmesan cheese, or to taste"
+        ],
+        "directions_raw": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Mix butter, mayonnaise, garlic, oregano, salt, pepper, and sage in a bowl until well combined. Spread mixture evenly on baguette halves, then sprinkle Parmesan cheese over top.",
+            "Place baguette under the preheated broiler until lightly toasted, about 5 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter softened",
+            "mayonnaise",
+            "cloves garlic chopped",
+            "dried oregano",
+            "½ salt",
+            "½ black pepper",
+            "¼ sage",
+            "french baguette halved lengthwise",
+            "grated parmesan cheese taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Jimmbo's Garlic Knots",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This garlic knot recipe is such a hit. Your guests will keep asking for more of Jimmbo's garlic knots!",
+        "ingredients": [
+            "1 (10 ounce) can refrigerated pizza crust dough",
+            "⅓ cup olive oil",
+            "6 tablespoons finely chopped fresh garlic",
+            "5 tablespoons grated Parmesan cheese",
+            "3 tablespoons chopped fresh parsley",
+            "1 teaspoon crushed red pepper",
+            "1 teaspoon salt"
+        ],
+        "directions": [
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Roll out pizza dough to form a 10x16-inch sheet of dough. Cut sheet into 3/4-inch parallel strips. Then cut these strips in half, making about 24 pieces. Tie each strip into a knot and place them close together on a greased pan.",
+            "Bake in the preheated oven until golden brown.",
+            "Immediately transfer hot knots to a large bowl and drizzle with olive oil. Sprinkle with garlic, cheese, parsley, red pepper, and salt. Toss well and serve."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "ounce can refrigerated pizza crust dough ⅓ olive oil finely chopped fresh garlic grated parmesan cheese chopped fresh parsley crushed red pepper salt",
+        "directions_text": "preheat the oven to 450 degrees f (230 degrees c). roll out pizza dough to form a 10x16-inch sheet of dough. cut sheet into 3/4-inch parallel strips. then cut these strips in half, making about 24 pieces. tie each strip into a knot and place them close together on a greased pan. bake in the preheated oven until golden brown. immediately transfer hot knots to a large bowl and drizzle with olive oil. sprinkle with garlic, cheese, parsley, red pepper, and salt. toss well and serve.",
+        "combined_text": "jimmbo's garlic knots garlic bread garlic bread 1 (10 ounce) can refrigerated pizza crust dough ⅓ cup olive oil 6 tablespoons finely chopped fresh garlic 5 tablespoons grated parmesan cheese 3 tablespoons chopped fresh parsley 1 teaspoon crushed red pepper 1 teaspoon salt preheat the oven to 450 degrees f (230 degrees c). roll out pizza dough to form a 10x16-inch sheet of dough. cut sheet into 3/4-inch parallel strips. then cut these strips in half, making about 24 pieces. tie each strip into a knot and place them close together on a greased pan. bake in the preheated oven until golden brown. immediately transfer hot knots to a large bowl and drizzle with olive oil. sprinkle with garlic, cheese, parsley, red pepper, and salt. toss well and serve.",
+        "ingredients_raw": [
+            "1 (10 ounce) can refrigerated pizza crust dough",
+            "⅓ cup olive oil",
+            "6 tablespoons finely chopped fresh garlic",
+            "5 tablespoons grated Parmesan cheese",
+            "3 tablespoons chopped fresh parsley",
+            "1 teaspoon crushed red pepper",
+            "1 teaspoon salt"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Roll out pizza dough to form a 10x16-inch sheet of dough. Cut sheet into 3/4-inch parallel strips. Then cut these strips in half, making about 24 pieces. Tie each strip into a knot and place them close together on a greased pan.",
+            "Bake in the preheated oven until golden brown.",
+            "Immediately transfer hot knots to a large bowl and drizzle with olive oil. Sprinkle with garlic, cheese, parsley, red pepper, and salt. Toss well and serve."
+        ],
+        "ingredients_canonical": [
+            "ounce can refrigerated pizza crust dough",
+            "⅓ olive oil",
+            "finely chopped fresh garlic",
+            "grated parmesan cheese",
+            "chopped fresh parsley",
+            "crushed red pepper",
+            "salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 39,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Just Garlic Toast",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Great garlic toast with no added fat! My family asks for this all the time!",
+        "ingredients": [
+            "½ (1 pound) loaf French baguette, cut into 1/2 inch slices",
+            "6 cloves garlic, halved"
+        ],
+        "directions": [
+            "Set the oven rack about 6 inches from the heat source and preheat the oven's broiler. Arrange baguette slices on a baking sheet.",
+            "Toast in the preheated oven until golden brown, 5 to 10 minutes.",
+            "Rub garlic halves on warm bread."
+        ],
+        "num_ingredients": 2,
+        "num_steps": 3,
+        "ingredient_text": "½ pound loaf french baguette cut into inch slices cloves garlic halved",
+        "directions_text": "set the oven rack about 6 inches from the heat source and preheat the oven's broiler. arrange baguette slices on a baking sheet. toast in the preheated oven until golden brown, 5 to 10 minutes. rub garlic halves on warm bread.",
+        "combined_text": "just garlic toast garlic bread garlic bread ½ (1 pound) loaf french baguette, cut into 1/2 inch slices 6 cloves garlic, halved set the oven rack about 6 inches from the heat source and preheat the oven's broiler. arrange baguette slices on a baking sheet. toast in the preheated oven until golden brown, 5 to 10 minutes. rub garlic halves on warm bread.",
+        "ingredients_raw": [
+            "½ (1 pound) loaf French baguette, cut into 1/2 inch slices",
+            "6 cloves garlic, halved"
+        ],
+        "directions_raw": [
+            "Set the oven rack about 6 inches from the heat source and preheat the oven's broiler. Arrange baguette slices on a baking sheet.",
+            "Toast in the preheated oven until golden brown, 5 to 10 minutes.",
+            "Rub garlic halves on warm bread."
+        ],
+        "ingredients_canonical": [
+            "½ pound loaf french baguette cut into inch slices",
+            "cloves garlic halved"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "breakfast",
+            "side"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic and Herb Pull Apart Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This garlic and herb pull-apart bread recipe is fantastic with spaghetti. My family loves it, and my husband has even tried to eat the whole thing. Keep in mind, though, that we love garlic at our house. If you are not a fan of strong garlic, streamline the amount until you are comfortable with it.",
+        "ingredients": [
+            "cooking spray",
+            "½ cup butter, melted",
+            "7 cloves garlic, chopped",
+            "2 teaspoons dried parsley",
+            "2 teaspoons dried rosemary, crushed",
+            "2 teaspoons dried basil",
+            "2 (10 ounce) cans refrigerated biscuit dough"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat a fluted tube pan (such as a Bundt) with cooking spray.",
+            "Combine butter, garlic, parsley, rosemary, and basil in a bowl. Separate biscuits; dip each into butter-herb mixture. Place biscuits in a random pattern into the prepared pan. Pour any remaining butter-herb mixture over biscuits.",
+            "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes. Invert the pan on a cutting board; bread will fall out of the pan in one piece. Serve by pulling bread apart into individual servings."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "cooking spray ½ butter melted cloves garlic chopped dried parsley dried rosemary crushed dried basil ounce cans refrigerated biscuit dough",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). coat a fluted tube pan (such as a bundt) with cooking spray. combine butter, garlic, parsley, rosemary, and basil in a bowl. separate biscuits; dip each into butter-herb mixture. place biscuits in a random pattern into the prepared pan. pour any remaining butter-herb mixture over biscuits. bake in the preheated oven until browned and cooked through, 15 to 20 minutes. invert the pan on a cutting board; bread will fall out of the pan in one piece. serve by pulling bread apart into individual servings.",
+        "combined_text": "garlic and herb pull apart bread garlic bread garlic bread cooking spray ½ cup butter, melted 7 cloves garlic, chopped 2 teaspoons dried parsley 2 teaspoons dried rosemary, crushed 2 teaspoons dried basil 2 (10 ounce) cans refrigerated biscuit dough preheat the oven to 350 degrees f (175 degrees c). coat a fluted tube pan (such as a bundt) with cooking spray. combine butter, garlic, parsley, rosemary, and basil in a bowl. separate biscuits; dip each into butter-herb mixture. place biscuits in a random pattern into the prepared pan. pour any remaining butter-herb mixture over biscuits. bake in the preheated oven until browned and cooked through, 15 to 20 minutes. invert the pan on a cutting board; bread will fall out of the pan in one piece. serve by pulling bread apart into individual servings.",
+        "ingredients_raw": [
+            "cooking spray",
+            "½ cup butter, melted",
+            "7 cloves garlic, chopped",
+            "2 teaspoons dried parsley",
+            "2 teaspoons dried rosemary, crushed",
+            "2 teaspoons dried basil",
+            "2 (10 ounce) cans refrigerated biscuit dough"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat a fluted tube pan (such as a Bundt) with cooking spray.",
+            "Combine butter, garlic, parsley, rosemary, and basil in a bowl. Separate biscuits; dip each into butter-herb mixture. Place biscuits in a random pattern into the prepared pan. Pour any remaining butter-herb mixture over biscuits.",
+            "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes. Invert the pan on a cutting board; bread will fall out of the pan in one piece. Serve by pulling bread apart into individual servings."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "½ butter melted",
+            "cloves garlic chopped",
+            "dried parsley",
+            "dried rosemary crushed",
+            "dried basil",
+            "ounce cans refrigerated biscuit dough"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Crescent Dough Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Refrigerated crescent rolls are used in this easy garlic bread recipe.",
+        "ingredients": [
+            "¼ cup unsalted butter, melted",
+            "2 tablespoons grated Parmesan cheese",
+            "1 tablespoon minced garlic",
+            "1 (8 ounce) package refrigerated crescent roll dough (such as Pillsbury)",
+            "½ teaspoon Italian seasoning",
+            "¼ teaspoon ground black pepper or to taste",
+            "⅛ teaspoon paprika"
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+            "Combine butter, Parmesan cheese, and garlic in a bowl.",
+            "Open can of dough but do not unroll. Cut dough into 12 equal pieces using a serrated knife; place slices onto the prepared baking sheet. Brush with garlic butter; sprinkle with Italian seasoning, black pepper, and paprika.",
+            "Bake in the preheated oven until golden brown, 16 to 20 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "¼ unsalted butter melted grated parmesan cheese minced garlic ounce package refrigerated crescent roll dough such as pillsbury ½ italian seasoning ¼ ground black pepper taste ⅛ paprika",
+        "directions_text": "preheat the oven to 375 degrees f (190 degrees c). line a baking sheet with parchment paper. combine butter, parmesan cheese, and garlic in a bowl. open can of dough but do not unroll. cut dough into 12 equal pieces using a serrated knife; place slices onto the prepared baking sheet. brush with garlic butter; sprinkle with italian seasoning, black pepper, and paprika. bake in the preheated oven until golden brown, 16 to 20 minutes.",
+        "combined_text": "crescent dough garlic bread garlic bread garlic bread ¼ cup unsalted butter, melted 2 tablespoons grated parmesan cheese 1 tablespoon minced garlic 1 (8 ounce) package refrigerated crescent roll dough (such as pillsbury) ½ teaspoon italian seasoning ¼ teaspoon ground black pepper or to taste ⅛ teaspoon paprika preheat the oven to 375 degrees f (190 degrees c). line a baking sheet with parchment paper. combine butter, parmesan cheese, and garlic in a bowl. open can of dough but do not unroll. cut dough into 12 equal pieces using a serrated knife; place slices onto the prepared baking sheet. brush with garlic butter; sprinkle with italian seasoning, black pepper, and paprika. bake in the preheated oven until golden brown, 16 to 20 minutes.",
+        "ingredients_raw": [
+            "¼ cup unsalted butter, melted",
+            "2 tablespoons grated Parmesan cheese",
+            "1 tablespoon minced garlic",
+            "1 (8 ounce) package refrigerated crescent roll dough (such as Pillsbury)",
+            "½ teaspoon Italian seasoning",
+            "¼ teaspoon ground black pepper or to taste",
+            "⅛ teaspoon paprika"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+            "Combine butter, Parmesan cheese, and garlic in a bowl.",
+            "Open can of dough but do not unroll. Cut dough into 12 equal pieces using a serrated knife; place slices onto the prepared baking sheet. Brush with garlic butter; sprinkle with Italian seasoning, black pepper, and paprika.",
+            "Bake in the preheated oven until golden brown, 16 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "¼ unsalted butter melted",
+            "grated parmesan cheese",
+            "minced garlic",
+            "ounce package refrigerated crescent roll dough such as pillsbury",
+            "½ italian seasoning",
+            "¼ ground black pepper taste",
+            "⅛ paprika"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheese Onion Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This is a great appetizer or side dish for your next get together.",
+        "ingredients": [
+            "2 French baguettes, cut into 3/4 inch diagonal slices",
+            "1 large minced onion",
+            "8 cloves minced garlic",
+            "¼ cup butter",
+            "2 cups shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese",
+            "1 cup mayonnaise"
+        ],
+        "directions": [
+            "Preheat the broiler.",
+            "Slice the French baguettes diagonally into 3/4 inch slices.",
+            "In a medium skillet over medium heat, melt the butter. Combine the onions and garlic in the skillet. Cook and stir until tender. Set aside to cool.",
+            "In a mixing bowl, combine the mozzarella cheese, Parmesan cheese and mayonnaise.",
+            "On a cookie sheet, arrange the French bread slices in a single layer. Spread the onion and garlic mixture on the bread slices. Spread the cheese and mayonnaise mixture over the onion and garlic mixture on the bread slices. Broil about 5 minutes, until the cheese is bubbly and slightly browned. Serve immediately."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 5,
+        "ingredient_text": "french baguettes cut into inch diagonal slices large minced onion cloves minced garlic ¼ butter shredded mozzarella cheese ½ grated parmesan cheese mayonnaise",
+        "directions_text": "preheat the broiler. slice the french baguettes diagonally into 3/4 inch slices. in a medium skillet over medium heat, melt the butter. combine the onions and garlic in the skillet. cook and stir until tender. set aside to cool. in a mixing bowl, combine the mozzarella cheese, parmesan cheese and mayonnaise. on a cookie sheet, arrange the french bread slices in a single layer. spread the onion and garlic mixture on the bread slices. spread the cheese and mayonnaise mixture over the onion and garlic mixture on the bread slices. broil about 5 minutes, until the cheese is bubbly and slightly browned. serve immediately.",
+        "combined_text": "cheese onion garlic bread garlic bread garlic bread 2 french baguettes, cut into 3/4 inch diagonal slices 1 large minced onion 8 cloves minced garlic ¼ cup butter 2 cups shredded mozzarella cheese ½ cup grated parmesan cheese 1 cup mayonnaise preheat the broiler. slice the french baguettes diagonally into 3/4 inch slices. in a medium skillet over medium heat, melt the butter. combine the onions and garlic in the skillet. cook and stir until tender. set aside to cool. in a mixing bowl, combine the mozzarella cheese, parmesan cheese and mayonnaise. on a cookie sheet, arrange the french bread slices in a single layer. spread the onion and garlic mixture on the bread slices. spread the cheese and mayonnaise mixture over the onion and garlic mixture on the bread slices. broil about 5 minutes, until the cheese is bubbly and slightly browned. serve immediately.",
+        "ingredients_raw": [
+            "2 French baguettes, cut into 3/4 inch diagonal slices",
+            "1 large minced onion",
+            "8 cloves minced garlic",
+            "¼ cup butter",
+            "2 cups shredded mozzarella cheese",
+            "½ cup grated Parmesan cheese",
+            "1 cup mayonnaise"
+        ],
+        "directions_raw": [
+            "Preheat the broiler.",
+            "Slice the French baguettes diagonally into 3/4 inch slices.",
+            "In a medium skillet over medium heat, melt the butter. Combine the onions and garlic in the skillet. Cook and stir until tender. Set aside to cool.",
+            "In a mixing bowl, combine the mozzarella cheese, Parmesan cheese and mayonnaise.",
+            "On a cookie sheet, arrange the French bread slices in a single layer. Spread the onion and garlic mixture on the bread slices. Spread the cheese and mayonnaise mixture over the onion and garlic mixture on the bread slices. Broil about 5 minutes, until the cheese is bubbly and slightly browned. Serve immediately."
+        ],
+        "ingredients_canonical": [
+            "french baguettes cut into inch diagonal slices",
+            "large minced onion",
+            "cloves minced garlic",
+            "¼ butter",
+            "shredded mozzarella cheese",
+            "½ grated parmesan cheese",
+            "mayonnaise"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "dessert"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 0,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 45,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This is a fragrant and tasty bread machine recipe.",
+        "ingredients": [
+            "1 ⅜ cups water",
+            "3 tablespoons olive oil",
+            "1 teaspoon minced garlic",
+            "4 cups bread flour",
+            "3 tablespoons white sugar",
+            "2 teaspoons salt",
+            "¼ cup grated Parmesan cheese",
+            "1 teaspoon dried basil",
+            "1 teaspoon garlic powder",
+            "3 tablespoons chopped fresh chives",
+            "1 teaspoon coarsely ground black pepper",
+            "2 ½ teaspoons bread machine yeast"
+        ],
+        "directions": [
+            "Place ingredients in the bread machine pan in the order suggested by the manufacturer.",
+            "Select Basic or White Bread cycle, and press Start."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 2,
+        "ingredient_text": "⅜ water olive oil minced garlic bread flour white sugar salt ¼ grated parmesan cheese dried basil garlic powder chopped fresh chives coarsely ground black pepper ½ bread machine yeast",
+        "directions_text": "place ingredients in the bread machine pan in the order suggested by the manufacturer. select basic or white bread cycle, and press start.",
+        "combined_text": "garlic bread garlic bread garlic bread 1 ⅜ cups water 3 tablespoons olive oil 1 teaspoon minced garlic 4 cups bread flour 3 tablespoons white sugar 2 teaspoons salt ¼ cup grated parmesan cheese 1 teaspoon dried basil 1 teaspoon garlic powder 3 tablespoons chopped fresh chives 1 teaspoon coarsely ground black pepper 2 ½ teaspoons bread machine yeast place ingredients in the bread machine pan in the order suggested by the manufacturer. select basic or white bread cycle, and press start.",
+        "ingredients_raw": [
+            "1 ⅜ cups water",
+            "3 tablespoons olive oil",
+            "1 teaspoon minced garlic",
+            "4 cups bread flour",
+            "3 tablespoons white sugar",
+            "2 teaspoons salt",
+            "¼ cup grated Parmesan cheese",
+            "1 teaspoon dried basil",
+            "1 teaspoon garlic powder",
+            "3 tablespoons chopped fresh chives",
+            "1 teaspoon coarsely ground black pepper",
+            "2 ½ teaspoons bread machine yeast"
+        ],
+        "directions_raw": [
+            "Place ingredients in the bread machine pan in the order suggested by the manufacturer.",
+            "Select Basic or White Bread cycle, and press Start."
+        ],
+        "ingredients_canonical": [
+            "⅜ water",
+            "olive oil",
+            "minced garlic",
+            "bread flour",
+            "white sugar",
+            "salt",
+            "¼ grated parmesan cheese",
+            "dried basil",
+            "garlic powder",
+            "chopped fresh chives",
+            "coarsely ground black pepper",
+            "½ bread machine yeast"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 0,
+        "slow_hits": 4,
+        "medium_hits": 1,
+        "cook_speed": "slow",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 59,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Fried Garlic Pita",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "I sort of made up this recipe, and it turned out to be pretty good. I was trying to imitate a pita with garlic butter sauce appetizer this one restaurant makes.",
+        "ingredients": [
+            "2 tablespoons butter, divided",
+            "1 tablespoon olive oil",
+            "2 tablespoons fresh lemon juice, divided",
+            "2 tablespoons finely chopped garlic",
+            "½ tablespoon garlic powder",
+            "2 small (4 inch) pita bread rounds, cut in half"
+        ],
+        "directions": [
+            "Melt 1 tablespoon butter in a skillet over low heat. Mix in the olive oil, 1/2 the lemon juice, garlic, and garlic powder.",
+            "Place the pita bread in the skillet, and top with remaining butter and lemon juice. Cook 10 minutes, turning often, until golden brown."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "butter divided olive oil fresh lemon juice divided finely chopped garlic ½ garlic powder small inch pita bread rounds cut in half",
+        "directions_text": "melt 1 tablespoon butter in a skillet over low heat. mix in the olive oil, 1/2 the lemon juice, garlic, and garlic powder. place the pita bread in the skillet, and top with remaining butter and lemon juice. cook 10 minutes, turning often, until golden brown.",
+        "combined_text": "fried garlic pita garlic bread garlic bread 2 tablespoons butter, divided 1 tablespoon olive oil 2 tablespoons fresh lemon juice, divided 2 tablespoons finely chopped garlic ½ tablespoon garlic powder 2 small (4 inch) pita bread rounds, cut in half melt 1 tablespoon butter in a skillet over low heat. mix in the olive oil, 1/2 the lemon juice, garlic, and garlic powder. place the pita bread in the skillet, and top with remaining butter and lemon juice. cook 10 minutes, turning often, until golden brown.",
+        "ingredients_raw": [
+            "2 tablespoons butter, divided",
+            "1 tablespoon olive oil",
+            "2 tablespoons fresh lemon juice, divided",
+            "2 tablespoons finely chopped garlic",
+            "½ tablespoon garlic powder",
+            "2 small (4 inch) pita bread rounds, cut in half"
+        ],
+        "directions_raw": [
+            "Melt 1 tablespoon butter in a skillet over low heat. Mix in the olive oil, 1/2 the lemon juice, garlic, and garlic powder.",
+            "Place the pita bread in the skillet, and top with remaining butter and lemon juice. Cook 10 minutes, turning often, until golden brown."
+        ],
+        "ingredients_canonical": [
+            "butter divided",
+            "olive oil",
+            "fresh lemon juice divided",
+            "finely chopped garlic",
+            "½ garlic powder",
+            "small inch pita bread rounds cut in half"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "drink",
+            "side"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Unbelievable Grilled Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "French bread (or Italian) is lightly toasted, spread with a creamy cheese mixture and grilled until warm, melted, and unbelievably delicious. The finished bread keeps well in an airtight container.",
+        "ingredients": [
+            "1 cup mayonnaise",
+            "6 cloves garlic, peeled and minced",
+            "¾ cup grated Parmesan cheese",
+            "½ cup shredded Cheddar cheese",
+            "1 tablespoon half-and-half",
+            "¼ teaspoon paprika",
+            "1 (1 pound) loaf French bread, halved lengthwise"
+        ],
+        "directions": [
+            "Preheat grill for medium heat.",
+            "In a medium bowl, mix the mayonnaise, garlic, and Parmesan cheese. In a saucepan over medium-low heat, mix the Cheddar cheese, half-and-half, and paprika. Stir constantly until melted and smooth. Pour into the bowl with mayonnaise mixture, stirring until well blended.",
+            "Place the French bread on the grill cut side down, and let it toast for a few minutes. Remove from the grill, and spread the cheese mixture on each side. Place the halves back together, and wrap the loaf in aluminum foil. Return to the grill for about 15 minutes, turning occasionally, until the loaf is heated through and the cheese mixture is hot."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "mayonnaise cloves garlic peeled minced ¾ grated parmesan cheese ½ shredded cheddar cheese half- -half ¼ paprika pound loaf french bread halved lengthwise",
+        "directions_text": "preheat grill for medium heat. in a medium bowl, mix the mayonnaise, garlic, and parmesan cheese. in a saucepan over medium-low heat, mix the cheddar cheese, half-and-half, and paprika. stir constantly until melted and smooth. pour into the bowl with mayonnaise mixture, stirring until well blended. place the french bread on the grill cut side down, and let it toast for a few minutes. remove from the grill, and spread the cheese mixture on each side. place the halves back together, and wrap the loaf in aluminum foil. return to the grill for about 15 minutes, turning occasionally, until the loaf is heated through and the cheese mixture is hot.",
+        "combined_text": "unbelievable grilled garlic bread garlic bread garlic bread 1 cup mayonnaise 6 cloves garlic, peeled and minced ¾ cup grated parmesan cheese ½ cup shredded cheddar cheese 1 tablespoon half-and-half ¼ teaspoon paprika 1 (1 pound) loaf french bread, halved lengthwise preheat grill for medium heat. in a medium bowl, mix the mayonnaise, garlic, and parmesan cheese. in a saucepan over medium-low heat, mix the cheddar cheese, half-and-half, and paprika. stir constantly until melted and smooth. pour into the bowl with mayonnaise mixture, stirring until well blended. place the french bread on the grill cut side down, and let it toast for a few minutes. remove from the grill, and spread the cheese mixture on each side. place the halves back together, and wrap the loaf in aluminum foil. return to the grill for about 15 minutes, turning occasionally, until the loaf is heated through and the cheese mixture is hot.",
+        "ingredients_raw": [
+            "1 cup mayonnaise",
+            "6 cloves garlic, peeled and minced",
+            "¾ cup grated Parmesan cheese",
+            "½ cup shredded Cheddar cheese",
+            "1 tablespoon half-and-half",
+            "¼ teaspoon paprika",
+            "1 (1 pound) loaf French bread, halved lengthwise"
+        ],
+        "directions_raw": [
+            "Preheat grill for medium heat.",
+            "In a medium bowl, mix the mayonnaise, garlic, and Parmesan cheese. In a saucepan over medium-low heat, mix the Cheddar cheese, half-and-half, and paprika. Stir constantly until melted and smooth. Pour into the bowl with mayonnaise mixture, stirring until well blended.",
+            "Place the French bread on the grill cut side down, and let it toast for a few minutes. Remove from the grill, and spread the cheese mixture on each side. Place the halves back together, and wrap the loaf in aluminum foil. Return to the grill for about 15 minutes, turning occasionally, until the loaf is heated through and the cheese mixture is hot."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise",
+            "cloves garlic peeled minced",
+            "¾ grated parmesan cheese",
+            "½ shredded cheddar cheese",
+            "half- -half",
+            "¼ paprika",
+            "pound loaf french bread halved lengthwise"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "main",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 4,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 82,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Two-Ingredient Dough Garlic Knots",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "These garlic knots begin with the \"internet famous\" 2-ingredient dough. Add a few more ingredients and you'll have incredible garlic knots to serve with an Italian meal.",
+        "ingredients": [
+            "1 cup self-rising flour",
+            "1.00 cup whole fat plain Greek yogurt",
+            "¼ teaspoon granulated garlic",
+            "¼ teaspoon Italian seasoning",
+            "1 pinch salt"
+        ],
+        "directions": [
+            "Combine flour, yogurt, garlic granules, Italian seasoning, and salt in a bowl; mix to combine.",
+            "Dust work surface with more flour. Transfer dough to work surface. Knead dough for 8 to 10 minutes with the palm of your hand. Add more flour (1 teaspoon at a time) as needed to keep dough from being too sticky.",
+            "Preheat the oven to 500 degrees F (260 degrees C). Line a baking sheet with parchment paper or a silicone baking mat (such as Silpat®).",
+            "Shape dough into a rounded loaf. Using a bench scraper, cut off 8 wedges of dough. Roll each wedge of dough into a rope shape and tie into knots. Place knots onto the prepared baking sheet.",
+            "Bake in the preheated oven until knots are lightly browned, 10 to 12 minutes.",
+            "Meanwhile, combine melted butter, oil, garlic granules, and parsley for topping in a small glass bowl. Brush mixture over the warm knots."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 6,
+        "ingredient_text": "self-rising flour whole fat plain greek yogurt ¼ granulated garlic ¼ italian seasoning pinch salt",
+        "directions_text": "combine flour, yogurt, garlic granules, italian seasoning, and salt in a bowl; mix to combine. dust work surface with more flour. transfer dough to work surface. knead dough for 8 to 10 minutes with the palm of your hand. add more flour (1 teaspoon at a time) as needed to keep dough from being too sticky. preheat the oven to 500 degrees f (260 degrees c). line a baking sheet with parchment paper or a silicone baking mat (such as silpat®). shape dough into a rounded loaf. using a bench scraper, cut off 8 wedges of dough. roll each wedge of dough into a rope shape and tie into knots. place knots onto the prepared baking sheet. bake in the preheated oven until knots are lightly browned, 10 to 12 minutes. meanwhile, combine melted butter, oil, garlic granules, and parsley for topping in a small glass bowl. brush mixture over the warm knots.",
+        "combined_text": "two-ingredient dough garlic knots garlic bread garlic bread 1 cup self-rising flour 1.00 cup whole fat plain greek yogurt ¼ teaspoon granulated garlic ¼ teaspoon italian seasoning 1 pinch salt combine flour, yogurt, garlic granules, italian seasoning, and salt in a bowl; mix to combine. dust work surface with more flour. transfer dough to work surface. knead dough for 8 to 10 minutes with the palm of your hand. add more flour (1 teaspoon at a time) as needed to keep dough from being too sticky. preheat the oven to 500 degrees f (260 degrees c). line a baking sheet with parchment paper or a silicone baking mat (such as silpat®). shape dough into a rounded loaf. using a bench scraper, cut off 8 wedges of dough. roll each wedge of dough into a rope shape and tie into knots. place knots onto the prepared baking sheet. bake in the preheated oven until knots are lightly browned, 10 to 12 minutes. meanwhile, combine melted butter, oil, garlic granules, and parsley for topping in a small glass bowl. brush mixture over the warm knots.",
+        "ingredients_raw": [
+            "1 cup self-rising flour",
+            "1.00 cup whole fat plain Greek yogurt",
+            "¼ teaspoon granulated garlic",
+            "¼ teaspoon Italian seasoning",
+            "1 pinch salt"
+        ],
+        "directions_raw": [
+            "Combine flour, yogurt, garlic granules, Italian seasoning, and salt in a bowl; mix to combine.",
+            "Dust work surface with more flour. Transfer dough to work surface. Knead dough for 8 to 10 minutes with the palm of your hand. Add more flour (1 teaspoon at a time) as needed to keep dough from being too sticky.",
+            "Preheat the oven to 500 degrees F (260 degrees C). Line a baking sheet with parchment paper or a silicone baking mat (such as Silpat®).",
+            "Shape dough into a rounded loaf. Using a bench scraper, cut off 8 wedges of dough. Roll each wedge of dough into a rope shape and tie into knots. Place knots onto the prepared baking sheet.",
+            "Bake in the preheated oven until knots are lightly browned, 10 to 12 minutes.",
+            "Meanwhile, combine melted butter, oil, garlic granules, and parsley for topping in a small glass bowl. Brush mixture over the warm knots."
+        ],
+        "ingredients_canonical": [
+            "self-rising flour",
+            "whole fat plain greek yogurt",
+            "¼ granulated garlic",
+            "¼ italian seasoning",
+            "pinch salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 57,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Lisa's Best Ever Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Your family, friends, and neighbors will be hooked! Place bread in a large serving bowl and watch it disappear. Enjoy!",
+        "ingredients": [
+            "½ cup butter",
+            "3 cloves garlic, sliced",
+            "1 (16 ounce) loaf French bread, halved lengthwise"
+        ],
+        "directions": [
+            "Melt butter in a small saucepan; simmer garlic slices in hot butter over low heat until butter turns foamy, about 5 minutes.",
+            "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Place bread loaf halves under the preheated broiler to toast, 2 to 4 minutes. Watch carefully to prevent burning.",
+            "Slice toasted bread into 2-inch thick slices. Dip toasted side of each slice into garlic butter."
+        ],
+        "num_ingredients": 3,
+        "num_steps": 4,
+        "ingredient_text": "½ butter cloves garlic sliced ounce loaf french bread halved lengthwise",
+        "directions_text": "melt butter in a small saucepan; simmer garlic slices in hot butter over low heat until butter turns foamy, about 5 minutes. set oven rack about 6 inches from the heat source and preheat the oven's broiler. place bread loaf halves under the preheated broiler to toast, 2 to 4 minutes. watch carefully to prevent burning. slice toasted bread into 2-inch thick slices. dip toasted side of each slice into garlic butter.",
+        "combined_text": "lisa's best ever garlic bread garlic bread garlic bread ½ cup butter 3 cloves garlic, sliced 1 (16 ounce) loaf french bread, halved lengthwise melt butter in a small saucepan; simmer garlic slices in hot butter over low heat until butter turns foamy, about 5 minutes. set oven rack about 6 inches from the heat source and preheat the oven's broiler. place bread loaf halves under the preheated broiler to toast, 2 to 4 minutes. watch carefully to prevent burning. slice toasted bread into 2-inch thick slices. dip toasted side of each slice into garlic butter.",
+        "ingredients_raw": [
+            "½ cup butter",
+            "3 cloves garlic, sliced",
+            "1 (16 ounce) loaf French bread, halved lengthwise"
+        ],
+        "directions_raw": [
+            "Melt butter in a small saucepan; simmer garlic slices in hot butter over low heat until butter turns foamy, about 5 minutes.",
+            "Set oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Place bread loaf halves under the preheated broiler to toast, 2 to 4 minutes. Watch carefully to prevent burning.",
+            "Slice toasted bread into 2-inch thick slices. Dip toasted side of each slice into garlic butter."
+        ],
+        "ingredients_canonical": [
+            "½ butter",
+            "cloves garlic sliced",
+            "ounce loaf french bread halved lengthwise"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "breakfast"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 44,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grilled Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Here is a savory grilled garlic bread recipe that's easy to make.",
+        "ingredients": [
+            "2 tablespoons butter, softened",
+            "1 clove garlic, crushed",
+            "2 tablespoons grated Parmesan cheese",
+            "ground black pepper to taste",
+            "¼ large baguette, sliced",
+            "1 teaspoon chopped fresh parsley, or to taste"
+        ],
+        "directions": [
+            "Preheat a grill to high heat.",
+            "Mix together butter, garlic, Parmesan cheese, and pepper in a bowl.",
+            "Spread the butter mixture generously on the baguette slices.",
+            "Place slices on the preheated grill and cook until butter is melted and bread is lightly brown, about 30 seconds.",
+            "Sprinkle with parsley and serve immediately."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "butter softened clove garlic crushed grated parmesan cheese ground black pepper taste ¼ large baguette sliced chopped fresh parsley taste",
+        "directions_text": "preheat a grill to high heat. mix together butter, garlic, parmesan cheese, and pepper in a bowl. spread the butter mixture generously on the baguette slices. place slices on the preheated grill and cook until butter is melted and bread is lightly brown, about 30 seconds. sprinkle with parsley and serve immediately.",
+        "combined_text": "grilled garlic bread garlic bread garlic bread 2 tablespoons butter, softened 1 clove garlic, crushed 2 tablespoons grated parmesan cheese ground black pepper to taste ¼ large baguette, sliced 1 teaspoon chopped fresh parsley, or to taste preheat a grill to high heat. mix together butter, garlic, parmesan cheese, and pepper in a bowl. spread the butter mixture generously on the baguette slices. place slices on the preheated grill and cook until butter is melted and bread is lightly brown, about 30 seconds. sprinkle with parsley and serve immediately.",
+        "ingredients_raw": [
+            "2 tablespoons butter, softened",
+            "1 clove garlic, crushed",
+            "2 tablespoons grated Parmesan cheese",
+            "ground black pepper to taste",
+            "¼ large baguette, sliced",
+            "1 teaspoon chopped fresh parsley, or to taste"
+        ],
+        "directions_raw": [
+            "Preheat a grill to high heat.",
+            "Mix together butter, garlic, Parmesan cheese, and pepper in a bowl.",
+            "Spread the butter mixture generously on the baguette slices.",
+            "Place slices on the preheated grill and cook until butter is melted and bread is lightly brown, about 30 seconds.",
+            "Sprinkle with parsley and serve immediately."
+        ],
+        "ingredients_canonical": [
+            "butter softened",
+            "clove garlic crushed",
+            "grated parmesan cheese",
+            "ground black pepper taste",
+            "¼ large baguette sliced",
+            "chopped fresh parsley taste"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 2,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 54,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "2-Ingredient Dough Garlic Knots",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Restaurant-style garlic knots can be on your dinner table in just 30 minutes. This fast and easy dough recipe doesn't require any yeast or proof time, so the prep is simple. Get the kids involved in shaping the dough, and finish with a sprinkle with Parmesan for even more flavor. These hot and buttery knots will be a showstopper for your next Italian night.",
+        "ingredients": [
+            "1 ½ cups self-rising flour, plus more for kneading",
+            "1 cup plain Greek yogurt",
+            "½ cup butter, melted",
+            "2 cloves garlic, minced",
+            "½ teaspoon chopped fresh parsley, plus more for garnish",
+            "½ teaspoon salt"
+        ],
+        "directions": [
+            "Mix flour and Greek yogurt together in a medium bowl until a shaggy dough forms. Transfer to a surface dusted with more self-rising flour, and knead for 8 to 10 minutes. Continue adding flour as needed if the dough is too sticky.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper.",
+            "Combine melted butter, garlic, parsley, and salt in a small bowl.",
+            "Cut the dough into 8 pieces, roughly 2 ounces each. Roll each segment into an even 12-inch log. Shape the logs into knots by forming a cross, wrapping the top piece around the bottom piece, then connecting the two ends. Press together tightly to seal.",
+            "Move the knots to the prepared baking sheet and brush with garlic butter.",
+            "Bake in the preheated oven until lightly browned, 15 to 20 minutes. Brush with remaining garlic butter, garnish with more parsley, and serve warm."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 6,
+        "ingredient_text": "½ self-rising flour plus more for kneading plain greek yogurt ½ butter melted cloves garlic minced ½ chopped fresh parsley plus more for garnish ½ salt",
+        "directions_text": "mix flour and greek yogurt together in a medium bowl until a shaggy dough forms. transfer to a surface dusted with more self-rising flour, and knead for 8 to 10 minutes. continue adding flour as needed if the dough is too sticky. preheat the oven to 425 degrees f (220 degrees c). line a baking sheet with parchment paper. combine melted butter, garlic, parsley, and salt in a small bowl. cut the dough into 8 pieces, roughly 2 ounces each. roll each segment into an even 12-inch log. shape the logs into knots by forming a cross, wrapping the top piece around the bottom piece, then connecting the two ends. press together tightly to seal. move the knots to the prepared baking sheet and brush with garlic butter. bake in the preheated oven until lightly browned, 15 to 20 minutes. brush with remaining garlic butter, garnish with more parsley, and serve warm.",
+        "combined_text": "2-ingredient dough garlic knots garlic bread garlic bread 1 ½ cups self-rising flour, plus more for kneading 1 cup plain greek yogurt ½ cup butter, melted 2 cloves garlic, minced ½ teaspoon chopped fresh parsley, plus more for garnish ½ teaspoon salt mix flour and greek yogurt together in a medium bowl until a shaggy dough forms. transfer to a surface dusted with more self-rising flour, and knead for 8 to 10 minutes. continue adding flour as needed if the dough is too sticky. preheat the oven to 425 degrees f (220 degrees c). line a baking sheet with parchment paper. combine melted butter, garlic, parsley, and salt in a small bowl. cut the dough into 8 pieces, roughly 2 ounces each. roll each segment into an even 12-inch log. shape the logs into knots by forming a cross, wrapping the top piece around the bottom piece, then connecting the two ends. press together tightly to seal. move the knots to the prepared baking sheet and brush with garlic butter. bake in the preheated oven until lightly browned, 15 to 20 minutes. brush with remaining garlic butter, garnish with more parsley, and serve warm.",
+        "ingredients_raw": [
+            "1 ½ cups self-rising flour, plus more for kneading",
+            "1 cup plain Greek yogurt",
+            "½ cup butter, melted",
+            "2 cloves garlic, minced",
+            "½ teaspoon chopped fresh parsley, plus more for garnish",
+            "½ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Mix flour and Greek yogurt together in a medium bowl until a shaggy dough forms. Transfer to a surface dusted with more self-rising flour, and knead for 8 to 10 minutes. Continue adding flour as needed if the dough is too sticky.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper.",
+            "Combine melted butter, garlic, parsley, and salt in a small bowl.",
+            "Cut the dough into 8 pieces, roughly 2 ounces each. Roll each segment into an even 12-inch log. Shape the logs into knots by forming a cross, wrapping the top piece around the bottom piece, then connecting the two ends. Press together tightly to seal.",
+            "Move the knots to the prepared baking sheet and brush with garlic butter.",
+            "Bake in the preheated oven until lightly browned, 15 to 20 minutes. Brush with remaining garlic butter, garnish with more parsley, and serve warm."
+        ],
+        "ingredients_canonical": [
+            "½ self-rising flour plus more for kneading",
+            "plain greek yogurt",
+            "½ butter melted",
+            "cloves garlic minced",
+            "½ chopped fresh parsley plus more for garnish",
+            "½ salt"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "sour",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 52,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Rosemary Garlic Knots",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "A quick-and-easy recipe for garlic knots that are extremely flavorful. They are a big hit at parties and get-togethers.",
+        "ingredients": [
+            "1 (10 ounce) can jumbo, butter-flavored biscuits",
+            "⅓ cup olive oil",
+            "2 teaspoons dried rosemary, or more to taste",
+            "3 teaspoons granulated garlic",
+            "½ teaspoon chili powder",
+            "½ teaspoon salt",
+            "1 dash dried basil",
+            "1 dash dried oregano",
+            "1 dash ground black pepper"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Shape biscuit dough into 12 balls. Roll each ball into a 4- to 6-inch long strip.",
+            "Combine olive oil, rosemary, garlic, chili powder, salt, basil, oregano, and pepper in a bowl. Dip dough strips one-by-one into the oil mixture and roll until totally covered. Tie each strip into a knot, stretching as needed. Place knots on an ungreased baking sheet.",
+            "Bake in the preheated oven until golden brown, about 15 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "ounce can jumbo butter-flavored biscuits ⅓ olive oil dried rosemary more taste granulated garlic ½ chili powder ½ salt dash dried basil dash dried oregano dash ground black pepper",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). shape biscuit dough into 12 balls. roll each ball into a 4- to 6-inch long strip. combine olive oil, rosemary, garlic, chili powder, salt, basil, oregano, and pepper in a bowl. dip dough strips one-by-one into the oil mixture and roll until totally covered. tie each strip into a knot, stretching as needed. place knots on an ungreased baking sheet. bake in the preheated oven until golden brown, about 15 minutes.",
+        "combined_text": "rosemary garlic knots garlic bread garlic bread 1 (10 ounce) can jumbo, butter-flavored biscuits ⅓ cup olive oil 2 teaspoons dried rosemary, or more to taste 3 teaspoons granulated garlic ½ teaspoon chili powder ½ teaspoon salt 1 dash dried basil 1 dash dried oregano 1 dash ground black pepper preheat the oven to 350 degrees f (175 degrees c). shape biscuit dough into 12 balls. roll each ball into a 4- to 6-inch long strip. combine olive oil, rosemary, garlic, chili powder, salt, basil, oregano, and pepper in a bowl. dip dough strips one-by-one into the oil mixture and roll until totally covered. tie each strip into a knot, stretching as needed. place knots on an ungreased baking sheet. bake in the preheated oven until golden brown, about 15 minutes.",
+        "ingredients_raw": [
+            "1 (10 ounce) can jumbo, butter-flavored biscuits",
+            "⅓ cup olive oil",
+            "2 teaspoons dried rosemary, or more to taste",
+            "3 teaspoons granulated garlic",
+            "½ teaspoon chili powder",
+            "½ teaspoon salt",
+            "1 dash dried basil",
+            "1 dash dried oregano",
+            "1 dash ground black pepper"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Shape biscuit dough into 12 balls. Roll each ball into a 4- to 6-inch long strip.",
+            "Combine olive oil, rosemary, garlic, chili powder, salt, basil, oregano, and pepper in a bowl. Dip dough strips one-by-one into the oil mixture and roll until totally covered. Tie each strip into a knot, stretching as needed. Place knots on an ungreased baking sheet.",
+            "Bake in the preheated oven until golden brown, about 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce can jumbo butter-flavored biscuits",
+            "⅓ olive oil",
+            "dried rosemary more taste",
+            "granulated garlic",
+            "½ chili powder",
+            "½ salt",
+            "dash dried basil",
+            "dash dried oregano",
+            "dash ground black pepper"
+        ],
+        "cuisine_list": [
+            "american",
+            "american_region",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "vietnamese"
+        ],
+        "course_list": [
+            "bread",
+            "main"
+        ],
+        "tastes": [
+            "spicy",
+            "savory"
+        ],
+        "primary_taste": "spicy",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Extra Garlicky Garlic Knots",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "These are like the ones we used to get at our favorite pizza restaurant (until they closed). Fresh garlic, parsley, and cheese make these extra garlicky!",
+        "ingredients": [
+            "2 (10 ounce) packages frozen pizza dough, thawed",
+            "flour for dusting",
+            "10 tablespoons olive oil",
+            "12 cloves garlic, minced",
+            "½ tablespoon salt",
+            "½ cup finely grated Parmesan cheese",
+            "1 tablespoon finely chopped fresh flat-leaf parsley"
+        ],
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Lightly oil 2 baking sheets.",
+            "Roll 1 package of pizza dough out into a 10-inch square on a lightly floured surface using a lightly floured rolling pin, using hands to pull corners. Cut square in half using a pizza wheel or sharp knife, then cut each half into 15 strips about 2/3 inch wide. Dust dough lightly with flour if necessary to prevent sticking. Gently tie each strip into a knot, pulling ends slightly to secure. Arrange knots 1 inch apart on a prepared baking sheet. Repeat with remaining dough.",
+            "Bake in the preheated oven for 15 minutes.",
+            "Meanwhile, combine oil, garlic, and salt in a large bowl.",
+            "Remove knots from the oven and brush with garlic oil. Return knots to the oven and continue baking until golden brown, 5 to 10 minutes more.",
+            "Remove knots from oven and immediately sprinkle with Parmesan cheese and parsley. Serve warm."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 6,
+        "ingredient_text": "ounce packages frozen pizza dough thawed flour for dusting olive oil cloves garlic minced ½ salt ½ finely grated parmesan cheese finely chopped fresh flat-leaf parsley",
+        "directions_text": "preheat the oven to 425 degrees f (220 degrees c). lightly oil 2 baking sheets. roll 1 package of pizza dough out into a 10-inch square on a lightly floured surface using a lightly floured rolling pin, using hands to pull corners. cut square in half using a pizza wheel or sharp knife, then cut each half into 15 strips about 2/3 inch wide. dust dough lightly with flour if necessary to prevent sticking. gently tie each strip into a knot, pulling ends slightly to secure. arrange knots 1 inch apart on a prepared baking sheet. repeat with remaining dough. bake in the preheated oven for 15 minutes. meanwhile, combine oil, garlic, and salt in a large bowl. remove knots from the oven and brush with garlic oil. return knots to the oven and continue baking until golden brown, 5 to 10 minutes more. remove knots from oven and immediately sprinkle with parmesan cheese and parsley. serve warm.",
+        "combined_text": "extra garlicky garlic knots garlic bread garlic bread 2 (10 ounce) packages frozen pizza dough, thawed flour for dusting 10 tablespoons olive oil 12 cloves garlic, minced ½ tablespoon salt ½ cup finely grated parmesan cheese 1 tablespoon finely chopped fresh flat-leaf parsley preheat the oven to 425 degrees f (220 degrees c). lightly oil 2 baking sheets. roll 1 package of pizza dough out into a 10-inch square on a lightly floured surface using a lightly floured rolling pin, using hands to pull corners. cut square in half using a pizza wheel or sharp knife, then cut each half into 15 strips about 2/3 inch wide. dust dough lightly with flour if necessary to prevent sticking. gently tie each strip into a knot, pulling ends slightly to secure. arrange knots 1 inch apart on a prepared baking sheet. repeat with remaining dough. bake in the preheated oven for 15 minutes. meanwhile, combine oil, garlic, and salt in a large bowl. remove knots from the oven and brush with garlic oil. return knots to the oven and continue baking until golden brown, 5 to 10 minutes more. remove knots from oven and immediately sprinkle with parmesan cheese and parsley. serve warm.",
+        "ingredients_raw": [
+            "2 (10 ounce) packages frozen pizza dough, thawed",
+            "flour for dusting",
+            "10 tablespoons olive oil",
+            "12 cloves garlic, minced",
+            "½ tablespoon salt",
+            "½ cup finely grated Parmesan cheese",
+            "1 tablespoon finely chopped fresh flat-leaf parsley"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Lightly oil 2 baking sheets.",
+            "Roll 1 package of pizza dough out into a 10-inch square on a lightly floured surface using a lightly floured rolling pin, using hands to pull corners. Cut square in half using a pizza wheel or sharp knife, then cut each half into 15 strips about 2/3 inch wide. Dust dough lightly with flour if necessary to prevent sticking. Gently tie each strip into a knot, pulling ends slightly to secure. Arrange knots 1 inch apart on a prepared baking sheet. Repeat with remaining dough.",
+            "Bake in the preheated oven for 15 minutes.",
+            "Meanwhile, combine oil, garlic, and salt in a large bowl.",
+            "Remove knots from the oven and brush with garlic oil. Return knots to the oven and continue baking until golden brown, 5 to 10 minutes more.",
+            "Remove knots from oven and immediately sprinkle with Parmesan cheese and parsley. Serve warm."
+        ],
+        "ingredients_canonical": [
+            "ounce packages frozen pizza dough thawed",
+            "flour for dusting",
+            "olive oil",
+            "cloves garlic minced",
+            "½ salt",
+            "½ finely grated parmesan cheese",
+            "finely chopped fresh flat-leaf parsley"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "greek",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 5,
+        "cook_speed": "medium",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 55,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Cheesy Grilled Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This grilled bread recipe is perfect to serve with Italian dishes or as an appetizer.",
+        "ingredients": [
+            "½ cup unsalted butter, softened",
+            "¼ cup sun-dried tomatoes packed in oil, drained",
+            "2 tablespoons pesto",
+            "1 clove garlic",
+            "¼ teaspoon salt",
+            "⅛ teaspoon ground black pepper",
+            "1 ½ cups shredded provolone cheese, divided",
+            "1 loaf Italian bread, sliced in half lengthwise"
+        ],
+        "directions": [
+            "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+            "Combine butter, tomatoes, pesto, garlic, salt, and black pepper in a food processor. Pulse until thoroughly combined and tomatoes are chopped. Scrape into a bowl and stir in 1 cup shredded provolone cheese.",
+            "Grill bread on the preheated grill until toasted, about 1 1/2 minutes. Spread butter mixture equally onto cut sides of both halves of bread and sprinkle with remaining cheese. Grill bread, cut-side up, over indirect heat with grill covered, until toping melts, 8 to 10 minutes. Let cool slightly; cut into slices using a serrated knife. Serve warm."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ unsalted butter softened ¼ sun-dried tomatoes packed in oil drained pesto clove garlic ¼ salt ⅛ ground black pepper ½ shredded provolone cheese divided loaf italian bread sliced in half lengthwise",
+        "directions_text": "preheat an outdoor grill for medium heat and lightly oil the grate. combine butter, tomatoes, pesto, garlic, salt, and black pepper in a food processor. pulse until thoroughly combined and tomatoes are chopped. scrape into a bowl and stir in 1 cup shredded provolone cheese. grill bread on the preheated grill until toasted, about 1 1/2 minutes. spread butter mixture equally onto cut sides of both halves of bread and sprinkle with remaining cheese. grill bread, cut-side up, over indirect heat with grill covered, until toping melts, 8 to 10 minutes. let cool slightly; cut into slices using a serrated knife. serve warm.",
+        "combined_text": "cheesy grilled bread garlic bread garlic bread ½ cup unsalted butter, softened ¼ cup sun-dried tomatoes packed in oil, drained 2 tablespoons pesto 1 clove garlic ¼ teaspoon salt ⅛ teaspoon ground black pepper 1 ½ cups shredded provolone cheese, divided 1 loaf italian bread, sliced in half lengthwise preheat an outdoor grill for medium heat and lightly oil the grate. combine butter, tomatoes, pesto, garlic, salt, and black pepper in a food processor. pulse until thoroughly combined and tomatoes are chopped. scrape into a bowl and stir in 1 cup shredded provolone cheese. grill bread on the preheated grill until toasted, about 1 1/2 minutes. spread butter mixture equally onto cut sides of both halves of bread and sprinkle with remaining cheese. grill bread, cut-side up, over indirect heat with grill covered, until toping melts, 8 to 10 minutes. let cool slightly; cut into slices using a serrated knife. serve warm.",
+        "ingredients_raw": [
+            "½ cup unsalted butter, softened",
+            "¼ cup sun-dried tomatoes packed in oil, drained",
+            "2 tablespoons pesto",
+            "1 clove garlic",
+            "¼ teaspoon salt",
+            "⅛ teaspoon ground black pepper",
+            "1 ½ cups shredded provolone cheese, divided",
+            "1 loaf Italian bread, sliced in half lengthwise"
+        ],
+        "directions_raw": [
+            "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+            "Combine butter, tomatoes, pesto, garlic, salt, and black pepper in a food processor. Pulse until thoroughly combined and tomatoes are chopped. Scrape into a bowl and stir in 1 cup shredded provolone cheese.",
+            "Grill bread on the preheated grill until toasted, about 1 1/2 minutes. Spread butter mixture equally onto cut sides of both halves of bread and sprinkle with remaining cheese. Grill bread, cut-side up, over indirect heat with grill covered, until toping melts, 8 to 10 minutes. Let cool slightly; cut into slices using a serrated knife. Serve warm."
+        ],
+        "ingredients_canonical": [
+            "½ unsalted butter softened",
+            "¼ sun-dried tomatoes packed in oil drained",
+            "pesto",
+            "clove garlic",
+            "¼ salt",
+            "⅛ ground black pepper",
+            "½ shredded provolone cheese divided",
+            "loaf italian bread sliced in half lengthwise"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 5,
+        "medium_hits": 6,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 99,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Great Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Italian garlic bread is always great with pasta! This cheese-covered garlic bread is ready in minutes.",
+        "ingredients": [
+            "½ cup butter",
+            "1 ½ tablespoons garlic powder",
+            "1 tablespoon dried parsley",
+            "1 (1 pound) loaf Italian bread, cut into 1/2 inch slices",
+            "1 (8 ounce) package shredded mozzarella cheese"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Melt butter in a small saucepan over medium heat; stir in garlic powder and dried parsley.",
+            "Place bread slices on a medium baking sheet. Using a basting brush, brush bread generously with melted butter mixture.",
+            "Bake in the preheated oven until lightly toasted, about 10 minutes.",
+            "Sprinkle bread with mozzarella cheese and any remaining butter mixture. Continue baking until cheese is melted and bread is lightly browned, about 5 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 6,
+        "ingredient_text": "½ butter ½ garlic powder dried parsley pound loaf italian bread cut into inch slices ounce package shredded mozzarella cheese",
+        "directions_text": "gather all ingredients. preheat the oven to 350 degrees f (175 degrees c). melt butter in a small saucepan over medium heat; stir in garlic powder and dried parsley. place bread slices on a medium baking sheet. using a basting brush, brush bread generously with melted butter mixture. bake in the preheated oven until lightly toasted, about 10 minutes. sprinkle bread with mozzarella cheese and any remaining butter mixture. continue baking until cheese is melted and bread is lightly browned, about 5 minutes.",
+        "combined_text": "great garlic bread garlic bread garlic bread ½ cup butter 1 ½ tablespoons garlic powder 1 tablespoon dried parsley 1 (1 pound) loaf italian bread, cut into 1/2 inch slices 1 (8 ounce) package shredded mozzarella cheese gather all ingredients. preheat the oven to 350 degrees f (175 degrees c). melt butter in a small saucepan over medium heat; stir in garlic powder and dried parsley. place bread slices on a medium baking sheet. using a basting brush, brush bread generously with melted butter mixture. bake in the preheated oven until lightly toasted, about 10 minutes. sprinkle bread with mozzarella cheese and any remaining butter mixture. continue baking until cheese is melted and bread is lightly browned, about 5 minutes.",
+        "ingredients_raw": [
+            "½ cup butter",
+            "1 ½ tablespoons garlic powder",
+            "1 tablespoon dried parsley",
+            "1 (1 pound) loaf Italian bread, cut into 1/2 inch slices",
+            "1 (8 ounce) package shredded mozzarella cheese"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Melt butter in a small saucepan over medium heat; stir in garlic powder and dried parsley.",
+            "Place bread slices on a medium baking sheet. Using a basting brush, brush bread generously with melted butter mixture.",
+            "Bake in the preheated oven until lightly toasted, about 10 minutes.",
+            "Sprinkle bread with mozzarella cheese and any remaining butter mixture. Continue baking until cheese is melted and bread is lightly browned, about 5 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ butter",
+            "½ garlic powder",
+            "dried parsley",
+            "pound loaf italian bread cut into inch slices",
+            "ounce package shredded mozzarella cheese"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "french",
+            "italian",
+            "korean",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread",
+            "side",
+            "main"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 4,
+        "cook_speed": "medium",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 50,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Herbed Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "Our recipe for Herbed Garlic Bread is the perfect addition to round out just about any meal. Use your favorite fresh or dried herbs to enhance the flavor of the garlic.",
+        "ingredients": [
+            "1/4 cup Country Crock® Spread",
+            "1 teaspoon mixed herbs, dry",
+            "½ teaspoon garlic powder",
+            "1 (12 ounce) loaf French or Italian bread"
+        ],
+        "directions": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Combine all ingredients except bread in small bowl. Arrange bread on baking sheet; spread with herb mixture.",
+            "Broil until golden, about 2 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 3,
+        "ingredient_text": "country crock spread mixed herbs dry ½ garlic powder ounce loaf french italian bread",
+        "directions_text": "set an oven rack about 6 inches from the heat source and preheat the oven's broiler. combine all ingredients except bread in small bowl. arrange bread on baking sheet; spread with herb mixture. broil until golden, about 2 minutes.",
+        "combined_text": "herbed garlic bread garlic bread garlic bread 1/4 cup country crock® spread 1 teaspoon mixed herbs, dry ½ teaspoon garlic powder 1 (12 ounce) loaf french or italian bread set an oven rack about 6 inches from the heat source and preheat the oven's broiler. combine all ingredients except bread in small bowl. arrange bread on baking sheet; spread with herb mixture. broil until golden, about 2 minutes.",
+        "ingredients_raw": [
+            "1/4 cup Country Crock® Spread",
+            "1 teaspoon mixed herbs, dry",
+            "½ teaspoon garlic powder",
+            "1 (12 ounce) loaf French or Italian bread"
+        ],
+        "directions_raw": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Combine all ingredients except bread in small bowl. Arrange bread on baking sheet; spread with herb mixture.",
+            "Broil until golden, about 2 minutes."
+        ],
+        "ingredients_canonical": [
+            "country crock spread",
+            "mixed herbs dry",
+            "½ garlic powder",
+            "ounce loaf french italian bread"
+        ],
+        "cuisine_list": [
+            "asian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "none",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "The Best Garlic Bread",
+        "category": "Garlic Bread",
+        "subcategory": "Garlic Bread",
+        "description": "This is the best garlic bread I have ever tasted. Adjust the ingredients as necessary until the mayonnaise, Parmesan cheese and garlic powder mixture is a paste-like consistency.",
+        "ingredients": [
+            "2 tablespoons mayonnaise",
+            "½ cup grated Parmesan cheese",
+            "1 tablespoon garlic powder",
+            "1 (1 pound) loaf Italian bread"
+        ],
+        "directions": [
+            "Preheat the oven's broiler.",
+            "Mix together mayonnaise, Parmesan cheese, and garlic powder in a medium bowl until thick and well combined.",
+            "Slice loaf in half lengthwise and spread the cut-side of each piece with mayonnaise mixture. Place halves on a medium baking sheet.",
+            "Cook under the preheated broiler until mayonnaise mixture is bubbling and golden brown, 2 to 5 minutes; check frequently to avoid burning."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 4,
+        "ingredient_text": "mayonnaise ½ grated parmesan cheese garlic powder pound loaf italian bread",
+        "directions_text": "preheat the oven's broiler. mix together mayonnaise, parmesan cheese, and garlic powder in a medium bowl until thick and well combined. slice loaf in half lengthwise and spread the cut-side of each piece with mayonnaise mixture. place halves on a medium baking sheet. cook under the preheated broiler until mayonnaise mixture is bubbling and golden brown, 2 to 5 minutes; check frequently to avoid burning.",
+        "combined_text": "the best garlic bread garlic bread garlic bread 2 tablespoons mayonnaise ½ cup grated parmesan cheese 1 tablespoon garlic powder 1 (1 pound) loaf italian bread preheat the oven's broiler. mix together mayonnaise, parmesan cheese, and garlic powder in a medium bowl until thick and well combined. slice loaf in half lengthwise and spread the cut-side of each piece with mayonnaise mixture. place halves on a medium baking sheet. cook under the preheated broiler until mayonnaise mixture is bubbling and golden brown, 2 to 5 minutes; check frequently to avoid burning.",
+        "ingredients_raw": [
+            "2 tablespoons mayonnaise",
+            "½ cup grated Parmesan cheese",
+            "1 tablespoon garlic powder",
+            "1 (1 pound) loaf Italian bread"
+        ],
+        "directions_raw": [
+            "Preheat the oven's broiler.",
+            "Mix together mayonnaise, Parmesan cheese, and garlic powder in a medium bowl until thick and well combined.",
+            "Slice loaf in half lengthwise and spread the cut-side of each piece with mayonnaise mixture. Place halves on a medium baking sheet.",
+            "Cook under the preheated broiler until mayonnaise mixture is bubbling and golden brown, 2 to 5 minutes; check frequently to avoid burning."
+        ],
+        "ingredients_canonical": [
+            "mayonnaise",
+            "½ grated parmesan cheese",
+            "garlic powder",
+            "pound loaf italian bread"
+        ],
+        "cuisine_list": [
+            "asian",
+            "european",
+            "italian",
+            "korean"
+        ],
+        "course_list": [
+            "bread",
+            "side"
+        ],
+        "tastes": [
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "savory",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "recipe_title": "Kolaches From the Bread Machine",
+        "category": "Kolache",
+        "subcategory": "Kolache",
+        "description": "This is a family favorite made easy. Preparing the dough in a bread machine saves time kneading the dough by hand. My grandmother used to make these when we would visit. Now I can make them for her.",
+        "ingredients": [
+            "1 ¼ cups warm water",
+            "½ cup butter, softened",
+            "1 egg",
+            "1 egg yolk",
+            "⅓ cup milk powder",
+            "¼ cup instant mashed potato flakes",
+            "¼ cup white sugar",
+            "1 teaspoon salt",
+            "3 ⅞ cups bread flour",
+            "2 teaspoons active dry yeast",
+            "1 (12 ounce) can cherry pie filling",
+            "1 (12 ounce) can poppyseed filling",
+            "¼ cup butter, melted"
+        ],
+        "directions": [
+            "Place water, softened butter, egg, egg yolk, milk powder, potato flakes, sugar, salt, flour and yeast in the pan of the bread machine in the order recommended by the manufacturer. Select Dough cycle; press Start. Check dough after 5 minutes of mixing, adding 1 to 2 tablespoons of water if necessary.",
+            "When the cycle is complete, spoon out dough with tablespoon and roll into walnut sized balls. Place 2 inches apart on a lightly greased cookie sheet. Cover and let rise until doubled, about 1 hour.",
+            "Flatten balls slightly with the palm of your and make a depression in center with your thumb. Fill with 1 tablespoon of filling. Cover and let rise for about 30 minutes. Meanwhile, preheat oven to 375 degrees F (190 degrees C).",
+            "Bake in preheated oven for 13 to 15 minutes, until lightly browned. Remove from oven and brush with melted butter. Cool on wire rack."
+        ],
+        "num_ingredients": 13,
+        "num_steps": 4,
+        "ingredient_text": "¼ warm water ½ butter softened egg egg yolk ⅓ milk powder ¼ instant mashed potato flakes ¼ white sugar salt ⅞ bread flour active dry yeast ounce can cherry pie filling ounce can poppyseed filling ¼ butter melted",
+        "directions_text": "place water, softened butter, egg, egg yolk, milk powder, potato flakes, sugar, salt, flour and yeast in the pan of the bread machine in the order recommended by the manufacturer. select dough cycle; press start. check dough after 5 minutes of mixing, adding 1 to 2 tablespoons of water if necessary. when the cycle is complete, spoon out dough with tablespoon and roll into walnut sized balls. place 2 inches apart on a lightly greased cookie sheet. cover and let rise until doubled, about 1 hour. flatten balls slightly with the palm of your and make a depression in center with your thumb. fill with 1 tablespoon of filling. cover and let rise for about 30 minutes. meanwhile, preheat oven to 375 degrees f (190 degrees c). bake in preheated oven for 13 to 15 minutes, until lightly browned. remove from oven and brush with melted butter. cool on wire rack.",
+        "combined_text": "kolaches from the bread machine kolache kolache 1 ¼ cups warm water ½ cup butter, softened 1 egg 1 egg yolk ⅓ cup milk powder ¼ cup instant mashed potato flakes ¼ cup white sugar 1 teaspoon salt 3 ⅞ cups bread flour 2 teaspoons active dry yeast 1 (12 ounce) can cherry pie filling 1 (12 ounce) can poppyseed filling ¼ cup butter, melted place water, softened butter, egg, egg yolk, milk powder, potato flakes, sugar, salt, flour and yeast in the pan of the bread machine in the order recommended by the manufacturer. select dough cycle; press start. check dough after 5 minutes of mixing, adding 1 to 2 tablespoons of water if necessary. when the cycle is complete, spoon out dough with tablespoon and roll into walnut sized balls. place 2 inches apart on a lightly greased cookie sheet. cover and let rise until doubled, about 1 hour. flatten balls slightly with the palm of your and make a depression in center with your thumb. fill with 1 tablespoon of filling. cover and let rise for about 30 minutes. meanwhile, preheat oven to 375 degrees f (190 degrees c). bake in preheated oven for 13 to 15 minutes, until lightly browned. remove from oven and brush with melted butter. cool on wire rack.",
+        "ingredients_raw": [
+            "1 ¼ cups warm water",
+            "½ cup butter, softened",
+            "1 egg",
+            "1 egg yolk",
+            "⅓ cup milk powder",
+            "¼ cup instant mashed potato flakes",
+            "¼ cup white sugar",
+            "1 teaspoon salt",
+            "3 ⅞ cups bread flour",
+            "2 teaspoons active dry yeast",
+            "1 (12 ounce) can cherry pie filling",
+            "1 (12 ounce) can poppyseed filling",
+            "¼ cup butter, melted"
+        ],
+        "directions_raw": [
+            "Place water, softened butter, egg, egg yolk, milk powder, potato flakes, sugar, salt, flour and yeast in the pan of the bread machine in the order recommended by the manufacturer. Select Dough cycle; press Start. Check dough after 5 minutes of mixing, adding 1 to 2 tablespoons of water if necessary.",
+            "When the cycle is complete, spoon out dough with tablespoon and roll into walnut sized balls. Place 2 inches apart on a lightly greased cookie sheet. Cover and let rise until doubled, about 1 hour.",
+            "Flatten balls slightly with the palm of your and make a depression in center with your thumb. Fill with 1 tablespoon of filling. Cover and let rise for about 30 minutes. Meanwhile, preheat oven to 375 degrees F (190 degrees C).",
+            "Bake in preheated oven for 13 to 15 minutes, until lightly browned. Remove from oven and brush with melted butter. Cool on wire rack."
+        ],
+        "ingredients_canonical": [
+            "¼ warm water",
+            "½ butter softened",
+            "egg",
+            "egg yolk",
+            "⅓ milk powder",
+            "¼ instant mashed potato flakes",
+            "¼ white sugar",
+            "salt",
+            "⅞ bread flour",
+            "active dry yeast",
+            "ounce can cherry pie filling",
+            "ounce can poppyseed filling",
+            "¼ butter melted"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 0,
+        "slow_hits": 8,
+        "medium_hits": 2,
+        "cook_speed": "slow",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 118,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Basic Sweet Dough",
+        "category": "Kolache",
+        "subcategory": "Kolache",
+        "description": "I have made plenty of sweet breads, and I always favored the Hungarian Coffee Cake and Swedish Tea Ring. This sweet dough recipe is my mother's, and this works out really well because it is an old recipe. I have also used others which were more recent and still turned out well, but this one is the best I have found. Use this recipe for the basis of your sweet breads.",
+        "ingredients": [
+            "1 cup milk",
+            "8 cups sifted all-purpose flour",
+            "1 ¼ cups cold water",
+            "2 (0.6 ounce) cakes compressed fresh yeast",
+            "2 teaspoons salt",
+            "½ cup white sugar",
+            "4 tablespoons shortening",
+            "2 eggs",
+            "2 tablespoons melted shortening"
+        ],
+        "directions": [
+            "Scald milk in a medium saucepan. Add cold water to scalded milk. Remove 1/4 cup liquid; mix yeast into liquid when cooled to lukewarm. To liquid in saucepan, add salt, sugar, shortening, and eggs. Add dissolved yeast to saucepan. Mix well.",
+            "Sift and measure the flour into a large bowl. Make a well in the flour, and pour the liquids into the well. Stir with a large wooden spoon until liquid disappears.",
+            "With one hand, mix dough in bowl using swinging rotary motion. Gradually form dough into smooth ball, then knead in bowl for 2 minutes. Brush top with melted shortening. Cover, and allow dough to rise at room temperature until doubled in bulk, about 2 hours.",
+            "Punch down dough. Use dough for any sweet bread recipe."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "milk sifted all-purpose flour ¼ cold water ounce cakes compressed fresh yeast salt ½ white sugar shortening eggs melted shortening",
+        "directions_text": "scald milk in a medium saucepan. add cold water to scalded milk. remove 1/4 cup liquid; mix yeast into liquid when cooled to lukewarm. to liquid in saucepan, add salt, sugar, shortening, and eggs. add dissolved yeast to saucepan. mix well. sift and measure the flour into a large bowl. make a well in the flour, and pour the liquids into the well. stir with a large wooden spoon until liquid disappears. with one hand, mix dough in bowl using swinging rotary motion. gradually form dough into smooth ball, then knead in bowl for 2 minutes. brush top with melted shortening. cover, and allow dough to rise at room temperature until doubled in bulk, about 2 hours. punch down dough. use dough for any sweet bread recipe.",
+        "combined_text": "basic sweet dough kolache kolache 1 cup milk 8 cups sifted all-purpose flour 1 ¼ cups cold water 2 (0.6 ounce) cakes compressed fresh yeast 2 teaspoons salt ½ cup white sugar 4 tablespoons shortening 2 eggs 2 tablespoons melted shortening scald milk in a medium saucepan. add cold water to scalded milk. remove 1/4 cup liquid; mix yeast into liquid when cooled to lukewarm. to liquid in saucepan, add salt, sugar, shortening, and eggs. add dissolved yeast to saucepan. mix well. sift and measure the flour into a large bowl. make a well in the flour, and pour the liquids into the well. stir with a large wooden spoon until liquid disappears. with one hand, mix dough in bowl using swinging rotary motion. gradually form dough into smooth ball, then knead in bowl for 2 minutes. brush top with melted shortening. cover, and allow dough to rise at room temperature until doubled in bulk, about 2 hours. punch down dough. use dough for any sweet bread recipe.",
+        "ingredients_raw": [
+            "1 cup milk",
+            "8 cups sifted all-purpose flour",
+            "1 ¼ cups cold water",
+            "2 (0.6 ounce) cakes compressed fresh yeast",
+            "2 teaspoons salt",
+            "½ cup white sugar",
+            "4 tablespoons shortening",
+            "2 eggs",
+            "2 tablespoons melted shortening"
+        ],
+        "directions_raw": [
+            "Scald milk in a medium saucepan. Add cold water to scalded milk. Remove 1/4 cup liquid; mix yeast into liquid when cooled to lukewarm. To liquid in saucepan, add salt, sugar, shortening, and eggs. Add dissolved yeast to saucepan. Mix well.",
+            "Sift and measure the flour into a large bowl. Make a well in the flour, and pour the liquids into the well. Stir with a large wooden spoon until liquid disappears.",
+            "With one hand, mix dough in bowl using swinging rotary motion. Gradually form dough into smooth ball, then knead in bowl for 2 minutes. Brush top with melted shortening. Cover, and allow dough to rise at room temperature until doubled in bulk, about 2 hours.",
+            "Punch down dough. Use dough for any sweet bread recipe."
+        ],
+        "ingredients_canonical": [
+            "milk",
+            "sifted all-purpose flour",
+            "¼ cold water",
+            "ounce cakes compressed fresh yeast",
+            "salt",
+            "½ white sugar",
+            "shortening",
+            "eggs",
+            "melted shortening"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "side",
+            "drink",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 48,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "sugary"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Grandma Skeet's Prune Kolaches",
+        "category": "Kolache",
+        "subcategory": "Kolache",
+        "description": "This is a Czech Pastry my Grandma use to make with a homemade prune filling and streusel topping. I changed it a little so I could use the bread machine. They are worth the hard work!",
+        "ingredients": [
+            "1 cup warm water",
+            "1 teaspoon salt",
+            "1 egg",
+            "2 tablespoons butter, room temperature",
+            "3 cups bread flour",
+            "¼ cup white sugar",
+            "3 teaspoons bread machine yeast"
+        ],
+        "directions": [
+            "Place the warm water, salt, egg and 2 tablespoons butter in the pan of a bread machine. Add bread flour, and pour 1/4 cup sugar on the edge of the pan. Make a shallow hole in the flour and add the yeast. Close the lid, and set machine for the DOUGH cycle.",
+            "While the dough is mixing, combine the prunes, prune juice, 1/4 cup sugar, cinnamon, cloves and lime juice in a saucepan. Bring to a boil, then reduce heat to low, and simmer until prunes are soft and the sauce has thickened, about 15 minutes. Remove from heat and blend in a mixer or food processor until smooth.",
+            "When the bread machine signals the end of the dough cycle, transfer the dough to a lightly floured surface. Divide the dough into 20 small egg-sized pieces. Cover with greased plastic wrap, and set aside for 10 minutes.",
+            "In a small bowl, mix together 1 cup sugar and 1/2 cup flour. Stir in melted butter and 1 teaspoon cinnamon to make a crumbly streusel.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a large baking sheet or line it with parchment paper.",
+            "Shape the kolache dough into balls and place them on the prepared baking sheet. Press a shallow hole in the center of each one, and fill with prune filling. Top each of the kolaches with streusel. Let the kolaches rest until doubled in size, about 20 minutes.",
+            "Bake until the tops are lightly browned, 14 to 16 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 7,
+        "ingredient_text": "warm water salt egg butter room temperature bread flour ¼ white sugar bread machine yeast",
+        "directions_text": "place the warm water, salt, egg and 2 tablespoons butter in the pan of a bread machine. add bread flour, and pour 1/4 cup sugar on the edge of the pan. make a shallow hole in the flour and add the yeast. close the lid, and set machine for the dough cycle. while the dough is mixing, combine the prunes, prune juice, 1/4 cup sugar, cinnamon, cloves and lime juice in a saucepan. bring to a boil, then reduce heat to low, and simmer until prunes are soft and the sauce has thickened, about 15 minutes. remove from heat and blend in a mixer or food processor until smooth. when the bread machine signals the end of the dough cycle, transfer the dough to a lightly floured surface. divide the dough into 20 small egg-sized pieces. cover with greased plastic wrap, and set aside for 10 minutes. in a small bowl, mix together 1 cup sugar and 1/2 cup flour. stir in melted butter and 1 teaspoon cinnamon to make a crumbly streusel. preheat the oven to 350 degrees f (175 degrees c). grease a large baking sheet or line it with parchment paper. shape the kolache dough into balls and place them on the prepared baking sheet. press a shallow hole in the center of each one, and fill with prune filling. top each of the kolaches with streusel. let the kolaches rest until doubled in size, about 20 minutes. bake until the tops are lightly browned, 14 to 16 minutes.",
+        "combined_text": "grandma skeet's prune kolaches kolache kolache 1 cup warm water 1 teaspoon salt 1 egg 2 tablespoons butter, room temperature 3 cups bread flour ¼ cup white sugar 3 teaspoons bread machine yeast place the warm water, salt, egg and 2 tablespoons butter in the pan of a bread machine. add bread flour, and pour 1/4 cup sugar on the edge of the pan. make a shallow hole in the flour and add the yeast. close the lid, and set machine for the dough cycle. while the dough is mixing, combine the prunes, prune juice, 1/4 cup sugar, cinnamon, cloves and lime juice in a saucepan. bring to a boil, then reduce heat to low, and simmer until prunes are soft and the sauce has thickened, about 15 minutes. remove from heat and blend in a mixer or food processor until smooth. when the bread machine signals the end of the dough cycle, transfer the dough to a lightly floured surface. divide the dough into 20 small egg-sized pieces. cover with greased plastic wrap, and set aside for 10 minutes. in a small bowl, mix together 1 cup sugar and 1/2 cup flour. stir in melted butter and 1 teaspoon cinnamon to make a crumbly streusel. preheat the oven to 350 degrees f (175 degrees c). grease a large baking sheet or line it with parchment paper. shape the kolache dough into balls and place them on the prepared baking sheet. press a shallow hole in the center of each one, and fill with prune filling. top each of the kolaches with streusel. let the kolaches rest until doubled in size, about 20 minutes. bake until the tops are lightly browned, 14 to 16 minutes.",
+        "ingredients_raw": [
+            "1 cup warm water",
+            "1 teaspoon salt",
+            "1 egg",
+            "2 tablespoons butter, room temperature",
+            "3 cups bread flour",
+            "¼ cup white sugar",
+            "3 teaspoons bread machine yeast"
+        ],
+        "directions_raw": [
+            "Place the warm water, salt, egg and 2 tablespoons butter in the pan of a bread machine. Add bread flour, and pour 1/4 cup sugar on the edge of the pan. Make a shallow hole in the flour and add the yeast. Close the lid, and set machine for the DOUGH cycle.",
+            "While the dough is mixing, combine the prunes, prune juice, 1/4 cup sugar, cinnamon, cloves and lime juice in a saucepan. Bring to a boil, then reduce heat to low, and simmer until prunes are soft and the sauce has thickened, about 15 minutes. Remove from heat and blend in a mixer or food processor until smooth.",
+            "When the bread machine signals the end of the dough cycle, transfer the dough to a lightly floured surface. Divide the dough into 20 small egg-sized pieces. Cover with greased plastic wrap, and set aside for 10 minutes.",
+            "In a small bowl, mix together 1 cup sugar and 1/2 cup flour. Stir in melted butter and 1 teaspoon cinnamon to make a crumbly streusel.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a large baking sheet or line it with parchment paper.",
+            "Shape the kolache dough into balls and place them on the prepared baking sheet. Press a shallow hole in the center of each one, and fill with prune filling. Top each of the kolaches with streusel. Let the kolaches rest until doubled in size, about 20 minutes.",
+            "Bake until the tops are lightly browned, 14 to 16 minutes."
+        ],
+        "ingredients_canonical": [
+            "warm water",
+            "salt",
+            "egg",
+            "butter room temperature",
+            "bread flour",
+            "¼ white sugar",
+            "bread machine yeast"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "side",
+            "bread",
+            "drink",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 12,
+        "slow_hits": 8,
+        "medium_hits": 5,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 142,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    }
+]

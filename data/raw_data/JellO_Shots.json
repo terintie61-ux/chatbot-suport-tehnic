@@ -1,0 +1,1744 @@
+[
+    {
+        "recipe_title": "RumChata Pudding Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "These RumChata pudding shots are even better than Jell-O shots. You could also serve these after dinner in place of dessert.",
+        "ingredients": [
+            "1 cup milk",
+            "1 cup rum cream liqueur (such as RumChata®)",
+            "1 (4 ounce) package instant chocolate pudding mix",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Mix milk, rum cream liqueur, and pudding mix together in a bowl until thickened.",
+            "Gently stir whipped topping into the pudding mixture.",
+            "Spoon into disposable shot cups and place on a plate.",
+            "Freeze until chilled and set, at least 3 hours."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 5,
+        "ingredient_text": "milk rum cream liqueur such as rumchata ounce package instant chocolate pudding mix ounce container frozen whipped topping such as cool whip thawed",
+        "directions_text": "gather all ingredients. mix milk, rum cream liqueur, and pudding mix together in a bowl until thickened. gently stir whipped topping into the pudding mixture. spoon into disposable shot cups and place on a plate. freeze until chilled and set, at least 3 hours.",
+        "combined_text": "rumchata pudding shots jell-o shots jell-o shots 1 cup milk 1 cup rum cream liqueur (such as rumchata®) 1 (4 ounce) package instant chocolate pudding mix 1 (8 ounce) container frozen whipped topping (such as cool whip®), thawed gather all ingredients. mix milk, rum cream liqueur, and pudding mix together in a bowl until thickened. gently stir whipped topping into the pudding mixture. spoon into disposable shot cups and place on a plate. freeze until chilled and set, at least 3 hours.",
+        "ingredients_raw": [
+            "1 cup milk",
+            "1 cup rum cream liqueur (such as RumChata®)",
+            "1 (4 ounce) package instant chocolate pudding mix",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Mix milk, rum cream liqueur, and pudding mix together in a bowl until thickened.",
+            "Gently stir whipped topping into the pudding mixture.",
+            "Spoon into disposable shot cups and place on a plate.",
+            "Freeze until chilled and set, at least 3 hours."
+        ],
+        "ingredients_canonical": [
+            "milk",
+            "rum cream liqueur such as rumchata",
+            "ounce package instant chocolate pudding mix",
+            "ounce container frozen whipped topping such as cool whip thawed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "british",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 37,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Halloween Jell-O Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "These layered Halloween jello shots look like candy corn and make a fun, boozy treat for adults. This version goes for a triple shot, so drink responsibly. Serve with candy corn on the side. Cheers!",
+        "ingredients": [
+            "¾ cup boiling water",
+            "1 (3 ounce) package lemon-flavored gelatin mix (such as Jell-O)",
+            "1 cup vodka",
+            "3 ice cubes, or as needed"
+        ],
+        "directions": [
+            "To make the yellow layer: Pour boiling water into a small bowl. Add lemon gelatin mix and stir until dissolved.",
+            "Pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. Pour into lemon gelatin mixture and stir until slightly thickened; remove any unmelted ice. Pour mixture into 16 tall shot glasses, filling each 1/3 full. Refrigerate until lemon gelatin is set, at least 1 1/2 hours.",
+            "When lemon gelatin is set, make the orange layer: Pour boiling water into a small bowl. Add orange gelatin mix and stir until dissolved.",
+            "Pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. Pour into orange gelatin mixture and stir until slightly thickened; remove any unmelted ice. Pour into shot glasses over lemon gelatin. Refrigerate until orange gelatin is set, at least 1 1/2 hours.",
+            "When orange gelatin is set, make the white layer: Stir hot water and unflavored gelatin together in a bowl until gelatin is dissolved. Stir in condensed milk and rum. Pour into shot glasses over orange gelatin. Refrigerate until set, at least 30 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 5,
+        "ingredient_text": "¾ boiling water ounce package lemon-flavored gelatin mix such as jell-o vodka ice cubes as needed",
+        "directions_text": "to make the yellow layer: pour boiling water into a small bowl. add lemon gelatin mix and stir until dissolved. pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. pour into lemon gelatin mixture and stir until slightly thickened; remove any unmelted ice. pour mixture into 16 tall shot glasses, filling each 1/3 full. refrigerate until lemon gelatin is set, at least 1 1/2 hours. when lemon gelatin is set, make the orange layer: pour boiling water into a small bowl. add orange gelatin mix and stir until dissolved. pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. pour into orange gelatin mixture and stir until slightly thickened; remove any unmelted ice. pour into shot glasses over lemon gelatin. refrigerate until orange gelatin is set, at least 1 1/2 hours. when orange gelatin is set, make the white layer: stir hot water and unflavored gelatin together in a bowl until gelatin is dissolved. stir in condensed milk and rum. pour into shot glasses over orange gelatin. refrigerate until set, at least 30 minutes.",
+        "combined_text": "halloween jell-o shots jell-o shots jell-o shots ¾ cup boiling water 1 (3 ounce) package lemon-flavored gelatin mix (such as jell-o) 1 cup vodka 3 ice cubes, or as needed to make the yellow layer: pour boiling water into a small bowl. add lemon gelatin mix and stir until dissolved. pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. pour into lemon gelatin mixture and stir until slightly thickened; remove any unmelted ice. pour mixture into 16 tall shot glasses, filling each 1/3 full. refrigerate until lemon gelatin is set, at least 1 1/2 hours. when lemon gelatin is set, make the orange layer: pour boiling water into a small bowl. add orange gelatin mix and stir until dissolved. pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. pour into orange gelatin mixture and stir until slightly thickened; remove any unmelted ice. pour into shot glasses over lemon gelatin. refrigerate until orange gelatin is set, at least 1 1/2 hours. when orange gelatin is set, make the white layer: stir hot water and unflavored gelatin together in a bowl until gelatin is dissolved. stir in condensed milk and rum. pour into shot glasses over orange gelatin. refrigerate until set, at least 30 minutes.",
+        "ingredients_raw": [
+            "¾ cup boiling water",
+            "1 (3 ounce) package lemon-flavored gelatin mix (such as Jell-O)",
+            "1 cup vodka",
+            "3 ice cubes, or as needed"
+        ],
+        "directions_raw": [
+            "To make the yellow layer: Pour boiling water into a small bowl. Add lemon gelatin mix and stir until dissolved.",
+            "Pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. Pour into lemon gelatin mixture and stir until slightly thickened; remove any unmelted ice. Pour mixture into 16 tall shot glasses, filling each 1/3 full. Refrigerate until lemon gelatin is set, at least 1 1/2 hours.",
+            "When lemon gelatin is set, make the orange layer: Pour boiling water into a small bowl. Add orange gelatin mix and stir until dissolved.",
+            "Pour vodka into a 2-cup liquid measure; add enough ice to make 1 1/4 cups. Pour into orange gelatin mixture and stir until slightly thickened; remove any unmelted ice. Pour into shot glasses over lemon gelatin. Refrigerate until orange gelatin is set, at least 1 1/2 hours.",
+            "When orange gelatin is set, make the white layer: Stir hot water and unflavored gelatin together in a bowl until gelatin is dissolved. Stir in condensed milk and rum. Pour into shot glasses over orange gelatin. Refrigerate until set, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "¾ boiling water",
+            "ounce package lemon-flavored gelatin mix such as jell-o",
+            "vodka",
+            "ice cubes as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "umami",
+        "secondary_taste": "sour",
+        "fast_hits": 17,
+        "slow_hits": 5,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 90,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Pudding Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "Chocolate pudding shots are an awesome alternative to Jell-O shots. Serve them in individual serving cups with plastic spoons.",
+        "ingredients": [
+            "¾ cup cold milk",
+            "1 (3.9 ounce) package instant chocolate pudding mix",
+            "½ cup Irish cream liqueur",
+            "¼ cup vodka",
+            "1 (8 ounce) container frozen whipped topping, thawed"
+        ],
+        "directions": [
+            "Beat cold milk and pudding mix in a bowl with an electric mixer until smooth and beginning to thicken, 1 to 2 minutes. Stir in Irish cream liqueur and vodka, then fold in whipped topping until smooth.",
+            "Spoon into 16 small cups. Serve immediately, or refrigerate or freeze until ready to serve."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "¾ cold milk ounce package instant chocolate pudding mix ½ irish cream liqueur ¼ vodka ounce container frozen whipped topping thawed",
+        "directions_text": "beat cold milk and pudding mix in a bowl with an electric mixer until smooth and beginning to thicken, 1 to 2 minutes. stir in irish cream liqueur and vodka, then fold in whipped topping until smooth. spoon into 16 small cups. serve immediately, or refrigerate or freeze until ready to serve.",
+        "combined_text": "chocolate pudding shots jell-o shots jell-o shots ¾ cup cold milk 1 (3.9 ounce) package instant chocolate pudding mix ½ cup irish cream liqueur ¼ cup vodka 1 (8 ounce) container frozen whipped topping, thawed beat cold milk and pudding mix in a bowl with an electric mixer until smooth and beginning to thicken, 1 to 2 minutes. stir in irish cream liqueur and vodka, then fold in whipped topping until smooth. spoon into 16 small cups. serve immediately, or refrigerate or freeze until ready to serve.",
+        "ingredients_raw": [
+            "¾ cup cold milk",
+            "1 (3.9 ounce) package instant chocolate pudding mix",
+            "½ cup Irish cream liqueur",
+            "¼ cup vodka",
+            "1 (8 ounce) container frozen whipped topping, thawed"
+        ],
+        "directions_raw": [
+            "Beat cold milk and pudding mix in a bowl with an electric mixer until smooth and beginning to thicken, 1 to 2 minutes. Stir in Irish cream liqueur and vodka, then fold in whipped topping until smooth.",
+            "Spoon into 16 small cups. Serve immediately, or refrigerate or freeze until ready to serve."
+        ],
+        "ingredients_canonical": [
+            "¾ cold milk",
+            "ounce package instant chocolate pudding mix",
+            "½ irish cream liqueur",
+            "¼ vodka",
+            "ounce container frozen whipped topping thawed"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Tainted Fruit Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "This Jell-O vodka shot recipe has a kick. Vodka is mixed with any fruit-flavored gelatin and drunk in a shot glass.",
+        "ingredients": [
+            "2 cups boiling water",
+            "1 (6 ounce) package fruit-flavored gelatin (such as Jell-O)",
+            "1 ¼ cups vodka, chilled",
+            "¾ cup cold water"
+        ],
+        "directions": [
+            "Stir boiling water and gelatin together in a large bowl until gelatin dissolves. Stir in chilled vodka and cold water. Pour into plastic shot glasses.",
+            "Chill in the refrigerator until set, about 1 hour."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 2,
+        "ingredient_text": "boiling water ounce package fruit-flavored gelatin such as jell-o ¼ vodka chilled ¾ cold water",
+        "directions_text": "stir boiling water and gelatin together in a large bowl until gelatin dissolves. stir in chilled vodka and cold water. pour into plastic shot glasses. chill in the refrigerator until set, about 1 hour.",
+        "combined_text": "tainted fruit shots jell-o shots jell-o shots 2 cups boiling water 1 (6 ounce) package fruit-flavored gelatin (such as jell-o) 1 ¼ cups vodka, chilled ¾ cup cold water stir boiling water and gelatin together in a large bowl until gelatin dissolves. stir in chilled vodka and cold water. pour into plastic shot glasses. chill in the refrigerator until set, about 1 hour.",
+        "ingredients_raw": [
+            "2 cups boiling water",
+            "1 (6 ounce) package fruit-flavored gelatin (such as Jell-O)",
+            "1 ¼ cups vodka, chilled",
+            "¾ cup cold water"
+        ],
+        "directions_raw": [
+            "Stir boiling water and gelatin together in a large bowl until gelatin dissolves. Stir in chilled vodka and cold water. Pour into plastic shot glasses.",
+            "Chill in the refrigerator until set, about 1 hour."
+        ],
+        "ingredients_canonical": [
+            "boiling water",
+            "ounce package fruit-flavored gelatin such as jell-o",
+            "¼ vodka chilled",
+            "¾ cold water"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "bitter",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "White Russian Pudding Shot",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "Super fun and unusual treat for cookouts!",
+        "ingredients": [
+            "¾ cup milk",
+            "1 (3.4 ounce) package instant vanilla pudding mix",
+            "¼ cup vodka",
+            "½ cup coffee-flavored liqueur (such as Kahlua)",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip), thawed"
+        ],
+        "directions": [
+            "Beat milk and pudding mix together in a bowl using an electric mixer until pudding is thickened. Stir vodka and coffee-flavored liqueur into pudding; fold in whipped topping. Pipe or spoon pudding mixture into shot glasses. Freeze until ready to serve."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "¾ milk ounce package instant vanilla pudding mix ¼ vodka ½ coffee-flavored liqueur such as kahlua ounce container frozen whipped topping such as cool whip thawed",
+        "directions_text": "beat milk and pudding mix together in a bowl using an electric mixer until pudding is thickened. stir vodka and coffee-flavored liqueur into pudding; fold in whipped topping. pipe or spoon pudding mixture into shot glasses. freeze until ready to serve.",
+        "combined_text": "white russian pudding shot jell-o shots jell-o shots ¾ cup milk 1 (3.4 ounce) package instant vanilla pudding mix ¼ cup vodka ½ cup coffee-flavored liqueur (such as kahlua) 1 (8 ounce) container frozen whipped topping (such as cool whip), thawed beat milk and pudding mix together in a bowl using an electric mixer until pudding is thickened. stir vodka and coffee-flavored liqueur into pudding; fold in whipped topping. pipe or spoon pudding mixture into shot glasses. freeze until ready to serve.",
+        "ingredients_raw": [
+            "¾ cup milk",
+            "1 (3.4 ounce) package instant vanilla pudding mix",
+            "¼ cup vodka",
+            "½ cup coffee-flavored liqueur (such as Kahlua)",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip), thawed"
+        ],
+        "directions_raw": [
+            "Beat milk and pudding mix together in a bowl using an electric mixer until pudding is thickened. Stir vodka and coffee-flavored liqueur into pudding; fold in whipped topping. Pipe or spoon pudding mixture into shot glasses. Freeze until ready to serve."
+        ],
+        "ingredients_canonical": [
+            "¾ milk",
+            "ounce package instant vanilla pudding mix",
+            "¼ vodka",
+            "½ coffee-flavored liqueur such as kahlua",
+            "ounce container frozen whipped topping such as cool whip thawed"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "neutral"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Margarita Jell-O® Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "I had to make hundreds of Jell-O® shots for a wedding, so I decided to have fun with them and try out some new mixes. This was my margarita-flavored shot, a bit strong but good if you want variety with your selection. If you want them more palatable, substitute water for a bit of the alcohol.",
+        "ingredients": [
+            "1 cup boiling water",
+            "1 (3 ounce) package lime-flavored gelatin mix (such as Jell-O®)",
+            "⅓ cup tequila",
+            "⅓ cup triple sec",
+            "⅓ cup water",
+            "15 plastic shot glasses, or as needed"
+        ],
+        "directions": [
+            "Gather all ingredients.",
+            "Combine boiling water and gelatin mix in a bowl. Stir to dissolve.",
+            "Add tequila, triple sec, and water. Stir again.",
+            "Pour mixture into shot glasses. Refrigerate until set, about 5 hours."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "boiling water ounce package lime-flavored gelatin mix such as jell-o ⅓ tequila ⅓ triple sec ⅓ water plastic shot glasses as needed",
+        "directions_text": "gather all ingredients. combine boiling water and gelatin mix in a bowl. stir to dissolve. add tequila, triple sec, and water. stir again. pour mixture into shot glasses. refrigerate until set, about 5 hours.",
+        "combined_text": "margarita jell-o® shots jell-o shots jell-o shots 1 cup boiling water 1 (3 ounce) package lime-flavored gelatin mix (such as jell-o®) ⅓ cup tequila ⅓ cup triple sec ⅓ cup water 15 plastic shot glasses, or as needed gather all ingredients. combine boiling water and gelatin mix in a bowl. stir to dissolve. add tequila, triple sec, and water. stir again. pour mixture into shot glasses. refrigerate until set, about 5 hours.",
+        "ingredients_raw": [
+            "1 cup boiling water",
+            "1 (3 ounce) package lime-flavored gelatin mix (such as Jell-O®)",
+            "⅓ cup tequila",
+            "⅓ cup triple sec",
+            "⅓ cup water",
+            "15 plastic shot glasses, or as needed"
+        ],
+        "directions_raw": [
+            "Gather all ingredients.",
+            "Combine boiling water and gelatin mix in a bowl. Stir to dissolve.",
+            "Add tequila, triple sec, and water. Stir again.",
+            "Pour mixture into shot glasses. Refrigerate until set, about 5 hours."
+        ],
+        "ingredients_canonical": [
+            "boiling water",
+            "ounce package lime-flavored gelatin mix such as jell-o",
+            "⅓ tequila",
+            "⅓ triple sec",
+            "⅓ water",
+            "plastic shot glasses as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "thai"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sour",
+        "secondary_taste": "bitter",
+        "fast_hits": 5,
+        "slow_hits": 2,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 41,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Raspberry Party Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "These party shots are great to make ahead for parties! The red color is perfect for Halloween, Christmas, 4th of July, or any time.",
+        "ingredients": [
+            "1 (6 ounce) package raspberry flavored Jell-O mix",
+            "2 cups boiling water",
+            "¾ cup ice water",
+            "1 ¼ cups raspberry vodka"
+        ],
+        "directions": [
+            "Stir gelatin into boiling water until dissolved. Pour in ice water and vodka; mix well. Pour into party shot glasses. Chill in the refrigerator for 1 to 2 hours, until set."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "ounce package raspberry flavored jell-o mix boiling water ¾ ice water ¼ raspberry vodka",
+        "directions_text": "stir gelatin into boiling water until dissolved. pour in ice water and vodka; mix well. pour into party shot glasses. chill in the refrigerator for 1 to 2 hours, until set.",
+        "combined_text": "raspberry party shots jell-o shots jell-o shots 1 (6 ounce) package raspberry flavored jell-o mix 2 cups boiling water ¾ cup ice water 1 ¼ cups raspberry vodka stir gelatin into boiling water until dissolved. pour in ice water and vodka; mix well. pour into party shot glasses. chill in the refrigerator for 1 to 2 hours, until set.",
+        "ingredients_raw": [
+            "1 (6 ounce) package raspberry flavored Jell-O mix",
+            "2 cups boiling water",
+            "¾ cup ice water",
+            "1 ¼ cups raspberry vodka"
+        ],
+        "directions_raw": [
+            "Stir gelatin into boiling water until dissolved. Pour in ice water and vodka; mix well. Pour into party shot glasses. Chill in the refrigerator for 1 to 2 hours, until set."
+        ],
+        "ingredients_canonical": [
+            "ounce package raspberry flavored jell-o mix",
+            "boiling water",
+            "¾ ice water",
+            "¼ raspberry vodka"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "bitter"
+        ],
+        "primary_taste": "bitter",
+        "secondary_taste": "none",
+        "fast_hits": 5,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 9,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Buttery Nipple Gourmet Pudding Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "Butterscotch pudding shots are not just for college.",
+        "ingredients": [
+            "1 ¾ cups cold milk",
+            "2 fluid ounces butterscotch schnapps",
+            "2 fluid ounces Irish cream liqueur (such as Bailey's®)",
+            "1 fluid ounce vodka",
+            "1 fluid ounce coffee-flavored liqueur (such as Kahlua®)",
+            "1 (3.4 ounce) package instant butterscotch pudding mix"
+        ],
+        "directions": [
+            "Stir milk, schnapps, Irish cream liqueur, vodka, and coffee-flavored liqueur together in a pitcher. Add pudding mix and blend thoroughly.",
+            "Pour mixture into disposable shot cups and refrigerate until chilled, at least 30 minutes."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "¾ cold milk fluid ounces butterscotch schnapps fluid ounces irish cream liqueur such as bailey s fluid ounce vodka fluid ounce coffee-flavored liqueur such as kahlua ounce package instant butterscotch pudding mix",
+        "directions_text": "stir milk, schnapps, irish cream liqueur, vodka, and coffee-flavored liqueur together in a pitcher. add pudding mix and blend thoroughly. pour mixture into disposable shot cups and refrigerate until chilled, at least 30 minutes.",
+        "combined_text": "buttery nipple gourmet pudding shots jell-o shots jell-o shots 1 ¾ cups cold milk 2 fluid ounces butterscotch schnapps 2 fluid ounces irish cream liqueur (such as bailey's®) 1 fluid ounce vodka 1 fluid ounce coffee-flavored liqueur (such as kahlua®) 1 (3.4 ounce) package instant butterscotch pudding mix stir milk, schnapps, irish cream liqueur, vodka, and coffee-flavored liqueur together in a pitcher. add pudding mix and blend thoroughly. pour mixture into disposable shot cups and refrigerate until chilled, at least 30 minutes.",
+        "ingredients_raw": [
+            "1 ¾ cups cold milk",
+            "2 fluid ounces butterscotch schnapps",
+            "2 fluid ounces Irish cream liqueur (such as Bailey's®)",
+            "1 fluid ounce vodka",
+            "1 fluid ounce coffee-flavored liqueur (such as Kahlua®)",
+            "1 (3.4 ounce) package instant butterscotch pudding mix"
+        ],
+        "directions_raw": [
+            "Stir milk, schnapps, Irish cream liqueur, vodka, and coffee-flavored liqueur together in a pitcher. Add pudding mix and blend thoroughly.",
+            "Pour mixture into disposable shot cups and refrigerate until chilled, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "¾ cold milk",
+            "fluid ounces butterscotch schnapps",
+            "fluid ounces irish cream liqueur such as bailey s",
+            "fluid ounce vodka",
+            "fluid ounce coffee-flavored liqueur such as kahlua",
+            "ounce package instant butterscotch pudding mix"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Mangonada Jell-O Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "If you like the popular Mexican treat mangonada, you will love this mango candy shot recipe! It tastes like a mango margarita in jelly form.",
+        "ingredients": [
+            "¼ cup water",
+            "2 (.25 ounce) packages unflavored gelatin",
+            "2 cups mango puree",
+            "½ cup white sugar",
+            "1 tablespoon lemon juice",
+            "1 cup vodka",
+            "1 teaspoon chamoy sauce, or to taste",
+            "1 teaspoon chile-lime seasoning (such as Tajin®), or as needed"
+        ],
+        "directions": [
+            "Heat water and gelatin in a small saucepan over medium-high heat; whisk until dissolved, about 5 minutes. Add mango purée, sugar, and lemon juice; whisk until dissolved, about 5 minutes. Remove from heat to cool slightly, about 5 minutes.",
+            "Whisk vodka into cooled mango gelatin until combined.",
+            "Add a few drops chamoy and a sprinkle Tajin to twenty (2-ounce) cups. Fill each cup evenly with mango gelatin and sprinkle with more Tajin. Let set in the refrigerator for 4 hours."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "¼ water ounce packages unflavored gelatin mango puree ½ white sugar lemon juice vodka chamoy sauce taste chile-lime seasoning such as tajin as needed",
+        "directions_text": "heat water and gelatin in a small saucepan over medium-high heat; whisk until dissolved, about 5 minutes. add mango purée, sugar, and lemon juice; whisk until dissolved, about 5 minutes. remove from heat to cool slightly, about 5 minutes. whisk vodka into cooled mango gelatin until combined. add a few drops chamoy and a sprinkle tajin to twenty (2-ounce) cups. fill each cup evenly with mango gelatin and sprinkle with more tajin. let set in the refrigerator for 4 hours.",
+        "combined_text": "mangonada jell-o shots jell-o shots jell-o shots ¼ cup water 2 (.25 ounce) packages unflavored gelatin 2 cups mango puree ½ cup white sugar 1 tablespoon lemon juice 1 cup vodka 1 teaspoon chamoy sauce, or to taste 1 teaspoon chile-lime seasoning (such as tajin®), or as needed heat water and gelatin in a small saucepan over medium-high heat; whisk until dissolved, about 5 minutes. add mango purée, sugar, and lemon juice; whisk until dissolved, about 5 minutes. remove from heat to cool slightly, about 5 minutes. whisk vodka into cooled mango gelatin until combined. add a few drops chamoy and a sprinkle tajin to twenty (2-ounce) cups. fill each cup evenly with mango gelatin and sprinkle with more tajin. let set in the refrigerator for 4 hours.",
+        "ingredients_raw": [
+            "¼ cup water",
+            "2 (.25 ounce) packages unflavored gelatin",
+            "2 cups mango puree",
+            "½ cup white sugar",
+            "1 tablespoon lemon juice",
+            "1 cup vodka",
+            "1 teaspoon chamoy sauce, or to taste",
+            "1 teaspoon chile-lime seasoning (such as Tajin®), or as needed"
+        ],
+        "directions_raw": [
+            "Heat water and gelatin in a small saucepan over medium-high heat; whisk until dissolved, about 5 minutes. Add mango purée, sugar, and lemon juice; whisk until dissolved, about 5 minutes. Remove from heat to cool slightly, about 5 minutes.",
+            "Whisk vodka into cooled mango gelatin until combined.",
+            "Add a few drops chamoy and a sprinkle Tajin to twenty (2-ounce) cups. Fill each cup evenly with mango gelatin and sprinkle with more Tajin. Let set in the refrigerator for 4 hours."
+        ],
+        "ingredients_canonical": [
+            "¼ water",
+            "ounce packages unflavored gelatin",
+            "mango puree",
+            "½ white sugar",
+            "lemon juice",
+            "vodka",
+            "chamoy sauce taste",
+            "chile-lime seasoning such as tajin as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 6,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "processed_meat"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Oreo Cookie Gourmet Pudding Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "Pudding shots are not just for college.",
+        "ingredients": [
+            "1 cup cold milk",
+            "¾ cup cake-flavored vodka (such as UV®)",
+            "1 (4 ounce) package cookies and cream instant pudding mix (such as Jell-O® Oreo®)",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+        ],
+        "directions": [
+            "Stir milk, vodka, and pudding mix together in a bowl until mixture thickens. Fold in whipped topping. Spoon into disposable shot cups and refrigerate until chilled, at least 30 minutes."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "cold milk ¾ cake-flavored vodka such as uv ounce package cookies cream instant pudding mix such as jell-o oreo ounce container frozen whipped topping such as cool whip thawed",
+        "directions_text": "stir milk, vodka, and pudding mix together in a bowl until mixture thickens. fold in whipped topping. spoon into disposable shot cups and refrigerate until chilled, at least 30 minutes.",
+        "combined_text": "oreo cookie gourmet pudding shots jell-o shots jell-o shots 1 cup cold milk ¾ cup cake-flavored vodka (such as uv®) 1 (4 ounce) package cookies and cream instant pudding mix (such as jell-o® oreo®) 1 (8 ounce) container frozen whipped topping (such as cool whip®), thawed stir milk, vodka, and pudding mix together in a bowl until mixture thickens. fold in whipped topping. spoon into disposable shot cups and refrigerate until chilled, at least 30 minutes.",
+        "ingredients_raw": [
+            "1 cup cold milk",
+            "¾ cup cake-flavored vodka (such as UV®)",
+            "1 (4 ounce) package cookies and cream instant pudding mix (such as Jell-O® Oreo®)",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+        ],
+        "directions_raw": [
+            "Stir milk, vodka, and pudding mix together in a bowl until mixture thickens. Fold in whipped topping. Spoon into disposable shot cups and refrigerate until chilled, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "cold milk",
+            "¾ cake-flavored vodka such as uv",
+            "ounce package cookies cream instant pudding mix such as jell-o oreo",
+            "ounce container frozen whipped topping such as cool whip thawed"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 15,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pink Brain Shooter",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "This spooky jello brain Halloween treat is scarily realistic! A non-alcoholic version may also be made for the kiddies by substituting the peach schnapps with water.",
+        "ingredients": [
+            "cooking spray",
+            "1 brain-shaped gelatin mold",
+            "4 (3 ounce) packages peach flavored Jell-O® mix",
+            "3 cups boiling water",
+            "1 (12 fluid ounce) can evaporated milk",
+            "1 ½ cups peach schnapps",
+            "4 drops blue food coloring",
+            "2 drops red food coloring",
+            "2 teaspoons water"
+        ],
+        "directions": [
+            "Lightly grease a brain-shaped gelatin mold.",
+            "Stir peach gelatin mix with 3 cups boiling water in a bowl until gelatin is dissolved. Allow to cool to room temperature, about 20 minutes. Mix in evaporated milk and peach schnapps; pour into the prepared mold. Refrigerate until set, 4 to 6 hours.",
+            "Dip the mold in warm water to loosen; don't let water enter the top of the mold. Invert the mold onto a serving platter and lift to release the brain.",
+            "Mix blue and red food coloring in a small bowl with 2 teaspoons water. Use a small, clean paintbrush to paint coloring into the grooves of the brain. Place the brain into the refrigerator until color sets. Serve cold."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 4,
+        "ingredient_text": "cooking spray brain-shaped gelatin mold ounce packages peach flavored jell-o mix boiling water fluid ounce can evaporated milk ½ peach schnapps drops blue food coloring drops red food coloring water",
+        "directions_text": "lightly grease a brain-shaped gelatin mold. stir peach gelatin mix with 3 cups boiling water in a bowl until gelatin is dissolved. allow to cool to room temperature, about 20 minutes. mix in evaporated milk and peach schnapps; pour into the prepared mold. refrigerate until set, 4 to 6 hours. dip the mold in warm water to loosen; don't let water enter the top of the mold. invert the mold onto a serving platter and lift to release the brain. mix blue and red food coloring in a small bowl with 2 teaspoons water. use a small, clean paintbrush to paint coloring into the grooves of the brain. place the brain into the refrigerator until color sets. serve cold.",
+        "combined_text": "pink brain shooter jell-o shots jell-o shots cooking spray 1 brain-shaped gelatin mold 4 (3 ounce) packages peach flavored jell-o® mix 3 cups boiling water 1 (12 fluid ounce) can evaporated milk 1 ½ cups peach schnapps 4 drops blue food coloring 2 drops red food coloring 2 teaspoons water lightly grease a brain-shaped gelatin mold. stir peach gelatin mix with 3 cups boiling water in a bowl until gelatin is dissolved. allow to cool to room temperature, about 20 minutes. mix in evaporated milk and peach schnapps; pour into the prepared mold. refrigerate until set, 4 to 6 hours. dip the mold in warm water to loosen; don't let water enter the top of the mold. invert the mold onto a serving platter and lift to release the brain. mix blue and red food coloring in a small bowl with 2 teaspoons water. use a small, clean paintbrush to paint coloring into the grooves of the brain. place the brain into the refrigerator until color sets. serve cold.",
+        "ingredients_raw": [
+            "cooking spray",
+            "1 brain-shaped gelatin mold",
+            "4 (3 ounce) packages peach flavored Jell-O® mix",
+            "3 cups boiling water",
+            "1 (12 fluid ounce) can evaporated milk",
+            "1 ½ cups peach schnapps",
+            "4 drops blue food coloring",
+            "2 drops red food coloring",
+            "2 teaspoons water"
+        ],
+        "directions_raw": [
+            "Lightly grease a brain-shaped gelatin mold.",
+            "Stir peach gelatin mix with 3 cups boiling water in a bowl until gelatin is dissolved. Allow to cool to room temperature, about 20 minutes. Mix in evaporated milk and peach schnapps; pour into the prepared mold. Refrigerate until set, 4 to 6 hours.",
+            "Dip the mold in warm water to loosen; don't let water enter the top of the mold. Invert the mold onto a serving platter and lift to release the brain.",
+            "Mix blue and red food coloring in a small bowl with 2 teaspoons water. Use a small, clean paintbrush to paint coloring into the grooves of the brain. Place the brain into the refrigerator until color sets. Serve cold."
+        ],
+        "ingredients_canonical": [
+            "cooking spray",
+            "brain-shaped gelatin mold",
+            "ounce packages peach flavored jell-o mix",
+            "boiling water",
+            "fluid ounce can evaporated milk",
+            "½ peach schnapps",
+            "drops blue food coloring",
+            "drops red food coloring",
+            "water"
+        ],
+        "cuisine_list": [
+            "unknown"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 46,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Piña Colada Pudding Shots!",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "Quick and easy piña colada shots to whip up for a party!",
+        "ingredients": [
+            "½ cup milk",
+            "½ cup vodka (such as Smirnoff®)",
+            "½ cup pineapple rum (such as Malibu®)",
+            "1 (3.4 ounce) package instant coconut cream pie pudding mix",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+        ],
+        "directions": [
+            "Whisk together milk, vodka, rum, and pudding mix in a large bowl until combined. Stir in whipped topping until a pudding-like consistency is reached.",
+            "Spoon into shot glasses and refrigerate until set, at least 30 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "½ milk ½ vodka such as smirnoff ½ pineapple rum such as malibu ounce package instant coconut cream pie pudding mix ounce container frozen whipped topping such as cool whip thawed",
+        "directions_text": "whisk together milk, vodka, rum, and pudding mix in a large bowl until combined. stir in whipped topping until a pudding-like consistency is reached. spoon into shot glasses and refrigerate until set, at least 30 minutes.",
+        "combined_text": "piña colada pudding shots! jell-o shots jell-o shots ½ cup milk ½ cup vodka (such as smirnoff®) ½ cup pineapple rum (such as malibu®) 1 (3.4 ounce) package instant coconut cream pie pudding mix 1 (8 ounce) container frozen whipped topping (such as cool whip®), thawed whisk together milk, vodka, rum, and pudding mix in a large bowl until combined. stir in whipped topping until a pudding-like consistency is reached. spoon into shot glasses and refrigerate until set, at least 30 minutes.",
+        "ingredients_raw": [
+            "½ cup milk",
+            "½ cup vodka (such as Smirnoff®)",
+            "½ cup pineapple rum (such as Malibu®)",
+            "1 (3.4 ounce) package instant coconut cream pie pudding mix",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+        ],
+        "directions_raw": [
+            "Whisk together milk, vodka, rum, and pudding mix in a large bowl until combined. Stir in whipped topping until a pudding-like consistency is reached.",
+            "Spoon into shot glasses and refrigerate until set, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ milk",
+            "½ vodka such as smirnoff",
+            "½ pineapple rum such as malibu",
+            "ounce package instant coconut cream pie pudding mix",
+            "ounce container frozen whipped topping such as cool whip thawed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "british",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Strawberry Cheesecake Jell-O Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "These are pretty darned adorable, and tasty, too. You could skip the graham cracker layer but it really adds a nice texture to this velvety creation.",
+        "ingredients": [
+            "6 graham crackers",
+            "2 tablespoons melted butter",
+            "1 teaspoon white sugar",
+            "1 (.25 ounce) package unflavored gelatin",
+            "¼ boiling water",
+            "1 (12 ounce) container whipped cream cheese",
+            "⅓ cup confectioners' sugar, or more to taste",
+            "½ teaspoon vanilla extract",
+            "1 ½ cups vodka, divided",
+            "½ (3 ounce) package strawberry flavored gelatin (such as Jell-O®)",
+            "¼ cup boiling water",
+            "3 ice cubes"
+        ],
+        "directions": [
+            "Crush graham crackers in a blender or food processor; add melted butter and sugar and blend until evenly combined. Gently press graham cracker mixture into 12 tall shot glasses.",
+            "Mix unflavored gelatin and 1/4 cup boiling water together in a bowl until well mixed.",
+            "Combine cream cheese, confectioners' sugar, vanilla extract, and gelatin mixture in a blender; pulse a few times. Add 1 cup vodka; blend until smooth. Taste mixture and adjust confectioners' sugar if necessary. Pour cream cheese mixture over graham cracker layer, leaving about 1 inch on the top. Chill for at least 1 hour.",
+            "Mix strawberry gelatin and 1/4 cup boiling water together in a bowl; stir well and add remaining 1/2 cup vodka and ice cubes. Stir until ice melts and mixture starts to thicken; pour over cream cheese mixture layer. Chill shots for at least 30 minutes."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "graham crackers melted butter white sugar ounce package unflavored gelatin ¼ boiling water ounce container whipped cream cheese ⅓ confectioners sugar more taste ½ vanilla extract ½ vodka divided ½ ounce package strawberry flavored gelatin such as jell-o ¼ boiling water ice cubes",
+        "directions_text": "crush graham crackers in a blender or food processor; add melted butter and sugar and blend until evenly combined. gently press graham cracker mixture into 12 tall shot glasses. mix unflavored gelatin and 1/4 cup boiling water together in a bowl until well mixed. combine cream cheese, confectioners' sugar, vanilla extract, and gelatin mixture in a blender; pulse a few times. add 1 cup vodka; blend until smooth. taste mixture and adjust confectioners' sugar if necessary. pour cream cheese mixture over graham cracker layer, leaving about 1 inch on the top. chill for at least 1 hour. mix strawberry gelatin and 1/4 cup boiling water together in a bowl; stir well and add remaining 1/2 cup vodka and ice cubes. stir until ice melts and mixture starts to thicken; pour over cream cheese mixture layer. chill shots for at least 30 minutes.",
+        "combined_text": "strawberry cheesecake jell-o shots jell-o shots jell-o shots 6 graham crackers 2 tablespoons melted butter 1 teaspoon white sugar 1 (.25 ounce) package unflavored gelatin ¼ boiling water 1 (12 ounce) container whipped cream cheese ⅓ cup confectioners' sugar, or more to taste ½ teaspoon vanilla extract 1 ½ cups vodka, divided ½ (3 ounce) package strawberry flavored gelatin (such as jell-o®) ¼ cup boiling water 3 ice cubes crush graham crackers in a blender or food processor; add melted butter and sugar and blend until evenly combined. gently press graham cracker mixture into 12 tall shot glasses. mix unflavored gelatin and 1/4 cup boiling water together in a bowl until well mixed. combine cream cheese, confectioners' sugar, vanilla extract, and gelatin mixture in a blender; pulse a few times. add 1 cup vodka; blend until smooth. taste mixture and adjust confectioners' sugar if necessary. pour cream cheese mixture over graham cracker layer, leaving about 1 inch on the top. chill for at least 1 hour. mix strawberry gelatin and 1/4 cup boiling water together in a bowl; stir well and add remaining 1/2 cup vodka and ice cubes. stir until ice melts and mixture starts to thicken; pour over cream cheese mixture layer. chill shots for at least 30 minutes.",
+        "ingredients_raw": [
+            "6 graham crackers",
+            "2 tablespoons melted butter",
+            "1 teaspoon white sugar",
+            "1 (.25 ounce) package unflavored gelatin",
+            "¼ boiling water",
+            "1 (12 ounce) container whipped cream cheese",
+            "⅓ cup confectioners' sugar, or more to taste",
+            "½ teaspoon vanilla extract",
+            "1 ½ cups vodka, divided",
+            "½ (3 ounce) package strawberry flavored gelatin (such as Jell-O®)",
+            "¼ cup boiling water",
+            "3 ice cubes"
+        ],
+        "directions_raw": [
+            "Crush graham crackers in a blender or food processor; add melted butter and sugar and blend until evenly combined. Gently press graham cracker mixture into 12 tall shot glasses.",
+            "Mix unflavored gelatin and 1/4 cup boiling water together in a bowl until well mixed.",
+            "Combine cream cheese, confectioners' sugar, vanilla extract, and gelatin mixture in a blender; pulse a few times. Add 1 cup vodka; blend until smooth. Taste mixture and adjust confectioners' sugar if necessary. Pour cream cheese mixture over graham cracker layer, leaving about 1 inch on the top. Chill for at least 1 hour.",
+            "Mix strawberry gelatin and 1/4 cup boiling water together in a bowl; stir well and add remaining 1/2 cup vodka and ice cubes. Stir until ice melts and mixture starts to thicken; pour over cream cheese mixture layer. Chill shots for at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "graham crackers",
+            "melted butter",
+            "white sugar",
+            "ounce package unflavored gelatin",
+            "¼ boiling water",
+            "ounce container whipped cream cheese",
+            "⅓ confectioners sugar more taste",
+            "½ vanilla extract",
+            "½ vodka divided",
+            "½ ounce package strawberry flavored gelatin such as jell-o",
+            "¼ boiling water",
+            "ice cubes"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 16,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 29,
+        "est_cook_time_min": 22,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 44,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried",
+            "processed_meat"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "St. Patrick's Day Jell-O Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "A fun and tasty way of keeping your Jell-O shots Irish. Just add Jameson Irish whiskey and Baileys Strawberries Cream liqueur to your layered shot glasses.",
+        "ingredients": [
+            "½ (3 ounce) package lime-flavored gelatin mix (such as Jell-O®)",
+            "½ cup boiling water",
+            "½ cup Irish whiskey (such as Jameson®)",
+            "1 (1 ounce) package unflavored gelatin (such as Knox®)",
+            "½ cup boiling water",
+            "½ cup strawberry cream liqueur (such as Baileys®)"
+        ],
+        "directions": [
+            "Place shot glasses in a mini muffin tin at an angle.",
+            "Pour lime gelatin mix into a bowl. Add 1/2 cup boiling water and stir until dissolved. Add Irish whiskey and stir until well incorporated. Pour mixture carefully into each shot glass, filling to near the top of the slanted glasses. Refrigerate until set, about 4 hours.",
+            "Pour unflavored gelatin into a bowl. Add 1/2 cup boiling water and stir until dissolved. Let rest 3 to 5 minutes. Add strawberry cream liqueur and stir until well incorporated.",
+            "Remove glasses from muffin tin and place upright. Top with strawberry mixture. Return glasses to the refrigerator and chill until set, about 4 hours more."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 4,
+        "ingredient_text": "½ ounce package lime-flavored gelatin mix such as jell-o ½ boiling water ½ irish whiskey such as jameson ounce package unflavored gelatin such as knox ½ boiling water ½ strawberry cream liqueur such as baileys",
+        "directions_text": "place shot glasses in a mini muffin tin at an angle. pour lime gelatin mix into a bowl. add 1/2 cup boiling water and stir until dissolved. add irish whiskey and stir until well incorporated. pour mixture carefully into each shot glass, filling to near the top of the slanted glasses. refrigerate until set, about 4 hours. pour unflavored gelatin into a bowl. add 1/2 cup boiling water and stir until dissolved. let rest 3 to 5 minutes. add strawberry cream liqueur and stir until well incorporated. remove glasses from muffin tin and place upright. top with strawberry mixture. return glasses to the refrigerator and chill until set, about 4 hours more.",
+        "combined_text": "st. patrick's day jell-o shots jell-o shots jell-o shots ½ (3 ounce) package lime-flavored gelatin mix (such as jell-o®) ½ cup boiling water ½ cup irish whiskey (such as jameson®) 1 (1 ounce) package unflavored gelatin (such as knox®) ½ cup boiling water ½ cup strawberry cream liqueur (such as baileys®) place shot glasses in a mini muffin tin at an angle. pour lime gelatin mix into a bowl. add 1/2 cup boiling water and stir until dissolved. add irish whiskey and stir until well incorporated. pour mixture carefully into each shot glass, filling to near the top of the slanted glasses. refrigerate until set, about 4 hours. pour unflavored gelatin into a bowl. add 1/2 cup boiling water and stir until dissolved. let rest 3 to 5 minutes. add strawberry cream liqueur and stir until well incorporated. remove glasses from muffin tin and place upright. top with strawberry mixture. return glasses to the refrigerator and chill until set, about 4 hours more.",
+        "ingredients_raw": [
+            "½ (3 ounce) package lime-flavored gelatin mix (such as Jell-O®)",
+            "½ cup boiling water",
+            "½ cup Irish whiskey (such as Jameson®)",
+            "1 (1 ounce) package unflavored gelatin (such as Knox®)",
+            "½ cup boiling water",
+            "½ cup strawberry cream liqueur (such as Baileys®)"
+        ],
+        "directions_raw": [
+            "Place shot glasses in a mini muffin tin at an angle.",
+            "Pour lime gelatin mix into a bowl. Add 1/2 cup boiling water and stir until dissolved. Add Irish whiskey and stir until well incorporated. Pour mixture carefully into each shot glass, filling to near the top of the slanted glasses. Refrigerate until set, about 4 hours.",
+            "Pour unflavored gelatin into a bowl. Add 1/2 cup boiling water and stir until dissolved. Let rest 3 to 5 minutes. Add strawberry cream liqueur and stir until well incorporated.",
+            "Remove glasses from muffin tin and place upright. Top with strawberry mixture. Return glasses to the refrigerator and chill until set, about 4 hours more."
+        ],
+        "ingredients_canonical": [
+            "½ ounce package lime-flavored gelatin mix such as jell-o",
+            "½ boiling water",
+            "½ irish whiskey such as jameson",
+            "ounce package unflavored gelatin such as knox",
+            "½ boiling water",
+            "½ strawberry cream liqueur such as baileys"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 11,
+        "slow_hits": 4,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 70,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Baileys and Coffee Jell-O Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "If you like Baileys and coffee, you will love this recipe for Baileys and coffee Jell-O shots. They're perfect for St. Paddy's Day!",
+        "ingredients": [
+            "1 (1 ounce) package unflavored gelatin (such as Knox), divided",
+            "¼ cup boiling water",
+            "cup Irish cream liqueur (such as Baileys), divided",
+            "¼ cup strong brewed coffee, boiling"
+        ],
+        "directions": [
+            "Sprinkle ½ package unflavored gelatin into a heat-resistant bowl; pour boiling water on top, stirring to dissolve. Add ¼ cup Irish cream liqueur; stir until well incorporated. Pour Irish cream mixture halfway into 8 shot glasses; refrigerate until set, 2 to 4 hours.",
+            "Sprinkle remaining ½ package unflavored gelatin into a heat-resistant bowl; pour boiling coffee on top, stirring to dissolve. Add ¼ cup Irish cream liqueur; stir until well incorporated. Pour coffee mixture into the 8 half-filled shot glasses. Return to the refrigerator; chill until set, 2 to 4 hours more."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 2,
+        "ingredient_text": "ounce package unflavored gelatin such as knox divided ¼ boiling water irish cream liqueur such as baileys divided ¼ strong brewed coffee boiling",
+        "directions_text": "sprinkle ½ package unflavored gelatin into a heat-resistant bowl; pour boiling water on top, stirring to dissolve. add ¼ cup irish cream liqueur; stir until well incorporated. pour irish cream mixture halfway into 8 shot glasses; refrigerate until set, 2 to 4 hours. sprinkle remaining ½ package unflavored gelatin into a heat-resistant bowl; pour boiling coffee on top, stirring to dissolve. add ¼ cup irish cream liqueur; stir until well incorporated. pour coffee mixture into the 8 half-filled shot glasses. return to the refrigerator; chill until set, 2 to 4 hours more.",
+        "combined_text": "baileys and coffee jell-o shots jell-o shots jell-o shots 1 (1 ounce) package unflavored gelatin (such as knox), divided ¼ cup boiling water cup irish cream liqueur (such as baileys), divided ¼ cup strong brewed coffee, boiling sprinkle ½ package unflavored gelatin into a heat-resistant bowl; pour boiling water on top, stirring to dissolve. add ¼ cup irish cream liqueur; stir until well incorporated. pour irish cream mixture halfway into 8 shot glasses; refrigerate until set, 2 to 4 hours. sprinkle remaining ½ package unflavored gelatin into a heat-resistant bowl; pour boiling coffee on top, stirring to dissolve. add ¼ cup irish cream liqueur; stir until well incorporated. pour coffee mixture into the 8 half-filled shot glasses. return to the refrigerator; chill until set, 2 to 4 hours more.",
+        "ingredients_raw": [
+            "1 (1 ounce) package unflavored gelatin (such as Knox), divided",
+            "¼ cup boiling water",
+            "cup Irish cream liqueur (such as Baileys), divided",
+            "¼ cup strong brewed coffee, boiling"
+        ],
+        "directions_raw": [
+            "Sprinkle ½ package unflavored gelatin into a heat-resistant bowl; pour boiling water on top, stirring to dissolve. Add ¼ cup Irish cream liqueur; stir until well incorporated. Pour Irish cream mixture halfway into 8 shot glasses; refrigerate until set, 2 to 4 hours.",
+            "Sprinkle remaining ½ package unflavored gelatin into a heat-resistant bowl; pour boiling coffee on top, stirring to dissolve. Add ¼ cup Irish cream liqueur; stir until well incorporated. Pour coffee mixture into the 8 half-filled shot glasses. Return to the refrigerator; chill until set, 2 to 4 hours more."
+        ],
+        "ingredients_canonical": [
+            "ounce package unflavored gelatin such as knox divided",
+            "¼ boiling water",
+            "irish cream liqueur such as baileys divided",
+            "¼ strong brewed coffee boiling"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 11,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 52,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "French 75 Jell-O Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "The fanciest cocktail goes jiggly - bubbles and all.",
+        "ingredients": [
+            "1 cup boiling water",
+            "½ (3 ounce) package lemon-flavored gelatin mix (such as Jell-O®)",
+            "¼ cup gin",
+            "1 ¾ cups sparkling wine, divided",
+            "3 (.25 ounce) envelopes unflavored gelatin",
+            "1 drop red food coloring"
+        ],
+        "directions": [
+            "Pour boiling water over lemon-flavored gelatin in a glass measuring cup; stir to combine. Stir in gin. Pour mixture into sixteen 2-ounce cups. Arrange cups in muffin tins, tilted to one side.",
+            "Refrigerate until set, about 4 hours.",
+            "Combine 1 1/4 cup sparkling wine and unflavored gelatin in a small pot. Let sit, about 3 minutes. Heat over low heat, stirring constantly, until gelatin is dissolved, 3 to 5 minutes. Add remaining 1/2 cup wine and food coloring; stir to combine.",
+            "Remove muffin tins from refrigerator. Set cups upright; pour wine mixture over lemon mixture.",
+            "Return to the refrigerator and chill until set, about 4 hours."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 5,
+        "ingredient_text": "boiling water ½ ounce package lemon-flavored gelatin mix such as jell-o ¼ gin ¾ sparkling wine divided ounce envelopes unflavored gelatin drop red food coloring",
+        "directions_text": "pour boiling water over lemon-flavored gelatin in a glass measuring cup; stir to combine. stir in gin. pour mixture into sixteen 2-ounce cups. arrange cups in muffin tins, tilted to one side. refrigerate until set, about 4 hours. combine 1 1/4 cup sparkling wine and unflavored gelatin in a small pot. let sit, about 3 minutes. heat over low heat, stirring constantly, until gelatin is dissolved, 3 to 5 minutes. add remaining 1/2 cup wine and food coloring; stir to combine. remove muffin tins from refrigerator. set cups upright; pour wine mixture over lemon mixture. return to the refrigerator and chill until set, about 4 hours.",
+        "combined_text": "french 75 jell-o shots jell-o shots jell-o shots 1 cup boiling water ½ (3 ounce) package lemon-flavored gelatin mix (such as jell-o®) ¼ cup gin 1 ¾ cups sparkling wine, divided 3 (.25 ounce) envelopes unflavored gelatin 1 drop red food coloring pour boiling water over lemon-flavored gelatin in a glass measuring cup; stir to combine. stir in gin. pour mixture into sixteen 2-ounce cups. arrange cups in muffin tins, tilted to one side. refrigerate until set, about 4 hours. combine 1 1/4 cup sparkling wine and unflavored gelatin in a small pot. let sit, about 3 minutes. heat over low heat, stirring constantly, until gelatin is dissolved, 3 to 5 minutes. add remaining 1/2 cup wine and food coloring; stir to combine. remove muffin tins from refrigerator. set cups upright; pour wine mixture over lemon mixture. return to the refrigerator and chill until set, about 4 hours.",
+        "ingredients_raw": [
+            "1 cup boiling water",
+            "½ (3 ounce) package lemon-flavored gelatin mix (such as Jell-O®)",
+            "¼ cup gin",
+            "1 ¾ cups sparkling wine, divided",
+            "3 (.25 ounce) envelopes unflavored gelatin",
+            "1 drop red food coloring"
+        ],
+        "directions_raw": [
+            "Pour boiling water over lemon-flavored gelatin in a glass measuring cup; stir to combine. Stir in gin. Pour mixture into sixteen 2-ounce cups. Arrange cups in muffin tins, tilted to one side.",
+            "Refrigerate until set, about 4 hours.",
+            "Combine 1 1/4 cup sparkling wine and unflavored gelatin in a small pot. Let sit, about 3 minutes. Heat over low heat, stirring constantly, until gelatin is dissolved, 3 to 5 minutes. Add remaining 1/2 cup wine and food coloring; stir to combine.",
+            "Remove muffin tins from refrigerator. Set cups upright; pour wine mixture over lemon mixture.",
+            "Return to the refrigerator and chill until set, about 4 hours."
+        ],
+        "ingredients_canonical": [
+            "boiling water",
+            "½ ounce package lemon-flavored gelatin mix such as jell-o",
+            "¼ gin",
+            "¾ sparkling wine divided",
+            "ounce envelopes unflavored gelatin",
+            "drop red food coloring"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 10,
+        "slow_hits": 3,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 66,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Caramel Apple Martini Pudding Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "These caramel apple martini pudding shots are a super fun and unusual treat for cookouts.",
+        "ingredients": [
+            "¾ cup milk",
+            "1 (3.4 ounce) package butterscotch instant pudding mix",
+            "½ cup sour apple schnapps (such as DeKuyper Sour Apple Pucker)",
+            "2 tablespoons butterscotch schnapps (such as DeKuyper Buttershots)",
+            "2 tablespoons vodka",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip), thawed"
+        ],
+        "directions": [
+            "Beat milk and pudding mix together in a large bowl until smooth. Add apple schnapps, butterscotch schnapps, and vodka; stir until blended. Fold in whipped topping until incorporated.",
+            "Spoon mixture into 12 shot glasses or disposable shot cups. Freeze until ready to serve."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "¾ milk ounce package butterscotch instant pudding mix ½ sour apple schnapps such as dekuyper sour apple pucker butterscotch schnapps such as dekuyper buttershots vodka ounce container frozen whipped topping such as cool whip thawed",
+        "directions_text": "beat milk and pudding mix together in a large bowl until smooth. add apple schnapps, butterscotch schnapps, and vodka; stir until blended. fold in whipped topping until incorporated. spoon mixture into 12 shot glasses or disposable shot cups. freeze until ready to serve.",
+        "combined_text": "caramel apple martini pudding shots jell-o shots jell-o shots ¾ cup milk 1 (3.4 ounce) package butterscotch instant pudding mix ½ cup sour apple schnapps (such as dekuyper sour apple pucker) 2 tablespoons butterscotch schnapps (such as dekuyper buttershots) 2 tablespoons vodka 1 (8 ounce) container frozen whipped topping (such as cool whip), thawed beat milk and pudding mix together in a large bowl until smooth. add apple schnapps, butterscotch schnapps, and vodka; stir until blended. fold in whipped topping until incorporated. spoon mixture into 12 shot glasses or disposable shot cups. freeze until ready to serve.",
+        "ingredients_raw": [
+            "¾ cup milk",
+            "1 (3.4 ounce) package butterscotch instant pudding mix",
+            "½ cup sour apple schnapps (such as DeKuyper Sour Apple Pucker)",
+            "2 tablespoons butterscotch schnapps (such as DeKuyper Buttershots)",
+            "2 tablespoons vodka",
+            "1 (8 ounce) container frozen whipped topping (such as Cool Whip), thawed"
+        ],
+        "directions_raw": [
+            "Beat milk and pudding mix together in a large bowl until smooth. Add apple schnapps, butterscotch schnapps, and vodka; stir until blended. Fold in whipped topping until incorporated.",
+            "Spoon mixture into 12 shot glasses or disposable shot cups. Freeze until ready to serve."
+        ],
+        "ingredients_canonical": [
+            "¾ milk",
+            "ounce package butterscotch instant pudding mix",
+            "½ sour apple schnapps such as dekuyper sour apple pucker",
+            "butterscotch schnapps such as dekuyper buttershots",
+            "vodka",
+            "ounce container frozen whipped topping such as cool whip thawed"
+        ],
+        "cuisine_list": [
+            "british",
+            "european"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate-Strawberry-Baileys® Pudding Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "These creamy chocolate-strawberry pudding shots will be the first to disappear from your party table. Quick, easy, and ready in about 1 hour.",
+        "ingredients": [
+            "1 (3 ounce) package instant chocolate pudding mix",
+            "2 cups cold milk, divided",
+            "½ cup Irish cream liqueur (such as Baileys®)",
+            "1 (8 ounce) container whipped topping (such as Cool Whip®), divided",
+            "1 (3 ounce) package instant strawberry pudding mix",
+            "½ cup strawberries and cream liqueur (such as Baileys®)",
+            "1 tablespoon shaved dark chocolate, or to taste"
+        ],
+        "directions": [
+            "Pour chocolate pudding mix into a bowl. Add 1 cup milk and mix using a wire whisk until well combined. Stir in Irish cream liqueur. Fold in 4 ounces of whipped topping and mix well. Fill plastic shot cups halfway with chocolate mixture. Refrigerate for 30 minutes or until chocolate pudding is set.",
+            "Pour strawberry pudding mix into a bowl. Add remaining 1 cup milk and mix using a wire whisk until well combined. Stir in strawberries and cream liqueur. Fold in remaining 4 ounces of whipped topping and mix well. Spoon strawberry pudding mixture over chocolate pudding in the shot glasses, filling nearly to the top.",
+            "Refrigerate for 30 minutes or until pudding is set. Sprinkle set pudding shots with chocolate shavings."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "ounce package instant chocolate pudding mix cold milk divided ½ irish cream liqueur such as baileys ounce container whipped topping such as cool whip divided ounce package instant strawberry pudding mix ½ strawberries cream liqueur such as baileys shaved dark chocolate taste",
+        "directions_text": "pour chocolate pudding mix into a bowl. add 1 cup milk and mix using a wire whisk until well combined. stir in irish cream liqueur. fold in 4 ounces of whipped topping and mix well. fill plastic shot cups halfway with chocolate mixture. refrigerate for 30 minutes or until chocolate pudding is set. pour strawberry pudding mix into a bowl. add remaining 1 cup milk and mix using a wire whisk until well combined. stir in strawberries and cream liqueur. fold in remaining 4 ounces of whipped topping and mix well. spoon strawberry pudding mixture over chocolate pudding in the shot glasses, filling nearly to the top. refrigerate for 30 minutes or until pudding is set. sprinkle set pudding shots with chocolate shavings.",
+        "combined_text": "chocolate-strawberry-baileys® pudding shots jell-o shots jell-o shots 1 (3 ounce) package instant chocolate pudding mix 2 cups cold milk, divided ½ cup irish cream liqueur (such as baileys®) 1 (8 ounce) container whipped topping (such as cool whip®), divided 1 (3 ounce) package instant strawberry pudding mix ½ cup strawberries and cream liqueur (such as baileys®) 1 tablespoon shaved dark chocolate, or to taste pour chocolate pudding mix into a bowl. add 1 cup milk and mix using a wire whisk until well combined. stir in irish cream liqueur. fold in 4 ounces of whipped topping and mix well. fill plastic shot cups halfway with chocolate mixture. refrigerate for 30 minutes or until chocolate pudding is set. pour strawberry pudding mix into a bowl. add remaining 1 cup milk and mix using a wire whisk until well combined. stir in strawberries and cream liqueur. fold in remaining 4 ounces of whipped topping and mix well. spoon strawberry pudding mixture over chocolate pudding in the shot glasses, filling nearly to the top. refrigerate for 30 minutes or until pudding is set. sprinkle set pudding shots with chocolate shavings.",
+        "ingredients_raw": [
+            "1 (3 ounce) package instant chocolate pudding mix",
+            "2 cups cold milk, divided",
+            "½ cup Irish cream liqueur (such as Baileys®)",
+            "1 (8 ounce) container whipped topping (such as Cool Whip®), divided",
+            "1 (3 ounce) package instant strawberry pudding mix",
+            "½ cup strawberries and cream liqueur (such as Baileys®)",
+            "1 tablespoon shaved dark chocolate, or to taste"
+        ],
+        "directions_raw": [
+            "Pour chocolate pudding mix into a bowl. Add 1 cup milk and mix using a wire whisk until well combined. Stir in Irish cream liqueur. Fold in 4 ounces of whipped topping and mix well. Fill plastic shot cups halfway with chocolate mixture. Refrigerate for 30 minutes or until chocolate pudding is set.",
+            "Pour strawberry pudding mix into a bowl. Add remaining 1 cup milk and mix using a wire whisk until well combined. Stir in strawberries and cream liqueur. Fold in remaining 4 ounces of whipped topping and mix well. Spoon strawberry pudding mixture over chocolate pudding in the shot glasses, filling nearly to the top.",
+            "Refrigerate for 30 minutes or until pudding is set. Sprinkle set pudding shots with chocolate shavings."
+        ],
+        "ingredients_canonical": [
+            "ounce package instant chocolate pudding mix",
+            "cold milk divided",
+            "½ irish cream liqueur such as baileys",
+            "ounce container whipped topping such as cool whip divided",
+            "ounce package instant strawberry pudding mix",
+            "½ strawberries cream liqueur such as baileys",
+            "shaved dark chocolate taste"
+        ],
+        "cuisine_list": [
+            "british",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "umami",
+        "fast_hits": 16,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 33,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Top Shelf Sparkling Margarita Jell-O",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "For grown-ups only. This recipe is my closest attempt at duplicating the awesome flavor of a cold margarita. It's sweet, tart, salty, and packs a punch. Garnish each serving with a lime wedge. You seriously only need one of these.",
+        "ingredients": [
+            "3 (3 ounce) packages lime-flavored gelatin mix (such as Jell-O®)",
+            "1 (3 ounce) package lemon-flavored gelatin mix (such as Jell-O®)",
+            "2 ½ cups boiling water",
+            "1 ⅔ cups premium tequila",
+            "⅔ cup triple sec",
+            "⅔ cup brandy-based orange liqueur (such as Grand Marnier®)",
+            "½ cup sweetened lime juice",
+            "2 cups sparkling water",
+            "1 lime, zested",
+            "1 pinch margarita salt, or as needed"
+        ],
+        "directions": [
+            "Stir lime gelatin, lemon gelatin, and boiling water together in a bowl until fully dissolved. Chill in refrigerator for 15 minutes.",
+            "Stir tequila, triple sec, orange liqueur, and sweetened lime juice into gelatin mixture. Gently stir in sparkling water. Ladle mixture into 24 small cups. Sprinkle each serving with lime zest. Refrigerate until set, at least 4 hours. Sprinkle each serving with margarita salt before serving."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "ounce packages lime-flavored gelatin mix such as jell-o ounce package lemon-flavored gelatin mix such as jell-o ½ boiling water ⅔ premium tequila ⅔ triple sec ⅔ brandy-based orange liqueur such as grand marnier ½ sweetened lime juice sparkling water lime zested pinch margarita salt as needed",
+        "directions_text": "stir lime gelatin, lemon gelatin, and boiling water together in a bowl until fully dissolved. chill in refrigerator for 15 minutes. stir tequila, triple sec, orange liqueur, and sweetened lime juice into gelatin mixture. gently stir in sparkling water. ladle mixture into 24 small cups. sprinkle each serving with lime zest. refrigerate until set, at least 4 hours. sprinkle each serving with margarita salt before serving.",
+        "combined_text": "top shelf sparkling margarita jell-o jell-o shots jell-o shots 3 (3 ounce) packages lime-flavored gelatin mix (such as jell-o®) 1 (3 ounce) package lemon-flavored gelatin mix (such as jell-o®) 2 ½ cups boiling water 1 ⅔ cups premium tequila ⅔ cup triple sec ⅔ cup brandy-based orange liqueur (such as grand marnier®) ½ cup sweetened lime juice 2 cups sparkling water 1 lime, zested 1 pinch margarita salt, or as needed stir lime gelatin, lemon gelatin, and boiling water together in a bowl until fully dissolved. chill in refrigerator for 15 minutes. stir tequila, triple sec, orange liqueur, and sweetened lime juice into gelatin mixture. gently stir in sparkling water. ladle mixture into 24 small cups. sprinkle each serving with lime zest. refrigerate until set, at least 4 hours. sprinkle each serving with margarita salt before serving.",
+        "ingredients_raw": [
+            "3 (3 ounce) packages lime-flavored gelatin mix (such as Jell-O®)",
+            "1 (3 ounce) package lemon-flavored gelatin mix (such as Jell-O®)",
+            "2 ½ cups boiling water",
+            "1 ⅔ cups premium tequila",
+            "⅔ cup triple sec",
+            "⅔ cup brandy-based orange liqueur (such as Grand Marnier®)",
+            "½ cup sweetened lime juice",
+            "2 cups sparkling water",
+            "1 lime, zested",
+            "1 pinch margarita salt, or as needed"
+        ],
+        "directions_raw": [
+            "Stir lime gelatin, lemon gelatin, and boiling water together in a bowl until fully dissolved. Chill in refrigerator for 15 minutes.",
+            "Stir tequila, triple sec, orange liqueur, and sweetened lime juice into gelatin mixture. Gently stir in sparkling water. Ladle mixture into 24 small cups. Sprinkle each serving with lime zest. Refrigerate until set, at least 4 hours. Sprinkle each serving with margarita salt before serving."
+        ],
+        "ingredients_canonical": [
+            "ounce packages lime-flavored gelatin mix such as jell-o",
+            "ounce package lemon-flavored gelatin mix such as jell-o",
+            "½ boiling water",
+            "⅔ premium tequila",
+            "⅔ triple sec",
+            "⅔ brandy-based orange liqueur such as grand marnier",
+            "½ sweetened lime juice",
+            "sparkling water",
+            "lime zested",
+            "pinch margarita salt as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 30,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Tart Lemon Drop Jelly Shots",
+        "category": "Jell-O Shots",
+        "subcategory": "Jell-O Shots",
+        "description": "FOR ADULTS ONLY! These are so delicious and one of my all time favorite party treats. Enjoy responsibly!",
+        "ingredients": [
+            "4 cups water",
+            "8 large lemons, cut into 8 wedges each",
+            "3 ½ cups white sugar",
+            "8 (.25 ounce) packages unflavored gelatin",
+            "4 cups lemon vodka",
+            "1 tablespoon turbinado sugar"
+        ],
+        "directions": [
+            "Heat water, lemon wedges, and white sugar in a large saucepan over medium heat. Simmer until sugar is dissolved, mashing lemons often to release juice and oils.",
+            "Cook and stir lemon mixture for 5 minutes more, then remove from heat and allow to cool slightly. Strain lemon pieces from saucepan.",
+            "Sprinkle gelatin into saucepan.",
+            "Heat syrup and gelatin mixture over low heat until gelatin dissolves, 5 to 10 minutes.",
+            "Remove from heat and allow to cool for 15 minutes. Pour lemon vodka into gelatin mixture and stir well.",
+            "Pour mixture into a 9x13-inch baking pan; refrigerate until set, at least 6 hours.",
+            "Run a sharp knife under hot water; cut gelatin into cubes with knife and sprinkle cubes with turbinado sugar before serving."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 7,
+        "ingredient_text": "water large lemons cut into wedges each ½ white sugar ounce packages unflavored gelatin lemon vodka turbinado sugar",
+        "directions_text": "heat water, lemon wedges, and white sugar in a large saucepan over medium heat. simmer until sugar is dissolved, mashing lemons often to release juice and oils. cook and stir lemon mixture for 5 minutes more, then remove from heat and allow to cool slightly. strain lemon pieces from saucepan. sprinkle gelatin into saucepan. heat syrup and gelatin mixture over low heat until gelatin dissolves, 5 to 10 minutes. remove from heat and allow to cool for 15 minutes. pour lemon vodka into gelatin mixture and stir well. pour mixture into a 9x13-inch baking pan; refrigerate until set, at least 6 hours. run a sharp knife under hot water; cut gelatin into cubes with knife and sprinkle cubes with turbinado sugar before serving.",
+        "combined_text": "tart lemon drop jelly shots jell-o shots jell-o shots 4 cups water 8 large lemons, cut into 8 wedges each 3 ½ cups white sugar 8 (.25 ounce) packages unflavored gelatin 4 cups lemon vodka 1 tablespoon turbinado sugar heat water, lemon wedges, and white sugar in a large saucepan over medium heat. simmer until sugar is dissolved, mashing lemons often to release juice and oils. cook and stir lemon mixture for 5 minutes more, then remove from heat and allow to cool slightly. strain lemon pieces from saucepan. sprinkle gelatin into saucepan. heat syrup and gelatin mixture over low heat until gelatin dissolves, 5 to 10 minutes. remove from heat and allow to cool for 15 minutes. pour lemon vodka into gelatin mixture and stir well. pour mixture into a 9x13-inch baking pan; refrigerate until set, at least 6 hours. run a sharp knife under hot water; cut gelatin into cubes with knife and sprinkle cubes with turbinado sugar before serving.",
+        "ingredients_raw": [
+            "4 cups water",
+            "8 large lemons, cut into 8 wedges each",
+            "3 ½ cups white sugar",
+            "8 (.25 ounce) packages unflavored gelatin",
+            "4 cups lemon vodka",
+            "1 tablespoon turbinado sugar"
+        ],
+        "directions_raw": [
+            "Heat water, lemon wedges, and white sugar in a large saucepan over medium heat. Simmer until sugar is dissolved, mashing lemons often to release juice and oils.",
+            "Cook and stir lemon mixture for 5 minutes more, then remove from heat and allow to cool slightly. Strain lemon pieces from saucepan.",
+            "Sprinkle gelatin into saucepan.",
+            "Heat syrup and gelatin mixture over low heat until gelatin dissolves, 5 to 10 minutes.",
+            "Remove from heat and allow to cool for 15 minutes. Pour lemon vodka into gelatin mixture and stir well.",
+            "Pour mixture into a 9x13-inch baking pan; refrigerate until set, at least 6 hours.",
+            "Run a sharp knife under hot water; cut gelatin into cubes with knife and sprinkle cubes with turbinado sugar before serving."
+        ],
+        "ingredients_canonical": [
+            "water",
+            "large lemons cut into wedges each",
+            "½ white sugar",
+            "ounce packages unflavored gelatin",
+            "lemon vodka",
+            "turbinado sugar"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "drink"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "sour",
+        "fast_hits": 9,
+        "slow_hits": 3,
+        "medium_hits": 8,
+        "cook_speed": "fast",
+        "est_prep_time_min": 22,
+        "est_cook_time_min": 97,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": false,
+        "is_halal": false,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    }
+]

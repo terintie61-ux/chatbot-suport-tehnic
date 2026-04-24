@@ -1,0 +1,3366 @@
+[
+    {
+        "recipe_title": "Chocolate Protein Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Easy protein ball recipe using chocolate protein powder, natural peanut butter, oats, and seeds. These energy balls are perfect for after-school snacking!",
+        "ingredients": [
+            "1 cup rolled oats",
+            "½ cup natural peanut butter",
+            "⅓ cup honey",
+            "¼ cup chopped dark chocolate",
+            "2 tablespoons flax seeds",
+            "2 tablespoons chia seeds",
+            "1 tablespoon chocolate-flavored protein powder, or to taste"
+        ],
+        "directions": [
+            "Combine oats, peanut butter, honey, chocolate, flax seeds, chia seeds, and protein powder in a bowl until evenly mixed. Cover the bowl with plastic wrap; refrigerate at least 30 minutes.",
+            "Scoop chilled mixture into balls. Keep cold until serving.",
+            "Enjoy!"
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "rolled oats ½ natural peanut butter ⅓ honey ¼ chopped dark chocolate flax seeds chia seeds chocolate-flavored protein powder taste",
+        "directions_text": "combine oats, peanut butter, honey, chocolate, flax seeds, chia seeds, and protein powder in a bowl until evenly mixed. cover the bowl with plastic wrap; refrigerate at least 30 minutes. scoop chilled mixture into balls. keep cold until serving. enjoy!",
+        "combined_text": "chocolate protein balls energy balls energy balls 1 cup rolled oats ½ cup natural peanut butter ⅓ cup honey ¼ cup chopped dark chocolate 2 tablespoons flax seeds 2 tablespoons chia seeds 1 tablespoon chocolate-flavored protein powder, or to taste combine oats, peanut butter, honey, chocolate, flax seeds, chia seeds, and protein powder in a bowl until evenly mixed. cover the bowl with plastic wrap; refrigerate at least 30 minutes. scoop chilled mixture into balls. keep cold until serving. enjoy!",
+        "ingredients_raw": [
+            "1 cup rolled oats",
+            "½ cup natural peanut butter",
+            "⅓ cup honey",
+            "¼ cup chopped dark chocolate",
+            "2 tablespoons flax seeds",
+            "2 tablespoons chia seeds",
+            "1 tablespoon chocolate-flavored protein powder, or to taste"
+        ],
+        "directions_raw": [
+            "Combine oats, peanut butter, honey, chocolate, flax seeds, chia seeds, and protein powder in a bowl until evenly mixed. Cover the bowl with plastic wrap; refrigerate at least 30 minutes.",
+            "Scoop chilled mixture into balls. Keep cold until serving.",
+            "Enjoy!"
+        ],
+        "ingredients_canonical": [
+            "rolled oats",
+            "½ natural peanut butter",
+            "⅓ honey",
+            "¼ chopped dark chocolate",
+            "flax seeds",
+            "chia seeds",
+            "chocolate-flavored protein powder taste"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 21,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Energy Balls without Peanut Butter",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "No peanut butter in these energy balls. Dates and brown rice syrup make these a sticky, gooey satisfaction.",
+        "ingredients": [
+            "1 cup rolled oats",
+            "½ cup pumpkin seeds",
+            "½ cup walnuts",
+            "½ cup pecans",
+            "15 pitted Medjool dates",
+            "½ cup brown rice syrup",
+            "1 cup mini chocolate chips",
+            "½ cup shredded coconut",
+            "½ cup raisins",
+            "¼ cup sunflower seeds"
+        ],
+        "directions": [
+            "Burst oats into a coarse meal in the bowl of a food processor. Add pumpkin seeds, walnuts, and pecans; pulse 10 to 15 times, until chunks are desired size.",
+            "Toss dates into the food processor and mix for 30 seconds. Pour rice syrup in slowly, with the processor running, until combined and starting to ball up.",
+            "Transfer to a bowl and mix in chocolate chips, coconut, raisins, and sunflower seeds. Pull off dough in 25 gram sections and roll into balls. Place in a single layer on a cookie sheet; it's okay if they touch but make sure they are not stacked.",
+            "Refrigerate for 2 to 24 hours before serving."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 4,
+        "ingredient_text": "rolled oats ½ pumpkin seeds ½ walnuts ½ pecans pitted medjool dates ½ brown rice syrup mini chocolate chips ½ shredded coconut ½ raisins ¼ sunflower seeds",
+        "directions_text": "burst oats into a coarse meal in the bowl of a food processor. add pumpkin seeds, walnuts, and pecans; pulse 10 to 15 times, until chunks are desired size. toss dates into the food processor and mix for 30 seconds. pour rice syrup in slowly, with the processor running, until combined and starting to ball up. transfer to a bowl and mix in chocolate chips, coconut, raisins, and sunflower seeds. pull off dough in 25 gram sections and roll into balls. place in a single layer on a cookie sheet; it's okay if they touch but make sure they are not stacked. refrigerate for 2 to 24 hours before serving.",
+        "combined_text": "energy balls without peanut butter energy balls energy balls 1 cup rolled oats ½ cup pumpkin seeds ½ cup walnuts ½ cup pecans 15 pitted medjool dates ½ cup brown rice syrup 1 cup mini chocolate chips ½ cup shredded coconut ½ cup raisins ¼ cup sunflower seeds burst oats into a coarse meal in the bowl of a food processor. add pumpkin seeds, walnuts, and pecans; pulse 10 to 15 times, until chunks are desired size. toss dates into the food processor and mix for 30 seconds. pour rice syrup in slowly, with the processor running, until combined and starting to ball up. transfer to a bowl and mix in chocolate chips, coconut, raisins, and sunflower seeds. pull off dough in 25 gram sections and roll into balls. place in a single layer on a cookie sheet; it's okay if they touch but make sure they are not stacked. refrigerate for 2 to 24 hours before serving.",
+        "ingredients_raw": [
+            "1 cup rolled oats",
+            "½ cup pumpkin seeds",
+            "½ cup walnuts",
+            "½ cup pecans",
+            "15 pitted Medjool dates",
+            "½ cup brown rice syrup",
+            "1 cup mini chocolate chips",
+            "½ cup shredded coconut",
+            "½ cup raisins",
+            "¼ cup sunflower seeds"
+        ],
+        "directions_raw": [
+            "Burst oats into a coarse meal in the bowl of a food processor. Add pumpkin seeds, walnuts, and pecans; pulse 10 to 15 times, until chunks are desired size.",
+            "Toss dates into the food processor and mix for 30 seconds. Pour rice syrup in slowly, with the processor running, until combined and starting to ball up.",
+            "Transfer to a bowl and mix in chocolate chips, coconut, raisins, and sunflower seeds. Pull off dough in 25 gram sections and roll into balls. Place in a single layer on a cookie sheet; it's okay if they touch but make sure they are not stacked.",
+            "Refrigerate for 2 to 24 hours before serving."
+        ],
+        "ingredients_canonical": [
+            "rolled oats",
+            "½ pumpkin seeds",
+            "½ walnuts",
+            "½ pecans",
+            "pitted medjool dates",
+            "½ brown rice syrup",
+            "mini chocolate chips",
+            "½ shredded coconut",
+            "½ raisins",
+            "¼ sunflower seeds"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "middle eastern",
+            "middle eastern region",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "side",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 46,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Easy Peanut Butter Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "My kids and I love having these peanut butter energy balls on hand. This recipe makes for an easy and quick bite of protein or energy during the day. My husband also loves having these treats in his lunch box at work.",
+        "ingredients": [
+            "2 cups rolled oats",
+            "1 cup peanut butter",
+            "1 cup crushed walnuts",
+            "½ cup semisweet chocolate chips",
+            "¼ cup honey, or more as needed"
+        ],
+        "directions": [
+            "Beat oats, peanut butter, walnuts, chocolate chips, and honey in the bowl of a stand mixer fitted with the paddle attachment until well combined, adding more honey if mixture is not holding together.",
+            "Scoop mixture with a cookie scoop and form into 24 balls; place on a cookie sheet. Refrigerate until firm, 30 to 60 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "rolled oats peanut butter crushed walnuts ½ semisweet chocolate chips ¼ honey more as needed",
+        "directions_text": "beat oats, peanut butter, walnuts, chocolate chips, and honey in the bowl of a stand mixer fitted with the paddle attachment until well combined, adding more honey if mixture is not holding together. scoop mixture with a cookie scoop and form into 24 balls; place on a cookie sheet. refrigerate until firm, 30 to 60 minutes.",
+        "combined_text": "easy peanut butter energy balls energy balls energy balls 2 cups rolled oats 1 cup peanut butter 1 cup crushed walnuts ½ cup semisweet chocolate chips ¼ cup honey, or more as needed beat oats, peanut butter, walnuts, chocolate chips, and honey in the bowl of a stand mixer fitted with the paddle attachment until well combined, adding more honey if mixture is not holding together. scoop mixture with a cookie scoop and form into 24 balls; place on a cookie sheet. refrigerate until firm, 30 to 60 minutes.",
+        "ingredients_raw": [
+            "2 cups rolled oats",
+            "1 cup peanut butter",
+            "1 cup crushed walnuts",
+            "½ cup semisweet chocolate chips",
+            "¼ cup honey, or more as needed"
+        ],
+        "directions_raw": [
+            "Beat oats, peanut butter, walnuts, chocolate chips, and honey in the bowl of a stand mixer fitted with the paddle attachment until well combined, adding more honey if mixture is not holding together.",
+            "Scoop mixture with a cookie scoop and form into 24 balls; place on a cookie sheet. Refrigerate until firm, 30 to 60 minutes."
+        ],
+        "ingredients_canonical": [
+            "rolled oats",
+            "peanut butter",
+            "crushed walnuts",
+            "½ semisweet chocolate chips",
+            "¼ honey more as needed"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "High-Protein Energy Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Standard energy bites recipe kicked up with the addition of protein powder and chopped coffee beans and coconut. Super pre- or post-workout snack. Store balls in freezer or fridge and thaw for use.",
+        "ingredients": [
+            "2 cups rolled oats",
+            "1 cup peanut butter",
+            "⅔ cup honey",
+            "½ cup dark chocolate chips",
+            "½ cup ground flax seeds",
+            "½ cup chocolate-flavored protein powder",
+            "½ cup unsweetened shredded coconut",
+            "2 tablespoons chia seeds",
+            "1 teaspoon coconut extract",
+            "¼ cup chopped coffee beans",
+            "2 tablespoons cocoa powder (such as Fry's®), or more as needed"
+        ],
+        "directions": [
+            "Mix oats, peanut butter, honey, dark chocolate chips, flax seeds, protein powder, coconut, chia seeds, and coconut extract together in a large bowl; fold in coffee beans. Form mixture into 1-inch balls.",
+            "Place cocoa powder in a small bowl. Roll each ball in the cocoa powder until coated."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 2,
+        "ingredient_text": "rolled oats peanut butter ⅔ honey ½ dark chocolate chips ½ ground flax seeds ½ chocolate-flavored protein powder ½ unsweetened shredded coconut chia seeds coconut extract ¼ chopped coffee beans cocoa powder such as fry s more as needed",
+        "directions_text": "mix oats, peanut butter, honey, dark chocolate chips, flax seeds, protein powder, coconut, chia seeds, and coconut extract together in a large bowl; fold in coffee beans. form mixture into 1-inch balls. place cocoa powder in a small bowl. roll each ball in the cocoa powder until coated.",
+        "combined_text": "high-protein energy bites energy balls energy balls 2 cups rolled oats 1 cup peanut butter ⅔ cup honey ½ cup dark chocolate chips ½ cup ground flax seeds ½ cup chocolate-flavored protein powder ½ cup unsweetened shredded coconut 2 tablespoons chia seeds 1 teaspoon coconut extract ¼ cup chopped coffee beans 2 tablespoons cocoa powder (such as fry's®), or more as needed mix oats, peanut butter, honey, dark chocolate chips, flax seeds, protein powder, coconut, chia seeds, and coconut extract together in a large bowl; fold in coffee beans. form mixture into 1-inch balls. place cocoa powder in a small bowl. roll each ball in the cocoa powder until coated.",
+        "ingredients_raw": [
+            "2 cups rolled oats",
+            "1 cup peanut butter",
+            "⅔ cup honey",
+            "½ cup dark chocolate chips",
+            "½ cup ground flax seeds",
+            "½ cup chocolate-flavored protein powder",
+            "½ cup unsweetened shredded coconut",
+            "2 tablespoons chia seeds",
+            "1 teaspoon coconut extract",
+            "¼ cup chopped coffee beans",
+            "2 tablespoons cocoa powder (such as Fry's®), or more as needed"
+        ],
+        "directions_raw": [
+            "Mix oats, peanut butter, honey, dark chocolate chips, flax seeds, protein powder, coconut, chia seeds, and coconut extract together in a large bowl; fold in coffee beans. Form mixture into 1-inch balls.",
+            "Place cocoa powder in a small bowl. Roll each ball in the cocoa powder until coated."
+        ],
+        "ingredients_canonical": [
+            "rolled oats",
+            "peanut butter",
+            "⅔ honey",
+            "½ dark chocolate chips",
+            "½ ground flax seeds",
+            "½ chocolate-flavored protein powder",
+            "½ unsweetened shredded coconut",
+            "chia seeds",
+            "coconut extract",
+            "¼ chopped coffee beans",
+            "cocoa powder such as fry s more as needed"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "side",
+            "drink",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 16,
+        "est_cook_time_min": 11,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "plant",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Swedish Chocolate Balls (Chokladbollar)",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "They say that these Swedish chocolate balls, known as chokladbollar, are the first thing a Swedish child learns to make, and for good reason; they're easy to do, there's no baking required, and mixing the \"dough\" together makes for a fun activity. They sure beat snacking on a candy bar during the afternoon slump, as the fats and whole grain keep you satisfied much longer, while the coffee and cocoa provide the perfect pick-me-up.",
+        "ingredients": [
+            "1 ½ cups quick-cooking rolled oats",
+            "½ cup white sugar",
+            "3 ½ tablespoons cocoa powder",
+            "1 pinch kosher salt",
+            "1 pinch cayenne pepper",
+            "¼ cup unsalted butter, softened",
+            "¼ cup coconut oil, at room temperature",
+            "1 teaspoon vanilla extract",
+            "2 tablespoons strong brewed coffee",
+            "½ cup unsweetened grated coconut, or as needed"
+        ],
+        "directions": [
+            "Heat a pan over medium heat and add oats. Toss and shake until fragrant and lightly toasted, 5 to 7 minutes.",
+            "Combine sugar, cocoa powder, salt, cayenne, butter, coconut oil, vanilla extract, and coffee in a bowl. Add the oats and mix until thoroughly combined.",
+            "Portion dough into balls using a sorbet scoop. Roll balls in grated coconut and transfer to a parchment-lined baking pan. Let them firm up in the fridge for 15 to 20 minutes."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "½ quick-cooking rolled oats ½ white sugar ½ cocoa powder pinch kosher salt pinch cayenne pepper ¼ unsalted butter softened ¼ coconut oil at room temperature vanilla extract strong brewed coffee ½ unsweetened grated coconut as needed",
+        "directions_text": "heat a pan over medium heat and add oats. toss and shake until fragrant and lightly toasted, 5 to 7 minutes. combine sugar, cocoa powder, salt, cayenne, butter, coconut oil, vanilla extract, and coffee in a bowl. add the oats and mix until thoroughly combined. portion dough into balls using a sorbet scoop. roll balls in grated coconut and transfer to a parchment-lined baking pan. let them firm up in the fridge for 15 to 20 minutes.",
+        "combined_text": "swedish chocolate balls (chokladbollar) energy balls energy balls 1 ½ cups quick-cooking rolled oats ½ cup white sugar 3 ½ tablespoons cocoa powder 1 pinch kosher salt 1 pinch cayenne pepper ¼ cup unsalted butter, softened ¼ cup coconut oil, at room temperature 1 teaspoon vanilla extract 2 tablespoons strong brewed coffee ½ cup unsweetened grated coconut, or as needed heat a pan over medium heat and add oats. toss and shake until fragrant and lightly toasted, 5 to 7 minutes. combine sugar, cocoa powder, salt, cayenne, butter, coconut oil, vanilla extract, and coffee in a bowl. add the oats and mix until thoroughly combined. portion dough into balls using a sorbet scoop. roll balls in grated coconut and transfer to a parchment-lined baking pan. let them firm up in the fridge for 15 to 20 minutes.",
+        "ingredients_raw": [
+            "1 ½ cups quick-cooking rolled oats",
+            "½ cup white sugar",
+            "3 ½ tablespoons cocoa powder",
+            "1 pinch kosher salt",
+            "1 pinch cayenne pepper",
+            "¼ cup unsalted butter, softened",
+            "¼ cup coconut oil, at room temperature",
+            "1 teaspoon vanilla extract",
+            "2 tablespoons strong brewed coffee",
+            "½ cup unsweetened grated coconut, or as needed"
+        ],
+        "directions_raw": [
+            "Heat a pan over medium heat and add oats. Toss and shake until fragrant and lightly toasted, 5 to 7 minutes.",
+            "Combine sugar, cocoa powder, salt, cayenne, butter, coconut oil, vanilla extract, and coffee in a bowl. Add the oats and mix until thoroughly combined.",
+            "Portion dough into balls using a sorbet scoop. Roll balls in grated coconut and transfer to a parchment-lined baking pan. Let them firm up in the fridge for 15 to 20 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ quick-cooking rolled oats",
+            "½ white sugar",
+            "½ cocoa powder",
+            "pinch kosher salt",
+            "pinch cayenne pepper",
+            "¼ unsalted butter softened",
+            "¼ coconut oil at room temperature",
+            "vanilla extract",
+            "strong brewed coffee",
+            "½ unsweetened grated coconut as needed"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "drink",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 18,
+        "est_cook_time_min": 19,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 48,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "unhealthy"
+    },
+    {
+        "recipe_title": "Pecan Pie Energy Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Are you looking for an easy-to-make, delicious bite to give you a little boost of energy? And would you like that bite to vaguely taste like pecan pie? Then, this ball has it all!",
+        "ingredients": [
+            "1 cup pecan halves",
+            "⅓ cup rolled oats",
+            "1 cup pitted Medjool dates",
+            "⅛ teaspoon ground cinnamon",
+            "¼ teaspoon kosher salt",
+            "¼ teaspoon vanilla extract",
+            "1 tablespoon maple syrup"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+            "Arrange a single layer of pecans on the prepared baking sheet. Top with rolled oats. Bake in the preheated oven until toasted, about 10 minutes. Allow to cool completely.",
+            "Pulse pecans, oats, dates, cinnamon, salt, vanilla extract, and maple syrup in a food processor until nuts are ground to desired consistency.",
+            "Shape mixture into twelve 2-inch tightly-packed balls. Refrigerate before serving."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "pecan halves ⅓ rolled oats pitted medjool dates ⅛ ground cinnamon ¼ kosher salt ¼ vanilla extract maple syrup",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. arrange a single layer of pecans on the prepared baking sheet. top with rolled oats. bake in the preheated oven until toasted, about 10 minutes. allow to cool completely. pulse pecans, oats, dates, cinnamon, salt, vanilla extract, and maple syrup in a food processor until nuts are ground to desired consistency. shape mixture into twelve 2-inch tightly-packed balls. refrigerate before serving.",
+        "combined_text": "pecan pie energy bites energy balls energy balls 1 cup pecan halves ⅓ cup rolled oats 1 cup pitted medjool dates ⅛ teaspoon ground cinnamon ¼ teaspoon kosher salt ¼ teaspoon vanilla extract 1 tablespoon maple syrup preheat the oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. arrange a single layer of pecans on the prepared baking sheet. top with rolled oats. bake in the preheated oven until toasted, about 10 minutes. allow to cool completely. pulse pecans, oats, dates, cinnamon, salt, vanilla extract, and maple syrup in a food processor until nuts are ground to desired consistency. shape mixture into twelve 2-inch tightly-packed balls. refrigerate before serving.",
+        "ingredients_raw": [
+            "1 cup pecan halves",
+            "⅓ cup rolled oats",
+            "1 cup pitted Medjool dates",
+            "⅛ teaspoon ground cinnamon",
+            "¼ teaspoon kosher salt",
+            "¼ teaspoon vanilla extract",
+            "1 tablespoon maple syrup"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+            "Arrange a single layer of pecans on the prepared baking sheet. Top with rolled oats. Bake in the preheated oven until toasted, about 10 minutes. Allow to cool completely.",
+            "Pulse pecans, oats, dates, cinnamon, salt, vanilla extract, and maple syrup in a food processor until nuts are ground to desired consistency.",
+            "Shape mixture into twelve 2-inch tightly-packed balls. Refrigerate before serving."
+        ],
+        "ingredients_canonical": [
+            "pecan halves",
+            "⅓ rolled oats",
+            "pitted medjool dates",
+            "⅛ ground cinnamon",
+            "¼ kosher salt",
+            "¼ vanilla extract",
+            "maple syrup"
+        ],
+        "cuisine_list": [
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 46,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 72,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Oatmeal Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "I am a vegetarian and love to eat these oatmeal energy balls before I go to the gym. Sometimes I like to add extra whole peanuts to the recipe. Substitute ¼ cup dark chocolate chips for the raisins if desired. If you want to eat them on the go, wrap them in waxed paper and tie with a bread tie. Enjoy!",
+        "ingredients": [
+            "1 ½ cups rolled oats",
+            "¾ cup natural peanut butter",
+            "½ cup raisins",
+            "2 tablespoons honey"
+        ],
+        "directions": [
+            "Combine oats, peanut butter, raisins, and honey in a bowl with a fork; knead by hand until fully incorporated. Roll into 1-inch balls. Refrigerate for at least 1 hour."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 1,
+        "ingredient_text": "½ rolled oats ¾ natural peanut butter ½ raisins honey",
+        "directions_text": "combine oats, peanut butter, raisins, and honey in a bowl with a fork; knead by hand until fully incorporated. roll into 1-inch balls. refrigerate for at least 1 hour.",
+        "combined_text": "oatmeal energy balls energy balls energy balls 1 ½ cups rolled oats ¾ cup natural peanut butter ½ cup raisins 2 tablespoons honey combine oats, peanut butter, raisins, and honey in a bowl with a fork; knead by hand until fully incorporated. roll into 1-inch balls. refrigerate for at least 1 hour.",
+        "ingredients_raw": [
+            "1 ½ cups rolled oats",
+            "¾ cup natural peanut butter",
+            "½ cup raisins",
+            "2 tablespoons honey"
+        ],
+        "directions_raw": [
+            "Combine oats, peanut butter, raisins, and honey in a bowl with a fork; knead by hand until fully incorporated. Roll into 1-inch balls. Refrigerate for at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "½ rolled oats",
+            "¾ natural peanut butter",
+            "½ raisins",
+            "honey"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "breakfast",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 2,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 6,
+        "est_cook_time_min": 27,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Daniel Fast Peanut Butter Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These Daniel Fast peanut butter balls are healthy, not too sweet, and a great snack for any time. My girls, ages 2 and 4, love them!",
+        "ingredients": [
+            "¾ cup brown rice syrup",
+            "½ cup coconut oil",
+            "1 cup natural peanut butter",
+            "1 teaspoon vanilla extract",
+            "3 cups regular or quick-cooking oats, or more to taste",
+            "1 cup raisins",
+            "½ cup unsweetened flaked coconut"
+        ],
+        "directions": [
+            "Combine brown rice syrup and coconut oil in a saucepan over medium heat; cook and stir until melted and boiling, 3 to 4 minutes. Remove from the heat.",
+            "Add peanut butter and vanilla to the syrup mixture and stir until smooth. Stir in oats, raisins, and coconut until well combined. Refrigerate mixture until cool, at least 30 minutes.",
+            "Form cooled mixture into balls. Freeze balls until set, at least 1 hour."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 3,
+        "ingredient_text": "¾ brown rice syrup ½ coconut oil natural peanut butter vanilla extract regular quick-cooking oats more taste raisins ½ unsweetened flaked coconut",
+        "directions_text": "combine brown rice syrup and coconut oil in a saucepan over medium heat; cook and stir until melted and boiling, 3 to 4 minutes. remove from the heat. add peanut butter and vanilla to the syrup mixture and stir until smooth. stir in oats, raisins, and coconut until well combined. refrigerate mixture until cool, at least 30 minutes. form cooled mixture into balls. freeze balls until set, at least 1 hour.",
+        "combined_text": "daniel fast peanut butter balls energy balls energy balls ¾ cup brown rice syrup ½ cup coconut oil 1 cup natural peanut butter 1 teaspoon vanilla extract 3 cups regular or quick-cooking oats, or more to taste 1 cup raisins ½ cup unsweetened flaked coconut combine brown rice syrup and coconut oil in a saucepan over medium heat; cook and stir until melted and boiling, 3 to 4 minutes. remove from the heat. add peanut butter and vanilla to the syrup mixture and stir until smooth. stir in oats, raisins, and coconut until well combined. refrigerate mixture until cool, at least 30 minutes. form cooled mixture into balls. freeze balls until set, at least 1 hour.",
+        "ingredients_raw": [
+            "¾ cup brown rice syrup",
+            "½ cup coconut oil",
+            "1 cup natural peanut butter",
+            "1 teaspoon vanilla extract",
+            "3 cups regular or quick-cooking oats, or more to taste",
+            "1 cup raisins",
+            "½ cup unsweetened flaked coconut"
+        ],
+        "directions_raw": [
+            "Combine brown rice syrup and coconut oil in a saucepan over medium heat; cook and stir until melted and boiling, 3 to 4 minutes. Remove from the heat.",
+            "Add peanut butter and vanilla to the syrup mixture and stir until smooth. Stir in oats, raisins, and coconut until well combined. Refrigerate mixture until cool, at least 30 minutes.",
+            "Form cooled mixture into balls. Freeze balls until set, at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "¾ brown rice syrup",
+            "½ coconut oil",
+            "natural peanut butter",
+            "vanilla extract",
+            "regular quick-cooking oats more taste",
+            "raisins",
+            "½ unsweetened flaked coconut"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "side"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 36,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 54,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Crunchy Chocolate Chip Peanut Butter Snack Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Combine peanuts and chocolate chips for extra flavor and crunch in this snack bite recipe. Simple and easy to make, this tasty recipe is sure to become a new family favorite.",
+        "ingredients": [
+            "1 cup large flake rolled oats",
+            "½ cup Kraft crunchy peanut butter",
+            "¼ cup honey",
+            "½ cup salted peanuts, chopped",
+            "½ cup Baker's semisweet chocolate chips"
+        ],
+        "directions": [
+            "Mix together oats, peanut butter, honey, peanuts, and chocolate chips in a medium bowl until blended. Refrigerate for 20 to 30 minutes.",
+            "Roll into twenty 1-inch balls, using about 2 tablespoons for each one."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "large flake rolled oats ½ kraft crunchy peanut butter ¼ honey ½ salted peanuts chopped ½ baker s semisweet chocolate chips",
+        "directions_text": "mix together oats, peanut butter, honey, peanuts, and chocolate chips in a medium bowl until blended. refrigerate for 20 to 30 minutes. roll into twenty 1-inch balls, using about 2 tablespoons for each one.",
+        "combined_text": "crunchy chocolate chip peanut butter snack bites energy balls energy balls 1 cup large flake rolled oats ½ cup kraft crunchy peanut butter ¼ cup honey ½ cup salted peanuts, chopped ½ cup baker's semisweet chocolate chips mix together oats, peanut butter, honey, peanuts, and chocolate chips in a medium bowl until blended. refrigerate for 20 to 30 minutes. roll into twenty 1-inch balls, using about 2 tablespoons for each one.",
+        "ingredients_raw": [
+            "1 cup large flake rolled oats",
+            "½ cup Kraft crunchy peanut butter",
+            "¼ cup honey",
+            "½ cup salted peanuts, chopped",
+            "½ cup Baker's semisweet chocolate chips"
+        ],
+        "directions_raw": [
+            "Mix together oats, peanut butter, honey, peanuts, and chocolate chips in a medium bowl until blended. Refrigerate for 20 to 30 minutes.",
+            "Roll into twenty 1-inch balls, using about 2 tablespoons for each one."
+        ],
+        "ingredients_canonical": [
+            "large flake rolled oats",
+            "½ kraft crunchy peanut butter",
+            "¼ honey",
+            "½ salted peanuts chopped",
+            "½ baker s semisweet chocolate chips"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 18,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 60,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Greek Yogurt Peanut Butter Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "With peanut butter, Greek yogurt, oats, and flax seeds, these little yogurt ball snack bites are packed with protein and fiber. Eat them any time you need a healthier way to curb your sweet tooth. The cacao nibs give these a hint of chocolate flavor and a great crunch. Store in the refrigerator or freezer.",
+        "ingredients": [
+            "¼ cup natural peanut butter",
+            "¼ cup nonfat vanilla Greek yogurt",
+            "3 tablespoons honey",
+            "½ cup rolled oats",
+            "¼ cup almond flour",
+            "¼ cup flaxseed meal",
+            "2 tablespoons cacao nibs"
+        ],
+        "directions": [
+            "Combine peanut butter, Greek yogurt, and honey in a medium bowl. Stir with a spoon until smooth. Add oats, almond flour, flaxseed meal, and cacao nibs. Stir until well incorporated.",
+            "Scoop up about 1 tablespoon of mixture with a small cookie scoop or spoon and roll lightly into a ball with your hands. Place in an airtight container and refrigerate for about 1 hour before serving."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "¼ natural peanut butter ¼ nonfat vanilla greek yogurt honey ½ rolled oats ¼ almond flour ¼ flaxseed meal cacao nibs",
+        "directions_text": "combine peanut butter, greek yogurt, and honey in a medium bowl. stir with a spoon until smooth. add oats, almond flour, flaxseed meal, and cacao nibs. stir until well incorporated. scoop up about 1 tablespoon of mixture with a small cookie scoop or spoon and roll lightly into a ball with your hands. place in an airtight container and refrigerate for about 1 hour before serving.",
+        "combined_text": "greek yogurt peanut butter bites energy balls energy balls ¼ cup natural peanut butter ¼ cup nonfat vanilla greek yogurt 3 tablespoons honey ½ cup rolled oats ¼ cup almond flour ¼ cup flaxseed meal 2 tablespoons cacao nibs combine peanut butter, greek yogurt, and honey in a medium bowl. stir with a spoon until smooth. add oats, almond flour, flaxseed meal, and cacao nibs. stir until well incorporated. scoop up about 1 tablespoon of mixture with a small cookie scoop or spoon and roll lightly into a ball with your hands. place in an airtight container and refrigerate for about 1 hour before serving.",
+        "ingredients_raw": [
+            "¼ cup natural peanut butter",
+            "¼ cup nonfat vanilla Greek yogurt",
+            "3 tablespoons honey",
+            "½ cup rolled oats",
+            "¼ cup almond flour",
+            "¼ cup flaxseed meal",
+            "2 tablespoons cacao nibs"
+        ],
+        "directions_raw": [
+            "Combine peanut butter, Greek yogurt, and honey in a medium bowl. Stir with a spoon until smooth. Add oats, almond flour, flaxseed meal, and cacao nibs. Stir until well incorporated.",
+            "Scoop up about 1 tablespoon of mixture with a small cookie scoop or spoon and roll lightly into a ball with your hands. Place in an airtight container and refrigerate for about 1 hour before serving."
+        ],
+        "ingredients_canonical": [
+            "¼ natural peanut butter",
+            "¼ nonfat vanilla greek yogurt",
+            "honey",
+            "½ rolled oats",
+            "¼ almond flour",
+            "¼ flaxseed meal",
+            "cacao nibs"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "thai",
+            "turkish"
+        ],
+        "course_list": [
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Oatmeal Almond Butter Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These soft almond butter balls are a healthy, high-fiber snack. Made with chia seeds, ground flax, unsweetened coconut, and oats, they're easy to mix up in the stand mixer or by hand. Store balls in an airtight container in the refrigerator.",
+        "ingredients": [
+            "2 ½ cups rolled oats",
+            "1 cup almond butter",
+            "1 cup semisweet chocolate chips",
+            "½ cup honey",
+            "¼ cup chia seeds",
+            "¼ cup ground flax seeds",
+            "¼ cup finely shredded unsweetened coconut"
+        ],
+        "directions": [
+            "Mix oats, almond butter, chocolate chips, honey, chia seeds, ground flax seeds, and coconut together in a stand mixer fitted with the paddle attachment, gradually increasing speed, or by hand in a large bowl, until mixture is well combined and forms a large ball.",
+            "Shape into 1-inch balls. Place balls onto a parchment-lined baking sheet and freeze until firm, about 30 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "½ rolled oats almond butter semisweet chocolate chips ½ honey ¼ chia seeds ¼ ground flax seeds ¼ finely shredded unsweetened coconut",
+        "directions_text": "mix oats, almond butter, chocolate chips, honey, chia seeds, ground flax seeds, and coconut together in a stand mixer fitted with the paddle attachment, gradually increasing speed, or by hand in a large bowl, until mixture is well combined and forms a large ball. shape into 1-inch balls. place balls onto a parchment-lined baking sheet and freeze until firm, about 30 minutes.",
+        "combined_text": "oatmeal almond butter bites energy balls energy balls 2 ½ cups rolled oats 1 cup almond butter 1 cup semisweet chocolate chips ½ cup honey ¼ cup chia seeds ¼ cup ground flax seeds ¼ cup finely shredded unsweetened coconut mix oats, almond butter, chocolate chips, honey, chia seeds, ground flax seeds, and coconut together in a stand mixer fitted with the paddle attachment, gradually increasing speed, or by hand in a large bowl, until mixture is well combined and forms a large ball. shape into 1-inch balls. place balls onto a parchment-lined baking sheet and freeze until firm, about 30 minutes.",
+        "ingredients_raw": [
+            "2 ½ cups rolled oats",
+            "1 cup almond butter",
+            "1 cup semisweet chocolate chips",
+            "½ cup honey",
+            "¼ cup chia seeds",
+            "¼ cup ground flax seeds",
+            "¼ cup finely shredded unsweetened coconut"
+        ],
+        "directions_raw": [
+            "Mix oats, almond butter, chocolate chips, honey, chia seeds, ground flax seeds, and coconut together in a stand mixer fitted with the paddle attachment, gradually increasing speed, or by hand in a large bowl, until mixture is well combined and forms a large ball.",
+            "Shape into 1-inch balls. Place balls onto a parchment-lined baking sheet and freeze until firm, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ rolled oats",
+            "almond butter",
+            "semisweet chocolate chips",
+            "½ honey",
+            "¼ chia seeds",
+            "¼ ground flax seeds",
+            "¼ finely shredded unsweetened coconut"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "breakfast",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "medium",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 11,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Peanut Butter Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Energy balls filled with all of the essentials for a pre-workout snack!",
+        "ingredients": [
+            "4 cups quick cooking oats",
+            "2 ½ cups natural peanut butter",
+            "2 cups dry unsweetened shredded coconut",
+            "1 cup chocolate chips",
+            "1 cup dried cranberries",
+            "1 cup almond milk",
+            "½ cup honey, melted"
+        ],
+        "directions": [
+            "Combine oats, peanut butter, shredded coconut, chocolate chips, cranberries, almond milk, and honey in a bowl and mix thoroughly.",
+            "Roll mixture into bite-size balls and arrange on a baking sheet. Refrigerate until set, at least 15 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "quick cooking oats ½ natural peanut butter dry unsweetened shredded coconut chocolate chips dried cranberries almond milk ½ honey melted",
+        "directions_text": "combine oats, peanut butter, shredded coconut, chocolate chips, cranberries, almond milk, and honey in a bowl and mix thoroughly. roll mixture into bite-size balls and arrange on a baking sheet. refrigerate until set, at least 15 minutes.",
+        "combined_text": "chocolate peanut butter energy balls energy balls energy balls 4 cups quick cooking oats 2 ½ cups natural peanut butter 2 cups dry unsweetened shredded coconut 1 cup chocolate chips 1 cup dried cranberries 1 cup almond milk ½ cup honey, melted combine oats, peanut butter, shredded coconut, chocolate chips, cranberries, almond milk, and honey in a bowl and mix thoroughly. roll mixture into bite-size balls and arrange on a baking sheet. refrigerate until set, at least 15 minutes.",
+        "ingredients_raw": [
+            "4 cups quick cooking oats",
+            "2 ½ cups natural peanut butter",
+            "2 cups dry unsweetened shredded coconut",
+            "1 cup chocolate chips",
+            "1 cup dried cranberries",
+            "1 cup almond milk",
+            "½ cup honey, melted"
+        ],
+        "directions_raw": [
+            "Combine oats, peanut butter, shredded coconut, chocolate chips, cranberries, almond milk, and honey in a bowl and mix thoroughly.",
+            "Roll mixture into bite-size balls and arrange on a baking sheet. Refrigerate until set, at least 15 minutes."
+        ],
+        "ingredients_canonical": [
+            "quick cooking oats",
+            "½ natural peanut butter",
+            "dry unsweetened shredded coconut",
+            "chocolate chips",
+            "dried cranberries",
+            "almond milk",
+            "½ honey melted"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "No Bake Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "A healthy pick-me-up snack on the run. Healthy enough for the kids, too!",
+        "ingredients": [
+            "¾ cup rolled oats",
+            "½ cup peanut butter",
+            "⅓ cup honey",
+            "⅓ cup cocoa powder",
+            "⅓ cup shredded coconut",
+            "¼ cup wheat germ",
+            "2 teaspoons vanilla extract",
+            "1 pinch ground cinnamon"
+        ],
+        "directions": [
+            "Mix oats, peanut butter, honey, cocoa powder, coconut, wheat germ, vanilla extract, and cinnamon together in a bowl. Roll oat mixture into ping pong-sized balls. Place in a container and store in refrigerator."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 1,
+        "ingredient_text": "¾ rolled oats ½ peanut butter ⅓ honey ⅓ cocoa powder ⅓ shredded coconut ¼ wheat germ vanilla extract pinch ground cinnamon",
+        "directions_text": "mix oats, peanut butter, honey, cocoa powder, coconut, wheat germ, vanilla extract, and cinnamon together in a bowl. roll oat mixture into ping pong-sized balls. place in a container and store in refrigerator.",
+        "combined_text": "no bake energy balls energy balls energy balls ¾ cup rolled oats ½ cup peanut butter ⅓ cup honey ⅓ cup cocoa powder ⅓ cup shredded coconut ¼ cup wheat germ 2 teaspoons vanilla extract 1 pinch ground cinnamon mix oats, peanut butter, honey, cocoa powder, coconut, wheat germ, vanilla extract, and cinnamon together in a bowl. roll oat mixture into ping pong-sized balls. place in a container and store in refrigerator.",
+        "ingredients_raw": [
+            "¾ cup rolled oats",
+            "½ cup peanut butter",
+            "⅓ cup honey",
+            "⅓ cup cocoa powder",
+            "⅓ cup shredded coconut",
+            "¼ cup wheat germ",
+            "2 teaspoons vanilla extract",
+            "1 pinch ground cinnamon"
+        ],
+        "directions_raw": [
+            "Mix oats, peanut butter, honey, cocoa powder, coconut, wheat germ, vanilla extract, and cinnamon together in a bowl. Roll oat mixture into ping pong-sized balls. Place in a container and store in refrigerator."
+        ],
+        "ingredients_canonical": [
+            "¾ rolled oats",
+            "½ peanut butter",
+            "⅓ honey",
+            "⅓ cocoa powder",
+            "⅓ shredded coconut",
+            "¼ wheat germ",
+            "vanilla extract",
+            "pinch ground cinnamon"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "medium",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 8,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Sweet Potato Energy Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These tasty little bites are packed with so many things that are good for you: sweet potato, oats, almond meal, hemp seeds, and almond butter. They are a great boost of protein and energy for when you need a snack. They are gluten free, and you can make them vegan by replacing the honey with maple syrup.",
+        "ingredients": [
+            "1 cup cooked and mashed sweet potato",
+            "½ cup rolled oats",
+            "½ cup almond meal",
+            "¼ cup hemp seeds",
+            "¼ cup almond butter",
+            "1 tablespoon honey, or more to taste",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon vanilla extract",
+            "⅛ teaspoon sea salt"
+        ],
+        "directions": [
+            "Place mashed sweet potato, oats, almond meal, hemp seeds, almond butter, honey, cinnamon, vanilla, and sea salt into a bowl and stir until all ingredients are well combined.",
+            "Refrigerate the mixture for 15 minutes. Roll chilled mixture into about 20 1-inch balls. Place energy balls back into the refrigerator for 15 minutes until set and cold. Store in a covered container in the refrigerator for 3 to 5 days."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "cooked mashed sweet potato ½ rolled oats ½ almond meal ¼ hemp seeds ¼ almond butter honey more taste ground cinnamon vanilla extract ⅛ sea salt",
+        "directions_text": "place mashed sweet potato, oats, almond meal, hemp seeds, almond butter, honey, cinnamon, vanilla, and sea salt into a bowl and stir until all ingredients are well combined. refrigerate the mixture for 15 minutes. roll chilled mixture into about 20 1-inch balls. place energy balls back into the refrigerator for 15 minutes until set and cold. store in a covered container in the refrigerator for 3 to 5 days.",
+        "combined_text": "sweet potato energy bites energy balls energy balls 1 cup cooked and mashed sweet potato ½ cup rolled oats ½ cup almond meal ¼ cup hemp seeds ¼ cup almond butter 1 tablespoon honey, or more to taste 2 teaspoons ground cinnamon 1 teaspoon vanilla extract ⅛ teaspoon sea salt place mashed sweet potato, oats, almond meal, hemp seeds, almond butter, honey, cinnamon, vanilla, and sea salt into a bowl and stir until all ingredients are well combined. refrigerate the mixture for 15 minutes. roll chilled mixture into about 20 1-inch balls. place energy balls back into the refrigerator for 15 minutes until set and cold. store in a covered container in the refrigerator for 3 to 5 days.",
+        "ingredients_raw": [
+            "1 cup cooked and mashed sweet potato",
+            "½ cup rolled oats",
+            "½ cup almond meal",
+            "¼ cup hemp seeds",
+            "¼ cup almond butter",
+            "1 tablespoon honey, or more to taste",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon vanilla extract",
+            "⅛ teaspoon sea salt"
+        ],
+        "directions_raw": [
+            "Place mashed sweet potato, oats, almond meal, hemp seeds, almond butter, honey, cinnamon, vanilla, and sea salt into a bowl and stir until all ingredients are well combined.",
+            "Refrigerate the mixture for 15 minutes. Roll chilled mixture into about 20 1-inch balls. Place energy balls back into the refrigerator for 15 minutes until set and cold. Store in a covered container in the refrigerator for 3 to 5 days."
+        ],
+        "ingredients_canonical": [
+            "cooked mashed sweet potato",
+            "½ rolled oats",
+            "½ almond meal",
+            "¼ hemp seeds",
+            "¼ almond butter",
+            "honey more taste",
+            "ground cinnamon",
+            "vanilla extract",
+            "⅛ sea salt"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Protein Balls with Vanilla Protein Powder",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These protein balls make a great snack. Pairs perfectly with a cup of tea! Store leftovers in the fridge.",
+        "ingredients": [
+            "½ cup rolled oats",
+            "⅓ cup almond butter",
+            "¼ cup quinoa",
+            "⅛ cup chia seeds",
+            "⅛ cup flax seeds",
+            "2 scoops vanilla protein powder",
+            "4 tablespoons cocoa nibs",
+            "3 tablespoons honey"
+        ],
+        "directions": [
+            "Mix oats, almond butter, quinoa, chia seeds, flax seeds, protein powder, cocoa nibs, and honey together in a bowl by hand.",
+            "Roll into bite-sized balls and place on parchment paper.",
+            "Refrigerate for at least 20 minutes before serving."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 3,
+        "ingredient_text": "½ rolled oats ⅓ almond butter ¼ quinoa ⅛ chia seeds ⅛ flax seeds scoops vanilla protein powder cocoa nibs honey",
+        "directions_text": "mix oats, almond butter, quinoa, chia seeds, flax seeds, protein powder, cocoa nibs, and honey together in a bowl by hand. roll into bite-sized balls and place on parchment paper. refrigerate for at least 20 minutes before serving.",
+        "combined_text": "protein balls with vanilla protein powder energy balls energy balls ½ cup rolled oats ⅓ cup almond butter ¼ cup quinoa ⅛ cup chia seeds ⅛ cup flax seeds 2 scoops vanilla protein powder 4 tablespoons cocoa nibs 3 tablespoons honey mix oats, almond butter, quinoa, chia seeds, flax seeds, protein powder, cocoa nibs, and honey together in a bowl by hand. roll into bite-sized balls and place on parchment paper. refrigerate for at least 20 minutes before serving.",
+        "ingredients_raw": [
+            "½ cup rolled oats",
+            "⅓ cup almond butter",
+            "¼ cup quinoa",
+            "⅛ cup chia seeds",
+            "⅛ cup flax seeds",
+            "2 scoops vanilla protein powder",
+            "4 tablespoons cocoa nibs",
+            "3 tablespoons honey"
+        ],
+        "directions_raw": [
+            "Mix oats, almond butter, quinoa, chia seeds, flax seeds, protein powder, cocoa nibs, and honey together in a bowl by hand.",
+            "Roll into bite-sized balls and place on parchment paper.",
+            "Refrigerate for at least 20 minutes before serving."
+        ],
+        "ingredients_canonical": [
+            "½ rolled oats",
+            "⅓ almond butter",
+            "¼ quinoa",
+            "⅛ chia seeds",
+            "⅛ flax seeds",
+            "scoops vanilla protein powder",
+            "cocoa nibs",
+            "honey"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 11,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Peanut Butter Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "You'd never know these yummy little peanut butter energy balls are actually healthy! The main ingredients in this recipe are wheat germ and peanut butter, so they are full of protein! Kids love them! You can add chocolate chips, raisins, or coconut to the mix. Rolling in coconut is also delicious!",
+        "ingredients": [
+            "1 cup toasted wheat germ",
+            "½ cup peanut butter",
+            "½ cup honey",
+            "2 tablespoons nonfat dry milk powder"
+        ],
+        "directions": [
+            "Combine wheat germ, peanut butter, honey, and milk powder in a bowl; shape into 20 bite-sized balls. Arrange balls on a plate.",
+            "Place in the freezer until solid, at least 1 hour."
+        ],
+        "num_ingredients": 4,
+        "num_steps": 2,
+        "ingredient_text": "toasted wheat germ ½ peanut butter ½ honey nonfat dry milk powder",
+        "directions_text": "combine wheat germ, peanut butter, honey, and milk powder in a bowl; shape into 20 bite-sized balls. arrange balls on a plate. place in the freezer until solid, at least 1 hour.",
+        "combined_text": "peanut butter energy balls energy balls energy balls 1 cup toasted wheat germ ½ cup peanut butter ½ cup honey 2 tablespoons nonfat dry milk powder combine wheat germ, peanut butter, honey, and milk powder in a bowl; shape into 20 bite-sized balls. arrange balls on a plate. place in the freezer until solid, at least 1 hour.",
+        "ingredients_raw": [
+            "1 cup toasted wheat germ",
+            "½ cup peanut butter",
+            "½ cup honey",
+            "2 tablespoons nonfat dry milk powder"
+        ],
+        "directions_raw": [
+            "Combine wheat germ, peanut butter, honey, and milk powder in a bowl; shape into 20 bite-sized balls. Arrange balls on a plate.",
+            "Place in the freezer until solid, at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "toasted wheat germ",
+            "½ peanut butter",
+            "½ honey",
+            "nonfat dry milk powder"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "unknown"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 2,
+        "cook_speed": "medium",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 16,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 58,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "5-Ingredient Keto and Vegan Chocolate Almond Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These no-bake vegan and keto energy bites are made with only five ingredients, and are so simple even the kids can make them! These are ideal for a snack on the go or after a great workout.",
+        "ingredients": [
+            "½ cup almond flour",
+            "½ cup almond butter",
+            "½ teaspoon vanilla extract",
+            "½ cup vegan chocolate chips",
+            "2 tablespoons chopped almonds"
+        ],
+        "directions": [
+            "Line a baking sheet with parchment paper.",
+            "Combine almond flour, almond butter, and vanilla extract in a bowl; mix until well combined and a soft dough is formed. Shape dough into 1/2-inch balls and place on the prepared baking sheet. Freeze until set, about 20 minutes.",
+            "Melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each interval, 1 to 3 minutes. Dip cookie balls in the melted chocolate and place on the prepared baking sheet. Sprinkle with chopped almonds and let sit until chocolate is set, about 10 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 3,
+        "ingredient_text": "½ almond flour ½ almond butter ½ vanilla extract ½ vegan chocolate chips chopped almonds",
+        "directions_text": "line a baking sheet with parchment paper. combine almond flour, almond butter, and vanilla extract in a bowl; mix until well combined and a soft dough is formed. shape dough into 1/2-inch balls and place on the prepared baking sheet. freeze until set, about 20 minutes. melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each interval, 1 to 3 minutes. dip cookie balls in the melted chocolate and place on the prepared baking sheet. sprinkle with chopped almonds and let sit until chocolate is set, about 10 minutes.",
+        "combined_text": "5-ingredient keto and vegan chocolate almond balls energy balls energy balls ½ cup almond flour ½ cup almond butter ½ teaspoon vanilla extract ½ cup vegan chocolate chips 2 tablespoons chopped almonds line a baking sheet with parchment paper. combine almond flour, almond butter, and vanilla extract in a bowl; mix until well combined and a soft dough is formed. shape dough into 1/2-inch balls and place on the prepared baking sheet. freeze until set, about 20 minutes. melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each interval, 1 to 3 minutes. dip cookie balls in the melted chocolate and place on the prepared baking sheet. sprinkle with chopped almonds and let sit until chocolate is set, about 10 minutes.",
+        "ingredients_raw": [
+            "½ cup almond flour",
+            "½ cup almond butter",
+            "½ teaspoon vanilla extract",
+            "½ cup vegan chocolate chips",
+            "2 tablespoons chopped almonds"
+        ],
+        "directions_raw": [
+            "Line a baking sheet with parchment paper.",
+            "Combine almond flour, almond butter, and vanilla extract in a bowl; mix until well combined and a soft dough is formed. Shape dough into 1/2-inch balls and place on the prepared baking sheet. Freeze until set, about 20 minutes.",
+            "Melt chocolate chips in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each interval, 1 to 3 minutes. Dip cookie balls in the melted chocolate and place on the prepared baking sheet. Sprinkle with chopped almonds and let sit until chocolate is set, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ almond flour",
+            "½ almond butter",
+            "½ vanilla extract",
+            "½ vegan chocolate chips",
+            "chopped almonds"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 4,
+        "slow_hits": 0,
+        "medium_hits": 3,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 24,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Peanut Butter Protein Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Hand-rolled, no-bake protein balls.",
+        "ingredients": [
+            "⅔ cup milk",
+            "½ cup peanut butter",
+            "½ cup oats",
+            "¼ cup chocolate chips, or to taste",
+            "2 scoops protein powder",
+            "½ teaspoon ground cinnamon"
+        ],
+        "directions": [
+            "Combine milk, peanut butter, oats, chocolate chips, protein powder, and cinnamon in a medium mixing bowl and mix.",
+            "Scoop and shape into balls using a spoon. Place into a freezer bag and store in the freezer."
+        ],
+        "num_ingredients": 6,
+        "num_steps": 2,
+        "ingredient_text": "⅔ milk ½ peanut butter ½ oats ¼ chocolate chips taste scoops protein powder ½ ground cinnamon",
+        "directions_text": "combine milk, peanut butter, oats, chocolate chips, protein powder, and cinnamon in a medium mixing bowl and mix. scoop and shape into balls using a spoon. place into a freezer bag and store in the freezer.",
+        "combined_text": "peanut butter protein balls energy balls energy balls ⅔ cup milk ½ cup peanut butter ½ cup oats ¼ cup chocolate chips, or to taste 2 scoops protein powder ½ teaspoon ground cinnamon combine milk, peanut butter, oats, chocolate chips, protein powder, and cinnamon in a medium mixing bowl and mix. scoop and shape into balls using a spoon. place into a freezer bag and store in the freezer.",
+        "ingredients_raw": [
+            "⅔ cup milk",
+            "½ cup peanut butter",
+            "½ cup oats",
+            "¼ cup chocolate chips, or to taste",
+            "2 scoops protein powder",
+            "½ teaspoon ground cinnamon"
+        ],
+        "directions_raw": [
+            "Combine milk, peanut butter, oats, chocolate chips, protein powder, and cinnamon in a medium mixing bowl and mix.",
+            "Scoop and shape into balls using a spoon. Place into a freezer bag and store in the freezer."
+        ],
+        "ingredients_canonical": [
+            "⅔ milk",
+            "½ peanut butter",
+            "½ oats",
+            "¼ chocolate chips taste",
+            "scoops protein powder",
+            "½ ground cinnamon"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 11,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Sesame Date Rolls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "This recipe for sesame date rolls has a hint of spice and sesame seeds. They make a great grab-and-go snack, and they taste even better the next day!",
+        "ingredients": [
+            "8 ounces chopped dried dates",
+            "hot water as needed",
+            "½ cup whole raw almonds",
+            "½ cup unsweetened shredded coconut",
+            "¼ cup chopped walnuts",
+            "¼ cup toasted sesame seeds, divided",
+            "1 tablespoon coconut oil",
+            "1 teaspoon vanilla extract",
+            "¾ teaspoon ground cardamom",
+            "¼ teaspoon ground cinnamon",
+            "1 pinch salt"
+        ],
+        "directions": [
+            "Place dates in a small bowl; completely cover with hot water. Soak until softened, 10 to 15 minutes. Drain; reserve soaking liquid.",
+            "Combine soaked dates, almonds, coconut, walnuts, 2 tablespoons toasted sesame seeds, coconut oil, vanilla, cardamom, cinnamon, and salt in the bowl of a large food processor; pulse several times until mixture forms a soft \"dough,\" scraping down the sides of the bowl as needed. If mixture is too dry, add reserved soaking liquid, 1 tablespoon at a time, until desired consistency is reached.",
+            "Turn dough out onto a piece of parchment paper; roll into a 10-inch-long by 1 1/2-inch-wide log using lightly greased hands. Sprinkle remaining 2 tablespoons toasted sesame seeds evenly on all sides of dough log, pressing them in gently. Wrap log in parchment paper; refrigerate until firm, at least 1 to 2 hours.",
+            "Cut log into about sixteen 1/2-inch-thick rounds. Serve immediately or store in the refrigerator until ready to eat."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "ounces chopped dried dates hot water as needed ½ whole raw almonds ½ unsweetened shredded coconut ¼ chopped walnuts ¼ toasted sesame seeds divided coconut oil vanilla extract ¾ ground cardamom ¼ ground cinnamon pinch salt",
+        "directions_text": "place dates in a small bowl; completely cover with hot water. soak until softened, 10 to 15 minutes. drain; reserve soaking liquid. combine soaked dates, almonds, coconut, walnuts, 2 tablespoons toasted sesame seeds, coconut oil, vanilla, cardamom, cinnamon, and salt in the bowl of a large food processor; pulse several times until mixture forms a soft \"dough,\" scraping down the sides of the bowl as needed. if mixture is too dry, add reserved soaking liquid, 1 tablespoon at a time, until desired consistency is reached. turn dough out onto a piece of parchment paper; roll into a 10-inch-long by 1 1/2-inch-wide log using lightly greased hands. sprinkle remaining 2 tablespoons toasted sesame seeds evenly on all sides of dough log, pressing them in gently. wrap log in parchment paper; refrigerate until firm, at least 1 to 2 hours. cut log into about sixteen 1/2-inch-thick rounds. serve immediately or store in the refrigerator until ready to eat.",
+        "combined_text": "sesame date rolls energy balls energy balls 8 ounces chopped dried dates hot water as needed ½ cup whole raw almonds ½ cup unsweetened shredded coconut ¼ cup chopped walnuts ¼ cup toasted sesame seeds, divided 1 tablespoon coconut oil 1 teaspoon vanilla extract ¾ teaspoon ground cardamom ¼ teaspoon ground cinnamon 1 pinch salt place dates in a small bowl; completely cover with hot water. soak until softened, 10 to 15 minutes. drain; reserve soaking liquid. combine soaked dates, almonds, coconut, walnuts, 2 tablespoons toasted sesame seeds, coconut oil, vanilla, cardamom, cinnamon, and salt in the bowl of a large food processor; pulse several times until mixture forms a soft \"dough,\" scraping down the sides of the bowl as needed. if mixture is too dry, add reserved soaking liquid, 1 tablespoon at a time, until desired consistency is reached. turn dough out onto a piece of parchment paper; roll into a 10-inch-long by 1 1/2-inch-wide log using lightly greased hands. sprinkle remaining 2 tablespoons toasted sesame seeds evenly on all sides of dough log, pressing them in gently. wrap log in parchment paper; refrigerate until firm, at least 1 to 2 hours. cut log into about sixteen 1/2-inch-thick rounds. serve immediately or store in the refrigerator until ready to eat.",
+        "ingredients_raw": [
+            "8 ounces chopped dried dates",
+            "hot water as needed",
+            "½ cup whole raw almonds",
+            "½ cup unsweetened shredded coconut",
+            "¼ cup chopped walnuts",
+            "¼ cup toasted sesame seeds, divided",
+            "1 tablespoon coconut oil",
+            "1 teaspoon vanilla extract",
+            "¾ teaspoon ground cardamom",
+            "¼ teaspoon ground cinnamon",
+            "1 pinch salt"
+        ],
+        "directions_raw": [
+            "Place dates in a small bowl; completely cover with hot water. Soak until softened, 10 to 15 minutes. Drain; reserve soaking liquid.",
+            "Combine soaked dates, almonds, coconut, walnuts, 2 tablespoons toasted sesame seeds, coconut oil, vanilla, cardamom, cinnamon, and salt in the bowl of a large food processor; pulse several times until mixture forms a soft \"dough,\" scraping down the sides of the bowl as needed. If mixture is too dry, add reserved soaking liquid, 1 tablespoon at a time, until desired consistency is reached.",
+            "Turn dough out onto a piece of parchment paper; roll into a 10-inch-long by 1 1/2-inch-wide log using lightly greased hands. Sprinkle remaining 2 tablespoons toasted sesame seeds evenly on all sides of dough log, pressing them in gently. Wrap log in parchment paper; refrigerate until firm, at least 1 to 2 hours.",
+            "Cut log into about sixteen 1/2-inch-thick rounds. Serve immediately or store in the refrigerator until ready to eat."
+        ],
+        "ingredients_canonical": [
+            "ounces chopped dried dates",
+            "hot water as needed",
+            "½ whole raw almonds",
+            "½ unsweetened shredded coconut",
+            "¼ chopped walnuts",
+            "¼ toasted sesame seeds divided",
+            "coconut oil",
+            "vanilla extract",
+            "¾ ground cardamom",
+            "¼ ground cinnamon",
+            "pinch salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "indian",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 5,
+        "slow_hits": 3,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 58,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Gluten-Free Fried Oatmeal Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Delicious treat! Healthy dessert alternative!",
+        "ingredients": [
+            "1 ½ cups water",
+            "½ cup almond milk",
+            "1 cup quick-cooking oats",
+            "¼ cup cane sugar",
+            "1 pinch Himalayan pink salt",
+            "1 large egg",
+            "½ cup gluten-free all purpose baking flour",
+            "¼ cup olive oil, or as needed"
+        ],
+        "directions": [
+            "Bring water to a boil in a pot; reduce heat to low. Add almond milk and stir in oats. Add sugar, stirring vigorously. Stir in salt. Continue to simmer until oats have reached your desired consistency, 3 to 5 minutes. Remove from heat and let cool, 15 to 20 minutes.",
+            "Transfer oats to a lidded container, cover, and chill in a refrigerator, 30 minutes to 2 hours.",
+            "Whisk egg in a small bowl. Place gluten-free flour in a separate bowl.",
+            "Scoop chilled oatmeal into medium-size balls.",
+            "Heat oil in a skillet over medium-high heat.",
+            "Place oatmeal balls into egg wash until completely covered. Place in flour; cover entirely. Use a slotted spoon to remove floured oatmeal balls; shake off excess flour.",
+            "Place oatmeal balls into the hot oil and cook until golden brown, 3 to 4 minutes on each side."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 7,
+        "ingredient_text": "½ water ½ almond milk quick-cooking oats ¼ cane sugar pinch himalayan pink salt large egg ½ gluten-free all purpose baking flour ¼ olive oil as needed",
+        "directions_text": "bring water to a boil in a pot; reduce heat to low. add almond milk and stir in oats. add sugar, stirring vigorously. stir in salt. continue to simmer until oats have reached your desired consistency, 3 to 5 minutes. remove from heat and let cool, 15 to 20 minutes. transfer oats to a lidded container, cover, and chill in a refrigerator, 30 minutes to 2 hours. whisk egg in a small bowl. place gluten-free flour in a separate bowl. scoop chilled oatmeal into medium-size balls. heat oil in a skillet over medium-high heat. place oatmeal balls into egg wash until completely covered. place in flour; cover entirely. use a slotted spoon to remove floured oatmeal balls; shake off excess flour. place oatmeal balls into the hot oil and cook until golden brown, 3 to 4 minutes on each side.",
+        "combined_text": "gluten-free fried oatmeal bites energy balls energy balls 1 ½ cups water ½ cup almond milk 1 cup quick-cooking oats ¼ cup cane sugar 1 pinch himalayan pink salt 1 large egg ½ cup gluten-free all purpose baking flour ¼ cup olive oil, or as needed bring water to a boil in a pot; reduce heat to low. add almond milk and stir in oats. add sugar, stirring vigorously. stir in salt. continue to simmer until oats have reached your desired consistency, 3 to 5 minutes. remove from heat and let cool, 15 to 20 minutes. transfer oats to a lidded container, cover, and chill in a refrigerator, 30 minutes to 2 hours. whisk egg in a small bowl. place gluten-free flour in a separate bowl. scoop chilled oatmeal into medium-size balls. heat oil in a skillet over medium-high heat. place oatmeal balls into egg wash until completely covered. place in flour; cover entirely. use a slotted spoon to remove floured oatmeal balls; shake off excess flour. place oatmeal balls into the hot oil and cook until golden brown, 3 to 4 minutes on each side.",
+        "ingredients_raw": [
+            "1 ½ cups water",
+            "½ cup almond milk",
+            "1 cup quick-cooking oats",
+            "¼ cup cane sugar",
+            "1 pinch Himalayan pink salt",
+            "1 large egg",
+            "½ cup gluten-free all purpose baking flour",
+            "¼ cup olive oil, or as needed"
+        ],
+        "directions_raw": [
+            "Bring water to a boil in a pot; reduce heat to low. Add almond milk and stir in oats. Add sugar, stirring vigorously. Stir in salt. Continue to simmer until oats have reached your desired consistency, 3 to 5 minutes. Remove from heat and let cool, 15 to 20 minutes.",
+            "Transfer oats to a lidded container, cover, and chill in a refrigerator, 30 minutes to 2 hours.",
+            "Whisk egg in a small bowl. Place gluten-free flour in a separate bowl.",
+            "Scoop chilled oatmeal into medium-size balls.",
+            "Heat oil in a skillet over medium-high heat.",
+            "Place oatmeal balls into egg wash until completely covered. Place in flour; cover entirely. Use a slotted spoon to remove floured oatmeal balls; shake off excess flour.",
+            "Place oatmeal balls into the hot oil and cook until golden brown, 3 to 4 minutes on each side."
+        ],
+        "ingredients_canonical": [
+            "½ water",
+            "½ almond milk",
+            "quick-cooking oats",
+            "¼ cane sugar",
+            "pinch himalayan pink salt",
+            "large egg",
+            "½ gluten-free all purpose baking flour",
+            "¼ olive oil as needed"
+        ],
+        "cuisine_list": [
+            "european",
+            "greek",
+            "mediterranean",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 3,
+        "medium_hits": 9,
+        "cook_speed": "medium",
+        "est_prep_time_min": 24,
+        "est_cook_time_min": 102,
+        "difficulty": "hard",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 64,
+        "health_flags": [
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Zucchini Chocolate Oatmeal Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Zucchini chocolate oatmeal bites make a stunning homemade snack. Made with shredded zucchini, oats, and nut butter, this no-bake, gluten free, low-calorie bite recipe will soon be your new easy go-to summer snack!",
+        "ingredients": [
+            "1 ¼ cups gluten-free oats",
+            "½ cup almond butter",
+            "½ cup coarsely shredded zucchini",
+            "¼ cup dairy-free mini chocolate chips",
+            "3 tablespoons honey",
+            "3 tablespoons flaxseed meal",
+            "¼ teaspoon ground cinnamon"
+        ],
+        "directions": [
+            "Combine oats, almond butter, zucchini, chocolate chips, honey, flaxseed meal, and ground cinnamon in a large bowl.",
+            "Roll mixture into 18 bite-sized balls; arrange in a storage container and refrigerate until set, about 1 hour."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 2,
+        "ingredient_text": "¼ gluten-free oats ½ almond butter ½ coarsely shredded zucchini ¼ dairy-free mini chocolate chips honey flaxseed meal ¼ ground cinnamon",
+        "directions_text": "combine oats, almond butter, zucchini, chocolate chips, honey, flaxseed meal, and ground cinnamon in a large bowl. roll mixture into 18 bite-sized balls; arrange in a storage container and refrigerate until set, about 1 hour.",
+        "combined_text": "zucchini chocolate oatmeal bites energy balls energy balls 1 ¼ cups gluten-free oats ½ cup almond butter ½ cup coarsely shredded zucchini ¼ cup dairy-free mini chocolate chips 3 tablespoons honey 3 tablespoons flaxseed meal ¼ teaspoon ground cinnamon combine oats, almond butter, zucchini, chocolate chips, honey, flaxseed meal, and ground cinnamon in a large bowl. roll mixture into 18 bite-sized balls; arrange in a storage container and refrigerate until set, about 1 hour.",
+        "ingredients_raw": [
+            "1 ¼ cups gluten-free oats",
+            "½ cup almond butter",
+            "½ cup coarsely shredded zucchini",
+            "¼ cup dairy-free mini chocolate chips",
+            "3 tablespoons honey",
+            "3 tablespoons flaxseed meal",
+            "¼ teaspoon ground cinnamon"
+        ],
+        "directions_raw": [
+            "Combine oats, almond butter, zucchini, chocolate chips, honey, flaxseed meal, and ground cinnamon in a large bowl.",
+            "Roll mixture into 18 bite-sized balls; arrange in a storage container and refrigerate until set, about 1 hour."
+        ],
+        "ingredients_canonical": [
+            "¼ gluten-free oats",
+            "½ almond butter",
+            "½ coarsely shredded zucchini",
+            "¼ dairy-free mini chocolate chips",
+            "honey",
+            "flaxseed meal",
+            "¼ ground cinnamon"
+        ],
+        "cuisine_list": [
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "dessert",
+            "breakfast",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 10,
+        "est_cook_time_min": 23,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Vegan Keto Lemon Fat Bombs",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Make these tasty vegan fat bombs, made with lemon zest and coconut, ahead for a quick energy snack, and also for keto and raw diets!",
+        "ingredients": [
+            "1 cup dry unsweetened shredded coconut",
+            "¼ cup coconut oil, at room temperature",
+            "3 tablespoons powdered erythritol sweetener (such as Swerve®)",
+            "2 tablespoons lemon zest",
+            "1 pinch sea salt"
+        ],
+        "directions": [
+            "Blend shredded coconut in a food processor until creamy, about 15 minutes. Add coconut oil, erythritol, lemon zest, and sea salt; blend until well combined. Fill mini muffin cups with mixture and chill in the fridge until set, about 30 minutes."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "dry unsweetened shredded coconut ¼ coconut oil at room temperature powdered erythritol sweetener such as swerve lemon zest pinch sea salt",
+        "directions_text": "blend shredded coconut in a food processor until creamy, about 15 minutes. add coconut oil, erythritol, lemon zest, and sea salt; blend until well combined. fill mini muffin cups with mixture and chill in the fridge until set, about 30 minutes.",
+        "combined_text": "vegan keto lemon fat bombs energy balls energy balls 1 cup dry unsweetened shredded coconut ¼ cup coconut oil, at room temperature 3 tablespoons powdered erythritol sweetener (such as swerve®) 2 tablespoons lemon zest 1 pinch sea salt blend shredded coconut in a food processor until creamy, about 15 minutes. add coconut oil, erythritol, lemon zest, and sea salt; blend until well combined. fill mini muffin cups with mixture and chill in the fridge until set, about 30 minutes.",
+        "ingredients_raw": [
+            "1 cup dry unsweetened shredded coconut",
+            "¼ cup coconut oil, at room temperature",
+            "3 tablespoons powdered erythritol sweetener (such as Swerve®)",
+            "2 tablespoons lemon zest",
+            "1 pinch sea salt"
+        ],
+        "directions_raw": [
+            "Blend shredded coconut in a food processor until creamy, about 15 minutes. Add coconut oil, erythritol, lemon zest, and sea salt; blend until well combined. Fill mini muffin cups with mixture and chill in the fridge until set, about 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "dry unsweetened shredded coconut",
+            "¼ coconut oil at room temperature",
+            "powdered erythritol sweetener such as swerve",
+            "lemon zest",
+            "pinch sea salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "greek",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "breakfast"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 56,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Carrot Cake Freezer Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These freezer energy balls are sweetened with peanut butter and honey.",
+        "ingredients": [
+            "1 cup finely shredded carrots",
+            "½ cup quick-cooking steel-cut oats",
+            "¼ cup flax seed meal",
+            "¼ cup peanut butter",
+            "3 tablespoons honey",
+            "2 tablespoons chopped walnuts",
+            "2 tablespoons chopped raisins",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon ground ginger",
+            "⅛ teaspoon salt"
+        ],
+        "directions": [
+            "Line a baking sheet with parchment paper and set aside.",
+            "Combine carrots, oats, flax meal, peanut butter, honey, walnuts, raisins, vanilla, cinnamon, ginger, and salt in a bowl. Beat with a hand mixer until well combined.",
+            "Roll mixture into 12 equal-sized balls and place on the baking sheet. Freeze until they hold their shape, at least 1 hour. Transfer to a freezer-safe container and store in the freezer."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 3,
+        "ingredient_text": "finely shredded carrots ½ quick-cooking steel-cut oats ¼ flax seed meal ¼ peanut butter honey chopped walnuts chopped raisins vanilla extract ½ ground cinnamon ½ ground ginger ⅛ salt",
+        "directions_text": "line a baking sheet with parchment paper and set aside. combine carrots, oats, flax meal, peanut butter, honey, walnuts, raisins, vanilla, cinnamon, ginger, and salt in a bowl. beat with a hand mixer until well combined. roll mixture into 12 equal-sized balls and place on the baking sheet. freeze until they hold their shape, at least 1 hour. transfer to a freezer-safe container and store in the freezer.",
+        "combined_text": "carrot cake freezer energy balls energy balls energy balls 1 cup finely shredded carrots ½ cup quick-cooking steel-cut oats ¼ cup flax seed meal ¼ cup peanut butter 3 tablespoons honey 2 tablespoons chopped walnuts 2 tablespoons chopped raisins 1 teaspoon vanilla extract ½ teaspoon ground cinnamon ½ teaspoon ground ginger ⅛ teaspoon salt line a baking sheet with parchment paper and set aside. combine carrots, oats, flax meal, peanut butter, honey, walnuts, raisins, vanilla, cinnamon, ginger, and salt in a bowl. beat with a hand mixer until well combined. roll mixture into 12 equal-sized balls and place on the baking sheet. freeze until they hold their shape, at least 1 hour. transfer to a freezer-safe container and store in the freezer.",
+        "ingredients_raw": [
+            "1 cup finely shredded carrots",
+            "½ cup quick-cooking steel-cut oats",
+            "¼ cup flax seed meal",
+            "¼ cup peanut butter",
+            "3 tablespoons honey",
+            "2 tablespoons chopped walnuts",
+            "2 tablespoons chopped raisins",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon ground ginger",
+            "⅛ teaspoon salt"
+        ],
+        "directions_raw": [
+            "Line a baking sheet with parchment paper and set aside.",
+            "Combine carrots, oats, flax meal, peanut butter, honey, walnuts, raisins, vanilla, cinnamon, ginger, and salt in a bowl. Beat with a hand mixer until well combined.",
+            "Roll mixture into 12 equal-sized balls and place on the baking sheet. Freeze until they hold their shape, at least 1 hour. Transfer to a freezer-safe container and store in the freezer."
+        ],
+        "ingredients_canonical": [
+            "finely shredded carrots",
+            "½ quick-cooking steel-cut oats",
+            "¼ flax seed meal",
+            "¼ peanut butter",
+            "honey",
+            "chopped walnuts",
+            "chopped raisins",
+            "vanilla extract",
+            "½ ground cinnamon",
+            "½ ground ginger",
+            "⅛ salt"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "chinese",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 14,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Pumpkin-Almond-Date Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Festively fall flavor in these nutty date balls! Best eaten within a week.",
+        "ingredients": [
+            "22 Medjool dates, pitted",
+            "⅔ cup finely chopped almonds, divided",
+            "½ cup shredded unsweetened coconut",
+            "⅓ cup pumpkin puree",
+            "⅓ cup unsweetened cocoa powder",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon pumpkin pie spice",
+            "1 pinch salt"
+        ],
+        "directions": [
+            "Combine dates, 1/3 cup almonds, coconut, pumpkin puree, cocoa powder, vanilla extract, pumpkin pie spice, and salt in a food processor. Blend until well combined. Roll spoonfuls of mixture into balls between your palms; place on a parchment-paper-lined baking sheet.",
+            "Place remaining 1/3 cup almonds on a plate. Roll balls in the almonds until coated. Cover with plastic wrap and refrigerate until set, at least 1 hour."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "medjool dates pitted ⅔ finely chopped almonds divided ½ shredded unsweetened coconut ⅓ pumpkin puree ⅓ unsweetened cocoa powder vanilla extract pumpkin pie spice pinch salt",
+        "directions_text": "combine dates, 1/3 cup almonds, coconut, pumpkin puree, cocoa powder, vanilla extract, pumpkin pie spice, and salt in a food processor. blend until well combined. roll spoonfuls of mixture into balls between your palms; place on a parchment-paper-lined baking sheet. place remaining 1/3 cup almonds on a plate. roll balls in the almonds until coated. cover with plastic wrap and refrigerate until set, at least 1 hour.",
+        "combined_text": "pumpkin-almond-date balls energy balls energy balls 22 medjool dates, pitted ⅔ cup finely chopped almonds, divided ½ cup shredded unsweetened coconut ⅓ cup pumpkin puree ⅓ cup unsweetened cocoa powder 1 teaspoon vanilla extract 1 teaspoon pumpkin pie spice 1 pinch salt combine dates, 1/3 cup almonds, coconut, pumpkin puree, cocoa powder, vanilla extract, pumpkin pie spice, and salt in a food processor. blend until well combined. roll spoonfuls of mixture into balls between your palms; place on a parchment-paper-lined baking sheet. place remaining 1/3 cup almonds on a plate. roll balls in the almonds until coated. cover with plastic wrap and refrigerate until set, at least 1 hour.",
+        "ingredients_raw": [
+            "22 Medjool dates, pitted",
+            "⅔ cup finely chopped almonds, divided",
+            "½ cup shredded unsweetened coconut",
+            "⅓ cup pumpkin puree",
+            "⅓ cup unsweetened cocoa powder",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon pumpkin pie spice",
+            "1 pinch salt"
+        ],
+        "directions_raw": [
+            "Combine dates, 1/3 cup almonds, coconut, pumpkin puree, cocoa powder, vanilla extract, pumpkin pie spice, and salt in a food processor. Blend until well combined. Roll spoonfuls of mixture into balls between your palms; place on a parchment-paper-lined baking sheet.",
+            "Place remaining 1/3 cup almonds on a plate. Roll balls in the almonds until coated. Cover with plastic wrap and refrigerate until set, at least 1 hour."
+        ],
+        "ingredients_canonical": [
+            "medjool dates pitted",
+            "⅔ finely chopped almonds divided",
+            "½ shredded unsweetened coconut",
+            "⅓ pumpkin puree",
+            "⅓ unsweetened cocoa powder",
+            "vanilla extract",
+            "pumpkin pie spice",
+            "pinch salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 4,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 28,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Peanut Butter Energy Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "This no-cook, no-bake, one-bowl snack is a great option for a protein-packed snack on the go.",
+        "ingredients": [
+            "1 cup all-natural peanut butter",
+            "1 cup quick-cooking oats (such as British Class®)",
+            "⅓ cup cocoa nibs",
+            "2 tablespoons honey",
+            "1 teaspoon vanilla extract (such as Cool Runnings®)"
+        ],
+        "directions": [
+            "Combine peanut butter, quick cooking oats, cocoa nubs, honey, and vanilla extract in a bowl. Use a tablespoon to scoop out small portions and roll into balls using your hands."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 1,
+        "ingredient_text": "all-natural peanut butter quick-cooking oats such as british class ⅓ cocoa nibs honey vanilla extract such as cool runnings",
+        "directions_text": "combine peanut butter, quick cooking oats, cocoa nubs, honey, and vanilla extract in a bowl. use a tablespoon to scoop out small portions and roll into balls using your hands.",
+        "combined_text": "peanut butter energy bites energy balls energy balls 1 cup all-natural peanut butter 1 cup quick-cooking oats (such as british class®) ⅓ cup cocoa nibs 2 tablespoons honey 1 teaspoon vanilla extract (such as cool runnings®) combine peanut butter, quick cooking oats, cocoa nubs, honey, and vanilla extract in a bowl. use a tablespoon to scoop out small portions and roll into balls using your hands.",
+        "ingredients_raw": [
+            "1 cup all-natural peanut butter",
+            "1 cup quick-cooking oats (such as British Class®)",
+            "⅓ cup cocoa nibs",
+            "2 tablespoons honey",
+            "1 teaspoon vanilla extract (such as Cool Runnings®)"
+        ],
+        "directions_raw": [
+            "Combine peanut butter, quick cooking oats, cocoa nubs, honey, and vanilla extract in a bowl. Use a tablespoon to scoop out small portions and roll into balls using your hands."
+        ],
+        "ingredients_canonical": [
+            "all-natural peanut butter",
+            "quick-cooking oats such as british class",
+            "⅓ cocoa nibs",
+            "honey",
+            "vanilla extract such as cool runnings"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 1,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 7,
+        "est_cook_time_min": 3,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Whey Protein Energy Bars",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These German chocolate protein bars are filled with chocolate and coconut flavors for a gluten-free, refined sugar-free, and protein-packed treat. They are healthier and nuttier to satisfy your hunger when you are on the go. Very easy to make and requires no bake.",
+        "ingredients": [
+            "15 dates, pitted and chopped",
+            "1 cup oat flour",
+            "½ cup whey protein powder",
+            "¼ cup unsweetened cocoa powder",
+            "¾ cup chopped pecans, divided",
+            "¾ cup shredded coconut, divided",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "1 tablespoon water, or more as needed",
+            "2 tablespoons semisweet chocolate chips"
+        ],
+        "directions": [
+            "Place dates in a bowl and add boiling water to cover. Let soak for 10 minutes. Strain dates and discard the water.",
+            "Blend oat flour, protein powder, and cocoa powder in a food processor until well combined. Add dates, 1/2 cup pecans, 1/2 cup coconut, vanilla, and salt. Pulse to combine, adding water as needed, to get a soft dough consistency.",
+            "Transfer dough to a bowl. Add remaining pecans, remaining coconut, and chocolate chips; mix well.",
+            "Scrape dough onto a piece of parchment paper and place another piece of parchment paper on top. Toll bars out to about 1/2-inch thick. Refrigerate until firm, 2 to 3 hours.",
+            "Slice into 12 bars and serve."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 5,
+        "ingredient_text": "dates pitted chopped oat flour ½ whey protein powder ¼ unsweetened cocoa powder ¾ chopped pecans divided ¾ shredded coconut divided vanilla extract ½ salt water more as needed semisweet chocolate chips",
+        "directions_text": "place dates in a bowl and add boiling water to cover. let soak for 10 minutes. strain dates and discard the water. blend oat flour, protein powder, and cocoa powder in a food processor until well combined. add dates, 1/2 cup pecans, 1/2 cup coconut, vanilla, and salt. pulse to combine, adding water as needed, to get a soft dough consistency. transfer dough to a bowl. add remaining pecans, remaining coconut, and chocolate chips; mix well. scrape dough onto a piece of parchment paper and place another piece of parchment paper on top. toll bars out to about 1/2-inch thick. refrigerate until firm, 2 to 3 hours. slice into 12 bars and serve.",
+        "combined_text": "whey protein energy bars energy balls energy balls 15 dates, pitted and chopped 1 cup oat flour ½ cup whey protein powder ¼ cup unsweetened cocoa powder ¾ cup chopped pecans, divided ¾ cup shredded coconut, divided 1 teaspoon vanilla extract ½ teaspoon salt 1 tablespoon water, or more as needed 2 tablespoons semisweet chocolate chips place dates in a bowl and add boiling water to cover. let soak for 10 minutes. strain dates and discard the water. blend oat flour, protein powder, and cocoa powder in a food processor until well combined. add dates, 1/2 cup pecans, 1/2 cup coconut, vanilla, and salt. pulse to combine, adding water as needed, to get a soft dough consistency. transfer dough to a bowl. add remaining pecans, remaining coconut, and chocolate chips; mix well. scrape dough onto a piece of parchment paper and place another piece of parchment paper on top. toll bars out to about 1/2-inch thick. refrigerate until firm, 2 to 3 hours. slice into 12 bars and serve.",
+        "ingredients_raw": [
+            "15 dates, pitted and chopped",
+            "1 cup oat flour",
+            "½ cup whey protein powder",
+            "¼ cup unsweetened cocoa powder",
+            "¾ cup chopped pecans, divided",
+            "¾ cup shredded coconut, divided",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "1 tablespoon water, or more as needed",
+            "2 tablespoons semisweet chocolate chips"
+        ],
+        "directions_raw": [
+            "Place dates in a bowl and add boiling water to cover. Let soak for 10 minutes. Strain dates and discard the water.",
+            "Blend oat flour, protein powder, and cocoa powder in a food processor until well combined. Add dates, 1/2 cup pecans, 1/2 cup coconut, vanilla, and salt. Pulse to combine, adding water as needed, to get a soft dough consistency.",
+            "Transfer dough to a bowl. Add remaining pecans, remaining coconut, and chocolate chips; mix well.",
+            "Scrape dough onto a piece of parchment paper and place another piece of parchment paper on top. Toll bars out to about 1/2-inch thick. Refrigerate until firm, 2 to 3 hours.",
+            "Slice into 12 bars and serve."
+        ],
+        "ingredients_canonical": [
+            "dates pitted chopped",
+            "oat flour",
+            "½ whey protein powder",
+            "¼ unsweetened cocoa powder",
+            "¾ chopped pecans divided",
+            "¾ shredded coconut divided",
+            "vanilla extract",
+            "½ salt",
+            "water more as needed",
+            "semisweet chocolate chips"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 9,
+        "slow_hits": 2,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 21,
+        "est_cook_time_min": 49,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "vegan",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 52,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate-Cranberry Energy Bars",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "A tasty snack that is easy on the stomach and has a good balance of ingredients to provide energy during athletic activities, training, or events.",
+        "ingredients": [
+            "½ cup raw almonds",
+            "½ cup walnuts",
+            "½ cup pitted dates",
+            "½ cup dried cranberries",
+            "⅛ cup shredded coconut",
+            "3 teaspoons unsweetened cocoa powder",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+            "Pulse almonds and walnuts together in the bowl of a food processor until chopped. Add dates and cranberries, a little at a time, and continue to chop. Add coconut, cocoa, and vanilla extract. Process to desired consistency.",
+            "Roll dough into a 2-inch wide log and cut into ten 3/4-inch thick pucks. Place on the prepared baking sheet.",
+            "Bake in the preheated oven until set, about 10 minutes."
+        ],
+        "num_ingredients": 7,
+        "num_steps": 4,
+        "ingredient_text": "½ raw almonds ½ walnuts ½ pitted dates ½ dried cranberries ⅛ shredded coconut unsweetened cocoa powder vanilla extract",
+        "directions_text": "preheat the oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. pulse almonds and walnuts together in the bowl of a food processor until chopped. add dates and cranberries, a little at a time, and continue to chop. add coconut, cocoa, and vanilla extract. process to desired consistency. roll dough into a 2-inch wide log and cut into ten 3/4-inch thick pucks. place on the prepared baking sheet. bake in the preheated oven until set, about 10 minutes.",
+        "combined_text": "chocolate-cranberry energy bars energy balls energy balls ½ cup raw almonds ½ cup walnuts ½ cup pitted dates ½ cup dried cranberries ⅛ cup shredded coconut 3 teaspoons unsweetened cocoa powder 1 teaspoon vanilla extract preheat the oven to 350 degrees f (175 degrees c). line a baking sheet with parchment paper. pulse almonds and walnuts together in the bowl of a food processor until chopped. add dates and cranberries, a little at a time, and continue to chop. add coconut, cocoa, and vanilla extract. process to desired consistency. roll dough into a 2-inch wide log and cut into ten 3/4-inch thick pucks. place on the prepared baking sheet. bake in the preheated oven until set, about 10 minutes.",
+        "ingredients_raw": [
+            "½ cup raw almonds",
+            "½ cup walnuts",
+            "½ cup pitted dates",
+            "½ cup dried cranberries",
+            "⅛ cup shredded coconut",
+            "3 teaspoons unsweetened cocoa powder",
+            "1 teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+            "Pulse almonds and walnuts together in the bowl of a food processor until chopped. Add dates and cranberries, a little at a time, and continue to chop. Add coconut, cocoa, and vanilla extract. Process to desired consistency.",
+            "Roll dough into a 2-inch wide log and cut into ten 3/4-inch thick pucks. Place on the prepared baking sheet.",
+            "Bake in the preheated oven until set, about 10 minutes."
+        ],
+        "ingredients_canonical": [
+            "½ raw almonds",
+            "½ walnuts",
+            "½ pitted dates",
+            "½ dried cranberries",
+            "⅛ shredded coconut",
+            "unsweetened cocoa powder",
+            "vanilla extract"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 1,
+        "medium_hits": 2,
+        "cook_speed": "fast",
+        "est_prep_time_min": 13,
+        "est_cook_time_min": 34,
+        "difficulty": "medium",
+        "is_vegan": true,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "vegan",
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Carrot Cake No-Bake Energy Bars",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Made with Medjool dates, pineapples, and coconut, these no-bake, carrot cake-flavored energy bars are simple to make in your food processor. Top with additional shredded coconut, dried fruit, or raisins if desired.",
+        "ingredients": [
+            "1 cup whole raw almonds",
+            "10 pitted and chopped Medjool dates",
+            "¾ cup shredded carrots",
+            "½ cup unsweetened shredded coconut",
+            "¼ cup dried pineapple pieces",
+            "1 scoop vanilla protein powder",
+            "1 tablespoon almond butter",
+            "½ teaspoon coconut extract",
+            "½ teaspoon almond extract",
+            "½ teaspoon pumpkin pie spice",
+            "¼ teaspoon ground cinnamon"
+        ],
+        "directions": [
+            "Line a 9-inch square dish with parchment paper.",
+            "Combine almonds, dates, carrots, coconut, pineapple pieces, protein powder, almond butter, coconut extract, almond extract, pumpkin pie spice, and cinnamon in a food processor fitted with the S blade. Attach the lid and pulse, stopping and scraping down the sides as needed, until everything is well combined and a crumbly, yet easily moldable, soft dough forms.",
+            "Transfer dough to the prepared dish and press it down and smooth it out evenly.",
+            "Chill in the refrigerator or freezer for 1 to 2 hours. Cut into 12 bars and either serve immediately or wrap individually to serve later."
+        ],
+        "num_ingredients": 11,
+        "num_steps": 4,
+        "ingredient_text": "whole raw almonds pitted chopped medjool dates ¾ shredded carrots ½ unsweetened shredded coconut ¼ dried pineapple pieces scoop vanilla protein powder almond butter ½ coconut extract ½ almond extract ½ pumpkin pie spice ¼ ground cinnamon",
+        "directions_text": "line a 9-inch square dish with parchment paper. combine almonds, dates, carrots, coconut, pineapple pieces, protein powder, almond butter, coconut extract, almond extract, pumpkin pie spice, and cinnamon in a food processor fitted with the s blade. attach the lid and pulse, stopping and scraping down the sides as needed, until everything is well combined and a crumbly, yet easily moldable, soft dough forms. transfer dough to the prepared dish and press it down and smooth it out evenly. chill in the refrigerator or freezer for 1 to 2 hours. cut into 12 bars and either serve immediately or wrap individually to serve later.",
+        "combined_text": "carrot cake no-bake energy bars energy balls energy balls 1 cup whole raw almonds 10 pitted and chopped medjool dates ¾ cup shredded carrots ½ cup unsweetened shredded coconut ¼ cup dried pineapple pieces 1 scoop vanilla protein powder 1 tablespoon almond butter ½ teaspoon coconut extract ½ teaspoon almond extract ½ teaspoon pumpkin pie spice ¼ teaspoon ground cinnamon line a 9-inch square dish with parchment paper. combine almonds, dates, carrots, coconut, pineapple pieces, protein powder, almond butter, coconut extract, almond extract, pumpkin pie spice, and cinnamon in a food processor fitted with the s blade. attach the lid and pulse, stopping and scraping down the sides as needed, until everything is well combined and a crumbly, yet easily moldable, soft dough forms. transfer dough to the prepared dish and press it down and smooth it out evenly. chill in the refrigerator or freezer for 1 to 2 hours. cut into 12 bars and either serve immediately or wrap individually to serve later.",
+        "ingredients_raw": [
+            "1 cup whole raw almonds",
+            "10 pitted and chopped Medjool dates",
+            "¾ cup shredded carrots",
+            "½ cup unsweetened shredded coconut",
+            "¼ cup dried pineapple pieces",
+            "1 scoop vanilla protein powder",
+            "1 tablespoon almond butter",
+            "½ teaspoon coconut extract",
+            "½ teaspoon almond extract",
+            "½ teaspoon pumpkin pie spice",
+            "¼ teaspoon ground cinnamon"
+        ],
+        "directions_raw": [
+            "Line a 9-inch square dish with parchment paper.",
+            "Combine almonds, dates, carrots, coconut, pineapple pieces, protein powder, almond butter, coconut extract, almond extract, pumpkin pie spice, and cinnamon in a food processor fitted with the S blade. Attach the lid and pulse, stopping and scraping down the sides as needed, until everything is well combined and a crumbly, yet easily moldable, soft dough forms.",
+            "Transfer dough to the prepared dish and press it down and smooth it out evenly.",
+            "Chill in the refrigerator or freezer for 1 to 2 hours. Cut into 12 bars and either serve immediately or wrap individually to serve later."
+        ],
+        "ingredients_canonical": [
+            "whole raw almonds",
+            "pitted chopped medjool dates",
+            "¾ shredded carrots",
+            "½ unsweetened shredded coconut",
+            "¼ dried pineapple pieces",
+            "scoop vanilla protein powder",
+            "almond butter",
+            "½ coconut extract",
+            "½ almond extract",
+            "½ pumpkin pie spice",
+            "¼ ground cinnamon"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "main"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 20,
+        "est_cook_time_min": 29,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 70,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "No-Bake Cranberry-Pecan Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "No-bake, perfect size snack for pick-me-up between meals or after a workout.",
+        "ingredients": [
+            "1 cup old-fashioned rolled oats",
+            "½ cup almond flour",
+            "⅓ cup dark chocolate chips",
+            "1 tablespoon ground flax seed",
+            "1 tablespoon ground chia seeds",
+            "½ cup dried cranberries",
+            "½ cup chopped pecans",
+            "½ cup creamy peanut butter",
+            "½ cup honey",
+            "½ teaspoon vanilla extract"
+        ],
+        "directions": [
+            "Mix oats, almond flour, chocolate chips, flax seed, and chia seeds together in a large bowl. Add cranberries, pecans, peanut butter, honey, and vanilla and mix with your hands (you may want to wear gloves).",
+            "Roll dough into twenty four 1 1/2-inch balls and place in resealable bags. Store in the refrigerator for up to 4 to 5 days, or freeze until ready to use."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 2,
+        "ingredient_text": "old-fashioned rolled oats ½ almond flour ⅓ dark chocolate chips ground flax seed ground chia seeds ½ dried cranberries ½ chopped pecans ½ creamy peanut butter ½ honey ½ vanilla extract",
+        "directions_text": "mix oats, almond flour, chocolate chips, flax seed, and chia seeds together in a large bowl. add cranberries, pecans, peanut butter, honey, and vanilla and mix with your hands (you may want to wear gloves). roll dough into twenty four 1 1/2-inch balls and place in resealable bags. store in the refrigerator for up to 4 to 5 days, or freeze until ready to use.",
+        "combined_text": "no-bake cranberry-pecan energy balls energy balls energy balls 1 cup old-fashioned rolled oats ½ cup almond flour ⅓ cup dark chocolate chips 1 tablespoon ground flax seed 1 tablespoon ground chia seeds ½ cup dried cranberries ½ cup chopped pecans ½ cup creamy peanut butter ½ cup honey ½ teaspoon vanilla extract mix oats, almond flour, chocolate chips, flax seed, and chia seeds together in a large bowl. add cranberries, pecans, peanut butter, honey, and vanilla and mix with your hands (you may want to wear gloves). roll dough into twenty four 1 1/2-inch balls and place in resealable bags. store in the refrigerator for up to 4 to 5 days, or freeze until ready to use.",
+        "ingredients_raw": [
+            "1 cup old-fashioned rolled oats",
+            "½ cup almond flour",
+            "⅓ cup dark chocolate chips",
+            "1 tablespoon ground flax seed",
+            "1 tablespoon ground chia seeds",
+            "½ cup dried cranberries",
+            "½ cup chopped pecans",
+            "½ cup creamy peanut butter",
+            "½ cup honey",
+            "½ teaspoon vanilla extract"
+        ],
+        "directions_raw": [
+            "Mix oats, almond flour, chocolate chips, flax seed, and chia seeds together in a large bowl. Add cranberries, pecans, peanut butter, honey, and vanilla and mix with your hands (you may want to wear gloves).",
+            "Roll dough into twenty four 1 1/2-inch balls and place in resealable bags. Store in the refrigerator for up to 4 to 5 days, or freeze until ready to use."
+        ],
+        "ingredients_canonical": [
+            "old-fashioned rolled oats",
+            "½ almond flour",
+            "⅓ dark chocolate chips",
+            "ground flax seed",
+            "ground chia seeds",
+            "½ dried cranberries",
+            "½ chopped pecans",
+            "½ creamy peanut butter",
+            "½ honey",
+            "½ vanilla extract"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "main",
+            "dessert",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 15,
+        "est_cook_time_min": 11,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 62,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "T's Peanut Butter Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "I love these as a quick energy snack. I keep them in the refrigerator almost all the time. They are sweet enough to make me feel like I am getting a treat, but they have enough good stuff to help with energy fixes and muscle recovery. Store in the refrigerator.",
+        "ingredients": [
+            "1 (18 ounce) jar crunchy peanut butter",
+            "½ cup coconut oil",
+            "2 tablespoons agave nectar",
+            "1 teaspoon Celtic sea salt",
+            "1 cup flax seed meal",
+            "1 cup hempseed",
+            "2 ½ cups rolled oats",
+            "2 (12 ounce) bags dark chocolate chips (such as Ghirardelli®)",
+            "1 cup pecan pieces"
+        ],
+        "directions": [
+            "Beat peanut butter in a bowl of a stand mixer on low speed until creamy. Add coconut oil, agave nectar, sea salt, flax seed, hempseed, rolled oats, dark chocolate chips, and pecan pieces respectively, beating dough well after each addition.",
+            "Scoop dough into smalls balls onto a plate. Chill in the refrigerator until set, at least 30 minutes."
+        ],
+        "num_ingredients": 9,
+        "num_steps": 2,
+        "ingredient_text": "ounce jar crunchy peanut butter ½ coconut oil agave nectar celtic sea salt flax seed meal hempseed ½ rolled oats ounce bags dark chocolate chips such as ghirardelli pecan pieces",
+        "directions_text": "beat peanut butter in a bowl of a stand mixer on low speed until creamy. add coconut oil, agave nectar, sea salt, flax seed, hempseed, rolled oats, dark chocolate chips, and pecan pieces respectively, beating dough well after each addition. scoop dough into smalls balls onto a plate. chill in the refrigerator until set, at least 30 minutes.",
+        "combined_text": "t's peanut butter balls energy balls energy balls 1 (18 ounce) jar crunchy peanut butter ½ cup coconut oil 2 tablespoons agave nectar 1 teaspoon celtic sea salt 1 cup flax seed meal 1 cup hempseed 2 ½ cups rolled oats 2 (12 ounce) bags dark chocolate chips (such as ghirardelli®) 1 cup pecan pieces beat peanut butter in a bowl of a stand mixer on low speed until creamy. add coconut oil, agave nectar, sea salt, flax seed, hempseed, rolled oats, dark chocolate chips, and pecan pieces respectively, beating dough well after each addition. scoop dough into smalls balls onto a plate. chill in the refrigerator until set, at least 30 minutes.",
+        "ingredients_raw": [
+            "1 (18 ounce) jar crunchy peanut butter",
+            "½ cup coconut oil",
+            "2 tablespoons agave nectar",
+            "1 teaspoon Celtic sea salt",
+            "1 cup flax seed meal",
+            "1 cup hempseed",
+            "2 ½ cups rolled oats",
+            "2 (12 ounce) bags dark chocolate chips (such as Ghirardelli®)",
+            "1 cup pecan pieces"
+        ],
+        "directions_raw": [
+            "Beat peanut butter in a bowl of a stand mixer on low speed until creamy. Add coconut oil, agave nectar, sea salt, flax seed, hempseed, rolled oats, dark chocolate chips, and pecan pieces respectively, beating dough well after each addition.",
+            "Scoop dough into smalls balls onto a plate. Chill in the refrigerator until set, at least 30 minutes."
+        ],
+        "ingredients_canonical": [
+            "ounce jar crunchy peanut butter",
+            "½ coconut oil",
+            "agave nectar",
+            "celtic sea salt",
+            "flax seed meal",
+            "hempseed",
+            "½ rolled oats",
+            "ounce bags dark chocolate chips such as ghirardelli",
+            "pecan pieces"
+        ],
+        "cuisine_list": [
+            "african",
+            "american_region",
+            "asian",
+            "caribbean",
+            "european",
+            "french",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "snack"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 12,
+        "est_cook_time_min": 6,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "whole_grains",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Black Garlic Chocolate Protein Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "Black garlic is naturally sweet and pairs perfectly with chocolate.",
+        "ingredients": [
+            "½ cup roasted honey peanut butter (such as Skippy®)",
+            "½ cup chocolate protein powder",
+            "2 solo black garlic bulbs",
+            "2 tablespoons Neufchatel cheese, softened",
+            "2 tablespoons sanding sugar, or as needed"
+        ],
+        "directions": [
+            "Combine peanut butter, protein powder, black garlic, and Neufchatel cheese in a mini food processor. Pulse until well combined.",
+            "Roll mixture into sixteen 1-inch balls. Roll in sanding sugar. Serve immediately or store in an airtight container in the refrigerator."
+        ],
+        "num_ingredients": 5,
+        "num_steps": 2,
+        "ingredient_text": "½ roasted honey peanut butter such as skippy ½ chocolate protein powder solo black garlic bulbs neufchatel cheese softened sanding sugar as needed",
+        "directions_text": "combine peanut butter, protein powder, black garlic, and neufchatel cheese in a mini food processor. pulse until well combined. roll mixture into sixteen 1-inch balls. roll in sanding sugar. serve immediately or store in an airtight container in the refrigerator.",
+        "combined_text": "black garlic chocolate protein bites energy balls energy balls ½ cup roasted honey peanut butter (such as skippy®) ½ cup chocolate protein powder 2 solo black garlic bulbs 2 tablespoons neufchatel cheese, softened 2 tablespoons sanding sugar, or as needed combine peanut butter, protein powder, black garlic, and neufchatel cheese in a mini food processor. pulse until well combined. roll mixture into sixteen 1-inch balls. roll in sanding sugar. serve immediately or store in an airtight container in the refrigerator.",
+        "ingredients_raw": [
+            "½ cup roasted honey peanut butter (such as Skippy®)",
+            "½ cup chocolate protein powder",
+            "2 solo black garlic bulbs",
+            "2 tablespoons Neufchatel cheese, softened",
+            "2 tablespoons sanding sugar, or as needed"
+        ],
+        "directions_raw": [
+            "Combine peanut butter, protein powder, black garlic, and Neufchatel cheese in a mini food processor. Pulse until well combined.",
+            "Roll mixture into sixteen 1-inch balls. Roll in sanding sugar. Serve immediately or store in an airtight container in the refrigerator."
+        ],
+        "ingredients_canonical": [
+            "½ roasted honey peanut butter such as skippy",
+            "½ chocolate protein powder",
+            "solo black garlic bulbs",
+            "neufchatel cheese softened",
+            "sanding sugar as needed"
+        ],
+        "cuisine_list": [
+            "african",
+            "asian",
+            "european",
+            "french",
+            "korean",
+            "thai"
+        ],
+        "course_list": [
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 3,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 8,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 50,
+        "health_flags": [
+            "plant_based",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Carrot Cake Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "No-bake energy bites with all the carrot cake flavor!",
+        "ingredients": [
+            "15 pitted Deglet Noor dates",
+            "5 medium dried apricots",
+            "1 cup chopped carrot",
+            "1 cup chopped walnuts",
+            "⅓ cup unsweetened coconut flakes",
+            "¼ cup toasted almond butter",
+            "2 tablespoons flax seed meal",
+            "1 ½ teaspoons ground cinnamon",
+            "½ teaspoon ground ginger",
+            "¼ teaspoon ground nutmeg",
+            "½ teaspoon vanilla extract",
+            "1 pinch salt"
+        ],
+        "directions": [
+            "Combine dates and apricots in a small measuring cup or bowl. Add enough hot water to cover and allow fruit to soak for 15 minutes to soften.",
+            "Drain dates and apricots and add to the bowl of a food processor. Add carrots, walnuts, coconut flakes, almond butter, flax meal, cinnamon, ginger, nutmeg, vanilla extract, and salt. Pulse, scraping down the sides frequently, until mixture comes together to form a mostly smooth, sticky dough, 5 to 7 minutes.",
+            "Scoop out tablespoon-sized balls of dough using a lightly greased tablespoon measure. Roll into balls with lightly greased hands.",
+            "Place bites into an airtight container and freeze until set, at least 1 hour. Keep stored in the freezer."
+        ],
+        "num_ingredients": 12,
+        "num_steps": 4,
+        "ingredient_text": "pitted deglet noor dates medium dried apricots chopped carrot chopped walnuts ⅓ unsweetened coconut flakes ¼ toasted almond butter flax seed meal ½ ground cinnamon ½ ground ginger ¼ ground nutmeg ½ vanilla extract pinch salt",
+        "directions_text": "combine dates and apricots in a small measuring cup or bowl. add enough hot water to cover and allow fruit to soak for 15 minutes to soften. drain dates and apricots and add to the bowl of a food processor. add carrots, walnuts, coconut flakes, almond butter, flax meal, cinnamon, ginger, nutmeg, vanilla extract, and salt. pulse, scraping down the sides frequently, until mixture comes together to form a mostly smooth, sticky dough, 5 to 7 minutes. scoop out tablespoon-sized balls of dough using a lightly greased tablespoon measure. roll into balls with lightly greased hands. place bites into an airtight container and freeze until set, at least 1 hour. keep stored in the freezer.",
+        "combined_text": "carrot cake bites energy balls energy balls 15 pitted deglet noor dates 5 medium dried apricots 1 cup chopped carrot 1 cup chopped walnuts ⅓ cup unsweetened coconut flakes ¼ cup toasted almond butter 2 tablespoons flax seed meal 1 ½ teaspoons ground cinnamon ½ teaspoon ground ginger ¼ teaspoon ground nutmeg ½ teaspoon vanilla extract 1 pinch salt combine dates and apricots in a small measuring cup or bowl. add enough hot water to cover and allow fruit to soak for 15 minutes to soften. drain dates and apricots and add to the bowl of a food processor. add carrots, walnuts, coconut flakes, almond butter, flax meal, cinnamon, ginger, nutmeg, vanilla extract, and salt. pulse, scraping down the sides frequently, until mixture comes together to form a mostly smooth, sticky dough, 5 to 7 minutes. scoop out tablespoon-sized balls of dough using a lightly greased tablespoon measure. roll into balls with lightly greased hands. place bites into an airtight container and freeze until set, at least 1 hour. keep stored in the freezer.",
+        "ingredients_raw": [
+            "15 pitted Deglet Noor dates",
+            "5 medium dried apricots",
+            "1 cup chopped carrot",
+            "1 cup chopped walnuts",
+            "⅓ cup unsweetened coconut flakes",
+            "¼ cup toasted almond butter",
+            "2 tablespoons flax seed meal",
+            "1 ½ teaspoons ground cinnamon",
+            "½ teaspoon ground ginger",
+            "¼ teaspoon ground nutmeg",
+            "½ teaspoon vanilla extract",
+            "1 pinch salt"
+        ],
+        "directions_raw": [
+            "Combine dates and apricots in a small measuring cup or bowl. Add enough hot water to cover and allow fruit to soak for 15 minutes to soften.",
+            "Drain dates and apricots and add to the bowl of a food processor. Add carrots, walnuts, coconut flakes, almond butter, flax meal, cinnamon, ginger, nutmeg, vanilla extract, and salt. Pulse, scraping down the sides frequently, until mixture comes together to form a mostly smooth, sticky dough, 5 to 7 minutes.",
+            "Scoop out tablespoon-sized balls of dough using a lightly greased tablespoon measure. Roll into balls with lightly greased hands.",
+            "Place bites into an airtight container and freeze until set, at least 1 hour. Keep stored in the freezer."
+        ],
+        "ingredients_canonical": [
+            "pitted deglet noor dates",
+            "medium dried apricots",
+            "chopped carrot",
+            "chopped walnuts",
+            "⅓ unsweetened coconut flakes",
+            "¼ toasted almond butter",
+            "flax seed meal",
+            "½ ground cinnamon",
+            "½ ground ginger",
+            "¼ ground nutmeg",
+            "½ vanilla extract",
+            "pinch salt"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "asian",
+            "caribbean",
+            "chinese",
+            "european",
+            "french",
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "dessert",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "spicy",
+        "fast_hits": 2,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 17,
+        "est_cook_time_min": 17,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 68,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Vegan Energy Balls",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "A fellow yogi has given up chocolate for Lent so I made these without cocoa powder. Even though something isn't legally chocolate unless it has cocoa butter in it, she'd have none of my good eats. I'll show her!",
+        "ingredients": [
+            "2 tablespoons ground almonds",
+            "2 teaspoons ground cinnamon",
+            "¾ cup almond butter",
+            "¼ cup agave syrup",
+            "2 tablespoons hemp protein powder",
+            "2 tablespoons shredded coconut",
+            "1 tablespoon raw coconut sap",
+            "¼ teaspoon ground nutmeg",
+            "2 tablespoons pumpkin seeds",
+            "2 tablespoons flax seeds",
+            "2 tablespoons sesame seeds",
+            "2 tablespoons sunflower seeds",
+            "10 dried apple slices, chopped",
+            "¼ cup finely chopped walnuts"
+        ],
+        "directions": [
+            "Combine ground almonds and cinnamon in a small bowl; set aside.",
+            "Mix almond butter, agave syrup, and protein powder together in a bowl. Add shredded coconut, coconut sap, and nutmeg.",
+            "Combine pumpkin, flax, and sesame seeds in the bowl of a food processor; pulse until blended. Add to almond butter mixture along with sunflower seeds.",
+            "Mince dried apple in the food processor. Add to almond butter mixture along with walnuts. Form into 1-inch balls and roll in the almond-cinnamon mixture to coat.",
+            "Place in the freezer to firm up and store."
+        ],
+        "num_ingredients": 14,
+        "num_steps": 5,
+        "ingredient_text": "ground almonds ground cinnamon ¾ almond butter ¼ agave syrup hemp protein powder shredded coconut raw coconut sap ¼ ground nutmeg pumpkin seeds flax seeds sesame seeds sunflower seeds dried apple slices chopped ¼ finely chopped walnuts",
+        "directions_text": "combine ground almonds and cinnamon in a small bowl; set aside. mix almond butter, agave syrup, and protein powder together in a bowl. add shredded coconut, coconut sap, and nutmeg. combine pumpkin, flax, and sesame seeds in the bowl of a food processor; pulse until blended. add to almond butter mixture along with sunflower seeds. mince dried apple in the food processor. add to almond butter mixture along with walnuts. form into 1-inch balls and roll in the almond-cinnamon mixture to coat. place in the freezer to firm up and store.",
+        "combined_text": "vegan energy balls energy balls energy balls 2 tablespoons ground almonds 2 teaspoons ground cinnamon ¾ cup almond butter ¼ cup agave syrup 2 tablespoons hemp protein powder 2 tablespoons shredded coconut 1 tablespoon raw coconut sap ¼ teaspoon ground nutmeg 2 tablespoons pumpkin seeds 2 tablespoons flax seeds 2 tablespoons sesame seeds 2 tablespoons sunflower seeds 10 dried apple slices, chopped ¼ cup finely chopped walnuts combine ground almonds and cinnamon in a small bowl; set aside. mix almond butter, agave syrup, and protein powder together in a bowl. add shredded coconut, coconut sap, and nutmeg. combine pumpkin, flax, and sesame seeds in the bowl of a food processor; pulse until blended. add to almond butter mixture along with sunflower seeds. mince dried apple in the food processor. add to almond butter mixture along with walnuts. form into 1-inch balls and roll in the almond-cinnamon mixture to coat. place in the freezer to firm up and store.",
+        "ingredients_raw": [
+            "2 tablespoons ground almonds",
+            "2 teaspoons ground cinnamon",
+            "¾ cup almond butter",
+            "¼ cup agave syrup",
+            "2 tablespoons hemp protein powder",
+            "2 tablespoons shredded coconut",
+            "1 tablespoon raw coconut sap",
+            "¼ teaspoon ground nutmeg",
+            "2 tablespoons pumpkin seeds",
+            "2 tablespoons flax seeds",
+            "2 tablespoons sesame seeds",
+            "2 tablespoons sunflower seeds",
+            "10 dried apple slices, chopped",
+            "¼ cup finely chopped walnuts"
+        ],
+        "directions_raw": [
+            "Combine ground almonds and cinnamon in a small bowl; set aside.",
+            "Mix almond butter, agave syrup, and protein powder together in a bowl. Add shredded coconut, coconut sap, and nutmeg.",
+            "Combine pumpkin, flax, and sesame seeds in the bowl of a food processor; pulse until blended. Add to almond butter mixture along with sunflower seeds.",
+            "Mince dried apple in the food processor. Add to almond butter mixture along with walnuts. Form into 1-inch balls and roll in the almond-cinnamon mixture to coat.",
+            "Place in the freezer to firm up and store."
+        ],
+        "ingredients_canonical": [
+            "ground almonds",
+            "ground cinnamon",
+            "¾ almond butter",
+            "¼ agave syrup",
+            "hemp protein powder",
+            "shredded coconut",
+            "raw coconut sap",
+            "¼ ground nutmeg",
+            "pumpkin seeds",
+            "flax seeds",
+            "sesame seeds",
+            "sunflower seeds",
+            "dried apple slices chopped",
+            "¼ finely chopped walnuts"
+        ],
+        "cuisine_list": [
+            "american_region",
+            "caribbean",
+            "european",
+            "french"
+        ],
+        "course_list": [
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 6,
+        "slow_hits": 0,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 23,
+        "est_cook_time_min": 20,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": false,
+        "is_dairy_free": false,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 74,
+        "health_flags": [
+            "plant_based",
+            "healthy_fats",
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "One-Bite Snack Balls (No-Bake)",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "These one-bite balls are the perfect snack, and work great in kids' lunches or snacks.",
+        "ingredients": [
+            "½ cup rolled oats",
+            "¼ cup grated carrots",
+            "¼ cup chopped dates",
+            "3 tablespoons brown sugar",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon vanilla extract",
+            "¼ cup raisins",
+            "¼ cup honey"
+        ],
+        "directions": [
+            "Combine oats and carrots in the bowl of a food processor; pulse until blended. Add dates, brown sugar, cinnamon, and vanilla; blend again.",
+            "Transfer mixture to a bowl and stir in raisins and honey. Roll into 8 balls."
+        ],
+        "num_ingredients": 8,
+        "num_steps": 2,
+        "ingredient_text": "½ rolled oats ¼ grated carrots ¼ chopped dates brown sugar ground cinnamon vanilla extract ¼ raisins ¼ honey",
+        "directions_text": "combine oats and carrots in the bowl of a food processor; pulse until blended. add dates, brown sugar, cinnamon, and vanilla; blend again. transfer mixture to a bowl and stir in raisins and honey. roll into 8 balls.",
+        "combined_text": "one-bite snack balls (no-bake) energy balls energy balls ½ cup rolled oats ¼ cup grated carrots ¼ cup chopped dates 3 tablespoons brown sugar 1 teaspoon ground cinnamon 1 teaspoon vanilla extract ¼ cup raisins ¼ cup honey combine oats and carrots in the bowl of a food processor; pulse until blended. add dates, brown sugar, cinnamon, and vanilla; blend again. transfer mixture to a bowl and stir in raisins and honey. roll into 8 balls.",
+        "ingredients_raw": [
+            "½ cup rolled oats",
+            "¼ cup grated carrots",
+            "¼ cup chopped dates",
+            "3 tablespoons brown sugar",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon vanilla extract",
+            "¼ cup raisins",
+            "¼ cup honey"
+        ],
+        "directions_raw": [
+            "Combine oats and carrots in the bowl of a food processor; pulse until blended. Add dates, brown sugar, cinnamon, and vanilla; blend again.",
+            "Transfer mixture to a bowl and stir in raisins and honey. Roll into 8 balls."
+        ],
+        "ingredients_canonical": [
+            "½ rolled oats",
+            "¼ grated carrots",
+            "¼ chopped dates",
+            "brown sugar",
+            "ground cinnamon",
+            "vanilla extract",
+            "¼ raisins",
+            "¼ honey"
+        ],
+        "cuisine_list": [
+            "middle eastern",
+            "middle eastern region"
+        ],
+        "course_list": [
+            "main",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "none",
+        "fast_hits": 5,
+        "slow_hits": 0,
+        "medium_hits": 0,
+        "cook_speed": "fast",
+        "est_prep_time_min": 14,
+        "est_cook_time_min": 6,
+        "difficulty": "easy",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": true,
+        "is_gluten_free": true,
+        "dietary_profile": [
+            "gluten_free",
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 66,
+        "health_flags": [
+            "plant_based",
+            "whole_grains",
+            "sugary"
+        ],
+        "main_ingredient": "unknown",
+        "health_level": "moderate"
+    },
+    {
+        "recipe_title": "Chocolate Chip Cookie Dough Protein Bites",
+        "category": "Energy Balls",
+        "subcategory": "Energy Balls",
+        "description": "All the goodness of chocolate chip cookies plus protein, fiber, and vitamins. Even my picky kids love them. I keep them in the freezer and pop a couple into lunches for a nutritious treat.",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "⅔ cup soy protein powder (such as MLO®)",
+            "⅓ cup oat flour",
+            "1 cup white sugar",
+            "1 cup brown sugar",
+            "½ cup plain Greek yogurt",
+            "½ cup butter, softened",
+            "2 teaspoons vanilla extract",
+            "2 tablespoons milk, or more as needed",
+            "2 cups chocolate chips"
+        ],
+        "directions": [
+            "Combine all-purpose flour, soy protein powder, and oat flour together in a bowl.",
+            "Beat white sugar, brown sugar, yogurt, and butter together in a large bowl with an electric mixer until smooth and creamy. Add vanilla extract. Stir in flour mixture. Mix in milk, 1 tablespoon at a time, until batter is thick and smooth. Fold in chocolate chips.",
+            "Roll batter into 1-inch balls with your hands. Arrange on a baking sheet. Transfer to the freezer and chill until firm, about 1 hour, or in the refrigerator, 2 to 3 hours."
+        ],
+        "num_ingredients": 10,
+        "num_steps": 3,
+        "ingredient_text": "all-purpose flour ⅔ soy protein powder such as mlo ⅓ oat flour white sugar brown sugar ½ plain greek yogurt ½ butter softened vanilla extract milk more as needed chocolate chips",
+        "directions_text": "combine all-purpose flour, soy protein powder, and oat flour together in a bowl. beat white sugar, brown sugar, yogurt, and butter together in a large bowl with an electric mixer until smooth and creamy. add vanilla extract. stir in flour mixture. mix in milk, 1 tablespoon at a time, until batter is thick and smooth. fold in chocolate chips. roll batter into 1-inch balls with your hands. arrange on a baking sheet. transfer to the freezer and chill until firm, about 1 hour, or in the refrigerator, 2 to 3 hours.",
+        "combined_text": "chocolate chip cookie dough protein bites energy balls energy balls 2 cups all-purpose flour ⅔ cup soy protein powder (such as mlo®) ⅓ cup oat flour 1 cup white sugar 1 cup brown sugar ½ cup plain greek yogurt ½ cup butter, softened 2 teaspoons vanilla extract 2 tablespoons milk, or more as needed 2 cups chocolate chips combine all-purpose flour, soy protein powder, and oat flour together in a bowl. beat white sugar, brown sugar, yogurt, and butter together in a large bowl with an electric mixer until smooth and creamy. add vanilla extract. stir in flour mixture. mix in milk, 1 tablespoon at a time, until batter is thick and smooth. fold in chocolate chips. roll batter into 1-inch balls with your hands. arrange on a baking sheet. transfer to the freezer and chill until firm, about 1 hour, or in the refrigerator, 2 to 3 hours.",
+        "ingredients_raw": [
+            "2 cups all-purpose flour",
+            "⅔ cup soy protein powder (such as MLO®)",
+            "⅓ cup oat flour",
+            "1 cup white sugar",
+            "1 cup brown sugar",
+            "½ cup plain Greek yogurt",
+            "½ cup butter, softened",
+            "2 teaspoons vanilla extract",
+            "2 tablespoons milk, or more as needed",
+            "2 cups chocolate chips"
+        ],
+        "directions_raw": [
+            "Combine all-purpose flour, soy protein powder, and oat flour together in a bowl.",
+            "Beat white sugar, brown sugar, yogurt, and butter together in a large bowl with an electric mixer until smooth and creamy. Add vanilla extract. Stir in flour mixture. Mix in milk, 1 tablespoon at a time, until batter is thick and smooth. Fold in chocolate chips.",
+            "Roll batter into 1-inch balls with your hands. Arrange on a baking sheet. Transfer to the freezer and chill until firm, about 1 hour, or in the refrigerator, 2 to 3 hours."
+        ],
+        "ingredients_canonical": [
+            "all-purpose flour",
+            "⅔ soy protein powder such as mlo",
+            "⅓ oat flour",
+            "white sugar",
+            "brown sugar",
+            "½ plain greek yogurt",
+            "½ butter softened",
+            "vanilla extract",
+            "milk more as needed",
+            "chocolate chips"
+        ],
+        "cuisine_list": [
+            "european",
+            "french",
+            "greek",
+            "mediterranean",
+            "middle eastern region",
+            "turkish"
+        ],
+        "course_list": [
+            "dessert",
+            "snack",
+            "bread"
+        ],
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ],
+        "primary_taste": "sweet",
+        "secondary_taste": "savory",
+        "fast_hits": 7,
+        "slow_hits": 1,
+        "medium_hits": 1,
+        "cook_speed": "fast",
+        "est_prep_time_min": 19,
+        "est_cook_time_min": 26,
+        "difficulty": "medium",
+        "is_vegan": false,
+        "is_vegetarian": true,
+        "is_halal": true,
+        "is_kosher": true,
+        "is_nut_free": true,
+        "is_dairy_free": false,
+        "is_gluten_free": false,
+        "dietary_profile": [
+            "nut_free",
+            "halal",
+            "kosher"
+        ],
+        "healthiness_score": 46,
+        "health_flags": [
+            "sugary",
+            "fried"
+        ],
+        "main_ingredient": "egg_dairy",
+        "health_level": "unhealthy"
+    }
+]
