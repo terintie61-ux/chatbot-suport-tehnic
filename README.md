@@ -1,6 +1,11 @@
 # Chatbot Suport Tehnic
 
-
+## Echipa
+- **Coordonator**: Carai Terentie 
+- **Responsabil date și preprocesare NLP**: Juncu vasile 
+- **Responsabil model și clasificare intenții**: Carai Maria
+- **Responsabil backend și integrare API**: Vasilache Dumitru
+- **Responsabil frontend și interfață web**: Nagy Rahela Debora 
 
 ## Descriere
 Proiect pentru facultate - Un chatbot care răspunde la întrebări culinare.
@@ -59,21 +64,13 @@ Verifică dacă API-ul funcționează.
 curl http://localhost:5000/health
 ```
 
-**Răspuns:**
-```json
-{
-  "status": "ok",
-  "timestamp": "2024-04-01T10:30:00",
-  "versiune": "1.0",
-  "raspunsuri_incarcate": 100,
-  "intrebari_incarcate": 100
-}
-```
-
----
-
-### GET `/ping`
-Test rapid pentru a verifica dacă serverul răspunde.
+## 🔧 TEHNOLOGII FOLOSITE
+- **Python 3.9+**
+- **Git & GitHub** - controlul versiunilor
+- **NLTK / spaCy** - procesare text
+- **scikit-learn** - clasificare intenții
+- **Flask** - API
+- **HTML/CSS/JavaScript** - interfață
 
 **Exemplu:**
 ```bash
