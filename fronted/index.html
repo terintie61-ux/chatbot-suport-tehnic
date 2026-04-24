@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Bucătăria Academică | Gastronomie Moleculară și Tradiție</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="dashboard">
+  <!-- PANEL CHAT INTELIGENT CU API REAL -->
+  <aside class="chat-panel">
+    <div class="chat-header">
+      <h2>Întrebări culinare</h2>
+      <p>Consultanță gastronomică & metodologie asistată de AI</p>
+      <div class="api-status" id="apiStatus">
+        <span class="status-indicator"></span>
+        <span id="statusText">Verificare conexiune...</span>
+      </div>
+    </div>
+    <div class="chat-messages" id="chatMessages">
+      <div class="message bot">
+        <div class="bubble">Bun venit în laboratorul gastronomic! <br> Sunt asistentul tău culinar, specializat în reţete clasice şi ştiinţa alimentaţiei. <br> Sistemul utilizează un model de clasificare a intenţiilor cu acurateţe de 95.56%. Puteți întreba orice despre preparate, timpi, substituenți sau tehnici.</div>
+        <div class="meta">Asistent academic · Model SVM activ</div>
+      </div>
+    </div>
+    <div class="chat-input-area">
+      <div class="input-wrapper">
+        <input type="text" id="userInput" placeholder="Scrieți întrebarea ..." autocomplete="off">
+        <button id="sendBtn"><i class="fas fa-arrow-right"></i></button>
+      </div>
+      <div class="suggestions" id="suggestionsContainer"></div>
+    </div>
+  </aside>
+
+  <!-- PANEL RETETE - 36 DE RETETE -->
+  <main class="recipes-panel">
+    <div class="hero-section">
+      <h1>Repertoriu gastronomic <span>românesc & universal</span></h1>
+      <div class="sub">Selecție de peste 30 de reţete fundamentale. Arhitectură culinară, proporții și tehnici verificate.</div>
+    </div>
+    <div class="filter-bar" id="filterBar">
+      <button class="filter-btn active" data-filter="all">Toate</button>
+      <button class="filter-btn" data-filter="tradițional">Tradițional</button>
+      <button class="filter-btn" data-filter="internațional">Internațional</button>
+      <button class="filter-btn" data-filter="desert">Desert</button>
+      <button class="filter-btn" data-filter="rapid">Rapid</button>
+      <button class="filter-btn" data-filter="avansat">Avansat</button>
+    </div>
+    <div class="grid-recipes" id="recipesGrid"></div>
+    <footer>Arhivă culinară academică — 36 de reţete analizate şi documentate. Toate drepturile rezervate.</footer>
+  </main>
+</div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

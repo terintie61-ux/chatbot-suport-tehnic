@@ -9,3 +9,4 @@ models/saved/*
 .idea/
 .DS_Store
 *.log
+*.pptx

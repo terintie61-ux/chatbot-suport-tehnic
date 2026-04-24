@@ -9,14 +9,27 @@ import json
 import os
 from datetime import datetime
 import random
+from flask_cors import CORS
+import os
+
+
+
+# DATA Directory:
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DATA_DIR = os.path.join(PROJECT_ROOT, "data")
+RAW_DATA_PATH = os.path.join(DATA_DIR, 'raw_data')
+PROCESSED_DATA_PATH = os.path.join(DATA_DIR, 'processed_data')
+
 
 # Creează aplicația Flask
 app = Flask(__name__)
+CORS(app)
+
 
 # Încarcă răspunsurile predefinite
 def incarca_raspunsuri():
     try:
-        with open('data/raw_data/scheme_raspuns.json', 'r', encoding='utf-8') as f:
+        with open( os.path.join(RAW_DATA_PATH,'scheme_raspuns.json') , 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Fișierul scheme_raspuns.json nu a fost găsit!")
@@ -25,7 +38,7 @@ def incarca_raspunsuri():
 # Încarcă întrebările și răspunsurile
 def incarca_intrebari():
     try:
-        with open('data/raw_data/intrebari_culinare.json', 'r', encoding='utf-8') as f:
+        with open( os.path.join(RAW_DATA_PATH,'intrebari_culinare.json') , 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Fișierul intrebari_culinare.json nu a fost găsit!")
@@ -57,7 +70,7 @@ def chat():
     Primește un mesaj și returnează un răspuns
     """
     
-    """
+    
     try:
         # Primește datele de la utilizator
         data = request.json
@@ -71,11 +84,11 @@ def chat():
         mesaj = data['mesaj'].lower()
         
         # Loghează cererea
-        log_cerere(mesaj)
+        #log_cerere(mesaj)
         
         # Caută răspunsul potrivit
         raspuns, intentie = gaseste_raspuns(mesaj)
-        
+
         # Returnează răspunsul
         return jsonify({
             "mesaj_original": data['mesaj'],
@@ -89,7 +102,7 @@ def chat():
             "error": "A apărut o eroare",
             "details": str(e)
         }), 500
-    """
+    
 
     
     
@@ -113,7 +126,7 @@ def ping():
     """
     Endpoint simplu pentru testare rapidă
     """
-    return jsonify({"pong": "API-ul funcționează!"})
+    return jsonify({"ping": "API-ul functioneaza"})
 
 # ==================== FUNCȚII DE AJUTOR ====================
 
