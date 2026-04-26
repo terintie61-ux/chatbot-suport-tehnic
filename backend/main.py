@@ -20,7 +20,19 @@ app = Flask(__name__)
 # ACTIVARE CORS - PERMITE CERERI DE LA ORICE ORIGIN (inclusiv frontend-ul lui Debora)
 CORS(app)  # Aceasta permite frontend-ului să comunice cu API-ul
 
+
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+DATA_DIR = os.path.join(PROJECT_ROOT, "data")
+RAW_DATA_PATH = os.path.join(DATA_DIR, 'raw_data')
+PROCESSED_DATA_PATH = os.path.join(DATA_DIR, 'processed_data')
+
+
+
 # ==================== ÎNCĂRCARE MODEL ====================
+
+
+
+
 
 def incarca_modelul():
     """Încarcă modelul antrenat de Carai Maria"""
@@ -51,7 +63,7 @@ model_ml = incarca_modelul()
 def incarca_raspunsuri():
     """Încarcă răspunsurile predefinite"""
     try:
-        with open(r"C:\Users\HOME\Desktop\proiect-chatbot\chatbot-suport-tehnic\data\processed_data\scheme_raspuns.json", 'r', encoding='utf-8') as f:
+        with open(os.path.join(PROCESSED_DATA_PATH,'scheme_raspuns.json'), 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("⚠️ Fișierul scheme_raspuns.json nu a fost găsit!")
@@ -60,7 +72,7 @@ def incarca_raspunsuri():
 def incarca_intrebari():
     """Încarcă întrebările și răspunsurile"""
     try:
-        with open(r"C:\Users\HOME\Desktop\proiect-chatbot\chatbot-suport-tehnic\data\processed_data\intrebari_curatate.json", 'r', encoding='utf-8') as f:
+        with open(os.path.join(PROCESSED_DATA_PATH, 'intrebari_curatate.json'), 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("⚠️ Fișierul intrebari_curatate.json nu a fost găsit!")
