@@ -51,7 +51,7 @@ model_ml = incarca_modelul()
 def incarca_raspunsuri():
     """Încarcă răspunsurile predefinite"""
     try:
-        with open('src/api/data/scheme_raspuns.json', 'r', encoding='utf-8') as f:
+        with open(r"C:\Users\HOME\Desktop\proiect-chatbot\chatbot-suport-tehnic\data\processed_data\scheme_raspuns.json", 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("⚠️ Fișierul scheme_raspuns.json nu a fost găsit!")
@@ -60,10 +60,10 @@ def incarca_raspunsuri():
 def incarca_intrebari():
     """Încarcă întrebările și răspunsurile"""
     try:
-        with open('data/raw/intrebari_culinare.json', 'r', encoding='utf-8') as f:
+        with open(r"C:\Users\HOME\Desktop\proiect-chatbot\chatbot-suport-tehnic\data\processed_data\intrebari_curatate.json", 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
-        print("⚠️ Fișierul intrebari_culinare.json nu a fost găsit!")
+        print("⚠️ Fișierul intrebari_curatate.json nu a fost găsit!")
         return []
 
 # Încarcă datele la pornire
@@ -87,6 +87,7 @@ RASPUNSURI_INTENTII = {
 
 def gaseste_raspuns_intentie(intentie, mesaj):
     """Găsește răspunsul potrivit pentru intenția detectată"""
+    #print("Intrebari culinare: ",intrebari_culinare);
     
     # Caută în întrebările predefinite (dacă există potrivire exactă)
     for item in intrebari_culinare:
@@ -204,6 +205,8 @@ def chat():
         
         # 1. Detectează intenția folosind modelul ML
         intentie = obtine_intentie_cu_model(mesaj)
+        
+        print("Intentie Model:", intentie)
         
         # 2. Găsește răspunsul potrivit
         raspuns = gaseste_raspuns_intentie(intentie, mesaj)
