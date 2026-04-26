@@ -1,0 +1,22 @@
+{
+  "versiune": "2.0",
+  "tip": "TF-IDF + SVM (Linear)",
+  "data_antrenare": "20260426_170826",
+  "acuratete": 0.9555555555555556,
+  "cv_score_mean": 0.9422222222222223,
+  "cv_score_std": 0.014740554623801761,
+  "numar_exemple": 450,
+  "numar_intentii": 9,
+  "intentii": [
+    "dificultate",
+    "general",
+    "ingrediente",
+    "inlocuitori",
+    "la_revedere",
+    "multumesc",
+    "reteta",
+    "salut",
+    "timp"
+  ],
+  "model_path": "C:\\Users\\HOME\\Desktop\\proiect-chatbot\\chatbot-suport-tehnic\\models\\saved\\model_svm.pkl"
+}
