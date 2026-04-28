@@ -272,6 +272,52 @@ def chat_test():
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
 
+
+@app.route("/recipes/all",methods=['POST'])
+def getAll_Receipes():
+    base_path = os.path.join(PROCESSED_DATA_PATH, "BigData")
+
+    result = []
+
+    # iterate over all category folders
+    for category in os.listdir(base_path):
+        category_path = os.path.join(base_path, category)
+
+        if not os.path.isdir(category_path):
+            continue
+
+        # iterate over all json files in category
+        for file in os.listdir(category_path):
+            if not file.endswith(".json"):
+                continue
+
+            file_path = os.path.join(category_path, file)
+
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+
+                    # ensure it's a list and has at least 2 items
+                    if isinstance(data, list) and len(data) > 1:
+                        result.append(data[1])  # 👈 second element
+
+            except Exception as e:
+                print(f"Error reading {file_path}: {e}")
+
+
+    return jsonify(result)
+    
+
+@app.route("/recipes/<category>/<subcategory>")
+def get_recipes(category, subcategory):
+    path = f"BigData/{category}/{subcategory}.json"
+    json_file = os.path.join(PROCESSED_DATA_PATH,path)
+    with open(json_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    
+    return jsonify(data[1:])
+
+
 @app.route('/chat/raw', methods=['POST'])
 def chat_raw():
     """

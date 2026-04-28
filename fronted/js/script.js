@@ -55,6 +55,148 @@ const RECIPES_DATABASE = [
     { id: 42, name: "Friptură de porc cu sos de vin", category: "internațional", difficulty: "medium", prep_time: 15, cook_time: 55, total_time: "70 min", cuisine: "franceză", tastes: "savory", dietary: ["nut_free"], is_vegan: false, is_vegetarian: false, is_gluten_free: false, is_dairy_free: false, health_score: 65, health_level: "moderate", description: "Ceafă de porc cu sos demi-glace și vin roșu." }
 ];
 
+
+
+const CATEGORY_STRUCTURE = {
+    bakery: [
+        "Bagels",
+        "Banana_Breads",
+        "Biscuits",
+        "Blintzes",
+        "Breads",
+        "Cinnamon_Rolls",
+        "Coffee_Cakes",
+        "Danishes"
+    ],
+    cuisine: [
+        "Chinese",
+        "Italian",
+        "Korean",
+        "Mexican",
+        "Romanian"
+    ],
+    desserts: [
+        "Apple_Pie",
+        "Blondies",
+        "Blueberry_Pie",
+        "Brownies",
+        "Cakes",
+        "Carrot_Cakes",
+        "Cherry_Pie",
+        "Chess_Pie",
+        "Chocolate_Cakes",
+        "Chocolate_Chip_Cookies",
+        "Chocolate_Fudge",
+        "Cobblers",
+        "Cookies",
+        "Cupcakes",
+        "Desserts",
+        "Doughnuts",
+        "Ice_Cream",
+        "Lemon_Bars",
+        "Macaroons",
+        "Pancakes",
+        "Pies",
+        "Waffles"
+    ],
+    drinks: [
+        "Cocktails",
+        "Lemonade",
+        "Mojitos"
+    ],
+    ground_meat: [
+        "Ground_Beef",
+        "Ground_Chicken",
+        "Ground_Lamb",
+        "Ground_Pork",
+        "Ground_Turkey"
+    ],
+    healthy: [
+        "Broccoli_Salads",
+        "Fruit_Salads",
+        "Healthy_Recipes",
+        "Low_Calorie",
+        "Low_Cholesterol",
+        "Low_Fat",
+        "Low_Glycemic_Impact",
+        "Low_Sodium",
+        "Vegetarian"
+    ],
+    main_dish: [
+        "Burgers",
+        "Burritos",
+        "Egg_Rolls",
+        "Fajitas",
+        "Fried_Rice",
+        "Homemade_Pasta",
+        "Lasagna",
+        "Nachos",
+        "Pasta_Carbonara",
+        "Pizza"
+    ],
+    meal_time_served: [
+        "Breakfast_And_Brunch",
+        "Breakfast_Burritos",
+        "Dinner",
+        "Lunch"
+    ],
+    meat_based: [
+        "Beef_Recipes",
+        "Beef_Stews",
+        "Beef_Stroganoff",
+        "Beef_Tenderloin",
+        "Buffalo_Chicken_Dips",
+        "Buffalo_Chicken_Wings",
+        "Bulgogi",
+        "Chicken_And_Dumplings",
+        "Chicken_Cacciatore",
+        "Chicken_Cordon_Bleu",
+        "Chicken_Parmesan",
+        "Chicken_Salads",
+        "Fried_Chicken",
+        "Lamb",
+        "Pork",
+        "Pork_Chops"
+    ],
+    ocasional_based: [
+        "Camping_Recipes",
+        "Christmas",
+        "Christmas_Cookies",
+        "Cooking_For_A_Crowd",
+        "Cooking_For_One",
+        "Cooking_For_Two",
+        "Picnic_Recipes"
+    ],
+    others: [
+        "Air_Fryer_Recipes",
+        "Baked_Beans",
+        "Canning_And_Preserving",
+        "Chilaquiles",
+        "Gyros",
+        "Mushrooms",
+        "Oatmeal",
+        "Omelets",
+        "Pickles"
+    ],
+    side_dish: [
+        "Bruschetta",
+        "Cabbage_Rolls",
+        "Coleslaws",
+        "Egg_Salads",
+        "Falafel",
+        "Fries",
+        "Guacamole",
+        "Popcorn"
+    ],
+    soups: [
+        "Borscht",
+        "Chicken_Noodle_Soups",
+        "Chili_Recipes",
+        "Chowders",
+        "French_Onion_Soups"
+    ]
+};
+
 // ============================================
 // CONFIGURARE API
 // ============================================
@@ -63,7 +205,8 @@ const API_ENDPOINTS = {
     health: `${API_BASE_URL}/health`,
     chat: `${API_BASE_URL}/chat`,
     chatTest: `${API_BASE_URL}/chat/test`,
-    stats: `${API_BASE_URL}/stats`
+    stats: `${API_BASE_URL}/stats`,
+    recipes: `${API_BASE_URL}/recipes`
 };
 
 // ============================================
@@ -72,6 +215,11 @@ const API_ENDPOINTS = {
 let currentFilter = 'all';
 let isApiOnline = false;
 let isWaitingForResponse = false;
+
+let category = "";
+let subcategory = "";
+
+var RECEPIES = null;
 
 // ============================================
 // FUNCȚII AJUTĂTOARE
@@ -84,7 +232,7 @@ function escapeHtml(str) {
 function getDifficultyBadge(difficulty) {
     const difficultyMap = {
         'easy': { class: 'difficulty-easy', icon: '🟢', text: 'Ușor' },
-        'medium': { class: 'difficulty-medium', icon: '🟡', text: 'Mediu' },
+        'moderate': { class: 'difficulty-medium', icon: '🟡', text: 'Mediu' },
         'hard': { class: 'difficulty-hard', icon: '🔴', text: 'Avansat' }
     };
     const d = difficultyMap[difficulty.toLowerCase()] || { class: 'difficulty-medium', icon: '🟡', text: 'Mediu' };
@@ -131,6 +279,7 @@ function matchesFilter(recipe, filter) {
     return recipe.category === filter;
 }
 
+/*
 function renderRecipes() {
     const grid = document.getElementById('recipesGrid');
     if (!grid) return;
@@ -153,7 +302,50 @@ function renderRecipes() {
             </div>
         </div>
     `).join('');
+}*/
+
+
+async function renderRecipesAll() {
+    const response = await fetch(API_ENDPOINTS.recipes + "/all", {
+        method: "POST", // 👈 THIS is required
+        headers: {
+            "Content-Type": "application/json"
+        }
+    });
+
+    const data = await response.json();
+    RECEPIES = data
+    //console.log(data);
+
+    renderRecipesFromJSON(data);
 }
+
+
+
+
+
+
+/* 
+function renderRecipes(recipes) {
+    const grid = document.getElementById('recipesGrid');
+    if (!grid) return;
+
+    if (!recipes || recipes.length === 0) {
+        grid.innerHTML = 'No recipes found';
+        return;
+    }
+
+    console.log("Receipes: ",recipes)
+
+    grid.innerHTML = recipes.map(recipe => `
+        <div class="recipe-card">
+            <div class="title">${recipe.name}</div>
+            <div>${recipe.description}</div>
+        </div>
+    `).join('');
+}
+*/
+
 
 // ============================================
 // CONEXIUNE API
@@ -269,7 +461,7 @@ async function processUserMessage(message) {
     } finally { isWaitingForResponse = false; }
 }
 
-async function handleSendMessage() {
+async function handleSendMessage(e) {
     //if (e) e.preventDefault();
     const input = document.getElementById('userInput');
     const message = input.value.trim();
@@ -282,6 +474,8 @@ async function handleSendMessage() {
 // ============================================
 // INIȚIALIZARE
 // ============================================
+
+/*
 function initializeFilters() {
     const filterButtons = document.querySelectorAll('.filter-btn');
     filterButtons.forEach(btn => {
@@ -293,6 +487,151 @@ function initializeFilters() {
         });
     });
 }
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function initializeFilters() {
+    const buttons = document.querySelectorAll('.filter-btn');
+
+    buttons.forEach(btn => {
+        btn.addEventListener('click', () => {
+
+            // UI active state
+            buttons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            category = btn.dataset.filter.toLowerCase();;
+
+            // 🔥 show subcategories instead of filtering
+            showSubcategories(category);
+        });
+    });
+}
+
+
+
+function showSubcategories(category) {
+    const container = document.getElementById('subcategoryContainer');
+
+    
+    subcategory = CATEGORY_STRUCTURE[category];
+    //console.log(subcategory);
+
+
+    if (!subcategory) {
+        container.innerHTML = '<p>No subcategory</p>';
+        return;
+    }
+
+    container.innerHTML = subcategory.map(sub => `
+        <button class="sub-btn" data-category="${category}" data-sub="${sub}">
+            ${sub.replaceAll('_', ' ')}
+        </button>
+    `).join('');
+
+    // add click listeners
+    initializeSubcategoryClicks();
+}
+
+
+
+function initializeSubcategoryClicks() {
+    const subButtons = document.querySelectorAll('.sub-btn');
+
+    subButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+
+            // UI active
+            subButtons.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+
+            const category = btn.dataset.category;
+            const subcategory = btn.dataset.sub;
+
+            // 🔥 LOAD JSON HERE
+            loadRecipesFromJSON(category, subcategory);
+        });
+    });
+}
+
+
+async function loadRecipesFromJSON(category, subcategory) {
+    //console.log("Path: ",API_ENDPOINTS.recipes + `/${category}/${subcategory}`)
+    const response = await fetch( API_ENDPOINTS.recipes + `/${category}/${subcategory}`);
+    const data = await response.json();
+
+    RECEPIES = data;
+
+    //console.log(data)
+    renderRecipesFromJSON(data);
+}
+
+
+function renderRecipesFromJSON(recipes) {
+    const grid = document.getElementById('recipesGrid');
+
+    /*
+    grid.innerHTML = recipes.map(r => `
+        <div class="recipe-card">
+            <div class="title">${r.recipe_title}</div>
+            <div>${r.healthiness_score}</div>
+        </div>
+    `).join('');
+    */
+
+
+    grid.innerHTML = recipes.map(recipe => `
+        <div class="recipe-card" data-recipe-id="${recipe.recipe_title}" data-recipe-name="${recipe.recipe_title.replace(/'/g, "\\'")}">
+            ${getHealthScoreCircle(recipe.healthiness_score)}
+            <div class="card-img"><i class="fas fa-utensils" style="opacity:0.7"></i></div>
+            <div class="card-content">
+                <div class="recipe-time-header"><div class="title">${escapeHtml(recipe.recipe_title)}</div></div>
+                <div class="recipe-cuisine"><i class="fas fa-globe"></i> ${recipe.tastes[0]}</div>
+                <div class="badge">${recipe.category}</div>
+            </div>
+        </div>
+    `).join('');
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function initializeSuggestions() {
     const suggestionsContainer = document.getElementById('suggestionsContainer');
@@ -315,11 +654,13 @@ function initializeRecipeClicks() {
         const card = e.target.closest('.recipe-card');
         if (card) {
             e.preventDefault();
-            const recipeId = parseInt(card.getAttribute('data-recipe-id'));
-            const recipe = RECIPES_DATABASE.find(r => r.id === recipeId);
+            const recipeTitle = card.getAttribute('data-recipe-id');
+            const recipe = RECEPIES.find(r => r.recipe_title === recipeTitle);
+            console.log("Recipe: ",recipe);
             if (recipe && !e.ctrlKey && !e.metaKey) {
                 const input = document.getElementById('userInput');
-                if (input) input.value = `Cum se prepară ${recipe.name}? Vreau detalii despre timp (${recipe.total_time}), dificultate (${recipe.difficulty}) și dacă e potrivită pentru ${recipe.is_vegan ? 'vegani' : (recipe.is_vegetarian ? 'vegetarieni' : 'toți')}.`;
+                //addMessage('user', userMessage);
+                if (input) input.value = `Cum se prepară ${recipe.recipe_title}?  Doresc mai multe detalii despre acesta reteta.`;
                 handleSendMessage(e);
             }
         }
@@ -345,8 +686,15 @@ function initializeEventListeners() {
     } 
 }
 
+
+
+
+
+
+
 async function initialize() {
-    renderRecipes();
+    //renderRecipes();
+    renderRecipesAll();
     initializeFilters();
     initializeSuggestions();
     initializeRecipeClicks();

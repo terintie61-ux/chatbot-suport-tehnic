@@ -641,3 +641,62 @@ footer {
     height: 44px;
   }
 }
+
+
+
+/* ---------- SUBCATEGORY BAR ---------- */
+#subcategoryContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 0.5rem 0 1.5rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-sand);
+}
+
+/* Subcategory button */
+.sub-btn {
+  background: var(--paper);
+  border: 1px solid var(--border-sand);
+  padding: 0.35rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-family: var(--font-sans);
+  font-weight: 500;
+  color: var(--ink-secondary);
+  cursor: pointer;
+  transition: var(--transition-standard);
+  box-shadow: var(--shadow-sm);
+  white-space: nowrap;
+}
+
+/* Hover effect */
+.sub-btn:hover {
+  background: var(--accent-terracotta-light);
+  color: var(--accent-terracotta-dark);
+  border-color: var(--accent-terracotta-light);
+  transform: translateY(-1px);
+}
+
+/* Active state (selected subcategory) */
+.sub-btn.active {
+  background: var(--accent-terracotta);
+  color: white;
+  border-color: var(--accent-terracotta);
+  box-shadow: var(--shadow-md);
+}
+
+/* Optional: subtle scroll on mobile */
+#subcategoryContainer {
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+#subcategoryContainer::-webkit-scrollbar {
+  height: 5px;
+}
+
+#subcategoryContainer::-webkit-scrollbar-thumb {
+  background: #C9BAA8;
+  border-radius: 5px;
+}
