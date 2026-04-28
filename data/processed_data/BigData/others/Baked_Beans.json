@@ -1,0 +1,624 @@
+[
+    {
+        "Main_category": "others"
+    },
+    {
+        "recipe_title": "Baked Butter Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "13 ounces smoked sausage,",
+            "1 green bell pepper",
+            "1/2 small onion,",
+            "1/2 cup ketchup",
+            "1/3 cup steak sauce",
+            "1 teaspoon liquid smoke",
+            "1 teaspoon ground mustard",
+            "1/2 teaspoon celery seed",
+            "4 (18-ounce) cans butter beans"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C).",
+            "Place sausage, bell pepper, and onion in a large skillet over medium-high heat. Cook and stir until sausage is browned, about 5 minutes.",
+            "Whisk ketchup, steak sauce, liquid smoke, ground mustard, and celery seed in a large mixing bowl. Add sausage mixture and stir to combine. Add drained butter beans and gently stir until evenly combined. Pour into a baking dish; cover.",
+            "Bake in the preheated oven until hot and bubbly, about 25 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Million Dollar Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "cooking spray",
+            "10 ounces thick cut bacon, cut into 1-inch pieces",
+            "8 ounces bulk ground pork",
+            "1 cup chopped onion",
+            "1 cup chopped bell pepper",
+            "2 (28-ounce) cans baked beans",
+            "1/4 cup ketchup",
+            "2 tablespoons brown sugar",
+            "2 tablespoons Dijon mustard",
+            "1 tablespoon molasses",
+            "1 tablespoon Worcestershire sauce",
+            "2 teaspoons cider vinegar"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish with cooking spray.",
+            "Cook bacon in a large skillet over medium heat until crisp, turning occasionally, about 10 minutes.",
+            "Remove bacon from pan, draining all but two tablespoons of bacon fat from the skillet.",
+            "Add ground pork, onion, and bell pepper to the skillet with the reserved bacon fat. Cook over medium heat until meat is browned and cooked through, stirring occasionally, 8 to 10 minutes.",
+            "Stir together baked beans, ketchup, brown sugar, mustard, molasses, Worcestershire sauce, and vinegar in a large bowl .",
+            "Add sausage mixture and 1/2 cup of the bacon to the bowl. Stir to combine.",
+            "Transfer to the prepared baking dish.",
+            "Sprinkle with remaining bacon.",
+            "Bake until bubbling and top is caramelized, 55 to 60 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "BBQ'D Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1 1/2 pounds ground beef",
+            "3 large green peppers",
+            "2 large onions",
+            "1/4 teaspoon garlic powder",
+            "salt and freshly ground black pepper",
+            "2 (19.75 ounce) cans pork and beans,",
+            "1 cup ketchup",
+            "1 tablespoon yellow mustard",
+            "1 cup brown sugar",
+            "1 tablespoon Worcestershire sauce"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cook and stir ground beef, green pepper, onion, garlic powder, salt, and pepper together in a large skillet over medium-high heat until beef is browned and crumbly, about 10 minutes. Drain any excess grease.",
+            "Stir in pork and beans, ketchup, mustard, brown sugar, and Worcestershire sauce. Pour into a 9x13-inch baking pan. Cover with foil.",
+            "Bake in the preheated oven until hot and bubbly, about 1 hour."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Southern Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "8 ounces lean ground beef",
+            "3 strips bacon, diced",
+            "1/2 cup diced yellow onion",
+            "1/2 cup green pepper",
+            "1/2 cup packed dark brown sugar",
+            "1/4 cup ketchup",
+            "1 tablespoon Worcestershire sauce",
+            "2 teaspoons yellow mustard",
+            "2 (28-ounce) cans baked beans"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat oven to 350 degrees F (175 degrees C). Cook ground beef on a large skillet over medium-high heat until browned, 5 to 8 minutes. Remove from skillet and reserve.",
+            "Cook bacon in the same skillet 5 minutes.",
+            "Add onion and green pepper to skillet. Cook, stirring frequently, until bacon is crisp and onion is translucent, about 5 minutes.",
+            "Add ground beef, brown sugar, ketchup, Worcestershire sauce, and mustard to the bacon mixture; stir until combined.",
+            "Add ground beef mixture and beans to a 13x9-inch baking dish, stir to combine.",
+            "Bake until bubbly, 40 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Frijoles Borrachos (Drunken Baked Beans)",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1/2 cup lightly packed light brown sugar",
+            "1/3 cup apple cider vinegar",
+            "1 cup prepared red salsa",
+            "3 cans pinto beans, drained, not rinsed",
+            "1 cup diced onion",
+            "1/2 cup chopped jalapeno peppers",
+            "2 tablespoons prepared mustard",
+            "1 tablespoon smoked paprika",
+            "1 teaspoon freshly ground black pepper",
+            "2 teaspoons kosher salt",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon Mexican oregano",
+            "1/4 teaspoon cayenne pepper",
+            "1 12-ounce bottle Mexican lager-style beer (such as Modelo)",
+            "3 strips bacon (optional)"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Add brown sugar, vinegar, and salsa to a 2 1/2- to 3-quart baking dish or casserole pan. Stir until sugar dissolves.",
+            "Add pinto beans, onion, jalapeno peppers, mustard, paprika, black pepper, salt, garlic powder, oregano, and cayenne pepper. Pour lager over, and stir until thoroughly combined.",
+            "Lay bacon strips on top of casserole.",
+            "Bake in the preheated oven until liquids have reduced and thickened, 1 to 1 1/2 hours."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Boston Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "2 cups dry navy beans, soaked overnight",
+            "½ pound uncooked bacon strips",
+            "1 medium onion, diced",
+            "½ cup ketchup",
+            "3 tablespoons molasses",
+            "¼ cup brown sugar",
+            "1 tablespoon Worcestershire sauce",
+            "2 teaspoons salt",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon dry mustard"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Transfer soaked navy beans and soaking water to a saucepan.",
+            "Bring to a boil. Reduce heat and simmer until nearly tender, approximately 1 to 2 hours. Drain and reserve the cooking liquid.",
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Arrange 1/2 of the beans in the bottom of a 2-quart casserole dish. Place 1/2 of the bacon strips over the beans and sprinkle 1/2 of the onions over top. Repeat layers once more.",
+            "Combine ketchup, molasses, brown sugar, Worcestershire sauce, salt, pepper, and dry mustard in a large saucepan over medium heat; bring to a boil.",
+            "Pour sauce over the beans. Pour in just enough reserved cooking liquid to cover the beans. Cover the casserole dish with a lid or aluminum foil.",
+            "Bake in the preheated oven for 1 1/2 hours. Remove the lid and continue to cook, checking every 1/2 hour or so and adding more cooking liquid if necessary to prevent the beans from getting too dry, until beans are soft and tender, 1 1/2 to 2 1/2 more hours.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Beans from Scratch",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1 cup navy beans, soaked overnight and drained",
+            "4 cups water",
+            "¼ cup ketchup",
+            "¼ cup maple syrup",
+            "2 tablespoons brown sugar",
+            "2 tablespoons molasses",
+            "1 teaspoon Worcestershire sauce",
+            "½ teaspoon salt",
+            "⅛ teaspoon ground black pepper",
+            "⅛ teaspoon chili powder",
+            "1 small onion, chopped"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather the ingredients.",
+            "Place beans in a large saucepan with 4 cups of water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer 1 hour.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Stir ketchup, maple syrup, brown sugar, molasses, Worcestershire sauce, salt, pepper, and chili powder together in a small bowl; set aside.",
+            "Once beans have simmered for 1 hour, drain, and reserve cooking liquid. Pour beans into a 1 1/2-quart casserole dish; stir in chopped onion and molasses mixture. Stir in enough reserved cooking liquid so sauce covers beans by 1/4 inch.",
+            "Cover and bake in the preheated oven for 10 minutes; reduce heat to 200 degrees F (95 degrees C) and cook 6 hours longer, stirring beans after they have cooked for 3 hours. Once beans are tender and sauce has reduced and is sticky, remove from the oven, stir, recover, and allow to stand 15 minutes before serving."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "cooking spray",
+            "2 (16 ounce) cans baked beans with pork",
+            "¼ cup molasses",
+            "¼ cup chopped onions",
+            "4 tablespoons brown sugar",
+            "2 tablespoons ketchup",
+            "1 tablespoon prepared mustard",
+            "2 slices bacon, chopped"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a casserole dish with cooking spray.",
+            "Mix together baked beans with pork, molasses, onions, brown sugar, ketchup, and mustard together in a large bowl.",
+            "Transfer mixture to the prepared dish and top with chopped bacon.",
+            "Cover and bake in the preheated oven until thickened, about 3 hours.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Homemade Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "3 cups dry navy beans, soaked overnight or boiled for one hour",
+            "6 slices thick cut bacon, cut into 1 inch pieces",
+            "1 large onion, chopped",
+            "1 ½ cups ketchup",
+            "1 ½ cups water",
+            "1 cup brown sugar",
+            "¼ cup molasses",
+            "1 tablespoon dry mustard",
+            "1 tablespoon salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Drain soaking liquid from beans; place them in a slow cooker.",
+            "Stir bacon, onion, ketchup, water, brown sugar, molasses, mustard, and salt into beans until well mixed.",
+            "Cover and cook on Low for 8 to 10 hours; stir occasionally if possible."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "½ pound bacon",
+            "2 (14.5 ounce) cans Great Northern beans, rinsed and drained",
+            "2 small onions, chopped",
+            "1 cup water (Optional)",
+            "¾ cup packed brown sugar",
+            "3 tablespoons ketchup",
+            "3 tablespoons molasses",
+            "1 tablespoon vinegar",
+            "1 tablespoon mustard",
+            "1 teaspoon salt",
+            "1 teaspoon garlic powder"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 2 1/2-quart baking dish.",
+            "Place bacon in a large skillet and cook over medium-high heat until crisp, about 10 minutes; drain and cool on paper towels. Crumble bacon once cooled.",
+            "Mix bacon, beans, onions, water, brown sugar, ketchup, molasses, vinegar, mustard, salt, and garlic powder together in the prepared baking dish. Cover the dish with aluminum foil.",
+            "Bake in preheated oven until bubbling, 45 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "8 cups water",
+            "1 pound dry navy beans, rinsed and picked through",
+            "1 tablespoon olive oil",
+            "6 ounces salt pork, diced",
+            "6 ounces bacon, cut into small pieces",
+            "1 small onion, minced",
+            "1 ½ cups water, divided",
+            "⅓ cup molasses",
+            "¼ cup ketchup",
+            "¼ cup brown sugar",
+            "1 tablespoon yellow mustard"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Combine water and beans in a multi-functional pressure cooker (such as an Instant Pot). Close and lock the lid. Select high pressure according to manufacturer's instructions; set the timer for 15 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, about 20 minutes; quick-release remaining pressure according to manufacturer's directions. Unlock and remove the lid. Drain and rinse beans with cold water and set aside. Rinse and wipe out the Instant Pot insert and place back into the pressure cooker.",
+            "Turn on the Instant Pot and select the Sauté function. Heat olive oil until shimmering, 2 to 3 minutes. Add salt pork, bacon, and onion; cook until fat begins to render, 1 to 2 minutes. Pour in 1/2 cup water and scrape any browned bits off the bottom. Turn the Instant Pot off.",
+            "Whisk together molasses, ketchup, brown sugar, mustard, and remaining 1 cup water in a small bowl. Return cooked beans to the pot along with ketchup mixture. Gently stir to combine. Close and lock the lid. Select high pressure according to manufacturer's instructions; set the timer for 35 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, about 20 minutes; quick-release remaining pressure according to manufacturer's directions. Unlock and remove the lid. Beans will thicken as they cool. Serve immediately or freeze portions for later."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Texas-Style Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1 tablespoon butter, or as needed",
+            "2 tablespoons vegetable oil",
+            "1 medium red onion, diced",
+            "2 cloves garlic, minced, or more to taste",
+            "1 pound bacon, diced",
+            "1 medium red bell pepper, diced",
+            "3 medium jalapeno peppers, minced, or to taste",
+            "1 cup beer, or more to taste",
+            "1 cup barbecue sauce",
+            "1 cup brown sugar",
+            "¼ cup molasses",
+            "6 cups cooked pinto beans",
+            "1 pinch garlic salt, or to taste",
+            "cracked black pepper to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking dish with 1 tablespoon butter.",
+            "Heat oil in a large skillet over medium-high heat. Sauté onion and garlic in hot oil until onion begins to soften, 5 to 7 minutes. Add bacon, bell pepper, and jalapeños; cook and stir until bacon is browned, 7 to 10 minutes.",
+            "Stir beer, barbecue sauce, brown sugar, and molasses together in a large bowl. Stir in pinto beans, bacon-onion mixture, garlic salt, and pepper. Pour bean mixture into the prepared baking dish.",
+            "Bake in the preheated oven until bubbling and browned, about 45 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Super Easy Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1 (29 ounce) can baked beans with pork",
+            "½ cup packed brown sugar",
+            "½ cup ketchup",
+            "1 tablespoon Worcestershire sauce"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine baked beans, brown sugar, ketchup, and Worcestershire sauce in a casserole dish.",
+            "Bake in the preheated oven, covered, until hot and bubbly, about 45 minutes."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "2 (15 ounce) cans baked beans with pork",
+            "½ cup packed brown sugar",
+            "½ medium onion, chopped",
+            "½ cup ketchup",
+            "1 tablespoon prepared mustard",
+            "1 teaspoon Worcestershire sauce",
+            "1 teaspoon red wine vinegar",
+            "salt and pepper to taste",
+            "2 slices bacon"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine canned beans with pork, brown sugar, onion, ketchup, mustard, Worcestershire sauce, vinegar, salt, and pepper in a 9-inch square baking dish.",
+            "Place bacon slices over top.",
+            "Bake in the preheated oven until sauce is thickened and bacon is cooked, about 1 hour."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Better Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "2 (28 ounce) cans baked beans",
+            "1 small onion, finely chopped",
+            "3 tablespoons maple syrup",
+            "2 tablespoons brown sugar",
+            "2 tablespoons ketchup",
+            "2 teaspoons prepared yellow mustard",
+            "4 slices bacon"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Stir together baked beans, onion, syrup, brown sugar, ketchup, and mustard in a large bowl.",
+            "Pour into a 9x13-inch baking dish. Lay bacon slices across the top.",
+            "Bake in the preheated oven until the bacon is browned and the beans have thickened, 35 to 40 minutes."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Calico Bean Casserole",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1 pound lean ground beef",
+            "4 ounces bacon, chopped",
+            "½ cup chopped onion",
+            "1 (16 ounce) can baked beans with pork",
+            "1 (15 ounce) can kidney beans, undrained",
+            "1 (15 ounce) can butter beans, undrained",
+            "¾ cup packed brown sugar",
+            "½ cup ketchup",
+            "1 tablespoon dry mustard",
+            "2 teaspoons white vinegar",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat a large skillet over medium heat. Cook and stir beef, bacon, and onion in the hot skillet until beef is browned and crumbly, 5 to 7 minutes. Drain fat.",
+            "Combine baked beans with pork, kidney beans, and butter beans in a large bowl. Stir in brown sugar, ketchup, mustard, and vinegar. Add cooked beef mixture; mix thoroughly and season with salt and pepper. Transfer mixture to a 9x13-inch baking dish.",
+            "Bake in the preheated oven for 30 to 40 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Baked Beans Using Canned Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "½ cup hickory-flavored barbecue sauce",
+            "½ cup ketchup",
+            "½ cup packed brown sugar",
+            "1 teaspoon dry mustard",
+            "3 (14.5 ounce) cans great Northern beans, drained and rinsed",
+            "1 green bell pepper, diced",
+            "1 large onion, diced",
+            "4 ounces cooked ham, diced"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Mix together barbecue sauce, ketchup, brown sugar, and mustard in a 4-quart slow cooker until smooth. Stir in beans, bell pepper, onion, and ham until well combined.",
+            "Cook on Low until thickened, 8 to 12 hours."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bacon Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "6 slices bacon",
+            "2 (16 ounce) cans baked beans",
+            "1 onion, diced",
+            "1 Granny Smith apple - peeled, cored and diced",
+            "1 cup packed brown sugar",
+            "¾ cup ketchup",
+            "¼ cup yellow mustard"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Cook bacon in a large skillet over medium-high heat, turning occasionally, until much of the grease has been released, but bacon is still flexible. Drain on paper towels and set aside.",
+            "Stir together baked beans, onion, apple, brown sugar, ketchup, and mustard in a 9-inch square baking dish until well combined. Top with bacon slices.",
+            "Bake, uncovered, in the preheated oven until bacon is crisp and beans are bubbling hot, about 45 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Cowboy Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "1 pound ground beef",
+            "½ pound bacon, chopped",
+            "1 (28 ounce) can baked beans with pork",
+            "1 (15 ounce) can kidney beans, rinsed and drained",
+            "1 (15 ounce) can lima beans, rinsed and drained",
+            "2 onions, chopped",
+            "1 cup ketchup",
+            "1 cup brown sugar",
+            "1 teaspoon prepared mustard"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients.",
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef and bacon together in the hot skillet until beef is browned and crumbly, about 7 to 10 minutes.",
+            "Transfer hamburger and bacon into a slow cooker; stir in baked beans with pork, kidney beans, lima beans, onions, ketchup, brown sugar, and mustard.",
+            "Cover and cook on Low until thickened and bubbling, at least 3 hours."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pat's Baked Beans",
+        "category": "Baked Beans",
+        "ingredients": [
+            "6 slices bacon",
+            "1 cup chopped onion",
+            "1 clove garlic, minced",
+            "1 (16 ounce) can pinto beans",
+            "1 (16 ounce) can great Northern beans, drained",
+            "1 (16 ounce) can baked beans",
+            "1 (16 ounce) can red kidney beans, drained",
+            "1 (15 ounce) can garbanzo beans, drained",
+            "¾ cup ketchup",
+            "½ cup molasses",
+            "¼ cup packed brown sugar",
+            "2 tablespoons Worcestershire sauce",
+            "1 tablespoon yellow mustard",
+            "½ teaspoon pepper"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving 2 tablespoons of drippings, crumble and set aside in a large bowl. Cook the onion and garlic in the reserved drippings until onion is tender; drain excess grease and transfer to the bowl with the bacon.",
+            "To the bacon and onions add pinto beans, northern beans, baked beans, kidney beans and garbanzo beans. Stir in ketchup, molasses, brown sugar, Worcestershire sauce, mustard and black pepper. Mix well and transfer to a 9x12 inch casserole dish.",
+            "Cover and bake in preheated oven for 1 hour."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

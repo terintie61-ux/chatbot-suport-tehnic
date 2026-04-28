@@ -1,0 +1,605 @@
+[
+    {
+        "Main_category": "ocasional_based"
+    },
+    {
+        "recipe_title": "Chimichurri Potato Salad",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "3 pounds russet potatoes, peeled",
+            "2 tablespoons kosher salt"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Cut potatoes in quarters lengthwise, and then slice across into 3/8 inch thick pieces.",
+            "Place potatoes in a pot with 2 tablespoons kosher salt and enough cold water to cover; bring to a simmer over high heat. Reduce the heat to medium-low and simmer until just barely tender. Potatoes may cook in 10 minutes or less once water is simmering, so test early and often—the tip of a knife should slide in easily.",
+            "Drain potatoes thoroughly and let cool in the strainer until just warm, about 20 minutes; transfer into a bowl and set aside.",
+            "Combine garlic, red pepper flakes, cumin, black pepper, dried oregano, olive oil, champagne vinegar, and salt in a blender or blender cup. Blend until smooth; add fresh oregano, cilantro, and parsley, and continue blending until a relatively smooth purée is formed.",
+            "Pour over potatoes and mix thoroughly with a spatula. Cover and refrigerate for at least 1 hour and up to 12 hours.",
+            "Remove from the refrigerator to sit at room temperature for 1 hour. Stir in chives, then taste and adjust seasoning. adding more salt if necessary. The texture of the salad can be adjusted with more oil and vinegar, or a spoon of mayonnaise for a creamier version."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Classic Pickled Eggs",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "12 small eggs",
+            "3 cups white vinegar",
+            "¼ cup white sugar",
+            "1 tablespoon salt",
+            "2 cloves garlic",
+            "1 bay leaf"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, and peel. Discard hot water.",
+            "Bring vinegar, sugar, and salt to a boil in the same saucepan until sugar is dissolved. Remove from heat.",
+            "Place peeled eggs, garlic, and bay leaf in a 1-quart mason jar; top with vinegar mixture. Seal the jar and refrigerate for at least 1 week before serving."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Scotch Eggs",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 quart oil for frying",
+            "4 large eggs",
+            "2 pounds bulk pork sausage",
+            "1 cup all-purpose flour",
+            "4 large eggs, beaten",
+            "4 cups dried bread crumbs, seasoned"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Heat oil in a deep-fryer to 375 degrees F (190 degrees C).",
+            "Place eggs in a saucepan and cover with water. Bring to boil. Cover, remove from heat, and let eggs sit in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel.",
+            "Flatten sausage and make a patty to surround each egg.",
+            "Very lightly flour the outer sausage layer then coat with beaten egg. Roll in bread crumbs to cover evenly.",
+            "Deep-fry prepared eggs in hot oil until golden brown while making sure each side is well cooked.",
+            "Bake in the preheated oven for 10 minutes.",
+            "Cut in half and serve.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheesecake in a Jar",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "6 pecan shortbread cookies (such as Keebler Sandies), finely crushed",
+            "2 tablespoons butter, melted",
+            "2 tablespoons white sugar",
+            "6 (1/2 pint) canning jars with lids",
+            "12 ounces sliced fresh strawberries",
+            "1 (8 ounce) package cream cheese, softened",
+            "½ cup white sugar",
+            "2 tablespoons fresh lemon juice",
+            "½ cup heavy cream, whipped"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Mix cookie crumbs, butter, and 2 tablespoons sugar in a bowl until combined. Divide mixture evenly among jars, about 3 1/2 tablespoons each, and gently press (do not pack) into bottoms.",
+            "Halve 6 strawberries for garnish, and set aside. Chop remaining strawberries.",
+            "Beat cream cheese, 1/2 cup sugar, and lemon juice in bowl with an electric mixer at medium speed until smooth. Fold in whipped cream and chopped berries; divide evenly among jars, about 1/2 cup each. Top each with a 2 berry halves and cover with lids. Chill at least 2 hours and up to 3 days."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Delicious Egg Salad",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "8 large eggs",
+            "½ cup mayonnaise",
+            "¼ cup chopped green onion",
+            "1 teaspoon prepared yellow mustard",
+            "¼ teaspoon paprika",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes.",
+            "Remove eggs from hot water; cool, peel, and chop.",
+            "Place chopped eggs in a bowl; stir in mayonnaise, green onion, and mustard. Season with paprika, salt, and pepper.",
+            "Stir and serve on your favorite bread, crackers, or salad greens."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Brownies",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "½ cup butter",
+            "1 cup white sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "⅓ cup unsweetened cocoa powder",
+            "½ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "¼ teaspoon baking powder"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.",
+            "Melt 1/2 cup butter in a large saucepan. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, flour, salt, and baking powder. Spread batter into prepared pan.",
+            "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, about 25 to 30 minutes. Let cool briefly before frosting.",
+            "To make the chocolate frosting: Combine softened butter, confectioners' sugar, 3 tablespoons cocoa, honey, and 1 teaspoon vanilla extract in a bowl. Stir until smooth. Frost brownies while they are still warm."
+        ],
+        "healthiness_score": 28,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Potato Salad",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "5 medium potatoes",
+            "3 large eggs",
+            "1 cup chopped celery",
+            "½ cup chopped onion",
+            "½ cup sweet pickle relish",
+            "¼ cup mayonnaise",
+            "1 tablespoon prepared mustard",
+            "¼ teaspoon garlic salt",
+            "¼ teaspoon celery salt",
+            "ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes.",
+            "Drain, cool, peel, and chop potatoes.",
+            "While potatoes cook, place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes.",
+            "Remove eggs from hot water; cool, peel, and chop into chunks.",
+            "Combine potatoes, eggs, celery, onion, relish, mayonnaise, mustard, garlic salt, celery salt, and pepper in a large bowl. Mix together until well combined.",
+            "Chill potato salad in the refrigerator before serving for best flavor results. Enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ma's Frozen Pickles",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "8 cups peeled and sliced cucumbers",
+            "1 small onion, sliced",
+            "2 tablespoons salt",
+            "1 ½ cups white sugar",
+            "½ cup white vinegar"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine cucumbers, onion, and salt in a bowl filled with water. Refrigerate until vegetables are softened, about 2 hours; drain.",
+            "Combine sugar and vinegar in a saucepan; bring to a boil. Remove from heat; cool to room temperature. Pour liquid over cucumber mixture. Freeze until frozen, 1 to 2 hours."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chex Muddy Buddies",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "3 cups Rice Chex cereal",
+            "3 cups Corn Chex cereal",
+            "3 cups Chocolate Chex cereal",
+            "1 cup semisweet chocolate chips",
+            "½ cup peanut butter",
+            "¼ cup butter or margarine",
+            "1 teaspoon vanilla",
+            "1 ½ cups powdered sugar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine all cereals in a large bowl; set aside.",
+            "Place chocolate chips, peanut butter, and butter in a 1-quart microwave-safe bowl. Microwave, uncovered, on high for 1 minute, then stir. Continue warming mixture until smooth and combined, about 30 seconds longer. Stir in vanilla.",
+            "Pour chocolate mixture over cereal and stir until evenly coated. Transfer to a 2-gallon resealable plastic bag.",
+            "Add powdered sugar to the bag and seal; shake until well-coated.",
+            "Evenly spread cereal out onto waxed paper to cool.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Buttermilk Fried Chicken",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 (3 1/2) pound chicken, cut into 8 pieces",
+            "1 teaspoon black pepper",
+            "1 teaspoon salt",
+            "1 teaspoon paprika",
+            "½ teaspoon white pepper",
+            "¼ teaspoon dried rosemary",
+            "¼ teaspoon ground thyme",
+            "¼ teaspoon dried oregano",
+            "¼ teaspoon dried sage",
+            "¼ teaspoon cayenne pepper",
+            "2 cups buttermilk"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Toss chicken pieces, black pepper, salt, paprika, white pepper, rosemary, thyme, oregano, sage, and cayenne together in a large bowl.",
+            "Stir in buttermilk until chicken is evenly coated. Cover and refrigerate for 6 hours.",
+            "Combine flour, salt, paprika, cayenne, garlic powder, white pepper, and onion powder in a large shallow dish.",
+            "Remove chicken from buttermilk and dredge each piece in seasoned flour; shake off any excess and transfer to a plate.",
+            "Heat peanut oil in a large Dutch oven to 350 degrees F (175 degrees C).",
+            "Add chicken pieces to the hot oil and fry for 10 minutes. Turn chicken pieces and fry for another 10 to 15 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Transfer fried chicken to a cooling rack set over a paper towel-lined baking sheet. Let sit for 10 minutes before serving.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Triple-Dipped Fried Chicken",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 quart vegetable oil for frying",
+            "4 ⅓ cups all-purpose flour, divided",
+            "1 ½ tablespoons garlic salt",
+            "1 tablespoon ground black pepper",
+            "1 tablespoon paprika",
+            "½ teaspoon poultry seasoning",
+            "1 ½ cups beer, or as needed",
+            "2 egg yolks, beaten",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 (3 pound) whole chicken, cut into pieces"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a deep fryer to 350 degrees F (175 degrees C). Mix 3 cups flour, garlic salt, 1 tablespoon pepper, paprika, and poultry seasoning together in a medium bowl.",
+            "Stir 1 1/2 cups beer, remaining 1 1/3 cups flour, egg yolks, salt, and 1/4 teaspoon pepper together in a separate bowl; thin with more beer if batter is too thick.",
+            "Moisten chicken pieces with a little water, then dip in seasoned flour mixture. Shake off excess and dip in beer batter, then dip in the seasoned flour mixture once more.",
+            "Lower chicken pieces carefully into the hot oil in batches. Fry until crispy and well-browned, about 15 to 18 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Transfer to a paper towel-lined plate to drain. Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pasta Salad with Homemade Dressing",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 (8 ounce) package uncooked tri-color rotini pasta",
+            "6 ounces pepperoni sausage, diced",
+            "6 ounces provolone cheese, cubed",
+            "1 medium red onion, very thinly sliced and cut into 1-inch pieces",
+            "1 small cucumber, thinly sliced",
+            "¾ cup chopped green bell pepper",
+            "¾ cup chopped red bell pepper",
+            "1 (6 ounce) can pitted black olives, drained",
+            "¼ cup minced fresh parsley",
+            "¼ cup grated Parmesan cheese"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a large pot of lightly salted water to a boil. Add rotini and cook until tender yet firm to the bite, 8 to 10 minutes. Drain, rinse with cold water, and drain again.",
+            "Transfer drained, cooked pasta to a large bowl. Add pepperoni, provolone cheese, red onion, cucumber, bell peppers, olives, parsley, and Parmesan cheese.",
+            "Mix olive oil, vinegar, garlic, basil, oregano, ground mustard, salt, and pepper for dressing in a jar with a lid. Seal the jar, and shake until well combined.",
+            "Pour dressing over the pasta salad; toss until well coated. Serve immediately, or cover and chill in the refrigerator for up to 8 hours before serving."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cedar Planked Salmon",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "3 (12-inch) untreated cedar planks",
+            "⅓ cup soy sauce",
+            "⅓ cup vegetable oil",
+            "1 ½ tablespoons rice vinegar",
+            "1 teaspoon sesame oil",
+            "¼ cup chopped green onions",
+            "1 tablespoon grated fresh ginger",
+            "1 teaspoon minced garlic",
+            "2 (2-pound) salmon fillets, skin removed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Soak cedar planks for at least 1 hour in warm water. Soak longer if you have time.",
+            "Stir soy sauce, vegetable oil, rice vinegar, sesame oil, green onions, ginger, and garlic together in a shallow dish.",
+            "Place salmon fillets in soy mixture and turn to coat. Cover and marinate for at least 15 minutes, or up to 1 hour refrigerated.",
+            "Preheat an outdoor grill for medium heat. Place planks on the grill grate. Heat planks until they start to smoke and crackle just a little.",
+            "Remove salmon from marinade and place on planks; discard marinade.",
+            "Close grill cover. Grill salmon until it flakes easily with a fork, about 20 minutes; salmon will continue to cook after you remove it from the grill."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Three Bean Salad",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 (15 ounce) can green beans",
+            "1 pound wax beans",
+            "1 (15 ounce) can kidney beans, drained and rinsed",
+            "1 onion, sliced into thin rings",
+            "¾ cup white sugar, or to taste",
+            "⅔ cup distilled white vinegar",
+            "⅓ cup vegetable oil",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon celery seed"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix together green beans, wax beans, kidney beans, onion, sugar, vinegar, vegetable oil, salt, pepper, and celery seed. Chill in refrigerator for at least 12 hours.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Homestyle Potato Chips",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "4 medium potatoes, peeled and sliced paper-thin",
+            "3 tablespoons salt, plus more to taste",
+            "1 quart oil for deep frying"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Transfer potato slices to a large bowl of cold water as you slice them.",
+            "Drain slices and rinse under cold water. Refill the bowl with water, add 3 tablespoons salt, and put slices back in the bowl. Let potatoes soak in the salty water for at least 30 minutes.",
+            "Drain and rinse slices again. Pat dry.",
+            "Heat oil in a deep-fryer to 365 degrees F (185 degrees C).",
+            "Working in small batches, fry potato slices until golden. Remove with a slotted spoon and drain on paper towels. Continue until all of the slices are fried.",
+            "Season potato chips with additional salt if desired.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Crisp Pickled Green Beans",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "2 ½ cups distilled white vinegar",
+            "2 cups water",
+            "¼ cup salt",
+            "1 clove garlic, peeled",
+            "2 ½ pounds fresh green beans",
+            "6 large sprigs dill",
+            "¾ teaspoon red pepper flakes (Optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Inspect six ½-pint jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water. Wash new, unused lids and rings in warm soapy water.",
+            "While the jars are being sterilized, stir together vinegar, water, and salt in a large saucepan. Add garlic and bring to a rolling boil over high heat.",
+            "Trim green beans to 1/4-inch shorter than the jars.",
+            "Remove jars from simmering water. Place 1 sprig of dill and 1⁄8 teaspoon red pepper flakes in each jar. Pack in green beans standing on end.",
+            "Ladle boiling brine (leave out garlic) into the jars, filling within ¼-inch of the tops. Seal jars with lids and rings.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water.",
+            "Bring to a boil and lower jars 2 inches apart into the boiling water using a holder.",
+            "Pour in more boiling water to cover jars by at least 1 inch. Bring to a simmer (do not boil), cover, and process for 10 minutes.",
+            "Remove jars from the stockpot and cool to room temperature, 8 to 12 hours. Test jars for a good seal by pressing on the center of the lid — it should not move.",
+            "Let green beans ferment for 2 to 3 weeks in a cool, dark space before eating."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ham Salad",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "3 cups ground fully cooked ham",
+            "2 hard-cooked eggs, chopped",
+            "2 tablespoons finely chopped celery",
+            "4 teaspoons sweet pickle relish",
+            "2 teaspoons finely chopped onion",
+            "1 cup mayonnaise",
+            "1 tablespoon prepared yellow mustard"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix ham, eggs, celery, pickle relish, and onion together in a medium bowl until combined.",
+            "Mix mayonnaise and mustard together in a small bowl.",
+            "Add to ham mixture and stir to coat.",
+            "Refrigerate until ready to serve."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Fried Chicken",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 (4 pound) chicken, cut into pieces",
+            "1 cup buttermilk",
+            "2 cups all-purpose flour for coating",
+            "1 teaspoon paprika",
+            "salt and pepper to taste",
+            "2 quarts vegetable oil for frying"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Take your cut up chicken pieces and skin them if you prefer.",
+            "Place flour in a large plastic bag (let the amount of chicken you are cooking dictate the amount of flour you use). Season flour with paprika (which helps to brown the chicken), salt and pepper.",
+            "Dip chicken pieces in buttermilk then, a few at a time, transfer them into the bag with flour; seal the bag and shake to coat well.",
+            "Place the coated chicken on a cookie sheet or tray, and cover with a clean dish towel or waxed paper. LET SIT UNTIL THE FLOUR IS OF A PASTE-LIKE CONSISTENCY. THIS IS CRUCIAL!",
+            "Fill a large skillet (cast iron is best) about 1/3 to 1/2 full with vegetable oil. Heat until VERY hot.",
+            "Put in as many chicken pieces as the skillet can hold. Brown the chicken in HOT oil on both sides.",
+            "When browned, reduce heat and cover skillet; let cook for 30 minutes (the chicken will be cooked through but not crispy). Remove cover, raise heat again, and continue to fry until crispy.",
+            "Drain fried chicken on paper towels. Depending on how much chicken you have, you may have to fry in a few shifts. Keep the finished chicken in a slightly warm oven while preparing the rest."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Melt in Your Mouth Blueberry Cake",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "½ cup butter",
+            "¾ cup white sugar, divided",
+            "¼ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "2 egg yolks",
+            "1 ½ cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "⅓ cup milk",
+            "1 ½ cups fresh blueberries",
+            "1 tablespoon all-purpose flour",
+            "2 egg whites",
+            "1 tablespoon white sugar"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch pan.",
+            "Beat butter and 1/2 cup sugar together in a large bowl with an electric mixer until soft and fluffy; mix in vanilla and salt. Add egg yolks and beat until creamy.",
+            "Combine 1 ½ cups flour and baking powder in a bowl; add alternately with milk to creamed mixture.",
+            "Toss blueberries with 1 tablespoon flour in a small bowl. Add to the batter and fold in gently.",
+            "Beat egg whites in a separate bowl until soft peaks form. Add remaining 1/4 cup of sugar, 1 tablespoon at a time, and beat until stiff peaks form. Fold egg whites into cake batter.",
+            "Pour batter into the prepared pan. Sprinkle remaining 1 tablespoon sugar over top.",
+            "Bake in the preheated oven until a toothpick inserted in center comes out clean, about 50 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Tuna Rice Bowl",
+        "category": "Picnic Recipes",
+        "ingredients": [
+            "1 cup uncooked long-grain rice",
+            "1 ½ cups water",
+            "1 (7 ounce) jar tuna packed in olive oil",
+            "½ cup finely diced red bell pepper",
+            "¼ cup finely diced jalapeno pepper",
+            "¼ cup finely sliced green onions",
+            "⅓ cup seasoned rice vinegar",
+            "½ lemon, juiced, or to taste",
+            "2 tablespoons soy sauce",
+            "2 teaspoons Sriracha hot sauce",
+            "½ teaspoon sesame oil",
+            "1 pinch Korean red pepper flakes (gochugaru), or to taste",
+            "1 teaspoon finely sliced green onion, or to taste"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients.",
+            "Pour rice into a heavy pot and add water; swirl to allow rice to settle. Bring to a simmer over medium-high heat; do not stir. Reduce heat to low, cover, and continue to simmer for 15 minutes.",
+            "While rice is cooking, place tuna into a large mixing bowl and break up with your hands or a fork. Toss in red bell pepper, jalapeno, 1/4 cup green onions, rice vinegar, lemon juice, soy sauce, Sriracha, and sesame oil. Mix with a fork until thoroughly combined. Turn off heat and let rice sit, covered, for 10 minutes.",
+            "Fluff rice with a fork to separate the grains and break up any large clumps; transfer into the mixing bowl. Mix thoroughly with a spoon until all the ingredients are evenly incorporated. Taste and adjust seasoning if needed. Serve warm, at room temperature, or cold like a rice salad, topped with red pepper flakes and 1 teaspoon green onion."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

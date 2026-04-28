@@ -1,0 +1,507 @@
+[
+    {
+        "Main_category": "healthy"
+    },
+    {
+        "recipe_title": "Sarah's Homemade Applesauce",
+        "category": "Low Sodium",
+        "ingredients": [
+            "4 apples - peeled, cored and chopped",
+            "¾ cup water",
+            "¼ cup white sugar or to taste",
+            "½ teaspoon ground cinnamon"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine apples, water, sugar, and cinnamon in a saucepan; cover and cook over medium heat until apples are soft, stirring occasionally, about 15 to 20 minutes.",
+            "Allow apple mixture to cool, then mash with a fork or potato masher until it is the consistency you like."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Crispy Hash Browns",
+        "category": "Low Sodium",
+        "ingredients": [
+            "2 medium russet potatoes, shredded",
+            "½ medium onion, finely chopped",
+            "¼ cup all-purpose flour",
+            "1 large egg",
+            "1 cup oil for frying, or as needed",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Rinse shredded potatoes until water is clear, then drain and squeeze dry. Place shreds in a bowl and mix in the onion, flour, and egg until evenly distributed.",
+            "Heat about 1/4 inch of oil in a large heavy skillet over medium-high heat. When oil is sizzling hot, place potatoes into the pan in a 1/2 inch thick layer. Cover the whole bottom of the pan, or make separate piles like pancakes.",
+            "Cook until nicely browned on the bottom, then flip over and brown on the other side. It should take at least 5 minutes per side. If you are cooking them in one big piece, it can be cut into quarters for easier flipping.",
+            "Remove from pan, and drain on paper towels. Season with salt and pepper and serve immediately.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Perfect Summer Fruit Salad",
+        "category": "Low Sodium",
+        "ingredients": [
+            "⅔ cup fresh orange juice",
+            "⅓ cup fresh lemon juice",
+            "⅓ cup packed brown sugar",
+            "½ teaspoon grated orange zest",
+            "½ teaspoon grated lemon zest",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather the ingredients.",
+            "To make the sauce: Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a boil in a saucepan over medium-high heat. Reduce heat to medium-low and simmer until slightly thickened, about 5 minutes.",
+            "Remove from heat and stir in vanilla extract. Set aside to cool.",
+            "Layer fruit in a large, clear glass bowl in this order: pineapple, strawberries, kiwi fruit, bananas, oranges, grapes, and blueberries. Pour cooled sauce over fruit; cover and refrigerate for 3 to 4 hours before serving."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gnocchi",
+        "category": "Low Sodium",
+        "ingredients": [
+            "3 medium russet potatoes, scrubbed",
+            "1 ½ cups all-purpose flour, plus more for dusting",
+            "1 large egg",
+            "1 teaspoon kosher salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather the ingredients.",
+            "Place potatoes in a large saucepan and cover with 2 inches of salted water. Bring to a boil over high heat; reduce heat to medium-high and simmer, undisturbed, until tender but still firm, 25 to 30 minutes. Drain potatoes and place back in the pot to dry and cool slightly, 5 to 10 minutes.",
+            "As soon as potatoes are cool enough to handle, peel potatoes by rubbing skins off with your hands. Pass peeled potatoes through a potato ricer into a large bowl (alternatively, mash until very smooth.) Let cool slightly, about 10 minutes.",
+            "Fold in flour, egg, and salt until flour is incorporated and dough starts to hold together. Transfer dough to a lightly floured surface and gently knead once or twice until mostly smooth (do not overwork).",
+            "Divide dough into 4 even portions. Roll and shape each portions of the dough into long \"snakes,\" about ¾-inch in diameter.",
+            "Cut snakes into about 1/2-inch long pieces. (Optional: Roll each piece against the tines of a fork or a gnocchi board to make light ridges.) Transfer shaped gnocchi to a single layer on a parchment-lined baking sheet dusted with flour.",
+            "Bring a large pot of lightly salted water to a boil over high. Working in batches, drop in gnocchi and cook for 3 to 4 minutes or until gnocchi have risen to the top; transfer cooked gnocchi with a spider or slotted spoon to desired sauce.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Roasted Broccoli",
+        "category": "Low Sodium",
+        "ingredients": [
+            "14 ounces broccoli",
+            "1 tablespoon olive oil",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+            "Cut broccoli florets from the stalk.",
+            "Peel the stalk and slice into 1/4-inch slices.",
+            "Mix florets and stem pieces with olive oil in a bowl and transfer to a baking sheet; season with salt and pepper.",
+            "Roast in the preheated oven until broccoli is tender and lightly browned, about 18 to 20 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Asparagus",
+        "category": "Low Sodium",
+        "ingredients": [
+            "1 pound fresh asparagus spears, trimmed",
+            "1 tablespoon olive oil",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather the ingredients.",
+            "Preheat an outdoor grill for high heat and lightly oil the grate.",
+            "Lightly coat the asparagus spears with olive oil. Season with salt and pepper to taste.",
+            "Cook asparagus on the preheated grill, turning often until lightly charred and fork-tender about 3 to 5 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "High Temperature Eye-of-Round Roast",
+        "category": "Low Sodium",
+        "ingredients": [
+            "1 (3 pound) beef eye of round roast",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 500 degrees F (260 degrees C).",
+            "Season roast with salt and pepper.",
+            "Place in a roasting pan or baking dish. Do not cover or add water.",
+            "Place roast in the preheated oven and reduce temperature to 475 degrees F (245 degrees C). Roast for 21 minutes (7 minutes per pound), then turn off the oven and let roast sit in the hot oven for 2 1/2 hours. Do not open the door at all during this time.",
+            "Remove roast from the oven and check that the internal temperature is at least 145 degrees F (65 degrees C). Carve into thin slices to serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Oven-Baked Potato Slices",
+        "category": "Low Sodium",
+        "ingredients": [
+            "4 medium baking potatoes, sliced 1/8-inch thick",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon ground black pepper",
+            "⅛ teaspoon celery seed",
+            "⅛ teaspoon paprika",
+            "1 pinch cayenne pepper",
+            "1 dash salt",
+            "4 tablespoons olive oil, or more as needed"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+            "Place potatoes, garlic powder, black pepper, celery seed, paprika, cayenne pepper, and salt into a zip-top bag. Shake to coat evenly.",
+            "Pour the entire contents of the bag onto a large baking sheet and spread evenly. Drizzle with olive oil.",
+            "Bake in the preheated oven until potatoes reach desired crispness, turning frequently to brown evenly, 40 to 45 minutes.",
+            "Remove from the oven. Let cool slightly and transfer into a serving dish."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Perfect Mashed Potatoes",
+        "category": "Low Sodium",
+        "ingredients": [
+            "3 large russet potatoes, peeled and halved lengthwise",
+            "1/2 cup whole milk",
+            "1/4 cup butter",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Place potatoes in a large pot and cover with cold salted water by about 1 inch. Bring to a boil. Reduce heat to medium-low, cover and simmer until tender and easily pierced with a fork, 20 to 25 minutes.",
+            "Drain potatoes, then return to the pot. Turn heat to high and allow potatoes to dry for about 30 seconds. Turn off heat.",
+            "Mash potatoes with a potato masher twice around the pot, then mash in milk and butter until smooth and fluffy. Season with salt and black; whisk until evenly distributed, about 15 seconds."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Southern Fried Chicken Livers",
+        "category": "Low Sodium",
+        "ingredients": [
+            "1 pound chicken livers",
+            "1 egg",
+            "½ cup milk",
+            "1 cup all-purpose flour",
+            "1 tablespoon garlic powder",
+            "salt and pepper to taste",
+            "1 quart vegetable oil for frying"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Place chicken livers in a colander; rinse with cold water and drain well. Blot dry with paper towels.",
+            "Whisk egg and milk together in a shallow dish until blended.",
+            "Place flour, garlic powder, salt, and pepper into a zip-top bag; shake to combine. Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Dip chicken livers in egg mixture to coat, then transfer, one at a time, into flour mixture, shaking the bag to coat completely.",
+            "Gently place coated livers, a few at a time, into hot oil; cover with a splatter screen and cook until crisp and golden brown, 5 to 6 minutes.",
+            "Serve with your choice of dip. Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Asian Coconut Rice",
+        "category": "Low Sodium",
+        "ingredients": [
+            "1 ½ cups uncooked jasmine rice",
+            "1 (14 ounce) can light or full-fat coconut milk, well shaken and stirred",
+            "1 ¼ cups water",
+            "2 teaspoons sugar",
+            "1 ½ teaspoons kosher salt",
+            "1 teaspoon coconut oil"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather the ingredients.",
+            "Place rice in a fine mesh strainer, and rinse with cold water, stirring rice using your fingers to remove excess starch, until water from rice runs clear, about 1 minute.",
+            "Place rinsed rice, coconut milk, water, sugar, and salt in a medium saucepan; stir until sugar dissolves, about 1 minute.",
+            "Bring mixture in saucepan to a boil over medium heat. Cover, reduce heat to low, and simmer, undisturbed, for 11 minutes. Turn off heat; steam, covered, until rice is tender and liquid is absorbed, about 10 minutes. Uncover and gently stir in coconut oil.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Baked Potatoes",
+        "category": "Low Sodium",
+        "ingredients": [
+            "4 baking potatoes, well scrubbed",
+            "1 tablespoon extra virgin olive oil",
+            "kosher salt to taste",
+            "4 sheets aluminum foil"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Prick potatoes with a fork several times, then rub with olive oil and season with salt.",
+            "Wrap tightly in foil and place into the slow cooker.",
+            "Cook until tender, on Low for 7 1/2 hours or on High for 4 1/2 to 5 hours.",
+            "Serve with your choice of toppings and enjoy!"
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Acorn Squash",
+        "category": "Low Sodium",
+        "ingredients": [
+            "1 medium acorn squash, halved and seeded",
+            "2 tablespoons brown sugar",
+            "1 tablespoon butter"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place squash halves, cut-side down, on a baking sheet. Bake in the preheated oven until flesh begins to soften, about 30 to 45 minutes.",
+            "Remove squash from the oven and transfer one squash half, cut-side up, to a deep baking dish. Spoon butter and brown sugar into the cavity. Place remaining squash half, cut-side down, over top to seal.",
+            "Return to the oven and continue to bake until flesh is soft, 30 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Garlic Mashed Potatoes",
+        "category": "Low Sodium",
+        "ingredients": [
+            "2 pounds Yukon gold potatoes, peeled and cut into 1 ½-inch pieces",
+            "5 large garlic",
+            "1 tablespoon kosher salt",
+            "⅓ cup unsalted butter, cut into 8 pieces, plus more for serving",
+            "¾ cup whole milk",
+            "1 teaspoon kosher salt",
+            "¼ teaspoon ground white pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine potatoes, garlic, and 1 tablespoon of the salt in a medium saucepan with enough water to cover by 1 inch. Bring to a boil over high. Reduce heat to medium-low, and simmer until potatoes are fork-tender, 10 to 12 minutes.",
+            "Drain potatoes and return to hot saucepan. Stir until dry, about 1 minute.",
+            "Add butter, 1 piece at a time, stirring gently until melted before the next addition.",
+            "Using a potato masher, mash in milk until smooth. Stir in 1 teaspoon salt and white pepper.",
+            "Transfer potatoes to a serving bowl and top with more butter, if desired."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Authentic Mexican Rice",
+        "category": "Low Sodium",
+        "ingredients": [
+            "¼ cup canola oil",
+            "1 tablespoon onion powder",
+            "1 tablespoon garlic powder",
+            "1 cup uncooked white rice",
+            "1 ½ cups water",
+            "1 (6.5 ounce) can tomato sauce"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat canola oil in a skillet over medium-high heat; season with onion powder and garlic powder. Stir in rice and cook until golden, 2 to 4 minutes.",
+            "Stir in water and tomato sauce; bring to a boil. Reduce heat to medium-low, cover, and simmer until rice is tender, about 15 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dry Onion Soup Mix",
+        "category": "Low Sodium",
+        "ingredients": [
+            "¼ cup dried onion flakes",
+            "2 tablespoons low-sodium beef bouillon granules",
+            "¼ teaspoon onion powder",
+            "¼ teaspoon parsley flakes",
+            "⅛ teaspoon celery seed",
+            "⅛ teaspoon paprika",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir onion flakes, beef bouillon granules, onion powder, parsley flakes, celery seed, paprika, and black pepper together in a bowl. Use as a substitute for a 1-ounce envelope of dry onion soup mix."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pinakbet",
+        "category": "Low Sodium",
+        "ingredients": [
+            "3 tablespoons olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "½ pound pork loin, chopped",
+            "½ pound peeled and deveined prawns",
+            "salt and pepper to taste",
+            "1 tomato, chopped",
+            "¼ pound zucchini, seeded and cut into bite-size pieces",
+            "¼ pound fresh okra, ends trimmed",
+            "¼ pound fresh green beans, trimmed",
+            "¼ pound eggplant, cut into bite-size pieces",
+            "1 small bitter melon, cut into bite-size pieces"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat oil in a large pot over medium heat; stir in onion and garlic and cook until tender, about 5 minutes.",
+            "Add pork; cook and stir until browned, 5 to 7 minutes.",
+            "Add prawns; cook and stir until they turn pink, about 5 minutes.",
+            "Stir in tomato; season with salt and pepper, cover and simmer for 5 minutes.",
+            "Stir in zucchini, okra, green beans, eggplant, and bitter melon; cover and cook until the vegetables are tender, about 10 minutes."
+        ],
+        "healthiness_score": 92,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked Sweet Potatoes",
+        "category": "Low Sodium",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "3 large sweet potatoes",
+            "2 pinches dried oregano or to taste",
+            "2 pinches salt",
+            "2 pinches ground black pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat the bottom of a glass or nonstick baking dish with olive oil, just enough to coat.",
+            "Wash and peel sweet potatoes; cut into medium pieces.",
+            "Place in the baking dish and stir to coat with olive oil. Sprinkle with oregano, salt, and pepper.",
+            "Bake in the preheated oven until soft and fork-tender, about 45 minutes to 1 hour.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Spinach Salad",
+        "category": "Low Sodium",
+        "ingredients": [
+            "½ cup white sugar",
+            "½ cup olive oil",
+            "¼ cup distilled white vinegar",
+            "2 tablespoons sesame seeds",
+            "1 tablespoon poppy seeds",
+            "1 tablespoon minced onion",
+            "¼ teaspoon paprika",
+            "¼ teaspoon Worcestershire sauce"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the dressing: Whisk sugar, oil, vinegar, sesame seeds, poppy seeds, onion, paprika, and Worcestershire sauce together in a medium bowl until well combined. Cover the dressing and chill it in the refrigerator for 1 hour.",
+            "To make the spinach salad: Combine sliced strawberries, torn spinach leaves, and almonds in a large bowl.",
+            "Pour dressing over salad; toss to coat.",
+            "Refrigerate for 10 to 15 minutes before serving."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Brazilian Grilled Pineapple",
+        "category": "Low Sodium",
+        "ingredients": [
+            "1 cup brown sugar",
+            "2 teaspoons ground cinnamon",
+            "1 pineapple - peeled, cored, and cut into 6 wedges"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+            "Whisk brown sugar and cinnamon together in a bowl.",
+            "Transfer into a large resealable plastic bag. Add pineapple wedges to the bag; shake well to coat each wedge.",
+            "Grill pineapple wedges on the preheated grill until heated through, 3 to 5 minutes per side."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    }
+]

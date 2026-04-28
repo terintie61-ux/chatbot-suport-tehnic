@@ -1,0 +1,675 @@
+[
+    {
+        "Main_category": "others"
+    },
+    {
+        "recipe_title": "Stick of Butter Steak and Rice",
+        "category": "Mushrooms",
+        "ingredients": [
+            "2 cups rice",
+            "1/2 onion",
+            "8 ounces portobello mushrooms",
+            "2 (10 ounce) cans beef consomme",
+            "1 (10 ounce) can French onion soup",
+            "1/2 cup water",
+            "1 cup grated Parmesan cheese",
+            "8 tablespoons butter",
+            "1 1/2 pounds cube steak",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon kosher salt",
+            "1/2 teaspoon pepper",
+            "2 tablespoons chopped parsley"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Stir together rice, onion, mushrooms, consomme, French onion soup, and water in a 9x13-inch baking dish. Top with butter and sprinkle with 3/4 cups cheese.",
+            "Season steak with garlic powder, salt, and pepper and place on top of rice mixture. Top with remaining cheese. Cover with foil.",
+            "Bake in the preheated oven for 50 minutes. Uncover and continue to bake until liquid is absorbed and rice is cooked and golden brown on top, 20 to 30 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Miso Ramen Stir Fry",
+        "category": "Mushrooms",
+        "ingredients": [
+            "6 ounces instant ramen noodles",
+            "1 tablespoon sesame oil",
+            "4 ounces mushrooms",
+            "2 teaspoons rice vinegar",
+            "1 teaspoon low sodium soy sauce",
+            "6 spears asparagus",
+            "2 tablespoons unsalted butter",
+            "1 tablespoon miso paste",
+            "chopped scallions",
+            "sesame seeds,"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Bring a pot of water to a boil, and add ramen, breaking up noodles if desired. Cook until tender, about 3 minutes, or according to package directions. Drain and set aside.",
+            "Heat sesame oil in a large skillet over medium heat, Add sliced mushrooms. Cook 4 minutes.",
+            "Add rice vinegar and soy sauce. Cook 4 minutes.",
+            "Add asparagus and cook 1 minute. Stir in butter and miso paste. Cook 1 minute more. Turn heat off.",
+            "Stir in drained noodles. Ladle into serving dishes and garnish with scallions and sesame seeds."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Beef Tips and Gravy",
+        "category": "Mushrooms",
+        "ingredients": [
+            "2 teaspoons oil",
+            "2 pounds beef steak tips",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon granulated garlic",
+            "1/2 teaspoon Cantanzaro herbs or Italian seasoning",
+            "1/4 teaspoon pepper",
+            "1 cup beef bone broth",
+            "1 (10.5 ounce) can cream of mushroom soup",
+            "1 (0.87 ounce) packet brown gravy mix",
+            "8 ounces button mushrooms"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Set a heavy cast-iron skillet over medium-high heat; add oil. Toss beef steak tips with salt, granulated garlic, Cantanzaro herbs, and pepper.",
+            "Sear beef in batches until browned on all sides. Transfer steak tips to a slow cooker.",
+            "Combine beef bone broth, soup, and dry gravy mix; pour over steak tips. Add mushrooms to the slow cooker.",
+            "Cover and cook on Low for 8 hours or on High for 5 hours."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Stick of Butter Chicken and Rice",
+        "category": "Mushrooms",
+        "ingredients": [
+            "2 cups white rice",
+            "8 ounces portobello mushrooms, roughly chopped",
+            "2 (10.5 ounce) cans condensed beef consomme, such as Campbell's",
+            "1 (10.5-ounces) can condensed French onion soup, such as Campbell's",
+            "1 stick butter, cut into 8 pieces",
+            "1 cup Pecorino Romano",
+            "2 pounds boneless skinless chicken thighs",
+            "1 ¼ teaspoons kosher salt",
+            "3/4 teaspoon black pepper",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1 teaspoon paprika",
+            "1 tablespoon chopped parsley (optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Stir rice, portobello mushrooms, beef consomme, and French onion soup together in a 9 x 13-inch baking dish. Top with butter pieces and 3/4 cup of the cheese.",
+            "Season chicken evenly with salt, pepper, garlic powder, onion powder, and paprika and place on top of cheese and butter. Top with remaining cheese and cover dish with foil.",
+            "Bake in the preheated oven for 55 minutes. Uncover and bake until top is golden brown, liquid has been absorbed into the rice, and chicken is cooked through, about 20 to 30 more minutes. Sprinkle with fresh parsley if desired."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Smothered Chicken",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 (1.25 pound) package bone-in, skin-on chicken thighs",
+            "1/4 teaspoon garlic powder",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Season both sides of chicken thighs with salt, pepper, and garlic powder.",
+            "For seasoned flour, whisk flour, garlic powder, smoked paprika, onion powder, salt, and pepper together in a shallow bowl. Set aside 3 tablespoons of seasoned flour.",
+            "Dredge chicken in remaining seasoned flour; set aside on a plate.",
+            "Heat a cast iron skillet over medium heat; melt butter with olive oil. Fry chicken in the skillet until both sides are golden brown, about 7 minutes per side. They will not be completely cooked.",
+            "Remove chicken from the skillet. Add shallot and mushrooms to the skillet, and cook and stir until softened, about 3 minutes. Stir in garlic, and sauté until fragrant, about 30 seconds.",
+            "Sprinkle the reserved seasoned flour over the mixture. Blend until a smooth paste forms. Slowly whisk in bone broth, continue whisking and add evaporated milk.",
+            "Return chicken thighs to the skillet, cover, and reduce heat to low; continue cooking until the an instant read thermometer inserted near the center of thighs reaches 165 degrees F (74 degrees C), 20 to 25 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Viking Stew",
+        "category": "Mushrooms",
+        "ingredients": [
+            "4 1/2 pounds pork shoulder roast",
+            "3 teaspoons kosher salt",
+            "1/4 cup honey",
+            "1 cup blackberries,",
+            "2 tablespoons lingonberry jam",
+            "6 cups water",
+            "3 cloves garlic",
+            "1 teaspoon dried thyme",
+            "1 teaspoon ground coriander",
+            "1 yellow onion,",
+            "2 leeks",
+            "10 large mushrooms",
+            "1 small green cabbage",
+            "3 large carrots",
+            "2 fennel bulbs,",
+            "1/4 cup cilantro leaves",
+            "1/4 cup fresh dill",
+            "2 tablespoons fresh thyme leaves"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Add pork to a large soup pot or Dutch oven. Add salt, honey, berries, lingonberry jam, and cold water, and turn the heat to high.",
+            "While stew is coming to a boil, add garlic, dry thyme, and ground coriander. When mixture comes to a rolling boil, reduce heat to low, and simmer gently for 45 minutes, stirring occasionally.",
+            "Stir in onion, leeks, and mushrooms, and simmer until meat is almost, but not quite fork tender, about 45 minutes more.",
+            "Stir in cabbage, carrots, and fennel; continue to simmer until vegetables and meat are very tender, about 30 minutes.",
+            "Season to taste with salt. Serve with fresh herbs scattered over the top."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Chicken and Mushroom Soup",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 1/2 cups onion",
+            "3/4 cup celery",
+            "3/4 cup carrots",
+            "1 pound portobello (cremini) mushrooms",
+            "5 cloves garlic",
+            "1 teaspoon herbes de Provence",
+            "6 cups low-sodium chicken broth",
+            "2 cups rotisserie chicken, white or dark meat, or both",
+            "1/2 teaspoon red pepper flakes",
+            "3/4 cup heavy cream",
+            "5 ounces spinach,",
+            "salt and freshly ground black pepper",
+            "parsley, thyme. or snipped chives"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Heat olive oil in a large saucepan or Dutch oven over medium-high heat.",
+            "When the oil shimmers, add onion, celery and carrots. Cook, stirring, until onions begin to turn translucent, about 3 minutes.",
+            "Add mushrooms and cook, stirring frequently until soft, about 3 minutes. Stir in garlic and herbes de Provence and cook until garlic is fragrant, about 30 seconds.",
+            "Add broth, shredded chicken, and red pepper flakes, and bring to a boil. Cover, reduce heat, and simmer for about 10 minutes.",
+            "Place cream in a small bowl. Stir in about 2 tablespoons soup broth to warm the cream, then slowly add warmed cream in a slow stream while stirring. Add spinach and simmer until spinach is wilted. Season with salt and pepper.",
+            "To serve, ladle into serving bowls and garnish with fresh herbs."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chicken, Rice, and Noodle soup",
+        "category": "Mushrooms",
+        "ingredients": [
+            "2 tablespoons unsalted butter",
+            "1 small onion",
+            "1 stalk celery",
+            "6 baby carrots",
+            "4 ounces white mushrooms",
+            "8 cups chicken broth",
+            "2 cups rotisserie chicken",
+            "1 (5.6 ounce) packet chicken flavor rice and pasta blend"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Heat butter in a large stockpot over medium-high heat. Add onion, celery, carrots, and mushrooms. Cook until onions are translucent, about 4 minutes.",
+            "Add broth and chicken. Bring to a boil.",
+            "Add rice packet, reduce heat, and simmer 8 minutes. Turn heat off and let stand for 8 minutes. Ladle into bowls and serve."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Stroganoff",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 1/4 pounds skinless boneless chicken thighs, cut into bite-sized pieces",
+            "1/2 teaspoon salt, divided",
+            "1/2 teaspoon ground black pepper, divided",
+            "3 tablespoons all purpose flour, divided",
+            "tablespoon vegetable oil, plus more as needed",
+            "1 tablespoon butter",
+            "8 ounces cremini mushrooms, sliced",
+            "1/2 cup onion",
+            "2 cloves garlic, minced",
+            "1 cup reduced sodium chicken broth",
+            "1 tablespoon orcestershire sauce",
+            "2 teaspoons ijon mustard",
+            "1/2 cup sour cream",
+            "cup cooked rice, or as needed",
+            "paprika to taste",
+            "chopped chives"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Gather all ingredients.",
+            "Season chicken with 1/4 teaspoon salt and 1/4 teaspoon pepper. Sprinkle 2 tablespoons of the flour over chicken and toss to coat.",
+            "Heat 1 tablespoon oil in a 12-inch skillet over medium heat. Add half of the chicken and brown on each side, 3 minutes. Transfer chicken to a plate. Repeat with remaining chicken, adding up to 1 tablespoon additional oil, if needed.",
+            "Melt butter in the skillet. Add mushrooms and onion and cook until mushrooms release liquid and liquid cooks away, 6 to 8 minutes. Add garlic to skillet. Cook until fragrant, about 1 minute. Sprinkle with remaining 1 tablespoon flour. Cook and stir 1 minute.",
+            "Add broth, Worcestershire sauce, mustard, remaining 1/4 teaspoon salt, and remaining 1/4 teaspoon pepper to skillet. Bring to a boil while scraping the browned bits of food off the bottom of the skillet with a wooden spoon.",
+            "Add sour cream to a small bowl. Gradually whisk about 1/2 cup of the hot broth mixture into the sour cream. Add the sour cream mixture back to the skillet. Return to a boil.",
+            "Return chicken to the skillet. Simmer until heated through and sauce thickens slightly, 2 to 3 minutes.",
+            "Serve with rice. Sprinkle with paprika and chives."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Beef Tips with Mushroom Gravy",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 pound beef tips",
+            "2 tablespoons tomato paste",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/2 teaspoon Cantanzaro herbs",
+            "1/2 teaspoon salt",
+            "1 pinch black pepper",
+            "8 ounces button mushrooms, sliced",
+            "3/4 cup beef bone broth",
+            "2 tablespoons cornstarch"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine beef tips, tomato paste, garlic powder, onion powder, Cantanzaro herbs, salt, and pepper in a 6- to 7-quart slow cooker. Stir until beef is coated in tomato paste and seasonings. Pour beef bone broth over everything.",
+            "Cover the slow cooker and cook until beef is tender, 4 hours on High or 6 to 8 hours on Low. 30 minutes before the end time, add the sliced mushrooms.",
+            "Place cornstarch in a small bowl and ladle 1/4 cup of the hot broth from the slow cooker into the bowl. Use a small whisk or fork to mix the cornstarch into the liquid until dissolved.",
+            "Pour cornstarch slurry into the mixture in the slow cooker and mix until incorporated. Set slow cooker to High, cover, and cook until for 30 minutes or until liquid is thickened."
+        ],
+        "healthiness_score": 86,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Asiago Cremini Pasta Bake with Radicchio",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 (16 ounce) package shell pasta",
+            "2 tablespoons olive oil",
+            "1 pound sliced cremini mushrooms",
+            "1 small red onion, diced",
+            "salt and ground black pepper to taste",
+            "1 large head radicchio - halved, cored, and thinly sliced",
+            "4 cloves garlic, minced",
+            "2 tablespoons minced fresh sage",
+            "¼ cup butter",
+            "¼ cup all-purpose flour",
+            "2 cups milk",
+            "3 cups grated Asiago cheese",
+            "1 ½ cups heavy whipping cream",
+            "1 ½ cups freshly grated Parmigiano-Reggiano cheese, divided",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "½ cup panko bread crumbs"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook shell pasta in the boiling water, stirring occasionally until still firm to the bite, about 9 minutes. Drain.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish.",
+            "Heat olive oil in a large pot over medium heat. Add mushrooms, onion, and salt and pepper to taste. Cook and stir until mushrooms have browned and onion is translucent, about 7 minutes. Add radicchio, garlic, and sage; cook until radicchio has wilted and garlic is fragrant, about 3 minutes. Remove from heat and stir in pasta.",
+            "Melt butter in a saucepan over medium-high heat. Whisk in flour; cook until foaming. Pour in milk, whisking constantly, until mixture comes to a boil and thickens, about 5 minutes. Remove from heat; whisk in Asiago cheese, heavy cream, 1 cup Parmigiano-Reggiano cheese, 1/2 teaspoon salt, and 1/4 teaspoon black pepper until sauce is melted and smooth.",
+            "Pour sauce over pasta mixture; stir until thoroughly combined. Transfer to prepared baking dish. Top with remaining 1/2 cup Parmigiano-Reggiano cheese and panko.",
+            "Bake in the preheated oven until bubbly, about 30 minutes. Broil until topping is golden brown, about 1 minute."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Corned Beef Stroganoff",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 (3 pound) corned beef brisket ) corned beef brisket",
+            "2 tablespoons vegetable oil",
+            "8 ounces mushrooms,",
+            "1/4 teaspoon salt",
+            "1 cup onions",
+            "2 tablespoons unsalted butter",
+            "3 cloves garlic, minced",
+            "2 tablespoons all-purpose flour",
+            "1/2 cup white wine",
+            "1 cup corned beef cooking liquid",
+            "2 cups low-sodium beef broth",
+            "3/4 cup creme fraiche,",
+            "1/4 cup dill,"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place corned beef along with the contents of spice packet into a pot, and cover by 2 inches with water. Bring to a boil, reduce heat to low, and simmer for 2 hours 15 minutes. While corned beef is cooking, occasionally add more water to keep the level near where it was when it started boiling.",
+            "Remove corned beef to a bowl, and let cool until cool enough to handle, at least 30 minutes. Reserve 1 cup cooking liquid.",
+            "When meat is cool, slice off most of the fat. Cut meat with the grain into thick strips, and then turn and slice into thin, bite-sized pieces. Reserve until needed.",
+            "Heat oil in a pan over medium-high heat. Add mushrooms and salt to the hot pan, and cook and stir until mushrooms are nicely browned, about 3 minutes. Add onions, and continue cooking until they soften and turn translucent, about 3 minutes. Add butter and stir until melted.",
+            "Make a space in the center of the pan, add garlic, and sauté until fragrant, about 30 seconds. Add flour, and cook and stir for 1 minute more. Pour in white wine and reserved corned beef cooking liquid, and stir to combine. Raise the heat to high, bring to a boil, and cook, stirring, until sauce reduces by about half and thickens, 3 to 5 minutes more.",
+            "Stir in beef broth, and continue to boil and reduce until sauce thickens again, 6 to 7 minutes. Stir in crème fraiche, and reduce until the sauce is as thick as you'd like, a few more minutes.",
+            "Stir in sliced corned beef, and reduce heat to medium-low. Cook, stirring occasionally, until meat is heated through, 2 to 4 minutes. Sprinkle with fresh dill.",
+            "Garnish each serving with a small dollop of crème fraiche or sour cream and a little fresh dill."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "One Pan Chicken Sausage, Vegetables, and Orzo",
+        "category": "Mushrooms",
+        "ingredients": [
+            "2 teaspoons olive oil",
+            "1 teaspoon unsalted butter",
+            "1 pound chicken sausage",
+            "1 small onion",
+            "1 cup sliced mushrooms",
+            "2 cloves garlic",
+            "1 cup French-sliced green beans",
+            "1/2 cup carrots",
+            "1/2 cup red bell pepper strips",
+            "1/2 cup white wine",
+            "2 cups chicken broth",
+            "teaspoons Italian herb seasoning blend",
+            "salt and freshly ground black pepper to taste",
+            "1 1/2 cups orzo",
+            "1/2 cup artichokes",
+            "fresh parsley sprigs, for garnish (optional)"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Warm olive oil and butter in a 12-inch skillet over medium heat.",
+            "When the butter stops sizzling, add sausage pieces. Cook until warmed, 1 to 2 minutes, then add onion. Cook together, stirring, about 2 minutes, and add mushrooms. Cook until soft, 3 to 4 minutes.",
+            "Add garlic and cook, stirring, until fragrant, about 30 seconds.",
+            "Stir in French-sliced green beans, matchstick carrots, red bell pepper strips, and continue to cook and stir about 2 minutes.",
+            "Add wine, and stir about 1 minute, then add chicken broth and Italian seasoning blend. Taste; season with salt and pepper.",
+            "Increase heat to medium-high and bring to a boil. Stir in orzo, and return to a boil. Reduce heat to medium-low and place artichokes on top. Allow mixture to bubble lightly until orzo and vegetables are tender and most of liquid is absorbed, 12 to 14 minutes. Stir occasionally, so orzo does not stick to the bottom of the pan.",
+            "Garnish with parsley; serve warm."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mushroom Ramen",
+        "category": "Mushrooms",
+        "ingredients": [
+            "8 cups water",
+            "2 cups dried shiitake mushrooms",
+            "1 tablespoon miso paste",
+            "2 teaspoons soy sauce",
+            "2 teaspoons rice wine vinegar",
+            "1 clove garlic, minced",
+            "1/2 teaspoon ginger paste",
+            "2 (3.5-ounce) packages nstant ramen noodles,"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Bring water, mushrooms, miso paste, soy sauce, vinegar, garlic, and ginger to a boil in a large soup pot. Reduce heat to low and simmer for 25 minutes.",
+            "Add ramen noodles and dunk in the broth until they no longer float to the top. Cook 5 minutes.",
+            "Ladle into serving bowls and top with your favorite ramen toppings."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Stuffed Mushroom Pasta Bake",
+        "category": "Mushrooms",
+        "ingredients": [
+            "12 ounces dried campanelle or bowtie pasta",
+            "1 pound bulk Italian sausage",
+            "1 pound fresh mushrooms",
+            "1 large onion",
+            "3 cloves garlic",
+            "1 tablespoon reduced-sodium soy sauce",
+            "5 tablespoons butter",
+            "1/4 cup all-purpose flour",
+            "1 teaspoon thyme (or 1/2 teaspoon dried thyme)",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon ground black pepper",
+            "1 cup reduced-sodium chicken broth",
+            "2 cups half-and-half",
+            "1 tablespoon Dijon mustard",
+            "1 cup cheese",
+            "1 10 shounce) package spinach",
+            "1 cup panko bread crumbs",
+            "2 tablespoons fresh parsley"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking dish.",
+            "Cook pasta in a large pot of boiling salted water 2 minutes less than the suggested time on the package directions. Drain, reserving 1 cup pasta cooking water. Return pasta to pot and keep warm.",
+            "Meanwhile, cook sausage in a 12-inch skillet over medium heat until browned, about 8 minutes. Transfer to paper towels to drain using a slotted spoon.",
+            "Add mushrooms, onion, and garlic to the skillet. Cook until liquid is released and has evaporated, and vegetables are tender, about 8 minutes.",
+            "Pour in soy sauce to the skillet. Cook and stir until soy sauce is absorbed by mushrooms, about 1 minute.",
+            "Transfer mushroom mixture to pot with the pasta.",
+            "Add 4 tablespoons butter to the skillet. When melted, whisk in flour, thyme, salt, and pepper. Cook and stir for 1 minute.",
+            "Add broth, half-and-half, and Dijon mustard to the skillet. Cook and stir until thickened and bubbly. Whisk in cheese and spinach until cheese is melted.",
+            "Add sauce and sausage to the pot with the pasta mixture, stir to combine. Thin sauce to desired consistency with reserved pasta water. Transfer to the prepared baking dish.",
+            "Melt remaining 1 tablespoon butter. Stir in panko and 1 tablespoon parsley. Sprinkle panko mixture over the pasta mixture.",
+            "Bake in the preheated oven until browned and bubbly, about 30 minutes.",
+            "Garnish with remaining 1 tablespoon parsley."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Ground Beef Stroganoff",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 tablespoon butter",
+            "1 onion,",
+            "8 ounces sliced mushrooms",
+            "salt and freshly ground black pepper to taste",
+            "1 10.5-ounce) can beef consomme",
+            "2 tablespoons tomato paste",
+            "8 ounces plain Greek yogurt",
+            "4 ounces whipped cream cheese",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon soy sauce",
+            "3 3/4 cups egg noodles",
+            "2 tablespoons beef broth"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Remove ground beef to slow cooker.",
+            "Add butter to the skillet, and cook and stir onions and mushrooms until onions are softened, about 3 minutes. Season with salt and pepper. Add onion mixture to slow cooker; stir to combine.",
+            "Pour consommé into slow cooker. Stir in tomato paste, Greek yogurt, whipped cream cheese, Worcestershire sauce, and soy sauce. Cover and cook on High for 4 hours.",
+            "Stir dry egg noodles into slow cooker. Cover and cook until noodles are softened, about 30 minutes. If stroganoff seems too dry, stir in beef broth, 1 tablespoon at a time, as needed to thin sauce."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Boursin Pork Chops",
+        "category": "Mushrooms",
+        "ingredients": [
+            "4 pork chops",
+            "salt and freshly ground black pepper, to taste",
+            "1/2 teaspoon granulated garlic",
+            "1 tablespoon olive oil",
+            "1 tablespoon unsalted butter",
+            "1/4 cup shallots",
+            "1 1/2 cups mushrooms",
+            "1 1/2 cups heavy cream",
+            "1 (5.2 ounce) package shallot and chive cheese spread, such as Boursin®",
+            "chives,"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Pat chops dry with paper towels, and season each side with salt, pepper, and granulated garlic. If using powdered garlic, use a bit more.",
+            "Heat oil and butter in a large nonstick skillet over medium high heat, until butter stops sizzling. Add seasoned pork chops and brown on both sides, about 3 minutes per side. Remove chops from skillet and keep warm.",
+            "Add shallots and mushrooms to the same skillet. Reduce heat to medium and cook, stirring, until mushrooms begin to soften and release moisture, about 5 minutes. Season with just a pinch of salt, or to taste.",
+            "Nestle chops back in the skillet, along with any accumulated juices, and bring some of the vegetables over the top of chops. Cover, reduce heat to low, and simmer for 3 to 5 minutes. Turn heat back up to medium, stack chops on one side of skillet, stir cream into pan drippings, and add Boursin. Stir continually, until cheese is melts and sauce is bubbling, about 2 minutes.",
+            "Redistribute chops in the skillet and cook until an instant read thermometer inserted near the center reads 145 degrees F (63 degrees C), about 5 minutes more. Garnish with chives and serve warm."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Garlic Butter Steak Bites With Mushrooms",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1/4 cup coconut aminos or light soy sauce",
+            "2 tablespoons red wine vinegar",
+            "1 tablespoons olive oil",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon ground black pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine coconut aminos, red wine vinegar, 1 tablespoon olive oil, salt, and pepper in a large resealable plastic bag. Seal the bag and gently squeeze ingredients to mix.",
+            "Add steak pieces to marinade, squeeze the air out, and seal. Gently move steak pieces around inside the bag to coat with marinade. Refrigerate at least 15 to 20 minutes, but no longer than 1 hour.",
+            "Meanwhile, melt 2 tablespoons butter in a microwave-safe dish, stir in minced garlic, and set aside. Drain marinade from steak pieces and gently blot with paper towels.",
+            "Heat remaining butter over medium-high heat in a large skillet. When butter is sizzling, add steak pieces in a single layer and sear until browned, 1 to 2 minutes per side. Brown in 2 batches, if needed. Remove steak from skillet to a plate and tent with foil; set aside to rest.",
+            "Add mushrooms and onions to the same skillet. Stir frequently until mushrooms and onions begin to pick up some color, about 2 minutes. Add about 2 tablespoons water, if skillet seems dry, and turn heat down to medium.",
+            "Add garlic butter to the skillet, and cook until vegetables are tender, about 3 to 5 minutes more. Stir in steak pieces and any accumulated juices, and coat with garlic butter in the skillet. Sprinkle parsley over skillet and remove from heat. Garnish with additional fresh parsley sprigs, if desired."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Boursin Chicken, Mushroom, and Asparagus Skillet",
+        "category": "Mushrooms",
+        "ingredients": [
+            "1 1/2 to 2 pounds chicken tenders",
+            "salt and freshly ground black pepper to taste",
+            "1 1/2 tablespoons unsalted butter",
+            "1 1/2 tablespoons olive oil",
+            "1/2 cup shallots",
+            "8 ounces mushrooms",
+            "2 cloves garlic",
+            "1 teaspoon herbes de Provence",
+            "1/3 cup chicken stock",
+            "1/3 cup white wine",
+            "2 cups asparagus pieces",
+            "1 (5.2 ounce) package Boursin® Shallot and Chive Cheese, roughly chopped",
+            "fresh snipped chives for garnish (optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Pat chicken tenders dry with paper towels, and season all sides with salt and pepper.",
+            "Melt butter with olive oil in a large, nonstick skillet over medium heat. When butter is sizzling, add chicken tenders and cook until browned, 2 to 3 minutes per side. Remove to a plate and keep warm.",
+            "Add shallots to the same skillet, and stir for about 30 seconds, then add mushrooms. Stir until mushrooms begin to soften, about 2 minutes. Add garlic and herbes de Provence and cook, stirring, about 30 seconds.",
+            "Stir in chicken stock and wine. Add asparagus and another pinch of salt.",
+            "Place chicken tenders on top of vegetables, and add any accumulated juices. Reduce heat to medium-low, cover, and cook until chicken is no longer pink at the center and juices run clear, about 5 minutes. An instant-read thermometer, inserted near the center, should reach 165 degrees F (74 degrees C).",
+            "Turn off heat, add Boursin, and stir until melted. Garnish with chives, if desired, and serve warm."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Truffle Deviled Eggs",
+        "category": "Mushrooms",
+        "ingredients": [
+            "6 large hard-boiled eggs",
+            "2 tablespoons mayonnaise",
+            "1 teaspoon Dijon mustard",
+            "1 teaspoon truffle oil",
+            "1/8 truffle salt",
+            "1/8 teaspoon black pepper",
+            "1 tablespoon chives",
+            "12 pieces truffles (optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Halve eggs lengthwise and scoop egg yolks into the bowl of a mini food processor; set egg whites aside. If you do not have a mini food processor, you can mash all ingredients in a bowl with a fork.",
+            "Add mayonnaise, Dijon mustard, truffle oil, salt, and pepper to the egg yolks; blend well until smooth, scraping down the sides of the bowl. If mixture is too thick, blend in an extra teaspoon or two of mayonnaise.",
+            "Place yolk mixture into a resealable bag and snip off a corner. Pipe mixture into egg whites. Top with chives and shaved truffle, and refrigerate until ready to serve."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

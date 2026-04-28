@@ -1,0 +1,582 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "One Bowl Blackberry Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "4 cups blackberries",
+            "1 cup white sugar",
+            "1 cup all-purpose flour",
+            "1 large egg",
+            "6 tablespoons butter",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Spray an 8x8-inch baking dish with nonstick cooking spray. Evenly distribute blackberries in the dish; set aside.",
+            "Combine sugar, flour, egg, butter and vanilla in a bowl and stir until well combined. Drop by spoonfuls over fruit and spread with a spatula.",
+            "Bake in the preheated oven until fruit is bubbly, 38 to 43 minutes.",
+            "Optional: Heat an air fryer to 400 degrees F (200 degrees C). Place cobbler in the air fryer until topping is crunchy, about 5 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blackberry Cobbler with Frozen Blackberries",
+        "category": "Cobblers",
+        "ingredients": [
+            "cooking spray",
+            "1 (16 ounce) package frozen blackberries",
+            "2 tablespoons white sugar",
+            "1 teaspoon freshly squeezed lemon juice",
+            "¼ teaspoon vanilla extract",
+            "1 cup all-purpose flour",
+            "1 cup white sugar",
+            "1 large egg",
+            "5 tablespoons butter, melted",
+            "frozen whipped topping, thawed"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Spray an 8-inch or 9-inch square baking dish with nonstick cooking spray.",
+            "In a large bowl, gently stir the frozen blackberries together with 2 tablespoons sugar, lemon juice, and vanilla extract. Spread into the bottom of the prepared baking dish.",
+            "Combine flour, remaining 1 cup sugar, and egg together in a bowl until mixture resembles a coarse meal. Sprinkle mixture evenly over the blackberries. Drizzle melted butter evenly on top.",
+            "Bake in the preheated oven until lightly browned and bubbly, 35 to 40 minutes. Remove from the oven and let cool for 10 minutes. Serve warm topped with whipped topping."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "3 (15 ounce) cans peaches, drained",
+            "1 teaspoon cinnamon sugar",
+            "1 ½ cups white cake mix",
+            "¼ teaspoon ground cinnamon",
+            "4 tablespoons unsalted butter",
+            "½ cup water"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Drain peaches and pat dry with a paper towel. Sprinkle peaches with cinnamon sugar.",
+            "Mix dry cake mix with cinnamon. Cut in butter until mixture resembles coarse crumbs. Set 1/2 of the mixture aside.",
+            "Mix peaches with 1/2 of the cake mix mixture; place in a 6-inch round dish. Top peaches with remaining cake mix mixture. Cover dish with foil.",
+            "Pour water into a multi-functional pressure cooker (such as Instant Pot). Set trivet inside. Place round dish on top of the trivet. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 12 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, about 20 minutes. Unlock and remove the lid. Quick release remaining pressure using the quick-release method, about 5 minutes.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Carefully remove dish from the pot and uncover. Broil until topping is set, about 2 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Southern Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "8 fresh peaches - peeled, pitted and sliced into thin wedges",
+            "¼ cup white sugar",
+            "¼ cup brown sugar",
+            "¼ teaspoon ground cinnamon",
+            "⅛ teaspoon ground nutmeg",
+            "1 teaspoon fresh lemon juice",
+            "2 teaspoons cornstarch",
+            "1 cup all-purpose flour",
+            "¼ cup white sugar",
+            "¼ cup brown sugar",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "6 tablespoons unsalted butter, chilled and cut into small pieces",
+            "¼ cup boiling water",
+            "3 tablespoons white sugar",
+            "1 teaspoon ground cinnamon"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine peaches, 1/4 cup white sugar, 1/4 cup brown sugar, 1/4 teaspoon cinnamon, nutmeg, lemon juice, and cornstarch in a large bowl; toss to coat evenly, and pour into a 2-quart baking dish. Bake in preheated oven for 10 minutes.",
+            "Meanwhile, combine flour, 1/4 cup white sugar, 1/4 cup brown sugar, baking powder, and salt in a large bowl. Blend in butter with your fingertips or a pastry blender until mixture resembles coarse crumbs. Stir in water until just combined.",
+            "Remove peaches from oven, and drop spoonfuls of topping over them.",
+            "Mix 3 tablespoons white sugar and 1 teaspoon cinnamon together in a small bowl; sprinkle over entire cobbler.",
+            "Bake in the preheated oven until topping is golden, about 30 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gluten-Free Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "4 cups chopped fresh peaches",
+            "2 tablespoons white sugar",
+            "2 tablespoons gluten-free all-purpose baking flour",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon ground nutmeg",
+            "¼ cup unsalted butter, cut into small pieces"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix peaches, sugar, flour, cinnamon, and nutmeg together in a bowl.",
+            "Pour into a 9x13-inch casserole dish and dab butter pieces over top.",
+            "To make the topping: Mix flour, sugar, soy milk, baking powder, xanthan gum, and salt together in a bowl. Sprinkle over peaches in the baking dish.",
+            "Bake in the preheated oven until fruit is bubbly and the top is golden brown, about 45 minutes.",
+            "Let cobbler cool before serving."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick and Easy Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "½ cup unsalted butter, melted",
+            "1 cup self-rising flour",
+            "1 cup white sugar",
+            "1 cup milk",
+            "2 (16 ounce) cans sliced peaches in heavy syrup"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix self-rising flour, sugar, and milk together in a bowl until well combined and no lumps remain.",
+            "Pour melted butter into a 2-quart baking dish (or a 9- or 10-inch cast iron skillet). Pour flour-milk mixture over top.",
+            "Carefully pour peaches and syrup into the skillet. Use a spatula to spread peaches evenly around the pan.",
+            "Bake in the preheated oven until the crust turns golden brown, 30 to 45 minutes.",
+            "Remove from the oven and let cool for about 10 minutes before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Southern Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "½ cup brown sugar",
+            "½ cup white sugar",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "¾ cup milk",
+            "½ cup butter or margarine, melted",
+            "1 (29 ounce) can sliced canned peaches, drained",
+            "1 teaspoon ground cinnamon"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease a 9x9-inch baking dish.",
+            "Combine flour, brown sugar, white sugar, baking powder, salt, and vanilla in a large bowl. Pour milk into dry ingredients, and then stir in melted butter. Mix thoroughly.",
+            "Pour mixture into prepared baking pan. Arrange peaches on top and sprinkle with cinnamon. Bake in preheated oven until golden brown, about 30 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Old Fashioned Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "4 tablespoons white sugar, divided",
+            "1 teaspoon salt",
+            "1 cup shortening",
+            "1 large egg",
+            "¼ cup cold water",
+            "1 tablespoon butter, melted"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients.",
+            "Make crust: Sift together flour, 3 tablespoons sugar, and salt in a medium bowl. Work in shortening with a pastry blender until mixture resembles coarse crumbs.",
+            "Whisk together egg and cold water in a small bowl. Sprinkle over flour mixture; work with hands to form dough into a ball. Wrap with plastic wrap and chill in the refrigerator for 30 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Roll out 1/2 of the chilled dough to 1/8-inch thickness.",
+            "Place in a 9x13-inch baking dish, covering the bottom and halfway up the sides. Bake in the preheated oven until golden brown, about 20 minutes.",
+            "Make filling: Mix peaches, orange juice, and lemon juice in a large saucepan. Add butter and cook over medium-low heat until butter is melted.",
+            "Stir together sugar, cornstarch, cinnamon, and nutmeg in a bowl; mix into peach mixture until combined. Pour into baked crust.",
+            "Roll remaining dough to 1/4-inch thickness. Cut into 1/2-inch-wide strips.",
+            "Weave strips into a lattice over peaches. Sprinkle with 1 tablespoon sugar, then drizzle with melted butter.",
+            "Bake in the preheated oven until top crust is golden brown, 35 to 40 minutes.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bisquick Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "1 cup Original Bisquick mix",
+            "1 cup milk",
+            "½ teaspoon ground nutmeg",
+            "½ cup butter, melted",
+            "1 (29 ounce) can sliced peaches, drained",
+            "1 cup sugar"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Stir together Bisquick mix, milk, and nutmeg in an ungreased 8x8-inch baking dish until batter is smooth.",
+            "Stir in melted butter until blended.",
+            "Stir together peaches and sugar in a large bowl until combined; spoon over batter.",
+            "Bake in the preheated oven until golden, 50 to 60 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Cherry Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "½ cup butter",
+            "1 cup all-purpose flour",
+            "1 ¾ cups white sugar, divided",
+            "1 teaspoon baking powder",
+            "1 cup milk",
+            "2 cups pitted sour cherries",
+            "1 tablespoon all-purpose flour"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place butter in a 9x13-inch baking dish, and place in the oven to melt while the oven is preheating. Remove as soon as butter has melted, about 5 minutes.",
+            "Stir together 1 cup flour, 1 cup sugar, and baking powder in a medium bowl. Mix in milk until well blended, then pour the batter into the pan over the melted butter. Do not stir.",
+            "Rinse out the bowl from the batter, and dry. Place cherries into the bowl, and toss with remaining 3/4 cup sugar and 1 tablespoon flour. Distribute the cherry mixture evenly over the batter. Do not stir.",
+            "Bake in the preheated oven until golden brown, 50 to 60 minutes. A toothpick inserted into the cobber should come out clean."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Blueberry Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "½ cup butter",
+            "1 cup self-rising flour",
+            "1 cup white sugar",
+            "1 cup milk",
+            "4 cups fresh blueberries"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Place butter in an 8-inch, square baking dish.",
+            "Melt butter in the preheating oven, about 5 minutes. Remove from oven.",
+            "Meanwhile, mix flour, sugar, and milk in a bowl until combined; pour batter over melted butter in the baking dish. Scatter blueberries over batter.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "3-Ingredient Cake Mix Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "2 (15.25 ounce) cans peaches in light syrup",
+            "1 (15.25 ounce) package yellow cake mix",
+            "½ cup butter, melted"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Pour peaches into a 9x13-inch baking dish.",
+            "Sprinkle cake mix on top and pour melted butter all over.",
+            "Bake in the preheated oven until top of cobbler is golden brown, about 50 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Batter Fruit Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "4 tablespoons butter",
+            "¾ cup all-purpose flour",
+            "¾ cup sugar",
+            "1 teaspoon baking powder",
+            "¼ teaspoon salt",
+            "¾ cup milk",
+            "2 cups of sliced fresh peaches or nectarines, or whole blueberries, strawberries, raspberries, blackberries or a combination of fruits (or a 12-ounce package of frozen berries)",
+            "1 tablespoon sugar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Adjust the oven rack to the upper-middle position.",
+            "Put butter in an 8-inch square or 9-inch round pan; place in the oven until butter is melted. Remove the pan from the oven and set aside.",
+            "Whisk flour, 3/4 cup sugar, baking powder, and salt in a medium bowl. Whisk in milk until a smooth batter forms.",
+            "Pour batter into the prepared pan with melted butter.",
+            "Scatter fruit over batter. Sprinkle with 1 tablespoon sugar.",
+            "Bake in the preheated oven until the top is lightly browned and fruit bubbles, 50 to 60 minutes.",
+            "Serve warm or at room temperature."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Nectarine Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "cooking spray",
+            "2 1/4 cups white sugar, divided",
+            "2 cups all-purpose flour",
+            "2 large eggs",
+            "1 1/2 cups butter",
+            "2 teaspoons vanilla extract",
+            "2 pounds nectarines"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Spray an 8x8-inch baking dish with nonstick cooking spray.",
+            "Stir 2 cups sugar, flour, eggs, butter, and vanilla extract together in a bowl to make a smooth batter. Spread half of the batter into the prepared pan.",
+            "Bake in the preheated oven until crust is golden brown, 20 to 25 minutes.",
+            "Meanwhile, toss sliced nectarines with remaining 1/4 cup sugar. Spread fruit over base layer. Drop the remaining batter by spoonfuls evenly over fruit.",
+            "Bake in the preheated oven until cobbler is golden, and fruit is bubbly, 28 to 35 minutes.",
+            "Optional: Heat an air fryer to 400 degrees F (200 degrees C). Place cobbler in the air fryer until topping is crunchy, about 5 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Plum Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "1 pound plums",
+            "1 teaspoon lemon juice",
+            "2 tablespoons white sugar",
+            "1 tablespoon cornstarch",
+            "½ teaspoon vanilla extract"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Coat a baking dish with cooking spray.",
+            "Halve and pit the plums, then slice or quarter, depending on size. Place fruit in a single layer in a baking dish. Drizzle lemon juice over fruit, add 2 tablespoons sugar, cornstarch, and vanilla extract, and toss to coat; set aside.",
+            "Add flour, 2 tablespoons sugar, baking powder, and salt to a bowl, and mix until well combined. Cut butter into small cubes, and mash into the flour mixture using a fork or pastry cutter until crumbly. Stir in boiling water to form a dough. Use your fingers or drop small spoonfuls of the dough on top of the plums.",
+            "Bake until a toothpick inserted into cobbler dough comes out clean and top is lightly browned, 25 to 30 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sweet Potato Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "6 large sweet potatoes, peeled and cut into cubes",
+            "5 cups water, or as needed to cover",
+            "1 cup coconut sugar",
+            "1 cup white sugar",
+            "1/2 cup butter, cut into cubes",
+            "2 teaspoons vanilla bean paste",
+            "1 tablespoon ground cinnamon",
+            "2 teaspoons ground allspice",
+            "2 teaspoons ground cloves",
+            "1 teaspoon ground ginger",
+            "1 teaspoon cardamom",
+            "1 teaspoon ground nutmeg",
+            "3 tablespoons all-purpose flour, or as needed"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place sweet potatoes and water in a large Dutch oven, and place over medium heat. When steam begins to rise from the pot, add in coconut sugar, white sugar, butter, vanilla bean paste, 1 tablespoon cinnamon, allspice, cloves, ginger, cardamom, and nutmeg. Continue to cook just until potatoes are easily pierced with a fork, about 20 minutes. Turn heat to a very low simmer.",
+            "Working quickly, remove about 1/2 cup liquid from the pot to a small bowl; whisk in 3 tablespoons flour thoroughly until a paste the consistency of thick pancake batter is formed, without lumps, adding additional flour if needed.",
+            "Stir flour paste, 1 tablespoon at a time, into sweet potatoes, until sweet potato mixture is thickened and no longer runny. Stir gently until well incorporated. Remove from heat, cover, and allow to cool and thicken for about 15 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line the bottom and sides of a deep dish 9x13-inch baking pan with 2 of the pie crusts. Using a fork, poke holes all over the crust.",
+            "Bake in the preheated oven until crust begins to turn golden, about 10 minutes. Remove from the oven; do not turn oven off.",
+            "Using a slotted spoon, add enough sweet potatoes into the baking pan to generously fill crust, mounding them slightly toward the center of the pan. Scoop the cooking liquid over sweet potatoes until crust is full but not overflowing. Set any remaining sweet potatoes and liquid aside for another use.",
+            "Roll out the 2 remaining pie crusts on a lightly floured surface. Cut into 3/4-inch strips using a sharp knife or pizza cutter. Weave strips into a lattice design on top of sweet potatoes.",
+            "Stir together 1 tablespoon sugar and 2 teaspoons cinnamon in a small bowl. Sprinkle cinnamon sugar evenly over the pie crust.",
+            "Return to the oven and bake until top crust is golden brown and filling is thickened and bubbly, 30 to 40 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Peach Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "1 cup white sugar",
+            "½ cup butter, room temperature",
+            "1 cup self-rising flour",
+            "1 cup milk",
+            "1 (15 ounce) can sliced peaches, with juice"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat sugar and butter together in a 1-quart baking dish. Mix in flour and milk until smooth. Pour peaches and juice over top.",
+            "Bake in the preheated oven until golden brown, 25 to 30 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "6 tablespoons unsalted butter",
+            "1 cup self-rising flour",
+            "1 ¾ cups white sugar, divided",
+            "1 ½ tablespoons unsweetened cocoa powder",
+            "½ cup milk",
+            "1 teaspoon vanilla extract",
+            "¼ cup unsweetened cocoa powder",
+            "1 ½ cups boiling water"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Place butter into an 8-inch square baking dish and set in the oven to melt while it preheats.",
+            "Sift flour, 3/4 cup sugar, and 1 ½ tablespoons cocoa together into a medium bowl. Stir in milk and vanilla until smooth.",
+            "Stir remaining 1 cup sugar and 1/4 cup cocoa powder together in a small bowl.",
+            "Remove the baking dish from the oven. Pour flour-sugar mixture over melted butter, then sprinkle sugar-cocoa mixture over top. Slowly pour boiling water over everything.",
+            "Bake in the preheated oven until set, about 30 minutes."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Apple Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "3 tablespoons white sugar",
+            "1 teaspoon ground cinnamon",
+            "6 large Granny Smith apples - peeled, cored and sliced",
+            "1 cup all-purpose flour",
+            "1 cup white sugar",
+            "1 large egg",
+            "1 teaspoon baking powder",
+            "¼ cup water"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine 3 tablespoons sugar and cinnamon in a bowl.",
+            "Layer apples in an ungreased 9x13-inch baking pan, sprinkling each layer with cinnamon-sugar mixture.",
+            "Combine flour, 1 cup sugar, egg, and baking powder with a fork. Sprinkle over apples in the baking pan. Lightly sprinkle water over top.",
+            "Bake in the preheated oven until topping is golden brown, about 30 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Rhubarb Cobbler",
+        "category": "Cobblers",
+        "ingredients": [
+            "¾ cup white sugar",
+            "2 tablespoons cornstarch",
+            "4 cups chopped rhubarb",
+            "1 tablespoon water",
+            "1 tablespoon butter, diced",
+            "1 teaspoon ground cinnamon"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a 9-inch square baking dish.",
+            "To make the filling: Mix sugar and cornstarch together in a large saucepan. Stir in rhubarb and water. Bring to a boil; cook and stir for 1 minute. Transfer to the prepared baking dish. Dot with butter and sprinkle with cinnamon.",
+            "To make the topping: Sift together flour, 1 tablespoon sugar, baking powder, and salt in a medium bowl. Cut in butter with 2 knives or a pastry blender until mixture resembles coarse crumbs. Beat together milk and egg in a small bowl; add to flour mixture all at once and stir until just moistened.",
+            "Drop spoonfuls of topping over rhubarb filling. Sprinkle with remaining 2 tablespoons sugar.",
+            "Bake in the preheated oven rhubarb is bubbling and topping is crisp and lightly browned, about 20 minutes."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "Main_category": "soups"
+    },
+    {
+        "recipe_title": "Slow Cooker Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "4 beets, peeled and chopped",
+            "1 (28 ounce) can diced tomatoes",
+            "2 potatoes, peeled and chopped",
+            "1 pound beef stew meat, cut into ½-inch pieces",
+            "1 onion, chopped",
+            "1 cup baby carrots, cut into ½-inch pieces",
+            "3 cloves garlic, minced",
+            "2 cups beef broth, or more",
+            "1 (6 ounce) can tomato paste",
+            "6 tablespoons red wine vinegar",
+            "3 tablespoons brown sugar",
+            "1 tablespoon dried parsley",
+            "1 ½ teaspoons dried dill weed",
+            "1 bay leaf",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "3 cups shredded green cabbage",
+            "1 cup sour cream, as garnish"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Place beets, tomatoes, potatoes, beef, onion, carrots, and garlic in a slow cooker. Whisk beef broth, tomato paste, vinegar, brown sugar, parsley, dill, bay leaf, salt, and black pepper together in a bowl; pour over beef and vegetables, adding more broth to cover as needed. Cover slow cooker.",
+            "Cook on Low for 8½ hours or on High for 4 hours. Stir in shredded cabbage; cover slow cooker. Cook on High until cabbage is tender, about 30 minutes. Remove and discard bay leaf. Top servings with sour cream."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Russian Cabbage Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "1 ½ cups thinly sliced potatoes",
+            "1 cup thinly sliced beets",
+            "4 cups vegetable stock or water",
+            "2 tablespoons butter",
+            "1 ½ cups chopped onions",
+            "1 teaspoon caraway seed (Optional)",
+            "2 teaspoons salt",
+            "1 celery stalk, chopped",
+            "1 large carrot, sliced",
+            "3 cups coarsely chopped red cabbage",
+            "black pepper to taste",
+            "¼ teaspoon fresh dill weed",
+            "1 tablespoon cider vinegar",
+            "1 tablespoon honey",
+            "1 cup tomato puree",
+            "sour cream, for topping",
+            "chopped tomatoes, for garnish"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Place potatoes and beets in a medium saucepan over high heat; cover with stock and boil until vegetables are tender. Remove potatoes and beets with a slotted spoon; reserve stock.",
+            "Melt butter in a large skillet over medium heat. Stir in onions, caraway seeds, and salt; cook until onions become soft and translucent. Stir in celery, carrot, and cabbage. Mix in reserved stock; cook, covered, until all vegetables are tender, about 10 minutes.",
+            "Add potatoes and beets to the skillet. Season with black pepper and dill weed. Stir in cider vinegar, honey, and tomato puree. Cover, reduce heat to medium-low, and simmer for at least 30 minutes.",
+            "Portion borscht into bowls. Top with sour cream, extra dill weed, and chopped tomatoes to serve."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Borscht I",
+        "category": "Borscht",
+        "ingredients": [
+            "6 cups water",
+            "¾ tablespoon salt",
+            "½ cup finely chopped carrots",
+            "¼ cup chopped green bell pepper, divided",
+            "½ stalk celery, chopped",
+            "1 medium beet",
+            "½ cup canned peeled and diced tomatoes",
+            "3 potatoes, quartered",
+            "⅓ cup butter",
+            "½ cup chopped onion",
+            "1 ½ cups canned tomatoes",
+            "3 cups finely shredded cabbage, divided",
+            "¼ cup heavy cream",
+            "¾ cup diced potatoes",
+            "1 tablespoon dried dill weed",
+            "¼ teaspoon ground black pepper to taste",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Place water, salt, carrots, 1/2 of the bell pepper, celery, beet, tomatoes, and quartered potatoes in a large stock pot over high heat. Bring to a boil.",
+            "Melt 1/3 cup butter in a separate skillet over medium heat. Saute onions in butter until tender, approximately 5 minutes. Stir in tomatoes, reduce heat to medium low, and simmer for 15 minutes. Remove 1/2 cup of sauce from skillet, and set aside. Stir half of the cabbage into the skillet with remaining sauce, and continue simmering 5 minutes more, or until tender.",
+            "Remove beet from boiling liquid and discard. Remove potatoes with a slotted spoon or tongs, and place in a bowl with remaining 1 tablespoon of butter and the cream. Mash together until smooth.",
+            "Return the 1/2 cup of reserved onion-tomato sauce to the stock pot. Stir in diced potatoes, and simmer until just tender but still firm, approximately 5 minutes. Increase heat to a low boil, and stir in remaining cabbage, tomato sauce, and mashed potatoes. Reduce heat and simmer a few minutes more. Stir in remaining bell pepper, season with black pepper, and serve."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cabbage Borscht Mennonite Soup",
+        "category": "Borscht",
+        "ingredients": [
+            "2 pounds beef soup bones",
+            "2 quarts water, or more as needed",
+            "12 carrots, chopped",
+            "6 potatoes, cubed",
+            "1 head cabbage, finely chopped",
+            "3 onions, minced",
+            "1 ½ tablespoons chopped fresh parsley",
+            "10 whole allspice berries",
+            "1 teaspoon salt",
+            "1 bay leaf",
+            "½ star anise",
+            "1 pinch ground black pepper",
+            "1 ½ cups chopped tomato",
+            "½ cup heavy cream"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Bring beef soup bones and water to a boil in a large pot over medium-high heat. Reduce heat; simmer for 1 1/2 hours, adding more water, as necessary, to maintain 2-quart level. Remove and discard soup bones. Strain broth into a fresh pot; return to stovetop.",
+            "Add carrots, potatoes, cabbage, onions, parsley, allspice berries, salt, bay leaf, star anise, and black pepper to broth. Cook until potatoes are easily pierced with a fork, about 20 minutes. Stir in tomatoes; return to a boil. Top servings with heavy cream."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Summa Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "5 cups diced red potatoes",
+            "7 cups water",
+            "4 teaspoons salt",
+            "1 ¼ cups green onions, chopped",
+            "⅓ cup chopped fresh dill",
+            "2 cups buttermilk",
+            "1 cup half-and-half"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place diced potatoes into a large saucepan, and cover with water. Bring to a boil over high heat, then reduce heat, and simmer until potatoes are tender, about 25 minutes. Stir in the green onions, dill, and buttermilk; bring back to a simmer. Stir in the half-and-half before serving."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Vegetarian Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "2 small beets, peeled and coarsely grated",
+            "3 tablespoons vinegar",
+            "2 tablespoons vegetable oil, or as needed",
+            "1 onion, chopped",
+            "2 carrots, coarsely grated",
+            "8 cups water",
+            "¾ cup dry yellow lentils",
+            "¼ medium head cabbage, shredded",
+            "3 medium potatoes, peeled and diced",
+            "salt and ground black pepper to taste",
+            "2 tablespoons tomato paste",
+            "2 tablespoons sour cream, or more to taste",
+            "2 tablespoons chopped fresh dill"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Combine beets and vinegar in a small skillet over low heat: cook and stir until soft, about 15 minutes.",
+            "Meanwhile, heat oil in a large skillet over low heat. Add onion; cook and stir for 2 minutes. Add carrots; cook, stirring occasionally, until soft, about 10 minutes. Set aside.",
+            "Bring water to a simmer in a large saucepan. Add lentils and cabbage; cook 10 minutes. Add potatoes; cook 10 minutes more. Stir in beets and onion mixture; season with salt and black pepper.",
+            "Add tomato paste; simmer until vegetables are tender, about 10 minutes. Serve soup with sour cream and dill."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cold Russian Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "4 medium beets",
+            "4 cups beef broth",
+            "1 onion, chopped",
+            "2 tablespoons red wine vinegar",
+            "½ teaspoon salt",
+            "¼ teaspoon black pepper",
+            "1 cucumber - peeled, seeded, and diced",
+            "½ cup sour cream"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Remove stems and leaves from beets, but leave on skins. Cover beets with cold water and bring to a boil in a deep pot. Boil until fork tender, about 40 minutes.",
+            "Drain beets, but reserve two cups of the liquid. Strain the liquid and add to a large saucepan. Remove skin from beets. Grate beets through the most coarse blade of a grater. Add to beet liquid. Add beef broth, onion, vinegar, salt, and pepper. Bring to a boil, and then cover and reduce heat to low. Simmer for 20 minutes, then remove from the heat.",
+            "Chill in the refrigerator for 1 hour, or until cold, before serving. Ladle into bowls and top each serving with cucumber and a big spoonful of sour cream."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easter White Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "9 cups water",
+            "3 pounds kielbasa sausage",
+            "2 cloves garlic, whole",
+            "3 tablespoons unsalted butter",
+            "2 leeks, chopped",
+            "1 medium white onion, diced",
+            "3 cloves garlic, minced",
+            "2 large bay leaves",
+            "1 ½ cups sour cream",
+            "¼ cup all-purpose flour, or more as needed",
+            "¼ cup chopped fresh dill",
+            "2 tablespoons distilled white vinegar, or more to taste",
+            "salt and ground black pepper to taste",
+            "4 large hard-cooked eggs, chopped"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Bring water, kielbasa, and 2 whole cloves garlic in a large pot to a boil over high heat, then reduce heat to medium and simmer for 30 minutes. Remove sausage; pour cooking liquid into a separate bowl. Cut sausage into bite-sized pieces. Discard garlic.",
+            "Melt butter over medium heat in the same pot. Add leeks, onion, and minced garlic; cook and stir until vegetables tender, about 5 minutes.",
+            "Transfer vegetables and about 1/2 cup reserved cooking water to a blender, filling halfway. Cover and hold lid down with a potholder; pulse a few times before leaving on to blend until smooth, adding more water as needed. Pour back into original pot. Repeat with any remaining vegetables.",
+            "Add remaining cooking water and bay leaves to vegetable purée; bring to a simmer over medium heat. Remove and discard bay leaves.",
+            "Whisk sour cream and flour together in a bowl until smooth; gradually whisk into soup until thickened. Stir in dill and vinegar, then season with salt and pepper.",
+            "Divide sausage pieces and chopped eggs among bowls; ladle soup over top."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vegan Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "3 cloves garlic, minced",
+            "1 onion, chopped",
+            "3 tablespoons olive oil",
+            "2 stalks celery, chopped (Optional)",
+            "2 carrots, finely chopped",
+            "1 green bell pepper, chopped",
+            "3 beets, including greens, diced",
+            "1 (16 ounce) can whole peeled tomatoes",
+            "½ cup canned peeled and diced tomatoes",
+            "2 potatoes, quartered",
+            "1 cup shredded Swiss chard",
+            "2 cups vegetable broth",
+            "4 cups water",
+            "2 tablespoons dried dill weed",
+            "salt and freshly ground black pepper to taste",
+            "1 (16 ounce) package silken tofu"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Heat 1 tablespoon of olive oil in a skillet over medium heat. Stir in the garlic and onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Set aside. Heat the remaining 3 tablespoons of olive oil in a large pot over medium-high heat. Stir in the celery, carrots, bell pepper, beets including the greens, whole tomatoes, diced tomatoes, potatoes, Swiss chard, and the onion mixture. Cook and stir until the chard begins to wilt, 4 to 8 minutes. Stir in the vegetable broth, water, dill weed, and salt and pepper. Bring to a boil, and reduce heat to low. Simmer for 1 hour.",
+            "Strain half the beets from the broth and place in a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the beets moving before leaving it on to puree. Add the tofu, and continue pureeing until smooth. Stir the tofu mixture back into the pot. Simmer until the mixture is reduced by a third, about another hour. Serve chilled or warm."
+        ],
+        "healthiness_score": 92,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Borscht with Meat",
+        "category": "Borscht",
+        "ingredients": [
+            "1 ½ pounds beets, boiled and grated",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon white sugar",
+            "1 pound lean beef chuck",
+            "2 quarts water",
+            "½ pound bacon",
+            "1 tablespoon salt",
+            "8 whole black peppercorns",
+            "6 sprigs fresh parsley",
+            "2 teaspoons dried marjoram",
+            "2 teaspoons dill seed",
+            "1 pound shredded cabbage",
+            "2 leeks, sliced",
+            "1 cup chopped onion",
+            "1 carrot, grated",
+            "2 pounds Polish sausage",
+            "2 tablespoons chopped fresh dill weed"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Combine 1/2 cup of the beets, the vinegar, and sugar in a small bowl; refrigerate, covered, overnight. Refrigerate remaining beets.",
+            "Place beef, water, bacon, salt, peppercorns, parsley sprigs, marjoram, and dill seeds (or basil leaves) in Dutch oven. Heat to boiling. Reduce heat, simmer, partially covered, over medium heat until beef is tender (about 2 hours).",
+            "Discard parsley sprigs. Add 3 cups beets, the cabbage, leeks, onions, carrot, and sausage; simmer, covered, over low heat 30 minutes.",
+            "To serve, remove beef, bacon, and sausage; cut into 2-inch pieces. Return meats and reserved beet mixture to Dutch oven. Sprinkle with snipped dill. Pass sour cream."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cabbage Borsht",
+        "category": "Borscht",
+        "ingredients": [
+            "3 pounds bone-in chicken pieces",
+            "1 gallon water",
+            "1 (10.75 ounce) can condensed tomato soup",
+            "1 tablespoon salt",
+            "1 large head cabbage, cored and shredded",
+            "3 large peeled and diced red potatoes",
+            "1 large carrot, diced",
+            "1 large onion, chopped",
+            "3 bay leaves",
+            "2 tablespoons chopped fresh parsley",
+            "1 bunch chopped fresh dill"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place chicken in a large pot of water. Bring to a boil, reduce to a simmer, and cook approximately 30 minutes. Remove from water, cool, and shred into bite-size pieces. Discard skin and bones.",
+            "In a large stock pot, heat 1 gallon of water with tomato soup and salt. Bring to a low boil. Place cabbage, potatoes, carrot, onion, chicken, and bay leaf in pot, and return to a simmer. Cook at a very low simmer until vegetables are tender, approximately 20 minutes. Add parsley and dill, taste and adjust seasoning with salt if needed, and serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Borscht II",
+        "category": "Borscht",
+        "ingredients": [
+            "3 pounds bone-in beef shank",
+            "2 tablespoons vegetable oil",
+            "1 onion, chopped",
+            "6 cups water",
+            "½ pound carrots, cut into 1 inch pieces",
+            "2 stalks celery, cut into 1 inch pieces",
+            "⅓ medium head cabbage, shredded",
+            "1 pound beets, peeled and shredded",
+            "1 cup tomato juice",
+            "1 tablespoon lemon juice",
+            "2 teaspoons white sugar",
+            "2 teaspoons salt",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "In a large pot over medium heat, brown beef in oil. Stir in onion and water, reduce heat and simmer, covered, 2 hours, until meat is tender.",
+            "Remove meat from broth and set aside to cool slightly. Stir carrots, celery, cabbage, beets, tomato juice, lemon juice, sugar, salt and pepper into broth. When meat is cool enough to handle, cut meat from bone and into bite-size pieces and return to soup. Simmer until vegetables are tender, 20 to 30 minutes."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sweet and Sour Borscht Shooters",
+        "category": "Borscht",
+        "ingredients": [
+            "2 (15 ounce) cans whole baby beets",
+            "¾ cup vegetable broth, or more if needed",
+            "½ cup sour cream",
+            "⅓ cup fresh lemon juice",
+            "⅓ cup white sugar",
+            "salt to taste",
+            "5 tablespoons sour cream, or as desired"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place beets and their juices, 3/4 cup vegetable broth, 1/2 cup sour cream, lemon juice, and sugar into a blender. Blend until smooth; thin with more vegetable broth, if desired. Taste and season with salt as needed.",
+            "Transfer borscht to a bowl. Cover and chill at least 3 hours or overnight.",
+            "Whisk borscht; spoon 3 to 4 teaspoons into each shooter. Top each shooter with about 1/2 teaspoon of sour cream."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spring Greens Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "4 large potatoes, peeled and diced",
+            "2 bunches green onions, chopped",
+            "1 bunch fresh spinach leaves, chopped",
+            "1 bunch fresh sorrel, chopped",
+            "2 eggs, beaten",
+            "salt to taste",
+            "1 tablespoon white sugar",
+            "1 teaspoon white vinegar, or to taste",
+            "1 cucumber, diced (Optional)",
+            "2 hard-cooked eggs, diced (Optional)",
+            "¼ cup sour cream, for topping (Optional)",
+            "2 sprigs fresh dill weed, chopped (Optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Fill a large pot about 3/4 full with water; bring to a boil. Add diced potatoes and cook until fork-tender, 8 to 10 minutes. Stir in green onions and cook another 1 to 2 minutes. Stir in spinach and sorrel; cook another 2 to 3 minutes, or until wilted; remove from heat.",
+            "Pour the beaten eggs into the mixture in a slow and steady stream, stirring constantly, until the soup thickens. Season with salt, sugar, and vinegar to get a slightly sweet and tangy taste. Pour soup into a large bowl; allow soup to cool before transferring to the refrigerator to chill completely.",
+            "Garnish with any combination of cucumber, chopped egg, sour cream, and dill."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Jen's Borscht With Beef",
+        "category": "Borscht",
+        "ingredients": [
+            "3 pounds beef soup bones",
+            "2 quarts water",
+            "4 potatoes, peeled and diced",
+            "4 carrots, peeled and diced",
+            "3 celery ribs, sliced",
+            "3 beets, peeled and diced",
+            "1 onion, diced",
+            "3 tablespoons minced garlic",
+            "3 tablespoons salt, or to taste",
+            "2 tablespoons paprika, or to taste",
+            "1 teaspoon ground black pepper, or to taste",
+            "½ small head cabbage, shredded",
+            "1 (15 ounce) can diced tomatoes",
+            "1 (6 ounce) can tomato paste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Combine soup bones and water in a large pot; bring the water to a boil, reduce heat to medium-low, and cook at a simmer for 4 hours.",
+            "Remove soup bones and meat from pot; set aside until cool enough to handle. Skim fat from the surface of the broth. Add potatoes, carrots, celery, beets, onion, garlic, salt, paprika, and ground black pepper to the broth. Bring broth again to a boil, reduce heat to medium-low, and simmer until the vegetables are tender, about 1 hour more.",
+            "Pick meat off soup bones and add back to soup. Discard bones and fat. Stir cabbage, diced tomatoes, and tomato paste into the soup. Continue cooking at a simmer until the cabbage is tender, about 15 minutes."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sasha's Vegan Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "4 medium red beets with greens",
+            "3 tablespoons olive oil",
+            "1 large yellow onion, finely chopped",
+            "3 large cloves garlic, minced",
+            "2 large carrots, peeled and cut into 1/2-inch cubes",
+            "1 rutabaga, peeled and cut into 1/2-inch cubes",
+            "1 medium parsnip, peeled and cut into 1/2-inch pieces",
+            "2 teaspoons dark brown sugar",
+            "2 quarts water",
+            "¼ medium head green cabbage, shredded",
+            "2 teaspoons salt, or more to taste",
+            "1 large bay leaf",
+            "1 tablespoon white wine vinegar, or more to taste",
+            "freshly ground black pepper",
+            "1 small bunch parsley, stems removed, finely chopped",
+            "¼ cup sour cream, or to taste"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Cut the greens off the beets. Remove stems and discard. Wash and dry leaves, then chop. Set aside.",
+            "Scrub beets and place into a saucepan. Cover with water and bring to a boil. Reduce heat and cook, covered, until beets can be easily pierced with a knife, 30 to 40 minutes. Drain and rinse under cold water until cool enough to handle. Peel immediately and grate coarsely. Set aside.",
+            "Heat olive oil in a large wide pot or Dutch oven over low heat. Add onion and slowly cook until soft and translucent, stirring often, 3 to 5 minutes. Add garlic and cook until fragrant without browning, about 1 minute.",
+            "Add carrots, rutabaga, and parsnip and cook over medium heat until vegetables start to soften, 12 to 15 minutes. Sprinkle with brown sugar and continue cooking until vegetables start to brown in some spots, 3 to 5 minutes. Add 2 quarts water, cabbage, salt, and bay leaf; stir well.",
+            "Bring to a boil, reduce heat, and simmer until the vegetables are soft, 10 to 15 minutes. Stir in beet greens in the last 2 minutes. Leave the pot uncovered so beet greens maintain their color.",
+            "Mix in grated beets and remove borscht from the heat immediately to stop the cooking process; this will preserve its bright color. Season with vinegar, salt, and pepper.",
+            "Serve sprinkled with parsley and a dollop of sour cream."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Kyera's Hearty Beef Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "2 pounds beef oxtail",
+            "2 onions, diced",
+            "2 cups diced carrots",
+            "1 head cabbage, diced",
+            "1 cup diced celery (Optional)",
+            "½ cup pearled barley",
+            "1 (1 ounce) package dry onion soup mix",
+            "1 teaspoon dried dill weed",
+            "1 teaspoon ground cinnamon",
+            "1 bay leaf",
+            "4 cups water, or enough to cover",
+            "1 bunch beets with greens - scrubbed, beets diced, and greens chopped",
+            "salt and ground black pepper to taste",
+            "1 cup sour cream"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Place oxtail, onions, carrots, cabbage, celery, barley, onion soup mix, dill, cinnamon, bay leaf, and water in a large slow cooker. Cook on low until meat is tender, about 5 hours.",
+            "Remove meat and bones from slow cooker; cool on a plate until easily handled, about 10 minutes. Cut meat into small pieces; return meat to the soup and discard bones. Skim off any fat from soup; remove bay leaf.",
+            "Stir beets and beet greens into soup; cook on low until beets are tender, about 1 hour. Season with salt and pepper; top each bowl with about 1 tablespoon sour cream to serve."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Omi's Borscht",
+        "category": "Borscht",
+        "ingredients": [
+            "6 beets, peeled",
+            "6 potatoes, peeled and diced",
+            "2 carrots, peeled and diced",
+            "1 parsley root with greens, peeled and diced, greens finely chopped",
+            "2 celery ribs, chopped",
+            "3 tablespoons white vinegar",
+            "salt and ground black pepper to taste",
+            "¼ cup butter",
+            "½ cup all-purpose flour",
+            "1 teaspoon vegetable bouillon (such as Better Than Bouillon®) (Optional)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Place beets, potatoes, carrots, parsley root (greens reserved), celery, and vinegar in a large pot; season with salt and pepper. Pour enough water to cover vegetables into the pot; bring to a boil. Reduce heat to low; simmer until vegetables are tender, about 45 minutes.",
+            "Remove beets with a slotted spoon; set aside to cool slightly, about 10 minutes. Grate beets when they are cool enough to handle.",
+            "Melt butter in a small saucepan, whisk in flour, and cook and stir until mixture is a light tan color, about 10 minutes; stir mixture into soup. Stir in grated beets and parsley root greens; bring to a simmer and cook until heated through, about 5 minutes. Season soup with vegetable bouillon, salt, and pepper."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pressure Cooker Soup: From Moscow with Cabbage",
+        "category": "Borscht",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "1 carrot, chopped",
+            "1 stalk celery, chopped",
+            "1 head cabbage, shredded",
+            "1 potato, diced",
+            "4 cups chicken stock",
+            "⅓ cup stone-ground mustard",
+            "¼ cup ketchup",
+            "salt and ground black pepper to taste",
+            "1 bay leaf",
+            "1 clove",
+            "1 clove garlic"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Heat oil in a multi-functional pressure cooker on Saute mode. Saute onion, carrot, and celery until onion is translucent, about 5 minutes. Toss in cabbage and potato; cook until cabbage starts to break down, 2 to 3 minutes.",
+            "Mix chicken stock, mustard, and ketchup into the cabbage mixture. Cook and stir until combined, about 1 minute. Stir in salt and pepper; add bay leaf and clove. Place garlic in the center of the pot.",
+            "Close the pot and lock the lid. Select Soup setting or high pressure according to manufacturer's instructions; set timer for 6 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove lid."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,657 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Chili Shepherd's Pie",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "6 medium russet potatoes (2 pounds), peeled and quartered",
+            "3 tablespoons salted butter",
+            "1/2 cup sour cream",
+            "1/3 cup whole milk",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon ground black pepper",
+            "1 cup shredded Cheddar cheese, divided",
+            "3 tablespoons green onion, plus more for garnish",
+            "1 pound ground beef",
+            "3 (15-ounce) cans chili",
+            "1 (11-ounce) can"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C). Grease a 9x13-inch baking dish.",
+            "Place potatoes in a large saucepan with enough salted water to cover. Bring to a boil. Reduce heat and simmer until potatoes are tender, about 20 minutes; drain and return to saucepan.",
+            "Add butter and let stand for 2 minutes. Mash until smooth.",
+            "Add sour cream, milk, salt and pepper; mash until combined.",
+            "Fold in 3/4 cup Cheddar cheese and green onion.",
+            "Meanwhile, cook ground beef in a large saucepan until browned, about 8 minutes; drain fat. Add chili and corn; heat until it comes to a simmer, about 5 minutes.",
+            "Add chili mixture to the prepared baking dish.",
+            "Spoon mashed potatoes over the chili and smooth to an even layer. Sprinkle with remaining 1/4 cup Cheddar cheese.",
+            "Bake until hot and bubbly, about 15 minutes. Garnish with additional green onions."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Steak with Creamy Peppercorn Sauce",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "2 (12 ounce) New York strip steaks",
+            "1/2 teaspoon sea salt",
+            "2 tablespoons whole peppercorns",
+            "1 tablespoon unsalted butter",
+            "1 tablespoon olive oil",
+            "1/4 cup minced shallots",
+            "4 garlic cloves",
+            "3 sprigs fresh thyme",
+            "1/3 cup cognac",
+            "1 cup heavy cream"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Pat steaks dry with paper towels; season on both sides with sea salt.",
+            "Place whole peppercorns on a wooden cutting board, and crack peppercorns with an iron skillet or heavy pan. Lightly pound peppercorns, then rub peppercorns in a circular motion over the cutting board until pieces of pepper are fairly uniform, and more coarse than ground black pepper. Press cracked pepper into both sides of steaks; let stand at room temperature for about 20 minutes.",
+            "Heat butter and olive oil in a 10-inch iron skillet over medium-high heat. When butter stops sizzling and oil is hot, reduce heat to medium and carefully add steaks to the hot oil. Cook about 3 minutes per side, or until an instant-read thermometer inserted near the center reads 120 degrees F (50 degrees C) for medium-rare.",
+            "Remove steaks from pan; tent with aluminum foil to keep warm. To the same skillet, over medium-low heat, add minced shallots and cook until softened, about 2 minutes. Add garlic and thyme sprigs; cook until fragrant, about 20 seconds.",
+            "Remove the pan from heat and slowly and carefully pour in the cognac (adding cognac over heat or adding too quickly could cause it to ignite). Return the pan to the burner and stir to combine. Cook until the liquid is evaporated.",
+            "Stir in cream; continue cooking until sauce thickens enough to coat the back of a spoon.",
+            "To serve, spread sauce on a serving platter. Slice steaks thinly on the diagonal, and place on the sauce. Garnish with additional thyme sprigs, if desired."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Balsamic Caprese Grilled Steak",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 tablespoon balsamic vinegar",
+            "1/2 teaspoon herbs",
+            "1/8 teaspoon garlic",
+            "8 ounce strip steak"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Add olive oil, balsamic vinegar, herbs, and garlic to a resealable plastic bag. Pat the strip steak dry and add steak into the marinade. Reseal the bag; marinate in the refrigerator for at least 30 minutes or up to overnight.",
+            "Brush grill grates with oil or grill spray. Preheat a gas grill with burners on High and lid closed for 10 to 15 minutes.",
+            "Remove steak from marinade, and allow excess to drip off; discard marinade. Place steak directly on grill grates over High heat. Sear with lid closed, 2 to 3 minutes per side. Rotate steak 45 degrees halfway through cooking on each side for crosshatch grill marks.",
+            "Move steak to indirect heat and cook to your preferred doneness, 1 to 2 minutes per side for a rare strip steak or 2 to 3 minutes per side for medium rare. Remove to a platter and keep warm.",
+            "Quarter mozzarella pearls and cherry tomatoes, and slice basil leaves into very thin strips. Place topping on steak and drizzle with balsamic glaze to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Dump and Bake Meatball Stroganoff",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 cup sour cream",
+            "4 ounces cream cheese, cubed and softened",
+            "4 cups beef broth",
+            "1 tablespoon orcestershire sauce",
+            "1 tablespoon ijon mustard",
+            "1 teaspoon salt",
+            "1/2 teaspoon ground black pepper",
+            "8 ounces button mushrooms, sliced",
+            "1/2 cup onion",
+            "2 cloves garlic, minced",
+            "1 1(12-ounce) bag wide egg noodles",
+            "1 (12-14-ounce) bag frozen cooked beef meatballs",
+            "1 1/3 cup French-fried onions",
+            "chopped fresh parsley, for garnish"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 425 degrees F (220 degrees C).",
+            "Whisk together sour cream and cream cheese in a 9x13-inch baking dish until smooth. Gradually whisk in broth. Stir in Worcestershire sauce, mustard, salt and pepper.",
+            "Stir in mushrooms, onion and garlic.",
+            "Fold in noodles and meatballs, lightly press with the back of a spoon to submerge noodles in the liquid as much as possible.",
+            "Cover dish tightly with foil and bake for 30 minutes.",
+            "Remove from the oven and stir mixture, pressing noodles down again to submerge in the mixture. (If some noodles look underdone at this point, it's fine, they will get done while it finishes baking and standing.)",
+            "Top with French-fried onions. Bake uncovered until topping is golden and mixture is heated through, 10 minutes more.",
+            "Let sit for 10 minutes before serving. Garnish with chopped parsley."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ground Beef Stir Fry",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 pound ground beef",
+            "2 cloves garlic,",
+            "2 tablespoons canola oil or avocado oil",
+            "1/2 small head cabbage,",
+            "1 medium onion",
+            "1 bell pepper",
+            "4 ounces Baby Bella (cremini) mushrooms,"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Heat a wok or large skillet over medium-high heat. Add ground beef, and cook until browned and no longer pink, breaking up clumps with a wooden spoon, about 5 minutes. Stir in garlic, and cook until fragrant, about 30 seconds. Drain fat, transfer to a plate, and set aside.",
+            "Heat oil in the same pot, and add cabbage, onion, bell pepper, and mushrooms. Stir and cook until veggies are crisp tender, about 5 to 7 minutes.",
+            "Meanwhile, whisk cornstarch and 2 tablespoons soy sauce in a small bowl to make a smooth paste. Whisk in beef broth, 1/4 cup soy sauce, sesame oil, and ginger until well combined.",
+            "Return cooked beef to the wok and combine with the veggies. Pour in sauce, and stir until everything is evenly coated. Cook, stirring constantly, just until sauce thickens and reduces slightly.",
+            "Sprinkle with sesame seeds and green onion, and serve."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hawaiian-Style Beef Stew",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "2 1/2 pounds beef chuck",
+            "2 teaspoons kosher salt",
+            "1/4 cup all-purpose flour",
+            "3 tablespoons olive oil",
+            "2 yellow onions",
+            "3 tablespoons tomato paste",
+            "1 cup tomato sauce",
+            "4 cups beef bone broth",
+            "2 tablespoons Worcestershire sauce",
+            "1/2 cup soy sauce",
+            "1 teaspoon ground black pepper",
+            "1 pinch cayenne pepper",
+            "4 carrots",
+            "3 stalks celery,",
+            "3 large Yukon Gold potatoes"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Place beef on a cutting board, and cut into uniform 1 1/2-inch pieces. Season beef directly on the cutting board; sprinkle with salt and 2 tablespoons flour, and toss until thoroughly and evenly coated.",
+            "Add vegetable oil to a heavy bottomed stew pot, and set over high heat. Working in 2 or 3 batches so that beef is in a single, uncrowded layer, brown beef pieces deeply on at least 2 sides; transfer into a bowl and set aside. Reduce heat to medium-high if beef is browning too quickly or pan seems too hot.",
+            "Remove the last batch of browned beef to the bowl, reduce heat to medium-high, and transfer in onions. Cook, stirring for a few minutes until they just start to turn translucent. Add tomato paste, and cook and stir until tomato paste begins to brown on the edges of onion, about 4 minutes.",
+            "Sprinkle in remaining 2 tablespoons flour, and cook, stirring, for about 2 minutes. Transfer in tomato sauce and beef broth, and stir to combine. Add Worcestershire sauce and soy sauce, and bring stew to a boil, stirring occasionally.",
+            "Return browned beef pieces and all accumulated juices to the pot and stir to combine. Reduce heat to low. Cover tightly, and simmer gently for 1 hour.",
+            "Uncover, and stir in black pepper, cayenne, carrots, celery, and potatoes. Cover again and simmer on low for 1 hour.",
+            "Remove the lid, and simmer uncovered until sauce reduces slightly and thickens, and meat is very tender, about 1 hour more. Taste for seasoning and adjust if need be. Serve with rice."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Philly Cheesesteak Casserole",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "16 ounces bowtie pasta",
+            "3 tablespoons olive oil, divided",
+            "1 pound ground beef",
+            "1 poblano pepper or green bell pepper, thinly sliced",
+            "1 pepper, thinly sliced red or yellow bell",
+            "1 cup sweet onion",
+            "2 cloves garlic, minced",
+            "1 teaspoon dried oregano",
+            "3/4 teaspoon salt",
+            "1/4 teaspoon crushed red pepper",
+            "3 tablespoons all purpose flour",
+            "1 (14.5-ounce) canlower sodium lower sodium",
+            "1 (8-ounce) package cream cheese, softened and cut up",
+            "1 1/2 cups provolone cheese, divided",
+            "1 cup bread crumbs"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking dish.",
+            "Cook pasta according to package directions; drain. Add to the prepared baking dish.",
+            "Meanwhile, heat 1 tablespoon of the oil in a 12-inch skillet over medium heat. Add ground beef, and cook for 4 minutes. Add peppers and onions. Cook until beef is browned and vegetables are tender, about 8 minutes.",
+            "Season with garlic, oregano, salt and crushed red pepper. Cook until fragrant, 1 minute. Dust with flour and cook, stirring, for 1 minute.",
+            "Mix in broth, and bring to a boil, stirring, until thickened and bubbly.",
+            "Add cream cheese to the skillet. Cook and stir until melted.",
+            "Stir in 1 cup provolone cheese until melted.",
+            "Add mixture to the baking dish; stir to combine. Top with remaining 1/2 cup provolone cheese.",
+            "Toss bread crumbs with remaining 2 tablespoons olive oil in a small bowl to coat. Spread over the mixture.",
+            "Bake until browned and bubbly, 20 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Jalapeño Popper Smashed Tacos",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "6 slices bacon",
+            "1 pound ground sirloin or ground round beef",
+            "1/2 cup finely chopped jalapeños",
+            "1/2 teaspoon garlic powder",
+            "3/4 teaspoon salt",
+            "1 1/2 cups shredded Cheddar cheese,",
+            "10 (6 inch) flour tortillas",
+            "2 ounces cream cheese,",
+            "1/2 cup sour cream",
+            "1 tablespoon lime juice",
+            "1/4 cup chopped cilantro, or as needed",
+            "1 cup shredded lettuce, or as needed"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 7 minutes. Drain bacon slices on paper towels. Crumble when cool enough to handle.",
+            "Combine ground beef with jalapeños, garlic powder, salt, crumbled bacon, and 3/4 cup shredded cheese in a bowl. Spread beef mixture to the edges of each tortilla; set aside.",
+            "Preheat a griddle to medium-high heat. Meanwhile, mix cream cheese with sour cream, lime juice, and salt and set aside.",
+            "Place tacos meat-side down on hot griddle. Cook, undisturbed, until golden brown and slightly crisp, about 3 minutes. Flip and cook until lightly toasted, 30 seconds to 1 minute more. Fold tacos in half and top with sour cream mixture, remaining cheese, cilantro, and shredded lettuce."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Meatballs on Parmesan Noodles",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1/2 cup seasoned bread crumbs",
+            "1/2 cup Parmesan cheese,",
+            "1/4 cup chopped fresh parsley",
+            "1 tablespoon dried oregano",
+            "1/2 tablespoon garlic or garlic paste",
+            "1/2 tablespoon kosher salt",
+            "1/2 tablespoon black pepper",
+            "1 teaspoon dried basil",
+            "1/2 teaspoon red pepper flakes",
+            "1 large egg,",
+            "1/4 cup milk",
+            "1 1/4 cups beef broth",
+            "1 pound ground beef"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 425 degrees F (225 degrees C).",
+            "Combine breadcrumbs, Parmesan, parsley, oregano, garlic, salt, black pepper, basil, and red pepper flakes in a bowl and mix together with a fork. Stir in egg, milk, and 1/4 cup beef broth. Add ground beef and stir with a fork just until combined.",
+            "With wet hands, roll meat mixture into medium-sized balls and place in a large casserole dish. Pour in 1 cup beef broth, or enough to fill the casserole 1/4 inch deep. Sprinkle meatballs with Parmesan cheese.",
+            "Bake meatballs in the preheated oven for 15 minutes. Turn meatballs over, and bake until no longer pink at the center, about 15 minutes more.",
+            "For noodles, bring a large pot of salted water to a boil. Add noodles and cook until tender with a bite, about 10 minutes; drain.",
+            "Place noodles in a bowl and immediately add butter, garlic paste, Parmesan, oil, black pepper, and parsley. Stir to combine.",
+            "Remove meatballs from the oven. To serve, spoon noodles onto a plate and top with meatballs. Sprinkle with more parsley. Enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Best Ground Beef Taco Meat",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 ½ pounds ground round",
+            "1/2 cup onion",
+            "3 tablespoons taco seasoning",
+            "2 tablespoons tomato paste",
+            "3/4 cup water"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Heat a large skillet over medium-high heat. Add beef and cook, breaking up clumps with a spatula, until fat renders out and beef begins to brown, about 4 minutes. Add onion and cook, stirring constantly until onion is softened and beef is crumbly, about 4 minutes. Drain fat if desired.",
+            "Add desired amount of taco seasoning and cook 1 minute. Add in tomato paste and water and cook, using a spoon to loosen any browned bits from the pan, and stir until well combined. Reduce heat to medium-low and simmer until thickened, about 5 minutes."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Fried Ground Beef Tacos",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 pound ground beef",
+            "1/3 cup onion",
+            "3 tablespoons taco seasoning",
+            "1 tablespoon tomato paste",
+            "2/3 cup water",
+            "1/2 cup oil,",
+            "12 corn tortillas",
+            "8 ounces Monterey Jack cheese, shredded",
+            "lettuce, salsa, sour cream, and cilantro for topping"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Heat a large skillet over medium-high heat. Add beef and cook, breaking up clumps with a spatula, until fat renders out and beef begins to brown, about 4 minutes. Add onion and cook, stirring constantly until onion is softened and beef is crumbly, about 4 minutes. Drain fat if desired.",
+            "Add desired amount of taco seasoning and cook for 1 minute. Add in tomato paste and water and cook, using a spoon to loosen any browned bits from the pan, and stir until well combined. Reduce heat to medium-low and simmer until thickened, about 5 minutes.",
+            "Heat 1/4 cup oil in a large deep skillet over medium-high heat. Carefully place tortilla in hot oil until it begins to bubble and brown. Flip tortilla and top with 2 tablespoons shredded cheese all over. Next, add about 1/4 cup ground beef mixture on half of the tortilla. Using tongs and a spatula, carefully fold tortilla in half and cook until well browned on both sides. Drain well on paper towels. Repeat with remaining oil, tortillas, taco meat and cheese.",
+            "Carefully open and fill tacos as desired. Serve immediately."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cattle Ranch Casserole",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "2 cups baking mix,",
+            "1 1/4 cups whole milk",
+            "2 tablespoons vegetable oil",
+            "2 pounds lean ground beef",
+            "1 onion,",
+            "2 poblano peppers,",
+            "1 packet taco seasoning",
+            "1/2 teaspoon kosher salt",
+            "1/2 cup mayonnaise",
+            "1/2 cup sour cream",
+            "2 cups pepper Jack cheese",
+            "2 cups shredded Cheddar cheese",
+            "1 10 ounce) can diced tomatoes with Hatch green chiles",
+            "1/2 cup chopped cilantro or green onions"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Lightly coat a 9x13-inch baking dish with cooking spray.",
+            "Stir baking mix, milk, and 1 tablespoon oil together in a bowl. Spread evenly in the prepared baking dish.",
+            "Bake in the preheated oven until just starting to turn golden brown, 10 to 15 minutes. This step is just par-baking - this layer will not be fully baked at this point. Remove from the oven and set aside.",
+            "Heat remaining tablespoon oil in a large skillet over medium-high heat. Add ground beef and cook, stirring occasionally, until almost cooked through, about 4 minutes.",
+            "Add onion and poblano, stirring occasionally, until the beef is cooked through and onions begin to soften, about 4 minutes more. Stir in taco seasoning and salt until evenly combined. Remove from heat; set aside.",
+            "Add mayonnaise, sour cream, 1 cup pepper Jack cheese, and 1 cup Cheddar cheese to a bowl; stir until well combined.",
+            "Spoon beef mixture evenly over par-baked biscuit in the baking dish. Sprinkle drained diced tomatoes evenly over beef. Carefully spoon mayonnaise mixture over beef and tomatoes. Sprinkle evenly with remaining shredded cheese.",
+            "Bake, uncovered, until cheese is bubbly and starting to turn golden brown, about 30 minutes.",
+            "Let the dish rest for 10 minutes before serving. Garnish with sour cream and cilantro or green onions."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bierock Salad",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1/2 pound ground beef",
+            "1/2 cup onions",
+            "1 tablespoon Worcestershire sauce",
+            "4 yeast rolls, or more as desired,",
+            "2 tablespoons butter",
+            "2 tablespoons Everything But the Bagel seasoning",
+            "1 (14.4 ounce) can sauerkraut, drained",
+            "4 cups cabbage",
+            "1/4 cup apple cider vinegar",
+            "1/2 cup sugar",
+            "1 teaspoon yellow mustard",
+            "1 cup shredded Cheddar cheese (optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet, breaking it up into small pieces, 1 to 2 minutes. Add onions and Worcestershire sauce. Cook and stir until beef is browned and onions are soft and translucent, about 5 minutes. Set aside to cool.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Set frozen yeast rolls on a baking sheet.",
+            "Bake in the preheated oven until browned, 7 to 9 minutes. Remove from the oven and allow to cool completely, about 20 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C) and line a baking sheet with aluminum foil.",
+            "Cut cooled rolls into crouton-sized pieces. Melt butter in the microwave for 30 seconds. Place bread pieces into a bowl and pour melted butter evenly over the top. Sprinkle buttered roll pieces with 1 tablespoon Everything seasoning. Shake bowl to distribute seasoning and butter evenly. Spread bread pieces on the prepared baking sheet.",
+            "Bake croutons in the preheated oven until croutons are dry and crunchy, about 5 minutes.",
+            "To assemble salad, place drained sauerkraut in the bottom of a large bowl. Add cabbage, vinegar, sugar, mustard, remaining 1 tablespoon Everything seasoning, and shredded Cheddar. Mix in cooled hamburger mixture until well combined.",
+            "Serve in individual bowls and top with croutons."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chimichurri Steak Tacos",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 pound flank steak",
+            "1 teaspoons salt",
+            "2 tablespoons oil,",
+            "4 white corn tortillas",
+            "1/2 cup chimichurri sauce",
+            "1/4 cup red onions",
+            "1/2 cup cotija cheese",
+            "cilantro"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Sprinkle salt over steak to cover both sides. Wrap tightly in plastic wrap and refrigerate for 1 hour or up to 1 day.",
+            "Heat a skillet over medium heat and add 1 tablespoon oil. Fry tortillas, 1 at a time, on each side until puffy and golden brown, about 1 minute. Set aside on a plate and cover with paper towels.",
+            "Sear steak in the same skillet, adding oil as needed; turn over frequently until browned, about 8 minutes per side. For medium-rare, steaks will be firm and reddish-pink and juicy in the center. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C) for medium rare.",
+            "Remove to a cutting board to rest. Once rested, slice steak against the grain.",
+            "Serve in tortilla and top with onions, chimichurri, and shredded cheese. Top with cilantro."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Diamond Cut Steak with Garlic Butter Pan Sauce",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 (5 to 6 ounce) round steak",
+            "1 1/2 teaspoons vegetable oil",
+            "salt and freshly ground black pepper to taste",
+            "1 rounded tablespoon butter",
+            "1 clove garlic,",
+            "1/3 cup beef broth or water",
+            "1 tablespoon chopped Italian parsley or other fresh herb",
+            "1 slice French bread,"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Diamond cut steak as demonstrated in the video, and rub both sides with oil. Season with salt and pepper; refrigerate until ready to cook. Place a heavy-duty sauté pan over high heat, and preheat for several minutes.",
+            "Sear the steak for about 1 minute per side for medium, or to your desired doneness. Remove the steak to a plate, turn off the heat, and toss butter into the pan along with garlic. Stir for about 15 seconds, and then add broth or water. Stir, scraping any of the charred bits off the bottom of the pan.",
+            "Additional liquid can be added if the pan gets dry, or the heat can be turned back on to reduce if there's too much liquid. You should end up with about 3 tablespoons of sauce. Stir in the parsley.",
+            "Place the diamond cut steak on toasted French bread, and spoon over the sauce."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Crockpot Garlic Butter Steak Bites",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 onion",
+            "1 1 ounce) packe au jus seasoning",
+            "3 pounds chuck roast,",
+            "1 tablespoon steak seasoning",
+            "1/4 cup butter",
+            "8 cloves garlic",
+            "3/4 cup beef broth",
+            "2 tablespoons fresh parsley"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place onions in the bottom of a slow cooker and sprinkle with au jus seasoning.",
+            "Toss beef with steak seasoning and place on top of onions. Top with butter and garlic and pour broth around the edges.",
+            "Cover and cook on Low until meat is tender, about 6 hours.",
+            "Stir in parsley just before serving."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Taco Bell Cheesy Potato Casserole",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "3 pounds russet potatoes",
+            "1 packet taco seasoning",
+            "1/2 teaspoon salt",
+            "1 1/2 pounds lean ground beef",
+            "1/2 cup shredded Cheddar cheese",
+            "1 cup nacho cheese",
+            "1/2 cup sour cream",
+            "4 tablespoons taco sauce",
+            "2 tablespoons olive oil"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 450 degrees F (235 degrees C).",
+            "Bring a large pot of water to a boil, and boil potatoes until tender, 8 to 10 minutes; drain.",
+            "Transfer potatoes to a large bowl. Drizzle with oil, season with 1 tablespoon taco seasoning and salt. Toss until well combined. Spread potatoes evenly onto a rimmed baking sheet.",
+            "Bake in the preheated oven until crispy and golden brown, about 20 minutes. Reduce oven temperature to 400 degrees F (200 degrees C).",
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Season with remaining taco seasoning. Drain grease if needed.",
+            "Transfer potatoes to a 8x10-inch casserole dish. Drizzle with half the nacho cheese, then add ground beef on top. Sprinkle with Cheddar and drizzle with 1 to 2 tablespoons taco sauce.",
+            "Bake in the preheated oven until cheese is melted and bubbly, about 20 minutes.",
+            "Top with sour cream, remaining nacho cheese and serve immediately."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Savory Apple Cider Beef Stew",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 pound beef stew meat, cut into bite-size pieces",
+            "2 teaspoons all-purpose flour",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "⅛ teaspoon dried thyme (Optional)",
+            "2 teaspoons vegetable oil",
+            "2 ½ cups apple cider",
+            "4 carrots, sliced",
+            "3 potatoes, chopped",
+            "2 small Fuji apples - peeled, cored, and chopped",
+            "1 cup chopped onion",
+            "1 cup water",
+            "1 stalk celery, chopped (Optional)",
+            "1 teaspoon salt",
+            "¼ teaspoon dried thyme (Optional)"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Combine beef with flour, 1/2 teaspoon salt, black pepper, and 1/8 teaspoon thyme in a bowl; toss to coat evenly.",
+            "Heat 2 teaspoons oil in a heavy-bottomed pot. Add beef; cook until browned, 5 to 7 minutes. Stir in apple cider with a wooden spoon while scraping the browned bits of food off the bottom of the pan; reduce heat to medium low, and simmer until beef is tender, about 1 hour.",
+            "Add carrots, potatoes, apples, onion, water, celery, 1 teaspoon salt, and 1/4 teaspoon thyme to the pot; continue cooking until vegetables are tender, about 30 minutes more."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Beef Enchilada Casserole",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "1 1/2 pounds lean ground beef",
+            "1 packet taco seasoning",
+            "1 (15 ounce) can beans, drained and rinsed",
+            "1 (28 ounce) jar enchilada sauce",
+            "1 (4 ounce) can can green chilies",
+            "1 white onion",
+            "10 6 inch) corn tortillas,",
+            "1 1/2 cup shredded Mexican cheese"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Cook ground beef in a large skillet over medium-high heat until browned, about 7 minutes. Season with taco seasoning.",
+            "Transfer beef mixture to the slow cooker. Add enchilada sauce, beans, green chilies, and onion, and stir to combine.",
+            "Cover and cook on Low for 3 to 4 hours.",
+            "Stir in 1/2 of the tortilla wedges and 1/2 of shredded cheese. Top with remaining tortilla wedges and cheese. Cover and cook on High until cheese is melted, about 30 minutes more.",
+            "Garnish with cilantro, pico de gallo, and sour cream. Enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Stick of Butter Steak and Rice",
+        "category": "Beef Recipes",
+        "ingredients": [
+            "2 cups rice",
+            "1/2 onion",
+            "8 ounces portobello mushrooms",
+            "2 (10 ounce) cans beef consomme",
+            "1 (10 ounce) can French onion soup",
+            "1/2 cup water",
+            "1 cup grated Parmesan cheese",
+            "8 tablespoons butter",
+            "1 1/2 pounds cube steak",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon kosher salt",
+            "1/2 teaspoon pepper",
+            "2 tablespoons chopped parsley"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Stir together rice, onion, mushrooms, consomme, French onion soup, and water in a 9x13-inch baking dish. Top with butter and sprinkle with 3/4 cups cheese.",
+            "Season steak with garlic powder, salt, and pepper and place on top of rice mixture. Top with remaining cheese. Cover with foil.",
+            "Bake in the preheated oven for 50 minutes. Uncover and continue to bake until liquid is absorbed and rice is cooked and golden brown on top, 20 to 30 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

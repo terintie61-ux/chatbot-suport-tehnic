@@ -1,0 +1,549 @@
+[
+    {
+        "Main_category": "ocasional_based"
+    },
+    {
+        "recipe_title": "Break-Up Pasta",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 tablespoon unsalted butter",
+            "1 garlic clove",
+            "1 (8 ounce) can tomato sauce",
+            "1 1/2 teaspoons Sriracha chile sauce",
+            "1 1/4 cups tap water",
+            "3 ounces uncooked cavatappi pasta",
+            "1/4 cup heavy whipping cream",
+            "1/4 cup Parmesan cheese"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Melt butter in a skillet over medium heat. Add garlic and cook, stirring constantly, until fragrant, about 30 seconds. Stir in tomato sauce and Sriracha; bring to simmer. Stir in water until smooth and incorporated.",
+            "Stir in pasta and cook on medium heat, stirring often, until sauce has thickened and pasta is al dente, 16 to 18 minutes.",
+            "Stir in heavy cream; cook, stirring constantly, until sauce coats pasta, about 1 minute. Remove from heat and stir in Parmesan cheese until melted and creamy, about 1 minute. If starting to get too thick, add additional water, 1 tablespoon at a time, until pasta has the desired consistency.",
+            "Spoon pasta into a serving bowl and sprinkle with additional Parmesan cheese."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Cordon Bleu Casserole for One",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1/3 cup panko breadcrumbs",
+            "2 tablespoons unsalted butter",
+            "1 tablespoon grated Parmesan cheese",
+            "1 pinch ground black pepper"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "For topping, place panko in a small bowl; add in butter, Parmesan, and season with pepper. Stir together until evenly combined and mixture resembles coarse sand; set aside.",
+            "Cut chicken into 1/2-inch cubes and transfer into a bowl. Season with salt, black pepper, cayenne, thyme, and salt. Add cream, Dijon, ham, and 2/3 of the grated Gruyere. Stir to combine, and transfer into a small baking dish. Top evenly with remaining 1/3 of the cheese,",
+            "Spoon crumb mixture evenly over the top. Poke crumbs down lightly into the chicken mixture with the tip of the spoon before evening out the top.",
+            "Bake in the preheated oven until chicken is cooked through, the casserole is bubbling around the edges, and the top is nicely browned, about 25 minutes. Let rest for 5 minutes before serving."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shrimp Ramen Stir Fry",
+        "category": "Cooking For One",
+        "ingredients": [
+            "3 tablespoons soy sauce",
+            "1 teaspoon oyster sauce",
+            "1 teaspoon sesame oil",
+            "1 teaspoon rice vinegar",
+            "1 teaspoon chili crisp,",
+            "2 cloves garlic",
+            "2 teaspoons grapeseed oil"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "For sauce, add soy sauce, oyster sauce, sesame oil, rice vinegar, chili crisp, and garlic to a small bowl. Heat grapeseed oil in a small saucepan. Carefully pour heated oil into the bowl; set sauce aside.",
+            "Heat remaining 1 teaspoon sesame oil in a wok or heavy skillet. Add broccoli, carrots, bell pepper, and onion. Sauté until vegetables are crisp-tender, about 3 minutes. Add garlic and stir until fragrant, about 35 seconds. Pour in sauce, and add shrimp. Cook for approximately 2 minutes.",
+            "Meanwhile, open ramen package; discard seasoning packet. Bring 2½ cups water to a boil in a small saucepan. Add noodles and cook for 2 minutes. Drain; stir noodles into the wok; toss to coat. Garnish with black and white sesame seeds, and chopped green onion."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fried Egg Tortilla",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 teaspoons butter",
+            "1 large egg",
+            "1/4 teaspoon taco seasoning, or to taste",
+            "1 1/2 ounces shredded Cheddar cheese, divided",
+            "1 (6 to 7-inch) flour tortilla"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "In a 10-inch nonstick skillet, melt butter over medium heat, and swirl the pan to coat the bottom evenly.",
+            "Carefully break egg into buttered skillet and cook until egg white is opaque and egg is firm enough to turn, about 1 minute.",
+            "Turn egg over, being careful not to break yolk; sprinkle with taco seasoning and about half of cheese.",
+            "Gently place tortilla over egg and cheese, and cook about 1 minute. Using a silicone egg turner, flip the egg and tortilla, as one.",
+            "Sprinkle remaining cheese on top of the egg, and continue cooking until the egg is done to your liking and the tortilla is warm and toasty, about 2 minutes.",
+            "Slide tortilla and egg to a serving plate and serve warm."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Pita Pizza",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1/4 red bell pepper",
+            "1/8 small red onion",
+            "2 1/4 teaspoons talian dressing",
+            "1 (6 1/2-inch) pita bread",
+            "1/2 teaspoon olive oil",
+            "2 tablespoons pizza sauce",
+            "1/8 cup sliced mushrooms",
+            "1/2 teaspoon black olives, or to taste",
+            "1/2 cup shredded mozzarella cheese"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the grill for medium-high heat and lightly oil the grate. Preheat the oven to 425 degrees F (220 degrees C).",
+            "Toss bell pepper and red onion with Italian dressing in a bowl. Grill vegetables until tender with a bite, 5 to 8 minutes, turning occasionally. Allow to cool slightly, then cut peppers into thin strips; cut onions into 3/4-inch pieces.",
+            "Place pita on the grill until grill marks form, 30 seconds to 2 minutes; turn, and grill the other side until grill marks form, 30 seconds to 2 minutes.",
+            "Place pita on a sheet pan. Spread one side of pita with olive oil and pizza sauce. Scatter peppers, onion, mushrooms, and black olives over pita, and sprinkle with mozzarella cheese.",
+            "Bake in the preheated oven until cheese melts, about 5 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Peanut Butter Oatmeal",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 cup 1% milk",
+            "1 tablespoon superfine sugar",
+            "1 pinch salt",
+            "1 pinch cinnamon",
+            "1/2 cup oats",
+            "1/2 teaspoon vanilla extract",
+            "1 tablespoon peanut butter",
+            "2 teaspoons honey",
+            "1 tablespoon chopped walnuts (optional)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine milk, sugar, and salt in a saucepan over medium-low heat and bring to a simmer.",
+            "Add cinnamon and oats. Cook over medium-low heat until oats are tender with a bite, about 5 minutes. Use a long spoon to stir, and adjust heat to prevent splattering.",
+            "Remove from heat; stir in vanilla and peanut butter. Serve in a large bowl, and top with honey and walnuts."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Garlic Chili Oil Noodles",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 package ramen noodles",
+            "2 teaspoons sesame oil",
+            "2 teaspoons soy sauce",
+            "1 tablespoon chili oil",
+            "4 clove garlic, minced",
+            "1 pinch sesame seeds",
+            "2 green onions, sliced diagonally, or to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Bring a pot of water to a boil over high heat. Add ramen noodles, and cook until tender, 3 to 4 minutes.",
+            "Meanwhile, heat sesame oil, soy sauce, and chili oil in a wok over medium-high heat.",
+            "Add garlic and stir fry until fragrant, 30 to 45 seconds. Remove from heat. Drain ramen noodles, add to the wok, and toss to coat. Sprinkle with sesame seeds and scallions for garnish. Enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Creamy Chicken Ramen",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 tablespoon unsalted butter",
+            "2 cloves garlic, minced",
+            "½ cup chicken broth",
+            "½ cup whipping cream",
+            "1 (3 ounce) package ramen noodles (without flavor packet)",
+            "1 teaspoon reduced-sodium soy sauce",
+            "¼ cup chopped cooked chicken",
+            "1 pinch everything bagel seasoning (optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Melt butter in a heavy skillet over medium heat. Add minced garlic and cook, stirring, until fragrant, about 30 seconds. Add chicken broth, cream, and ramen noodles. Cook, stirring occasionally, until noodles soften, about 3 minutes.",
+            "Add soy sauce and chopped cooked chicken. Allow to get hot.",
+            "Serve garnished with everything bagel seasoning if desired."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Cheese Sandwich",
+        "category": "Cooking For One",
+        "ingredients": [
+            "4 slices white bread",
+            "3 tablespoons butter, divided",
+            "2 slices Cheddar cheese"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat a nonstick skillet over medium heat. Generously butter one side of a slice of bread.",
+            "Place bread butter-side down in the hot skillet; add 1 slice of cheese.",
+            "Butter a second slice of bread on one side and place butter-side up on top of cheese.",
+            "Cook until lightly browned on one side; flip over and continue cooking until cheese is melted.",
+            "Repeat with remaining 2 slices of bread, butter, and slice of cheese. Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Seared Ahi Tuna Steaks",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 (5 ounce) ahi tuna steaks",
+            "1 teaspoon kosher salt",
+            "¼ teaspoon cayenne pepper (Optional)",
+            "½ tablespoon butter",
+            "2 tablespoons olive oil",
+            "1 teaspoon whole peppercorns"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Pat tuna steaks dry and season on both sides with salt and cayenne pepper.",
+            "Melt butter in a skillet over medium-high heat.",
+            "Add olive oil and pepper corns; cook until peppercorns soften and pop, about 5 minutes.",
+            "Gently place seasoned tuna in the skillet and cook to desired doneness, anywhere from 30 seconds to 1 1/2 minutes per side.",
+            "Slice tuna into 1/4-inch thick slices to serve.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fish in Foil",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 rainbow trout fillets",
+            "1 tablespoon olive oil",
+            "2 teaspoons garlic salt",
+            "1 teaspoon ground black pepper",
+            "2 sheets heavy-duty aluminum foil",
+            "1 fresh jalapeno pepper, sliced",
+            "1 lemon, sliced"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+            "Rinse and pat fillets dry. Rub fillets with olive oil, and season with garlic salt and black pepper.",
+            "Place each fillet on a large sheet of aluminum foil. Top with jalapeno slices, and squeeze the juice from the ends of the lemon over fillets.",
+            "Arrange remaining lemon slices on top of fillets.",
+            "Carefully seal all edges of the foil to form enclosed packets. Place packets on a baking sheet.",
+            "Bake in the preheated oven until fish flakes easily with a fork, 15 to 20 minutes depending on size of fillets."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Brown Sugar Ham Steak",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 (8 ounce) bone-in fully cooked ham steak",
+            "5 tablespoons butter, cubed",
+            "5 tablespoons brown sugar"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather the ingredients.",
+            "Cook ham steak in a large skillet over medium heat until browned, 3 to 4 minutes per side.",
+            "Remove ham from skillet; drain off any fat. Melt butter in the same skillet over medium-low heat. Stir in brown sugar.",
+            "Return ham to skillet. Cook, turning ham often, until heated through and brown sugar has dissolved, about 10 minutes. Reduce heat if brown sugar/butter mixture starts to pop or splatter.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pork Fried Rice",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 (6 ounce) boneless pork loin chop, cut into small pieces",
+            "1 green onion, chopped",
+            "¼ cup chopped carrot",
+            "¼ cup chopped broccoli",
+            "1 large egg, beaten",
+            "1 cup cold cooked rice",
+            "¼ cup frozen peas",
+            "1 ½ tablespoons soy sauce",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon ground ginger"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Melt butter in a large non-stick skillet over medium heat. Add pork, green onion, carrot, and broccoli; cook and stir until pork is cooked through, 7 to 10 minutes.",
+            "Transfer pork mixture to a bowl and return skillet to medium heat. Stir egg into the skillet and scramble until completely set.",
+            "Add pork mixture back into the skillet; stir in rice, peas, soy sauce, garlic powder, and ground ginger.",
+            "Cook and stir until heated through, 7 to 10 minutes. Serve and enjoy!"
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Lobster Tails with Lemon-Garlic Butter",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 (4 ounce) lobster tails",
+            "4 tablespoons butter",
+            "1 teaspoon lemon zest",
+            "1 clove garlic, grated",
+            "salt and ground black pepper to taste",
+            "1 teaspoon chopped fresh parsley",
+            "2 wedges lemon"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat an air fryer to 380 degrees F (195 degrees C).",
+            "Butterfly lobster tails by cutting lengthwise through the centers of the hard top shells and meat with kitchen shears. Cut to, but not through, the bottoms of the shells.",
+            "Spread tail halves apart. Place tails in the air fryer basket with lobster meat facing up.",
+            "Melt butter in a small saucepan over medium heat. Add lemon zest and garlic; heat until garlic is fragrant, about 30 seconds.",
+            "Transfer 2 tablespoons of butter mixture to a small bowl; brush this onto lobster tails. Discard any remaining brushed butter to avoid contamination from uncooked lobster. Season lobster with salt and pepper.",
+            "Cook in the preheated air fryer until lobster meat is opaque, 5 to 7 minutes.",
+            "Spoon reserved butter from the saucepan over lobster meat. Top with parsley and serve with lemon wedges."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Chicken Cordon Bleu",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 boneless, skinless chicken breasts",
+            "salt and ground black pepper to taste",
+            "1 tablespoon Dijon mustard",
+            "4 slices deli Swiss cheese",
+            "4 slices deli ham",
+            "2 toothpicks",
+            "¼ cup all-purpose flour",
+            "1 egg, beaten",
+            "1 cup panko bread crumbs",
+            "⅓ cup grated Parmesan cheese",
+            "cooking spray"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather the ingredients.",
+            "Place a chicken breast on a flat work surface. Slice horizontally through the middle, being careful not to cut all the way through to the other side. Open the 2 sides and spread them out like an open book. Place chicken breast between 2 sheets of heavy plastic on a solid, level surface; lightly pound with the smooth side of a meat mallet to a 1/4-inch thickness. Repeat with remaining chicken breast.",
+            "Season each chicken breast with salt and pepper. Spread Dijon mustard on top. Place 1 slice of cheese on each breast. Top each with 2 slices of ham and 1 slice of cheese. Roll each breast up and secure with a toothpick.",
+            "Place flour in a shallow bowl. Place egg in a second bowl. Mix panko bread crumbs and grated Parmesan in a third bowl. Preheat an air fryer to 350 degrees F (175 degrees C).",
+            "Meanwhile, dredge chicken breasts in flour; shake off excess. Dip into beaten egg, allowing any excess egg to drip back into the bowl. Press into bread crumb mixture to coat both sides; place breaded chicken breasts onto a plate and spray with nonstick spray. Let sit for 5 minutes while the air fryer preheats, then arrange breaded chicken in a single layer in the air fryer basket.",
+            "Cook in the preheated air fryer for 10 minutes; flip chicken breasts and spray any dry spots with nonstick spray. Cook until chicken is no longer pink in the center, 8 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Savory Pan-Seared Tuna Steaks",
+        "category": "Cooking For One",
+        "ingredients": [
+            "¼ cup soy sauce",
+            "¼ cup extra-virgin olive oil",
+            "2 tablespoons lemon juice",
+            "2 teaspoons Asian (toasted) sesame oil",
+            "2 teaspoons molasses",
+            "1 teaspoon cayenne pepper, or more to taste",
+            "6 thin slices fresh ginger, minced",
+            "2 cloves garlic, minced",
+            "2 1-inch-thick tuna steaks, thawed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Mix soy sauce, olive oil, lemon juice, sesame oil, molasses, cayenne pepper, ginger, and garlic together in a bowl.",
+            "Place tuna steaks in a large resealable plastic bag or airtight container; pour marinade over steaks, coat with marinade, and seal. Marinate steaks at room temperature for 20 minutes.",
+            "Heat a nonstick pan over medium heat.",
+            "Remove steaks from marinade and discard any remaining marinade. Arrange steaks in the hot pan; gently shake the pan to avoid sticking. Cook for 1 1/2 minutes. Flip and cook 1 minute more."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "French Toast without Milk",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 large eggs",
+            "1 tablespoon white or brown sugar",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon ground cinnamon",
+            "¼ teaspoon ground nutmeg",
+            "1 tablespoon unsalted butter",
+            "4 slices white bread"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients.",
+            "Beat eggs in a wide mixing bowl; mix in sugar, vanilla extract, cinnamon, and nutmeg.",
+            "Melt butter in a skillet over medium-low heat.",
+            "Dip 2 slices of bread into egg mixture, ensuring both sides are covered; place in the skillet and cook until golden brown, about 4 minutes per side. Repeat with remaining 2 slices of bread. Serve warm."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Baked Ham Steaks",
+        "category": "Cooking For One",
+        "ingredients": [
+            "1 cup water, or more as needed",
+            "3 tablespoons brown sugar",
+            "2 tablespoons Worcestershire sauce",
+            "5 whole cloves",
+            "2 slices ham steak"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 375 degrees F (190 degrees C).",
+            "Mix water, brown sugar, Worcestershire sauce, and cloves in a baking dish. Arrange ham steaks in baking dish, coating with sugar mixture. Add more water as needed to cover ham.",
+            "Bake in the preheated oven until ham is tender, 35 to 45 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Broiled Lobster Tails",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 whole lobster tails",
+            "½ cup butter, melted",
+            "½ teaspoon ground paprika",
+            "salt and ground white pepper to taste",
+            "1 lemon, cut into wedges"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Place lobster tails on a baking sheet. With a sharp knife or kitchen shears, carefully cut the top side of lobster shells lengthwise. Pull apart shells slightly, and season meat with equal amounts of melted butter, paprika, salt, and white pepper.",
+            "Broil lobster tails until lightly browned and lobster meat is opaque, about 5 to 10 minutes, keeping an eye on them so they don't burn.",
+            "Garnish with lemon wedges to serve."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Simple Chicken Mayo with Parmesan and Bread Crumbs",
+        "category": "Cooking For One",
+        "ingredients": [
+            "2 skinless, boneless chicken breasts",
+            "2 ½ tablespoons grated Parmesan cheese",
+            "2 tablespoons mayonnaise, or more to taste",
+            "2 tablespoons bread crumbs, or more to taste",
+            "1 ½ teaspoons herbes de Provence"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Place chicken breasts in a baking pan.",
+            "Mix Parmesan cheese and mayonnaise together in a bowl until well combined; spread evenly over chicken breasts. Coat with bread crumbs and sprinkle with herbes de Provence.",
+            "Bake in the preheated oven until chicken breasts are no longer pink in the center and the juices run clear, 20 to 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

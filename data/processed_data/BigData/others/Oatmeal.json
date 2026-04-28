@@ -1,0 +1,542 @@
+[
+    {
+        "Main_category": "others"
+    },
+    {
+        "recipe_title": "Blueberry Baked Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 cup cottage cheese",
+            "4 large eggs",
+            "1 tablespoon agave syrup",
+            "2 teaspoons vanilla bean paste",
+            "1 cup quick oats",
+            "2 teaspoons baking powder",
+            "2 tablespoons sugar-free cheesecake pudding mix",
+            "1 cup blueberries, or as needed"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Spray 4 (6 to 8 ounce) oven-proof glass dishes with cooking spray.",
+            "Meanwhile combine cottage cheese, eggs, agave syrup, vanilla, oats, baking powder, and pudding mix in the jar of a high powered blender. Blend on high for 1 minute. Divide batter evenly between prepared dishes. Sprinkle blueberries on top.",
+            "Bake in the preheated oven until set, about 25 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Overnight Baked Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "2 large eggs",
+            "2 cups milk or unsweetened plant milk of your choice",
+            "1/4 cup maple syrup",
+            "1/4 cup packed brown sugar",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon ground cinnamon",
+            "1/2 teaspoon salt",
+            "2 cups rolled oats (not quick cooking)",
+            "1/3 cup amaranth"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Grease a 2-quart rectangular baking dish.",
+            "Whisk eggs, milk, maple syrup, brown sugar, vanilla, cinnamon, and salt together in the prepared dish.",
+            "Stir in oats and amaranth. If desired, stir in flavor variation mix-ins (see below).",
+            "Cover and chill at least overnight or up to 3 days.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Uncover and stir to re-incorporate all of the ingredients.",
+            "Bake, uncovered, until golden brown and the center is set, 45 to 55 minutes.",
+            "Let stand 10 minutes before serving. Serve warm."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake Baked Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "2 1/3 cups rolled oats",
+            "1/2 cup walnuts",
+            "2 teaspoons cinnamon",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon pumpkin pie spice",
+            "1/2 teaspoon salt",
+            "1/3 cup maple syrup",
+            "1 3/4 cups half-and-half",
+            "1 large egg",
+            "2 tablespoons unsalted butte",
+            "2 teaspoons vanilla bean paste",
+            "2 carrots",
+            "1 cup golden raisins"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking dish with nonstick spray. Set aside.",
+            "Stir oats, 1/4 cup walnuts, cinnamon, baking powder, pumpkin pie spice, and salt together in a bowl. Whisk maple syrup, half-and-half, egg, butter, and vanilla bean paste together in another bowl; stir into oat mixture.",
+            "Place carrots in a microwave-safe bowl; microwave on High for 45 seconds. Stir carrots and raisins into oat mixture; pour into the prepared baking dish. Sprinkle remaining nuts on top.",
+            "Bake in the preheated oven until the top is nicely golden and a toothpick inserted near the center comes out clean, 25 to 35 minutes.",
+            "Remove from the oven to cool completely. Cut into squares to serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberries and Cream Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 1/2 cups strawberries",
+            "1 cup milk",
+            "1 cup water",
+            "2 tablespoons brown sugar,",
+            "1 pinch salt",
+            "1 cup oatmeal",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place 3/4 cup strawberries, milk, water, brown sugar, and salt in a blender cup and blend until smooth.",
+            "Place oatmeal and strawberry mixture in a saucepan. Bring to a boil, reduce the heat, add remaining strawberries, and simmer until thick, about 5 minutes. Remove from heat; stir in vanilla."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mexican Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 cup water",
+            "1 cinnamon stick",
+            "1/2 cup oats",
+            "1/2 cup milk",
+            "1 tablespoon piloncillo",
+            "1/2 teaspoon ground cinnamon",
+            "1/2 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Bring water and cinnamon stick to a boil in a saucepan. Reduce heat and simmer for 5 minutes.",
+            "Add oats and cook for 1 minute. Add milk and cook until thickened, 1 to 2 minutes. Remove from heat. Stir in piloncillo, cinnamon, and vanilla."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Peanut Butter Baked Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "2 cups frozen strawberries",
+            "1 tablespoon maple syrup",
+            "1/3 cup natural peanut butter",
+            "1 tablespoon unsalted butter",
+            "1/3 cup maple syrup",
+            "1 cup unsweetened almond milk",
+            "2 large eggs",
+            "1 1/2 teaspoons vanilla extract",
+            "1 1/2 cups rolled oats",
+            "1 tablespoon ground flaxseed meal (optional)",
+            "1/2 teaspoon baking powder",
+            "1/4 teaspoon ground cinnamon",
+            "1/4 teaspoon ground nutmeg",
+            "1/4 teaspoon salt"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Spray an 8x8-inch square baking pan with nonstick spray.",
+            "Add frozen strawberries to the prepared pan and drizzle with 1 tablespoon maple syrup.",
+            "Bake in the preheated oven until strawberries are softened and begin to release their juices, about 20 minutes.",
+            "Meanwhile, combine peanut butter and butter in a large microwave-safe bowl, and microwave on High until butter is melted, about 30 seconds; stir. Add 1/3 cup maple syrup, almond milk, eggs, and vanilla extract; whisk until thoroughly combined. Stir in oats, flaxseed meal, baking powder, cinnamon, nutmeg, and salt until combined. Pour batter evenly over strawberries.",
+            "Return to the preheated oven and bake until oatmeal is set in the center, 30 to 35 minutes. Remove from the oven, and allow to cool for 10 minutes before serving. Serve warm."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Steel Cut Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "2 tablespoons extra virgin olive oil",
+            "2 cups steel cut oats",
+            "1/8 teaspoon ground nutmeg",
+            "1/4 teaspoon ground cinnamon",
+            "6 cups water",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Set a multi-functional pressure cooker (such as Instant Pot®) to the sauté function and press start. Heat olive oil in the cooker for 1 minute. Add oats, and cook and stir until toasted, about 3 minutes.",
+            "Add nutmeg and cinnamon, stir well, then stir in water and vanilla extract. Turn off the sauté function.",
+            "Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 15 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes.",
+            "Unlock and remove the lid, then stir the oatmeal vigorously, making sure to incorporate the oats at the bottom of the pot where they will be thicker. Scoop out about 1/2 cup of oatmeal and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Peanut Butter Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 cup 1% milk",
+            "1 tablespoon superfine sugar",
+            "1 pinch salt",
+            "1 pinch cinnamon",
+            "1/2 cup oats",
+            "1/2 teaspoon vanilla extract",
+            "1 tablespoon peanut butter",
+            "2 teaspoons honey",
+            "1 tablespoon chopped walnuts (optional)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine milk, sugar, and salt in a saucepan over medium-low heat and bring to a simmer.",
+            "Add cinnamon and oats. Cook over medium-low heat until oats are tender with a bite, about 5 minutes. Use a long spoon to stir, and adjust heat to prevent splattering.",
+            "Remove from heat; stir in vanilla and peanut butter. Serve in a large bowl, and top with honey and walnuts."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "3 cups rolled oats",
+            "1 cup brown sugar, or to taste",
+            "2 teaspoons ground cinnamon",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt, or to taste",
+            "2 large eggs",
+            "1 cup milk",
+            "½ cup melted butter",
+            "2 teaspoons vanilla extract",
+            "¾ cup dried cranberries"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix together oats, brown sugar, cinnamon, baking powder, and salt in a large bowl.",
+            "Beat in eggs, milk, melted butter, and vanilla extract. Stir in dried cranberries.",
+            "Spread into a 9x13-inch baking dish.",
+            "Bake in the preheated oven until top is golden, about 40 minutes. Remove from the oven and let cool for a few minutes before serving."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chia Seed Overnight Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 1/4 cups oat milk",
+            "3/4 cup rolled oats",
+            "1/4 cup vanilla yogurt",
+            "1 tablespoon chia seeds",
+            "1 tablespoon almond butter"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine oat milk, oats, vanilla yogurt, chia seeds, and almond butter in a large container (or divide into several smaller containers) and stir until well combined. Wait for 3 minutes, then stir again.",
+            "Cover and refrigerate for at least 1 hour, ideally overnight.",
+            "When ready to eat add toppings of your choice, and serve immediately."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Reese's Cup Overnight Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1/2 cup quick oats",
+            "1/2 cup chocolate protein shake",
+            "1/4 cup Greek yogurt, such as",
+            "1 tablespoon sugar-free peanut butter syrup",
+            "2 tablespoons chocolate chips",
+            "1 tablespoon peanut butter"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine oats, protein shake, Greek yogurt, and peanut butter syrup in a mason jar with a tight-fitting lid and stir well. Close the lid and refrigerate overnight.",
+            "Add chocolate chips to a microwave-safe bowl. Microwave on High in 30 second intervals, stirring until smooth. Pour melted chocolate on top of oats. Add peanut butter in small dollops, and swirl into melted chocolate."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Caramel Apple Overnight Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "2 cups rolled oats",
+            "2 cups apple cider",
+            "1 cup yogurt",
+            "3 tablespoons caramel sauce",
+            "1 tablespoon chia seeds",
+            "3/4 teaspoon apple pie spice",
+            "2 cups Granny Smith apples",
+            "M&M'S"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir together oats, apple cider, yogurt, caramel sauce, chia seeds, apple pie spice, and 1 cup of the apples in a medium bowl until combined.",
+            "Drizzle caramel sauce inside 4 (12-oz.) jars.",
+            "Spoon oat mixture evenly into prepared jars (about 1 1/4 cups each). Cover with plastic wrap and refrigerate for at least 8 hours or up to 4 days.",
+            "When ready to serve, top each with 1/4 cup remaining apples and drizzle with additional caramel sauce. Top as desired."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked Oats - 3 Ways",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 cup rolled oats",
+            "1/2 cup Almond Breeze Unsweetened Vanilla Almondmilk",
+            "1 banana",
+            "1 egg",
+            "1 teaspoon baking powder",
+            "1 teaspoon cinnamon",
+            "1 teaspoon vanilla extract",
+            "2 tablespoons honey or maple syrup",
+            "pinch salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). blend for 1 minute.",
+            "Combine rolled oats, Almond Breeze Unsweetened Vanilla Almondmilk, banana, egg, baking powder, cinnamon, vanilla extract, honey, and salt in a blender; blend for 1 minute.",
+            "Grease 3 small ramekins with cooking spray. Pour oatmeal mixture evenly into the ramekins. Mix in and top with ingredients from the flavor of your choice.",
+            "Bake in the preheated oven until a toothpick poked in the center comes out clean, 20 to 30 minutes. Remove from the oven and allow to cool for a few minutes before enjoying warm!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Banana Chocolate Chip Baked Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 cup mashed banana",
+            "2 eggs",
+            "1 1/2 cups Almond Breeze Unsweetened Vanilla Almondmilk",
+            "2 tablespoons melted and cooled coconut oil",
+            "1 teaspoon vanilla extract",
+            "2 1/2 cups old fashioned rolled oats",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon cinnamon",
+            "1/4 teaspoon salt",
+            "3/4 cup strawberries",
+            "1/3 cup mini chocolate chips"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x9 pan with nonstick cooking spray.",
+            "Mix together mashed banana, eggs, Almond Breeze Unsweetened Vanilla Almondmilk, coconut oil, and vanilla in a large bowl until mostly smooth. Add rolled oats, baking powder, cinnamon and salt until well combined. Gently fold in strawberries and chocolate chips.",
+            "Pour mixture into prepared pan and bake until edges start to become slightly golden brown, 25 to 35 minutes."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Overnight Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "⅓ cup milk",
+            "¼ cup Greek yogurt",
+            "¼ cup rolled oats",
+            "2 teaspoons honey",
+            "2 teaspoons chia seeds",
+            "¼ teaspoon ground cinnamon or more to taste",
+            "¼ cup fresh blueberries"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine milk, yogurt, oats, honey, chia seeds, and cinnamon in a 1/2-pint jar with a lid; cover and shake until combined.",
+            "Fold in blueberries.",
+            "Cover and refrigerate, 8 hours to overnight. Enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Maple and Brown Sugar Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 ½ cups water",
+            "¾ cup quick-cooking oats",
+            "1 tablespoon packed dark brown sugar",
+            "1 tablespoon maple syrup"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring water to a boil in a small pot. Add oats and cook, stirring, for 1 minute.",
+            "Remove from heat and stir in brown sugar and maple syrup. Let sit until desired thickness is reached, 2 to 3 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Porridge",
+        "category": "Oatmeal",
+        "ingredients": [
+            "2 ½ cups water",
+            "1 cup rolled oats",
+            "1 tablespoon white sugar, or to taste (Optional)",
+            "1 teaspoon salt, or to taste (Optional)",
+            "2 bananas, sliced",
+            "1 pinch ground cinnamon",
+            "½ cup cold milk (Optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Combine water and oats in a saucepan; season to taste with sugar and salt. Add bananas and cinnamon. Bring to a boil, then reduce heat to low, and simmer until the liquid has been absorbed, stirring frequently.",
+            "Pour into bowls, and top each with a splash of cold milk."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Steel-Cut Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "3 cups water",
+            "1 cup steel-cut oats"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine water and oats in a multi-functional pressure cooker (such as Instant Pot). Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 3 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Oats will thicken as they cool."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "neutral"
+        ]
+    },
+    {
+        "recipe_title": "Overnight Chia Oats",
+        "category": "Oatmeal",
+        "ingredients": [
+            "1 cup Almond Breeze Vanilla almondmilk",
+            "½ cup rolled oats",
+            "½ medium banana, mashed",
+            "1 tablespoon chia seeds"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine almond milk, oats, mashed banana, and chia seeds in a 1-pint jar. Seal with a lid and shake until well combined. Refrigerate until chia seeds have swelled and mixture is thick and gel-like, 8 hours to overnight."
+        ],
+        "healthiness_score": 86,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Overnight Refrigerator Oatmeal",
+        "category": "Oatmeal",
+        "ingredients": [
+            "½ cup old-fashioned rolled oats",
+            "½ cup Greek yogurt",
+            "½ cup sweetened almond milk",
+            "1 banana, sliced"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Stir oats, yogurt, and almond milk together in a jar with a lid. Twist lid onto jar and refrigerate, 8 hours to overnight. Stir oatmeal and add banana when ready to eat."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    }
+]

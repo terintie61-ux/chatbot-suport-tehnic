@@ -1,0 +1,658 @@
+[
+    {
+        "Main_category": "cuisine"
+    },
+    {
+        "recipe_title": "Chili Relleno Casserole",
+        "category": "Mexican",
+        "ingredients": [
+            "cooking spray",
+            "2 (7 ounce) cans whole poblano peppers, drained (see note)",
+            "8 ounces Monterey Jack cheese, shredded",
+            "8 ounces Cheddar cheese, shredded",
+            "2 large eggs (see note)",
+            "1 (5 ounce) can evaporated milk",
+            "2 tablespoons all-purpose flour",
+            "½ cup milk, or as needed",
+            "1 (8 ounce) can enchilada sauce or tomato sauce"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease an 8x8-inch baking dish with cooking spray.",
+            "Evenly layer poblano peppers from 1 can in the bottom of the prepared baking dish.",
+            "Sprinkle with 1/2 of the Jack and Cheddar cheeses, then cover with remaining poblano peppers.",
+            "Mix eggs, evaporated milk, and flour together in a bowl; if mixture is too thick, you can add 1/2 cup milk to thin to desired consistency. Pour over chiles.",
+            "Bake in the preheated oven for 25 minutes. Pour enchilada sauce evenly over the top; continue baking for 15 more minutes.",
+            "Turn broiler on. Sprinkle top with remaining Jack and Cheddar cheeses. Place under the broiler until cheese is melted, 2 to 3 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Elote-inspired Chopped Salad",
+        "category": "Mexican",
+        "ingredients": [
+            "4 ears corn on the cob",
+            "1 cup omaine lettuce",
+            "1 cup cooked chicken",
+            "1 cup cherry tomatoes,",
+            "1/2 cup red onion",
+            "1/2 cup fresh cilantro",
+            "1 green onion,",
+            "1 jalapeno,",
+            "1/2 cup cotija cheese",
+            "1 avocado"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Using a sharp knife, remove kernels from the corn cob. Freeze freshly shucked kernels overnight.",
+            "Place fresh corn into a heavy skillet over medium-high heat. Cover and cook, without stirring, until a char develops on the corn, about 10 minutes. Remove from heat.",
+            "Meanwhile, toss Romaine, chicken, cherry tomatoes, red onion, green onion, cilantro, jalapeño, cotija cheese, and avocado together in a bowl. Toss in charred corn.",
+            "For dressing, whisk crema con sal, mayonnaise, lime juice, and Tajin together in a small bowl. Drizzle over salad."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mexican Vegetarian Stuffed Peppers",
+        "category": "Mexican",
+        "ingredients": [
+            "1 tablespoon salt",
+            "4 large green bell peppers - tops, seeds, and membranes removed",
+            "1 tablespoon olive oil",
+            "½ cup chopped onion",
+            "2 cups cooked rice",
+            "1 (15 ounce) can black beans, drained and rinsed",
+            "1 (14.5 ounce) can chili-style diced tomatoes",
+            "1 teaspoon chili powder",
+            "1 teaspoon garlic salt",
+            "½ teaspoon ground cumin",
+            "½ teaspoon salt",
+            "1 (8 ounce) package shredded Mexican cheese blend (such as Sargento® Authentic Mexican)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bring a large pot of water and 1 tablespoon salt to a boil. Add green bell peppers and cook until slightly softened, 3 to 4 minutes. This will prevent the bell peppers from becoming crispy as they bake.",
+            "Drain bell peppers and arrange cut-side up in a 9x9-inch baking dish.",
+            "Heat olive oil in a skillet over medium heat. Add onion; cook and stir until softened, 5 to 10 minutes.",
+            "Transfer cooked onion into a large bowl; add rice, black beans, and tomatoes. Stir in chili powder, garlic salt, cumin, and 1/2 teaspoon salt until well combined. Fold in 1 1/2 cups Mexican cheese blend.",
+            "Spoon rice mixture evenly into bell peppers; sprinkle with remaining Mexican cheese blend.",
+            "Bake in the preheated oven until cheese is melted and bubbling, about 30 minutes."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hot Tamale Pie",
+        "category": "Mexican",
+        "ingredients": [
+            "cooking spray",
+            "2 pounds ground beef",
+            "2 cups diced poblano peppers",
+            "1 (16 ounce) jar salsa",
+            "1 teaspoon salt",
+            "1 teaspoon ground dried chipotle pepper",
+            "½ teaspoon dried oregano",
+            "2 (8.5 ounce) boxes dry corn muffin mix (such as Jiffy), divided",
+            "2 eggs, divided",
+            "⅔ cup milk, divided",
+            "8 ounces frozen corn, thawed",
+            "4 ounces shredded Cheddar cheese, divided",
+            "4 ounces shredded Monterey Jack cheese, divided"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch casserole dish with cooking spray.",
+            "Cook and stir ground beef in a Dutch oven over medium-high heat until meat starts to brown and release its juices, about 5 minutes. Reduce the heat to medium and stir in poblano peppers, salsa, salt, dried chipotle pepper, and oregano. Cook and stir until beef is crumbly and no longer pink, about 10 minutes.",
+            "Meanwhile, whisk one package corn muffin mix in a large bowl with one egg and 1/3 cup of milk until combined; spread into the prepared baking dish. Sprinkle corn over top, followed by 1/2 of the Cheddar and 1/2 of the Montery Jack. Spread beef mixture over the cheeses.",
+            "Mix remaining corn muffin mix, egg, milk, Cheddar, and Monterey Jack in a bowl; carefully spread over beef mixture to within 1/2 inch of the edges of the dish.",
+            "Bake in the preheated oven until golden brown, 50 to 60 minutes.",
+            "Serve and enjoy."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Beef Enchilada Casserole",
+        "category": "Mexican",
+        "ingredients": [
+            "1 1/2 pounds lean ground beef",
+            "1 packet taco seasoning",
+            "1 (15 ounce) can beans, drained and rinsed",
+            "1 (28 ounce) jar enchilada sauce",
+            "1 (4 ounce) can can green chilies",
+            "1 white onion",
+            "10 6 inch) corn tortillas,",
+            "1 1/2 cup shredded Mexican cheese"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Cook ground beef in a large skillet over medium-high heat until browned, about 7 minutes. Season with taco seasoning.",
+            "Transfer beef mixture to the slow cooker. Add enchilada sauce, beans, green chilies, and onion, and stir to combine.",
+            "Cover and cook on Low for 3 to 4 hours.",
+            "Stir in 1/2 of the tortilla wedges and 1/2 of shredded cheese. Top with remaining tortilla wedges and cheese. Cover and cook on High until cheese is melted, about 30 minutes more.",
+            "Garnish with cilantro, pico de gallo, and sour cream. Enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Campfire Carnitas",
+        "category": "Mexican",
+        "ingredients": [
+            "4 pounds pork shoulder",
+            "4 teaspoons kosher salt,",
+            "1 teaspoon ground black pepper",
+            "1/2 teaspoon oregano",
+            "1 white onion,",
+            "1 chili pepper,",
+            "6 garlic cloves,"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Cut pork into 2-inch pieces. Stack 2 (7x10x3-inch) disposable foil baking pans and transfer in the pork. Season with salt, pepper, and oregano, and toss with your hands until everything is evenly coated.",
+            "Cover the pan with a sheet of heavy-duty aluminum foil, and crimp tightly around the edges. Place on top of another large sheet of heavy-duty aluminum foil, and then wrap the foil up over the pan. All seams should be rolled facing up. Repeat with 2 more sheets of aluminum foil.",
+            "Place pan next to a campfire, or in a charcoal grill, and arrange the burning coals evenly around the pan. Wrap a sheet pan in foil, place over the pan, and arrange some charcoal on top.",
+            "Use a probe or laser thermometer to check the temperature on the surface of the bottom pan, as well as the ambient temperature next to the pan. Try to maintain a constant temperature of between 250 to 300 degrees F (120 to 150 degrees C). To do this, move charcoal further away or closer to the pan as needed. If cooking next to a campfire and the pan is getting more heat from one direction than the other, rotate the pan occasionally. Cook until falling-apart tender, 4 to 5 hours.",
+            "Remove pan from the fire, and let rest for up to 1 hour, or serve immediately. Carefully cut foil away and peel back. Serve made into tacos, nachos, or enjoyed in hot dog or hamburger buns."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy No Cook Tuna and Avocado Tostadas",
+        "category": "Mexican",
+        "ingredients": [
+            "2 cans tuna",
+            "1/3 cup red bell pepper",
+            "1/4 cup green onion",
+            "1 jalapeno",
+            "2 tablespoons mayonnaise",
+            "2 teaspoons balsamic vinegar",
+            "1/2 teaspoon garlic powder",
+            "2 avocados -",
+            "6 tostada shells",
+            "1 lemon,",
+            "1 teaspoon kosher salt",
+            "Mexican hot sauce"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Combine tuna, bell pepper, green onion, jalapeno, mayonnaise, balsamic vinegar, and garlic powder in a bowl; stir until just combined.",
+            "Spread mashed avocado evenly over tostadas. Squeeze lemon over avocado and sprinkle evenly with salt. Divide tuna mixture evenly over tostadas. Drizzle with hot sauce and more lemon juice if desired."
+        ],
+        "healthiness_score": 90,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Tortilla Soup with Charred Corn and Fire-Roasted Tomatoes",
+        "category": "Mexican",
+        "ingredients": [
+            "2 ears corn,",
+            "4 corn tortillas,",
+            "cooking spray",
+            "1 teaspoon olive oil",
+            "1 cup green bell pepper",
+            "1/2 cup onions",
+            "1 teaspoon ground cumin",
+            "1 teaspoon chili powder",
+            "1 teaspoon smoked paprika",
+            "1/2 teaspoon ground coriander",
+            "1 tablespoon minced garlic",
+            "4 cups chicken broth or stock",
+            "1 (14.5 ounce) can fire-roasted tomatoes,",
+            "1 (4 ounce) can green chiles",
+            "2 cups cooked chicken",
+            "1 chipotle pepper",
+            "1 small zucchini,",
+            "2 ounces cotija cheese",
+            "cilantro sprigs, for garnish (optional)",
+            "lime wedges, for garnish (optional)"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Gather all ingredients. Preheat the oven's broiler and set a rack about 3 inches from the heat source.",
+            "Place corn under the preheated broiler, directly on the oven rack. Broil, turning every 3 to 4 minutes. Watch carefully; allow some kernels to take on a deep brown color, but not become blackened. Remove to a plate to cool.",
+            "Place tortillas on a sheet pan in a single layer and lightly mist with cooking spray. Place sheet pan in the middle of the oven and reduce heat to 400 degrees F (200 degrees C); toast until crisp, 10 to 15 minutes. Remove from the oven to cool.",
+            "Use a serrated knife to remove kernels from cobs. Reserve kernels; discard cobs.",
+            "Heat olive oil in a 4-quart saucepan over medium heat. When oil is hot, add bell pepper and chopped onions. Cook, stirring, until onions become translucent, 4 to 5 minutes.",
+            "Stir in cumin, chili powder, smoked paprika, and coriander, and cook about 1 minute. Add garlic and cook until fragrant, about 30 seconds.",
+            "Pour in chicken broth, and stir well. Add tomatoes and their liquid, green chilies, and chicken.",
+            "Mince 1 chipotle pepper and add to the pot. Place any remaining chilies and adobo sauce in a freezer bag and freeze for a later use.",
+            "Stir in zucchini and corn; bring to a boil, then reduce heat and simmer, uncovered, about 5 minutes. At this point, zucchini and corn will be somewhat firm; simmer longer if you prefer softer vegetables.",
+            "Serve soup warm. Garnish servings tortilla strips, shredded Cotija cheese, fresh cilantro sprigs, and lime wedges."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Coconut Shrimp Tacos",
+        "category": "Mexican",
+        "ingredients": [
+            "1 pound shrimp, peelend and deveined",
+            "1/2 cup all purpose flour",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon ground black pepper",
+            "1 large egg",
+            "1/4 cup unsweetened coconut milk",
+            "3/4 cup panko bread crumbs",
+            "3/4 cup shredded coconut (sweetened or unsweetened)",
+            "cooking spray"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Pat shrimps dry with paper towels.",
+            "Combine flour, 1/2 teaspoon salt, and 1/4 teaspoon black pepper in a shallow bowl. Whisk together egg and coconut milk in another shallow bowl. Stir together panko and shredded coconut in a third shallow bowl.",
+            "With basket inserted in the appliance, preheat air fryer to 350 degrees F (175 degrees C) for 10 minutes. Preheat oven to 170 degrees F (77 degrees C) (or the warm setting).",
+            "Working in batches, dredge shrimp in flour mixture to coat, shaking off excess. Dip shrimp in egg mixture, letting excess drip off, and toss shrimp in panko mixture, pressing gently to adhere. Place breaded shrimp on a large plate. Generously coat shrimp on top and sides with cooking spray.",
+            "Coat the air-fryer basket generously with the cooking spray. Arrange half of the shrimp in the prepared basket. Do not crowd shrimp. Air-fry until shrimp are golden brown and crispy, shaking the basket or turning the shrimp once halfway through cooking, 7 to 9 minutes. Transfer cooked shrimp to a baking sheet and place in the warm oven while cooking the remaining shrimp.",
+            "For salsa, combine pineapple, avocado, bell pepper, red onion, cilantro, lime juice, and hot sauce in a small bowl.",
+            "For crema, combine sour cream, cilantro, mayonnaise, lime juice, and salt in a small bowl.",
+            "Divide hot coconut shrimp (about two each) among tortillas. Spoon salsa over shrimp and top with crema. Serve immediately with additional hot sauce if you like."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mexican-Style Marinated Cheese",
+        "category": "Mexican",
+        "ingredients": [
+            "1 (8 ounce) block sharp Cheddar cheese",
+            "1 (8 ounce) block pepper Jack cheese",
+            "8 ounces cream cheese",
+            "1 jalapeno",
+            "1/4 cup red onion",
+            "1/2 cup chopped cilantro",
+            "3 tablespoons lime juice",
+            "2 tablespoons red wine vinegar",
+            "1 teaspoon chili powder",
+            "1 teaspoon kosher salt",
+            "1/2 cup extra-virgin olive oil"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place Cheddar, pepper Jack, and cream cheese blocks in the freezer for 15 minutes.",
+            "Meanwhile, add jalapeno, red onion, cilantro, lime juice, red wine vinegar, chili powder, salt, and olive oil to a bowl and stir until well blended; set aside.",
+            "Cut each block of Cheddar and Jack cheese in half lengthwise and then cut each piece into 1/4-inch square pieces. Cut a small piece off of the cream cheese and place it between alternating flavors of cheese. Place the alternating cheese slices on their slides in the bottom of a small casserole or shallow dish. This can be done in 2 to 4 rows depending on the size of the dish.",
+            "Pour the reserved marinade over the cheeses, cover, and refrigerate at least 2 hours or up to overnight."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chipotle Barbacoa",
+        "category": "Mexican",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "1 (2 pound) beef chuck roast, trimmed and cut into 4 to 6 pieces",
+            "4 chipotle peppers in adobo sauce",
+            "⅓ cup apple cider",
+            "3 tablespoons lime juice",
+            "4 cloves garlic, peeled, or more to taste",
+            "4 teaspoons cumin",
+            "1 serrano chile pepper, chopped (Optional)",
+            "1 tablespoon ground cayenne pepper, or more to taste (Optional)",
+            "2 ½ teaspoons dried oregano",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon garlic powder",
+            "½ teaspoon salt",
+            "½ teaspoon ground cloves or to taste",
+            "1 cup chicken broth",
+            "1 small onion, finely chopped",
+            "3 bay leaves"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Heat oil in a large skillet over low heat, gradually increasing heat to medium-high. Cook beef in hot oil until browned, about 10 seconds per side. Transfer beef to a slow cooker.",
+            "Combine chipotle peppers, apple cider, lime juice, garlic, cumin, serrano pepper, cayenne pepper, oregano, black pepper, garlic powder, salt, and cloves in a blender or food processor; blend until smooth. Pour over beef in the slow cooker.",
+            "Stir broth, onion, and bay leaves into the slow cooker.",
+            "Cook on Low until beef shreds easily with a fork, 6 to 8 hours. Remove beef from slow cooker and shred beef using 2 forks. Return shredded beef to the slow cooker and stir to combine with sauce before serving."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Pork Tacos with Pineapple Salsa",
+        "category": "Mexican",
+        "ingredients": [
+            "1 cup pineapple",
+            "1/4 cup red onion",
+            "3 tablespoons chopped cilantro",
+            "1 jalapeno",
+            "1 tablespoon lime juice",
+            "1 tablespoon olive oil",
+            "1 1/4 teaspoons kosher salt",
+            "1 pound ground pork",
+            "1 1/2 teaspoons chili powder",
+            "1 teaspoon cumin",
+            "1 teaspoon onion powder",
+            "1/4 teaspoon pepper",
+            "1 (10 ounce) can diced tomatoes and green chiles",
+            "1 (15 ounce) can black beans",
+            "8 (6 inch) flour tortillas",
+            "shredded cabbage, for garnish (optional)"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Combine pineapple, red onion, cilantro, jalapeno, lime juice, olive oil, and 1/4 teaspoon salt in a bowl and stir well, set aside.",
+            "Heat a large skillet over medium-high heat. Add pork and press to flatten. Cook, undisturbed, about 4 minutes or until browned. Flip and continue to cook, crumbling with a spoon until no longer pink. Season with remaining salt, chili powder, cumin, onion powder, and black pepper and cook 1 minute, stirring constantly.",
+            "Stir in tomatoes and beans and bring to a simmer. Cook 5 minutes, stirring occasionally; remove from heat.",
+            "Heat tortillas as desired. Divide pork mixture evenly among the tortillas and top with pineapple salsa and shredded cabbage if desired."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chamoyada",
+        "category": "Mexican",
+        "ingredients": [
+            "1 cup fresh or frozen mango cubes",
+            "1 (6 ounce) can pineapple juice",
+            "½ lime",
+            "2 teaspoons chili-lime seasoning (such as Tajin®)",
+            "2 tablespoons chamoy (Mexican chili fruit condiment)"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine mango and pineapple juice in a blender; blend until smooth. Set aside.",
+            "Rub lime wedge around the rim of a glass, then dip in 1 teaspoon chili-lime seasoning. Juice lime into the glass; add 1 tablespoon chamoy and remaining 1 teaspoon chili-lime seasoning. Pour 1/2 of the mango-pineapple mixture into the prepared glass. Add remaining 1 tablespoon chamoy sauce and top with remaining mango-pineapple mixture."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Taco Salad Casserole",
+        "category": "Mexican",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 cup onion",
+            "1 green bell pepper",
+            "1 cup roasted corn",
+            "3/4 cup water",
+            "1 (1 ounce) packet taco seasoning",
+            "1 (16 ounce) can black beans",
+            "6 cups nacho cheese or ranch flavor tortilla chips,",
+            "1 (8 ounce) shredded Mexican cheese blend",
+            "1 heart Romaine lettuce",
+            "1 Roma tomato,",
+            "1/3 cup sour cream",
+            "1/3 cup taco sauce"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Coat a 9x13-inch baking dish with cooking spray.",
+            "Cook ground beef, onion, and green bell pepper in a 12-inch skillet over medium heat, breaking up the meat with a wooden spoon, until meat is browned and vegetables are tender, 8 minutes; drain fat.",
+            "Stir corn, water, and taco seasoning mix into the skillet. Bring to a boil. Reduce heat and simmer, uncovered, stirring occasionally, until thickened, 3 to 4 minutes.",
+            "Heat refried beans in a small bowl in the microwave until softened, 1 to 3 minutes, stirring once.",
+            "Place tortilla chips in the prepared baking dish and coarsely smash with your hands. Spoon refried beans over the chips and spread in an even layer. Top with ground beef mixture.",
+            "Bake in the preheated oven until heated through, about 15 minutes.",
+            "Top with cheese. Bake until cheese melts, about 5 minutes.",
+            "Top individual servings with romaine and tomato. Drizzle with sour cream, and taco sauce. Serve with additional tortilla chips."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chicken Fajita Marinade",
+        "category": "Mexican",
+        "ingredients": [
+            "½ cup vegetable oil",
+            "2 tablespoons chili powder",
+            "2 tablespoons lime juice",
+            "2 tablespoons honey",
+            "2 tablespoons garlic powder",
+            "½ teaspoon paprika",
+            "½ teaspoon ground black pepper",
+            "3 pounds skinless, boneless chicken breasts, cut into strips"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients.",
+            "Whisk vegetable oil, chili powder, lime juice, honey, garlic powder, paprika, and black pepper together in a medium bowl until well combined.",
+            "Place chicken strips in a large resealable plastic bag. Pour in marinade and knead to coat; squeeze out excess air, seal bag, and marinate in the refrigerator for 4 hours to overnight.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove chicken strips from marinade; discard any unused marinade.",
+            "Cook chicken on the preheated grill until browned on all sides and chicken is no longer pink in the center, about 10 minutes per side. An instant-read meat thermometer inserted into the thickest piece should read at least 160 degrees F (70 degrees C)."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Watermelon Agua Fresca",
+        "category": "Mexican",
+        "ingredients": [
+            "4 cups cubed seeded watermelon",
+            "½ cup water",
+            "½ cup white sugar, or to taste",
+            "4 slices lime",
+            "24 fresh mint leaves",
+            "8 cups ice, or as needed"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place watermelon and water in a blender; process until smooth. Add sugar to taste.",
+            "Cut lime slices in half; place a half lime slice into each of 8 glasses along with 3 mint leaves. Crush mint and lime with a cocktail muddler to release juice, then fill each glass with 1 cup of ice.",
+            "Pour watermelon agua fresca over ice in each glass; stir before serving."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Mexican Strawberry Agua Fresca",
+        "category": "Mexican",
+        "ingredients": [
+            "4 cups fresh ripe strawberries, sliced",
+            "1 cup white sugar",
+            "8 cups cold water, divided",
+            "5 cups ice for serving, or as needed",
+            "1 lime, cut into 8 wedges",
+            "8 fresh mint sprigs"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix together strawberries, sugar, and 1 cup cold water in a medium bowl. Cover the bowl with plastic wrap and place in the refrigerator for 4 hours.",
+            "Pour chilled strawberry mixture into a blender. Blend on high until smooth.",
+            "Pour through a wire mesh strainer set over a large bowl; discard pulp and seeds.",
+            "Stir remaining 7 cups cold water into strawberry juice until aqua de fresa is well combined.",
+            "Fill glasses with ice. Pour aqua de fresa over ice. Garnish each serving with lime wedges and mint leaves."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Agua de Jamaica (Iced Hibiscus Tea)",
+        "category": "Mexican",
+        "ingredients": [
+            "6 cups water",
+            "2 cups dried hibiscus petals",
+            "1 cinnamon stick",
+            "1 pinch ground cloves",
+            "1 pinch ground nutmeg",
+            "1 pinch ground allspice",
+            "½ cup chopped piloncillo (Mexican brown sugar cones)",
+            "1 ½ cups white sugar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place 6 cups of water in a large saucepan; bring to a boil. Stir in the hibiscus petals, cinnamon, cloves, nutmeg, and allspice. Reduce heat to medium-low, and gently simmer until the water has turned a deep red, 30 to 45 minutes.",
+            "Stir the chopped piloncillo into the hibiscus water until dissolved, then set aside to cool 15 minutes. After cooling, strain the warm liquid into a 1 gallon pitcher through a wire mesh strainer. Squeeze as much liquid from the petals as you can, then discard the petals. Stir in the white sugar until dissolved, then pour in enough cold water to fill the pitcher. Serve immediately or let stand overnight for best taste."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Churrasco Chicken",
+        "category": "Mexican",
+        "ingredients": [
+            "8 chicken thighs, bone-in, skin-on",
+            "4 cloves garlic",
+            "1 Fresno chili pepper",
+            "1 teaspoon sea salt",
+            "2 lemons, zested",
+            "1 1/2 teaspoons dried oregano",
+            "2 1/2 teaspoons paprika",
+            "1 1/2 teaspoons ground cumin",
+            "3 tablespoons red wine vinegar",
+            "2 tablespoons olive oil",
+            "1 lemon",
+            "2 teaspoons kosher salt",
+            "lemon wedges"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Make 2 very shallow cuts into the skin of the chicken thigh, perpendicular to the bone, about 1 inch apart, going through the skin, but not down to the bone.",
+            "Flip thighs over, and make a cut directly on top of the bone in the same direction from one end to the other. Use a tip of the knife to trim on either side of the bone until you can slide your fingers underneath. Slide the knife underneath the bone, and cut toward both ends to remove the bone. Trim off any cartilage that remains.",
+            "Place the prepped thighs into a resealable plastic bag set in a bowl.",
+            "Add garlic, chili pepper, and sea salt to a mortar, and use the pestle to crush the mixture into a coarse paste.",
+            "Add lemon zest, oregano, paprika, and cumin, and continue crushing and smashing until a relatively smooth paste is formed, about another minute.",
+            "Add lemon juice, wine vinegar, and olive oil, and stir with the pestle until everything is emulsified.",
+            "Transfer marinade into the bag of chicken thighs, along with the extra salt (1 teaspoon of salt per pound of meat is a good rule of thumb). Use tongs to mix very thoroughly. Squeeze out excess air and seal the bag tightly.",
+            "Marinate in the refrigerator overnight. Chicken can be grilled after marinating just 2 or 3 hours, but overnight is much better.",
+            "Prepare a charcoal grill until coals are hot, white, and ashy. Place the chicken skin side down over hot charcoal, and let it cook for 2 minutes. Turn chicken over, and cook the meat side for about 5 minutes.",
+            "Turn chicken back over to the skin side, and continue cooking until skin is nicely browned and lightly charred in spots. If the chicken still needs to cook longer, but this skin is getting too dark, flip it back over to the meat side and continue grilling until the chicken is done. An instant read thermometer inserted into the center should read 165 degrees F (74 degrees C).",
+            "Remove chicken to a serving platter, and pour over any accumulated juices. Serve with fresh lemon wedges"
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Rotisserie Chicken Enchiladas",
+        "category": "Mexican",
+        "ingredients": [
+            "1 (16 ounce) jar salsa verde",
+            "2 tablespoons avocado oil",
+            "8 (6 inch) corn tortillas",
+            "1 cup rotisserie chicken",
+            "1/2 cup onions",
+            "1 cup Oaxaca or shredded Monterey Jack cheese",
+            "1/2 cup sour cream",
+            "fresh cilantro sprigs and lime wedges for optional garnish"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Set a strainer over a bowl and pour salsa into strainer. Strain out excess liquid until 1 1/2 cups salsa remains. Discard liquid.",
+            "Heat oil over medium-low heat in a large nonstick skillet. Place 2 tortillas in the warm oil, heat for about 1 minute, then turn and repeat on the other side. Place warmed tortillas in a single layer on a work surface, and repeat with remaining tortillas. Wipe out the skillet with clean paper towels, and place skillet over low heat.",
+            "Place about 2 tablespoons shredded chicken across the center of each tortilla. Add about 1 tablespoon chopped onion, and 1 tablespoon cheese on top of chicken. Reserve extra cheese for later use.",
+            "Roll up each enchilada; place in the skillet, seam side down.",
+            "Pour salsa over enchiladas, and sprinkle with remaining cheese. Cover and heat enchiladas gently until cheese is melted, 3 to 5 minutes.",
+            "Top with dollops or sour cream, and garnish with fresh cilantro sprigs and lime wedges."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

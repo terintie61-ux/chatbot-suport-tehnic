@@ -1,0 +1,664 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Copycat Crumbl Milk Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "4 1/4 cups all-purpose flour",
+            "1 1/2 teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "1 tablespoon cornstarch",
+            "2 teaspoons kosher salt",
+            "1 1/2 cups salted butter",
+            "1 1/4 cups brown sugar",
+            "1 cup white sugar",
+            "2 large eggs",
+            "4 teaspoons vanilla extract",
+            "12 ounces milk chocolate chips",
+            "sea salt"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Combine flour, baking soda, baking powder, cornstarch, and kosher salt in a large bowl and whisk until well incorporated; set aside.",
+            "Add butter, brown sugar, and white sugar to the bowl of a stand mixer fitted with a paddle attachment. Mix on medium speed until light and fluffy, about 3 minutes. Add in eggs one at a time, until just combined. Add in vanilla; gradually add in dry ingredients, mixing until just combined. Stir in chocolate chips.",
+            "Using a 1/2 cup measure, scoop balls of dough into hands and form into a loose ball. Place cookie dough balls on a rimmed baking sheet and place in refrigerator for about 1 hour or until ready to bake. Alternatively, place in the freezer for 25 to 30 minutes.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Line baking sheets with parchment. Working in batches of 3 or 4 cookies per baking sheet, carefully tear each dough ball in half and place one half on top of the other with the broken, jagged side up. Gently press the 2 halves together, taking care not to smooth the top. Place cookies on the prepared baking sheet, leaving plenty of space between cookies.",
+            "Bake in the preheated oven until golden around the edges and barely set in the middle, 10 to 12 minutes. Sprinkle with a pinch of flaky salt if desired. Allow to cool completely on the baking sheet."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Chipless Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "3/4 cup unsalted butter, at room temperature",
+            "1 cup brown sugar, packed",
+            "1/4 cup granulated sugar",
+            "1 large egg",
+            "1 large egg yolk",
+            "1 tablespoon vanilla extract",
+            "1 3/4 cups all purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "1/3 cup coconut oil",
+            "1 cup semi-sweet chocolate chips",
+            "1 tablespoon flaky sea salt for garnish"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Add butter to a small saucepan set over medium heat and cook,stirring constantly, until butter begins to lightly foam and turns from light yellow to golden brown, about 5 minutes. When the butter begins to brown, turn off heat and set aside to cool.",
+            "Combine room temperature browned butter, brown sugar, and granulated sugar in a bowl and beat with an electric mixer until well combined. Add egg, egg yolk, and vanilla extract and mix until thoroughly combined.",
+            "In a separate bowl, combine flour, salt, and baking soda. Gradually add flour mixture to the butter mixture, 1 tablespoon at a time, until well combined. Refrigerate for at least 1 hour, or overnight, until chilled.",
+            "Preheat the oven to 350 degrees F (175 degrees C) and line a sheet with parchment paper.",
+            "Measure out 1-inch portions of the batter with a spoon or use an ice cream scoop to cut out balls. Place dough balls them on the prepared baking sheet roughly 2 inches apart.",
+            "Bake in the preheated oven until the edges are begin to turn just golden brown, 11 to 12 minutes. Set aside to cool.",
+            "While the cookies cool, prepare the chocolate shell. Add coconut oil to a small bowl and melt in the microwave for 30 seconds. Add chocolate chips and stir until chocolate has thoroughly melted. Set aside.",
+            "Once cookies are cooled completely, dip each cookie into the melted chocolate to coat half of the cookie. Set on a clean baking sheet or wax paper to harden (it will happen almost instantly). Garnish with flaky sea salt and enjoy!"
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gluten-Free Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "¾ cup butter, softened",
+            "1 ¼ cups packed brown sugar",
+            "¼ cup white sugar",
+            "1 teaspoon gluten-free vanilla extract",
+            "¼ cup egg substitute",
+            "2 ¼ cups gluten-free baking mix",
+            "1 teaspoon baking soda",
+            "1 teaspoon baking powder",
+            "1 teaspoon salt",
+            "12 ounces semisweet chocolate chips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 375 degrees F ( 190 degrees C). Grease baking sheets.",
+            "Beat butter and sugar together in a medium bowl until lighter in color. Gradually beat in egg substitute and vanilla. Sift gluten- free flour mix, baking soda, baking powder, and salt together; stir into butter mixture until blended. Finally, stir in the chocolate chips.",
+            "Drop spoonfuls of cookie dough 2 inches apart on prepared baking sheets. Bake in preheated oven until edges are golden brown, about 6 to 8 minutes. Let cookies cool on baking sheet for a few minutes before removing to wire racks."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Chip Cookie Bars",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "baking spray baking spray",
+            "1 1⁄3 cups white sugar",
+            "2/3 cup packed light brown sugar",
+            "1 cup unsalted butter",
+            "2 large eggs",
+            "2 teaspoon vanilla extract",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1 teaspoon kosher salt",
+            "3/4 teaspoon baking soda",
+            "2 cups mini semisweet chocolate chips",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Gather all ingredients.",
+            "Line bottom and sides of a 13x9-inch baking pan with heavy duty aluminum foil, leaving a 2-inch overhang on all sides, lightly spray with baking spray; set aside.",
+            "Beat together white sugar, brown sugar, and butter with a stand mixer fitted with paddle attachment on medium speed until light and fluffy, about 3 minutes, stopping to scrape down sides as needed.",
+            "With mixer running on low, add eggs, one at a time, beating until just combined after each addition. Beat in vanilla until just combined.",
+            "Whisk together flour, baking powder, salt, and baking soda in a medium bowl until combined. With stand mixer running on low speed, gradually beat in flour mixture until almost fully incorporated, about 2 minutes, stopping to scrape down sides as needed.",
+            "Stir in chocolate chips and toasted walnuts until combined.",
+            "Transfer dough into prepared baking pan, spreading into an even layer.",
+            "Bake in preheated oven until golden brown and set, about 35 to 40 minutes, rotating baking pan front to back halfway through.",
+            "Let cookie cool completely in pan on wire rack, about 1 hour. Using foil overhang as handles, lift cookie out of pan.",
+            "Cut into 24 (about 2-inch) squares. Enjoy!"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Potato Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "2 1/4 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1 cup unsalted butter (2 sticks)",
+            "1 cup white sugar",
+            "1/2 cup light brown sugar",
+            "1 large egg",
+            "2 tablespoons milk",
+            "1 teaspoon vanilla extract",
+            "2 cups potato chips",
+            "1 cup dark chocolate chips"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Whisk flour, baking soda, and salt together in a bowl; set aside.",
+            "Beat butter, white sugar, and brown sugar together with an electric mixer until light and fluffy. Add egg and mix until fully incorporated and the mixture is smooth. Add milk and vanilla and repeat.",
+            "Stir potato chips and chocolate chips in with a spatula until just combined. Add flour mixture; continue mixing in with a spatula until flour disappears and dough comes together.",
+            "Wrap and chill dough for about 30 minutes, or until ready to bake. Dough can be used immediately if desired.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Line baking sheets with parchment.",
+            "Scoop dough by rounded tablespoons onto the prepared baking sheet. Space evenly, as dough will spread when baked.",
+            "Bake in the preheated oven until outside edges of cookies are lightly browned, about 12 minutes. Cool on the pan for about 5 minutes, before removing cookies to a wire rack to cool completely. For best results, let cool completely before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "\"Black Magic\" Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup unsalted butter, soft",
+            "1 cup white sugar",
+            "1/2 cup light brown sugar",
+            "1 large egg",
+            "1 tablespoon activated charcoal powder",
+            "1 1/4 teaspoons vanilla extract",
+            "2 tablespoons milk",
+            "1 1/4 teaspoons kosher salt",
+            "1 teaspoon baking soda",
+            "2 1/4 cups all purpose flour",
+            "1 1/2 cups chocolate chips"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Beat butter, white sugar, and brown sugar together with an electric mixer until creamy. and sugars together. Add egg, charcoal, vanilla, milk, salt, and baking soda, and beat until thoroughly combined.",
+            "Add flour; mix in with a spatula just until flour nearly disappears. Add chocolate chips and mix evenly into the dough. Wrap and chill dough for 1 hour.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment.",
+            "Scoop or spoon just over 1 tablespoon dough per cookie, and transfer to the prepared baking sheet. These cookies will spread; portioning 8 cookies per pan is recommended.",
+            "Bake in the preheated oven for 12 to 13 minutes (see Chef's Note). Cool completely before serving."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Pizookie",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "5 pieces pre-cut refrigerated chocolate chip cookie dough",
+            "1 scoop vanilla gelato (optional)",
+            "2 tablespoons whipped cream,",
+            "1 ounce chocolate"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the air fryer to 360 degrees F (175 degrees C).",
+            "Get a large piece of aluminum foil and fold it into an 8x8-inch square. You can make a little dish out of the foil by folding the edges upward.",
+            "Place 1 piece of cookie dough in the middle of your foil. Arrange remaining cookie dough pieces around it in a pattern similar to the 5-side of a die.",
+            "Bake cookie in the air fryer for 6 minutes. Open the air fryer and gently push down the top of the cookie; continue to bake until deep golden brown, 2 to 4 minutes more.",
+            "Add gelato, whipped cream, and a drizzle of melted chocolate, and enjoy!"
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Malted Milk Funfetti Bars",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "4 ounces cream cheese, at room temperature",
+            "1 cup brown sugar",
+            "5 tablespoons unsalted butter, melted and cooled slightly",
+            "1 large egg, at room temperature",
+            "1 1/2 teaspoons vanilla extract",
+            "1/4 teaspoon almond extract",
+            "1 1/4 cups all-purpose flour",
+            "3/4 cup malted milk powder",
+            "3/4 teaspoon salt",
+            "1/4 teaspoon baking soda",
+            "3/4 cup white chocolate chips",
+            "1/3 cup sprinkles"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a large bowl, beat cream cheese, brown sugar, and melted butter until smooth. Add in egg, vanilla, and almond extract; mix until thoroughly combined. Add in flour, malted milk powder, salt, and baking soda and mix until just incorporated. Fold in white chocolate chips and sprinkles.",
+            "Spread batter evenly into the prepared pan.",
+            "Bake in the preheated oven until bars are golden and just set, 25 to 30 minutes. Allow bars to cool completely in he pan before removing using parchment overhang. Cut into 16 bars."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Chip Pretzel Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "2 1/2 cups all purpose flour",
+            "2 tablespoons cornstarch",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "1 cup salted butter, softened",
+            "1 cup packed brown sugar",
+            "1/2 cup white sugar",
+            "2 large eggs",
+            "1 tablespoon vanilla extract",
+            "1 1/2 cups chocolate chips",
+            "2 cups pretzels, divided"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (180 degrees C). Line 4 baking sheets with parchment paper.",
+            "Mix together flour, cornstarch, baking soda, and salt in a bowl.",
+            "Combine butter, brown sugar, and white sugar in a second bowl.",
+            "Beat butter and sugar with an electric mixer on high speed until light and fluffy, about 5 minutes. Use a rubber spatula to scrape sides of the bowl.",
+            "Add 1 egg. Beat until well combined. Add remaining egg and vanilla extract. Beat until well combined.",
+            "Add dry ingredients to the sugar mixture. Stir with a rubber spatula until barely combined and flour is still visible.",
+            "Add chocolate chips and 1 1/2 cups of pretzels. Stir until combined.",
+            "Portion dough by rounded tablespoons onto the prepared baking sheets. Lightly press remaining 1/2 cup of pretzels into the tops of the cookies.",
+            "Working in two batches, bake cookies until light golden brown at the edges, 10 to 12 minutes. Cool cookies on baking sheets for 2 minutes.",
+            "Transfer cookies to a wire rack to finish cooling."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Edible Cookie Dough",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "¾ cup packed brown sugar",
+            "½ cup butter",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon salt",
+            "2 tablespoons milk",
+            "½ cup milk chocolate chips",
+            "½ cup mini chocolate chips"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "To heat-treat your flour so it is safe to use: Place flour in a microwave-safe dish and cook for 1 minute and 15 seconds, stirring it every 15 seconds. Set aside.",
+            "Beat sugar and butter with an electric mixer in a large bowl until creamy.",
+            "Beat in vanilla extract and salt. Add heat-treated flour; mix until a crumbly dough forms.",
+            "Stir in milk until dough is just combined; fold in milk chocolate chips and mini chocolate chips.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon baking soda",
+            "2 teaspoons hot water",
+            "½ teaspoon salt",
+            "3 cups all-purpose flour",
+            "2 cups semisweet chocolate chips",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather your ingredients, making sure your butter is softened, and your eggs are room temperature.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Beat butter, white sugar, and brown sugar with an electric mixer in a large bowl until smooth.",
+            "Beat in eggs, one at a time, then stir in vanilla.",
+            "Dissolve baking soda in hot water. Add to batter along with salt.",
+            "Stir in flour, chocolate chips, and walnuts.",
+            "Drop spoonfuls of dough 2 inches apart onto ungreased baking sheets.",
+            "Bake in the preheated oven until edges are nicely browned, about 10 minutes.",
+            "Cool on the baking sheets briefly before removing to a wire rack to cool completely.",
+            "Store in an airtight container or serve immediately and enjoy!"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Best Big, Fat, Chewy Chocolate Chip Cookie",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 cup packed brown sugar",
+            "¾ cup unsalted butter, melted",
+            "½ cup white sugar",
+            "1 large egg",
+            "1 egg yolk",
+            "1 tablespoon vanilla extract",
+            "2 cups semisweet chocolate chips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets or line with parchment paper.",
+            "Sift flour, baking soda, and salt together; set aside.",
+            "Beat brown sugar, melted butter, and white sugar with an electric mixer in a large bowl until smooth.",
+            "Beat in egg, egg yolk, and vanilla until light and creamy; add flour mixture and stir until dough is just combined.",
+            "Stir in chocolate chips.",
+            "Drop spoonfuls of dough 3 inches apart onto the prepared baking sheets.",
+            "Bake cookies in the preheated oven until edges are golden, about 15 to 17 minutes.",
+            "Cool on the cookie sheets briefly before transferring them to a wire rack to cool completely."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chewy Chocolate Chip Oatmeal Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup packed light brown sugar",
+            "½ cup white sugar",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "1 ¼ cups all-purpose flour",
+            "½ teaspoon baking soda",
+            "1 teaspoon salt",
+            "3 cups quick-cooking oats",
+            "1 cup chopped walnuts",
+            "1 cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 325 degrees F (165 degrees C).",
+            "Combine flour, baking soda, and salt in a medium bowl. Set aside.",
+            "Beat butter, brown sugar, and white sugar together in a large bowl until smooth. Beat in eggs one at a time, until well combined; stir in vanilla extract.",
+            "Stir flour mixture into egg mixture until just blended. Mix in quick oats, walnuts, and chocolate chips. Drop batter by heaping spoonfuls onto ungreased baking sheets.",
+            "Bake in the preheated oven for 12 minutes. Allow cookies to cool on baking sheet for a few minutes before transferring to a wire rack to cool completely."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Original Nestle Toll House Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "2 ¼ cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "1 cup butter, softened",
+            "¾ cup white sugar",
+            "¾ cup packed brown sugar",
+            "1 teaspoon vanilla extract",
+            "2 large eggs",
+            "2 cups semisweet chocolate chips (such as Nestlé Toll House)",
+            "1 cup chopped nuts"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 375 degrees F (190 degrees C).",
+            "Combine flour, baking soda and salt in small bowl.",
+            "Beat butter, white sugar, brown sugar and vanilla in a large mixing bowl until creamy.",
+            "Add eggs, one at a time, beating well after each addition.",
+            "Gradually beat in flour mixture. Stir in chocolate morsels and nuts.",
+            "Drop by rounded tablespoon onto ungreased baking sheets.",
+            "Bake in the preheated oven until golden brown, 9 to 11 minutes, switching racks halfway through.",
+            "Cool on the baking sheets for 2 minutes, then transfer to wire racks to cool completely.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 ½ cups white sugar",
+            "1 cup butter, softened",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "⅔ cup cocoa powder",
+            "¾ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "2 cups semisweet chocolate chips",
+            "½ cup chopped walnuts (Optional)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Beat sugar, butter, eggs, and vanilla in a large bowl until light and fluffy.",
+            "Combine flour, cocoa powder, baking soda, and salt in another bowl; stir into butter mixture until well blended.",
+            "Mix in chocolate chips and walnuts. Drop spoonfuls of dough 2 inches apart onto ungreased cookie sheets.",
+            "Bake in the preheated oven just until set, 8 to 10 minutes. Cool slightly on the cookie sheets before transferring to wire racks to cool completely.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup canned pumpkin",
+            "1 cup white sugar",
+            "½ cup vegetable oil",
+            "1 large egg",
+            "1 teaspoon baking soda",
+            "1 teaspoon milk",
+            "2 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "2 teaspoons ground cinnamon",
+            "½ teaspoon salt",
+            "2 cups semisweet chocolate chips",
+            "½ cup chopped walnuts (Optional)",
+            "1 tablespoon vanilla extract"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a baking sheet.",
+            "Combine pumpkin, sugar, oil, and egg in a large bowl. Dissolve baking soda into milk in a small bowl and stir in.",
+            "Stir together flour, baking powder, cinnamon, and salt in a separate bowl. Add flour mixture to pumpkin mixture and mix well. Add chocolate chips, walnuts, and vanilla; stir just to combine.",
+            "Drop by spoonful on the prepared cookie sheet and bake in the preheated oven until lightly brown and firm, approximately 10 minutes."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chewy Peanut Butter Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1 cup packed brown sugar",
+            "½ cup white sugar",
+            "½ cup butter, softened",
+            "½ cup peanut butter",
+            "2 eggs",
+            "2 tablespoons light corn syrup",
+            "2 tablespoons water",
+            "2 teaspoons vanilla extract",
+            "2 ½ cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "2 cups chopped semisweet chocolate"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C).",
+            "Cream sugars, butter, and peanut butter in a large bowl until smooth.",
+            "Beat in eggs one at a time, then stir in corn syrup, water, and vanilla.",
+            "Combine flour, baking soda, and salt in a separate bowl; stir into peanut butter mixture. Fold in chocolate chunks.",
+            "Scoop 1/4-cup portions of dough 3-inches apart onto ungreased baking sheets.",
+            "Bake in the preheated oven until edges are golden, 12 to 14 minutes.",
+            "Allow cookies to cool for 1 minute before transferring to wire racks."
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Brookies (Brownie Cookies)",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "1/2 cup butter, softened",
+            "1/2 cup light brown sugar",
+            "1/4 1/4cup white sugar",
+            "1/2 teaspoon vanilla extract",
+            "1 large egg",
+            "1 1/4 cups all-purpose flour",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon baking soda",
+            "1 cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "Prepare cookie layer: Beat 1/2 cup butter, 1/2 cup brown sugar, 1/4 cup white sugar, and 1/2 teaspoon vanilla in a large bowl until creamy. Add one egg; beat until light and creamy, about 2 minutes.",
+            "Whisk 1 1/4 cups flour, 1/2 teaspoon salt, and baking soda in a bowl. Gradually stir flour mixture into butter mixture until dough is combined. Stir chocolate chips into dough. Spread dough evenly into the prepared baking dish; set aside.",
+            "Prepare brownie layer: Stir 1 cup sugar, 1/2 cup melted butter, and 1 teaspoon vanilla in a bowl; add two eggs and beat well. Mix in cocoa powder until well-combined. Stir in 1/2 cup flour, baking powder, and 1/8 teaspoon salt until batter is combined. Pour over cookie layer and spread to cover completely.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 20 to 25 minutes. Cool completely before cutting into 20 bars. Enjoy!"
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Award Winning Soft Chocolate Chip Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "4 ½ cups all-purpose flour",
+            "2 teaspoons baking soda",
+            "2 cups butter, softened",
+            "1 ½ cups packed brown sugar",
+            "½ cup white sugar",
+            "2 (3.4 ounce) packages instant vanilla pudding mix",
+            "4 eggs",
+            "2 teaspoons vanilla extract",
+            "4 cups semisweet chocolate chips",
+            "2 cups chopped walnuts (Optional)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Sift together flour and baking soda in a medium bowl, set aside.",
+            "Cream together butter, brown sugar, and white sugar in a large bowl. Beat in instant pudding mix until blended. Stir in eggs and vanilla.",
+            "Add flour mixture to the butter mixture until it's well incorporated. Fold in chocolate chips and nuts.",
+            "Drop cookies by rounded spoonfuls onto ungreased cookie sheets.",
+            "Bake in batches in the preheated oven until the edges are golden brown, 10 to 12 minutes, switching racks halfway through."
+        ],
+        "healthiness_score": 48,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Nutella Cookies",
+        "category": "Chocolate Chip Cookies",
+        "ingredients": [
+            "½ cup butter, at room temperature",
+            "½ cup white sugar",
+            "1 large egg",
+            "1 teaspoon vanilla extract",
+            "1 cup chocolate-hazelnut spread (such as Nutella)",
+            "1 cup all-purpose flour",
+            "¼ cup unsweetened cocoa powder",
+            "1 cup milk chocolate chips",
+            "½ cup chopped hazelnuts"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line 2 baking sheets with aluminum foil or parchment paper.",
+            "Cream butter and sugar in a medium bowl with an electric mixer until light and fluffy. Add egg and vanilla extract; beat well. Mix in chocolate-hazelnut spread until well combined. Gradually mix in flour and cocoa powder. Stir in chocolate chips and hazelnuts.",
+            "Drop spoonfuls of dough 2 inches apart onto the prepared baking sheets.",
+            "Bake in the preheated oven for 8 minutes. Turn the oven off and allow the cookies to sit in the oven for 2 minutes more. Serve cookies warm or transfer to a wire rack to cool completely."
+        ],
+        "healthiness_score": 38,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

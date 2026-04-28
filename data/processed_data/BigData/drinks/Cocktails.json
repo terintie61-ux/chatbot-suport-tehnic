@@ -1,0 +1,510 @@
+[
+    {
+        "Main_category": "drinks"
+    },
+    {
+        "recipe_title": "Freezer Door Pepperon'tini",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 ( 750 ml) bottle gin, such as Broker's London Dry",
+            "3 ounces dry Vermouth, such as Dolin's",
+            "3 ounces water",
+            "3 ounces pepperoncini brine",
+            "lemon twist"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Pour 1 cup gin out of the 750 mLbottle. Set aside for another use. Add Vermouth, filtered water, and pepperoncini brine to the gin bottle.",
+            "Chill in the freezer for at least 4 hours, or until ready to serve. If desired, serve with a lemon twist garnish."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Big Batch Espresso Martinis",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 (750 ml bottle vodka",
+            "1 cup coffee liqueur",
+            "4 tablespoons espresso powder",
+            "2 tablespoons simple syrup",
+            "1 pinch sea salt",
+            "water, as needed",
+            "ice",
+            "coffee beans for garnish (optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Pour out 1 ¼ cups of the vodka bottle. Reserve poured-out vodka for another use.",
+            "Pour 1/2 of the remaining vodka from the bottle into a small saucepan and warm over low heat for 1 to 2 minutes (do not boil). Remove from heat and immediately whisk in the espresso powder until fully dissolved and no lumps remain. Allow the mixture to cool for 5-10 minutes before proceeding.",
+            "Add the cooled vodka espresso mixture, coffee liquor, simple syrup, and a pinch of sea salt to the vodka bottle. Cap and shake gently to mix.",
+            "Freeze for at least 4 hours before serving. Note: mixture will not fully freeze due to the alcohol content.",
+            "To serve, fill a cocktail shaker with ice and add 3 ounces of the mixture. Dilute with ½ ounce water per individual serving. Shake vigorously for 15 to 20 seconds. Strain into a chilled martini or coupe glass. Garnish with 3 coffee beans or a dusting of espresso powder, if desired."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Bramble (Cocktail)",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 cup ice cubes",
+            "2 ounces gin",
+            "1 ounce lemon juice",
+            "1/2 ounce simple syrup",
+            "crushed ice",
+            "1/2 ounce blackberry liqueur)",
+            "2 or 3 blackberries",
+            "1 slice lemon"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Add ice cubes, gin, lemon juice, and simple syrup to a cocktail shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds.",
+            "Fill a rocks glass with crushed ice. Strain cocktail into glass, then gently pour crème de mûre over the top to create a layered effect. The crème de mûre will sink down to the bottom of the glass. Garnish with blackberries and a lemon slice."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Italian Cherry Margarita",
+        "category": "Cocktails",
+        "ingredients": [
+            "2 fresh cherries, pitted, or more to taste, plus more for garnish",
+            "2 teaspoons fresh lime juice",
+            "1 1/2 ounces tequila",
+            "1 fluid ounce amaretto liqueur"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Place cherries and lime juice in a shaker and muddle to loosen the cherry juices.",
+            "Fill shaker with ice, add tequila and amaretto, and shake until well blended and slightly frothy. Strain over ice and garnish with a cherry."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Coffee Brandy Alexander",
+        "category": "Cocktails",
+        "ingredients": [
+            "ice",
+            "2 ounces brewed coffee, cooled",
+            "1 ounce brandy",
+            "3/4 ounce creme de cacao",
+            "1/2 ounce half and half",
+            "1/4 1/4ounce Amaro Averna",
+            "3 whole coffee beans",
+            "nutmeg, for garnish"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Fill a cocktail shaker half full with ice. Add coffee, brandy, crème de cacao, half-and-half, and Amaro Averna. Cover and shake until very cold.",
+            "Strain into a cocktail glass. Garnish with coffee beans and/ or nutmeg."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Orange Creamsicle Margarita",
+        "category": "Cocktails",
+        "ingredients": [
+            "2 tablespoons orange zest, salt, and sugar mix (for sugar rim) (optional, see Note)",
+            "1 lime wedge",
+            "3 tequila",
+            "2 ounces orange juice",
+            "1 ounce lime juice",
+            "1 ounce triple sec",
+            "1 vanilla ice cream, softened",
+            "ice as needed",
+            "2 slices orange or lemon, for garnish"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all your ingredients.",
+            "Mix orange zest, sugar, and salt together on a small plate",
+            "Rim 2 glasses with lime wedge and rotate in the orange zest mixture.",
+            "Combine tequila, orange juice, lime juice, triple sec, and ice cream in a cocktail shaker.",
+            "Fill cocktail shaker with ice and shake very well. Strain into the orange-rimmed glasses and garnish with an orange or lemon slice"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pineapple Jalapeño Margarita",
+        "category": "Cocktails",
+        "ingredients": [
+            "2 slices fresh pineapple, plus more for garnish",
+            "2 slicesfresh fresh",
+            "2 ounces tequila",
+            "2 ounces",
+            "1 ounce lime juice",
+            "1 ounce orange juice",
+            "1 oz ice",
+            "1 lime wedge",
+            "2 tablespoons tajin seasoning, for glass"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine pineapple and jalapeno slices in a cocktail shaker and muddle. Pour in tequila, pineapple juice, lime juice, and orange juice. Fill with ice and shake until well combined. Set aside.",
+            "Place tajin on a plate. Rub one side of glass with lime slice and roll in tajin. Strain margarita into the prepared glass and garnish with pineapple slice and jalapeno slice if desired."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Whipped Vodka Lemonade",
+        "category": "Cocktails",
+        "ingredients": [
+            "1/2 cup limoncello cream liqueur",
+            "1/3 cup lemon juice",
+            "1/3 cup sweetened condensed milk",
+            "1/4 cup heavy cream",
+            "2 fluid ounce lemon and elderflower vodka",
+            "2 cups ice, or as needed",
+            "vanilla whipped cream",
+            "lemon zest",
+            "lemon wheels,"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine limoncello cream, lemon juice, sweetened condensed milk, heavy cream, and lemon & elderflower vodka in a blender. Add ice; blend on Whip or Frozen Cocktail setting until ice is blended.",
+            "Pour into glasses; garnish with vanilla whipped cream, lemon zest, and dried or fresh lemon wheel."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Big Batch Spiked Arnold Palmers",
+        "category": "Cocktails",
+        "ingredients": [
+            "7 cups sweet tea",
+            "6 cups lemonade",
+            "3 cups bourbon whiskey"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Combine sweet tea, lemonade, and bourbon in a 1-gallon jug. Seal the jug and carefully tilt it upside down a couple time to mix the ingredients. Refrigerate until ready to serve; serve over ice."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Big Batch Italian Greyhound Cocktail",
+        "category": "Cocktails",
+        "ingredients": [
+            "4 cups grapefruit juice",
+            "1 3/4 cups gin",
+            "1/2 cup Aperol",
+            "1/4 cup simple syrup",
+            "8 sprigs fresh rosemary"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine grapefruit juice, gin, Aperol, and simple syrup in a jug and seal tightly. Lightly shake jug to mix. Refrigerate until ready to serve.",
+            "Lightly shake and serve over ice; garnish with a rosemary sprig."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Big Batch Freezer Strawberry Cosmopolitans",
+        "category": "Cocktails",
+        "ingredients": [
+            "8 ounces strawberries",
+            "1 cup sugar",
+            "1 cup water",
+            "1 (1 liter) bottle vodka",
+            "3/4 cup orange liqueur,",
+            "1/2 cup lime juice",
+            "sliced limes, for garnish"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Combine strawberries, sugar and 3/4 cup water in a small saucepan over medium-high heat. Bring to a boil, stirring occasionally. Reduce heat to a simmer and cook until mixture has thickened slightly and reduced a little, about 10 minutes.",
+            "Strain strawberry mixture into a jar and discard solids. Let cool completely and refrigerate until ready to use.",
+            "Pour 1 3/4 cups vodka from bottle and reserve for another use. To the remaining vodka, add 1/2 cup cooled strawberry simple syrup, orange liqueur, lime juice, and remaining 1/4 cup water. Seal the bottle and tilt it gently to mix the ingredients.",
+            "Place bottle in freezer for at least 6 hours or until ready to serve.",
+            "Lightly shake bottle before serving in a martini glass and garnish individual cosmos with a slice of lime if desired."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Mimosa",
+        "category": "Cocktails",
+        "ingredients": [
+            "¼ cup orange juice, chilled",
+            "¾ cup Champagne or sparkling wine, chilled"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Gather the ingredients.",
+            "Divide orange juice evenly into two flute glasses.",
+            "Top with chilled Champagne.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Paloma Martini",
+        "category": "Cocktails",
+        "ingredients": [
+            "4 fluid ounces tequila",
+            "1 fluid ounce lime juice",
+            "4 fluid ounces grapefruit juice",
+            "1 tablespoon agave nectar",
+            "ice",
+            "2 fluid ounces grapefruit soda",
+            "1 grapefruit slice or lime slice or both"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Add tequila, lime juice, grapefruit juice, and agave nectar into a cocktail shaker. Add ice and shake until the outside of the shaker is frosted, about 30 seconds.",
+            "Pour into a frosted martini glass, leaving enough room for a splash of grapefruit soda. Garnish with a grapefruit slice or lime slice or both."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Passion Fruit Margarita",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 tablespoon salt, or as needed",
+            "1 lime wedge",
+            "1 1/2 cups ice, divided, or as needed",
+            "5 ounces passion fruit juice",
+            "2 ounces tequila",
+            "3/4 ounces triple sec",
+            "3/4 ounces lime juice"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Sprinkle salt onto a plate. Moisten the rim of a glass with lime wedge and press the moistened rim into the salt; fill the glass with ice.",
+            "Fill a cocktail shaker half-full with ice. Add passion fruit juice, tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds. Strain mixture into the glass and stir. Garnish with lime wedge."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Guava Margarita",
+        "category": "Cocktails",
+        "ingredients": [
+            "3 cups ice, or as needed",
+            "3 lime wedges",
+            "2 tablespoons salt, or as needed",
+            "1 (11.3 ounce) can guava nectar",
+            "4 ounces tequila",
+            "1 1/2 sec",
+            "1 1/2 ounces lime juice"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Sprinkle salt onto a plate. Moisten the rim of 2 glasses with a lime wedge. Press the moistened rim into the salt. Fill glasses with ice. Divide guava nectar between each glass.",
+            "Fill a cocktail shaker half-full with ice. Add tequila, triple sec, and lime juice to the shaker. Seal and shake vigorously until outside is frosted, 10 to 15 seconds. Strain mixture evenly between the glasses and stir. Garnish with remaining lime wedges."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Big Batch Freezer Margaritas",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 liter tequila (and bottle)",
+            "3/4 cup lime juice",
+            "1/2 cup triple sec",
+            "3 tablespoons agave",
+            "1/8 teaspoon salt",
+            "ice as needed"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Pour 1 1/4 cups tequila from the bottle and reserve for another use.",
+            "Add lime juice, triple sec, agave, and salt to the bottle of tequila and place top on the bottle. Tilt bottle to lightly shake mixture until agave has been well incorporated.",
+            "Place bottle in the freezer for at least 8 hours or until ready to serve.",
+            "To serve, add 1 cup ice to a shaker or glass and top with about 1/2 cup of margarita mix. Shake mixture or pour margarita between two glasses until well blended and slightly frothy. Serve immediately with more ice if desired. This step is important to balance the taste through slight dilution from the ice."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Batanga Cocktail",
+        "category": "Cocktails",
+        "ingredients": [
+            "lime wedges",
+            "flaky salt, as needed",
+            "ice",
+            "1 1/2 fluid ounces tequila",
+            "1 tablespoon lime juice",
+            "1/2 cup Coca Cola"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Run a lime wedge around the edge of a glass and rim with salt if desired. Fill cup with ice and add tequila and lime juice Top with cola and add a pinch of salt. Stir and enjoy with a wedge of lime."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Jargarita",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 tablespoon strawberry preserves, or more to taste",
+            "1 1/4 fluid ounce tequila",
+            "1/2 ounce orange liqueur",
+            "1 lime",
+            "ice"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Add strawberry preserves, tequila, orange liqueur, fresh lime juice, and ice to a jar fitted with a lid or shaker. Close jar and shake until slightly frothy."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Green Tea and Honey-Rhubarb Punch",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 2/3 cups rhubarb",
+            "2/3 cup honey",
+            "2/3 cup water",
+            "1 tablespoon fresh ginger"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "For syrup, stir rhubarb, honey, water, and ginger together in a small saucepan. Bring to a boil; reduce heat to low and simmer, covered, for 15 minutes. Remove from heat; let cool completely, about 1 hour.",
+            "Strain through a fine-mesh sieve into an airtight container or jar; discard solids. Syrup can be stored in the refrigerator for up to 1 week.",
+            "For green tea punch, bring water to a boil in a medium saucepan. Remove from heat and add tea bags. Steep, covered, 5 minutes. Remove tea bags, or strain to remove loose tea. Let tea cool completely, about 1 hour.",
+            "Muddle mint in a large pitcher. Add cooled tea, vodka, honey-rhubarb syrup, and lime juice. Chill at least 30 minutes, or up to 12 hours.",
+            "Add club soda to a pitcher and stir gently. Serve over ice and garnish with fresh mint and rhubarb stalks."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "The Best Irish Coffee",
+        "category": "Cocktails",
+        "ingredients": [
+            "1 (1.5 fluid ounce) jigger Irish whiskey such as Jameson",
+            "1 (1.5 fluid ounce) jigger Irish cream liqueur",
+            "1 cup hot brewed coffee",
+            "1 tablespoon whipped cream",
+            "1 dash ground nutmeg (Optional)"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine Irish whiskey and Irish cream liqueur in a glass mug; pour in hot brewed coffee.",
+            "Top with whipped cream and a dash of nutmeg."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "umami"
+        ]
+    }
+]

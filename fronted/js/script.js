@@ -270,6 +270,7 @@ async function processUserMessage(message) {
 }
 
 async function handleSendMessage() {
+    //if (e) e.preventDefault();
     const input = document.getElementById('userInput');
     const message = input.value.trim();
     if (!message || isWaitingForResponse) return;
@@ -299,7 +300,8 @@ function initializeSuggestions() {
     const suggestionsList = ["Cum se prepară pizza neapolitană?", "Ce ingrediente sunt necesare pentru clătite clasice?", "Timp coacere cozonac tradițional", "Înlocuitor pentru ouă în prăjituri", "Cât durează să fac sarmale?", "Cum se face tiramisu autentic?", "Tehnici pentru blat pufos de chec"];
     suggestionsContainer.innerHTML = suggestionsList.map(s => `<span class="chip" data-question="${escapeHtml(s)}">${escapeHtml(s.substring(0, 40))}${s.length > 40 ? '...' : ''}</span>`).join('');
     document.querySelectorAll('.chip').forEach(chip => {
-        chip.addEventListener('click', () => {
+        chip.addEventListener('click', (e) => {
+            e.preventDefault();
             const question = chip.getAttribute('data-question');
             if (question) { document.getElementById('userInput').value = question; handleSendMessage(); }
         });
@@ -308,14 +310,17 @@ function initializeSuggestions() {
 
 function initializeRecipeClicks() {
     document.addEventListener('click', (e) => {
+        // Ignore clicks on the send button — handled by its own listener
+        if (e.target.closest('#sendBtn')) return;
         const card = e.target.closest('.recipe-card');
         if (card) {
+            e.preventDefault();
             const recipeId = parseInt(card.getAttribute('data-recipe-id'));
             const recipe = RECIPES_DATABASE.find(r => r.id === recipeId);
             if (recipe && !e.ctrlKey && !e.metaKey) {
                 const input = document.getElementById('userInput');
                 if (input) input.value = `Cum se prepară ${recipe.name}? Vreau detalii despre timp (${recipe.total_time}), dificultate (${recipe.difficulty}) și dacă e potrivită pentru ${recipe.is_vegan ? 'vegani' : (recipe.is_vegetarian ? 'vegetarieni' : 'toți')}.`;
-                handleSendMessage();
+                handleSendMessage(e);
             }
         }
     });
@@ -324,8 +329,20 @@ function initializeRecipeClicks() {
 function initializeEventListeners() {
     const sendBtn = document.getElementById('sendBtn');
     const userInput = document.getElementById('userInput');
-    if (sendBtn) sendBtn.addEventListener('click', handleSendMessage);
-    if (userInput) userInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') handleSendMessage(); });
+    
+    if (sendBtn){ 
+        sendBtn.addEventListener('click', (e) => {
+            e.preventDefault();      // ← synchronous, happens immediately
+            e.stopPropagation();     // ← stops bubbling to document listener
+            handleSendMessage();
+        });
+    }
+    
+    if (userInput){
+        userInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') { e.preventDefault(); handleSendMessage(); }
+        });
+    } 
 }
 
 async function initialize() {
@@ -339,5 +356,20 @@ async function initialize() {
     console.log('[System] Bucătăria Academică - sistem inițializat cu succes');
 }
 
+window.addEventListener('beforeunload', () => {
+    console.log("RELOAD TRIGGERED");
+})
+
+
+document.querySelector('form')?.addEventListener('submit', (e) => {
+    e.preventDefault();
+});
+
+
+document.addEventListener('submit', (e) => {
+    console.log("FORM SUBMITTED");
+});
+
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initialize);
 else initialize();
+

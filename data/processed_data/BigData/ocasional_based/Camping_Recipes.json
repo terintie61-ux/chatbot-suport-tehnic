@@ -1,0 +1,558 @@
+[
+    {
+        "Main_category": "ocasional_based"
+    },
+    {
+        "recipe_title": "Fireside Coffee",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "2 cups powdered non-dairy creamer",
+            "1 ½ cups instant coffee granules",
+            "1 ½ cups white sugar",
+            "1 ½ cups instant hot chocolate mix",
+            "1 ½ teaspoons ground cinnamon",
+            "½ teaspoon ground nutmeg"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Mix non-dairy creamer, instant coffee, sugar, hot chocolate mix, cinnamon, and nutmeg in a bowl.",
+            "To use, mix 2 to 3 heaping tablespoons in a mug with hot water. Store remaining mixture in an airtight container."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Campfire Queso",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "8 ounces ground beef",
+            "8 ounces Italian sausage",
+            "1/2 cup red onion",
+            "1/2 cup red bell pepper",
+            "1 jalapeno pepper, seeded and minced",
+            "1 10-ounce) can diced tomatoes and green chiles (such as RO*TEL®)",
+            "8 ounces pasteurized cheese product (such as Velveeta®), cubed",
+            "1 (8-ounce) package cream cheese, softened and cubed",
+            "8 ounces Pepper Jack",
+            "3/4 cup salt added canned black beans, rinsed and drained",
+            "1/2 cup frozen corn",
+            "3/4 cup diced avocado",
+            "1/4 cup sour cream",
+            "2 tablespoons fresh cilantro",
+            "tortilla chips for serving"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Heat a 10-inch cast-iron skillet on a grill grate over a fire. You can also preheat an outdoor grill to medium-high heat (375 degrees F to 400 degrees F (190 degrees C to 200 degrees C)) .",
+            "Add beef, sausage, onion, bell pepper, and jalapeño to the skillet. Cook, stirring to break up lumps, until meat is browned, about 8 minutes. Pour off grease. Stir in tomatoes with green chiles, cheese product, cream cheese, pepper Jack, beans, and corn. Cover skillet with foil and cook for 8 minutes.",
+            "Uncover skillet; continue cooking, stirring occasionally, until cheese is melted and bubbly, 2 minutes more.",
+            "Top with avocado, sour cream, and cilantro. Serve with tortilla chips."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chex Muddy Buddies",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "3 cups Rice Chex cereal",
+            "3 cups Corn Chex cereal",
+            "3 cups Chocolate Chex cereal",
+            "1 cup semisweet chocolate chips",
+            "½ cup peanut butter",
+            "¼ cup butter or margarine",
+            "1 teaspoon vanilla",
+            "1 ½ cups powdered sugar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine all cereals in a large bowl; set aside.",
+            "Place chocolate chips, peanut butter, and butter in a 1-quart microwave-safe bowl. Microwave, uncovered, on high for 1 minute, then stir. Continue warming mixture until smooth and combined, about 30 seconds longer. Stir in vanilla.",
+            "Pour chocolate mixture over cereal and stir until evenly coated. Transfer to a 2-gallon resealable plastic bag.",
+            "Add powdered sugar to the bag and seal; shake until well-coated.",
+            "Evenly spread cereal out onto waxed paper to cool.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Beef Jerky",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "¾ cup Worcestershire sauce",
+            "¾ cup soy sauce",
+            "1 tablespoon smoked paprika, or to taste",
+            "1 tablespoon honey, or more to taste",
+            "2 teaspoons freshly ground black pepper",
+            "1 teaspoon red pepper flakes",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "2 pounds beef top round, thinly sliced"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Whisk together Worcestershire sauce, soy sauce, smoked paprika, honey, black pepper, red pepper flakes, garlic powder, and onion powder in a large bowl. Add beef; mix until completely coated with marinade. Cover the bowl with plastic wrap and marinate in the refrigerator, 3 hours to overnight.",
+            "Preheat the oven to 175 degrees F (80 degrees C). Line a baking sheet with aluminum foil and place a wire rack on top.",
+            "Transfer beef to paper towels to dry. Discard marinade.",
+            "Arrange beef slices in a single layer on the prepared wire rack on the baking sheet.",
+            "Bake in the preheated oven until dry and leathery, 3 to 4 hours.",
+            "Cut jerky with scissors into bite-sized pieces.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hot Water Cornbread",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 cup cornmeal",
+            "1 teaspoon salt",
+            "1 teaspoon white sugar",
+            "¾ cup boiling water",
+            "1 tablespoon bacon grease",
+            "1 cup bacon grease, or as needed"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine cornmeal, salt, and sugar in a medium bowl. Add boiling water and 1 tablespoon bacon grease; stir until bacon grease melts.",
+            "Pour bacon grease to a depth of 1/2-inch in a large skillet; heat to 375 degrees F (190 degrees C).",
+            "Shape cornmeal mixture into 12 flattened balls using a heaping tablespoon as a measuring guide.",
+            "Fry, turning once, in hot oil until crisp and golden brown, about 5 minutes. Drain on paper towels and serve warm."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Calico Beans",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 pound lean ground beef",
+            "1/2 cup bacon, chopped",
+            "1 (15 ounce) can pork and beans",
+            "1 (15 ounce) can kidney beans, drained",
+            "1 (15 ounce) can butter beans",
+            "1 (15 ounce) can lima beans, drained",
+            "1 cup packed brown sugar, or to taste",
+            "1 cup chopped onion",
+            "1/2 cup chopped celery",
+            "1/2 cup ketchup",
+            "3 tablespoons white wine vinegar",
+            "1 teaspoon mustard powder"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Cook ground beef and bacon in a large, deep skillet over medium-high heat until evenly brown. Drain and transfer meat to a 4-quart casserole dish.",
+            "Add pork and beans, kidney beans, butter beans, lima beans, brown sugar, onion, celery, ketchup, vinegar, and dry mustard to the casserole dish; mix well.",
+            "Bake, covered, in the preheated oven until bubbly and heated through, about 1 hour."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Campfire Baked Potatoes",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "4 medium baking potatoes",
+            "¼ cup butter, softened",
+            "8 sheets heavy-duty aluminum foil"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Poke each potato several times all over with a fork. Smear each potato with 1 tablespoon of butter, then double wrap in aluminum foil.",
+            "Bury potatoes in the hot coals of a campfire and cook until crispy on the outside and tender inside, about 30 to 60 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Leslie's Salty Grilled Potatoes",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "4 medium potatoes",
+            "4 tablespoons butter, softened",
+            "4 tablespoons coarse salt",
+            "2 tablespoons garlic powder",
+            "1 tablespoon pepper",
+            "2 tablespoons Italian seasoning (Optional)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat an outdoor grill for medium-low heat.",
+            "Prepare four foil squares large enough to fold over one potato each. Spread butter onto foil in a large enough area that the potato will be completely covered when rolled up. Sprinkle salt, garlic, pepper, and Italian seasoning evenly over foil. Roll each potato in the foil; puncture the package (including the potato) with a fork or knife a few times.",
+            "Grill for 1 hour, or until soft, turning the potatoes often.",
+            "Serve with your favorite toppings."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Jerky Lover's Jerky - Sweet, Hot and Spicy!",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 tablespoon onion powder",
+            "1 tablespoon garlic powder",
+            "2 teaspoons cracked black pepper, or to taste",
+            "1 pound lean beef sirloin tip, sliced into 1/8 inch strips",
+            "½ cup brown sugar",
+            "⅔ cup soy sauce",
+            "½ cup pineapple juice",
+            "⅓ cup balsamic vinegar",
+            "¼ cup teriyaki sauce",
+            "¼ cup Worcestershire sauce",
+            "5 tablespoons liquid smoke flavoring",
+            "1 teaspoon red pepper flakes, or to taste (Optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather the ingredients.",
+            "Mix together onion powder, garlic powder, and black pepper in a small bowl or cup. Season beef lightly, using only part of the spice blend and reserving the rest. Place beef into an airtight plastic container or bowl, and refrigerate.",
+            "Stir together brown sugar, soy sauce, pineapple juice, balsamic vinegar, teriyaki sauce, Worcestershire sauce, and liquid smoke flavoring. Heat until brown sugar has completely dissolved. Refrigerate marinade until cool.",
+            "Pour cooled marinade over the seasoned meat, and mix by hand to coat. Seal the bowl, and refrigerate for at least 3 hours.",
+            "Arrange beef strips on the rack of a dehydrator, and sprinkle with a little bit more of the spice mixture and red pepper flakes. Dry for 5 hours, or to your desired dryness."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Chili Sauce",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 cup tomato sauce",
+            "¼ cup brown sugar",
+            "2 tablespoons vinegar",
+            "¼ teaspoon chili powder or allspice to taste",
+            "1 pinch crushed red chili flakes to taste (Optional)"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir tomato sauce, brown sugar, vinegar, and chili powder together in a mixing bowl until thoroughly blended. Season to taste with chili flakes.",
+            "Pour into a covered container; refrigerate until ready to use."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Alabama Fire Crackers",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 ⅔ cups vegetable oil",
+            "2 (1 ounce) envelopes ranch dressing mix",
+            "3 tablespoons crushed red pepper flakes",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "½ teaspoon black pepper",
+            "1 (16.5 ounce) package multigrain saltine crackers"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Place vegetable oil, ranch dressing mix, crushed red pepper flakes, garlic powder, onion powder, and black pepper in a 2-gallon resealable plastic bag.",
+            "Seal the bag and squeeze with your hands until oil and spices are well combined.",
+            "Place crackers into the bag, seal, and turn the bag over to coat crackers with spice mix.",
+            "Let sit for about 1 hour, then turn again. Repeat several times until crackers are well-coated with spice mix, then allow the bag to sit 8 hours to overnight.",
+            "Remove crackers and serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Campfire Foil Packs",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 pound skinless, boneless chicken breast meat - cubed",
+            "2 onions, diced",
+            "1 (8 ounce) package sliced fresh mushrooms",
+            "1 yellow bell pepper, seeded and sliced into strips",
+            "1 red bell pepper, seeded and sliced into strips",
+            "4 cloves garlic, sliced",
+            "4 small potatoes, cubed",
+            "¼ cup olive oil",
+            "1 lemon, juiced"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Build a campfire and allow the fire to burn until it has accumulated a bed of coals. Rake the coals into a flat bed on one side of the fire.",
+            "Combine chicken, onion, mushrooms, peppers, garlic, and potatoes in a large bowl or a large resealable plastic bag. Pour in olive oil and lemon juice and toss to coat.",
+            "Evenly divide the mixture between 4 large sheets of aluminum foil. Top each with another sheet of foil and roll up the edges tightly. Double wrap each packet with another sheet of foil.",
+            "Cook over the preheated coals until chicken is no longer pink in the center and the juices run clear, about 40 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Camping Bars",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "¾ cup all-purpose flour",
+            "½ cup quick cooking oats",
+            "¼ cup toasted wheat germ",
+            "½ cup butter, softened",
+            "1 tablespoon orange zest",
+            "¾ cup packed brown sugar",
+            "2 large eggs",
+            "¾ cup blanched whole almonds",
+            "½ cup shredded coconut"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Beat flour, oats, butter, wheat germ, orange peel, and 1/2 cup of packed brown sugar in a large bowl at low speed until just mixed. Beat at medium speed for 2 minutes (mixture will look dry).",
+            "Shape mixture into a ball with lightly floured hands, then pat into 8x8-inch baking pan.",
+            "Beat eggs with a 1/4 cup of packed brown sugar in a small bowl; stir in almonds and coconut. Pour evenly over mixture in pan.",
+            "Bake in the preheated oven until a toothpick inserted into the bar mixture comes out clean, about 35 minutes. Cool in pan on rack. Cut into 12 pieces."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Campfire Carnitas",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "4 pounds pork shoulder",
+            "4 teaspoons kosher salt,",
+            "1 teaspoon ground black pepper",
+            "1/2 teaspoon oregano",
+            "1 white onion,",
+            "1 chili pepper,",
+            "6 garlic cloves,"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Cut pork into 2-inch pieces. Stack 2 (7x10x3-inch) disposable foil baking pans and transfer in the pork. Season with salt, pepper, and oregano, and toss with your hands until everything is evenly coated.",
+            "Cover the pan with a sheet of heavy-duty aluminum foil, and crimp tightly around the edges. Place on top of another large sheet of heavy-duty aluminum foil, and then wrap the foil up over the pan. All seams should be rolled facing up. Repeat with 2 more sheets of aluminum foil.",
+            "Place pan next to a campfire, or in a charcoal grill, and arrange the burning coals evenly around the pan. Wrap a sheet pan in foil, place over the pan, and arrange some charcoal on top.",
+            "Use a probe or laser thermometer to check the temperature on the surface of the bottom pan, as well as the ambient temperature next to the pan. Try to maintain a constant temperature of between 250 to 300 degrees F (120 to 150 degrees C). To do this, move charcoal further away or closer to the pan as needed. If cooking next to a campfire and the pan is getting more heat from one direction than the other, rotate the pan occasionally. Cook until falling-apart tender, 4 to 5 hours.",
+            "Remove pan from the fire, and let rest for up to 1 hour, or serve immediately. Carefully cut foil away and peel back. Serve made into tacos, nachos, or enjoyed in hot dog or hamburger buns."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Tomatoes",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "8 tomatoes, halved lengthwise",
+            "1 tablespoon olive oil",
+            "2 cloves garlic, minced, or to taste",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+            "Drizzle olive oil over the cut-sides of tomatoes. Sprinkle with garlic; season with salt and black pepper.",
+            "Cook tomatoes, cut-sides up, on the preheated grill until they start to sizzle and have blackened grill marks, about 4 minutes. Flip tomatoes over and continue grilling until garlic turns golden brown, about 3 more minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Maple Syrup Taffy",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 gallon clean fresh snow",
+            "2 cups real maple syrup",
+            "15 wooden pop sticks"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Pack clean, fresh snow into a large bowl or baking dish. Smooth the top and place in the freezer.",
+            "Pour maple syrup into a large saucepan; bring to a boil. Cook and stir with a wooden spoon over medium-low heat until a small amount of syrup dropped into cold water forms a firm ball. A candy thermometer inserted into the syrup should read between 235 and 245 degrees F (112 to 118 degrees C).",
+            "Remove snow from the freezer and set on the counter. Pour about 2 tablespoons syrup per piece over snow in thin lines about 5 inches long. Let syrup strips cool and firm up for 3 to 5 seconds. Pull candy strips out of snow, then wind into a lollipop around the end of a wooden pop stick. Eat while still a little warm."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Beets on the Grill",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "cooking spray",
+            "6 beets, scrubbed",
+            "2 tablespoons butter",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients. Preheat an outdoor grill for high heat.",
+            "Coat one side of a large piece of aluminum foil with cooking spray. Place beets and butter on foil; season with salt and pepper.",
+            "Wrap foil over beets. Place packet on the grill grate. Cook until beets are very tender, about 30 minutes.",
+            "Allow beets to cool before serving, about 5 minutes. You don't even need to peel to enjoy!"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dutch Oven Mountain Man Breakfast",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "1 pound mild pork sausage (such as Jimmy Dean®)",
+            "1 medium onion, chopped",
+            "1 clove garlic, minced",
+            "1 medium red bell pepper, chopped",
+            "1 medium green bell pepper, chopped",
+            "1 (2 pound) package frozen shredded hash brown potatoes",
+            "12 large eggs, beaten",
+            "1 (16 ounce) package shredded Cheddar cheese"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients. Build a campfire and allow the fire to burn until it has accumulated a bed of coals. Place a grate over the fire.",
+            "Place a 12-inch cast iron Dutch oven onto the grate. Add sausage, onion, and garlic; cook and stir until sausage is browned and crumbly and onion is translucent, 5 to 7 minutes.",
+            "Stir in hash browns and bell peppers until well mixed. Cook, stirring occasionally, until hash browns are hot and peppers are tender, about 15 minutes.",
+            "Pour beaten eggs into the Dutch oven, allowing them to seep down to the bottom.",
+            "Cover the Dutch oven and place it directly onto 5 to 10 hot coals. Place another 12 to 18 hot coals on top of the Dutch oven lid. Let cook until eggs are firm, about 40 minutes.",
+            "Open the lid and sprinkle with Cheddar cheese. Cover and continue to cook until cheese has melted, about 5 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Granola Bars",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "cooking spray",
+            "2 cups rolled oats",
+            "½ cup shredded coconut",
+            "½ cup honey",
+            "2 tablespoons creamy peanut butter",
+            "1 teaspoon vanilla extract",
+            "⅛ teaspoon salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 325 degrees F (165 degrees C). Grease a 9-inch square baking dish.",
+            "Spread oats and coconut evenly across a baking sheet. Toast oats and coconut in the preheated oven until browned, about 10 minutes; transfer to a large mixing bowl.",
+            "Mix honey, peanut butter, vanilla, and salt in a saucepan over medium-low heat. Cook and stir until smooth.",
+            "Pour honey mixture over oats and coconut. Stir to coat. Spread mixture evenly into the prepared baking dish.",
+            "Bake in the preheated oven until beginning to dry, about 15 minutes for crunchy granola bars, less if you like them chewy.",
+            "Cool completely before cutting."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Tomato Chili Sauce",
+        "category": "Camping Recipes",
+        "ingredients": [
+            "35 fresh tomatoes, peeled, seeded and chopped",
+            "2 cups apple cider vinegar",
+            "4 red bell peppers, seeded and diced",
+            "1 large onion, diced",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "3 fresh hot chile peppers, seeded and chopped",
+            "⅓ cup fresh lime juice, or to taste",
+            "1 tablespoon salt, or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place tomatoes into a large pot over medium heat. Simmer for 1 hour, skimming off any excess liquid or foam as necessary.",
+            "Stir vinegar, bell peppers, onion, sugars, chile peppers, lime juice, and salt into tomatoes. Reduce heat to low and simmer until liquid reduces and sauce thickens, 3 to 5 hours. Adjust seasonings to taste.",
+            "When sauce is almost ready, inspect four 1-quart jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water until sauce is ready. Wash new, unused lids and rings in warm, soapy water.",
+            "Remove sauce from heat and skim off any foam. Pour into the hot, sterilized jars, filling to within 1/4 inch of the top. Run a clean knife or thin spatula around the insides of the jars to remove any air bubbles. Wipe the rims with a moist paper towel to remove any residue. Top with the lids and screw the rings on tightly.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower the jars 2 inches apart into boiling water using a holder. Pour in more boiling water to cover the jars by at least 1 inch. Bring to a rolling boil, cover, and process for 10 minutes.",
+            "Remove the jars from the stockpot and let rest, several inches apart, 12 to 24 hours. Press the center of each lid with a finger to ensure the lid does not move up or down. Remove the rings for storage and store in a cool, dark area."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    }
+]

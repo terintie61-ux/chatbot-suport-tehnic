@@ -1,0 +1,715 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Savory Apple Cider Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 pound beef stew meat, cut into bite-size pieces",
+            "2 teaspoons all-purpose flour",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "⅛ teaspoon dried thyme (Optional)",
+            "2 teaspoons vegetable oil",
+            "2 ½ cups apple cider",
+            "4 carrots, sliced",
+            "3 potatoes, chopped",
+            "2 small Fuji apples - peeled, cored, and chopped",
+            "1 cup chopped onion",
+            "1 cup water",
+            "1 stalk celery, chopped (Optional)",
+            "1 teaspoon salt",
+            "¼ teaspoon dried thyme (Optional)"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Combine beef with flour, 1/2 teaspoon salt, black pepper, and 1/8 teaspoon thyme in a bowl; toss to coat evenly.",
+            "Heat 2 teaspoons oil in a heavy-bottomed pot. Add beef; cook until browned, 5 to 7 minutes. Stir in apple cider with a wooden spoon while scraping the browned bits of food off the bottom of the pan; reduce heat to medium low, and simmer until beef is tender, about 1 hour.",
+            "Add carrots, potatoes, apples, onion, water, celery, 1 teaspoon salt, and 1/4 teaspoon thyme to the pot; continue cooking until vegetables are tender, about 30 minutes more."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Guinness Chili for Two",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 slice bacon",
+            "1/4 tsp salt and freshly ground black pepper",
+            "1 1/2 pounds beef stew meat",
+            "1/2 cup all purpose flour",
+            "1/4 medium yellow onion",
+            "1/4 cup cilantro leaves",
+            "2 teaspoons garlic paste",
+            "1/4 cup tomato paste",
+            "2 tablespoons chili powder",
+            "1/8 teaspoon dried oregano",
+            "1 teaspoon ground cumin",
+            "1/8 teaspoon smoked paprika",
+            "1/2 teaspoon ground coriander",
+            "5 fluid ounces Irish stout,",
+            "1 (5-ounce) can tomato sauce",
+            "1 1/2 cups beef broth",
+            "1/4 tsp salt and freshly ground black pepper",
+            "sliced green onion and cilantro,"
+        ],
+        "num_ingredients": 19,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Add oil to an oven-safe pot and place over medium heat. Add bacon and cook, stirring occasionally, until golden but not yet crispy, about 3 minutes.",
+            "Season stew cubes with salt and pepper. Place flour in a shallow bowl, and dredge cubes in flour, shaking off excess. Add to the pot and cook in bacon grease, mixing bacon in with beef until beef is browned on all sides. Pour in 1/2 cup beef broth to deglaze the pan and prevent sticking.",
+            "Add onion and garlic to the pot; cook and stir until onion is just translucent, about 3 minutes. Add tomato paste, chili powder, oregano, cumin, paprika, and coriander. Stir to coat onion and meat with spices.",
+            "Pour in Guinness; scrape up any bits on the bottom of the pot. Add tomato sauce and remaining beef broth; season with salt and pepper. Stir, then bring to a boil.",
+            "Transfer to the preheated oven and bake, uncovered, uncovered until chili is thick and meat is tender, 1 1/2 to 2 hours. Stir stew every 30 minutes to prevent scorching; add a small amount of water or broth if stew seems too dry.",
+            "Garnish each bowl with green onion and cilantro leaves."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "French Onion Beef and Noodles",
+        "category": "Beef Stews",
+        "ingredients": [
+            "2 tablespoons vegetable oil, divided",
+            "1 pound beef stew meat",
+            "1 1/2 cups sweet onion",
+            "2 cloves garlic, minced",
+            "1 (32 ounce) beef broth",
+            "1 (10 1/2-ounce) can condensed French onion soup",
+            "1/2 teaspoon ground black pepper",
+            "2/3 cup sour cream",
+            "1/3 cup grated Parmesan cheese",
+            "1 (12-ounce) wide or medium egg noodles",
+            "1 (2.8-ounce) can rench-fried onions",
+            "2 tablespoons fresh parsley"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat 1 tablespoon oil in a 4- to 5-quart Dutch oven over medium-high heat. Add beef stew meat. Cook until well-browned on all sides, stirring once or twice, 2 to 3 minutes. Transfer meat from Dutch oven to a plate.",
+            "Add remaining 1 tablespoon oil to the Dutch oven. Add onion and garlic. Cook over medium heat until tender and starting to brown, stirring frequently, about 6 minutes. If needed, add a splash of broth to the Dutch oven. Scrape up any browned bits from the bottom of the Dutch oven with a wooden spoon.",
+            "Return beef to the Dutch oven. Add remaining broth, soup, and pepper. Bring to a boil. Reduce heat and simmer, covered, 25 to 30 minutes or until meat is tender",
+            "Whisk together sour cream and Parmesan cheese in a small bowl.",
+            "Add about 1/2 cup of hot broth mixture from the Dutch oven to the bowl. Stir to combine.",
+            "Add mixture back to the pot and stir to combine.",
+            "Add egg noodles to the pot. Cover and simmer, stirring occasionally, 5 to 7 minutes or until noodles and beef are tender.",
+            "Top servings with French-fried onions and parsley."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Green Chile Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "2 pounds cubed beef stew meat (or cubed pork shoulder)",
+            "1 onion, chopped",
+            "1 (10 ounce) can diced tomatoes with green chile peppers",
+            "1 ½ cups beef broth",
+            "1 (4 ounce) can chopped green chile peppers",
+            "1 teaspoon garlic salt",
+            "1 teaspoon ground cumin",
+            "salt and ground black pepper to taste",
+            "2 large potatoes, peeled and cubed"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Heat oil in a large pot over medium heat. Add meat and onion; cook and stir until onions are translucent, about 5 minutes.",
+            "Pour in diced tomatoes with chiles, beef broth, and chile peppers. Stir in garlic salt and cumin. Season with salt and pepper to taste.",
+            "Bring to a boil, reduce heat, and simmer for 1 hour. Add a little more beef broth or water if needed during simmering.",
+            "Stir in cubed potatoes and simmer until potatoes are tender, about 30 more minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Irish Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "3 russet potatoes, diced",
+            "1 pound baby carrots",
+            "1 large onion, chopped",
+            "4 cloves garlic, minced",
+            "1 tablespoon olive oil, or to taste",
+            "2 pounds beef chuck roast, cubed",
+            "1 (16 ounce) bottle stout beer, divided",
+            "1 (6 ounce) can tomato paste",
+            "1 cup beef broth",
+            "1 tablespoon garlic powder",
+            "1 tablespoon onion powder",
+            "1 tablespoon smoked paprika",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place potatoes, carrots, onion, and garlic into a slow cooker.",
+            "Heat olive oil in a skillet over medium heat. Add beef; cook and stir until evenly browned, about 10 minutes. Transfer beef to the slow cooker with vegetables.",
+            "Pour 1/4 cup beer into the same skillet and bring to a boil while scraping the browned bits of beef off of the bottom of the skillet with a wooden spoon. Stir in tomato paste; cook until thickened, about 5 minutes. Pour mixture into the slow cooker.",
+            "Pour remaining beer, beef broth, garlic powder, onion powder, paprika, salt, and pepper into the slow cooker.",
+            "Cook on Low until potatoes and carrots are easily pierced with a fork, about 8 hours, or on High for 3 to 4 hours."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Beef and Guinness Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "4 slices bacon, cut into small pieces",
+            "2 ½ pounds boneless beef chuck, cut into 2-inch pieces",
+            "1 ½ teaspoons salt, divided, or more to taste",
+            "freshly ground black pepper to taste",
+            "2 onions, coarsely chopped",
+            "4 cloves garlic, minced",
+            "1 (14.9 ounce) can dark beer (such as Guinness)",
+            "¼ cup tomato paste",
+            "3 carrots, cut into 1-inch pieces",
+            "2 ribs celery, cut into 1-inch pieces",
+            "4 sprigs fresh thyme",
+            "1 teaspoon white sugar",
+            "½ teaspoon freshly ground black pepper, or to taste",
+            "2 ½ cups chicken stock, or as needed to cover",
+            "4 cups mashed potatoes (Optional)"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients.",
+            "Cook and stir bacon in a heavy skillet over medium-high heat until bacon is browned and crisp, 3 to 4 minutes. Turn off the heat and transfer bacon into a large stew pot, reserving bacon fat in the skillet.",
+            "Season beef chuck cubes generously with 1 teaspoon salt and black pepper to taste. Turn heat to high under the skillet and sear beef pieces in the hot fat on both sides until browned, about 5 minutes. Place beef in the stew pot with bacon, leaving fat in the skillet.",
+            "Turn heat down to medium; cook and stir onions in the retained fat in the skillet until lightly browned, 5 to 8 minutes; season with a large pinch of salt.",
+            "Cook garlic with onions until soft, about 1 minute. Pour beer into the skillet and stir with a wooden spoon, scraping up and dissolving any browned bits of food into the liquid.",
+            "Pour cooking liquid from the skillet into the stew pot. Stir in tomato paste, carrots, celery, thyme sprigs, sugar, 1/2 teaspoon black pepper, and enough chicken broth to cover.",
+            "Bring stew to a gentle simmer, stirring to combine; reduce heat to low and cover pot.",
+            "Simmer stew until beef is fork-tender, about 2 hours.",
+            "Stir stew occasionally and skim fat or foam if desired.",
+            "Remove cover and raise heat to medium-high. Bring stew to a low boil and cook until stew has slightly thickened, 15 to 20 minutes. Remove and discard thyme sprigs and adjust salt and pepper to taste.",
+            "Arrange mashed potatoes in a ring in a serving bowl; ladle stew into the center of the potatoes."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "3 tablespoons vegetable oil",
+            "2 pounds cubed beef stew meat",
+            "4 cubes beef bouillon, crumbled",
+            "4 cups water",
+            "1 teaspoon dried rosemary",
+            "1 teaspoon dried parsley",
+            "½ teaspoon ground black pepper",
+            "3 large potatoes, peeled and cubed",
+            "4 carrots, cut into 1 inch pieces",
+            "4 stalks celery, cut into 1 inch pieces",
+            "1 large onion, chopped",
+            "2 teaspoons cornstarch",
+            "2 teaspoons cold water"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned.",
+            "Dissolve bouillon in 4 cups water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.",
+            "Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Puerto Rican Sancocho",
+        "category": "Beef Stews",
+        "ingredients": [
+            "3 tablespoons olive oil",
+            "1 large onion, chopped",
+            "5 cloves garlic, chopped",
+            "3 sprigs fresh cilantro, chopped",
+            "¼ teaspoon ground white pepper",
+            "1 pinch dried oregano",
+            "salt to taste",
+            "1 ½ pounds beef stew meat, cut into small pieces",
+            "2 quarts water, or as needed",
+            "½ (6.5 ounce) can tomato sauce",
+            "2 cubes beef bouillon",
+            "1 cup chopped fresh green beans, cut into 1 1/2-inch pieces",
+            "2 carrots, peeled and sliced",
+            "⅓ cup chopped celery",
+            "1 large chayote squash - peeled, cored, and sliced lengthwise",
+            "1 (15.5 ounce) can small white beans, rinsed and drained",
+            "½ head cabbage, chopped",
+            "1 green banana, peeled and sliced into 3/4-inch pieces",
+            "1 yellow plantain, peeled and cut into 1-inch pieces",
+            "5 large llautias (yautias), peeled and quartered",
+            "6 potatoes, peeled and quartered",
+            "½ cup chopped peeled pumpkin",
+            "2 ears fresh corn, sliced into 6 pieces each",
+            "⅓ cup chopped green bell pepper"
+        ],
+        "num_ingredients": 24,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat olive oil in a large pot over medium-low heat. Add onion, garlic, cilantro, white pepper, oregano, and salt. Cook and stir until onion is browned and very tender, about 20 minutes.",
+            "Add stew meat; cook and stir until meat is browned on all sides, 5 to 7 minutes.",
+            "Pour enough water over meat mixture to fill the pot 3/4 full. Add tomato sauce and beef bouillon.",
+            "Stir in the remaining ingredients, one at a time, cooking slightly after each addition in the following order: green beans, carrots, celery, chayote squash, white beans, cabbage, green banana, yellow plantain, llautias, potatoes, pumpkin, corn, and green bell pepper.",
+            "Cook until all the vegetables are tender and stew has formed a rich broth, 2 to 3 hours. Add more water or salt if needed."
+        ],
+        "healthiness_score": 96,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Best Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 pound beef chuck, cut into 1-inch cubes",
+            "4 Yukon Gold potatoes, cubed",
+            "1 ½ cups mushrooms, halved",
+            "1 onion, cut into 6 wedges",
+            "2 carrots, cut into 1/2-inch thick slices",
+            "2 cloves garlic, minced",
+            "3 cups beef broth",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon tomato paste",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon dried rosemary"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Turn on a multi-functional pressure cooker (such as Instant Pot) and select the Sauté function. Melt butter in the pot. Cook beef chuck cubes in batches until browned on all sides, about 5 minutes per batch.",
+            "Return all beef chuck cubes to the pot. Add potatoes, mushrooms, onion, carrots, and garlic; cover with beef broth. Stir in Worcestershire sauce, tomato paste, salt, pepper, and rosemary.",
+            "Close and lock the lid. Select Meat/Stew function, according to the manufacturer's instructions; set the timer for 35 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method, according to the manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ghormeh Sabzi (Persian Herb Stew)",
+        "category": "Beef Stews",
+        "ingredients": [
+            "¼ cup canola oil, divided",
+            "1 large yellow onion, finely chopped",
+            "1 teaspoon ground turmeric",
+            "1 ½ pounds boneless chuck roast, cut into 1 1/2-inch cubes",
+            "1 ½ cups finely chopped spinach",
+            "1 cup finely chopped green onions (green part only)",
+            "½ cup finely chopped Italian flat-leaf parsley",
+            "¼ cup finely chopped cilantro",
+            "¼ cup finely chopped chives",
+            "¼ cup finely chopped fenugreek leaves",
+            "1 ½ cups water, or more as needed",
+            "salt and ground black pepper to taste",
+            "1 lemon, juiced",
+            "4 dried Persian limes (limoo amani), or more to taste",
+            "1 (15 ounce) can red kidney beans, drained and rinsed"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Heat 2 tablespoons oil in a large pot over medium-high heat. Add onion; cook and stir until deep golden brown, 10 to 15 minutes. Stir in turmeric for 1 to 2 minutes.",
+            "Add chuck cubes; cook until coated in turmeric and browned on all sides, 8 to 10 minutes.",
+            "Heat remaining 2 tablespoons oil in a separate pot over medium heat. Add spinach, green onions, parsley, cilantro, chives, and fenugreek leaves; cook and stir until deep dark green in color, 5 to 10 minutes.",
+            "Stir spinach mixture into onion and chuck mixture. Pour in enough water to create a slurry consistency. Season with salt and pepper. Stir in lemon juice. Reduce heat, cover, and simmer stew until greens soften, about 1 hour.",
+            "Pierce dried limes with a fork; add to stew.",
+            "Continue simmering until chuck is tender, 30 minutes to 1 hour. Stir in red kidney beans. Cook until flavors combine, about 30 more minutes.",
+            "Discard dried limes before serving."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Oxtail Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "3 pounds beef oxtail, cut into pieces",
+            "1 ½ pounds russet potatoes, peeled and cut into chunks",
+            "4 carrots, peeled and cut into large chunks",
+            "3 stalks celery, cut into large chunks",
+            "1 onion, chopped",
+            "1 (15 ounce) can tomato sauce",
+            "1 cup beef broth",
+            "½ cup dry red wine",
+            "2 tablespoons chopped fresh parsley",
+            "1 tablespoon Worcestershire sauce",
+            "1 teaspoon dried thyme",
+            "½ teaspoon smoked paprika",
+            "1 (8 ounce) package sliced mushrooms",
+            "1 cup frozen peas",
+            "1 pinch salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Gather the ingredients.",
+            "Heat oil in a large skillet over medium-high heat. Sear oxtail for 4 minutes. Flip and continue cooking until browned on all sides, about 4 minutes. Transfer oxtail to a slow cooker.",
+            "Add potatoes, carrots, celery, onion, tomato sauce, beef broth, red wine, parsley, Worcestershire sauce, thyme, and paprika.",
+            "Cook on Low for 7 hours. Add mushrooms and peas. Cook for 1 additional hour.",
+            "Ladle into bowls and season with salt and pepper."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pressure Cooker Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "2 pounds cubed beef stew meat",
+            "1 small onion, diced",
+            "2 cups water, or more as needed",
+            "5 carrots, peeled and diced",
+            "2 cubes beef bouillon",
+            "8 medium baking potatoes, peeled and cubed",
+            "2 teaspoons cornstarch",
+            "2 teaspoons salt, or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Heat oil in the bottom of a pressure cooker over medium-high heat. (If the cooker has an insert, remove it, and cook directly in the bottom of the pot.) Add beef and onion; cook until beef is browned on the outside.",
+            "Stir in 2 cups water, carrots, and bouillon cubes. Close the lid and secure the pressure regulator. Heat until mixture sizzles, then reduce heat to medium and set the timer for 20 minutes. If you have an adjustable pressure regulator, set it for 10 pounds of pressure.",
+            "Meanwhile, place potatoes in a saucepan with enough water to cover. Bring to a boil and cook until tender, about 10 minutes. Drain.",
+            "Let pressure release naturally according to manufacturer's instructions, 5 to 10 minutes. (Mine must sit under cold running water for 5 minutes until the lid can be released.)",
+            "Remove the lid and place the pot over medium heat. Bring to a boil. Stir cornstarch into a small amount of cold water in a small bowl to make a slurry. Stir slurry into stew; cook until thickened, 2 to 3 minutes. Add potatoes to stew or place in serving dishes and ladle stew over them."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ground Beef and Vegetable Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 small onion, finely chopped",
+            "1 clove garlic, finely chopped",
+            "4 cups water",
+            "1 (8 ounce) can tomato sauce",
+            "2 tablespoons beef base",
+            "1 tablespoon Worcestershire sauce",
+            "1 teaspoon ground black pepper",
+            "½ teaspoon celery salt",
+            "¼ teaspoon ground marjoram",
+            "5 large carrots, cut into rounds",
+            "4 medium potatoes, peeled and cubed",
+            "1 cup green beans, trimmed and cut into 1-inch pieces",
+            "3 tablespoons all-purpose flour",
+            "2 tablespoons water, or more as needed"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef, onion, and garlic in the hot skillet until beef is browned and crumbly and onion is translucent, 5 to 7 minutes. Drain and discard grease.",
+            "Stir in 4 cups water, tomato sauce, beef base, Worcestershire sauce, pepper, celery salt, and marjoram; bring to a simmer. Add carrots and continue to simmer until tender, about 35 minutes. Add potatoes and green beans, simmer until tender, about 15 minutes.",
+            "Mix flour and 2 tablespoons water together in a small bowl until no lumps remain; add more water if necessary. Stir mixture into stew; simmer until stew has thickened, 5 to 10 minutes."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Beef and Cabbage Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 ½ pounds beef stew meat, cut into 1-inch pieces",
+            "1 cube beef bouillon",
+            "2 cups beef broth",
+            "1 large onion, chopped",
+            "¼ teaspoon ground black pepper",
+            "1 bay leaf",
+            "4 cups shredded cabbage",
+            "2 potatoes, peeled and cubed",
+            "2 celery ribs, sliced",
+            "1 carrot, sliced",
+            "1 (8 ounce) can tomato sauce",
+            "salt to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Cook and stir stew meat in a large saucepan or Dutch oven over medium heat until browned on all sides, 10 to 15 minutes. Drain any excess grease.",
+            "Stir beef bouillon into beef broth in a bowl until dissolved; pour over stew meat. Add onion, black pepper, and bay leaf; cover and simmer until stew meat is very tender, at least 2 hours.",
+            "Add cabbage, potatoes, celery, and carrot; cover and simmer until potatoes are tender, 30 to 45 more minutes.",
+            "Stir tomato sauce and salt into the stew; simmer, uncovered, until tomato sauce is fully incorporated and flavors have blended, 15 to 20 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Mom's Hearty Beef Stew with Dumplings",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon extra-virgin olive oil",
+            "2 pounds cubed beef stew meat",
+            "1 onion, coarsely chopped",
+            "2 teaspoons steak seasoning, divided",
+            "2 stalks celery, each cut into 4 pieces",
+            "6 cups water, divided, or as needed",
+            "4 (.85 ounce) packages dry brown gravy mix",
+            "4 carrots, peeled and quartered",
+            "1 small turnip, peeled and quartered",
+            "7 potatoes, peeled and quartered"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "To prepare beef stew: Heat oil in a large heavy pot or Dutch oven over medium-high heat until oil is shimmering. Add beef and onion. Sprinkle with 1 teaspoon steak seasoning. Stir beef and onions well and sprinkle with remaining 1 teaspoon steak seasoning. Add celery; cook and stir until beef is browned, about 10 minutes.",
+            "Pour in 2 cups water, or as needed to just cover beef and vegetables. Bring to a boil and stir and scrape browned bits of meat from the bottom of the pan. Cover, reduce heat, and simmer until the beef is very tender, about 2 hours.",
+            "Remove beef and celery pieces from the pan. Set beef aside and discard celery.",
+            "Whisk gravy mix with 4 cups water in a bowl. Add gravy mixture to the juices in the pot, bring to a boil, and stir beef back into the gravy mixture.",
+            "Stir in carrots and turnip, cover, and simmer for 20 minutes. Stir in potatoes, cover, and simmer for an additional 20 minutes.",
+            "To make the dumplings: Mix flour, baking powder, and salt in a bowl. Cut shortening into flour mixture with a pastry cutter or two knives until the mixture looks crumbly. Pour in milk and lightly stir the mixture just until it combines to form a dough.",
+            "Remove 2 cups of gravy from the pot and reserve. Drop dumplings by heaping tablespoon onto the beef and vegetables in the pot, cover, and simmer for 20 minutes (do not peek until the time is up).",
+            "Pour reserved gravy back over the dumplings, stir lightly, and serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Beef and Vegetable Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 pound cubed beef stew meat, trimmed",
+            "1 onion, thinly sliced",
+            "1 (6 ounce) can tomato paste",
+            "1 (14.5 ounce) can low fat, low sodium beef broth",
+            "3 potatoes, cubed",
+            "1 cup chopped carrots",
+            "1 teaspoon dried thyme",
+            "¼ teaspoon crushed red pepper flakes",
+            "1 sprig fresh rosemary",
+            "1 bay leaf",
+            "10 ounces button mushrooms, quartered",
+            "1 (10 ounce) package frozen green peas, thawed"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a large pot over medium-high heat. Add beef and cook until browned on all sides, about 10 minutes; remove meat and set aside.",
+            "Add onion and tomato paste to the same pot; cook and stir until onion is tender, about 5 minutes.",
+            "Return beef to the pot; stir in beef broth. Reduce heat to low, cover, and simmer until meat is tender, about 1 to 1 1/2 hours.",
+            "Add potatoes, carrots, thyme, crushed red pepper flakes, rosemary, and bay leaf; simmer, covered, for 45 minutes, adding some water if stew gets too thick.",
+            "Add mushrooms and peas; cook and stir until heated through, about 10 to 15 minutes.",
+            "Remove rosemary sprig and bay leaf before serving. Enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chile Colorado",
+        "category": "Beef Stews",
+        "ingredients": [
+            "9 New Mexico dry chiles - washed, with stems and seeds removed",
+            "3 cups water",
+            "5 pounds boneless beef chuck roast, trimmed of fat",
+            "½ cup all-purpose flour",
+            "1 tablespoon kosher salt",
+            "1 tablespoon black pepper",
+            "3 tablespoons olive oil",
+            "1 large yellow onion, chopped",
+            "2 cups beef stock, or as needed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Place chiles and 3 cups water into a medium stockpot, and bring to a boil. Remove from heat and steep for 30 minutes to soften.",
+            "Strain into a bowl, reserving the cooking liquid.",
+            "Place chiles and some of the liquid into a blender, and purée until smooth. Add more liquid as necessary to form a smooth sauce.",
+            "Pass sauce through a fine mesh strainer to remove any seeds or tough skins; set aside.",
+            "Cut beef into 1- to 2-inch chunks. Combine flour, salt, and pepper in a medium bowl. Dredge beef chunks in the seasoned flour; set aside.",
+            "Heat olive oil in a large pot over medium heat. Sauté onion until tender and translucent, about 5 minutes.",
+            "Add beef chunks a few at a time, so as not to overcrowd the pot, and cook until evenly brown. Remove seared meat, and continue browning the remaining meat. Return reserved seared meat to the pot.",
+            "Stir in puréed chile mixture. Add beef stock just to cover beef chunks, or to personal preference. Bring to a boil over medium heat. Reduce heat to lowest setting, and simmer for 3 hours, or until meat is tender. If necessary, adjust with more stock during cooking."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Classic, Hearty Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 (2 pound) boneless beef round steak, cut into 1-inch cubes",
+            "kosher salt and cracked black pepper to taste",
+            "¼ cup all-purpose flour",
+            "1 tablespoon smoked paprika",
+            "1 tablespoon canola oil",
+            "3 cups chopped onion",
+            "6 cloves garlic, minced",
+            "4 tablespoons tomato paste",
+            "2 cups dry red wine",
+            "1 tablespoon dried thyme",
+            "1 tablespoon dried rosemary",
+            "1 tablespoon herbes de Provence",
+            "3 bay leaves",
+            "2 cups beef broth, or more as needed",
+            "1 tablespoon Worcestershire sauce",
+            "3 cups chopped carrots",
+            "3 cups cubed Yukon Gold potatoes",
+            "1 cup fresh peas",
+            "1 ½ teaspoons chopped fresh rosemary",
+            "1 teaspoon chopped fresh thyme, or to taste"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C).",
+            "Season beef with salt and pepper in a large bowl. Add flour and paprika and toss until evenly coated.",
+            "Heat oil in a Dutch oven over medium-high heat. Working in batches, sear beef in hot oil, stirring occasionally, until well-browned, 10 to 11 minutes per batch. Transfer beef to a plate and leave drippings in the pot.",
+            "Add onion to drippings; season with salt and pepper. Cook and stir until onion begins to caramelize, about 10 minutes. Add garlic and stir until fragrant, about 30 seconds.",
+            "Stir in tomato paste; cook until it turns brown and begins to caramelize and stick to the bottom of the pan.",
+            "Pour in red wine and bring to a boil while scraping the browned bits of food off the bottom of the pan with a wooden spoon. Cook until wine is almost evaporated, about 3 minutes.",
+            "Add thyme, rosemary, herbes de Provence, and bay leaves. Stir in broth and Worcestershire sauce; bring to a boil.",
+            "Return beef to the pot, then remove from heat and cover with the lid.",
+            "Braise stew in the preheated oven until beef is almost tender, about 1 hour 30 minutes. Remove from the oven.",
+            "Add carrots, potatoes, and more beef broth if needed. Cover the pot and return to the oven to braise until beef and vegetables are tender, about 30 minutes more.",
+            "Discard bay leaves. Stir in peas, rosemary, and thyme. Serve hot."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Puerto Rican Canned Corned Beef Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "1 small potato, peeled and cubed",
+            "2 tablespoons olive oil",
+            "½ cup sweet corn kernels",
+            "2 tablespoons sofrito",
+            "2 cloves garlic",
+            "1 (8 ounce) can tomato sauce",
+            "1 teaspoon dried oregano",
+            "1 large bay leaf",
+            "½ cup water",
+            "1 (12 ounce) can corned beef",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather the ingredients.",
+            "Bring a small pot of water to a boil. Add potato and cook, uncovered, until slightly tender, about 5 minutes. Drain.",
+            "Heat oil in a large skillet or Dutch oven over medium-high heat. Add drained potatoes, corn, sofrito, and garlic; cook and stir until fragrant, 2 to 3 minutes.",
+            "Add tomato sauce, oregano, and bay leaf; cook and stir until flavors combine, 2 to 3 minutes.",
+            "Add water and bring to a boil. Reduce the heat to medium-low and stir in corned beef; cook until heated through, 6 to 8 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Texas Cowboy Stew",
+        "category": "Beef Stews",
+        "ingredients": [
+            "2 pounds ground beef",
+            "2 pounds kielbasa sausage, sliced into 1/2 inch pieces",
+            "1 medium onion, chopped",
+            "2 cloves garlic, chopped",
+            "4 cups water",
+            "2 (15.2 ounce) cans whole kernel corn, with liquid",
+            "2 (15 ounce) cans pinto beans, with liquid",
+            "2 (14.5 ounce) cans peeled and diced tomatoes, drained",
+            "1 (14.5 ounce) can diced tomatoes with green chile peppers, with liquid",
+            "1 (10 ounce) package frozen mixed vegetables",
+            "4 medium baking potatoes, peeled and diced",
+            "2 teaspoons ground cumin",
+            "2 teaspoons chili powder",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Cook ground beef in a large skillet over medium-high heat until crumbly but not yet cooked through, about 5 minutes. Add sausage, onion, and garlic; cook and stir until meat is no longer pink and onion is translucent, 5 to 7 minutes. Drain grease.",
+            "Transfer beef and sausage mixture to a large pot over medium-low heat. Add water, corn, pinto beans, diced tomatoes, diced tomatoes with chile peppers, and mixed vegetables. Stir in potatoes, cumin, chili powder, salt, and pepper.",
+            "Cover and simmer, stirring occasionally, for a minimum of 1 hour; the longer it cooks, the better it gets."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

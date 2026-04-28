@@ -1,0 +1,531 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Boardwalk Quality Maple Walnut Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "3 cups white chocolate chips",
+            "1 (14 ounce) can sweetened condensed milk",
+            "¼ cup butter",
+            "1 teaspoon maple flavored extract",
+            "1 ½ cups broken walnuts"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Grease an 8x8-inch glass baking dish, and line with an 8x12-inch sheet of parchment paper. The ends will hang over the side of the dish.",
+            "Melt white chocolate, sweetened condensed milk, and butter in a microwave-safe glass or ceramic bowl in 30-second intervals, stirring after each melting, for 1 to 3 minutes (depending on your microwave). Do not overheat or chocolate will scorch. Stir in maple flavored extract until just combined, then add walnuts.",
+            "Pour fudge mixture into the prepared baking dish; refrigerate until set, about 1 hour. Remove fudge by lifting the parchment paper, then cut into squares."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Chocolate Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "2 cups white sugar",
+            "½ cup unsweetened cocoa powder",
+            "1 cup whole milk",
+            "4 tablespoons unsalted butter, sliced and softened",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather ingredients.",
+            "Grease an 8-inch square baking pan.",
+            "Place sugar and cocoa powder in a medium saucepan; pour in milk and stir until blended. Set heat to medium-high and stir constantly until mixture comes to a boil.",
+            "Reduce heat to low and place a candy thermometer in the pan. Let the mixture simmer without stirring until the temperature reaches 238 degrees F (114 degrees C) when measured with a candy thermometer, about 10 minutes.",
+            "If you don't have a candy thermometer, drop a small amount of the mixture into cold water; if it forms a soft ball that flattens when removed from the water and placed on a flat surface, it's ready.",
+            "Remove from the heat. Allow to cool to 110 degrees F (43 degrees C), 50 to 70 minutes. Do not disturb fudge as it's cooling.",
+            "Add butter and vanilla to the fudge. Beat with a wooden spoon until well incorporated and fudge loses its sheen; do not under beat.",
+            "Pour fudge into prepared pan and press to flatten. Let cool at room temperature or in the refrigerator before cutting into 1-inch squares.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "2 ½ cups white sugar",
+            "⅔ cup evaporated milk",
+            "¾ cup canned pumpkin",
+            "1 teaspoon ground cinnamon",
+            "1 cup white chocolate chips",
+            "7 ounces marshmallow creme",
+            "2 tablespoons butter, room temperature",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Line a 9-inch square pan with aluminum foil; spray with cooking spray.",
+            "Combine sugar and milk together in a 3-quart saucepan over medium heat, stirring occasionally with a wooden spoon: attach a candy thermometer to the saucepan and bring mixture to a boil. Mix in pumpkin pureé and cinnamon; bring back to a boil. Cook, stirring constantly, until the mixture reaches 238 degrees F (114 degrees C), about 18 minutes. Cool slightly, 5 minutes.",
+            "Pour white chocolate chips into a large bowl: pour fudge mixture over top. Let stand until white chocolate softens, 5 minutes. Stir until smooth. Mix in marshmallow creme, butter, and vanilla until butter is melted and mixture is smooth.",
+            "Pour into prepared pan. Cool. Cut into squares. Store in a cool, dry place."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Million Dollar Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "4 ½ cups white sugar",
+            "1 pinch salt",
+            "2 tablespoons butter",
+            "1 (12 fluid ounce) can evaporated milk",
+            "2 cups chopped nuts",
+            "1 (12 ounce) package semisweet chocolate chips",
+            "12 (1 ounce) squares German sweet chocolate",
+            "2 cups marshmallow creme"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Butter or line two 9-inch square baking pans with foil; set aside.",
+            "Place chocolate chips, German chocolate, marshmallow creme, and nuts into a large mixing bowl; set aside.",
+            "Combine sugar, salt, butter, and evaporated milk in a 4 quart saucepan; stir over low heat until sugar has dissolved completely and no granules are visible. Bring to a boil, and cook for 6 minutes.",
+            "Pour hot fudge over ingredients in the mixing bowl, beat until all of the chocolate has melted. Pour into prepared pans. Let fudge cool before cutting, about 3 to 5 hours."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Toll House Famous Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "1 ½ cups white sugar",
+            "⅔ cup Nestle Carnation evaporated milk",
+            "2 tablespoons unsalted butter or margarine",
+            "¼ teaspoon salt",
+            "2 cups miniature marshmallows",
+            "1 ½ cups Nestle Toll House semisweet chocolate morsels",
+            "½ cup chopped pecans (Optional)",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Line an 8-inch-square baking pan with aluminum foil.",
+            "Combine sugar, evaporated milk, butter, and salt in a medium, heavy-duty saucepan over medium heat; bring to a full rolling boil, stirring constantly. Boil, stirring constantly, 4 to 5 minutes. Remove from heat.",
+            "Stir in marshmallows, chocolate morsels, pecans, and vanilla extract, stirring vigorously until marshmallows melted, about 1 minute. Pour into prepared baking pan; refrigerate until firm, about 2 hours. Lift from pan; remove foil. Cut into pieces."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Orange Cream Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "3 cups white sugar",
+            "⅔ cup heavy cream",
+            "¾ cup butter",
+            "1 (7 ounce) jar marshmallow creme",
+            "1 (11 ounce) package white chocolate chips",
+            "3 teaspoons orange extract",
+            "12 drops yellow food coloring",
+            "9 drops red food coloring"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Grease a 9 x 13 inch pan.",
+            "In a medium saucepan over medium heat, combine sugar, cream and butter. Heat to soft ball stage, 234 degrees F (112 degrees C). Remove from heat and stir in marshmallow creme and white chocolate chips; mix well until the chips melt. Reserve 1 cup of mixture and set aside.",
+            "To the remaining mixture add orange flavoring, yellow and red food coloring. Stir well and pour into prepared pan. Pour reserved cream mixture on top. Using a knife, swirl layers for decorative effect.",
+            "Chill for 2 hours, or until firm, and cut into squares."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Foolproof Chocolate Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "3 cups semi-sweet chocolate chips",
+            "1 (14 ounce) can EAGLE BRAND® Sweetened Condensed Milk",
+            "1 dash Dash salt",
+            "¾ cup chopped nuts",
+            "1 ½ teaspoons vanilla extract"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "In heavy saucepan, over low heat, melt chocolate chips with sweetened condensed milk and salt. Remove from heat; stir in nuts (optional) and vanilla.",
+            "Spread evenly into wax-paper-lined 8- or 9-inch square pan. Chill 2 hours or until firm.",
+            "Life fudge out of pan and place onto cutting board; peel off paper and cut into squares. Store covered in refrigerator."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Walnut Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "½ cup butter",
+            "1 cup semisweet chocolate chips",
+            "1 teaspoon vanilla extract",
+            "2 cups white sugar",
+            "5 ounces evaporated milk",
+            "10 large marshmallows",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Butter an 8x8 inch dish.",
+            "Place butter, chocolate chips and vanilla in a mixing bowl. Set aside.",
+            "In a medium saucepan over medium heat, combine sugar, milk and marshmallows. Bring to a boil, stirring frequently. Reduce heat to low and cook 6 minutes more, stirring constantly. Remove from heat.",
+            "Pour marshmallow mixture over contents of mixing bowl. Beat entire mixture until it thickens and loses its gloss. Quickly fold in nuts and pour into prepared pan. Refrigerate several hours until firm."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Layered Mint Chocolate Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "2 cups semi-sweet chocolate chips",
+            "1 (14 ounce) can EAGLE BRAND® Sweetened Condensed Milk, divided",
+            "2 teaspoons vanilla extract",
+            "6 ounces white confectioners coating* or premium white chocolate chips",
+            "1 tablespoon peppermint extract",
+            "1 drop green or red food coloring"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "In heavy saucepan, over low heat, melt chocolate chips with 1 cup sweetened condensed milk; add vanilla. Spread half the mixture into wax-paper-lined 8- or 9-inch square pan; chill 10 minutes or until firm. Hold remaining chocolate mixture at room temperature.",
+            "In heavy saucepan, over low heat, melt white confectioners coating with remaining sweetened condensed milk (mixture will be thick). Add peppermint extract and food coloring (optional).",
+            "Spread on chilled chocolate layer; chill 10 minutes longer or until firm.",
+            "Spread reserved chocolate mixture on mint layer. Chill 2 hours or until firm. Turn onto cutting board; peel off paper and cut into squares. Store leftovers covered in refrigerator."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Never-Never Ever-Ever Fail Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "⅔ cup evaporated milk",
+            "1 ⅔ cups white sugar",
+            "½ teaspoon salt",
+            "16 large marshmallows",
+            "1 cup semisweet chocolate chips",
+            "1 teaspoon vanilla extract",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "In a medium saucepan over medium heat, combine evaporated milk, sugar and salt. Bring to a boil, then remove from heat and stir in marshmallows, chocolate chips, vanilla and nuts until marshmallows are melted. Pour into an 8x8 inch dish. Let cool completely before cutting into squares."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gaye's Microwave Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "4 cups confectioners' sugar",
+            "½ cup unsweetened cocoa powder",
+            "½ cup butter",
+            "¼ cup milk",
+            "2 teaspoons vanilla extract"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Grease a 9x9-inch dish. Stir confectioners' sugar and cocoa together in a microwave-safe bowl; add butter and pour in milk but do not mix.",
+            "Microwave until butter is melted, about 2 minutes. Stir in vanilla, mixing vigorously until smooth. Pour into the prepared dish.",
+            "Chill in the freezer for 10 minutes before cutting into squares."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Peanut Butter Swirl Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "2 cups peanut butter chips",
+            "1 (14 ounce) can EAGLE BRAND® Sweetened Condensed Milk",
+            "2 tablespoons butter or margarine",
+            "Dash salt",
+            "1 teaspoon vanilla extract",
+            "¼ cup semi-sweet chocolate chips"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "In heavy saucepan, over low heat, melt peanut butter chips with 1 cup EAGLE BRAND®, butter and salt.",
+            "In small saucepan, over low heat, melt chocolate chips with remaining EAGLE BRAND®. Remove from heat; add vanilla extract. Stir until smooth.",
+            "Spread peanut butter mixture evenly into waxed paper lined 8- or 9-inch square pan. Spoon chocolate mixture over peanut mixture. With table knife or metal spatula, swirl through top of fudge. Chill 3 hours or until firm. Turn fudge onto cutting board; peel off paper and cut into squares. Store leftovers covered in refrigerator."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Never-Fail Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "4 cups confectioners' sugar",
+            "½ cup unsweetened cocoa powder",
+            "6 tablespoons butter",
+            "¼ cup milk",
+            "1 tablespoon vanilla extract",
+            "¼ teaspoon salt",
+            "1 cup chopped pecans"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Butter a 9x9 inch dish.",
+            "Combine sugar, cocoa, butter, milk, vanilla and salt in the top of a double boiler over simmering water. Cook, stirring, until smooth. Remove from heat and beat until mixture loses its gloss. Stir in chopped nuts and pour quickly into prepared pan.",
+            "Let cool completely before cutting into squares."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Peanut Butter Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "3 cups white sugar",
+            "1 cup evaporated milk",
+            "¼ cup cocoa",
+            "½ cup peanut butter",
+            "1 tablespoon margarine",
+            "1 tablespoon butter"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Butter one 9x9 inch pan.",
+            "Combine the sugar, evaporated milk and cocoa in saucepan. Stir over high heat until mixture comes to a rolling boil. Lower heat to medium and continue cooking to a soft ball stage.",
+            "Remove from heat, add peanut butter and margarine. Beat by hand until creamy; pour into prepared pan. Allow to cool and cut into squares."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Eggnog Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "2 cups white sugar",
+            "¾ cup unsalted butter",
+            "⅔ cup eggnog",
+            "2 teaspoons ground nutmeg",
+            "1 teaspoon ground cinnamon",
+            "12 ounces white chocolate, chopped",
+            "1 (7 ounce) jar marshmallow cream",
+            "¼ cup chopped walnuts",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Grease a 9-inch square pan and set aside.",
+            "Combine sugar, butter, eggnog, nutmeg, and cinnamon in a large saucepan; attach a candy thermometer to the pan. Bring to a boil, stirring occasionally to melt the butter.",
+            "Cook, without stirring, until mixture reaches 235 degrees F (113 degrees C), 6 to 10 minutes, or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed onto a flat surface.",
+            "Remove from the heat and stir in white chocolate, marshmallow cream, walnuts, and vanilla. Beat mixture with a wooden spoon until fluffy and the glossy surface starts to dull. Spoon mixture into the prepared pan and spread in an even layer. Let cool completely, 2 to 3 hours, before cutting into 64 squares for serving."
+        ],
+        "healthiness_score": 36,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "German Chocolate Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "2 cups semisweet chocolate chips",
+            "12 (1 ounce) squares German sweet chocolate",
+            "1 (7 ounce) jar marshmallow creme",
+            "4 ½ cups white sugar",
+            "2 tablespoons butter",
+            "1 (12 fluid ounce) can evaporated milk",
+            "⅛ teaspoon salt",
+            "2 cups chopped pecans"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Combine chocolate chips, German sweet chocolate and marshmallow creme in large bowl.",
+            "Combine sugar, butter, evaporated milk and salt in heavy skillet. Bring to a boil over medium heat. Cook for 6 minutes, stirring constantly.",
+            "Pour hot syrup over chocolate mixture. Stir with wooden spoon until smooth. Stir in pecans.",
+            "Spread into buttered 10x15 inch pan. Let stand until firm; cut into squares."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "½ cup unsweetened cocoa powder",
+            "2 cups white sugar",
+            "¼ teaspoon salt",
+            "1 tablespoon light corn syrup",
+            "1 cup milk",
+            "1 tablespoon vanilla extract",
+            "2 tablespoons butter"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "In a medium saucepan, stir together cocoa powder, sugar, and salt. Mix in corn syrup and milk until well blended. Add butter, and heat to between 235 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from water and placed on a flat surface. Occasionally stir.",
+            "Remove from heat, and beat with a wooden spoon until mixture is thick and loses its gloss. Stir in vanilla, and pour into a buttered 9x9-inch baking dish. Let cool until set. Cut into small squares to serve."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Low-Fat Chocolate Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "1 ½ cups semi-sweet chocolate chips",
+            "⅔ cup low-fat sweetened condensed milk",
+            "¾ teaspoon vanilla extract",
+            "1 pinch salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine chocolate chips and condensed milk in a medium saucepan over medium-low heat; stir gently until chips are melted. Stir in vanilla and salt, then pour mixture into an ungreased 10-inch square pan.",
+            "Place in the refrigerator and chill until set, about 3 hours.",
+            "Cut chilled fudge into 25 squares."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Dark Chocolate Peppermint Fudge Recipe",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "3 cups semisweet chocolate chips (such as Hershey's® Special Dark)",
+            "1 (14 ounce) can sweetened condensed milk",
+            "¼ cup butter",
+            "1 ½ teaspoons pure peppermint extract",
+            "1 pinch salt",
+            "½ cup crushed peppermint candies, or more to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine chocolate chips, sweetened condensed milk, butter, peppermint extract, and salt in a large microwave-safe bowl.",
+            "Heat in the microwave on medium-high until chips are melted, 5 to 6 minutes, stirring every 2 minutes.",
+            "Pour chocolate mixture into an 8x8-inch silicone baking dish; top with crushed peppermint candies. Lightly press candies, using the back of a spoon, into chocolate mixture. Refrigerate until set, 1 hour."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "3-Minute Fudge",
+        "category": "Chocolate Fudge",
+        "ingredients": [
+            "1 cup sweetened condensed milk",
+            "1 (12 ounce) bag semisweet chocolate chips",
+            "1 (1 ounce) square semisweet baking chocolate, chopped"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Grease an 8x8-inch square baking dish with butter.",
+            "Place sweetened condensed milk, chocolate chips, and baking chocolate in a microwave-safe dish; cook in microwave on low power until chocolate has melted, about 3 minutes. Beat with an electric mixer until smooth, about 1 minute.",
+            "Pour fudge into the prepared baking dish; let stand until set, 3 to 4 hours. Cut into squares to serve."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

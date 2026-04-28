@@ -1,0 +1,596 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Fried Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "12 small chicken wings",
+            "¼ teaspoon seasoned salt, or to taste",
+            "1 cup all-purpose flour",
+            "1 teaspoon coarse salt",
+            "½ teaspoon ground black pepper",
+            "¼ teaspoon cayenne pepper",
+            "¼ teaspoon ground paprika",
+            "2 quarts vegetable oil for frying",
+            "1 (12 fluid ounce) bottle Buffalo wing sauce (such as Frank's), or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Season chicken wings lightly with seasoned salt.",
+            "Mix flour, salt, black pepper, cayenne pepper, and paprika together in a wide, shallow bowl. Press wings into flour mixture to coat and arrange in a single layer on a large plate. Refrigerate coated wings for 15 to 30 minutes.",
+            "Dredge wings again in flour mixture and return to the plate. Refrigerate wings once more for 15 to 30 minutes.",
+            "Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Fry chicken wings in hot oil until crisp and juices run clear, 10 to 12 minutes. An instant-read thermometer inserted into the thickest part of the meat, near the bone, should read 165 degrees F (74 degrees C).",
+            "Transfer fried wings to a large bowl. Drizzle sauce over wings and toss to coat.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Restaurant-Style Buffalo Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "½ cup all-purpose flour",
+            "¼ teaspoon ground paprika",
+            "¼ teaspoon cayenne pepper",
+            "¼ teaspoon salt",
+            "10 chicken wings",
+            "2 cups vegetable oil for frying, or as needed",
+            "¼ cup butter",
+            "¼ cup hot sauce",
+            "1 pinch ground black pepper",
+            "1 pinch garlic powder"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Whisk together flour, paprika, cayenne pepper, and salt in a large bowl.",
+            "Place chicken wings in the bowl with flour mixture and toss until evenly coated. Transfer wings to a 9x13-inch glass baking dish and arrange in a single layer. Cover and refrigerate for 1 to 1 1/2 hours.",
+            "Add about 1 inch oil to a deep, heavy skillet; heat to 375 degrees F (190 degrees C). (The oil should be just enough to cover wings entirely.)",
+            "Meanwhile, combine butter, hot sauce, pepper, and garlic powder in a separate small saucepan over low heat. Cook and stir until butter is melted and mixture is thoroughly blended. Remove from the heat and reserve for serving.",
+            "Fry coated wings in the hot oil for 10 to 15 minutes, or until they begin to crisp and turn brown. Maintain the oil temperature while cooking. Remove cooked wings from hot oil and let drain on paper towels or a wire rack.",
+            "Transfer wings to a platter and drizzle hot sauce over top; or mix wings and hot sauce in a bowl until coated."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked Buffalo Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "cooking spray",
+            "¾ cup all-purpose flour",
+            "½ teaspoon cayenne pepper",
+            "½ teaspoon garlic powder",
+            "½ teaspoon salt",
+            "20 chicken wings",
+            "½ cup melted butter",
+            "½ cup hot pepper sauce (such as Frank's RedHot)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Line a baking sheet with aluminum foil, and lightly grease with cooking spray.",
+            "Place flour, cayenne pepper, garlic powder, and salt into a resealable plastic bag, and shake to mix. Add chicken wings, seal the bag, and toss until well coated with the flour mixture.",
+            "Transfer wings to the prepared baking sheet and refrigerate for at least 1 hour.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "While the oven is preheating, whisk together melted butter and hot sauce in a small bowl.",
+            "Dip wings into butter mixture, and place back on the baking sheet.",
+            "Bake in the preheated oven for 20 minutes. Flip wings and continue to cook until crispy on the outside and no longer pink in the center, about 25 more minutes."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dry Rub Air Fryer Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "1 tablespoon dark brown sugar",
+            "1 tablespoon sweet paprika",
+            "½ tablespoon kosher salt, or to taste",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1 teaspoon poultry seasoning, or to taste",
+            "½ teaspoon mustard powder",
+            "½ teaspoon freshly ground black pepper",
+            "8 chicken wings, or more as needed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the air fryer to 350 degrees F (175 degrees C).",
+            "Meanwhile, whisk brown sugar, paprika, salt, garlic powder, onion powder, poultry seasoning, mustard powder, and pepper together in a large bowl.",
+            "Toss in chicken wings and rub seasonings into chicken with your hands until fully coated.",
+            "Arrange wings in the air fryer basket, standing them up on their ends and leaning against each other and the wall of the basket.",
+            "Cook in the preheated air fryer until wings are cooked through, tender inside and golden brown and crisp on the outside, about 30 to 35 minutes. Transfer wings to a plate and serve hot."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Wings I",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "1 quart vegetable oil for deep frying",
+            "24 chicken wings, tips removed and wings cut in half at joint",
+            "4 tablespoons butter",
+            "1 tablespoon distilled white vinegar",
+            "5 tablespoons hot pepper sauce",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat the oil in a large skillet or deep fryer to 375 degrees F (190 degrees C). Deep fry chicken wings in oil until done, about 10 minutes. Remove chicken from skillet or deep fryer and drain on paper towels.",
+            "Melt the butter in a large skillet. Stir in the, vinegar and hot pepper sauce. Season with salt and pepper to taste. Add cooked chicken to sauce and stir over low heat to coat. The longer the wings simmer in the sauce, the hotter they will be. Serve warm."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Restaurant-Style Buffalo Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "¾ cup all-purpose flour",
+            "1 tablespoon salt",
+            "1 tablespoon ground black pepper",
+            "1 tablespoon garlic powder",
+            "12 skinless chicken wings",
+            "1 quart vegetable oil for frying",
+            "¾ cup hot pepper sauce (such as Frank's RedHot)",
+            "1 tablespoon unsalted butter"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Mix flour, salt, pepper, and garlic powder together in a 1-gallon resealable bag. Add wings. Seal bag and turn evenly to coat chicken.",
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Remove wings from bag and shake off any excess coating. Fry, in batches if necessary, until no longer pink in the center, about 7 minutes. Remove wings with a slotted spoon and drain on a paper towel-lined plate.",
+            "Combine hot sauce and butter in a saucepan over medium heat. Cook until heated through, about 5 minutes. Coat wings with sauce and serve."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Original Buffalo Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "4 pounds chicken wings",
+            "salt and pepper to taste",
+            "4 cups vegetable oil",
+            "¼ cup butter",
+            "2 teaspoons hot pepper sauce",
+            "1 teaspoon distilled white vinegar"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat oil in a deep-fat fryer or large heavy pot to 375 degrees F (190 degrees C).",
+            "Cut off tips, and separate each wing at the joint. Sprinkle with salt and pepper.",
+            "Place half of the wings in the deep fryer. When the wings are golden brown and crisp, remove them and drain well. Salt wings to taste. Add remaining wings and repeat frying process. Once wings have drained a bit, place them in a large mixing bowl.",
+            "Melt butter or margarine in a small saucepan. Mix in hot sauce and vinegar. Pour melted sauce over the cooked wings, and mix to coat the wings with sauce."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Jeri's Spicy Buffalo Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "2 pounds chicken wings",
+            "3 tablespoons apple cider vinegar",
+            "1 teaspoon garlic salt",
+            "1 teaspoon paprika",
+            "1 teaspoon crushed red pepper flakes",
+            "½ teaspoon onion salt",
+            "½ teaspoon ground black pepper",
+            "½ cup all-purpose flour",
+            "1 cup shortening"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Toss chicken wings in a large bowl with apple cider vinegar, garlic salt, paprika, red pepper flakes, onion salt, and black pepper to coat; cover the bowl with plastic wrap and marinate in the refrigerator for 1 to 4 hours.",
+            "Scatter flour over chicken wings; toss to coat. Discard any remaining marinade.",
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Heat shortening in a large skillet over medium-high heat; fry chicken in hot shortening until golden, 5 to 7 minutes per side. Transfer fried chicken to a baking sheet.",
+            "Bake chicken in the preheated oven until no longer pink at the bone and the juices run clear, about 20 minutes. Remove chicken to a paper towel-lined platter to drain.",
+            "Make sauce: Melt butter in a large skillet over medium heat. Cook garlic in melted butter until translucent, about 2 minutes. Stir hot sauce into butter-garlic mixture; reduce heat to low and simmer for 5 minutes. Transfer sauce to a large bowl.",
+            "Working in batches, add chicken to sauce in the bowl and turn to coat. Drizzle any remaining sauce over wings to serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Restaurant Style Buffalo Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "2 tablespoons ground paprika",
+            "1 tablespoon ground black pepper",
+            "1 tablespoon chili powder",
+            "1 tablespoon seasoned salt",
+            "2 teaspoons cayenne pepper",
+            "1 ½ teaspoons onion powder",
+            "1 ½ teaspoons garlic powder",
+            "1 teaspoon ground white pepper",
+            "1 teaspoon mustard powder"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Make seasoning mix: Combine paprika, black pepper, chili powder, seasoned salt, cayenne pepper, onion powder, garlic powder, white pepper, and mustard powder in a bowl. Mix well.",
+            "Cook chicken: Heat 2 inches vegetable oil and peanut oil in a deep cast iron pot or heavy pot over medium heat to 300 degrees F (150 degrees C). Dry chicken wings thoroughly with a paper towel.",
+            "Fry chicken in 2 batches in hot oil, 4 to 5 minutes. Drain on a paper towel-lined plate.",
+            "Increase oil temperature to 350 degrees F (175 degrees C). Fry chicken in 2 batches in hot oil until skin is crispy and golden brown and meat is no longer pink in the center, 5 to 6 minutes. Drain on a paper towel-lined plate; transfer to a large bowl.",
+            "Sprinkle seasoning mix over chicken and toss to evenly coat."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "20 chicken wings, split and tips discarded",
+            "½ cup butter, melted",
+            "½ cup red pepper sauce",
+            "¾ cup tomato sauce",
+            "1 ½ tablespoons chili powder",
+            "1 teaspoon cayenne pepper"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bake wings in the preheated oven for 30 minutes or until cooked through and crispy.",
+            "Meanwhile, in a small bowl combine melted butter, red pepper sauce, tomato sauce, chili powder, and cayenne pepper. Mix together.",
+            "When wings are baked, dip in sauce to coat well, then shake off excess and return coated wings to baking sheet. Reduce the oven temperature to 250 degrees F (120 degrees C) and bake for another 15 minutes to set sauce."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Healthier Restaurant-Style Buffalo Chicken Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "½ cup all-purpose flour",
+            "¼ teaspoon paprika",
+            "¼ teaspoon cayenne pepper",
+            "¼ teaspoon salt",
+            "10 chicken wings",
+            "2 tablespoons butter",
+            "¼ cup hot sauce",
+            "1 clove garlic, minced",
+            "1 dash ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Mix together flour, paprika, cayenne pepper, and salt in a small bowl. Place chicken wings in a large dish and sprinkle flour mixture over them until well coated. Place on baking sheet and refrigerate for 1 hour, uncovered.",
+            "Preheat oven to 400 degrees F (204 degrees C).",
+            "Bake wings in preheated oven until no longer pink at the bone and juices run clear, about 15 minutes per side.",
+            "Combine butter, hot sauce, pepper, and garlic in a small saucepan over low heat. Cook and stir until butter is melted and mixture is well blended, about 3 minutes. Place chicken wings in serving bowl and add hot sauce mixture, mixing well."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Wings in a Jar",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "1 ½ pounds bone-in, skin-on chicken thighs",
+            "1 teaspoon salt",
+            "¼ cup unsalted butter",
+            "¼ cup Louisiana-style hot sauce",
+            "3 tablespoons water",
+            "⅓ cup finely chopped celery",
+            "1 pinch cayenne pepper, or to taste (Optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Heat a dry saucepan over high heat. Place thighs skin-side down in the hot pan and cook until skin is browned, seasoning generously with salt, about 5 minutes. Turn thighs over once skin no longer sticks to the pan. Add butter, Louisiana hot sauce, and water. Toss thighs around to stir the sauce until butter is melted.",
+            "Reduce heat to low, cover, and simmer until meat can be easily pulled from the bone, about 1 1/2 hours. Remove from heat and break meat up into smaller pieces using tongs, stirring it into the sauce. Let mixture cool to room temperature, at least 20 minutes.",
+            "Transfer meat to a mixing bowl, shredding it into smaller pieces. Discard bones, cartilage, and skin.",
+            "Bring the sauce in the pan to a boil over medium-high heat. Let reduce until slightly thickened, about 2 minutes. Pour sauce into the bowl of chicken meat and mix thoroughly. Taste for seasoning; add salt, cayenne, and hot sauce as needed. Add celery and mix one last time.",
+            "Pack chicken mixture into a pint-sized jar or crock, and top with a spoonful of hot sauce if desired, and seal jar. Refrigerate until ready to serve. Remove from fridge 30 minutes before service to allow spread to warm up a bit.",
+            "Preheat the oven to 350 degrees F (175 degrees C) in the meantime. Arrange baguette slices on a baking sheet. Brush tops generously with butter.",
+            "Bake in the preheated oven until edges start to turn golden brown, about 20 minutes.",
+            "Meanwhile, smear butter and blue cheese together in a small bowl until combined.",
+            "Remove toasted baguette slices and let cool slightly, leaving the oven on. Spread blue cheese spread on top, then continue baking crostini until golden brown and crispy, 10 to 12 minutes. Serve with the Buffalo chicken spread."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Buffalo Chicken Wings from Frozen",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "1 pound frozen, ready-to-cook chicken wings",
+            "½ (8 ounce) bottle Buffalo wing sauce"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Place wings in the air fryer basket.",
+            "Cook wings for 15 minutes, turn, and cook for 15 more minutes. Meanwhile, place wing sauce in a small saucepan and heat on low heat.",
+            "Flip wings one more time and cook until crispy, about 6 more minutes.",
+            "Transfer wings to a large bowl and pour warmed Buffalo wing sauce over the top. Toss and serve immediately."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Thai Buffalo Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "15 chicken wings",
+            "½ cup all-purpose flour",
+            "oil for deep frying",
+            "¼ cup butter",
+            "¼ cup hot pepper sauce (such as Frank's RedHot®)",
+            "1 tablespoon chile-garlic sauce (such as Sriracha®)",
+            "½ teaspoon Thai red chile paste",
+            "2 tablespoons Asian sweet chile sauce (such as Mae Ploy® Sweet Chilli Sauce)",
+            "2 tablespoons honey"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Toss chicken wings with the flour in a large non-porous bowl to evenly coat. Cover the bowl with plastic wrap and refrigerate 60 to 90 minutes.",
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Combine butter, hot pepper sauce, chile-garlic sauce, Thai red chile paste, Asian sweet chile sauce, and honey in a small saucepan over low heat. Heat, stirring occasionally, until the butter is melted completely and the sauce is well blended, about 5 minutes; set aside.",
+            "Fry the chicken wings in the hot oil until they become golden brown and are no longer pink in the middle, 10 to 15 minutes. Remove the chicken wings to a serving bowl.",
+            "Pour the sauce over the chicken wings; stir to coat."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Home-Style Buffalo Wings",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "½ pound chicken wings, split and tips discarded",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "½ cup butter",
+            "¾ cup red hot sauce",
+            "¼ cup brown sugar (Optional)",
+            "2 teaspoons onion powder",
+            "2 teaspoons garlic powder",
+            "1 teaspoon cayenne pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add chicken wings, put lid on steamer, and steam wings until no longer pink at the bone and the juices run clear, about 10 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Spread chicken wings onto a platter to cool; pat dry with paper towel. Spread wings onto a rimmed baking sheet; season with salt and pepper.",
+            "Bake wings in preheated oven for 20 minutes, flip, and continue to bake until crispy, about 20 minutes more.",
+            "Melt butter in a saucepan over low heat. Stir hot sauce, brown sugar, onion powder, garlic powder, and cayenne pepper into the melted butter; cook, stirring occasionally, until the seasonings dissolve into the liquid and the mixture is hot, about 5 minutes.",
+            "Put wings in a large bowl; pour sauce over wings and toss to coat."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Crockpot Buffalo Chicken Mac N Cheese",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "2 pounds boneless chicken breasts",
+            "1 packet ranch seasoning",
+            "3 cups chicken bone broth",
+            "1 cup Buffalo sauce",
+            "1 14.5 ounce) package high protein pasta,",
+            "4 ounces cream cheese",
+            "2/3 cup cottage cheese",
+            "2 cups shredded Cheddar cheese",
+            "3 green onions"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place chicken breasts in the bottom of a slow cooker. Sprinkle with ranch seasoning; pour in chicken bone broth and Buffalo sauce.",
+            "Cover and cook until chicken is cooked through and tender, on High for 2 1/2 hours, or Low for 4 to 5 hours.",
+            "Remove chicken and chop, then return to the slow cooker. Set slow cooker to High.",
+            "Add uncooked pasta, cream cheese, cottage cheese, and 1 1/2 cups Cheddar cheese. Stir to combine and cover.",
+            "Cook on High until pasta is tender with a bite and creamy, about 30 minutes. Stir and top with remaining cheese. Cover and let stand for 10 minutes before serving.",
+            "Sprinkle with green onions and drizzle with more Buffalo sauce."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Calzones",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "1 cup rotisserie chicken breast",
+            "1 cup sharp Cheddar cheese",
+            "1/2 cup frozen peas and carrots",
+            "1/2 cup canned condensed cream of onion soup",
+            "3 tablespoons cayenne pepper hot sauce (",
+            "2 tablespoons green onion",
+            "1 large egg",
+            "1 tablespoon water",
+            "1 (14.1-ounce) package pie dough (2 crusts)",
+            "blue cheese dressing,",
+            "celery leaves, for garnish"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a large rimmed baking sheet with parchment paper.",
+            "Stir together chicken, cheese, frozen vegetables, condensed soup, hot sauce, and green onion for the filling in a bowl.",
+            "Whisk together egg and water in a small bowl for the egg wash.",
+            "On a lightly floured surface, roll each pie crust into a 12-inch circle. Spread half of the filling over half of one of the pie crusts, leaving a 1-inch border. Brush edges with egg wash. Fold dough over filling and crimp edges using fork tines. Carefully transfer to the prepared baking sheet. Repeat with remaining crust and filling.",
+            "Brush tops of calzones with egg wash; cut 3 (1/2-inch-long) slits on top of each to vent.",
+            "Bake in the preheated oven until slightly puffed and golden brown, 20 to 25 minutes. Cool on a wire rack for 5 minutes before serving.",
+            "Serve with blue cheese dressing, celery, and/or carrots. Garnish with celery leaves."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Cheesecake Factory Buffalo Blasts",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "2 cups cooked chicken",
+            "1 1/2 cups shredded mozzarella cheese",
+            "1/3 cup Buffalo wing sauce",
+            "2 large eggs",
+            "1 tablespoons water",
+            "1 1/2 cups all-purpose flour",
+            "2 teaspoons kosher salt",
+            "24 wonton wrappers",
+            "3 cups canola oil",
+            "celery sticks, extra Buffalo sauce, and blue cheese dressing for dipping"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine chicken, cheese, and wing sauce in a bowl and mix well. Set aside.",
+            "Whisk eggs and water together in a shallow dish. Whisk flour and salt together in a separate shallow dish.",
+            "Working with one wonton wrapper at a time, place 1 to 2 teaspoons chicken filling in the center of the wrapper. Dip finger or brush in egg and brush lightly around the edges of the wrapper.",
+            "Fold the wrapper over the filling in a half triangle shape, pressing to seal the edges. Set aside and repeat with remaining filling and wrappers. Do not discard egg mixture.",
+            "Preheat oil to 350 degrees F (180 degrees C) in a deep saucepan over medium to medium-high heat. Lightly dredge stuffed wonton in flour mixture, then dip in egg mixture and let excess drip off. Coat again lightly in flour, dip in egg and lightly coat in flour once more, creating a double breading.",
+            "Working in batches, fry stuffed wontons for 2 minutes, flipping occasionally, until golden brown and flaky. Drain on a paper towel-lined plate. Repeat with remaining pieces. Serve immediately with extra Buffalo sauce, blue cheese dressing, and celery.",
+            "Alternatively, drain on a rimmed baking sheet lined with a wire rack and keep warm in an oven preheated to 200 degrees F (93 degrees C) until ready to serve."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Pizza Rolls",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "1/2 cup cooked chicken",
+            "2 ounces low-moisture part-skim mozzarella cheese",
+            "2 1/2 tablespoons Buffalo-style hot sauce (such as Frank's® RedHot)",
+            "1 (13.8 ounce) can pizza crust dough",
+            "cooking spray",
+            "2 tablespoons unsalted butter,",
+            "1 teaspoon ranch dressing mix",
+            "ranch dressing or blue cheese dressing, for serving"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir chicken, mozzarella, and hot sauce together in a small bowl until well combined; set aside.",
+            "Roll out dough on a lightly floured surface to a 6x20-inch rectangle using a rolling pin. Cut dough into 8 3x5-inch rectangles.",
+            "Brush edges of dough lightly with water. Place 1 tablespoon chicken mixture in the center of each rectangle. Roll dough over filling to form a 3 1/2x1 1/2-inch log. Pinch sides to seal. Transfer to a parchment-lined baking sheet.",
+            "Preheat an air fryer to 400 degrees F (200 degrees C) for 2 minutes. Lightly coat the air fryer basket with cooking spray. Working in batches, place pizza rolls around edges of air fryer basket in 1 layer, and cook until golden brown, about 7 minutes.",
+            "While pizza rolls are cooking, stir together melted butter and ranch dressing mix in a small bowl. Brush cooked pizza rolls with seasoned butter. Serve with ranch dressing, if desired."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Buffalo Chicken Salad",
+        "category": "Buffalo Chicken Wings",
+        "ingredients": [
+            "2 boneless chicken breasts",
+            "2 tablespoons Cajun seasoning",
+            "1/4 cup grapeseed oil",
+            "1/3 cup ranch dressing",
+            "1/3 cup hot sauce",
+            "8 cups lettuce",
+            "1 cup cherry tomatoes, halved",
+            "1/2 cucumber, sliced",
+            "1/2 cup shredded carrots",
+            "1/2 cup blue cheese",
+            "salad dressing"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet.",
+            "Season chicken with 1 tablespoon Cajun seasoning. Heat oil in a cast iron skillet over medium-high heat. Add chicken to the hot oil, without crowding, and cook, turning once, until no longer pink at the center and juices run clear, about 6 minutes per side. An instant-read thermometer inserted near the center will read 165 degrees F (74 degrees C). Remove chicken from pan to a plate to cool, about 10 minutes.",
+            "Stir ranch dressing, hot sauce, and remaining 1 tablespoon Cajun seasoning together in a large bowl.",
+            "Cut chicken into bite-sized pieces; add to bowl with sauce mixture and toss well. Place chicken on the prepared baking sheet.",
+            "Bake in the preheated oven until just beginning to get crisp, 5 to 10 minutes; remove to cool, about 10 minutes.",
+            "Combine green leafy lettuce, tomatoes, cucumbers, and carrots in a salad bowl. Add Buffalo chicken and blue cheese crumbles. Serve with your favorite dressing."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

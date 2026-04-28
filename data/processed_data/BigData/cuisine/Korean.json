@@ -1,0 +1,608 @@
+[
+    {
+        "Main_category": "cuisine"
+    },
+    {
+        "recipe_title": "Quick 2-Ingredient Nutella Hotteok (Korean Sweet Pancakes)",
+        "category": "Korean",
+        "ingredients": [
+            "1 (16.3 ounce) can refrigerated biscuits",
+            "1/2 cup nutella",
+            "2 tablespoons neutral oil"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Flatten each biscuit into a 4 inch circle. Place 1 tablespoon filling in the center of each biscuit. Wrap dough around the filling into a ball and crimp the dough to seal it tightly. Flatten the filled ball of dough into a patty shape.",
+            "Heat a non stick skillet over medium-low heat. Add 2 teaspoon of oil and, working with 2 to 3 at a time, place the filled dough, seam side down into the skillet. Place lid on skillet and cook until the bottom side is golden brown and toasted, 3 to 4 minutes. Flip the pastries and cook until golden on both sides and the dough along the outside is cooked, an additional 3 to 4 minutes.",
+            "Repeat with the remaining filled pastries and oil."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Korean Banana Milk",
+        "category": "Korean",
+        "ingredients": [
+            "1 banana",
+            "1/2 cup whole milk",
+            "1/2 cup water",
+            "1 maple syrup",
+            "1 teaspoon vanilla",
+            "4 to 5 ice cubes (optional)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine banana, milk, water, maple syrup and vanilla in the blender cup. Blend until smooth.",
+            "Place ice cubes in glass (if using). Pour banana milk on top."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gochujang Fried Rice",
+        "category": "Korean",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "2 teaspoons minced garlic",
+            "2 teaspoons minced fresh ginger",
+            "1 cup thinly-sliced mixed color bell peppers",
+            "½ cup diced carrots",
+            "¼ cup diced onion",
+            "4 cups cooked and refrigerated white rice",
+            "2 tablespoons gochujang (Korean hot and sweet pepper paste), or to taste",
+            "2 tablespoons low-sodium soy sauce",
+            "2 teaspoons sesame oil",
+            "2 tablespoons sliced green onions",
+            "1 teaspoon toasted sesame seeds"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat a wok or large skillet over medium-high heat, and add vegetable oil. Add garlic and ginger, and cook until fragrant, about 30 seconds.",
+            "Add bell peppers, carrots, and onion, and cook until tender, 4 to 5 minutes. Add a splash of water if the pan gets too dry.",
+            "Add rice, gochujang, soy sauce, and sesame oil, mixing everything well, and stir fry until the rice is hot.",
+            "Garnish with green onions and sesame seeds, and serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Beef Bulgogi",
+        "category": "Korean",
+        "ingredients": [
+            "5 tablespoons soy sauce",
+            "¼ cup chopped green onion",
+            "2 ½ tablespoons white sugar",
+            "2 tablespoons minced garlic",
+            "2 tablespoons sesame seeds",
+            "2 tablespoons sesame oil",
+            "½ teaspoon ground black pepper",
+            "1 pound flank steak, thinly sliced"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk soy sauce, green onion, sugar, garlic, sesame seeds, sesame oil, and pepper together in a bowl.",
+            "Place flank steak slices in a shallow dish. Pour marinade over top. Cover and refrigerate for at least 1 hour or overnight.",
+            "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+            "Quickly grill flank steak slices on the preheated grill until slightly charred and cooked through, 1 to 2 minutes per side.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean BBQ Short Ribs (Galbi)",
+        "category": "Korean",
+        "ingredients": [
+            "¾ cup soy sauce",
+            "¾ cup water",
+            "3 tablespoons white vinegar",
+            "2 tablespoons sesame oil",
+            "½ large onion, minced",
+            "¼ cup minced garlic",
+            "¼ cup dark brown sugar",
+            "2 tablespoons white sugar",
+            "1 tablespoon black pepper",
+            "3 pounds Korean-style short ribs (beef chuck flanken, cut 1/3- to 1/2-inch-thick across bones)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Pour soy sauce, water, vinegar, and sesame oil into a large, non-metallic bowl. Whisk in onion, garlic, brown sugar, white sugar, and pepper until sugars dissolve.",
+            "Submerge ribs in marinade; cover the bowl and refrigerate 7 to 12 hours -the longer, the better.",
+            "Preheat an outdoor grill for medium-high heat. Remove ribs from marinade and shake off excess; discard marinade.",
+            "Cook on the preheated grill until the meat is no longer pink, 5 to 7 minutes per side.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Kongnamool (Korean Soybean Sprouts)",
+        "category": "Korean",
+        "ingredients": [
+            "1 pound soybean sprouts",
+            "¼ cup sesame oil",
+            "2 tablespoons soy sauce",
+            "2 tablespoons Korean chile powder",
+            "2 teaspoons sesame seeds",
+            "1 ½ teaspoons garlic, minced",
+            "¼ cup chopped green onion",
+            "2 teaspoons rice wine vinegar, or to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a large pot of lightly salted water to a boil; add bean sprouts and cook, uncovered, until tender yet still crisp, about 15 seconds.",
+            "Drain in a colander, then immediately immerse in ice water for several minutes to stop the cooking process. Drain well and set aside.",
+            "Whisk sesame oil, soy sauce, Korean chile powder, sesame seeds, and garlic together in a large bowl.",
+            "Stir in bean sprouts and toss to coat; sprinkle with green onions and season with rice wine vinegar. Refrigerate before serving."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean Spicy Chicken Rice Noodle Bake",
+        "category": "Korean",
+        "ingredients": [
+            "1 tablespoon ginger",
+            "4 cloves garlic, minced",
+            "1/4 cup rice vinegar",
+            "2 tablespoons light soy sauce",
+            "1 teaspoon kosher salt",
+            "1 tablespoon brown sugar",
+            "1/4 cup ketchup",
+            "1 teaspoon sesame oil",
+            "2 tablespoons gochujang"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Add ginger and garlic to a mixing bowl, and pour over the 1/4 cup rice vinegar. Let sit for 30 seconds, then whisk in soy sauce, salt, brown sugar, ketchup, the 1 teaspoon sesame oil, and gochujang.",
+            "Add chicken thighs to marinade. Toss and turn until thoroughly coated. Cover and marinate in the refrigerator, at least 1 hour and up to 8 hours.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Grease a 9x13-inch casserole dish with 1 teaspoon sesame oil.",
+            "Lay rice vermicelli in the dish, pulling the dry noodles apart as you do, to cover the bottom evenly, breaking off sections of noodle as needed.",
+            "Evenly scatter over mushrooms, peppers, and about half the green onions. Top with marinated chicken thighs, smooth side up. Spoon excess marinade on top of chicken.",
+            "Rinse marinade bowl with chicken broth and pour into the bottom of dish, without rinsing marinade off chicken. Top with a few tablespoons of green onions.",
+            "Bake in the preheated oven until chicken is no longer pink at the center and juices run clear, 30 to 35 minutes. An instant-read thermometer inserted near the center should read 165 degrees F (74 degrees C).",
+            "Remove chicken to a plate. Toss noodles and veggies in pan until evenly combined. Add the remaining 1/4 cup rice vinegar and 2 tablespoons sesame oil; toss one last time. Taste for seasoning.",
+            "Serve chicken over noodles; sprinkle with sesame seeds and more green onions."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gochujang-Sauced Air Fryer Cauliflower Bites",
+        "category": "Korean",
+        "ingredients": [
+            "2 pounds cauliflower florets (about 8 cups)",
+            "2 tablespoons olive oil",
+            "3/4 teaspoon salt, divided",
+            "1/2 cup honey",
+            "3 tablespoons gochujang",
+            "1 tablespoon brown sugar",
+            "1 tablespoon soy sauce",
+            "1 teaspoon lemon juice",
+            "1 teaspoon fresh ginger",
+            "1/4 teaspoon black pepper",
+            "2 green onions,"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions. Toss cauliflower florets with oil and 1/2 teaspoon salt in a large bowl to coat.",
+            "Working in batches if needed, arrange cauliflower bites in an even layer in air fryer basket. Cook, turning halfway through, until tender and browned, about 10 minutes.",
+            "Meanwhile, for sauce, stir together honey, gochujang, brown sugar, soy sauce, lemon juice, ginger, black pepper, and remaining 1/4 teaspoon salt in a small saucepan. Bring to a boil over medium heat. Reduce heat to low; simmer until sauce is glossy and thickened, about 5 minutes. Stir in green onions.",
+            "Transfer hot cauliflower bites to a large bowl. Add 1/2 cup sauce; toss to coat. Serve immediately with remaining sauce and garnish with additional green onions."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Kimchi",
+        "category": "Korean",
+        "ingredients": [
+            "2 heads napa cabbage",
+            "1 ¼ cups coarse sea salt",
+            "1 tablespoon fish sauce",
+            "5 green onions, chopped",
+            "½ small white onion, minced",
+            "2 cloves garlic, pressed",
+            "2 tablespoons white sugar",
+            "1 teaspoon ground ginger",
+            "5 tablespoons gochugaru (Korean chili powder)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Cut cabbages in half lengthwise and trim the ends. Rinse and cut into pieces about 2 inch square. Place cabbage into large resealable bags; sprinkle salt evenly over leaves to coat. Use your hands to rub salt into cabbage. Seal the bags and leave at room temperature for 6 hours.",
+            "Rinse cabbage leaves under cold water, at least 2 to 3 times, to remove most of the salt; drain and squeeze out any excess liquid.",
+            "Place rinsed cabbage in a large container with a tight fitting lid. Stir in fish sauce, green onions, white onion, garlic, sugar, and ginger. Sprinkle Korean chile powder over mixture.; wear plastic gloves to protect your hands and rub chile powder into cabbage leaves until evenly coated.",
+            "Seal the container and set in a cool dry place. Leave undisturbed for 4 days. Refrigerate before serving, and store in the refrigerator for up to 1 month (if it lasts that long!)."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bibimbap (Korean Rice Bowl)",
+        "category": "Korean",
+        "ingredients": [
+            "1 English cucumber, cut into matchsticks",
+            "¼ cup gochujang (Korean hot pepper paste) (Optional)",
+            "1 bunch fresh spinach, cut into thin strips",
+            "1 tablespoon soy sauce",
+            "2 teaspoons olive oil, divided",
+            "2 carrots, cut into matchsticks",
+            "1 clove garlic, minced",
+            "1 pinch red pepper flakes",
+            "1 pound thinly-sliced beef top round steak",
+            "4 large eggs",
+            "4 cups cooked white rice",
+            "4 teaspoons toasted sesame oil, divided",
+            "1 teaspoon sesame seeds",
+            "2 teaspoons gochujang (Korean hot pepper paste), divided (Optional)"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Stir cucumber pieces and gochujang paste together in a bowl; set aside.",
+            "Bring about 2 cups water to a boil in a large nonstick skillet and stir in spinach; cook until bright green and wilted, 2 to 3 minutes.",
+            "Drain spinach and squeeze out as much moisture as possible; set spinach aside in a bowl and stir in soy sauce.",
+            "Heat 1 teaspoon olive oil in a large nonstick skillet; cook and stir carrots until softened, about 3 minutes.",
+            "Stir in garlic and cook just until fragrant, about 1 minute. Stir in cucumber mixture; sprinkle with red pepper flakes. Set carrot mixture aside in a bowl.",
+            "Brown beef in a clean nonstick skillet over medium heat, about 5 minutes per side; set aside.",
+            "Heat remaining 1 teaspoon olive oil in another nonstick skillet over medium-low heat. Fry eggs just on one side until yolks are runny, but whites are firm, 2 to 4 minutes.",
+            "Divide cooked rice into 4 large serving bowls; top with spinach mixture, a few pieces of beef, and cucumber mixture. Place 1 egg atop each serving. Drizzle each bowl with 1 teaspoon sesame oil, a sprinkle of sesame seeds, and a small amount of gochujang paste if desired."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Kalbi (Korean BBQ Short Ribs)",
+        "category": "Korean",
+        "ingredients": [
+            "¾ cup soy sauce",
+            "¾ cup brown sugar",
+            "¾ cup water",
+            "2 green onions, chopped",
+            "1 garlic clove, minced",
+            "1 tablespoon Asian (toasted) sesame oil",
+            "2 pounds Korean-style short ribs (beef chuck flanken, cut ⅓ to ½ inch thick across bones)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients.",
+            "Stir soy sauce, brown sugar, water, green onions, garlic, and sesame oil together in a bowl until sugar has dissolved.",
+            "Place ribs in a large resealable plastic bag; pour in marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 3 hours.",
+            "Preheat an outdoor grill for medium-high heat; lightly oil the grate. Remove ribs from the bag; shake off excess marinade and discard marinade. Grill ribs on the preheated grill until meat is still pink but not bloody nearest the bone, 5 to 7 minutes per side."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Bulgogi (Korean BBQ Beef)",
+        "category": "Korean",
+        "ingredients": [
+            "⅓ cup soy sauce",
+            "2 green onions, chopped, dark green parts separated from white and light green parts",
+            "¼ yellow onion, thinly sliced",
+            "3 tablespoons white sugar",
+            "3 cloves garlic, minced",
+            "2 tablespoons toasted sesame seeds",
+            "1 tablespoon sesame oil",
+            "¼ teaspoon Korean red pepper flakes",
+            "¼ teaspoon minced fresh ginger",
+            "⅛ teaspoon ground black pepper",
+            "1 ½ pounds beef sirloin steak, cut very thin using kitchen shears",
+            "1 teaspoon honey, or to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk soy sauce, white and light green parts of green onions, yellow onion, sugar, garlic, sesame seeds, sesame oil, red pepper flakes, ginger, and black pepper together in a large glass or ceramic bowl.",
+            "Add steak slices and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 1 hour, or up to 1 day.",
+            "Heat a wok or large skillet over medium heat. Working in batches, cook and stir steak and marinade together in the hot skillet, adding honey to caramelize the steak, until steak is cooked through, about 5 minutes.",
+            "Garnish bulgogi with dark green parts of green onions."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Yummy Korean-Style Glass Noodles (Japchae)",
+        "category": "Korean",
+        "ingredients": [
+            "1 (8 ounce) package sweet potato vermicelli (glass noodles)",
+            "½ cup boiling water",
+            "½ cup reduced-sodium soy sauce",
+            "¼ cup brown sugar",
+            "3 tablespoons vegetable oil",
+            "1 teaspoon toasted sesame seeds"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Break noodles into medium pieces. Place into a deep dish and cover with hot tap water. Soak for 10 minutes.",
+            "Meanwhile, whisk boiling water, soy sauce, and brown sugar together in a 2-cup liquid measure.",
+            "Drain noodles and transfer to a bowl. Pour soy mixture over top and soak for 2 minutes.",
+            "Heat oil in a large skillet over medium heat. Add noodles and soy sauce mixture. Cook and stir until hot, about 5 minutes.",
+            "Transfer noodles and sauce to serving bowls. Garnish with sesame seeds."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean Street Toast",
+        "category": "Korean",
+        "ingredients": [
+            "1 cup thinly sliced green cabbage",
+            "⅓ cup julienned carrot",
+            "1 stalk green onion, thinly sliced",
+            "½ teaspoon kosher salt, or to taste",
+            "¼ teaspoon ground black pepper",
+            "1 pinch cayenne pepper",
+            "2 large eggs",
+            "3 tablespoons salted butter, divided",
+            "2 thick slices white bread",
+            "½ teaspoon white sugar, or to taste",
+            "2 thin slices smoked ham",
+            "1 slice mild Cheddar cheese",
+            "1 tablespoon ketchup, or to taste",
+            "1 tablespoon mayonnaise, or to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Mix cabbage, carrot, green onion, salt, pepper, and cayenne with your hands in a bowl until soft, about 30 seconds. Mix in eggs with a fork until thoroughly combined.",
+            "Melt 2 tablespoons butter in a nonstick skillet over medium heat. Add bread slices and flip a few times to make sure both sides are coated with butter. Grill bread until beautifully toasted, golden brown, and a little crispy on both sides. Transfer to a plate.",
+            "Melt remaining 1 tablespoon butter in the same skillet over medium heat. Add cabbage mixture; cook and simultaneously mix by using the edge of a spatula to chop down on the surface while pushing the edges up and over the top. As the mixture starts to hold its shape, form it into a rectangle that's about twice as long as it is wide. Split the rectangle in half into two square patties; continue to cook until golden brown, 1 1/2 to 2 minutes per side.",
+            "Stack patties on top of one another onto one slice of toast and sprinkle with sugar.",
+            "Place ham slices into the hot skillet; cook over medium heat until sizzling, 1 to 2 minutes. Flip and top with Cheddar slice; cook until melted, about 1 minute.",
+            "Place ham and cheese on top of patties; top with ketchup, mayonnaise, and remaining slice of toast. Cut in half and serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Japchae Korean Glass Noodles",
+        "category": "Korean",
+        "ingredients": [
+            "½ pound Korean dang myun noodles",
+            "2 ½ teaspoons sesame oil, divided",
+            "2 tablespoons soy sauce",
+            "2 teaspoons white sugar",
+            "1 tablespoon vegetable oil",
+            "2 carrots, cut into match-stick size pieces",
+            "½ pound asparagus, thinly sliced",
+            "¾ cup thinly sliced onions",
+            "2 cloves garlic, minced",
+            "3 green onions cut into 1-inch pieces",
+            "½ cup dried shiitake mushrooms, soaked until soft, then sliced into strips",
+            "1 tablespoon sesame seeds"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather the ingredients.",
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Cook noodles in boiling water, stirring occasionally, until tender yet firm to the bite, 4 to 5 minutes. Drain, then rinse with cold water. Toss noodles with 1 teaspoon sesame oil; set aside.",
+            "Whisk together soy sauce and sugar in a small bowl; set aside.",
+            "Heat vegetable oil in a skillet over medium-high heat. Cook and stir carrots, asparagus, onions, and garlic in hot oil until softened, about 5 minutes.",
+            "Stir in green onions and mushrooms; continue cooking and stirring for 30 seconds.",
+            "Pour in soy sauce mixture, then add noodles. Cook and stir until noodles are warmed through, 2 to 3 minutes.",
+            "Remove from heat and toss with sesame seeds and remaining 1 1/2 teaspoons sesame oil."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean Fried Chicken",
+        "category": "Korean",
+        "ingredients": [
+            "1 pound skinless, boneless chicken thighs, quartered",
+            "½ yellow onion, grated",
+            "4 cloves garlic, minced",
+            "1 teaspoon fine salt",
+            "½ teaspoon freshly ground black pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Make marinade: Stir together chicken, onion, garlic, salt, and pepper in a medium bowl until chicken is coated. Cover the bowl with plastic wrap and refrigerate, 4 hours to overnight.",
+            "Heat oil in a deep fryer or large saucepan to 340 degrees F (171 degrees C).",
+            "While oil is heating, make the batter: Whisk cornstarch, flour, sugar, pepper, and salt together in a large bowl. Gradually whisk in cold water until mixture resembles a smooth batter. Use tongs to remove chicken from marinade to batter; stir to coat chicken completely. Discard marinade.",
+            "Working in batches, fry chicken in hot oil for 4 minutes. Transfer chicken to a cooling rack.",
+            "Increase oil temperature to 375 degrees F (190 degrees C).",
+            "Working in batches, fry chicken again in hot oil until golden brown and crispy, 3 to 4 minutes. Transfer to a wire rack to drain.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Mom's Kimchi Egg",
+        "category": "Korean",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "1 cup kimchi, or to taste",
+            "2 large eggs, beaten"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Heat oil in a skillet or wok over medium heat. Cook kimchi in hot oil until softened, about 2 minutes; add eggs. Cook and stir eggs and kimchi together until eggs are set, 2 to 3 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Skillet Chicken Bulgogi",
+        "category": "Korean",
+        "ingredients": [
+            "¼ cup chopped onion",
+            "5 tablespoons soy sauce",
+            "2 ½ tablespoons brown sugar",
+            "2 tablespoons minced garlic",
+            "2 tablespoons sesame oil",
+            "1 tablespoon sesame seeds",
+            "½ teaspoon cayenne",
+            "salt and ground black pepper to taste",
+            "1 pound skinless, boneless chicken breasts, cut into thin strips"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth.",
+            "Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean BBQ Galbi",
+        "category": "Korean",
+        "ingredients": [
+            "5 pounds beef short ribs, cut flanken style",
+            "1 Asian pear, cored and cubed",
+            "1 onion, coarsely chopped",
+            "5 cloves garlic",
+            "1 cup soy sauce (such as Kikkoman®)",
+            "1 cup brown sugar",
+            "¼ cup honey",
+            "¼ cup sesame oil",
+            "black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place ribs in a large pot and cover with cold water. Soak ribs in the refrigerator for 1 hour to pull out any blood. Drain.",
+            "Combine Asian pear, onion, and garlic in a blender; blend until smooth. Pour into a large bowl and stir in soy sauce, brown sugar, honey, sesame oil, and black pepper. Add ribs to soy mixture; turn to coat evenly. Cover the bowl and marinate in the refrigerator, 8 hours to overnight.",
+            "Preheat an outdoor grill for high heat and lightly oil the grate.",
+            "Remove ribs from marinade and cook on the preheated grill until meat is tender and the outside is crusty, 5 to 10 minutes per side. Discard marinade."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Simple Slow-Cooked Korean Beef Soft Tacos",
+        "category": "Korean",
+        "ingredients": [
+            "1 (3 pound) beef chuck roast, trimmed",
+            "½ medium onion, diced",
+            "½ cup dark brown sugar",
+            "⅓ cup soy sauce",
+            "10 cloves garlic",
+            "1 medium jalapeno pepper, diced (Optional)",
+            "1 (1 inch) piece fresh ginger root, peeled and grated",
+            "2 tablespoons seasoned rice vinegar",
+            "1 tablespoon sesame oil",
+            "salt and ground black pepper to taste",
+            "16 (6 inch) corn tortillas (Optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place chuck roast into a slow cooker with onion, brown sugar, soy sauce, garlic, jalapeño pepper, ginger, rice vinegar, sesame oil, salt, and pepper. Cover and cook until meat is tender and can easily be pulled apart with a fork, on Low for 10 hours or High for 8 hours.",
+            "Transfer roast to a cutting board and shred meat with two forks. Return to the slow cooker and mix with the juices.",
+            "Serve with corn tortillas."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

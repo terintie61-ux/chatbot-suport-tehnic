@@ -1,0 +1,582 @@
+[
+    {
+        "Main_category": "healthy"
+    },
+    {
+        "recipe_title": "Creole Seasoning Blend",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "5 tablespoons paprika",
+            "3 tablespoons salt",
+            "2 tablespoons onion powder",
+            "2 tablespoons garlic powder",
+            "2 tablespoons dried oregano",
+            "2 tablespoons dried basil",
+            "1 tablespoon dried thyme",
+            "1 tablespoon black pepper",
+            "1 tablespoon white pepper",
+            "1 tablespoon cayenne pepper"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine paprika, salt, onion powder, garlic powder, oregano, basil, thyme, black pepper, white pepper, and cayenne pepper.",
+            "Store in an airtight container."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Venison Roast",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "3 pounds boneless venison roast",
+            "1 large onion, sliced",
+            "1 tablespoon soy sauce",
+            "1 tablespoon Worcestershire sauce",
+            "1 tablespoon garlic salt",
+            "¼ teaspoon ground black pepper",
+            "1 (1 ounce) package dry onion soup mix",
+            "1 (10.75 ounce) can condensed cream of mushroom soup"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Clean venison roast and place in a slow cooker. Cover with onion slices, then sprinkle with soy sauce, Worcestershire sauce, garlic salt, and pepper.",
+            "Stir onion soup mix and condensed soup together in a small bowl. Pour mixture over venison.",
+            "Cover and cook on Low setting for 6 hours.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Baked Tilapia",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "4 (4 ounce) fillets tilapia",
+            "2 teaspoons butter",
+            "½ teaspoon garlic salt, or to taste",
+            "¼ teaspoon seafood seasoning (such as Old Bay®), or to taste",
+            "1 lemon, sliced",
+            "1 (16 ounce) package frozen cauliflower with broccoli and red pepper",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees F). Grease a 9x13-inch baking dish.",
+            "Place tilapia fillets in the bottom of the baking dish, then dot with butter and season with garlic salt and seafood seasoning.",
+            "Top each fillet with a slice or two of lemon.",
+            "Arrange frozen mixed vegetables around fillets and season lightly with salt and pepper. Cover the dish with aluminum foil.",
+            "Bake in the preheated oven until vegetables are tender and fish flakes easily with a fork, 25 to 30 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pesto Pasta with Chicken",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 (16 ounce) package bow tie pasta",
+            "1 teaspoon olive oil",
+            "2 cloves garlic, minced",
+            "2 skinless, boneless chicken breasts, cut into bite-sized pieces",
+            "1 pinch crushed red pepper flakes, or to taste",
+            "½ cup pesto sauce",
+            "⅓ cup oil-packed sun-dried tomatoes, drained and cut into strips"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, 8 to 10 minutes; drain.",
+            "Heat oil in a large skillet over medium heat. Sauté garlic until tender.",
+            "Stir in chicken and season with red pepper flakes. Cook until chicken is golden and cooked through.",
+            "Combine pasta, chicken, pesto, and sun-dried tomatoes in a large bowl; toss to coat evenly."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Chili",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 pound ground beef",
+            "¾ cup diced onion",
+            "¾ cup diced celery",
+            "¾ cup diced green bell pepper",
+            "2 cloves garlic, minced",
+            "2 (10.75 ounce) cans tomato puree",
+            "1 (15 ounce) can kidney beans with liquid",
+            "1 (15 ounce) can kidney beans, drained",
+            "1 (15 ounce) can cannellini beans with liquid",
+            "½ tablespoon chili powder",
+            "1 teaspoon salt",
+            "¾ teaspoon dried basil",
+            "¾ teaspoon dried oregano",
+            "½ teaspoon dried parsley",
+            "¼ teaspoon ground black pepper",
+            "⅛ teaspoon hot pepper sauce"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Place beef in a skillet over medium heat and cook until evenly brown, 8 to 10 minutes. Drain grease.",
+            "Transfer beef to a slow cooker and mix in onion, celery, bell pepper, garlic, tomato puree, kidney beans, and cannellini beans. Season with chili powder, salt, basil, oregano, parsley, black pepper, and hot pepper sauce.",
+            "Cover and cook on Low for 8 hours.",
+            "Serve hot in bowls with your favorite toppings. Enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fajita Marinade",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "⅓ cup water",
+            "¼ cup lime juice",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, crushed",
+            "2 teaspoons soy sauce",
+            "1 teaspoon salt or to taste",
+            "½ teaspoon liquid smoke flavoring",
+            "½ teaspoon cayenne pepper",
+            "½ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk water, lime juice, olive oil, garlic, soy sauce, salt, and liquid smoke flavoring together in a bowl.",
+            "Stir in cayenne and black pepper until combined.",
+            "Use to marinate 2 pounds of meat; marinate in the refrigerator for at least 2 hours to overnight before cooking as desired.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ham and Beans",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 pound dry great Northern beans",
+            "½ pound cooked ham, diced",
+            "1 small onion, diced",
+            "½ cup brown sugar",
+            "1 tablespoon dried parsley",
+            "¼ teaspoon cayenne pepper",
+            "6 cups water, or as needed to cover",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Rinse beans; transfer to a large stockpot. Cover with cold water and let stand overnight or at least 8 hours. Drain and rinse beans.",
+            "Return beans to stockpot; add ham, onion, sugar, parsley, and cayenne pepper. Pour in enough water to cover and season with salt and pepper.",
+            "Bring to a boil; reduce heat to low and simmer until beans are tender, adding more water if needed, about 1 1/2 to 2 hours.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Laura's Quick Slow Cooker Turkey Chili",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 pound ground turkey",
+            "cooking spray",
+            "2 (10.75 ounce) cans low sodium tomato soup",
+            "2 (15 ounce) cans kidney beans, drained",
+            "1 (15 ounce) can black beans, drained",
+            "½ medium onion, chopped",
+            "2 tablespoons chili powder",
+            "½ tablespoon garlic powder",
+            "½ tablespoon ground cumin",
+            "1 teaspoon red pepper flakes",
+            "1 pinch ground black pepper",
+            "1 pinch ground allspice",
+            "salt to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a skillet over medium heat. Place turkey in the skillet, and cook until evenly brown; drain.",
+            "Coat the inside of a slow cooker with cooking spray, and mix in turkey, tomato soup, kidney beans, black beans, and onion.",
+            "Season with chili powder, garlic powder, cumin, red pepper flakes, black pepper, allspice, and salt.",
+            "Cover, and cook on Low for 8 hours, or on High for 4 hours."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Sweet Potatoes",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "3 large sweet potatoes",
+            "2 pinches dried oregano or to taste",
+            "2 pinches salt",
+            "2 pinches ground black pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat the bottom of a glass or nonstick baking dish with olive oil, just enough to coat.",
+            "Wash and peel sweet potatoes; cut into medium pieces.",
+            "Place in the baking dish and stir to coat with olive oil. Sprinkle with oregano, salt, and pepper.",
+            "Bake in the preheated oven until soft and fork-tender, about 45 minutes to 1 hour.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Italian Seasoning",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "4 tablespoons dried basil",
+            "2 tablespoons dried oregano",
+            "2 tablespoons dried rosemary",
+            "2 tablespoons dried marjoram",
+            "2 tablespoons dried thyme",
+            "2 tablespoons red pepper flakes"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine basil, oregano, rosemary, marjoram, thyme, and red pepper flakes in a food processor.",
+            "Blend for 1 minute, or until desired consistency is achieved."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Pizza Sauce",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 (15 ounce) can tomato sauce",
+            "1 (6 ounce) can tomato paste",
+            "1 tablespoon ground oregano",
+            "1 ½ teaspoons dried minced garlic",
+            "1 teaspoon ground paprika"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix together tomato sauce and tomato paste in a medium bowl until smooth.",
+            "Stir in oregano, garlic, and paprika to pizza sauce mixture.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fideo",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "1 (8 ounce) package fideo pasta",
+            "1 ½ cups water, divided",
+            "1 (8 ounce) can tomato sauce, divided",
+            "1 tablespoon chili powder",
+            "½ teaspoon ground cumin",
+            "½ teaspoon garlic salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a saucepan over medium-high heat. Add fideo; cook and stir until golden brown and toasted.",
+            "Add 1 cup water and 1/2 of the tomato sauce to fideo.",
+            "Season with chili powder, cumin, and garlic salt; stir to blend.",
+            "Bring to a boil and cook until liquid has almost evaporated.",
+            "Stir in remaining 1/2 cup water and remaining tomato sauce. Cover and cook over medium heat until fideo is tender and sauce thickens, about 10 minutes."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked Honey Mustard Chicken",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "cooking spray",
+            "6 skinless, boneless chicken breast halves",
+            "salt and pepper to taste",
+            "½ cup honey",
+            "½ cup prepared mustard",
+            "1 teaspoon dried basil",
+            "1 teaspoon paprika",
+            "½ teaspoon dried parsley"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish with cooking spray.",
+            "Season chicken breasts with salt and pepper. Place in the prepared baking dish.",
+            "Combine honey, mustard, basil, paprika, and parsley in a small bowl; mix well. Pour 1/2 of the honey mustard mixture over chicken and brush to cover.",
+            "Bake in the preheated oven for 15 minutes. Turn chicken pieces over and brush with remaining honey mustard mixture. Continue baking until chicken is no longer pink and juices run clear, 10 to 15 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "Let chicken rest for 10 minutes before serving. Enjoy!"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Black Bean Veggie Burgers",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "cooking spray",
+            "1 (16 ounce) can black beans, drained and rinsed",
+            "½ green bell pepper, cut into 2 inch pieces",
+            "½ onion, cut into wedges",
+            "3 cloves garlic, peeled",
+            "1 egg",
+            "1 tablespoon chili powder",
+            "1 tablespoon cumin",
+            "1 teaspoon Thai chili sauce or hot sauce",
+            "½ cup bread crumbs"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat an outdoor grill for high heat. Lightly oil a sheet of aluminum foil with cooking spray.",
+            "Mash black beans in a medium bowl with a fork until thick and pasty.",
+            "Finely chop bell pepper, onion, and garlic in a food processor. Stir chopped vegetables into mashed beans.",
+            "Stir together egg, chili powder, cumin, and chili sauce in a small bowl. Add to the mashed beans and stir to combine. Mix in bread crumbs until the mixture is sticky and holds together.",
+            "Divide the mixture into four patties and place on the prepared foil.",
+            "Grill on the preheated grill for about 8 minutes on each side.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma Oma's Pickled Okra",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 ½ pounds fresh okra",
+            "3 dried red chile peppers",
+            "3 teaspoons dried dill",
+            "2 cups water",
+            "1 cup vinegar",
+            "2 tablespoons salt"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Inspect three (1-pint) jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water until brine is ready. Wash new, unused lids and rings in warm soapy water.",
+            "Bring water, vinegar, and salt to a rolling boil in a small saucepan.",
+            "Divide okra evenly between the hot, sterlized jars. Place a dried chile and a teaspoon of dill into each jar. Pour hot brine over okra, then run a clean knife or thin spatula around the insides of the jars to remove any air bubbles. Wipe the rims with a moist paper towel to remove any residue. Top with lids and screw rings on tightly.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars 2 inches apart into the boiling water using a holder. Pour in more boiling water to cover jars by at least 1 inch. Bring to a rolling boil, cover, and process for 10 minutes.",
+            "Remove the jars from the stockpot and let rest, several inches apart, for 12 to 24 hours. Press the center of each lid with a finger to ensure the lid does not move up or down. Remove the rings for storage and store jars in a cool, dark area for up to 1 year."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Smoked Fish Dip",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "2 cups flaked smoked whitefish",
+            "4 tablespoons fat-free sour cream",
+            "2 tablespoons fat-free mayonnaise",
+            "4 drops hot pepper sauce, or to taste",
+            "3 drops Worcestershire sauce, or to taste",
+            "3 drops liquid smoke flavoring (Optional)",
+            "1 pinch seafood seasoning, such as Old Bay",
+            "cracked black pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients.",
+            "Place whitefish, sour cream, and mayonnaise in the bowl of a food processor; season with hot pepper sauce, Worcestershire sauce, liquid smoke, seafood seasoning, and cracked black pepper.",
+            "Blend until combined with a spread-like consistency."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chinese Corn Soup",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 (15 ounce) can cream style corn",
+            "1 (14.5 ounce) can low-sodium chicken broth",
+            "1 tablespoon cornstarch",
+            "2 tablespoons water",
+            "1 large egg, beaten"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine corn and chicken broth in a saucepan. Bring to a boil over medium-high heat.",
+            "Mix together cornstarch and water in a small bowl or cup; pour into the boiling corn soup, and continue cooking for about 2 minutes, or until thickened.",
+            "Gradually add beaten egg while stirring the soup. Remove from heat and serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Wonton Soup",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "½ pound boneless pork loin, coarsely chopped",
+            "2 ounces peeled shrimp, finely chopped",
+            "1 tablespoon Chinese rice wine",
+            "1 tablespoon light soy sauce",
+            "1 teaspoon brown sugar",
+            "1 teaspoon finely chopped green onions",
+            "1 teaspoon chopped fresh ginger root",
+            "24 (3.5 inch square) wonton wrappers"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the wontons: Mix pork, shrimp, rice wine, soy sauce, brown sugar, green onions, and ginger together in a large bowl until well combined. Let stand for 25 to 30 minutes.",
+            "Spoon about 1 teaspoon filling onto the center of a wonton wrapper. Moisten all four wrapper edges with water and fold over filling to make a triangle; press the edges firmly to seal.",
+            "Bring left and right corners together above filling; overlap the tips of these corners, moisten with water, and press together to seal. Repeat until all wrappers have been filled and sealed.",
+            "To make the soup: Bring chicken stock to a rolling boil in a pot. Gently drop in wontons and cook for 5 minutes.",
+            "Ladle into bowls and garnish with green onions.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Exquisite Pizza Sauce",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "1 (6 ounce) can tomato paste",
+            "6 fluid ounces warm water (110 degrees F/45 degrees C)",
+            "3 tablespoons grated Parmesan cheese",
+            "2 tablespoons honey",
+            "1 teaspoon minced garlic",
+            "1 teaspoon anchovy paste",
+            "¾ teaspoon onion powder",
+            "¼ teaspoon dried oregano",
+            "¼ teaspoon dried marjoram",
+            "¼ teaspoon dried basil",
+            "¼ teaspoon ground black pepper",
+            "⅛ teaspoon cayenne pepper",
+            "⅛ teaspoon dried red pepper flakes",
+            "salt to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Place tomato paste, water, Parmesan cheese, honey, garlic, anchovy paste, onion powder, oregano, marjoram, basil, black pepper, cayenne pepper, red pepper flakes, and salt into a medium bowl; mix until well blended, breaking up any clumps of cheese.",
+            "Set sauce aside for 30 minutes to allow the flavors to blend; spread over pizza dough and prepare pizza as desired."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cream of Chicken Breasts",
+        "category": "Low Glycemic Impact",
+        "ingredients": [
+            "4 skinless, boneless chicken breast halves",
+            "1 pinch poultry seasoning",
+            "1 (10.5 ounce) can condensed cream of chicken soup",
+            "10 ½ ounces milk"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place chicken in a 9x13-inch baking dish; season with poultry seasoning.",
+            "Mix together condensed soup and milk in a bowl. Pour soup mixture evenly over chicken.",
+            "Bake in the preheated oven until chicken is no longer pink in the center and juices run clear, about 1 1/2 hours. An instant-read thermometer inserted in the center should read at least 165 degrees F (74 degrees C)."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

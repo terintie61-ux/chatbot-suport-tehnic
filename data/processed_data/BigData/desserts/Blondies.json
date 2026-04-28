@@ -1,0 +1,587 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Chickpea Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 (15-ounce) can chickpeas, rinsed and drained",
+            "1/2 cup creamy peanut butter",
+            "1/2 cup packed brown sugar",
+            "1/2 cup all purpose flour",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1/2 cup semisweet chocolate chips",
+            "2 tablespoons semisweet chocolate chips",
+            "1/4 teaspoon sea salt"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch baking pan with parchment paper.",
+            "Spread dough evenly in prepared pan. Top with remaining 2 tablespoons chocolate chips.",
+            "Bake until a toothpick inserted into the center comes out clean, 25 to 28 minutes.",
+            "Sprinkle with flaky sea salt",
+            "Cool in pan on a wire rack 30 minutes. Remove from pan and cool completely on the wire rack, 15 minutes. Cut in squares."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Tiramisu Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "1/2 cup unsalted butter,",
+            "1/2 cup light brown sugar",
+            "1/4 cup white sugar",
+            "2 tablespoons espresso powder",
+            "1/2 teaspoon salt",
+            "1 extra-large egg,",
+            "2 teaspoons vanilla extract",
+            "1 tablespoon coffee liqueur",
+            "1 1/4 cups all-purpose flour",
+            "1/2 teaspoon baking soda"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a large bowl, whisk together melted butter, brown sugar, white sugar, espresso powder, and salt until thoroughly combined. Add in egg, 2 teaspoons vanilla, and coffee liqueur and whisk until mixture is combined and lightens in color slightly, about 1 minute. Whisk in flour and baking soda until just combined. Pour batter into the prepared pan and spread into an even layer.",
+            "Bake in the preheated oven until the bars begin to slightly pull away from the edges of the pan, 20 to 25 minutes. Remove from oven and allow bars to cool completely in the pan.",
+            "For frosting, beat butter in a bowl with an electric mixer until smooth. Add confectioner's sugar, vanilla, and salt and beat until completely smooth and incorporated. Add heavy cream; beat for another 2 minutes. Add mascarpone, and mix on low speed until just combined.",
+            "Spread frosting evenly over the cooled bars. Sprinkle cocoa powder evenly over the top of frosting. Refrigerate bars to firm up frosting, about 30 minutes. Remove bars from pan, cut into 16 bars, and serve."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cinnamon Roll Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "1/4 cup light brown sugar",
+            "1 tablespoon ground cinnamon"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "For filling: in a small bowl, mix brown sugar and cinnamon together until thoroughly combined. Set aside.",
+            "For blondies: Whisk melted butter, white sugar, brown sugar, vanilla, salt, and nutmeg until thoroughly combined. Add in egg and egg yolk and mix until thoroughly combined. Add in flour and baking soda and mix until just incorporated.",
+            "Spread half the batter into an even layer in the prepared pan (it will be a somewhat thin layer). Sprinkle cinnamon-sugar mixture evenly over the batter. Place dollops of remaining batter over the cinnamon-sugar layer, and carefully spread into an even layer to cover cinnamon-sugar completely.",
+            "Bake in the preheated oven until bars begin to pull away from the sides of the pan, are puffed in the middle, and golden brown on top, 25 to 30 minutes. Allow bars to cool completely in the pan.",
+            "For glaze: beat cream cheese, powdered sugar, vanilla and salt together with an electric mixer until completely smooth. Add in heavy cream and beat until smooth. If glaze is too thick, add more heavy cream a small amount at a time; if glaze is too thin, add more powdered sugar until desired consistency is reached.",
+            "Pour glaze onto cooled bars and spread into an even layer. Cut into 16 bars."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Maple Pecan Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 cups all purpose flour",
+            "1 teaspoon salt",
+            "1 teaspoon baking powder",
+            "1/4 teaspoon baking soda",
+            "2/3 cup unsalted butter",
+            "1 1/4 cups brown sugar",
+            "1/2 cup maple syrup",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "1 1/2 cups pecans, toasted and chopped, divided"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Line an 8x8-inch baking pan with parchment paper, extending the paper over the sides.",
+            "In a large bowl whisk together flour, salt, baking powder, and baking soda; set aside.",
+            "In a medium saucepan combine butter, brown sugar, andmaple syrup. Cook and stir over medium heat until melted and smooth,about 6 minutes. Remove from heat; let cool for 10 minutes.",
+            "Stir eggs and vanilla into the butter mixture.",
+            "Stir butter mixture into flour mixture.",
+            "Fold in 1 1/4 cups of the pecans.",
+            "Spread batter in prepared pan.",
+            "Sprinkle remaining 1/4 cup pecans over the top. Bake until set, 35 to 40 minutes. The internal temperature should read 200 degrees F ( (93 degrees C).",
+            "Cool for 10 minutes on a wire rack before lifting from pan with the parchment paper. Cool completely on a wire rack. Cut into bars for serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Blonde Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 cup sifted all-purpose flour",
+            "½ teaspoon baking powder",
+            "½ teaspoon salt",
+            "⅛ teaspoon baking soda",
+            "½ cup chopped walnuts",
+            "1 cup packed brown sugar",
+            "⅓ cup butter, melted",
+            "1 large egg, beaten",
+            "1 tablespoon vanilla extract",
+            "⅔ cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (180 degrees C). Grease a 9x9-inch baking pan.",
+            "Sift together sifted flour, baking powder, salt, and baking soda in a medium bowl. Stir in chopped nuts; set aside.",
+            "Mix brown sugar and melted butter in a large bowl until combined; cool slightly.",
+            "Stir beaten egg and vanilla into brown sugar mixture. Add flour mixture, a little at a time, mixing just until combined. Spread batter into the prepared baking pan. Sprinkle chocolate chips on top.",
+            "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 20 to 25 minutes."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Deviled Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 tablespoon butter",
+            "2 tablespoons light brown sugar",
+            "1 rounded tablespoon Gochujang chili paste,"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x9 cake pan and line the bottom with parchment paper.",
+            "For the sweet and spicy chili topping, combine butter, brown sugar, and Gochujang in a small bowl, and mix thoroughly into a smooth paste. Set aside at room temperature until needed.",
+            "For the blondie batter, combine flour, baking powder, and salt in a bowl; mix thoroughly to combine. Set aside.",
+            "Combine white sugar, brown sugar, eggs, and vanilla extract in a second bowl. Using an electric mixer beat until smooth and thick. Pour in melted butter, and beat until batter is smooth. Fold in macadamia nuts and flour mixture using a spatula, carefully stirring and folding just until the flour disappears. Transfer batter into the prepared cake pan and smooth out the top.",
+            "Transfer chili mixture on top in 12 evenly spaced dollops. Use the tip of a knife to make a flame design out of each dollop by running the knife in a few different dirctions. Make sure to push some of the chili mixture down into the batter as well. When done, the surface should have about a 50/50 ratio between red and blond streaks. Tap pan on the counter a few times.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 35 minutes.",
+            "Transfer to a wire rack and cool completely before removing brownies from pan. Cut into 9 brownies. For best results, serve chilled."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Maple Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "1/2 cup unsalted butter, melted and cooled",
+            "1/2 cup maple syrup",
+            "1/4 cup dark brown sugar",
+            "1 large egg, at room temperature",
+            "1 teaspoon extract",
+            "1 teaspoon vanilla extract",
+            "1 1/4 cups all-purpose flour",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1/8 teaspoon ground cinnamon",
+            "1/8 teaspoon ground nutmeg"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a large bowl, whisk together melted butter, 1/2 cup maple syrup, brown sugar, egg, 1 teaspoon maple extract, and vanilla extract until thoroughly combined. Add in flour, baking soda, 1/2 teaspoon salt, cinnamon, and nutmeg, and mix until combined.",
+            "Pour batter into prepared pan and smooth into an even layer. Bake until bars feel just set, 15 to 20 minutes. Remove to cool on a wire rack for about 15 minutes.",
+            "Meanwhile, make the glaze. Whisk together confectioner's sugar, 2 tablespoons maple syrup, heavy cream, 3/4 teaspoon maple extract, and 1/8 teaspoon salt until smooth.",
+            "After bars have cooled for 15 minutes, pour glaze evenly over bars. Allow glaze to set, and bars to cool completely. Cut into 16 bars."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Butterscotch Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 ½ teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 cup unsalted butter, melted and cooled slightly",
+            "2 cups packed light brown sugar",
+            "2 teaspoons vanilla extract",
+            "3 large eggs",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease a 7x11-inch baking pan.",
+            "Sift flour, baking powder, and salt together in a bowl.",
+            "Make the bars: Beat brown sugar and melted butter until well combined. Beat in eggs and vanilla, then gradually stir in flour mixture. Fold in walnuts until well combined. Spread batter into the prepared pan.",
+            "Bake in the preheated oven until light golden brown, 30 to 35 minutes. Cool in the pan for 10 minutes, then turn out of the pan and finish cooling on a wire rack, 15 to 20 minutes.",
+            "Meanwhile, make the frosting: Dissolve coffee in water in a small bowl.",
+            "Beat confectioner's sugar and butter in a mixing bowl with an electric mixer until light and fluffy. Beat in coffee mixture until incorporated.",
+            "Spread frosting over cooled bars. Let frosting set before cutting into 36 squares."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Milly's Oatmeal Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 cup unsalted butter, room temperature",
+            "1 cup firmly packed light brown sugar",
+            "½ cup white sugar",
+            "2 eggs",
+            "2 teaspoons vanilla extract",
+            "2 cups rolled oats",
+            "1 ½ cups all-purpose flour",
+            "½ cup chocolate chips",
+            "½ cup raisins",
+            "½ cup chopped walnuts",
+            "1 teaspoon baking soda",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking pan.",
+            "Beat butter, brown sugar, and white sugar together in a large bowl until thoroughly combined and creamy. Beat in eggs, one at a time, mixing well after each addition. Stir in vanilla extract until combined. Stir in rolled oats, flour, chocolate chips, raisins, walnuts, baking soda, baking powder, and salt until all ingredients moistened; spread into the prepared baking pan.",
+            "Bake in the preheated oven until golden brown, 20 to 25 minutes. Let cool in the pan for about 5 minutes before cutting into bars."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Brown Sugar Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 cups packed light brown sugar",
+            "1 ½ cups all-purpose flour",
+            "1 cup chopped walnuts (Optional)",
+            "½ cup melted butter",
+            "3 eggs",
+            "2 teaspoons baking powder",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan.",
+            "Mix brown sugar, flour, walnuts, butter, eggs, baking powder, vanilla extract, and salt together in a bowl by hand until smooth. Spread evenly into the prepared pan.",
+            "Bake in the preheated oven until the top is dry and edges have started to pull away from the sides of the pan, 25 to 30 minutes.",
+            "Remove from the oven and let cool for 10 to 15 minutes before slicing."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Vegan Pumpkin Pie Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "½ cup white sugar",
+            "¼ cup brown sugar",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon ground cinnamon",
+            "¼ teaspoon ground cloves",
+            "¼ teaspoon ground ginger",
+            "¼ teaspoon ground nutmeg",
+            "¼ teaspoon salt",
+            "1 (15 ounce) can pumpkin puree",
+            "3 ½ tablespoons canola oil",
+            "1 tablespoon vanilla extract"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9-inch square baking pan.",
+            "Sift flour, white sugar, brown sugar, baking powder, baking soda, cinnamon, cloves, ginger, nutmeg, and salt together in a bowl. Add pumpkin puree, canola oil, and vanilla extract to the flour mixture and stir until a thick batter forms. Pour batter into the prepared baking pan.",
+            "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 20 minutes.",
+            "Remove from the oven and cool completely before cutting into 1 1/2-inch squares."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "White Chocolate Blondie Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 cup butter",
+            "3 (1 ounce) squares white chocolate, chopped",
+            "2 cups white sugar",
+            "4 eggs",
+            "1 teaspoon vanilla extract",
+            "2 cups all-purpose flour",
+            "1 teaspoon salt",
+            "1 cup white chocolate chips"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan.",
+            "Melt butter and chopped white chocolate together in a saucepan over low heat. Remove from heat; cool slightly. Meanwhile, beat sugar, eggs, and vanilla extract together in a bowl; beat in butter mixture, then stir in flour and salt until thoroughly combined. Transfer batter to the prepared baking pan; sprinkle with white chocolate chips.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 35 minutes. Cool in the pan for about 10 minutes before cutting into bars."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Brown Sugar Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 ⅓ cups sifted all-purpose flour",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "1 cup packed brown sugar",
+            "½ cup butter, softened",
+            "1 egg",
+            "1 teaspoon vanilla extract",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Pre-heat oven to 350 degrees F (175 degrees C). Lightly grease a 9 x 9 x 1-3/4 inch pan.",
+            "Sift together flour, baking powder and salt and set aside. In large bowl, beat together butter, sugar, egg and vanilla until smooth.",
+            "Stir in the flour mixture and the nuts until well blended. Spread evenly in prepared pan. Bake 25-30 minutes or until surface springs back when gently pressed. Cool slightly. While still warm, cut into bars with a sharp knife."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vanilla Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 ¼ cups all-purpose flour",
+            "2 ½ teaspoons baking powder",
+            "½ teaspoon salt",
+            "¾ cup unsalted butter, softened",
+            "1 ¼ cups white sugar",
+            "1 ¼ cups packed brown sugar",
+            "1 teaspoon vanilla extract",
+            "3 eggs",
+            "2 cups semisweet chocolate chips (Optional)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 10x15 inch jellyroll pan.",
+            "In a small bowl, combine flour, baking powder, and salt. Set aside. In a large bowl, cream together the butter, white sugar, brown sugar, and vanilla until smooth. Beat in the eggs, one at a time, then stir in the flour mixture. Mix in chocolate chips, if desired. Spread the batter evenly into the prepared pan.",
+            "Bake for 35 to 45 minutes in preheated oven. Cool in the pan on a wire rack. When completely cooled, cut into squares."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Peanut Butter Blondie Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "vegetable oil cooking spray",
+            "1 cup crunchy peanut butter",
+            "½ cup butter, softened",
+            "2 cups brown sugar",
+            "4 large eggs",
+            "1 tablespoon vanilla extract",
+            "1 ½ cups all-purpose flour"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with cooking spray.",
+            "Beat peanut butter and butter together in a bowl with an electric mixer until smooth. Gradually beat brown sugar into peanut butter mixture. Beat eggs into peanut butter mixture 1 at a time, beating well after each addition; add vanilla extract.",
+            "Gradually sift flour into peanut butter mixture and mix until batter is well-combined. Pour batter into prepared baking dish and spread evenly in the dish.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the blondies comes out clean, about 35 minutes. Cool in the baking dish for 15 minutes before slicing into 24 bars. Remove to a wire rack to cool until just warm."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Blonde Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 cup chopped walnuts (Optional)",
+            "1 teaspoon baking powder",
+            "1 teaspoon salt",
+            "¼ teaspoon baking soda",
+            "2 cups packed light brown sugar",
+            "⅔ cup butter, melted",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "1 cup mini semi-sweet chocolate chips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease a 9x13-inch pan.",
+            "Combine flour, walnuts, baking powder, salt, and baking soda in a medium bowl. Set aside.",
+            "Mix together brown sugar and melted butter in a large bowl until combined. Beat in eggs and vanilla. Stir in flour mixture. Pour batter into the prepared pan. Sprinkle top with chocolate chips.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out with a few crumbs, 20 to 25 minutes. Allow to cool, then cut into 24 bars."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Blonde Apple Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 cup salted butter, softened",
+            "1 cup white sugar",
+            "1 cup lightly packed light brown sugar",
+            "2 large eggs",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1 teaspoon ground cinnamon",
+            "6 McIntosh apples - peeled, cored, and diced"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+            "Beat butter, white sugar, brown sugar, and eggs in a bowl with an electric mixer until smooth and creamy. Beat flour into butter mixture until well combined; add baking powder and beat. Stir cinnamon into batter. Fold apples into batter; spread into the prepared baking dish.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out with moist crumbs, about 45 minutes."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "White Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 (18.25 ounce) package white cake mix",
+            "⅓ cup brown sugar",
+            "1 egg",
+            "⅓ cup milk",
+            "1 cup butterscotch chips"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x13-inch baking pan.",
+            "In a large bowl, stir together cake mix and brown sugar. Add egg and milk; mix until well blended. Stir in butterscotch chips. Spread dough evenly into the prepared pan.",
+            "Bake for 25 to 30 minutes in the preheated oven, until brownies pull away from the edge of the pan slightly. Cool in the pan on a wire rack, then cut into bars."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Disappearing Marshmallow Brownies",
+        "category": "Blondies",
+        "ingredients": [
+            "1 cup butterscotch chips",
+            "½ cup unsalted butter",
+            "⅔ cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 ½ cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "2 cups miniature marshmallows",
+            "1 cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan.",
+            "Combine butterscotch chips and butter in a microwave-safe bowl; microwave on high for 1 1/2 minutes. Stir, then continue to cook in 15-second intervals, stirring after each interval, until melted and smooth, 1 to 3 more minutes. Set aside to cool slightly.",
+            "Stir brown sugar, eggs, and vanilla together in a large bowl. Mix in melted butterscotch chips, then mix in flour, baking powder, and salt until smooth. Stir in marshmallows and chocolate chips. Spread batter evenly into the prepared baking pan.",
+            "Bake in the preheated oven until the top is dry and the edges have started to pull away from the sides of the pan, 15 to 20 minutes. Cool completely, then cut into 24 squares."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Snickerdoodle Blondies",
+        "category": "Blondies",
+        "ingredients": [
+            "2 ⅔ cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "2 cups packed brown sugar",
+            "1 cup butter, softened",
+            "2 eggs",
+            "1 tablespoon vanilla extract"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan.",
+            "Whisk flour, baking powder, and salt together in a bowl. Beat brown sugar, butter, eggs, and 1 tablespoon vanilla extract together in a bowl using an electric mixer until smooth and creamy. Stir flour mixture into creamed butter mixture until batter is well combined and thick; spread into the prepared baking pan.",
+            "Combine white sugar, 2 tablespoons cinnamon, and ginger together in a bowl; sprinkle over batter.",
+            "Bake in the preheated oven until blondies are beginning to pull away from the sides of the pan and are set in the middle, 25 to 30 minutes. Allow blondies to cool, at least 30 minutes.",
+            "Beat confectioners' sugar, cream, 1 tablespoon cinnamon, and 1 teaspoon vanilla extract together in a bowl until glaze is smooth; drizzle onto blondies."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

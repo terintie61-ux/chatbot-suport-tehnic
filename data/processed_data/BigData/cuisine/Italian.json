@@ -1,0 +1,641 @@
+[
+    {
+        "Main_category": "cuisine"
+    },
+    {
+        "recipe_title": "Perfect Chicken Piccata",
+        "category": "Italian",
+        "ingredients": [
+            "4 (4 ounce) boneless, skinless chicken breast halves",
+            "1 ½ teaspoons kosher salt",
+            "1 teaspoon ground black pepper",
+            "⅔ cup all-purpose flour",
+            "3 tablespoons olive oil, divided",
+            "3 tablespoons butter, divided",
+            "¼ cup dry white wine, such as Pinot Grigio",
+            "3 tablespoons capers, rinsed and drained",
+            "¾ cup chicken stock",
+            "¼ cup fresh lemon juice",
+            "1 teaspoon lemon zest",
+            "¼ cup chopped fresh parsley"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Slice chicken breasts in half lengthwise and lightly pound to 1/2-inch thick. Season evenly on both sides with salt and pepper. Dredge each piece in flour to coat the surface and shake off any excess flour.",
+            "Heat 2 tablespoons oil and 1 ½ tablespoons butter in a large skillet over medium-high heat until just beginning to smoke. Add 1/2 of the chicken and cook, undisturbed, until browned and easily released from the skillet, 2 ½ to 3 minutes. Flip and cook for 2 more minutes. Remove from the skillet. Add remaining 1 tablespoon oil to the drippings and repeat the cooking process with remaining chicken. Reserve all chicken on a plate.",
+            "Reduce heat to medium and melt remaining 1 ½ tablespoons butter in the skillet. Add wine and capers and stir, scraping to release any browned bits from the skillet; bring to a simmer. Cook for 2 minutes to slightly reduce. Add chicken stock, lemon juice, and lemon zest; stir to combine. Bring to a simmer and cook for 2 minutes.",
+            "Return chicken to the skillet and cook, turning occasionally in the sauce, until chicken is no longer pink in the center, the juices run clear, and the sauce has thickened slightly, 3 to 5 minutes.",
+            "Remove from heat and sprinkle with parsley to serve."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ribollita (Tuscan Bread Soup)",
+        "category": "Italian",
+        "ingredients": [
+            "1 clove garlic",
+            "1 pinch salt",
+            "1/4 cup olive oil",
+            "1 (1 pound) loaf Italian bread"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 300 degrees F (150 degrees C).",
+            "Crush garlic and salt together in a mortar or small bowl, and stir in olive oil. Set aside.",
+            "Tear bread into about 2-inch pieces, and spread out on a baking sheet. Drizzle over the garlic oil, and toss to combine.",
+            "Bake in the preheated oven until bread is dried out and getting crisp on the edges, 25 to 30 minutes.",
+            "Transfer 1 can beans into a mixing bowl, and mash with a potato masher until almost smooth. Add canned tomatoes, and use the masher to break into very small pieces. Set aside.",
+            "Add 2 tablespoons olive oil to a soup pot set over medium-high heat. Sauté onions, carrots, and celery with a big pinch of salt until onions start to turn translucent, about 4 minutes. Add garlic, oregano, thyme, rosemary, and bay leaf, and cook, stirring, for another minute.",
+            "Add chicken broth. Use about 1/2 cup water to rinse out the tomato can and add to the soup. Bring to simmer over high heat, then reduce to medium-low, and simmer for about 10 minutes.",
+            "Raise the heat back to high; when the soup is boiling, stir in kale and cook for about 5 minutes, stirring occasionally.",
+            "Add in parsley, remaining can of beans, crushed bean and tomato mixture, black pepper, and cayenne. Rinse the tomato bowl with about 1 cup water, and add that to the soup. Transfer in half the bread, and 1/4 cup Parmesan cheese. Stir everything to combine. When mixture comes back to a simmer, reduce heat to medium, and simmer until greens are very tender, stirring occasionally, about 15 minutes.",
+            "Taste for seasoning and add more salt if needed.",
+            "Turn off heat, and add half of the remaining bread to the top. Use a spoon or spatula to poke some bread into the surface.",
+            "Ladle soup into serving bowls; top with the extra toasted bread, a generous grating of Parmesan cheese, red chili flakes, freshly chopped parsley, and a drizzle of olive oil. Fresh lemon juice can also be squeezed over."
+        ],
+        "healthiness_score": 100,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Cherry Margarita",
+        "category": "Italian",
+        "ingredients": [
+            "2 fresh cherries, pitted, or more to taste, plus more for garnish",
+            "2 teaspoons fresh lime juice",
+            "1 1/2 ounces tequila",
+            "1 fluid ounce amaretto liqueur"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Place cherries and lime juice in a shaker and muddle to loosen the cherry juices.",
+            "Fill shaker with ice, add tequila and amaretto, and shake until well blended and slightly frothy. Strain over ice and garnish with a cherry."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Puttanesca Pasta Bake",
+        "category": "Italian",
+        "ingredients": [
+            "2 tablespoons extra virgin olive oil",
+            "3 cloves garlic, minced",
+            "3 anchovy fillets, finely chopped (optional)",
+            "2 tablespoons tomato paste",
+            "1 (28-ounce) can crushed tomatoes",
+            "1 cup vegetable broth or water",
+            "1 teaspoon dried oregano",
+            "1/2 teaspoon ground black pepper",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon crushed red pepper, or more to taste",
+            "1 pound spaghetti or fusilli",
+            "3/4 cup black olives, chopped",
+            "2 tablespoons capers",
+            "1 cup mozzarella cheese",
+            "1/2 cup grated Parmesan cheese",
+            "chopped fresh parsley, for garnish"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Heat oil in a large saucepan over medium heat. Add garlic and anchovies and cook until fragrant, about 1 minute.",
+            "Add tomato paste and cook for 1 additional minute.",
+            "Stir in crushed tomatoes, broth, oregano, black pepper, salt, and crushed red pepper. Bring to a boil, reduce heat, and simmer until mixture becomes saucy, stirring occasionally, about 10 minutes.",
+            "Meanwhile, cook pasta to al dente according to package directions. Drain and set aside.",
+            "Add olives and capers to tomato sauce.",
+            "Gently stir cooked pasta into sauce until fully coated.",
+            "Transfer pasta mixture to a 9x13-inch baking dish. Top with mozzarella and Parmesan cheeses. Bake in the preheated oven until cheese is melted, about 10 minutes.",
+            "Top each serving with parsley."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pesto Chicken Caprese",
+        "category": "Italian",
+        "ingredients": [
+            "2 (10- to 12-ounce) skinless boneless chicken breasts",
+            "1/2 teaspoon salt",
+            "2 tablespoons olive oil",
+            "4 tablespoons basil pesto",
+            "1 large beefsteak tomato,",
+            "8 ounces fresh mozzarella cheese",
+            "fresh basil leaves"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+            "Cut chicken breasts in half horizontally and, if needed, pound each to even thickness with a meat mallet. Season both sides with salt.",
+            "Heat oil in a 12-inch oven-proof skillet over medium heat. Add chicken to skillet and cook until lightly browned, 3 to 4 minutes. Flip and cook the other side until lightly browned, 3 to 4 minutes. Remove skillet from heat.",
+            "Spread 1 tablespoon of pesto on top of each chicken portion.",
+            "Place 1 tomato slice on top of each chicken portion and top with 2 slices of mozzarella.",
+            "Transfer skillet to the preheated oven and bake until cheese is melted and chicken is cooked through (165 degrees F or 74 degrees C), about 10 minutes.",
+            "Serve topped with torn basil leaves."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tuscan Style Ribs (Rosticciana)",
+        "category": "Italian",
+        "ingredients": [
+            "1/2 teaspoon fennel seed",
+            "1 rounded teaspoon rosemary leaves",
+            "2 teaspoons kosher salt",
+            "1 teaspoon ground black pepper",
+            "1/2 teaspoon red pepper flakes",
+            "1/2 teaspoon garlic powder",
+            "1 rack ribs"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Crush fennel seeds in a mortar until coarsely ground. Add rosemary; crush for a few seconds until rosemary is bruised and fragrant. Stir in salt, black pepper, red pepper, and garlic powder.",
+            "Cut ribs apart by slicing in between each bone with a sharp knife. Press ribs back together, sprinkle 1/3 of rub mixture on the bottom (bone side) of ribs, and rub in firmly. Sprinkle remaining rub on the meat side, and press in firmly.",
+            "Stack half the ribs on top of the other half, and place into a resealable plastic bag. Squeeze out the air, seal tightly, and marinate in the refrigerator for at least 4 and up to 18 hours.",
+            "Before grilling, make lemon garlic dressing. Crush garlic and salt in a mortar, then stir or whisk in rosemary, lemon juice, and olive oil.",
+            "Prepare a charcoal grill for medium-high heat. Grill ribs, turning every 3 to 4 minutes to grill all sides, for about 20 to 30 minutes. An instant read thermometer inserted into the thickest part of the meat and touching the bone should read 180 to 185 degrees F (82 to 85 degrees C). Let rest for 5 to 10 minutes.",
+            "Drizzle with lemon garlic dressing to serve. When done, the meat will not be falling off the bone, but should come off relatively cleanly when bitten. Serve with any remaining dressing on the side, and fresh lemon wedges."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Peach Bellini",
+        "category": "Italian",
+        "ingredients": [
+            "¼ cup pureed peaches",
+            "4 fluid ounces Champagne",
+            "1 fresh peach slice for garnish"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Pour peach puree into a fluted glass; top with Prosecco or Champagne.",
+            "Garnish with a slice of peach. Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Meet Lemon Pesto: The 5-Ingredient No-Cook Sauce Ready Before Your Pasta's Done Boiling",
+        "category": "Italian",
+        "ingredients": [
+            "4 large lemons, scrubbed",
+            "1 cup grated Parmesan cheese",
+            "1/3 cup slivered almonds",
+            "4 tablespoons tap water",
+            "1 garlic clove",
+            "3/4 teaspoon kosher salt",
+            "1/2 teaspoon white sugar",
+            "1/4 teaspoon black pepper",
+            "6 tablespoons extra-virgin olive oil"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Using a Y-peeler, remove yellow zest from lemons in large strips, avoiding the bitter white pith as much as possible. This should yield about 1/2 cup zest. Juice lemons to yield 1/4 cup juice. Discard juiced, skinned lemons; reserve any unjuiced lemons for another use.",
+            "Place lemon zest, lemon juice, Parmesan, almonds, water, garlic, salt, sugar, pepper, and 3 tablespoons oil in the jar of a blender; process until lemon zest is finely chopped and mixture is roughly combined, about 15 seconds, stopping to scrape down sides as needed.",
+            "With blender running, slowly pour remaining 3 tablespoons oil through food chute, processing until mostly smooth and emulsified, about 1 minute, stopping to scrape down sides as needed.",
+            "Use immediately or store in an airtight container for up to 1 week."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bob's Stuffed Banana Peppers",
+        "category": "Italian",
+        "ingredients": [
+            "8 banana peppers",
+            "2 tablespoons butter",
+            "½ cup chopped onion",
+            "½ cup chopped celery",
+            "1 (28 ounce) can crushed tomatoes",
+            "1 (8 ounce) can tomato sauce",
+            "2 cloves garlic, minced",
+            "2 ½ teaspoons salt, divided or to taste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "½ teaspoon ground black pepper, divided",
+            "½ cup grated Parmesan cheese",
+            "1 large egg",
+            "1 teaspoon Worcestershire sauce",
+            "1 pound hot Italian sausage",
+            "1 pound mild Italian sausage",
+            "1 ½ cups bread crumbs"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Cut off the tops of peppers. Remove ribs and seeds; rinse peppers. Chop edible portion of the tops; set aside.",
+            "Bring a large pot of salted water to a boil. Add peppers, reduce heat, and simmer until tender but still firm, about 5 minutes. Drain and set aside.",
+            "Heat butter in a medium skillet over medium heat. Sauté reserved chopped pepper, onion, and celery in hot butter until tender, 3 to 5 minutes. Stir in crushed tomatoes, tomato sauce, and garlic. Season with 1 ½ teaspoons salt, basil, oregano, and ¼ teaspoon black pepper. Simmer uncovered for 10 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Meanwhile, combine Parmesan cheese, egg, Worcestershire sauce, 1 remaining teaspoon salt, and remaining ¼ teaspoon black pepper in a large bowl. Mix in hot sausage, mild sausage, bread crumbs, and 1 cup tomato sauce mixture until well combined.",
+            "Fill each pepper with sausage mixture using a piping bag or sausage stuffer. Place in a 3-quart casserole dish; pour remaining tomato sauce mixture over peppers.",
+            "Bake uncovered in the preheated oven until sauce is bubbly and sausage is cooked through, about 1 hour."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Mediterranean Baked Chicken Breast",
+        "category": "Italian",
+        "ingredients": [
+            "2 (8 ounce) skinless, boneless chicken breasts",
+            "salt and freshly ground black pepper",
+            "¼ cup olive oil",
+            "¼ cup freshly squeezed lemon juice",
+            "1 clove garlic, minced",
+            "½ teaspoon dried oregano, or more to taste",
+            "¼ teaspoon dried thyme, or more to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Season chicken breasts with salt and pepper on all sides and place in a bowl or lidded container. Combine olive oil, lemon juice, garlic, oregano, and thyme in a small bowl and pour marinade over chicken breasts. Marinate for 10 minutes at room temperature.",
+            "Preheat oven to 400 degrees F (200 degrees C). Set one oven rack about 6 inches from the heat source.",
+            "Place chicken breasts into a baking dish and pour marinade on top.",
+            "Bake chicken on the middle rack of the preheated oven until no longer pink in the center and the juices run clear, 35 to 45 minutes, depending upon thickness. Move baking dish to the top rack and broil chicken until well browned, about 5 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cherry Tomato Pasta Sauce",
+        "category": "Italian",
+        "ingredients": [
+            "2 cups ripe cherry tomatoes",
+            "2 tablespoons olive oil",
+            "2 cloves garlic, sliced",
+            "salt and ground black pepper to taste",
+            "2 cups chicken broth or to taste",
+            "2 tablespoons fresh oregano leaves",
+            "½ teaspoon red pepper flakes",
+            "14 ounces penne pasta",
+            "½ cup grated Parmigiano-Reggiano cheese"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine cherry tomatoes, oil, garlic, salt, and black pepper in a saucepan over medium-low heat. Cook and stir until garlic is just toasted, 2 to 3 minutes.",
+            "Pour chicken broth into tomato mixture; bring to a simmer and cook until tomatoes start to collapse and burst, about 10 minutes.",
+            "Meanwhile, bring a large pot of lightly salted water to a boil; add penne and cook, stirring occasionally, until tender yet firm to the bite, about 8 to 11 minutes. Drain.",
+            "Stir oregano and red pepper flakes into pasta sauce; puree with a stick blender until smooth.",
+            "Add penne to tomato sauce; stir until pasta is well coated with sauce. Stir in cheese and season with salt and pepper. Serve and enjoy!"
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Salsa Verde Marinated Mozzarella",
+        "category": "Italian",
+        "ingredients": [
+            "3 tablespoons capers",
+            "2 anchovy filets",
+            "1 clove garlic",
+            "1/4 cup green onions",
+            "1/2 cup parsley leaves",
+            "1/3 cup mint leaves",
+            "1/2 cup extra-virgin olive oil",
+            "1 teaspoon lemon zest",
+            "1/4 cup fresh lemon juice",
+            "1 teaspoon crushed red pepper",
+            "2 (8 ounce) containers mini mozzarella balls",
+            "1 (10 ounce) package cherry tomatoes",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Add capers, anchovies, garlic, green onions, parsley, and mint to the bowl of a food processor and pulse until very finely chopped. Transfer mixture to a bowl.",
+            "Stir olive oil, lemon zest, lemon juice, red pepper flakes, mozzarella balls, and cherry tomatoes into herb mixture; season to taste with salt and pepper. Marinate, covered, in the refrigerator for at least 2 hours before serving."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pasta Alla Caponata",
+        "category": "Italian",
+        "ingredients": [
+            "2 eggplants",
+            "1 tablespoon kosher salt",
+            "8 ounces mezze rigatoni,",
+            "1/4 cup extra-virgin olive oil",
+            "2 cloves garlic",
+            "1/2 yellow onion",
+            "1 large red bell pepper",
+            "1 rib celery",
+            "1 teaspoon salt",
+            "2 tablespoons pine nuts",
+            "1 pinch red pepper flakes",
+            "1 tablespoon capers",
+            "1 tablespoon white sugar",
+            "2 tablespoons red wine vinegar",
+            "2 cups crushed tomatoes",
+            "8 basil leaves,",
+            "1/2 cup pecorino cheese"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Peel off half the eggplant skin in strips using a peeler, and cut eggplant into 1/2-inch cubes. Add eggplant cubes to a large bowl and sprinkle over 1 tablespoon kosher salt; toss thoroughly. Let sit for 20 minutes on the counter, tossing occasionally. Transfer into a strainer, rinse lightly with cold water, and drain very well.",
+            "Meanwhile, bring a large pot of salted water to a boil over high heat. Cook rigatoni in the boiling water, stirring occasionally until tender yet firm to the bite, about 12 minutes.",
+            "Add oil to a skillet and place over medium heat. Add garlic cloves; when they start to sizzle, swirl the oil for about 30 seconds. Remove garlic and set aside.",
+            "Turn the heat to high, and add eggplant to the skillet. Cook, stirring, until eggplant loses its firmness and just starts to become tender, about 6 minutes. Turn off the heat. Set a strainer over a bowl; transfer eggplant into the strainer. Pour any olive oil that drains into the bowl back into the skillet, and place skillet back over medium-high heat.",
+            "Add onions, celery, and peppers to the skillet, and cook and stir for a few minutes until onions are translucent, and vegetables begin to soften. Add pinenuts, red pepper flakes, capers, and reserved garlic cloves, and cook and stir for 1 minute more.",
+            "Stir in sugar and vinegar; cook, stirring for another minute. Add eggplant back into the skillet; cook and stir until eggplant is almost tender, 2 to 3 minutes. Add crushed tomatoes and a small splash of water, and cook, stirring for about 3 minutes. Reduce heat to low.",
+            "Transfer cooked pasta with a strainer into the finished sauce. Add a ladle or 2 of pasta water as needed to thin the sauce. Turn off the heat, and stir in torn basil leaves. Grate a small amount of pecorino on top to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pepperoni Casserole",
+        "category": "Italian",
+        "ingredients": [
+            "1 (16 ounce) package uncooked rotini pasta",
+            "1 pound ground Italian sausage",
+            "1 (16 ounce) jar pasta sauce",
+            "2 (12 ounce) containers cottage cheese",
+            "1 (2.25 ounce) can sliced black olives",
+            "12 ounces shredded mozzarella cheese",
+            "2 (3 ounce) packages sliced pepperoni"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch casserole dish.",
+            "Bring a large pot of lightly salted water to a boil. Place pasta in the pot, cook for 8 to 10 minutes, until al dente, and drain.",
+            "Cook sausage in a skillet over medium heat until evenly browned.",
+            "Combine cooked pasta, sausage, and pasta sauce in the prepared casserole dish. Mix cottage cheese, olives, and mozzarella cheese in a bowl; spoon over sausage and pasta mixture. Top with pepperoni slices.",
+            "Bake in the preheated oven until bubbly and lightly browned on top, about 25 to 30 minutes."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gelato",
+        "category": "Italian",
+        "ingredients": [
+            "2 cups milk",
+            "1 cup heavy cream",
+            "4 egg yolks",
+            "½ cup sugar"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather the ingredients.",
+            "Mix milk and cream in a medium saucepan. Warm until foam forms around the edges. Remove from heat.",
+            "Beat egg yolks and sugar until frothy in a large bowl. Gradually pour warm milk into egg yolks and sugar, whisking constantly. Return mixture to saucepan; cook over medium heat, stirring with a wooden spoon until the mixture gels slightly and coats the back of the spoon. If small egg lumps begin to show, remove from heat immediately.",
+            "Pour the mixture through a sieve or fine strainer into a bowl. Cover, and chill for 2 hours to overnight.",
+            "Pour the mixture into an ice cream maker, and freeze according to the manufacturer's instructions. Transfer to a sealed container, and freeze until firm, at least 2 hours."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Breakfast Strata",
+        "category": "Italian",
+        "ingredients": [
+            "1 large loaf Italian or French bread",
+            "1 tablespoon olive oil",
+            "12 ounces italian sausage",
+            "1 yellow onion",
+            "1/2 teaspoon ground black pepper",
+            "1/4 teaspoon dried oregano",
+            "1/4 teaspoon dried thyme",
+            "1/8 teaspoon dried rosemary",
+            "1 pinch cayenne pepper",
+            "1 pound baby spinach",
+            "12 large eggs",
+            "2 teaspoons kosher salt",
+            "4 cups milk",
+            "8 ounces fontina or fontal cheese, shredded"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Cut bread into 1-inch cubes, and spread out in a single layer on the work surface; leave uncovered overnight to become stale.",
+            "Add olive oil to a skillet set over medium-high heat, and add sausage. Cook, while crumbling with a spatula, for a few minutes, just until the sausage starts to brown. Add onions, a large pinch of salt, black pepper, cayenne, oregano, thyme, and rosemary. Cook, stirring until the onions soften and start to turn translucent.",
+            "Transfer the mixture into a bowl, then spoon about 1 tablespoon of rendered sausage fat back into the pan; place pan back over medium-high heat.",
+            "Add spinach and cook, tossing with tongs until it's just barely wilted and bright green. Transfer into a strainer to cool. Squeeze out any excess water, and chop before using. Or, use scissors to snip into small pieces.",
+            "Whisk eggs with salt until yolks have been incorporated into the whites. Whisk in milk and set aside.",
+            "Grease a 9x13-inch casserole dish with olive oil. Cover the bottom with a single tight layer of stale bread cubes. Top evenly with about 60% of sausage mixture, layer on 60% of spinach, and then scatter over half the cheese.",
+            "Top this with another layer of bread cubes, pressing down lightly with your hands to flatten. Top bread with remaining sausage and spinach. Ladle egg and milk mixture evenly over casserole. Top with the remaining cheese.",
+            "Wrap tightly and place in the refrigerator overnight.",
+            "Preheat the oven to 350 degrees F (180 degrees C).",
+            "Bake strata in the preheated oven until top is lightly browned, and an instant read thermometer inserted into the center reaches 150 degrees F (66 degrees C), about 1 hour 15 minutes.",
+            "Let strata rest for 10 to 15 minutes before serving."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Coffee Panna Cotta",
+        "category": "Italian",
+        "ingredients": [
+            "2 cups heavy cream",
+            "1/2 cup black coffee",
+            "1/2 cup brown sugar",
+            "1 tablespoon espresso powder",
+            "1 1/2 teaspoons vanilla extract",
+            "1/4 teaspoon kosher salt",
+            "1/2 cup whole milk",
+            "1 (0.25 ounce) packet powdered gelatin"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Whisk heavy cream, coffee, brown sugar, espresso powder, salt, and vanilla together in a saucepan. Heat over medium-low heat, stirring often, until mixture is hot and sugar and espresso powder have dissolved, 5 to 7 minutes; do not boil.",
+            "Meanwhile, place 1/2 cup whole milk in a small bowl. Sprinkle gelatin over the top and let sit for 5 minutes to allow gelatin to bloom.",
+            "Remove the pan from the heat. Whisk in bloomed gelatin and stir until completely dissolved and incorporated.",
+            "Place a fine mesh strainer over a large heat-safe measuring cup, or a large bowl, preferably with a pour spout. Carefully pour coffee mixture through the strainer.",
+            "Pour strained coffee mixture into glass serving dishes or ramekins, and allow to cool to room temperature, about 30 minutes. Then place panna cottas into the fridge to chill until set, about 4 hours."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Zucchini Scarpaccia",
+        "category": "Italian",
+        "ingredients": [
+            "1/4 cup olive oil, divided",
+            "2 medium zucchini,",
+            "2/3 cup sweet onion",
+            "1 1/8 teaspoons salt, divided",
+            "1 cup all purpose flour",
+            "1/3 cup cornmeal",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon dried oregano",
+            "1/2 cup water",
+            "2 large eggs",
+            "1/4 cup chopped fresh basil, plus more for garnish",
+            "2 cloves garlic, minced",
+            "2/3 cup grated Parmesan cheese",
+            "2 tablespoons cornmeal",
+            "1/2 cup marinara sauce, warmed, for serving"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine zucchini and onion slices in a large bowl. Sprinkle with 1 teaspoon salt and toss to coat evenly. Transfer vegetable mixture to a colander and let stand in the sink to drain excess moisture, about 15 minutes. Thoroughly pat zucchini dry with paper towels. Wipe out bowl with paper towels.",
+            "Meanwhile, whisk together flour, 1/3 cup cornmeal, paprika, oregano, and remaining 1/8 teaspoon salt in the large bowl. Whisk in water, eggs, basil, garlic, and remaining 3 tablespoons olive oil.",
+            "Fold in zucchini and onions until fully combined.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a large baking sheet with parchment paper and drizzle with 1 tablespoon olive oil. Set aside.",
+            "Spread mixture onto the prepared baking sheet in a thin layer. Sprinkle with Parmesan cheese and top with 2 tablespoons cornmeal.",
+            "Bake until golden and crispy, about 40 minutes. Let cool 5 minute Slice and garnish with additional fresh basil. Serve with marinara sauce."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Handkerchief Lasagna",
+        "category": "Italian",
+        "ingredients": [
+            "2 cups all-purpose flour or \"OO\" flour",
+            "3 large eggs"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Make a pile of flour on a work surface, and make a well in the center. Add eggs to the well, and scramble eggs with a fork, gradually incorporating flour from the edges. When the dough becomes too thick to use a fork, use a bench scraper to lift remaining dry flour over the top and begin to cut flour in until a shaggy dough forms.",
+            "Knead dough by hand until to form a smooth ball, about 3 minutes. Cover and let rest for 10 to 15 minutes. Knead until a very smooth and elastic ball of dough forms, about 4 minutes more. The dough recipe makes enough for 2 lasagnas; divide dough in half; wrap tightly and rest 1 piece of dough in the refrigerator for at least 2 hours or up to overnight. Freeze remaining dough for another use.",
+            "For cheese filling, add ricotta, Parmesan, egg yolk, parsley, salt, black pepper, and cayenne to a bowl, and stir together until evenly combined. Cover and refrigerate until needed.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Shape pasta dough with lightly floured hands into a rectangle about 1 inch thick. Roll dough out with a rolling pin on a lightly floured work surface into a large, very thin rectangle. The thinner and larger it is, the better. Turn dough over occasionally during rolling to prevent sticking, and dust with flour as needed. Use a pizza cutter to divide dough lengthwise down the center into 2 long strips.",
+            "Bring a large pot of lightly salted water to a boil over high heat. Slowly lower pasta strips into boiling salted water, and cook for 1 minute 30 seconds. Transfer dough into a bowl of cold water until cooled. Transfer onto work surface and cut each strip in half widthwise to make 4 pieces total.",
+            "Set aside about 1/2 cup of cheese mixture. Dollop the rest of cheese mixture by spoonfuls evenly over the 4 pasta pieces, and spread it out roughly but evenly. Spoon about 1/3 cup of pasta sauce onto each piece.",
+            "Top each piece of pasta with torn basil. Set aside 3/4 cup mozzarella; scatter the rest evenly over pasta. Fold each piece of pasta in half to form the stuffed handkerchiefs.",
+            "Spread a layer of sauce on the bottom of the baking dish, and place the first handkerchief in the dish. Spread over 1/3 of reserved cheese mixture, followed by a few spoons of sauce, and another small scatter of shredded mozzarella. Repeat layering with remaining 3 handkerchiefs. Top with sauce, remaining mozzarella, and a dusting of Parmesan. Drizzle with olive oil.",
+            "Bake in the preheated oven until the top is lightly golden brown and the pan is bubbling around the edges, 25 to 30 minutes. Let rest for 10 to 15 minutes. Cut into quarters to serve."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pizza Focaccia",
+        "category": "Italian",
+        "ingredients": [
+            "2 cups water",
+            "1 (0.25 ounce) packet active-dry yeast",
+            "1/2 teaspoon sugar",
+            "2 tablespoons olive oil",
+            "1 tablespoon kosher salt",
+            "3 cups all-purpose flour",
+            "2 cups bread flour"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "For the focaccia:Pour water into a large bowl and sprinkle yeast and sugar on top. Mix briefly with a dough whisk or wooden spoon, then let sit until the yeast has bloomed, about 10 minutes. When ready, the top of the bowl should look like a foamy beer.",
+            "Stir in olive oil and salt. Add all-purpose flour and bread flour and stir with the dough whisk or a wooden spoon until no dry streaks of flour remain.",
+            "Cover the bowl and allow to rise for 45 minutes. After 45 minutes, uncover the bowl and wet your hands slightly. Starting at the top of the bowl, use your wet hands to pull the top edge of the dough up and over the dough ball. Continue this process until you work your way all around the dough. This is known as a stretch and fold. It helps to develop gluten and replaces traditional kneading. Cover the bowl again and let sit in a warm spot.",
+            "After 30 minutes, repeat the stretch and fold process. Cover the bowl and perform two more sets of stretches and folds 30 minutes apart. After the 4th stretch and fold, cover the bowl and let rise for 30 minutes.",
+            "At this point, the dough should have doubled in volume and should be smooth to the touch. The dough is now ready to be used, or can be chilled overnight to use the next day.",
+            "For the toppings:Lightly oil a 9x13-inch metal cake pan. Set the focaccia base in the pan, using your fingers to gently stretch it into all four corners. Cover the focaccia and let rise for about 1 hour.",
+            "Meanwhile, preheat the oven to 450 degrees F (230 degrees C).",
+            "After focaccia is risen, lightly drizzle the surface with olive oil. Use your fingers to dimple the surface, then scatter mozzarella cheese in an even layer.",
+            "Use a spoon to dollop the surface with marinara, then sprinkle the top with Parmesan cheese. Top with pepperoni.",
+            "Bake in the preheated oven until focaccia and cheeses are golden brown and bubbly, 25 to 30 minutes.",
+            "Remove from the oven and let sit in the pan for about 10 minutes, then carefully slide focaccia onto a cutting board. Let cool for an additional 10 minutes before slicing and serving."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

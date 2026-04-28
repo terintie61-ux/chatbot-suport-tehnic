@@ -1,0 +1,580 @@
+[
+    {
+        "Main_category": "others"
+    },
+    {
+        "recipe_title": "Pickled White Asparagus, Cucumbers, and Peppers",
+        "category": "Pickles",
+        "ingredients": [
+            "1 pound white asparagus",
+            "1 red bell pepper",
+            "1 English cucumber",
+            "2 teaspoons minced garlic",
+            "1 teaspoon pickling spice",
+            "1/2 teaspoon peppercorns",
+            "2 cups water",
+            "1 3/4 cups white vinegar",
+            "1 tablespoon salt",
+            "1 teaspoon sugar"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Divide asparagus, bell pepper, cucumber, garlic, pickling spice, and peppercorns between 2 quart-size canning jars.",
+            "Bring water, vinegar, salt, and sugar to a boil in a saucepan over high heat. Reduce heat and simmer for 5 minutes.",
+            "Funnel mixture into jars. Screw on lids and let sit 1 hour or until sealed. Refrigerate for a minimum of 48 hours before serving. Store pickles in the refrigerator after opening."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Quick-Pickled Carrots and Radishes",
+        "category": "Pickles",
+        "ingredients": [
+            "1 pound carrots, peeled and cut into thin sticks",
+            "1 pound radishes, trimmed and sliced",
+            "1 1/2 cups cider vinegar",
+            "1 1/2 cups water",
+            "2 tablespoons sugar",
+            "1 teaspoon sea salt"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Put vegetables in 2 (1-quart) screw-top jars (carrots in one; radishes in the other).",
+            "Combine vinegar, water, sugar, and salt in a medium saucepan; bring to a simmer over medium heat, stirring to dissolve salt and sugar. Remove from heat and pour over vegetables in the jars, pressing down to fully submerge (each jar should get about half the liquid). Screw on lids and shake to combine. Chill, covered, for at least 4 hours (and up to 3 weeks)."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Pickled Cucumbers",
+        "category": "Pickles",
+        "ingredients": [
+            "1 cup water",
+            "1 cup white vinegar",
+            "1/4 cup honey",
+            "7 cloves garlic",
+            "1/2 teaspoon peppercorns",
+            "1/8 teaspoon pickling spice",
+            "1/8 teaspoon mustard seeds",
+            "1/8 teaspoon red pepper flakes",
+            "1/8 teaspoon salt",
+            "fresh dill to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Rinse cucumbers and pat dry. Trim off the ends, then slice in half. Slice each half into spears. Place spears in a clean, wide mouth mason-type canning jar.",
+            "Add water, vinegar, and honey to a saucepan. Add about half the garlic pieces, then drop the remaining garlic into the jar with cucumber spears.",
+            "Using a mortar and pestle, grind peppercorns, pickling spice, mustard seeds, and pepper flakes together. Sprinkle about half the mixture into the saucepan, then add remaining mixture to cucumber spears. Add as much fresh dill fronds as desired to the saucepan and also drop some into the pickle jar.",
+            "Add salt to the saucepan. Heat on low, stirring constantly, until the honey has melted. Pour over cucumber spears, filling jar to within 1/8-inch of rim, then close the lid on tightly. Refrigerate for 1 week before using."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crunchy Quick Refrigerator Dill Pickles",
+        "category": "Pickles",
+        "ingredients": [
+            "8 salad or pickling cucumbers",
+            "2 garlic cloves",
+            "5 sprigs fresh dill",
+            "1/2 teaspoon peppercorns",
+            "4 cups water",
+            "3 tablespoons kosher salt",
+            "3/4 cup white vinegar"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place half of cucumber slices in a large jar. Add garlic, dill, and peppercorns. Top with remaining cucumbers until the jar is filled tightly.",
+            "Bring water, salt, and vinegar to a boil in a small saucepan, stirring occasionally, until salt is dissolved. Remove from heat and let cool 10 minutes. Pour warm mixture over cucumbers and seal jar. Refrigerate at least one day and up to 4 weeks."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pickled Banana Peppers",
+        "category": "Pickles",
+        "ingredients": [
+            "10 banana peppers",
+            "1 cloves garlic",
+            "1 slices jalapenos",
+            "1 1/2 cups vinegar",
+            "1 cup water",
+            "1 1/2 teaspoons kosher salt"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Pack peppers, garlic, and jalapenos tightly in a glass jar.",
+            "Bring vinegar, water, and salt to a boil, stirring occasionally, until salt is dissolved. Remove from heat and let stand 10 minutes. Pour warm mixture over peppers and seal jar. Refrigerate 12 to 24 hours before using and up to 4 weeks."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Fermented Pickled Veggies",
+        "category": "Pickles",
+        "ingredients": [
+            "3 cups water",
+            "3 3/4 teaspoons kosher salt",
+            "1 pound VEGETABLES)",
+            "1 bunch HERBS)",
+            "2 teaspoons peppercorns",
+            "3 cloves garlic,"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "To sanitize jar, put a 1-quart wide-mouthed canning jar in a 6- to 8-quart pot; cover with tap water. (You could also use multiple smaller wide-mouthed canning jars.) Bring to a boil; boil 10 minutes. Using tongs, carefully remove jar from pot, draining excess water; let jar cool slightly. Meanwhile, for brine, stir together filtered water and salt in a 1-quart measuring cup until salt is dissolved.",
+            "Add radishes (or other VEGETABLES), mint (or other HERBS), peppercorns (or other KICK), and garlic to jar. Veggies can be packed tightly; they will shrink and soften as they pickle. Fill jar with brine; you may have brine left over. Add a fermenting weight or an inverted, sanitized plastic lid to keep vegetables submerged.",
+            "Cover jar with a kitchen towel, securing with a rubber band. Let stand at room temperature for at least 24 hours or up to 3 days. You'll start to see bubbles forming. The vegetables will become more tart and the brine will become cloudier the longer the pickles stand. Remove fermenting weight and screw on metal lid. Chill up to 3 weeks."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dill Pickle Meatballs",
+        "category": "Pickles",
+        "ingredients": [
+            "cooking Spray",
+            "1 pound 80/20 ground beef",
+            "3/4 cup round buttery cracker",
+            "1/3 cup yellow onion",
+            "1 large egg",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon black pepper",
+            "4 ounces feta cheese",
+            "1/4 cup finely chopped dill pickles",
+            "3/4 cup chopped fresh mixed herbs",
+            "1 1/4 teaspoon kosher salt",
+            "1/2 cup plain whole milk yogurt",
+            "2 cups buttered rice,"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients. Generously spray a large rimmed baking sheet with cooking spray.",
+            "Add beef, cracker crumbs, onion, egg, garlic powder, black pepper, 1/2 cup feta, chopped dill pickles, 4 tablespoons pickle juice, 1/2 cup herbs, and 1 teaspoon salt to a large bowl; stir gently using a fork or clean hands until just combined, being sure not to overwork meat. Cover and chill in the refrigerator for at least 15 minutes or up to 12 hours. The meatballs are easiest to form when cold.",
+            "Preheat the oven to 425 degrees F (220 degrees C) with rack in top third position.",
+            "Roll beef mixture into 24 (about 1 1/4 ounce; 1 tablespoon plus 2 teaspoons) meatballs. Arrange meatballs on the prepared baking sheet evenly spaced apart.",
+            "Bake in the preheated oven for 10 minutes. Increase oven temperature to broil, do not remove meatballs from oven. Broil until tops are browned and meatballs are cooked through, about 6 minutes.",
+            "While meatballs bake, whisk together yogurt, remaining 1 tablespoon pickle juice, remaining 1/4 cup herbs, and remaining 1/4 teaspoon salt in a small bowl until combined.",
+            "Divide buttered rice among 4 plates. Top evenly with meatballs and remaining 1/2 cup feta cheese. Serve with yogurt sauce and garnish with pepper and herbs."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Candied Jalapeños",
+        "category": "Pickles",
+        "ingredients": [
+            "1 pound jalapeño peppers",
+            "1 ¾ cups brown sugar",
+            "¾ cup apple cider vinegar",
+            "½ teaspoon garlic powder",
+            "½ teaspoon celery seed",
+            "½ teaspoon ground turmeric",
+            "¼ teaspoon cumin seed",
+            "¼ teaspoon anise seed",
+            "¼ teaspoon salt",
+            "¼ teaspoon red pepper flakes",
+            "1 pint-size canning jar"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "While wearing gloves, rinse jalapeños and remove stem. Cut into 1/4-inch slices and set aside. To reduce the heat from the peppers, you may core out the centers with the seeds and discard before slicing.",
+            "Combine brown sugar and apple cider vinegar in a saucepan over medium heat. Add garlic powder, celery seed, turmeric, cumin seed, anise seed, salt, and red pepper flakes. Bring to a simmer for 3 minutes. Add sliced jalapeño peppers and simmer for an additional 4 to 5 minutes.",
+            "Remove jalapeños to a jar using a slotted spoon. Continue simmering liquid over medium-low heat until slightly thickened, about 10 minutes more.",
+            "Pour liquid over the jalapeños and let cool. Use a strainer to remove excess seeds from the liquid, if desired. Refrigerate for a minimum of 3 days before eating. Store in the refrigerator for up to 3 months."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Atchara (Filipino Pickled Red Cabbage)",
+        "category": "Pickles",
+        "ingredients": [
+            "1 pound red cabbage, finely shredded",
+            "½ cup spiced cane vinegar (or coconut vinegar)",
+            "1 tablespoon white sugar",
+            "2 teaspoons whole coriander seeds",
+            "1 ½ teaspoons ground black pepper",
+            "1 teaspoon kosher salt",
+            "1 Thai chile, chopped"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Toss cabbage with vinegar, sugar, coriander, pepper, and salt in a large bowl. Massage spices into cabbage using your hands. Adjust seasoning as desired with additional sugar or salt. Stir in Thai chile. Cover and chill until sugar and salt dissolve, at least 30 minutes."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Crispy Pickle Chips with Creole Dipping Sauce",
+        "category": "Pickles",
+        "ingredients": [
+            "1/2 cup flour",
+            "2 large eggs",
+            "1 cup panko bread crumbs",
+            "1 (16- ounces jar) reduced-sodium dill pickle chips, drained",
+            "1/4 cup mayonnaise",
+            "1 tablespoon mustard"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat air fryer to 350 degrees F (175 degrees C). Lightly coat air fryer basket with cooking spray.",
+            "Put flour in a shallow dish. In a second shallow dish, lightly beat eggs. In a third shallow dish, add panko. Pat pickle chips very dry. Coat pickles in flour, shaking off excess. Dip in eggs, allowing excess to drip off. Toss in panko, lightly pressing to adhere. Arrange pickles in the air fryer basket in an even layer (do not overcrowd), working in batches if needed.",
+            "Cook until pickle chips are golden brown, about 6 minutes.",
+            "Meanwhile, stir together mayonnaise, Creole mustard, lemon juice, and smoked paprika in a small bowl. Serve dipping sauce with pickles."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pickled Beets",
+        "category": "Pickles",
+        "ingredients": [
+            "10 pounds fresh small beets, stems removed",
+            "2 cups white sugar",
+            "1 tablespoon pickling salt",
+            "1 quart white vinegar",
+            "¼ cup whole cloves, or to taste"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Place beets in a large stockpot with water to cover. Bring to a boil, and cook until tender, about 15 minutes.",
+            "Meanwhile, inspect 10 pint-sized jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water until beets are ready. Wash new, unused lids and rings in warm soapy water.",
+            "Drain beets, reserving 2 cups of beet water. When beets are cool enough to handle, peel and discard skins. Fill each sterilized jar with beets. Evenly divide cloves among the jars.",
+            "Combine sugar, 2 cups of beet water, vinegar, and pickling salt in a large saucepan; bring to a rapid boil.",
+            "Pour the hot brine over the beets in the jars, and seal the lids.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil over high heat, then carefully lower the jars into the pot using a holder. Leave a 2-inch space between the jars. Pour in more boiling water if necessary until the water level is at least 1 inch above the tops of the jars. Bring the water to a full boil, cover the pot, and process for 10 minutes.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Nana's Southern Pickled Peaches",
+        "category": "Pickles",
+        "ingredients": [
+            "4 cups white sugar",
+            "1 cup white vinegar",
+            "1 cup water",
+            "2 tablespoons whole cloves",
+            "4 pounds fresh clingstone peaches, blanched and peeled",
+            "5 (3-inch long) cinnamon sticks"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Inspect five quart-sized jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water until peaches are ready. Wash new, unused lids and rings in warm soapy water.",
+            "At the same time, bring sugar, vinegar, and water to a boil in a large pot. Boil until syrupy, about 5 minutes.",
+            "Press one to two cloves into each peach. Place peaches into boiling syrup and boil until tender, about 20 minutes.",
+            "Spoon peaches into hot, sterilized jars, and top with liquid, filling to within 1/2 inch of the rim. Insert one cinnamon stick into each jar. Wipe the rims with a clean dry cloth, then seal with lids and rings.",
+            "Place a rack into the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars 2 inches apart into the boiling water using a holder. Pour in more boiling water to cover jars by at least 1 inch. Bring to a rolling boil, cover, and process for 10 minutes to seal, or consult times recommended by your local extension.",
+            "Remove the jars from the stockpot and let rest, several inches apart, for 12 to 24 hours. Press the center of each lid with a finger to ensure the lid does not move up or down. Remove the rings for storage and store in a cool, dark area."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Crisp Pickled Green Beans",
+        "category": "Pickles",
+        "ingredients": [
+            "2 ½ cups distilled white vinegar",
+            "2 cups water",
+            "¼ cup salt",
+            "1 clove garlic, peeled",
+            "2 ½ pounds fresh green beans",
+            "6 large sprigs dill",
+            "¾ teaspoon red pepper flakes (Optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Inspect six ½-pint jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water. Wash new, unused lids and rings in warm soapy water.",
+            "While the jars are being sterilized, stir together vinegar, water, and salt in a large saucepan. Add garlic and bring to a rolling boil over high heat.",
+            "Trim green beans to 1/4-inch shorter than the jars.",
+            "Remove jars from simmering water. Place 1 sprig of dill and 1⁄8 teaspoon red pepper flakes in each jar. Pack in green beans standing on end.",
+            "Ladle boiling brine (leave out garlic) into the jars, filling within ¼-inch of the tops. Seal jars with lids and rings.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water.",
+            "Bring to a boil and lower jars 2 inches apart into the boiling water using a holder.",
+            "Pour in more boiling water to cover jars by at least 1 inch. Bring to a simmer (do not boil), cover, and process for 10 minutes.",
+            "Remove jars from the stockpot and cool to room temperature, 8 to 12 hours. Test jars for a good seal by pressing on the center of the lid — it should not move.",
+            "Let green beans ferment for 2 to 3 weeks in a cool, dark space before eating."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dilly Beans",
+        "category": "Pickles",
+        "ingredients": [
+            "6 cups water",
+            "1 cup pickling salt or less to taste",
+            "6 cups distilled white vinegar",
+            "8 heads fresh dill weed",
+            "½ cup pickling spice",
+            "½ cup mustard seeds",
+            "8 dried red chile peppers",
+            "16 cloves garlic, peeled",
+            "1 teaspoon alum",
+            "5 pounds fresh green beans, rinsed and trimmed"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Sterilize 8 (1 pint) jars in boiling water for at least 5 minutes.",
+            "Combine water, pickling salt, and vinegar in a large pot; bring to a boil. Reduce heat to low, and keep at a simmer while you pack the jars.",
+            "Place the following in each jar: 1 head of dill, 1 tablespoon of pickling spice, 1 tablespoon of mustard seed, 1 dried chile pepper, 2 cloves of garlic, and 1/8 teaspoon of alum. Pack beans into the spiced jars in a standing position.",
+            "Ladle the hot brine into jars, leaving 1/2 inch of space at the top. Screw the lids onto the jars.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars 2 inches apart into the boiling water using a holder. Pour in more boiling water to cover jars by at least 1 inch. Bring to a rolling boil, cover, and process for 10 minutes.",
+            "Remove the jars from the stockpot and let rest, several inches apart, for 12 to 24 hours. Press the center of each lid with a finger to ensure the lid does not move up or down. Remove the rings for storage and store in a cool dark place for at least 1 week before eating."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pickled Cucumbers",
+        "category": "Pickles",
+        "ingredients": [
+            "2 (1 pound) cucumbers,",
+            "3 green onions",
+            "3 cups white vinegar",
+            "2 cups water",
+            "1 1/2 tablespoons kosher salt",
+            "1/4 cup pickling spice",
+            "2 bay leaves",
+            "1/2 tablespoon peppercorns"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Divide cucumber slices and green onions between 2 1-quart jars.",
+            "Bring vinegar, water, salt, pickling spice, bay leaves, and peppercorns to a boil in a saucepan; boil for 10 minutes. Remove from heat to cool for 30 minutes.",
+            "Pour brine over cucumbers. Cover and refrigerate for a minimum of 8 hours, or 24 hours for best results."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Pickled Ginger (Gari)",
+        "category": "Pickles",
+        "ingredients": [
+            "8 ounces fresh young ginger root, peeled",
+            "1 ½ teaspoons sea salt",
+            "1 cup rice vinegar",
+            "⅓ cup white sugar"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Cut ginger into chunks.",
+            "Place in a bowl, sprinkle with sea salt, and stir to coat. Let stand for about 30 minutes, then transfer to a clean lidded jar.",
+            "Stir together rice vinegar and sugar in a saucepan until sugar has dissolved.",
+            "Bring to a boil, then pour the boiling liquid over ginger root pieces in the jar.",
+            "Allow the mixture to cool, then seal the jar. After a few minutes, the liquid may change to a slightly pinkish color; don't be alarmed. Store in the refrigerator for at least 1 week.",
+            "Cut pieces of ginger into paper-thin slices for serving."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Refrigerator Dill Pickles",
+        "category": "Pickles",
+        "ingredients": [
+            "3 ½ cups water",
+            "1 ¼ cups white vinegar",
+            "1 tablespoon white sugar",
+            "1 tablespoon sea salt",
+            "4 cups cucumber spears",
+            "2 cloves garlic, whole",
+            "2 heads fresh dill"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir water, vinegar, sugar, and sea salt together in a saucepan over high heat; bring to a boil. Remove from the heat and cool completely.",
+            "Combine cucumber spears, garlic cloves, and fresh dill in a large glass or plastic lidded container.",
+            "Pour cooled vinegar mixture over cucumbers, garlic, and dill.",
+            "Seal container with lid and refrigerate for at least 3 days."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Quick Pickled Jalapeño Rings",
+        "category": "Pickles",
+        "ingredients": [
+            "¾ cup water",
+            "¾ cup distilled white vinegar",
+            "3 tablespoons white sugar",
+            "1 tablespoon kosher salt",
+            "1 clove garlic, crushed",
+            "½ teaspoon oregano",
+            "10 large jalapeño peppers, sliced into rings"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine water, vinegar, sugar, kosher salt, garlic, and oregano in a saucepan over high heat. Bring mixture to a boil, stir in jalapeño peppers, and remove from heat.",
+            "Let mixture cool for 10 minutes.",
+            "Pack peppers into two 8-ounce jars using tongs and cover with vinegar brine mixture. Let pickles cool completely at room temperature.",
+            "Cover jars with tight-fitting lids and refrigerate until needed."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Bread and Butter Pickles",
+        "category": "Pickles",
+        "ingredients": [
+            "25 cucumbers, thinly sliced",
+            "6 onions, thinly sliced",
+            "2 green bell peppers, diced",
+            "3 cloves garlic, chopped",
+            "½ cup salt",
+            "5 cups white sugar",
+            "3 cups cider vinegar",
+            "2 tablespoons mustard seed",
+            "1 tablespoon ground turmeric",
+            "1 ½ teaspoons celery seed",
+            "½ teaspoon whole cloves"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Mix cucumbers, onions, green bell peppers, garlic, and salt together in a large bowl. Allow to stand approximately 3 hours.",
+            "Mix sugar, cider vinegar, mustard seed, turmeric, celery seed, and whole cloves together in a large saucepan; bring to a boil over high heat.",
+            "Drain any liquid from the cucumber mixture. Stir cucumbers into the boiling vinegar mixture. Remove from heat shortly before the combined mixture comes to a boil.",
+            "Transfer into sterile screw-top jars; seal and chill in the refrigerator until ready to serve.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma Oma's Pickled Okra",
+        "category": "Pickles",
+        "ingredients": [
+            "1 ½ pounds fresh okra",
+            "3 dried red chile peppers",
+            "3 teaspoons dried dill",
+            "2 cups water",
+            "1 cup vinegar",
+            "2 tablespoons salt"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Inspect three (1-pint) jars for cracks and rings for rust, discarding any defective ones. Immerse in simmering water until brine is ready. Wash new, unused lids and rings in warm soapy water.",
+            "Bring water, vinegar, and salt to a rolling boil in a small saucepan.",
+            "Divide okra evenly between the hot, sterlized jars. Place a dried chile and a teaspoon of dill into each jar. Pour hot brine over okra, then run a clean knife or thin spatula around the insides of the jars to remove any air bubbles. Wipe the rims with a moist paper towel to remove any residue. Top with lids and screw rings on tightly.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with water. Bring to a boil and lower jars 2 inches apart into the boiling water using a holder. Pour in more boiling water to cover jars by at least 1 inch. Bring to a rolling boil, cover, and process for 10 minutes.",
+            "Remove the jars from the stockpot and let rest, several inches apart, for 12 to 24 hours. Press the center of each lid with a finger to ensure the lid does not move up or down. Remove the rings for storage and store jars in a cool, dark area for up to 1 year."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    }
+]

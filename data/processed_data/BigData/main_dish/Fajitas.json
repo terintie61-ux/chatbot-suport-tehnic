@@ -1,0 +1,648 @@
+[
+    {
+        "Main_category": "main_dish"
+    },
+    {
+        "recipe_title": "Shrimp Fajita Rice Casserole",
+        "category": "Fajitas",
+        "ingredients": [
+            "cooking spray",
+            "1 tablespoon vegetable oil",
+            "1 red bell pepper",
+            "1 yellow bell pepper",
+            "1 poblano pepper",
+            "1 small onion",
+            "3 cloves garlic",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon ground black pepper",
+            "1/2 teaspoon ground cumin",
+            "1/2 teaspoon dried oregano",
+            "1 pound shrimp",
+            "1 (14.5 ounce) cans fire roasted diced tomatoes",
+            "1 1/2 cups white rice",
+            "sliced avocado",
+            "sour cream, as needed",
+            "chopped fresh cilantro",
+            "lime wedges"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Coat a 2-quart baking dish with nonstick cooking spray.",
+            "Heat oil in a 12-inch skillet over medium-high heat. Add peppers and onion. Cook and stir until softened, 6 minutes.",
+            "Stir in garlic, salt, pepper, cumin, and oregano. Cook and stir until fragrant, 1 minute.",
+            "Stir together pepper mixture, shrimp, undrained tomatoes, and rice in a large bowl. Transfer to prepared baking dish. Cover tightly with foil.",
+            "Bake in the preheated oven until heated through, about 20 minutes.",
+            "Top servings with avocado, sour cream, and cilantro. Serve with lime wedges."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Fajita Skillet Casserole",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "2 poblano peppers",
+            "1 orange bell pepper",
+            "1 white onion",
+            "1 ½ teaspoons chili powder",
+            "1/2 teaspoon ground cumin",
+            "1/4 teaspoon garlic powder",
+            "3/4 teaspoon kosher salt",
+            "1/2 teaspoon ground black pepper",
+            "2 ½ tablespoons butter",
+            "2 tablespoons all-purpose flour",
+            "1 (10 ounce) can diced tomatoes and green chiles",
+            "1 ¼ cups chicken broth",
+            "2 ½ cups rotisserie chicken",
+            "1 (15 ounce) can pinto beans, drained and rinsed",
+            "2 cups sharp Cheddar cheese",
+            "3 cups tortilla chips",
+            "lettuce"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Heat oil in a large, oven-proof skillet over medium-high heat. Add peppers and onions and cook, undisturbed, 5 minutes or until browned. Add chili powder, cumin, garlic powder, salt and pepper and continue cooking until vegetables are soft, stirring often, 1 to 2 minutes. Remove vegetables from the pan and set aside.",
+            "Add butter to the pan and melt over moderate heat. Whisk in flour and cook for 1 minute, stirring constantly. Add in tomatoes and broth and cook until thick and creamy, stirring constantly, about 3 minutes. Stir in chicken and beans. Top chicken mixture with 1 cup cheese. Spread reserved peppers and onions evenly over the cheese and top with chips and remaining cheese.",
+            "Bake in the preheated oven until bubbly and lightly browned on top, about 15 minutes. Serve with desired toppings."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Fajita Tacos",
+        "category": "Fajitas",
+        "ingredients": [
+            "1/4 cup orange juice",
+            "2 tablespoons taco seasoning (see Note)",
+            "2 tablespoons vegetable oil",
+            "1 pound boneless skinless chicken breasts, cut into strips",
+            "1/2 onion, cut into strips",
+            "1/2 green bell pepper, seeded and cut into strips",
+            "1/2 red bell pepper, seeded and cut into strips",
+            "8 6 inch flour tortillas",
+            "1 avocado, pitted and sliced, or as needed",
+            "1/2 cup sour cream, or as needed",
+            "1/2 cup cotija cheese, or as needed"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Combine orange juice, taco seasoning, and vegetable oil in a large resealable bag. Add chicken, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator overnight.",
+            "Heat a cast iron skillet over medium high heat.",
+            "Cook chicken in the hot skillet for 5 minutes. Add onion, green bell pepper, and red bell pepper. Cook until peppers are crisp tender, 4 to 5 minutes. An instant-read thermometer inserted into center of chicken strips should read 165 degrees F (74 degrees C).",
+            "Heat tortillas until soft and pliable. Top with chicken fajita mixture, avocado, sour cream, and cotija cheese. Serve immediately."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Chicken Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "⅓ cup vegetable oil",
+            "2 teaspoons chili powder",
+            "1 teaspoon dried oregano",
+            "½ teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "½ teaspoon ground cumin",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 pinch ground cayenne pepper",
+            "1 ½ pounds chicken tenders, quartered",
+            "4 cups sliced bell peppers, any color",
+            "1 onion, sliced",
+            "¼ cup chopped fresh cilantro",
+            "½ lime, juiced"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine oil, chili powder, oregano, garlic powder, onion powder, cumin, salt, black pepper, and cayenne pepper in a large resealable plastic bag. Add chicken tenders, bell peppers, and onion; seal the bag and shake to mix. Marinate in the refrigerator, 30 minutes to 2 hours.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a rimmed sheet pan with aluminum foil.",
+            "Spread chicken mixture onto the prepared pan.",
+            "Roast in the preheated oven, stirring halfway, until chicken is no longer pink and bell peppers are softened, 15 to 20 minutes. An instant-read thermometer inserted into the center of chicken should read at least 165 degrees F (74 degrees C).",
+            "Sprinkle cilantro and pour lime juice over chicken mixture; stir to distribute."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Beef Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "¼ cup olive oil",
+            "1 medium lime, juiced",
+            "3 tablespoons chopped fresh cilantro",
+            "2 tablespoons finely chopped onion",
+            "3 cloves garlic, finely chopped",
+            "1 ½ teaspoons ground cumin",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "2 (8 ounce) boneless New York strip steaks, cut into thin strips",
+            "8 (6 inch) white corn tortillas, or more as needed",
+            "1 (8 ounce) jar salsa",
+            "1 (8 ounce) package shredded Mexican cheese blend"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk oil, lime juice, cilantro, onion, garlic, cumin, salt, and pepper together in a bowl; pour into a resealable plastic bag.",
+            "Add steak strips, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 4 to 8 hours.",
+            "When ready to cook, heat a large skillet over medium heat. Add steak and marinade. Cook and stir until steak is browned and cooked through and all liquid is absorbed, 15 to 20 minutes.",
+            "Serve steak on tortillas with salsa and Mexican cheese."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Steak Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 (1 1/2 pound) beef flank steak, cut into six equal portions",
+            "1 (8 ounce) can chopped tomatoes",
+            "1 onion, sliced",
+            "1 green bell pepper, sliced into strips",
+            "1 red bell pepper, sliced into strips",
+            "1 jalapeño pepper, seeded and chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon chili powder",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground coriander",
+            "¼ teaspoon salt",
+            "6 large flour tortillas, or as needed",
+            "1 cup shredded Mexican cheese blend"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place flank steak pieces into a slow cooker. Stir in tomatoes, onion, bell peppers, jalapeño pepper, garlic, chili powder, cumin, coriander, and salt.",
+            "Cook on Low for 8 to 10 hours or High for 4 to 6 hours, until steak is fall-apart tender.",
+            "Remove steak from the slow cooker and shred. Return to the slow cooker and stir into the sauce.",
+            "Serve hot with tortillas and shredded cheese, allowing everyone to make their own fajita."
+        ],
+        "healthiness_score": 86,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Chicken Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 tablespoon chili powder",
+            "1 teaspoon ground cumin",
+            "1 teaspoon ground paprika",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "¼ teaspoon cayenne pepper",
+            "¼ teaspoon garlic powder",
+            "1 ½ pounds skinless, boneless chicken breast, cut into strips",
+            "4 tablespoons olive oil, or more as needed",
+            "2 bell peppers, sliced",
+            "1 onion, thinly sliced",
+            "8 (6 inch) flour tortillas"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Whisk chili powder, cumin, paprika, salt, pepper, cayenne pepper, and garlic powder for fajita seasoning together in a small bowl.",
+            "Trim chicken of any excess fat and place in a large, lidded bowl. Add 2 tablespoons olive oil and sprinkle with about 3/4 of the fajita seasoning. Toss, adding more oil if necessary, until coated. Poke chicken with a knife to allow penetration of seasoning and oil. Place the lid on the bowl and shake until chicken is thoroughly coated. Marinate in the refrigerator, shaking every couple of hours, for 4 to 6 hours.",
+            "Remove the marinating bowl from the refrigerator and let sit on the counter until chicken is room temperature, about 1 hour.",
+            "Preheat an outdoor grill for medium heat and lightly oil the grate. Preheat the oven to 350 degrees F (175 degrees C). Make 2 stacks of 4 tortillas, and wrap each one in aluminum foil.",
+            "Heat remaining 2 tablespoons olive oil in a large skillet over medium heat. Add peppers and onion. Stir in remaining fajita seasoning and cook, stirring occasionally, until vegetables are soft, 8 to 10 minutes.",
+            "While vegetables are cooking, place tortillas in the oven to warm. At the same time, grill chicken, turning halfway through, until no longer pink in the center and the juices run clear, 2 to 3 minutes per side.",
+            "To assemble fajitas, fill warmed tortillas with chicken, peppers, and onions."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Venison Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "2 teaspoons seasoned salt",
+            "¼ teaspoon garlic salt",
+            "½ teaspoon black pepper",
+            "½ teaspoon cayenne pepper",
+            "1 teaspoon dried oregano",
+            "1 ½ pounds venison, cut into 2 inch strips",
+            "4 tablespoons vegetable oil",
+            "1 medium red bell pepper, cut into 2 inch strips",
+            "1 medium yellow bell pepper, cut into 2 inch strips",
+            "1 medium onion, cut into 1/2-inch wedges",
+            "12 fajita size flour tortillas, warmed"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Combine seasoned salt, garlic salt, black pepper, cayenne pepper, and oregano to make the fajita seasoning. Sprinkle two teaspoons of the seasoning over the sliced venison. Mix well, cover, and refrigerate for 30 minutes.",
+            "Heat 2 tablespoons of oil in a heavy frying pan. Cook bell peppers and onion until starting to soften, then remove. Pour in remaining oil, then cook venison until browned. Return pepper mixture to the pan, season with remaining fajita seasoning, and reheat. Served with the warmed tortillas."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cast Iron Chicken Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "¼ cup olive oil",
+            "2 tablespoons freshly squeezed lime juice",
+            "1 tablespoon chili powder",
+            "2 teaspoons ground cumin",
+            "2 teaspoons garlic powder",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "1 pound skinless, boneless chicken breasts"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Make marinade: Combine olive oil, lime juice, chili powder, cumin, garlic powder, salt, and pepper in a bowl. Add chicken and toss until well coated. Cover the bowl and refrigerate, 4 hours to overnight.",
+            "Heat a cast iron skillet over medium-high heat. Add chicken to the hot skillet, reserving marinade. Cook until no longer pink in the center and the juices run clear, 6 to 8 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove chicken from the skillet, slice, and set aside.",
+            "Cook vegetables: Heat olive oil in the same skillet. Add onion, bell peppers, and reserved marinade. Cook and stir until vegetables are soft and tender, 5 to 7 minutes.",
+            "Add chicken back to the skillet; cook and stir until warmed through, 2 to 4 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Steak Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 pound lean steak, cut into strips",
+            "½ cup fresh lime juice",
+            "½ tablespoon ground black pepper",
+            "1 tablespoon chopped fresh cilantro",
+            "2 tablespoons vegetable oil",
+            "1 large onion, cut into thin strips",
+            "1 julienned green bell pepper",
+            "2 lemons, quartered",
+            "salt and pepper to taste",
+            "6 (12 inch) flour tortillas"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine the lime juice, ground pepper and cilantro in a shallow dish. Place steak strips into the marinade and refrigerate for two to four hours.",
+            "Heat 1 tablespoon vegetable oil in a large skillet over medium-high heat. Add steak strips, and fry until cooked to your liking. Remove meat and set aside.",
+            "Add remaining oil and onions to the skillet. Cook over medium low heat, until translucent, stir in green peppers and steak. Squeeze the juice of 1 lemon over the top and stir. When the green bell peppers are just tender remove the pan from the heat. Season with salt and pepper to taste. Serve the steak fajitas with tortillas and lemon wedges on the side."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Mexican Botana Platter",
+        "category": "Fajitas",
+        "ingredients": [
+            "2 pounds beef skirt steak",
+            "2 pounds boneless chicken thighs",
+            "2 ½ teaspoons garlic powder, divided",
+            "2 teaspoons fajita seasoning",
+            "2 cups refried beans",
+            "salt to taste",
+            "lemon pepper to taste",
+            "4 avocados, peeled, pitted, and mashed",
+            "1 cup corn oil",
+            "24 corn tortillas",
+            "1 medium onion, chopped",
+            "1 medium green bell pepper, chopped",
+            "⅓ bunch cilantro, chopped",
+            "1 (16 ounce) package shredded American cheese",
+            "12 ounces sour cream",
+            "2 large tomatoes, chopped",
+            "4 pickled jalapeño peppers, sliced (Optional)"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Rub beef and chicken with 2 teaspoons garlic powder and fajita seasoning; cut into 1-inch strips. Set aside.",
+            "Warm refried beans in a saucepan over medium-low heat.",
+            "Stir remaining 1/2 teaspoon garlic powder, salt, and lemon pepper into mashed avocados; set aside.",
+            "Heat corn oil in a deep skillet over medium-high heat. Cut tortillas in half, then cut in half again to make 4 triangular pieces per tortilla. Fry tortilla triangles in the hot oil in batches without overlapping until crisp; transfer to paper towels to drain. Repeat with remaining tortilla triangles. Discard oil; wipe out skillet.",
+            "Return skillet to medium heat; stir in beef, chicken, onion, and bell pepper. Cook, stirring occasionally, about 7 minutes, then stir in cilantro.",
+            "Layer tortilla triangles into a large baking dish; spread refried beans evenly over top. Sprinkle with cheese; evenly spread meat mixture on top.",
+            "Bake in the preheated oven until cheese and beans are bubbly, about 20 minutes. Randomly dollop tablespoonfuls of sour cream and guacamole across top; sprinkle with tomatoes and jalapeños."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Steak for Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "2 teaspoons salt",
+            "½ teaspoon garlic powder",
+            "½ teaspoon ground cumin",
+            "½ teaspoon jalapeño chile powder (such as Savory Spice Shop) (Optional)",
+            "¼ teaspoon chili powder (Optional)",
+            "¼ teaspoon ground coriander",
+            "1 pound skirt steak, sliced into strips against the grain",
+            "1 onion, sliced into strips",
+            "1 bell pepper, seeded and sliced into strips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine olive oil, salt, garlic powder, cumin, jalapeño chile powder, chili powder, and coriander in a resealable plastic bag. Add steak, onion, and bell pepper, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 8 hours to overnight.",
+            "Line an air fryer basket with a sheet of perforated parchment paper. Add marinated onion, pepper, and steak.",
+            "Air fry for 5 minutes at 400 degrees F (200 degrees C). Remove the air fryer basket and shake to ensure even cooking. Air fry until steak is cooked through, about 4 more minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Quick and Easy Shrimp Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 ½ tablespoons vegetable oil, divided",
+            "1 green bell pepper, sliced",
+            "1 red bell pepper, sliced",
+            "1 pound medium shrimp - peeled and deveined",
+            "1 cup (1 small) chopped onion",
+            "1 (1.25 ounce) package taco seasoning mix",
+            "3 tablespoons water, or as needed",
+            "6 (10 inch) flour tortillas, warmed"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Heat 1 tablespoon of oil in a large skillet over medium-high heat. Add the red and green bell peppers, and onion. Cook, stirring frequently until peppers are hot, but still slightly crisp, about 5 minutes. Remove from the skillet and set aside.",
+            "Pour the remaining 1/2 tablespoon of oil into the skillet, and add the shrimp. Cook, stirring occasionally, until pink and opaque. Reduce heat to low, and return the peppers and onion to the skillet. Stir in taco seasoning and water so that everything is evenly coated. Simmer until peppers are heated. Serve in warm tortillas."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Karen's Slow Cooker Chicken Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 Reynolds® Slow Cooker Liner",
+            "2 pounds boneless, skinless chicken breast tenders",
+            "1 medium onion, thinly sliced",
+            "1 large red bell pepper, cut into thin strips",
+            "1 large green bell pepper, cut into thin strips",
+            "¾ cup chunky salsa",
+            "2 (1.4 ounce) packages fajita seasoning mix",
+            "¼ teaspoon cayenne pepper",
+            "16 (10 inch) flour tortillas",
+            "½ cup Shredded cheese",
+            "½ cup Chopped tomatoes",
+            "¼ cup Guacamole",
+            "¼ cup Sour cream"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Open Reynolds® Slow Cooker Liner and place it inside a 5- to 6 1/2-quart slow cooker bowl. Fit liner snugly against the bottom and sides of bowl; pull top of liner over rim of bowl.",
+            "Place chicken in Reynolds® Slow Cooker Liner. Place onions and bell peppers on top of chicken.",
+            "Mix salsa, fajita seasoning mix and cayenne pepper in a medium bowl. Pour over chicken. Place lid on slow cooker.",
+            "Cook on LOW for 6 to 7 hours OR on HIGH for 3 to 4 hours until chicken is done.",
+            "Carefully remove lid to allow steam to escape. Gently stir chicken and sauce with a plastic or wooden slotted spoon. Spoon 1/2 cup of chicken mixture into center of each tortilla; add desired toppings and fold tortilla over filling. Do not lift or transport liner with food inside. Cool slow cooker completely; remove Reynolds® Slow Cooker Liner and toss."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Beef Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "2 medium bell peppers, sliced",
+            "1 medium onion, sliced",
+            "1 tablespoon olive oil, divided",
+            "1 ½ teaspoons salt, divided",
+            "1 teaspoon chili powder, divided",
+            "¾ teaspoon garlic powder",
+            "¾ teaspoon ground black pepper, divided",
+            "½ teaspoon ground cumin, divided",
+            "1 (1 1/2-pound) flank steak",
+            "2 medium limes, quartered",
+            "6 (6 inch) flour tortillas, warmed"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 450 degrees F (230 degrees C). Line a sheet pan with foil.",
+            "Combine bell peppers, onion, 2 teaspoons oil, 3/4 teaspoon salt, 1/2 teaspoon chili powder, garlic powder, 1/4 teaspoon pepper, and 1/4 teaspoon cumin on the prepared pan; toss to coat. Spread veggie mixture around the sides of the pan creating a space in the center.",
+            "Place flank steak in center of pan and brush with remaining 1 teaspoon oil. Sprinkle steak with remaining salt, chili powder, pepper, and cumin and rub to evenly coat.",
+            "Bake in the preheated oven until veggies are tender and browned around the edges and steak is beginning to firm and is hot and slightly pink in the center, 12 to 14 minutes, or to desired degree of doneness. An instant-read thermometer inserted into the center of the steak should read 140 degrees F (60 degrees C) for medium.",
+            "Transfer steak to a cutting board and rest, 5 to 10 minutes.",
+            "Thinly slice steak and return to the sheet pan. Add lime wedges and serve with tortillas."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Oven-Baked Chicken Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "cooking spray",
+            "2 red bell peppers, sliced",
+            "1 large onion, sliced",
+            "2 pounds skinless, boneless chicken breasts, cut into thin strips",
+            "1 (1 ounce) package fajita seasoning mix, divided",
+            "2 tablespoons vegetable oil, divided",
+            "8 (6 inch) flour tortillas",
+            "½ cup sour cream, or to taste",
+            "½ cup salsa, or to taste",
+            "½ cup chopped fresh cilantro, or to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C). Spray a 9x13-inch glass baking dish with cooking spray.",
+            "Spread red bell peppers and onion in the baking dish.",
+            "Coat chicken strips with a few pinches of the fajita seasoning mix. Heat 2 teaspoons vegetable oil in a skillet over medium heat; cook and stir seasoned chicken until browned, about 2 minutes per side.",
+            "Place chicken in the baking dish with bell peppers and onion; top with remaining fajita seasoning mix and vegetable oil. Stir until chicken and vegetables are evenly coated.",
+            "Bake in the preheated oven, stirring halfway through baking, until chicken is no longer pink in the center, about 30 minutes.",
+            "Spoon chicken mixture into each tortilla and top with sour cream, salsa, and cilantro."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fajita Quesadillas",
+        "category": "Fajitas",
+        "ingredients": [
+            "2 tablespoons vegetable oil, divided",
+            "½ onion, sliced",
+            "½ green bell pepper, sliced",
+            "salt to taste",
+            "4 flour tortillas",
+            "½ pound cooked steak, cut into 1/4-inch thick pieces",
+            "1 cup shredded Mexican cheese blend"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Heat 2 teaspoons oil in a 10-inch skillet over medium heat; cook and stir onion and green bell pepper in the hot oil until onions are softened, 5 to 10 minutes. Season mixture with salt and transfer to a bowl.",
+            "Brush 1 side of each tortilla with remaining oil. Place 1 tortilla, oil-side down, in the same skillet; sprinkle with 1/2 the steak, 1/2 the onion mixture, and 1/2 the Mexican cheese mixture. Place a second tortilla, oil-side up, onto cheese layer, pressing down with a spatula to seal.",
+            "Cook quesadilla over medium heat until cheese melts and tortillas are browned, 3 to 4 minutes per side. Remove quesadilla from skillet and cut into wedges. Repeat with remaining ingredients for second quesadilla."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Shrimp Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 (1 ounce) package fajita seasoning",
+            "1 tablespoon olive oil",
+            "1 ½ pounds raw shrimp, peeled and deveined",
+            "1 red bell pepper, sliced into strips",
+            "1 yellow bell pepper, sliced into strips",
+            "1 red onion, sliced into strips",
+            "1 jalapeno pepper, sliced into rings"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Mix fajita seasoning and olive oil together in a large bowl. Add shrimp; toss to coat.",
+            "Lay out seasoned shrimp in a single layer on a baking sheet. Add bell peppers, red onion, and jalapeño; mix with shrimp and spread out evenly.",
+            "Roast in the preheated oven until shrimp are opaque, 8 to 10 minutes. Transfer shrimp to a serving plate.",
+            "Broil pepper mixture until lightly blackened, 2 to 3 minutes. Transfer to the serving plate with shrimp."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Flank Steak Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "1 pound beef flank steak, trimmed of fat",
+            "¼ cup lime juice",
+            "1 tablespoon vegetable oil",
+            "1 tablespoon chili powder",
+            "½ teaspoon salt",
+            "¼ teaspoon cayenne pepper",
+            "Reynolds Wrap Heavy-Duty Aluminum Foil",
+            "2 red, yellow, or green bell peppers (or combination), thinly sliced",
+            "1 medium onion, thinly sliced",
+            "2 cloves garlic, minced",
+            "8 (6- to 7-inch) flour tortillas",
+            "⅓ tablespoon guacamole, salsa, and sour cream (Optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place steak in a large resealable plastic bag. Add lime juice, oil, chili powder, salt, and cayenne pepper. Coat steak with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, 30 to 60 minutes.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Remove meat from marinade and shake off excess. Discard marinade. Place meat in the center of a (12x18-inch) sheet of heavy-duty aluminum foil. Lift foil sides; double fold top and ends to seal packet, leaving room for heat circulation inside.",
+            "Place peppers, onion, and garlic in the center of a (12x18-inch) sheet of heavy-duty aluminum foil. Repeat folding process to seal packet.",
+            "Wrap tortillas tightly in heavy-duty aluminum foil.",
+            "Bake steak and vegetables in foil packets in the preheated oven until steak reaches desired doneness, 145 degrees F (63 degrees C) for medium-rare, and vegetables are tender, 30 to 35 minutes. Add tortillas to the oven until heated through during the last 10 minutes of baking.",
+            "Open packets carefully by cutting along top fold with a sharp knife, allowing steam to escape. Thinly slice steak.",
+            "Fill warm tortillas with steak and vegetables. Top with guacamole, salsa, and sour cream."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Veggie Fajitas",
+        "category": "Fajitas",
+        "ingredients": [
+            "2 teaspoons olive oil",
+            "2 cloves garlic, minced",
+            "2 green bell peppers, sliced",
+            "2 yellow bell peppers, sliced",
+            "½ onion, sliced",
+            "1 cup mushrooms, sliced",
+            "3 green onions, chopped",
+            "lemon pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "In a large frying pan over a medium heat, saute olive oil and garlic. Let the garlic saute for 2 minutes, stir in the green and yellow bell peppers. Let the peppers saute for 2 minutes, stir in the onions. After two minutes add the mushrooms and green onions to the frying pan. Season the vegetables with lemon pepper to taste and stir well. Cover the frying pan and cook until all of the vegetables are tender."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    }
+]

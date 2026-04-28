@@ -1,0 +1,620 @@
+[
+    {
+        "Main_category": "soups"
+    },
+    {
+        "recipe_title": "Classic Italian Pastina Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 (3 pound) whole chicken, neck and insides removed",
+            "10 cups cold water, or as needed",
+            "3 ribs celery, divided",
+            "2 medium white or yellow onions, peeled, divided",
+            "3 large carrots, peeled, divided",
+            "1 tablespoon kosher salt, plus more to taste, divided",
+            "2 teaspoons freshly ground black pepper, divided",
+            "2 tablespoons olive oil",
+            "2 cloves garlic, minced",
+            "1 tablespoon reduced sodium chicken base (such as Better than Bouillon)",
+            "1 cup pastina or other tiny pasta, such as stars",
+            "1 tablespoon chopped parsley, or to taste (optional)",
+            "2 tablespoons freshly grated Parmesan cheese, or to taste (optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place chicken in a large pot and pour water over to cover.",
+            "Roughly chop 2 ribs of celery, 1 ½ onions, and 2 carrots; add to pot with chicken. Season with 2 teaspoon salt and 1 teaspoon pepper and bring pot to a boil over high heat. Reduce the heat to medium-low and allow the chicken to simmer 1 hour, covered.",
+            "Remove chicken from the pot and allow to cool before removing and shredding the meat. Strain the stock and discard the solids. Reserve liquid and add water if necessary to measure 12 cups of liquid. Wipe pot clean.",
+            "Finely chop remaining celery, onion and carrot. Place pot over medium-high heat and add oil. Add chopped vegetables, remaining salt, pepper and garlic and cook frequently until vegetables are tender and onion is translucent (the veggies should not be browned). Add reserved stock and chicken base and stir to combine. Bring mixture to a boil andreduce it to simmer. Allow soup to simmer 10 minutes.",
+            "Increase heat to high and bring to a boil. Add pasta and cook, stirring occasionally 15 minutes or until pasta is tender. Reduce heat to low and add chicken and season if desired. Cook 5 additional minutes. Stir in chopped parsley and serve with grated Parmesan cheese."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mason Jar Instant Noodles",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "large mouth mason jar with lid",
+            "1/2 cup cooked chicken",
+            "2 baby carrots, shredded",
+            "1/4 cup cabbage",
+            "2 dried shiitake mushrooms, chopped",
+            "1 green onion, chopped",
+            "1 teaspoon sesame oil",
+            "1 teaspoon soy sauce",
+            "1/2 teaspoon riracha sauce",
+            "2 ounces rice noodles, broken up",
+            "1 teaspoon chicken bouillon cube",
+            "2 1/2 cups water"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place chopped chicken in the bottom of the mason jar. Add carrots, cabbage, mushrooms, and green onion.",
+            "Top with sesame oil, soy sauce, and Sriracha sauce. Add noodles. Crumble bouillon cube over the top. Refrigerate until ready to use.",
+            "When ready to serve, pour boiling water into the jar. Screw the lid on and let sit 5 minutes. Stir well and eat."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Chicken Instant Ramen",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 (3 ounce) package chicken flavored ramen noodles",
+            "2 cups water",
+            "½ cup frozen peas and carrots",
+            "1 large egg",
+            "2 tablespoons mayonnaise"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Break up noodles and place in a microwave safe bowl. Add water and frozen veggie mix. Microwave on high 7 minutes.",
+            "Meanwhile whisk egg, mayonnaise, and season packet from the instant ramen together in a large bowl.",
+            "Temper egg mixture by ladling 1/4 cup of the boiling water from the noodles, whisking until combined. Ladle another 1/4 cup of the boiling water whisking until egg is \"cooked\" and completely incorporated.",
+            "Add remaining liquid and the noodles. Let sit until the noodles have absorbed the majority of the liquid, about 3 minutes.",
+            "Ladle into 2 serving bowls and serve immediately."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Chicken Ramen Soup with Dill",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 ¾ cups water",
+            "1 (3 ounce) package chicken flavored ramen noodles",
+            "1 (5 ounce) can canned chicken, drained",
+            "2 tablespoons sour cream",
+            "2 teaspoons dried dill weed",
+            "green onions for garnish (optional)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Bring water to a boil in a saucepan. Break up noodles and toss into boiling water. Cook until tender, about 3 minutes. Stir in chicken, sour cream, seasoning packet, and dill. Simmer until heated through. Serve garnished with green onions."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick and Easy Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 tablespoon butter",
+            "½ cup chopped onion",
+            "½ cup chopped celery",
+            "4 (14.5 ounce) cans chicken broth",
+            "1 (14.5 ounce) can vegetable broth",
+            "½ pound chopped cooked chicken breast",
+            "1 ½ cups egg noodles",
+            "1 cup sliced carrots",
+            "½ teaspoon dried basil",
+            "½ teaspoon dried oregano",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Melt butter in a large pot over medium heat. Add onion and celery and cook until just tender, about 5 minutes.",
+            "Add chicken broth, vegetable broth, chicken, egg noodles, carrots, basil, oregano, salt, and pepper. Stir to combine and bring to a boil.",
+            "Reduce heat and simmer for 20 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Chicken Orzo Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "8 ounces orzo pasta",
+            "1 teaspoon olive oil",
+            "3 medium carrots, chopped, or more to taste",
+            "3 ribs celery, chopped",
+            "1 medium onion, chopped",
+            "2 cloves garlic, minced",
+            "½ teaspoon dried thyme",
+            "½ teaspoon dried oregano",
+            "salt and ground black pepper to taste",
+            "1 bay leaf",
+            "3 (32 ounce) cartons fat-free, low-sodium chicken broth",
+            "½ cup fresh lemon juice",
+            "1 lemon, zested",
+            "8 ounces cooked chicken breast, chopped",
+            "1 (8 ounce) package baby spinach leaves",
+            "1 lemon, sliced for garnish (Optional)",
+            "¼ cup grated Parmesan cheese (Optional)"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Gather the ingredients.",
+            "Bring a large pot of lightly salted water to a boil. Stir in orzo and return to a boil. Cook pasta uncovered until partially cooked through but not yet soft, about 5 minutes; drain and rinse with cold water until cooled completely.",
+            "Meanwhile, heat olive oil in a large pot over medium heat. Add carrots, celery, and onion; cook and stir until vegetables begin to soften and onion becomes translucent, about 5 minutes. Add garlic; cook and stir until fragrant, about 1 minute more. Season mixture with thyme, oregano, bay leaf, salt, and black pepper; continue cooking another 30 seconds before pouring chicken broth into the pot.",
+            "Bring broth to a boil. Partially cover the pot, reduce heat to medium-low, and simmer until vegetables are just tender, about 10 minutes.",
+            "Stir orzo, lemon juice, and lemon zest into broth; add chicken. Cook until chicken and orzo are heated through, about 5 minutes. Add baby spinach; cook until spinach wilts into broth and orzo is tender, 2 to 3 minutes.",
+            "Ladle soup into bowls; garnish with lemon slices and Parmesan cheese.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 86,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Incredibly Easy Chicken and Noodles",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "3 (14.5 ounce) cans chicken broth",
+            "1 (26 ounce) can condensed cream of chicken soup",
+            "1 (10.75 ounce) can condensed cream of mushroom soup",
+            "2 cups diced, cooked chicken breast meat",
+            "2 teaspoons onion powder",
+            "1 teaspoon seasoning salt",
+            "½ teaspoon garlic powder",
+            "2 (9 ounce) packages frozen egg noodles"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients.",
+            "Combine chicken broth, both condensed soups, and diced chicken in a large pot. Season with onion powder, seasoning salt, and garlic powder.",
+            "Bring to a boil over high heat and stir in noodles.",
+            "Reduce heat to low and simmer until desired consistency is reached, 20 to 30 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Green Curry Chicken Ramen",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 jalapeño pepper, seeded and minced",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated fresh ginger",
+            "1 lime, zested",
+            "2 cups shredded deli rotisserie chicken",
+            "2 (13.5 ounce) cans coconut milk",
+            "3 cups chicken stock",
+            "¼ cup green curry paste",
+            "2 tablespoons soy sauce",
+            "1 tablespoon fish sauce",
+            "1 tablespoon brown sugar",
+            "½ teaspoon dried basil",
+            "2 (3 ounce) packages ramen noodles (without flavor packet)",
+            "1 (8 ounce) package snow peas",
+            "1 red bell pepper, chopped",
+            "¼ cup chopped fresh cilantro"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Heat oil in a large pot over medium heat. Add jalapeño, garlic, ginger, and lime zest; cook and stir for 1 minute. Add shredded chicken and stir until well blended, about 30 more seconds.",
+            "Add coconut milk, chicken stock, curry paste, soy sauce, fish sauce, brown sugar, and basil; stir well. Bring to a simmer, stirring occasionally.",
+            "Add ramen noodles, snow peas, and bell pepper; cook until noodles are al dente and the vegetables are crisp-tender, 3 to 5 minutes.",
+            "Serve hot garnished with cilantro."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Rotisserie Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 pound carrots, sliced diagonally",
+            "1 cup chopped celery",
+            "½ medium yellow onion, chopped",
+            "1 teaspoon dried oregano",
+            "1 teaspoon Italian seasoning",
+            "½ teaspoon seasoned salt",
+            "salt and ground black pepper to taste",
+            "2 cloves garlic, minced",
+            "4 cups chicken broth, or to taste",
+            "1 (8 ounce) package extra-wide egg noodles",
+            "1 cooked rotisserie chicken - skinned, boned, and meat shredded"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat oil into a Dutch oven over medium-high heat. Add carrots, celery, onion, oregano, Italian seasoning, both salts, and pepper; cook and stir until vegetables have softened, 6 to 8 minutes. Stir in garlic and cook until fragrant, about 1 minute.",
+            "Add chicken broth and bring to a boil. Add egg noodles; cook for 5 minutes.",
+            "Gently stir in shredded chicken and simmer until egg noodles are tender and chicken is heated through, 2 to 3 more minutes."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Noodle Soup with Egg Noodles",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 (3 1/2) pound chicken, cut into 8 pieces",
+            "4 (16 ounce) cans low-sodium chicken broth",
+            "2 medium carrots, peeled and thinly sliced",
+            "2 stalks celery, sliced",
+            "½ cup chopped onion",
+            "1 (8 ounce) package dried egg noodles",
+            "½ cup finely chopped fresh parsley",
+            "1 tablespoon freshly squeezed lemon juice",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place chicken into a Dutch oven; pour in broth and bring to a boil over medium-high heat. Reduce the heat, cover partially, and simmer until chicken is no longer pink at the bone and the juices run clear, about 20 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Use tongs to transfer to a large bowl. Allow chicken and broth to cool slightly, about 10 minutes.",
+            "Remove and discard skin and bones from cooled chicken. Cut meat into bite-sized pieces. Skim fat off the top of the cooled broth and discard.",
+            "Return chicken broth to a simmer. Add carrots, celery, and onion; simmer until vegetables soften, about 8 minutes. Stir in chicken, egg noodles, parsley, and lemon juice; simmer until noodles are tender, about 5 minutes. Season with salt and pepper."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "¼ cup butter",
+            "1 cup chopped celery",
+            "¼ cup chopped onion",
+            "12 cups water",
+            "4 cups chopped, cooked chicken meat",
+            "9 cubes chicken bouillon",
+            "¼ cup chopped carrots",
+            "1 tablespoon dried parsley",
+            "½ teaspoon dried marjoram",
+            "½ teaspoon ground black pepper",
+            "1 bay leaf",
+            "8 ounces egg noodles"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Melt butter in a large stockpot over medium-high heat. Sauté celery and onion in hot butter until slightly softened.",
+            "Add water, chicken, bouillon, carrots, parsley, marjoram, pepper, and bay leaf. Simmer for 30 minutes.",
+            "Stir in noodles and simmer until pasta is tender, about 10 more minutes.",
+            "Season to taste. Enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "2 ½ cups wide egg noodles",
+            "1 teaspoon vegetable oil",
+            "12 cups chicken broth",
+            "1 ½ tablespoons salt",
+            "1 teaspoon poultry seasoning",
+            "1 cup chopped celery",
+            "1 cup chopped onion",
+            "⅓ cup cornstarch",
+            "¼ cup water",
+            "3 cups diced, cooked chicken meat"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather the ingredients.",
+            "Bring a large pot of lightly salted water to a boil. Add egg noodles and oil, and boil until noodles are tender, about 8 minutes. Drain, rinse under cool running water, and drain again.",
+            "Bring broth, salt, and poultry seasoning to a boil in a Dutch oven. Stir in celery and onion; reduce the heat, cover, and simmer until vegetables have softened, about 15 minutes.",
+            "Mix cornstarch and water together in a small bowl until cornstarch is completely dissolved; gradually stir into soup. Stir in noodles and chicken, and cook until heated through, 2 to 3 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Awesome Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 (4 pound) whole chicken, cut into pieces",
+            "1 gallon water",
+            "1 pound whole carrots",
+            "⅔ bunch celery, trimmed",
+            "1 large onion, peeled and halved",
+            "3 tablespoons chopped lemongrass (Optional)",
+            "3 large bay leaves",
+            "10 whole black peppercorns",
+            "1 pound carrots, peeled and sliced",
+            "⅓ bunch celery with leaves, sliced, divided",
+            "¼ cup chicken soup base",
+            "1 (8 ounce) package dry egg noodles"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place chicken into a large stockpot and pour in water. Bring to a boil over high heat. Reduce the heat, cover, and simmer, skimming fat as needed, for 30 minutes. Add whole carrots, whole celery, onion half, lemongrass, bay leaves, and peppercorns. Cover and simmer for 1 hour; chicken should no longer be pink at the bone and the juices should run clear. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C).",
+            "Transfer chicken to a platter and let sit until cool enough to handle. Strain stock, discarding solids.",
+            "Return strained stock to the pot and set over high heat. Stir in sliced carrots, sliced celery (not the leaves), and chicken base. Bring to a boil, then reduce the heat, cover, and simmer until carrots are tender, about 20 minutes.",
+            "Meanwhile, remove and discard skin from cooled chicken. Chop meat into bite-sized pieces.",
+            "Add noodles and celery leaves to the pot; simmer until noodles are tender yet firm to the bite, about 10 minutes. Stir in chicken and cook until heated through, 3 to 5 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Instant Pot Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "2 tablespoons salted butter",
+            "3 carrots, or more to taste, peeled and sliced",
+            "3 stalks celery, or more to taste, chopped",
+            "1 medium onion, chopped",
+            "1 teaspoon ground thyme",
+            "1 teaspoon dried oregano",
+            "1 teaspoon salt, or to taste",
+            "½ teaspoon ground black pepper, or to taste",
+            "4 cups chicken broth",
+            "4 cups water",
+            "4 cubes chicken bouillon",
+            "2 bay leaves",
+            "1 pound frozen skinless, boneless chicken breast halves",
+            "1 (8 ounce) package thin egg noodles",
+            "1 tablespoon dried parsley"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Turn on a multi-functional pressure cooker (such as Instant Pot), select Sauté function, and add butter. Add carrots, celery, and onion to the melted butter; sauté until soft, 3 to 5 minutes. Stir in thyme, oregano, salt, and pepper. Cancel Sauté function.",
+            "Stir in chicken broth, water, bouillon cubes, and bay leaves. Add frozen chicken breasts. Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 12 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 minutes. Switch to the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid.",
+            "Remove chicken from the pot. Carefully chop or shred the meat, and add back to the pot.",
+            "Select Sauté function and add egg noodles. Cook until noodles are tender yet firm to the bite, 8 to 10 minutes. Stir in dried parsley and serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "2 pounds skinless, boneless chicken breast halves",
+            "8 cups water",
+            "2 stalks celery, chopped",
+            "1 carrot, chopped",
+            "1 green onion, chopped",
+            "4 cubes chicken bouillon",
+            "4 teaspoons dried parsley",
+            "1 bay leaf",
+            "1 teaspoon seasoned salt",
+            "1 teaspoon salt, or to taste",
+            "½ teaspoon dried basil",
+            "¼ teaspoon ground black pepper",
+            "6 ounces egg noodles"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Place chicken, water, celery, carrot, green onion, chicken bouillon, parsley, bay leaf, seasoned salt, salt, dried basil, and pepper into the bottom of a slow cooker. Cover and cook on Low until chicken breasts are no longer pink in the centers, 5 to 6 hours.",
+            "Remove and discard bay leaf. Remove chicken, shred using 2 forks.",
+            "Return shredded chicken to the pot. Stir in egg noodles.",
+            "Cover and continue to cook on Low until noodles are tender, 20 to 30 minutes more."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Long Rice Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "3 (32 ounce) cartons low-sodium chicken broth",
+            "3 pounds chicken leg quarters",
+            "1 tablespoon Hawaiian sea salt",
+            "1 (1/2 inch) piece fresh ginger root, sliced",
+            "1 (8 ounce) package uncooked bean threads (cellophane noodles)",
+            "1 large Maui sweet onion, cubed",
+            "1 bunch green onions, thinly sliced",
+            "1 small head bok choy, chopped"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Bring chicken broth, chicken, salt, and ginger to a boil in a large pot over high heat, then reduce heat to medium-low and simmer until chicken tender and no longer pink, about 35 minutes. Remove chicken; strain broth into a new pot. Discard remaining solids.",
+            "Meanwhile, place noodles in a large bowl and cover with hot water. Set aside until noodles softened, about 30 minutes.",
+            "Stir onion into broth; bring to a boil, then reduce heat to medium-low. Meanwhile, remove skin and bones from chicken; discard. Roughly chop chicken meat.",
+            "After noodles sat 30 minutes, stir noodles, chicken, green onion, and bok choy into broth; simmer until noodles tender."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Mom Moak's Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "2 stalks celery, sliced",
+            "2 carrots, sliced",
+            "1 onion, chopped",
+            "4 (10.5 ounce) cans chicken broth",
+            "4 baking potatoes, peeled and diced",
+            "¼ teaspoon poultry seasoning",
+            "¼ pinch dried thyme",
+            "2 cups shredded cooked chicken",
+            "2 cups egg noodles",
+            "1 cup evaporated milk"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Heat vegetable oil in a stock pot over medium heat. Add celery, carrots, and onion; cook and stir until tender, 8 to 10 minutes. Add chicken broth, potatoes, poultry seasoning, and thyme; bring to a simmer and continue cooking until potatoes are cooked through, about 15 minutes.",
+            "Stir chicken, egg noodles, and evaporated milk into soup; cook until noodles are cooked through, 7 to 10 minutes."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Chicken Noodle Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "4 chicken breast tenderloins, cut into bite-size pieces",
+            "salt and ground black pepper to taste",
+            "2 tablespoons extra-virgin olive oil, divided",
+            "2 stalks celery, finely chopped",
+            "2 small carrots, finely chopped",
+            "3 cloves garlic, finely chopped",
+            "2 (14 ounce) cans chicken broth",
+            "2 cups medium egg noodles"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Season chicken with salt and pepper.",
+            "Heat 1 tablespoon oil in a large saucepan over medium heat. Cook and stir chicken in hot oil until browned and no longer pink in the center, about 10 minutes. Transfer to a plate and set aside.",
+            "Add remaining 1 tablespoon oil to the saucepan. Sauté celery, carrots, and garlic in hot oil over medium heat until soft, 5 to 7 minutes. Season with pepper.",
+            "Pour chicken broth into the saucepan and deglaze by scraping up the bits of chicken and vegetables from the bottom of the hot pan. Bring to a boil. Add egg noodles, reduce heat to medium-low, and simmer until noodles are tender yet firm to the bite, 6 to 8 minutes. Season with salt and pepper.",
+            "Ladle soup into bowls and lay chicken on top."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chinese Chicken Soup",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "2 tablespoons sesame oil",
+            "2 teaspoons chopped fresh ginger root",
+            "2 tablespoons chile paste",
+            "½ teaspoon ground turmeric",
+            "1 pound chopped cooked chicken breast",
+            "1 quart chicken broth",
+            "1 cup chopped celery",
+            "¼ cup soy sauce",
+            "2 teaspoons sugar",
+            "1 (3 ounce) package ramen noodles",
+            "1 cup shredded lettuce",
+            "½ cup chopped green onion"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat sesame oil in a large pot over medium heat. Add ginger, chile paste, and turmeric; cook and stir until fragrant, 1 to 2 minutes.",
+            "Stir in chicken, broth, celery, soy sauce, and sugar. Bring to a boil; add noodles and simmer for 3 minutes.",
+            "Stir in lettuce and remove from heat. Serve garnished with green onions."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Chicken Soup with Homemade Noodles",
+        "category": "Chicken Noodle Soups",
+        "ingredients": [
+            "1 gallon chicken stock",
+            "4 bone-in chicken breast halves",
+            "3 cups all-purpose flour",
+            "¼ teaspoon salt",
+            "3 eggs",
+            "2 tablespoons water, or as needed",
+            "½ teaspoon ground black pepper",
+            "1 pinch salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Bring chicken stock to a boil; cook chicken breasts at a boil until no longer pink in the center, 15 to 20 minutes. Remove chicken, cool, and cut meat from bone; keep chicken stock at a low simmer.",
+            "Mix flour and 1/4 teaspoon salt together using the dough hook attachment in the bowl of a stand mixer on Low; add eggs and water, 1 tablespoon at time, until dough holds together.",
+            "Split dough in half. Roll 1 dough half on a lightly floured surface to 1/8-inch thickness. Cut dough into noodles 2 to 3-inches long x 1/4-inch wide using a sharp knife dipped in flour or a fettuccine pasta cutter. Repeat with other dough half.",
+            "Return chicken to the simmering stock; add noodles. Season stock with black pepper and 1 pinch salt. Cook soup until noodles are cooked through, 15 to 25 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    }
+]

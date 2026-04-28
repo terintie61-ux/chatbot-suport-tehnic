@@ -1,0 +1,566 @@
+[
+    {
+        "Main_category": "healthy"
+    },
+    {
+        "recipe_title": "Vietnamese Fresh Spring Rolls",
+        "category": "Low Fat",
+        "ingredients": [
+            "2 ounces rice vermicelli noodles",
+            "8 rice wrappers (8.5 inch diameter)",
+            "8 large cooked shrimp - peeled, deveined and cut in half",
+            "2 leaves lettuce, chopped",
+            "3 tablespoons chopped fresh mint leaves",
+            "3 tablespoons chopped fresh cilantro",
+            "1 ⅓ tablespoons chopped fresh Thai basil"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Fill a large pot with lightly salted water and bring to a rolling boil; stir in noodles and return to a boil. Cook noodles uncovered, stirring occasionally, until tender yet firm to the bite, 3 to 5 minutes; drain and set aside to cool.",
+            "Fill a large bowl with warm water. Dip one wrapper into the hot water for 1 second to soften.",
+            "Lay wrapper flat; place 2 shrimp halves in a row across the center, add some cooled noodles, lettuce, mint, cilantro, and basil, leaving about 2 inches uncovered on each side.",
+            "Fold uncovered sides inward, then tightly roll the wrapper, beginning at the end with lettuce. Repeat with remaining ingredients.",
+            "To make the chili sauce for dipping: Mix water, lime juice, sugar, fish sauce, garlic, and chili sauce in a small bowl until well combined.",
+            "To make the second sauce for dipping: Mix hoisin sauce and peanuts in a separate small bowl.",
+            "Serve spring rolls with the two sauce mixtures."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Perfect Summer Fruit Salad",
+        "category": "Low Fat",
+        "ingredients": [
+            "⅔ cup fresh orange juice",
+            "⅓ cup fresh lemon juice",
+            "⅓ cup packed brown sugar",
+            "½ teaspoon grated orange zest",
+            "½ teaspoon grated lemon zest",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather the ingredients.",
+            "To make the sauce: Bring orange juice, lemon juice, brown sugar, orange zest, and lemon zest to a boil in a saucepan over medium-high heat. Reduce heat to medium-low and simmer until slightly thickened, about 5 minutes.",
+            "Remove from heat and stir in vanilla extract. Set aside to cool.",
+            "Layer fruit in a large, clear glass bowl in this order: pineapple, strawberries, kiwi fruit, bananas, oranges, grapes, and blueberries. Pour cooled sauce over fruit; cover and refrigerate for 3 to 4 hours before serving."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Split Pea Soup",
+        "category": "Low Fat",
+        "ingredients": [
+            "2 ¼ cups dried split peas, rinsed well",
+            "2 quarts cold water, plus more as needed",
+            "1 (1 ½ pound) ham bone",
+            "2 onions, thinly sliced",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 pinch dried marjoram",
+            "3 stalks celery, chopped",
+            "3 carrots, chopped",
+            "1 potato, diced"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Place peas in a large stockpot and cover with several inches of cold water; let soak, 1 hour to overnight. Drain, rinse, and return peas to the pot.",
+            "Add 2 quarts of cold water, ham bone, onion, salt, pepper, and marjoram to the stockpot. Cover, bring to a boil, and simmer for 1 ½ hours, stirring occasionally.",
+            "Remove ham bone; cut off meat, dice, and return meat to soup.",
+            "Add celery, carrots, and potatoes.",
+            "Cook slowly, uncovered, until vegetables are tender, about 30 to 40 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gnocchi",
+        "category": "Low Fat",
+        "ingredients": [
+            "3 medium russet potatoes, scrubbed",
+            "1 ½ cups all-purpose flour, plus more for dusting",
+            "1 large egg",
+            "1 teaspoon kosher salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather the ingredients.",
+            "Place potatoes in a large saucepan and cover with 2 inches of salted water. Bring to a boil over high heat; reduce heat to medium-high and simmer, undisturbed, until tender but still firm, 25 to 30 minutes. Drain potatoes and place back in the pot to dry and cool slightly, 5 to 10 minutes.",
+            "As soon as potatoes are cool enough to handle, peel potatoes by rubbing skins off with your hands. Pass peeled potatoes through a potato ricer into a large bowl (alternatively, mash until very smooth.) Let cool slightly, about 10 minutes.",
+            "Fold in flour, egg, and salt until flour is incorporated and dough starts to hold together. Transfer dough to a lightly floured surface and gently knead once or twice until mostly smooth (do not overwork).",
+            "Divide dough into 4 even portions. Roll and shape each portions of the dough into long \"snakes,\" about ¾-inch in diameter.",
+            "Cut snakes into about 1/2-inch long pieces. (Optional: Roll each piece against the tines of a fork or a gnocchi board to make light ridges.) Transfer shaped gnocchi to a single layer on a parchment-lined baking sheet dusted with flour.",
+            "Bring a large pot of lightly salted water to a boil over high. Working in batches, drop in gnocchi and cook for 3 to 4 minutes or until gnocchi have risen to the top; transfer cooked gnocchi with a spider or slotted spoon to desired sauce.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cabbage Fat-Burning Soup",
+        "category": "Low Fat",
+        "ingredients": [
+            "10 stalks celery, chopped",
+            "5 carrots, chopped",
+            "3 onions, chopped",
+            "2 green bell peppers, diced",
+            "1 large head cabbage, chopped",
+            "1 (15 ounce) can cut green beans, drained",
+            "2 quarts tomato juice",
+            "2 (16 ounce) cans whole peeled tomatoes, with liquid",
+            "1 (14 ounce) can beef broth",
+            "cold water, to cover",
+            "1 (1 ounce) envelope dry onion soup mix"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Place celery, carrots, onions, cabbage, bell peppers, and green beans in a large soup pot.",
+            "Add tomato juice, tomatoes, beef broth, and enough water to cover vegetables; add onion soup mix and stir to combine.",
+            "Bring to a boil over medium heat; reduce heat to low and simmer until vegetables are tender, about 25 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Apple Pie Filling",
+        "category": "Low Fat",
+        "ingredients": [
+            "18 cups thinly sliced apples",
+            "3 tablespoons lemon juice",
+            "10 cups water",
+            "4 ½ cups white sugar",
+            "1 cup cornstarch",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "¼ teaspoon ground nutmeg"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients.",
+            "Place apples in a bowl. Toss apples with lemon juice in a large bowl and set aside.",
+            "Pour water into a Dutch oven over medium heat. Combine sugar, cornstarch, cinnamon, salt, and nutmeg in a bowl; add to water, stir well, and bring to a boil. Boil for 2 minutes, constantly stirring.",
+            "Add apples and return to a boil. Reduce heat, cover, and simmer until apples are tender, 6 to 8 minutes. Cool for 30 minutes.",
+            "Ladle into 5 freezer containers, leaving 1/2 inch of headspace. Cool at room temperature no longer than 1 1/2 hours. Seal and freeze. Can be stored for up to 12 months.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Black Beans and Rice",
+        "category": "Low Fat",
+        "ingredients": [
+            "1 teaspoon olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "¾ cup uncooked white rice",
+            "1 ½ cups low sodium, low fat vegetable broth",
+            "3 ½ cups canned black beans, drained",
+            "1 teaspoon ground cumin",
+            "¼ teaspoon cayenne pepper"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a saucepan over medium-high heat. Add onion and garlic; cook and stir until onion has softened, about 4 minutes.",
+            "Stir in rice to coat; cook and stir for 2 minutes.",
+            "Add vegetable broth and bring to a boil. Cover, reduce to a simmer, and cook until liquid is absorbed, about 20 minutes.",
+            "Stir in beans, cumin, and cayenne; cook until beans are warmed through.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "The Best Fresh Tomato Salsa",
+        "category": "Low Fat",
+        "ingredients": [
+            "3 cups freshly chopped tomatoes",
+            "1 cup finely diced onion",
+            "½ cup chopped green bell pepper",
+            "¼ cup minced fresh cilantro",
+            "2 tablespoons fresh lime juice",
+            "4 teaspoons chopped fresh jalapeño pepper (including seeds)",
+            "½ teaspoon ground cumin",
+            "½ teaspoon kosher salt, or to taste",
+            "½ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir tomatoes, onion, green bell pepper, cilantro, lime juice, jalapeño pepper, cumin, salt, and pepper together in a bowl until just combined.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Sweet Potato Casserole",
+        "category": "Low Fat",
+        "ingredients": [
+            "6 large sweet potatoes, peeled and cut into chunks",
+            "1 cup white sugar",
+            "½ cup brown sugar",
+            "2 tablespoons ground cinnamon or to taste",
+            "1 tablespoon butter, softened",
+            "1 cup miniature marshmallows, or as needed"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place sweet potatoes in a large pot and cover with salted water; bring to a boil.",
+            "Reduce heat to medium-low and simmer until tender, about 20 minutes; drain.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease a deep casserole dish.",
+            "Mash potatoes with a potato masher in a bowl until no large lumps remain.",
+            "Stir in both sugars, cinnamon, and butter until well combined.",
+            "Transfer sweet potato mixture to the prepared casserole dish. Cover with a layer of miniature marshmallows.",
+            "Bake in the preheated oven until marshmallows are browned, about 30 minutes."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dry Onion Soup Mix",
+        "category": "Low Fat",
+        "ingredients": [
+            "¼ cup dried onion flakes",
+            "2 tablespoons low-sodium beef bouillon granules",
+            "¼ teaspoon onion powder",
+            "¼ teaspoon parsley flakes",
+            "⅛ teaspoon celery seed",
+            "⅛ teaspoon paprika",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir onion flakes, beef bouillon granules, onion powder, parsley flakes, celery seed, paprika, and black pepper together in a bowl. Use as a substitute for a 1-ounce envelope of dry onion soup mix."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Barbeque Chicken",
+        "category": "Low Fat",
+        "ingredients": [
+            "4 skinless, boneless chicken breast halves",
+            "1 (18 ounce) bottle barbeque sauce (such as Sweet Baby Ray's®)",
+            "¼ cup distilled white vinegar",
+            "¼ cup brown sugar",
+            "1 teaspoon garlic powder",
+            "½ teaspoon red pepper flakes"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place chicken breast halves in a slow cooker.",
+            "Whisk together barbeque sauce, vinegar, brown sugar, garlic powder, and pepper flakes in a bowl until sugar dissolves; pour over chicken.",
+            "Cook on Low for 4 to 6 hours.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Rolo Pretzel Turtles",
+        "category": "Low Fat",
+        "ingredients": [
+            "20 small mini pretzels",
+            "20 chocolate-covered caramel candies (such as Rolo)",
+            "20 pecan halves"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 300 degrees F (150 degrees C). Line a cookie sheet with parchment paper.",
+            "Arrange pretzels in a single layer on the prepared cookie sheet. Place one caramel candy on top of each pretzel.",
+            "Bake in the preheated oven until caramels soften, about 4 minutes.",
+            "Remove from the oven and immediately press a pecan half into each warm caramel.",
+            "Cool completely before serving."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Brazilian Grilled Pineapple",
+        "category": "Low Fat",
+        "ingredients": [
+            "1 cup brown sugar",
+            "2 teaspoons ground cinnamon",
+            "1 pineapple - peeled, cored, and cut into 6 wedges"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+            "Whisk brown sugar and cinnamon together in a bowl.",
+            "Transfer into a large resealable plastic bag. Add pineapple wedges to the bag; shake well to coat each wedge.",
+            "Grill pineapple wedges on the preheated grill until heated through, 3 to 5 minutes per side."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Canned Apple Pie Filling",
+        "category": "Low Fat",
+        "ingredients": [
+            "4 ½ cups white sugar",
+            "1 cup cooking starch used for preserving, such as ClearJel",
+            "2 teaspoons ground cinnamon",
+            "¼ teaspoon ground nutmeg",
+            "10 cups water",
+            "2 teaspoons salt",
+            "3 tablespoons lemon juice",
+            "2 drops yellow food coloring (Optional)",
+            "6 pounds apples"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix sugar, cooking starch, cinnamon, and nutmeg in a large pan. Add water and salt and mix well.",
+            "Bring to a boil and cook until thick and bubbly. Remove from heat and add lemon juice and food coloring.",
+            "Sterilize canning jars, lids, and rings by boiling them in a large pot of water. Peel, core, and slice apples.",
+            "Pack the sliced apples into hot canning jars, leaving a 1/2 inch of headspace.",
+            "Fill jars with hot syrup, and gently remove air bubbles with a knife.",
+            "Put lids on and process in a water bath canner for 25 minutes.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Hard Candy",
+        "category": "Low Fat",
+        "ingredients": [
+            "cooking spray",
+            "3 ¾ cups white sugar",
+            "1 ½ cups light corn syrup",
+            "1 cup water",
+            "1 tablespoon orange, or other flavored extract",
+            "½ teaspoon food coloring (Optional)",
+            "¼ cup confectioners' sugar for dusting"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Grease a cookie sheet with cooking spray.",
+            "Stir white sugar, corn syrup, and water together in a medium saucepan. Cook, stirring, over medium heat until sugar dissolves, then bring to a boil.",
+            "Without stirring, heat to 300 to 310 degrees F (149 to 154 degrees C), or until a small amount of syrup dropped into cold water forms hard, brittle threads.",
+            "Remove from the heat and stir in flavored extract and food coloring. Pour onto the prepared cookie sheet. Dust top with confectioners' sugar.",
+            "Let cool until hardened, about 15 minutes. Break into about 36 pieces and store in an airtight container."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Homemade Salsa",
+        "category": "Low Fat",
+        "ingredients": [
+            "2 cups chopped tomatoes",
+            "¼ cup chopped red onion",
+            "¼ cup chopped yellow onion",
+            "2 tablespoons canned green chilies",
+            "2 tablespoons fresh lime juice",
+            "2 tablespoons chopped fresh cilantro",
+            "2 cloves garlic, peeled",
+            "1 teaspoon ground cumin",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine tomatoes, red onion, yellow onion, green chilies, lime juice, cilantro, garlic, cumin, and salt in a food processor.",
+            "Pulse until mixture is combined but still chunky.",
+            "Transfer salsa to a bowl, cover with plastic wrap, and refrigerate at least 1 hour before serving.",
+            "Serve with chips."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sweet Zucchini Relish",
+        "category": "Low Fat",
+        "ingredients": [
+            "12 cups shredded unpeeled zucchini",
+            "4 cups chopped onion",
+            "5 tablespoons canning salt",
+            "6 cups white sugar",
+            "2 ½ cups white vinegar",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1 tablespoon cornstarch",
+            "1 ½ teaspoons celery seed",
+            "¾ teaspoon ground nutmeg",
+            "¾ teaspoon ground turmeric",
+            "½ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather the ingredients.",
+            "Place zucchini and onion in a large, non-metallic bowl; sprinkle salt on top. Use your hands to evenly mix salt with zucchini. Cover and refrigerate overnight.",
+            "Drain zucchini in a colander and rinse well with cool water. Squeeze out excess water; set zucchini aside.",
+            "Place sugar, vinegar, red and green bell pepper, and cornstarch into a large pot. Add celery seed, nutmeg, turmeric, and black pepper. Stir to combine, then add drained zucchini. Bring to a boil over medium-high heat; reduce heat to medium-low and simmer 30 minutes.",
+            "Meanwhile, sterilize seven 1-pint jars and lids. Pack relish into sterilized jars, filling to within 1/4 inch of the top. Screw on the lids.",
+            "Place a rack in the bottom of a large stockpot and fill halfway with boiling water. Carefully lower jars into the pot using a holder. Leave a 2-inch space between jars. Pour in more boiling water if necessary, until the tops of jars are covered by 2 inches of water. Bring water to a full boil, then cover and process for 30 minutes.",
+            "Remove jars from the pot and place on a cloth-covered or wood surface, several inches apart, until cool. Once cool, press the top of each lid with a finger, ensuring that seal is tight (lid does not move up or down at all)."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Pinto Beans (No Soaking)",
+        "category": "Low Fat",
+        "ingredients": [
+            "3 slices bacon",
+            "4 cups chicken broth",
+            "1 pound dried pinto beans, rinsed",
+            "1 ½ cups water",
+            "½ cup chopped onions, or to taste (Optional)",
+            "2 green chile peppers",
+            "1 ¼ teaspoons garlic powder",
+            "1 ¼ teaspoons kosher salt",
+            "1 teaspoon chili powder",
+            "½ teaspoon ground cumin",
+            "½ teaspoon paprika"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather the ingredients.",
+            "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Sauté function. Add bacon and cook, turning once, 4 to 6 minutes.",
+            "Add chicken broth, pinto beans, water, onions, chile peppers, garlic powder, salt, chili powder, cumin, and paprika. Close and lock the lid.",
+            "Select high pressure according to manufacturer's instructions; set timer for 45 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes. Unlock and remove the lid.",
+            "Remove bacon and chile peppers; chop to desired consistency and return to the pot. Mash beans with a potato masher until they reach desired consistency."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Old Bay-Seasoned Steamed Shrimp",
+        "category": "Low Fat",
+        "ingredients": [
+            "½ cup water",
+            "½ cup white vinegar",
+            "2 tablespoons seafood seasoning (such as Old Bay)",
+            "1 pound fresh large shrimp, deveined with shells on"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Bring water, vinegar, and seafood seasoning to a boil in a saucepan over high heat. Add shrimp and stir.",
+            "Reduce heat to medium, cover, and steam, stirring once or twice, until bright orange in color, 3 to 5 minutes. Drain."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Turkey Breast",
+        "category": "Low Fat",
+        "ingredients": [
+            "1 (6 pound) bone-in turkey breast",
+            "1 (1 ounce) envelope dry onion soup mix"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Rinse turkey breast and pat dry. Cut off any excess skin, but leave the skin covering the breast.",
+            "Rub onion soup mix all over outside of the turkey and under the skin.",
+            "Place in a slow cooker. Cover, and cook on High for 1 hour, then set to Low, and cook for 7 hours. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Serve with gravy."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

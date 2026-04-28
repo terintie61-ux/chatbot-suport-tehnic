@@ -1,0 +1,587 @@
+[
+    {
+        "Main_category": "meal_time_served"
+    },
+    {
+        "recipe_title": "Café Tropical Burrito",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "2 strips bacon",
+            "1 patty frozen hashbrown",
+            "2 eggs",
+            "1/4 cup shredded Cheddar and Swiss cheese mixture",
+            "salt and freshly ground black pepper",
+            "1 (12-Inch) flour tortilla"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes.",
+            "Drain most of the bacon grease out of the skillet. Add hashbrown patty to the remaining hot bacon grease and fry over medium heat until hot, crispy, and golden brown, about 5 minutes. You can also use canola or grapeseed oil instead of bacon grease",
+            "Meanwhile, pour beaten eggs into a nonstick pan or flat top; let cook undisturbed until the bottom of the eggs begins to firm, 1 to 2 minutes. Stir in Cheddar and Swiss cheese and season with salt and pepper.",
+            "Cook and stir until eggs are nearly set, light, and fluffy, 3 to 4 minutes more.",
+            "While eggs are cooking, heat tortilla on the stovetop until lightly browned and warm.",
+            "To assemble the burrito, place hashbrown patty onto the tortilla. Top with scrambled eggs and bacon. Fold two sides of the burrito to the center, roll up, and serve."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Breakfast Burrito with Potatoes and Chorizo",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1/2 pound chorizo",
+            "1/2 poblano pepper, chopped",
+            "1/2 yellow onion, chopped",
+            "1/2 red bell pepper, chopped",
+            "2 Yukon gold potatoes,",
+            "4 large eggs",
+            "1/3 cup half-and-half",
+            "salt and pepper to taste",
+            "2 tablespoons butter",
+            "1/4 cup shredded cheese, any kind",
+            "4 burrito-sized flour tortilla"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Heat a large skillet over medium heat. Add chorizo, poblano pepper, onions, and red bell pepper. Cook until vegetables are tender, 5 to 7 minutes. Remove skillet from heat.",
+            "In a microwave-safe bowl, cook potatoes with a small amount of water until fork tender, 7 to 10 minutes, stirring halfway through; drain. Stir potatoes into chorizo mixture.",
+            "Meanwhile, whisk eggs, half-and-half, salt, and pepper together in a large bowl.",
+            "Heat butter in a skillet over medium heat. Add egg mixture and scramble until eggs are cooked, about 3 minutes. Remove eggs from heat. Fold in cheese.",
+            "Spoon chorizo mixture in a line across the middle of a tortilla, then add a layer of scrambled eggs. Fold opposing edges of the tortilla to overlap the filling. Roll 1 of the opposing edges around the filling creating a burrito."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Freeze-and-Reheat Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1 (12 ounce) package bacon",
+            "10 large eggs",
+            "3 tablespoons milk",
+            "¼ teaspoon salt",
+            "3 tablespoons vegetable oil",
+            "4 cups frozen hash brown potatoes with peppers and onion (such as Ore-Ida® Potatoes O'Brien®)",
+            "½ teaspoon garlic salt",
+            "¼ teaspoon ground black pepper",
+            "10 sheets aluminum foil",
+            "10 large flour tortillas",
+            "1 ½ cups shredded Cheddar cheese",
+            "1 cup salsa, or to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels and crumble into bits. Keep the skillet warm.",
+            "Whisk together eggs, milk, and salt in a bowl until combined. Pour into the hot skillet. Cook and stir over medium-high heat until eggs are scrambled and set, about 5 minutes. Transfer to a bowl.",
+            "Heat oil in the same skillet over medium-high heat. Add frozen potatoes, garlic salt, and pepper. Fry until browned on the bottom, 4 to 5 minutes. Flip and cook until other side is browned, 4 to 5 minutes more. Let cool.",
+            "Lay 10 sheets of aluminum foil, slightly larger than tortillas, on a flat work surface. Lay 1 tortilla on each aluminum foil piece; evenly distribute Cheddar cheese on top. Add scrambled eggs, bacon bits, salsa, and potatoes to each tortilla, in that order. Tightly roll burritos, tucking tops and bottoms in first.",
+            "Wrap aluminum foil tightly around each burrito, covering it completely. Place in resealable plastic bags in a single layer. Remove as much air as possible from the bags before sealing. Store in the freezer until ready to reheat.",
+            "Reheat by removing the aluminum foil, placing burrito on a microwave-safe plate, and covering it with a paper towel. Heat in the microwave until evenly warmed through, 1 to 2 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mexican Breakfast Tacos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "6 ounces chorizo sausage",
+            "cooking spray",
+            "6 large eggs",
+            "¼ cup milk",
+            "½ teaspoon salt",
+            "½ teaspoon pepper",
+            "8 (6 inch) corn tortillas",
+            "1 cup shredded Monterey Jack cheese",
+            "½ cup salsa",
+            "1 dash hot pepper sauce (e.g. Tabasco™), or to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Heat a large skillet over medium-high heat. Cook and stir sausage in the hot skillet until browned and crumbly, 5 to 7 minutes. Remove sausage to a plate. Drain and discard grease; wipe the skillet clean with a paper towel.",
+            "Place the same skillet over medium heat and grease with cooking spray. Whisk together eggs, milk, salt, and pepper in a medium bowl; pour into the prepared skillet. Cook and gently stir until scrambled and almost dry. Add sausage; continue to cook and stir until firm.",
+            "Meanwhile, warm a second skillet over high heat. Cook tortillas until hot and crispy on the edges, but still pliable, about 45 seconds per side.",
+            "Sprinkle Monterey Jack cheese evenly onto hot tortillas. Top each with scrambled eggs, salsa, and hot pepper sauce."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chorizo Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "cooking spray",
+            "¾ pound chorizo sausage, casings removed and crumbled",
+            "½ cup chopped red onion",
+            "1 green chile pepper, seeded and diced",
+            "4 large eggs",
+            "4 flour tortillas",
+            "1 cup shredded Cheddar cheese"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Generously coat a large frying pan with cooking spray. Cook and stir chorizo in the prepared pan over medium-high heat until well browned and crumbled. Add onion and chile pepper; continue cooking, stirring occasionally, until onion is tender.",
+            "Beat eggs in a medium bowl and add to chorizo mixture. Reduce heat to medium-low; continue cooking and stirring until eggs are scrambled and no longer runny.",
+            "Warm flour tortillas in the microwave for 30 seconds. Spoon chorizo-egg mixture into the middle of each tortilla and top with shredded Cheddar cheese. Roll up like a burrito."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Huevos Rancheros",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "2 tablespoons vegetable oil, or more if needed",
+            "4 (6 inch) corn tortillas",
+            "1 cup refried beans with green chiles",
+            "1 teaspoon butter",
+            "4 eggs",
+            "1 cup shredded Cheddar cheese",
+            "8 slices bacon, cooked and crumbled",
+            "½ cup salsa (Optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a large skillet over medium-high heat. Fry two tortillas at a time in the hot skillet until firm, but not crisp, about 30 seconds per side. Drain on paper towels.",
+            "Reduce the heat to medium, and add more oil to the skillet if dry. Crack in eggs and cook until the outer edges become opaque, about 1 minute. Cover, reduce the heat to low, and cook until the whites are completely set, about 4 minutes.",
+            "While the eggs are cooking, combine refried beans and butter in a microwave-safe dish. Cover and microwave on high in 1-minute intervals until hot.",
+            "Place tortillas onto plates and spread with a layer of hot refried beans.",
+            "Top with Cheddar, a fried egg, crumbled bacon, and salsa."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Southwest Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "12 large eggs",
+            "⅔ cup milk",
+            "½ teaspoon salt",
+            "2 tablespoons butter",
+            "1 pound bulk pork sausage",
+            "2 tablespoons minced garlic",
+            "½ red onion, diced",
+            "1 tomato, diced",
+            "¼ cup chopped fresh cilantro",
+            "1 (3.5 ounce) can diced jalapeños (Optional)",
+            "1 (1 ounce) package taco seasoning",
+            "1 ½ cups shredded Cheddar cheese",
+            "20 (6 inch) flour tortillas"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk together eggs, milk, and salt in a large bowl. Heat butter in a large skillet over medium-high heat. Pour in egg mixture; cook and stir until eggs are completely set, about 5 minutes.",
+            "Break up cooked eggs into small pieces and place into a large bowl. Set aside.",
+            "Heat the same large skillet over medium heat. Cook and stir sausage and garlic in the hot skillet for 5 minutes, Add onion; continue to cook and stir until sausage is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease.",
+            "Transfer sausage to eggs in the bowl. Stir in tomato, cilantro, jalapeños, and taco seasoning until well combined. Allow mixture to cool to room temperature, then stir in Cheddar cheese.",
+            "Lay a tortilla onto your work surface, then spoon some of the egg filling halfway between the bottom edge and the center of tortilla. Flatten filling into a rectangular shape with the back of a spoon. Fold the bottom of tortilla snugly over filling, then fold in the left and right edges. Roll burrito up to the top edge, forming a tight cylinder. Repeat with remaining ingredients.",
+            "Wrap individual burritos tightly with plastic wrap and store in the freezer until ready to serve.",
+            "To serve, heat burritos in the microwave until hot, 3 to 4 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "New Mexico Green Chile Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "4 potatoes, shredded",
+            "1 small onion, finely chopped",
+            "1 clove garlic, minced",
+            "1 (8 ounce) container frozen Hatch, New Mexico green chile peppers",
+            "½ cup chicken broth",
+            "12 strips bacon",
+            "⅓ cup vegetable oil",
+            "1 tablespoon onion powder",
+            "salt and pepper to taste",
+            "6 (10 inch) flour tortillas",
+            "butter flavored cooking spray",
+            "12 extra large eggs, beaten",
+            "2 cups shredded Cheddar cheese"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place the shredded potatoes in a bowl, cover with water, and set aside. Bring the onion, garlic, green chiles, and chicken broth to a boil in a saucepan over high heat. Reduce the heat to low, and simmer until the sauce thickens; turn off the heat.",
+            "Meanwhile, place the strips of bacon on paper towels on a microwave-safe plate, and cook on High until crisp, about 1 minute per strip; set aside.",
+            "Heat the vegetable oil over medium-high heat in a large skillet. Drain the potatoes, and add to the skillet. Spoon hot oil over the potatoes; sprinkle with the onion powder, salt, and pepper. Flip the potatoes occasionally, but let them fry until crispy bits form and the potatoes are cooked through, about 15 minutes.",
+            "Place the tortillas between two damp paper towels. Microwave on High until warm, about 30 seconds.",
+            "Spray a separate skillet with butter flavored cooking spray and cook the eggs over medium heat, whisking them continuously until the eggs are completely set; turn off the heat.",
+            "Lay a tortilla flat in front of you. Place some potatoes, scrambled egg, and a strip of bacon on the lower third, leaving about an inch of room from the bottom, and about 1-1/2 inches on the left and right clear for folding the burrito. Spoon on a little of the green chile sauce, and sprinkle with Cheddar cheese.",
+            "Fold the left and right edges into the middle about 1-1/2 to 2 inches. Take the bottom edge closest to you with the stuffing and pick it up, pulling it OVER the filling, while keeping the sides in place until that edge now touches the tortilla about 7/8 of the way up to the top edge. Check to see that the sides are still tucked well. If they aren't slide them in a bit now that you have the filling covered. Finish by tucking the bottom flap that you pulled over the filling UNDER the filling a bit to seal it, then continue rolling the burrito up to the top edge, forming a tight cylinder. Let it rest seam-side down, and it will stay nice and tight. Repeat with remaining ingredients."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bacon and Egg Tacos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "6 eggs",
+            "¼ cup crumbled cooked bacon",
+            "2 tablespoons butter",
+            "3 slices American cheese, diced",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "6 flour tortillas",
+            "1 cup salsa (Optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Whisk eggs together in a bowl; stir in bacon.",
+            "Melt butter in a skillet over medium heat. Add egg mixture; cook and stir until eggs are completely set, 2 to 3 minutes. Stir in American cheese, salt, and pepper.",
+            "Wrap tortillas in damp paper towels; microwave until warmed through, 30 seconds to 1 minute.",
+            "Spoon 1/4 cup egg mixture into the center of each tortilla; fold sides to cover. Serve with salsa."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Egg Tacos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "2 teaspoons vegetable oil",
+            "½ small red or green pepper, diced",
+            "½ jalapeño pepper, seeded and diced",
+            "1 clove garlic, minced",
+            "⅔ cup diced ham",
+            "½ teaspoon chili powder",
+            "4 large eggs",
+            "¼ teaspoon salt",
+            "¼ teaspoon black pepper",
+            "2 teaspoons butter",
+            "4 small whole wheat or regular flour tortillas, warmed",
+            "½ cup shredded Tex-Mex or Cheddar cheese",
+            "2 green onions, chopped"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Heat oil in a medium nonstick skillet over medium heat. Sauté red bell pepper, jalapeño pepper, and garlic until softened, about 2 minutes. Add ham and chili powder; sauté until heated through, about 2 minutes. Remove ham mixture to a bowl; cover to keep warm.",
+            "Whisk eggs, salt, and pepper in a small bowl or measuring cup.",
+            "Melt butter in the same skillet over medium heat; add eggs and cook, stirring gently, until set but still soft, about 2 minutes.",
+            "Spoon eggs onto each tortilla. Top with ham mixture, cheese, and onion. Serve with salsa and coriander."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hash Brown Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "2 cups Idahoan® Hash Browns",
+            "2 cups hot water",
+            "2 tablespoons vegetable oil",
+            "cooking spray",
+            "3 large eggs",
+            "1 (4 ounce) can fire-roasted diced green chiles, drained",
+            "6 (12 inch) flour tortillas, warmed",
+            "3 green onions, finely chopped",
+            "¼ cup crumbled goat cheese, or to taste",
+            "¼ cup green salsa, or to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine hash browns and hot water in a bowl; make sure hash browns are completely covered with water. Cover the bowl and let stand until hash browns are rehydrated, 10 to 12 minutes. Drain well.",
+            "Heat oil in a large, nonstick skillet over medium-high heat. Add hash browns and fry, stirring a few times, until golden brown, about 6 minutes. Remove from the heat.",
+            "While the hash browns are cooking, spray a large skillet with cooking spray; warm over medium-high heat. Whisk eggs together in a bowl. Pour into the skillet; cook and stir until eggs are set, about 5 minutes, stirring in chiles during the last minute. Remove from the heat.",
+            "Top each warm tortilla with an equal amount of hash browns and scrambled eggs, then sprinkle green onions and goat cheese over top. Fold the sides of each tortilla in toward the center and roll up from the bottom, tucking in the sides as you roll.",
+            "Serve with salsa verde on the side."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spinach Feta Egg Wrap",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1 large whole-wheat tortilla",
+            "1 ½ teaspoons coconut oil",
+            "1 cup chopped baby spinach leaves",
+            "1 oil-packed sun-dried tomato, chopped",
+            "2 eggs, beaten",
+            "⅓ cup feta cheese",
+            "1 tomato, diced"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Warm tortilla in a large skillet over medium heat.",
+            "Melt coconut oil in a separate skillet over medium-high heat. Sauté spinach and tomato in hot oil until spinach wilts, about 1 minute. Add eggs and scramble until almost set, about 2 minutes. Sprinkle feta cheese over eggs and continue cooking until cheese melts, about 1 minute more.",
+            "Transfer scrambled egg mixture to warm tortilla in the large skillet; top with diced tomato. Roll tortilla and leave in skillet long enough for wrap to hold its shape, about 30 seconds."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Mini Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "¼ cup Mexican-style chorizo",
+            "1 tablespoon bacon grease",
+            "½ cup diced potatoes",
+            "2 tablespoons chopped onion",
+            "1 serrano pepper, chopped",
+            "2 large eggs",
+            "salt and ground black pepper to taste",
+            "4 (8 inch) flour tortillas",
+            "avocado oil cooking spray"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Cook chorizo in a large skillet over medium-high heat, stirring frequently, until it turns dark red, 6 to 8 minutes. Remove from the skillet.",
+            "Melt bacon grease in the same skillet over medium-high heat. Add diced potatoes and cook, stirring occasionally, 8 to 10 minutes. Add onion and serrano pepper; cook and stir until potatoes are fork-tender, onion is translucent, and serrano pepper is soft, 2 to 6 minutes. Add eggs and chorizo; stir until cooked and completely incorporated into potato mixture, about 5 minutes. Season with salt and pepper.",
+            "Meanwhile, heat tortillas in a large skillet or directly over the grates of a gas stove until soft and pliable. Place 1/3 cup chorizo mixture down the center of a tortilla. Fold top and bottom of tortilla over the filling, then roll into a burrito shape. Mist with cooking spray and place into the air fryer basket. Repeat to make remaining burritos.",
+            "Air-fry at 400 degrees F (200 degrees C) for 4 to 6 minutes. Flip each burrito over, mist with cooking spray, and air-fry until lightly browned, 2 to 4 minutes more."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1 pound bacon",
+            "10 eggs",
+            "1 (16 ounce) can refried beans",
+            "8 ounces shredded Cheddar cheese",
+            "10 (10 inch) flour tortillas"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and set aside. Wrap tortillas in foil and warm them in the oven.",
+            "Fry eggs in a greased skillet until firm. In a small saucepan, heat refried beans.",
+            "Top each tortilla with refried beans, 2 strips of bacon, 1 egg, and a little cheese. Roll tortillas into burritos and serve."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Brunch Enchiladas",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1 pound cooked ham, chopped",
+            "¾ cup sliced green onions",
+            "¾ cup chopped green bell peppers",
+            "3 cups shredded Cheddar cheese, divided",
+            "10 (7-inch) flour tortillas",
+            "5 eggs, beaten",
+            "2 cups half-and-half cream",
+            "½ cup milk",
+            "1 tablespoon all-purpose flour",
+            "¼ teaspoon garlic powder",
+            "1 dash hot pepper sauce"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place ham in food processor, and pulse until finely ground. Mix together ham, green onions, and green peppers. Spoon 1/3 cup of ham mixture and 3 tablespoons shredded cheese onto each tortilla, then roll up. Carefully place filled tortillas, seam side down, in a greased 9x13-inch baking dish.",
+            "In a medium bowl, mix together eggs, cream, and milk, flour, garlic powder, and hot pepper sauce. Pour egg mixture over tortillas. Cover, and refrigerate 8 hours to overnight.",
+            "The next morning, preheat the oven to 350 degrees F (175 degrees C).",
+            "Bake, uncovered, in preheated oven for 50 to 60 minutes, or until set. Sprinkle casserole with remaining 1 cup shredded cheese. Bake about 3 minutes more, or until cheese melts. Let stand a least 10 minutes before serving."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Egg and Avocado Breakfast Burrito",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "6 eggs",
+            "⅓ cup milk",
+            "¼ cup shredded Cheddar cheese",
+            "salt to taste",
+            "2 avocados - peeled, pitted, and mashed",
+            "4 (10 inch) flour tortillas, warmed",
+            "⅔ cup dry curd cottage cheese",
+            "¼ cup ketchup"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "In a bowl, beat together eggs, milk, and cheese. Season with salt. Pour into a skillet over medium heat. Cook and stir until scrambled.",
+            "Season mashed avocados with salt. Place tortillas one at a time in a separate skillet over medium heat, and cook just until warm. Spread equal amounts of avocado mixture on one side of each warmed tortilla. Layer with equal amounts of cottage cheese and scrambled eggs. Roll into burritos and serve with ketchup."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Egg Pesto Breakfast Wrap",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "2 large eggs",
+            "1 ½ teaspoons reduced-fat sour cream",
+            "¼ cup shredded reduced-fat Cheddar cheese",
+            "cooking spray",
+            "2 tablespoons finely chopped onion",
+            "1 ½ teaspoons prepared pesto sauce",
+            "3 grape tomatoes, sliced",
+            "1 slice turkey bacon, cut into 1/2-inch pieces",
+            "½ ounce marinated artichoke hearts, drained and thinly sliced",
+            "1 (10 inch) flour tortilla",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Whisk eggs and sour cream together in a bowl until well blended; stir in Cheddar cheese.",
+            "Spray a skillet with cooking spray and heat over medium heat. Add onion and pesto; cook and stir until onion is translucent, about 6 minutes. Stir in tomatoes, then pour egg mixture over top. Cook and stir until eggs are set, 3 to 5 minutes. Remove eggs from the skillet.",
+            "Add turkey bacon to the skillet; cook and stir until starting to crisp, about 6 minutes. Add artichoke hearts; sauté until heated through, about 1 minute. Remove bacon and artichokes from the skillet.",
+            "Spray the skillet again with cooking spray. Place tortilla into the skillet; cook until warm and flexible, 30 to 60 seconds per side. Remove from the heat and transfer to a plate.",
+            "Spoon egg mixture, bacon, and artichokes into the center of the tortilla; season with salt and pepper. Fold the bottom 2 inches of the tortilla up to enclose the filling, and wrap tightly."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ham and Cheese Breakfast Tortillas",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "12 eggs",
+            "⅓ cup milk",
+            "3 slices cooked ham, diced",
+            "2 green onions, minced",
+            "salt and pepper to taste",
+            "4 ounces Cheddar cheese, shredded",
+            "4 (10 inch) flour tortillas",
+            "½ cup salsa"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Beat together eggs and milk. Heat a lightly oiled skillet (or non-stick pan) over medium high heat and cook egg mixture, stirring occasionally, until firm. When almost done, stir in ham, green onions, salt and pepper.",
+            "Spoon 1/4 of the egg mixture on top of each tortilla. Sprinkle the eggs with cheese, fold over the tortilla to make a roll and top with salsa if desired."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Breakfast Enchiladas",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 (16 ounce) package frozen hash brown potatoes",
+            "1 cup diced cooked ham",
+            "1 (4.5 ounce) can diced green chile peppers",
+            "1 ½ cups shredded Cheddar cheese, divided",
+            "1 (28 ounce) can green chile enchilada sauce",
+            "8 (10 inch) flour tortillas"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Heat oil in a medium skillet over medium-high heat. Cook and stir potatoes and ham in hot oil until browned. Stir in chile peppers and 1/2 cup Cheddar cheese. Cook until cheese is melted.",
+            "Coat the bottom of a 9x13-inch baking dish with a small amount of enchilada sauce; pour remaining sauce into a shallow bowl. Dip each tortilla in sauce and fill with potato-ham mixture. Roll each as tightly as possible and place in the baking dish, seam-side down. Pour remaining sauce in the bowl over enchiladas and cover the dish with aluminum foil.",
+            "Bake in the preheated oven for about 20 minutes. Remove the foil and continue baking until lightly browned on top, about 10 minutes more. Serve hot."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Make-Ahead Air Fryer Breakfast Burritos",
+        "category": "Breakfast Burritos",
+        "ingredients": [
+            "1 pound mild country bulk sausage",
+            "12 large eggs, beaten",
+            "salt and ground black pepper to taste",
+            "1 cup shredded Cheddar cheese",
+            "15 (8 inch) flour tortillas"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Crumble sausage into a large skillet over medium-high heat. Cook until no longer pink, about 10 minutes. Transfer to a large bowl using a slotted spoon.",
+            "Reduce heat to medium. Pour beaten eggs into the skillet and season with salt and pepper. Cook for 3 minutes. Stir and cook for 2 minutes more. Turn heat off. Stir one last time, breaking up larger pieces. Pour into the bowl with the sausage, add cheese, and stir to combine.",
+            "Lay out 1 tortilla on a clean work surface. Place 1/4 cup of the sausage-egg mixture on the bottom third of the tortilla, closest to you. Fold the end of the tortilla over the mixture. Fold in both sides of the tortilla over the filling, making an envelope shape. Tuck, roll, and place on a baking sheet seam side down. Repeat with remaining tortillas and filling.",
+            "Place baking sheet into the freezer for 2 hours. Transfer burritos to a covered freezer-safe container until ready to serve.",
+            "When ready to cook, preheat the air fryer to 400 degrees F (200 degrees C).",
+            "Place burrito, seam-side down, in the preheated air fryer, and cook for 5 minutes."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

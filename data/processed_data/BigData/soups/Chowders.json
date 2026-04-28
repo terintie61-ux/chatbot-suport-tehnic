@@ -1,0 +1,638 @@
+[
+    {
+        "Main_category": "soups"
+    },
+    {
+        "recipe_title": "My Best Clam Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "2 cups cubed potatoes",
+            "1 cup diced carrots",
+            "1 cup diced celery",
+            "1 cup minced onion",
+            "3 (6.5 ounce) cans minced clams, drained with juice reserved",
+            "water to cover",
+            "¾ cup butter",
+            "¾ cup all-purpose flour",
+            "1 quart half-and-half cream",
+            "2 tablespoons red wine vinegar",
+            "1 ½ teaspoons salt",
+            "ground black pepper to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.",
+            "Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.",
+            "Stir in clams just before serving to prevent them from overcooking. When clams are heated through, stir in vinegar and season to taste with salt and pepper."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "New England Clam Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "4 slices bacon, diced",
+            "1 ½ cups chopped onion",
+            "4 cups peeled and cubed potatoes",
+            "1 ½ cups water",
+            "1 ½ teaspoons salt",
+            "½ teaspoon ground black pepper to taste",
+            "3 cups half-and-half",
+            "3 tablespoons butter",
+            "2 (10 ounce) cans minced clams"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Place diced bacon in a large stockpot over medium-high heat; cook and stir until almost crisp. Add onion; cook and stir until tender, about 5 minutes.",
+            "Stir in potatoes and add water; season with salt and pepper and bring to a boil. Reduce heat to low and simmer, uncovered, until potatoes are tender, about 15 minutes.",
+            "Pour in half-and-half and add butter.",
+            "Drain clams, reserving clam liquid; stir clams and 1/2 of the clam liquid into the soup. Cook until heated through, without boiling, about 5 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Salmon Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "3 tablespoons butter",
+            "¾ cup chopped onion",
+            "½ cup chopped celery",
+            "1 teaspoon garlic powder",
+            "2 cups chicken broth",
+            "2 cups diced potatoes",
+            "2 carrots, diced",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon dried dill weed",
+            "2 (16 ounce) cans salmon",
+            "1 (15 ounce) can creamed corn",
+            "1 (12 fluid ounce) can evaporated milk",
+            "½ pound Cheddar cheese, shredded"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather the ingredients.",
+            "Melt butter in a large pot over medium heat. Add onion, celery, and garlic powder; sauté until onions are tender.",
+            "Add broth; stir in potatoes and carrots. Season with salt, pepper, and dill. Bring to a boil; reduce heat, cover, and simmer 20 minutes.",
+            "Stir in salmon, corn, evaporated milk, and cheese. Cook until heated through."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chicken and Corn Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "½ cup butter",
+            "1 small onion, finely diced",
+            "1 small carrot, finely diced",
+            "1 stalk celery, diced",
+            "1 clove garlic, minced",
+            "½ cup all-purpose flour",
+            "4 russet potatoes, diced",
+            "2 cooked rotisserie chicken breast halves, shredded",
+            "1 ½ cups white corn kernels",
+            "1 ½ cups yellow corn kernels",
+            "4 cups chicken stock, divided",
+            "2 ½ cups half-and-half",
+            "1 pinch nutmeg",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Melt butter in a large saucepan over medium heat; cook and stir onion, carrot, celery, and garlic in hot butter until slightly softened, about 2 minutes.",
+            "Stir flour into mixture to make a paste; cook until lightly browned and flour gives off a slightly toasted smell, about 5 minutes. Watch carefully as flour burns easily. Remove saucepan from heat and set aside to cool slightly.",
+            "Meanwhile, stir together potatoes, chicken, white and yellow corn, and 3 cups stock in a large soup pot over medium heat.",
+            "Whisk remaining 1 cup stock into vegetables and flour mixture until thoroughly combined. Stir mixture into the soup pot; bring to a simmer. Cook and stir until thick, about 5 minutes.",
+            "Stir half-and-half, nutmeg, salt, and black pepper into chowder. Bring to a boil, reduce heat to low, and simmer until potatoes are tender, about 20 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fish Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "2 tablespoons butter",
+            "2 cups chopped onion",
+            "4 fresh mushrooms, sliced",
+            "1 stalk celery, chopped",
+            "4 cups chicken stock",
+            "4 cups diced potatoes",
+            "2 pounds cod, diced into 1/2-inch cubes",
+            "1 cup clam juice",
+            "½ cup all-purpose flour",
+            "⅛ teaspoon Old Bay Seasoning, or to taste",
+            "salt and ground black pepper to taste",
+            "2 (12 fluid ounce) cans evaporated milk",
+            "¼ cup cooked crumbled bacon"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Melt butter in a large stockpot over medium heat. Sauté onions, mushrooms, and celery in butter until tender. Add chicken stock and potatoes; simmer for 10 minutes. Add fish; simmer for another 10 minutes.",
+            "Mix together clam juice and flour in a small bowl until smooth; stir into soup and simmer for 1 minute. Season with Old Bay, salt, and pepper. Remove from heat and stir in evaporated milk.",
+            "Portion into soup bowls and top with crumbled bacon."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Corn Soup",
+        "category": "Chowders",
+        "ingredients": [
+            "½ onion, chopped",
+            "¼ cup chopped fresh parsley",
+            "1 tablespoon butter",
+            "1 clove garlic, minced",
+            "3 tablespoons all-purpose flour",
+            "2 ½ cups milk",
+            "1 cup chicken broth",
+            "2 (12 ounce) cans whole kernel corn, drained",
+            "2 ½ tablespoons cream cheese",
+            "1 teaspoon garlic salt",
+            "1 teaspoon ground black pepper",
+            "ground cayenne pepper to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine onion, parsley, butter, and minced garlic in a large pot over medium heat; cook and stir until onions are tender, about 5 minutes.",
+            "Whisk in flour to make a thick paste; whisk in milk and chicken broth until soup thickens slightly.",
+            "Stir in corn and cream cheese until heated through.",
+            "Add garlic salt, black pepper, and cayenne pepper to taste; stir until combined."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Corn Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "½ cup diced bacon",
+            "4 medium potatoes, peeled and chopped",
+            "1 medium onion, chopped",
+            "3 cups cream-style corn",
+            "2 cups water",
+            "2 teaspoons salt or to taste",
+            "ground black pepper to taste",
+            "2 cups half-and-half"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Cook bacon in a large pot over medium-high heat until crisp, 5 to 7 minutes. Drain, leaving bacon and 2 tablespoons grease in the pot.",
+            "Add potatoes and onion to the pot; cook, stirring occasionally, for 5 minutes. Add corn, water, salt, and pepper; bring to a boil. Reduce the heat to low, cover the pot and simmer, stirring frequently, until potatoes are tender, about 20 minutes.",
+            "Warm half-and-half in a small saucepan until it bubbles; remove from the heat just before it boils. Mix into chowder.",
+            "Serve immediately."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Potato Chowder Soup",
+        "category": "Chowders",
+        "ingredients": [
+            "2 cups peeled and diced potatoes",
+            "½ cup diced carrots",
+            "½ cup diced celery",
+            "¼ cup chopped onion",
+            "1 teaspoon salt",
+            "4 cups water, or as needed to cover",
+            "2 cups milk",
+            "¼ cup butter",
+            "¼ cup all-purpose flour",
+            "2 (15 ounce) cans whole kernel corn, drained",
+            "2 ½ cups shredded Cheddar cheese"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place potatoes, carrots, celery, onion, and salt into a large pot. Add water to cover and bring to a boil over medium-high heat. Reduce the heat and simmer until potatoes are tender, about 20 minutes; do not drain.",
+            "When the vegetables are almost finished, combine milk, butter, and flour in a small saucepan over medium-low heat. Whisk constantly until butter melts and mixture is smooth and thick, 5 to 10 minutes.",
+            "Pour hot milk mixture into cooked vegetables. Add corn and Cheddar; cook and stir until Cheddar melts, about 3 minutes."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Seafood Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "1 (8 ounce) container fat-free cream cheese",
+            "1 ½ cups fat-free milk",
+            "2 cloves garlic, minced",
+            "1 (23 ounce) can fat-free condensed cream of mushroom soup",
+            "1 (15.25 ounce) can whole kernel corn, undrained",
+            "1 ½ cups potatoes, chopped into small cubes",
+            "1 cup chopped green onions",
+            "1 cup diced carrots",
+            "1 teaspoon dried parsley",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon ground cayenne pepper",
+            "½ pound shrimp",
+            "½ pound bay scallops",
+            "½ pound crabmeat",
+            "½ pound calamari tubes",
+            "1 (6.5 ounce) can chopped clams"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine cream cheese, 1/2 cup milk, and garlic in a large pot over low heat; cook and stir until blended, about 3 minutes.",
+            "Mix in condensed soup, undrained corn, remaining 1 cup milk, potatoes, green onions, carrots, parsley, black pepper, and cayenne pepper.",
+            "Simmer for 25 minutes, stirring occasionally, without letting the chowder boil.",
+            "Add shrimp, scallops, crab, calamari, and clams; cook until seafood is opaque, about 10 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Manhattan Clam Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "2 (10 ounce) cans whole baby clams, undrained",
+            "2 (6.5 ounce) cans chopped clams, undrained",
+            "4 strips thick-cut bacon, cut into 1/2-inch pieces",
+            "1 cup diced yellow onion",
+            "3 cloves garlic, minced",
+            "kosher salt to taste",
+            "2 tablespoons tomato paste",
+            "2 tablespoons all-purpose flour",
+            "1 cup bottled clam juice",
+            "2 cups chicken broth",
+            "2 medium carrots, cut into 1/2 inch pieces",
+            "2 ribs celery, sliced into 1/2-inch pieces",
+            "½ cup diced Italian tomatoes",
+            "freshly ground black pepper to taste",
+            "3 pinches cayenne pepper",
+            "3 cups peeled, diced Yukon Gold potatoes",
+            "2 teaspoons minced fresh tarragon",
+            "2 tablespoons chopped fresh Italian parsley"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Drain baby and chopped clams. Reserve liquid in the refrigerator until needed and set clams aside.",
+            "Place bacon in a soup pot over medium-high heat; cook and stir until well-browned and almost crispy, 7 to 10 minutes. Add onion, garlic, and a pinch of salt; cook and stir until onions start to soften and turn translucent, 5 to 7 minutes.",
+            "Add tomato paste; cook and stir for 2 minutes. Don't worry if some of the tomato paste sticks to the bottom of the pot; we want that to happen. Sprinkle in flour; cook and stir for 2 to 3 minutes.",
+            "Dump in reserved clam juice plus bottled clam juice and chicken broth. Stir with a spatula, scraping the bottom of the pot to deglaze any caramelization.",
+            "Add carrots, celery, clams, diced tomatoes, pepper, and cayenne; stir and bring to a boil. Reduce heat to medium-low and simmer for 15 to 20 minutes, skimming off some bacon fat if desired.",
+            "Add diced potatoes and cook until tender but not falling apart, about 20 minutes. Taste and adjust for salt, if needed. Stir in fresh tarragon and parsley just before serving."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mom's Nova Scotia Seafood Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "2 large onions, diced",
+            "3 carrots, sliced",
+            "7 potatoes, cubed",
+            "1 pound salmon, cut into chunks",
+            "1 pound cod, cut into chunks",
+            "1 pound scallops",
+            "1 pound shrimp, peeled and deveined",
+            "6 ounces cooked lobster meat, shredded",
+            "1 (6 ounce) can crabmeat, drained and flaked",
+            "2 (6.5 ounce) cans chopped clams, drained",
+            "4 ¼ cups heavy whipping cream",
+            "2 cups half-and-half",
+            "1 ½ cups butter, cut into chunks",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Fill a large pot halfway with lightly salted water; bring to a boil. Add onions and carrots; cook until slightly tender, 10 minutes.",
+            "Add potatoes; cook until tender, 15 to 20 minutes.",
+            "Stir in salmon, cod, scallops, shrimp, lobster, and crab; cook over medium heat until salmon and cod are firm but chunks are still slightly translucent in the center, about 10 minutes.",
+            "Drain half the water from the pot and add clams, heavy cream, and half-and-half. Place butter chunks atop the soup; season with salt and black pepper.",
+            "Cover and simmer, stirring occasionally, until salmon and cod are fully cooked and flake easily with a fork, about 30 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Bay Scallop Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "2 teaspoons olive oil",
+            "2 slices bacon, cut into small pieces",
+            "½ yellow onion, diced",
+            "1 rib celery, diced",
+            "2 cloves garlic, minced",
+            "1 (8 ounce) bottle clam juice",
+            "1 cup low-sodium chicken broth",
+            "1 cup cubed Yukon Gold potatoes",
+            "1 pinch cayenne pepper, or to taste",
+            "freshly ground black pepper to taste",
+            "½ cup heavy whipping cream",
+            "1 red Fresno chile pepper, diced",
+            "1 teaspoon lemon zest",
+            "salt to taste",
+            "1 pound bay scallops",
+            "1 tablespoon chopped fresh tarragon"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Heat olive oil in a skillet over medium heat; cook and stir until fat renders and bacon is slightly browned, 3 to 5 minutes. Add onion to bacon; cook and stir until soft and translucent, 3 to 5 minutes. Stir celery and garlic into onion mixture, cook until fragrant, 1 minute.",
+            "Pour clam juice, chicken broth, potato, cayenne pepper, and black pepper into bacon mixture; bring to a simmer, reduce heat to medium low, and cook until potatoes are almost tender, 12 to 15 minutes. Stir cream and chile pepper into potato mixture; bring to a simmer and cook until potatoes are completely tender and chowder flavors combine, about 5 minutes. Season with lemon zest and salt.",
+            "Stir scallops into chowder and cook over medium heat until scallops are tender and white, 1 to 3 minutes. Remove from heat; stir in tarragon."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow-Cooker Fish Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "4 strips bacon, chopped",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "6 cups chicken stock",
+            "3 stalks celery, diced",
+            "2 large potatoes, diced",
+            "2 large carrots, diced",
+            "1 cup fresh corn kernels",
+            "ground black pepper to taste",
+            "½ teaspoon red pepper flakes, or to taste",
+            "1 cup scallops",
+            "1 cup uncooked medium shrimp, peeled and deveined",
+            "halibut, cut into bite-size pieces",
+            "1 (12 ounce) can evaporated milk"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Cook and stir bacon in a skillet over medium heat until browned, 5 to 8 minutes. Drain excess grease. Add onion and garlic to bacon; cook and stir until onion translucent, about 5 minutes. Transfer to a slow cooker.",
+            "Add chicken stock to slow cooker. Stir in celery, potatoes, carrots, and corn; season with black pepper and red pepper flakes. Cover slow cooker.",
+            "Cook on High for 3 hours.",
+            "Stir scallops, shrimp, and halibut into slow cooker; cook 1 hour more. Stir in evaporated milk until thoroughly heated; serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vegetable Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "¼ cup margarine",
+            "½ cup chopped red bell pepper",
+            "½ cup chopped onion",
+            "3 cups water",
+            "1 cup chopped celery",
+            "1 cup diced carrots",
+            "1 cup fresh chopped cauliflower",
+            "1 cup fresh chopped broccoli",
+            "3 cubes chicken bouillon",
+            "salt to taste",
+            "ground black pepper to taste",
+            "1 ½ cups milk",
+            "½ cup all-purpose flour",
+            "1 tablespoon chopped fresh parsley",
+            "3 cups shredded Cheddar cheese"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Melt margarine in a Dutch oven or soup pot over medium-high heat. Add bell pepper and onion; cook until tender.",
+            "Add water, celery, carrots, cauliflower, broccoli, bouillon cubes, salt, and black pepper; bring to a boil. Reduce heat; simmer, covered, until vegetables are tender, about 20 minutes.",
+            "Whisk milk and flour together in a bowl until smooth; stir into soup. Bring soup to a boil; cook and stir 2 minutes. Stir in parsley. Just before serving, stir in Cheddar cheese until melted."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Oyster Chowder Ever",
+        "category": "Chowders",
+        "ingredients": [
+            "1 (12 ounce) container shucked oysters, drained with liquid reserved",
+            "1 onion, chopped",
+            "1 potato, diced",
+            "1 cup coarsely chopped broccoli",
+            "1 cup water",
+            "½ cup frozen corn",
+            "¼ cup butter",
+            "¼ cup all-purpose flour",
+            "3 cups milk",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Cook oysters and reserved liquid in a skillet over medium heat until edges curl, 5 to 10 minutes. Remove skillet from heat.",
+            "Combine onion, potato, broccoli, water, and corn in a saucepan; bring to a boil. Reduce heat and simmer until vegetables are tender, 10 to 15 minutes. Drain vegetables and reserve liquid.",
+            "Melt butter in a large pan over medium heat. Stir flour into melted butter until smooth, about 1 minute. Slowly pour reserved vegetable water and milk into butter-flour mixture; cook until thickened, about 5 minutes. Add oysters and vegetables to milk mixture and cook over medium-low heat until heated through, about 5 minutes. Season with salt and pepper."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheeseburger Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "2 pounds ground beef",
+            "2 (15 ounce) cans diced new potatoes",
+            "1 cup chopped onion",
+            "4 cups milk",
+            "1 pound processed cheese food (such as Velveeta), cut into chunks",
+            "½ pound sharp Cheddar cheese, cut into chunks",
+            "freshly ground black pepper to taste",
+            "⅔ cup mashed potatoes (Optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Heat a large pot or Dutch oven over medium-high heat. Cook and stir beef in the hot pot until browned and crumbly, 5 to 7 minutes; drain and discard grease. Add diced potatoes and onion to beef in the pot; cook and stir until onion is tender, 5 to 10 minutes.",
+            "Stir milk, processed cheese food, and Cheddar cheese into beef mixture; bring to a boil. Reduce heat and simmer, stirring often, until heated through and cheese is melted, 15 to 20 minutes. Season with black pepper.",
+            "Mix in mashed potatoes; cook until heated through and thickened, about 5 minutes."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Corn Chowder I",
+        "category": "Chowders",
+        "ingredients": [
+            "4 slices bacon, diced",
+            "1 onion, chopped",
+            "1 (14.75 ounce) can cream-style corn",
+            "1 ½ cups cubed potatoes",
+            "1 (10.75 ounce) can condensed cream of mushroom soup",
+            "3 cups milk",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "In a large saucepan over medium heat, saute the bacon and onions together until onions are tender, about 7 minutes. Add the corn, potatoes, soup, milk, and salt and pepper. Raise heat to high and bring to a boil. Reduce heat to low, cover and simmer about 25 to 35 minutes or until the potatoes are tender, stirring occasionally."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Potato, Bacon, and Corn Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "8 ounces thick-sliced bacon, cut into",
+            "4 stalks celery, chopped",
+            "2 carrots, diced",
+            "1 bay leaf",
+            "2 tablespoons butter",
+            "2 tablespoons all-purpose flour",
+            "4 cups milk, or more as needed",
+            "2 large potatoes, peeled and diced",
+            "1 (15.25 ounce) can whole kernel corn, drained",
+            "1 pinch paprika (Optional)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Cook bacon in a large skillet over medium heat until fat has rendered and bacon is crispy, about 8 minutes. Transfer bacon to a paper-towel-lined plate to drain; leave drippings in the skillet. Add celery, carrot, and bay leaf to the skillet; cook 5 minutes.",
+            "Meanwhile, melt butter in a large pot over medium-low heat. Whisk in flour, whisking constantly; cook for 5 minutes. Slowly whisk in 4 cups milk. Bring to a simmer over medium-high heat; simmer for 5 minutes, whisking frequently.",
+            "Add bacon, cooked vegetables, potatoes, and corn; return to a simmer, then reduce heat to medium-low. Cook until potatoes are tender, about 20 minutes; add milk as needed to achieve desired consistency. Garnish servings with paprika."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crabmeat and Corn Soup",
+        "category": "Chowders",
+        "ingredients": [
+            "¼ cup butter",
+            "¼ cup all-purpose flour",
+            "2 cups whole milk",
+            "2 cups half-and-half",
+            "1 ¾ cups whole kernel corn",
+            "1 cup chopped green onions",
+            "1 pound fresh crab meat",
+            "½ teaspoon ground white pepper",
+            "½ teaspoon seasoning salt",
+            "1 tablespoon soy sauce",
+            "¼ cup chopped parsley"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "In a heavy-bottomed pot, melt butter, add flour, and stir gently until blended; do not burn or let it darken. Add milk gradually, stirring all the while, then add half and half, stirring gently while blending. Add corn and green onions, and cook for a few minutes until tender.",
+            "Add crabmeat, pepper, salt, and soy sauce and simmer until very hot and small bubbles form around the edge; do not let boil. Adjust seasonings to taste. Garnish with sprinkles of chopped fresh parsley when serving and serve hot.",
+            "Variations: You may use 4 cobs of fresh corn instead of frozen or canned. Cut the kernels off the cob, scrape cob for juices, and then add to soup. Cook until corn is tender. Canned crabmeat or imitation crab may be used instead of fresh crabmeat. Use one 7 1/2-ounce can crabmeat (drained) and 8 ounces imitation crab (cut into small pieces). Combine the two and cook as noted above."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hearty Halibut Chowder",
+        "category": "Chowders",
+        "ingredients": [
+            "1 tablespoon unsalted butter",
+            "1 large onion, finely diced",
+            "2 large potatoes, peeled and cubed",
+            "2 cloves garlic, minced",
+            "6 cups chicken stock",
+            "1 (8 ounce) can stewed tomatoes, diced",
+            "2 large carrots, shredded",
+            "1 ½ cups milk",
+            "½ cup heavy cream",
+            "salt and ground black pepper to taste",
+            "2 pounds halibut, cut into 1-inch cubes",
+            "½ cup shredded Cheddar cheese",
+            "1 pinch red pepper flakes, or to taste"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Melt butter in a large pot over medium heat. Add onion; cook until softened and translucent, about 5 minutes. Add potatoes and garlic; cook until potatoes softened slightly, about 10 minutes.",
+            "Add chicken stock, tomatoes, and carrots; bring to a boil, then reduce heat to medium-low, cover, and simmer for 10 minutes. Stir in milk and cream; season with salt and black pepper, then stir in halibut and simmer uncovered until halibut is flaky and no longer translucent in center, about 10 minutes. Gently stir in Cheddar cheese and pepper flakes until cheese melted. Serve immediately."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

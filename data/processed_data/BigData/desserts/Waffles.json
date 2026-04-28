@@ -1,0 +1,575 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 large eggs",
+            "2 cups all-purpose flour",
+            "1 ¾ cups milk",
+            "½ cup vegetable oil",
+            "1 tablespoon white sugar",
+            "4 teaspoons baking powder",
+            "¼ teaspoon salt",
+            "½ teaspoon vanilla extract",
+            "nonstick cooking spray"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients. Preheat a waffle iron according to manufacturer's instructions.",
+            "Whisk eggs in a large bowl until light and fluffy. Add flour, milk, and vegetable oil and mix to combine. Whisk in sugar, then mix in baking powder, salt, and vanilla just until smooth, being careful not to overmix.",
+            "Spray the preheated waffle iron with nonstick spray. Pour batter onto the hot waffle iron and cook until golden brown and the iron stops steaming, 3 to 5 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Classic Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon salt or to taste",
+            "4 teaspoons baking powder",
+            "2 tablespoons white sugar",
+            "2 large eggs",
+            "1 ½ cups warm milk",
+            "⅓ cup butter, melted",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix flour, salt, baking powder, and sugar together in a large bowl; set aside. Preheat waffle iron to desired temperature.",
+            "Beat eggs in a separate bowl; stir in milk, butter, and vanilla.",
+            "Pour milk mixture into flour mixture; beat until blended.",
+            "Ladle batter into a preheated waffle iron.",
+            "Cook waffles until golden and crisp.",
+            "Serve immediately and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "¼ cup packed brown sugar",
+            "4 teaspoons baking powder",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon ground allspice",
+            "1 teaspoon ground ginger",
+            "½ teaspoon salt",
+            "2 cups milk",
+            "1 cup canned pumpkin puree",
+            "4 large eggs, separated",
+            "¼ cup butter, melted"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat a waffle iron according to manufacturer's instructions.",
+            "Combine flour, brown sugar, baking powder, cinnamon, allspice, ginger, and salt in a mixing bowl. Stir milk, pumpkin, and egg yolks together in a separate bowl. Whip egg whites in a clean dry bowl until soft peaks form.",
+            "Stir flour mixture and 1/4 cup melted butter into pumpkin mixture just until combined. Fold 1/3 of the egg whites into the batter with a spatula until incorporated. Gently fold in remaining egg whites. Cook waffles in preheated waffle iron according to manufacturer's instructions.",
+            "To make the syrup: Stir sugar, cornstarch, and cinnamon together in a saucepan. Stir in apple cider and lemon juice. Cook over medium heat until mixture comes to a boil; continue boiling until thickened, about 2 minutes. Remove from heat and stir in 2 tablespoons of butter until melted. Serve waffles warm with apple cider syrup."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tender and Easy Buttermilk Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons white sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "2 cups low-fat buttermilk",
+            "⅓ cup melted butter",
+            "2 large eggs, lightly beaten",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk flour, sugar, baking powder, baking soda, and salt together in a bowl until evenly combined.",
+            "Whisk buttermilk and melted butter together in a separate bowl; whisk in eggs.",
+            "Stir buttermilk mixture into flour mixture until just combined and batter is slightly lumpy; stir in vanilla extract.",
+            "Preheat a waffle iron according to manufacturer's instructions.",
+            "To cook each waffle, pour enough batter into the preheated waffle iron to reach 1/2 inch from the edge. Cook according to manufacturer's instructions."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "½ cup white sugar",
+            "3 tablespoons unsweetened cocoa powder",
+            "3 teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 cup milk",
+            "2 large eggs",
+            "4 tablespoons butter, melted"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients. Preheat a waffle iron.",
+            "Make waffles: Stir together flour, sugar, cocoa, baking powder, and salt in a large mixing bowl. Stir in milk, eggs, and butter until the mixture is smooth.",
+            "Make hard sauce: stir together softened butter, confectioners' sugar, vanilla extract, and milk. Sauce should be fairly stiff. Set aside.",
+            "Spray preheated waffle iron with nonstick cooking spray. Pour waffle mix onto hot waffle iron. Cook until golden brown.",
+            "Serve hot with hard sauce."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Potato Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 tablespoons butter",
+            "1 onion, chopped",
+            "1 tablespoon minced garlic",
+            "2 cups mashed potatoes",
+            "2 large eggs",
+            "¼ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Melt butter in a skillet over medium heat. Add onion and garlic; cook and stir until onion is tender, 5 to 7 minutes.",
+            "Preheat a waffle iron according to manufacturer's instructions.",
+            "Combine onion mixture, mashed potatoes, eggs, flour, salt, and black pepper in a large bowl until well blended.",
+            "Scoop 1/4 to 1/2 cup batter (depending on size of waffle iron) into the center of waffle iron and close lid. Cook until golden brown, 3 to 5 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sam's Sourdough Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 ½ cups water",
+            "1 cup sourdough starter",
+            "½ cup vegetable oil",
+            "2 eggs",
+            "2 tablespoons white sugar",
+            "2 teaspoons salt",
+            "1 tablespoon water",
+            "1 teaspoon baking soda"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Mix flour, 1 1/2 cups water, and sourdough starter together in a large bowl to make batter; cover loosely with plastic wrap and let sit in a warm place until filled with large holes and bubbles, 4 hours to overnight.",
+            "Stir oil, eggs, sugar, and salt into the batter; mix well to combine.",
+            "Whisk 1 tablespoon water and baking soda together in a small bowl until dissolved. Fold into the batter with a rubber spatula.",
+            "Preheat a waffle iron according to the manufacturer's instructions.",
+            "Pour about 1/3 cup batter onto preheated iron and bake until crisp and golden, according to manufacturer's instructions, about 3 minutes. Continue making waffles until all remaining batter is used."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy French Toast Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "½ cup whole milk",
+            "2 large eggs",
+            "1 tablespoon maple syrup",
+            "½ teaspoon vanilla extract",
+            "1 pinch salt",
+            "4 1/2-inch thick pieces brioche",
+            "cooking spray"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat a waffle iron according to the manufacturer's instructions.",
+            "Whisk milk, eggs, maple syrup, vanilla extract, and salt together in a wide bowl until thoroughly combined. Dip one slice brioche into the bowl and press gently until both sides are coated. Lift bread from the bowl with a slotted spatula, letting any egg mixture drip back into the bowl, and transfer to a rimmed baking sheet. Repeat with remaining bread. Let sit until egg mixture soaks in, about 2 minutes.",
+            "Spray the preheated waffle iron with cooking spray. Place one slice brioche onto the waffle iron and gently close the lid without forcing it down. Cook until golden brown and the iron stops steaming, 3 to 5 minutes. Repeat to cook remaining waffles."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chaffles with Almond Flour",
+        "category": "Waffles",
+        "ingredients": [
+            "1 large egg",
+            "1 tablespoon blanched almond flour",
+            "¼ teaspoon baking powder",
+            "½ cup shredded mozzarella cheese",
+            "cooking spray"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Whisk egg, almond flour, and baking powder together in a bowl. Stir in mozzarella cheese; set batter aside.",
+            "Preheat a waffle iron according to the manufacturer's instructions.",
+            "Spray both sides of the preheated waffle iron with cooking spray. Pour 1/2 of the batter onto the waffle iron and spread it out from the center with a spoon. Close the waffle maker and cook until chaffle reaches your desired doneness, about 3 minutes. Carefully lift chaffle out of the waffle iron and repeat with remaining batter. Allow chaffles to cool and crisp up, about 2 to 3 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Liège Belgian Waffles with Pearl Sugar",
+        "category": "Waffles",
+        "ingredients": [
+            "1 (.25 ounce) package active dry yeast",
+            "1 ½ tablespoons white sugar",
+            "¾ cup lukewarm milk",
+            "3 large eggs",
+            "1 cup melted butter",
+            "2 teaspoons vanilla extract",
+            "3 cups flour",
+            "½ teaspoon salt",
+            "1 ½ cups pearl sugar (such as Lars' Own®)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Sprinkle yeast and white sugar over warm milk in a small bowl. The milk should be no more than 100 degrees F (40 degrees C). Let stand for 15 minutes until yeast softens and begins to form a creamy foam.",
+            "Whisk eggs, melted butter, and vanilla into the yeast mixture until evenly blended; set aside.",
+            "Stir together flour and salt in a separate large bowl, and make a well in the center. Pour the egg mixture into the well, then stir in the flour mixture until a soft dough forms. Cover with a light cloth and let rise in a warm place, 80 to 95 degrees F (27 to 35 degrees C), until doubled in volume, about 30 minutes. Gently mix in the pearl sugar.",
+            "Preheat a waffle iron according to manufacturer's instructions.",
+            "Place a baseball-sized ball of dough on the preheated waffle iron. Cook waffles until golden and crisp, about 2 minutes. Repeat with remaining dough. Allow waffles to cool for 2 to 3 minutes before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Almond Flour Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "1 cup almond flour",
+            "1 teaspoon baking soda",
+            "1 pinch salt",
+            "4 eggs",
+            "¼ cup honey",
+            "1 teaspoon vanilla extract",
+            "cooking spray"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat a waffle iron according to the manufacturer's instructions.",
+            "Combine almond flour, baking soda, and salt in a large bowl. Whisk eggs, honey, and vanilla together in a separate bowl. Stir flour mixture into egg mixture until smooth.",
+            "Spray the preheated waffle iron with cooking spray. Spoon batter onto waffle iron; cook until golden brown and the iron stops steaming, about 5 minutes. Repeat with remaining batter. Serve hot."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "1 ¼ cups all-purpose flour",
+            "3 teaspoons baking powder",
+            "½ teaspoon salt",
+            "1 pinch ground nutmeg",
+            "1 cup 1% milk",
+            "1 large egg",
+            "nonstick cooking spray",
+            "2 ripe bananas, sliced"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the waffle iron.",
+            "Sift together flour, baking powder, salt, and nutmeg in a large mixing bowl. Stir in milk and egg until mixture is smooth.",
+            "Spray preheated waffle iron with nonstick cooking spray.",
+            "Pour 2 tablespoons waffle batter onto the hot waffle iron. Place 2 banana slices on top of the batter and then spoon another 2 tablespoons batter on top of the banana. Cook until golden brown. Serve hot."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chaffles",
+        "category": "Waffles",
+        "ingredients": [
+            "1 large egg",
+            "½ cup shredded mozzarella cheese"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Preheat a waffle maker.",
+            "Whisk egg in a small bowl; stir in mozzarella cheese until batter is well combined.",
+            "Pour 1/2 of the batter onto the preheated waffle maker, spreading it out from the center with a spoon. Close the waffle maker and cook until steaming stops and chaffle is well browned, about 3 minutes. Don't overcook, as that will make it chewy. Repeat with remaining batter."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carol's Cinnamon Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "½ cup brown sugar",
+            "¼ cup white sugar",
+            "4 teaspoons baking powder",
+            "2 ½ teaspoons ground cinnamon",
+            "¼ teaspoon salt",
+            "1 ¾ cups milk",
+            "½ cup vegetable oil",
+            "1 teaspoon vanilla extract",
+            "2 egg whites",
+            "cooking spray"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Whisk flour, brown sugar, white sugar, baking powder, cinnamon, and salt together in a bowl until no lumps remain.",
+            "Stir milk, vegetable oil, and vanilla extract into flour mixture until batter just combined.",
+            "Beat egg whites in a large glass or metal mixing bowl until soft peaks form. Lift your beater or whisk straight up: the egg whites will form soft mounds rather than a sharp peak. Fold into batter.",
+            "Preheat a waffle iron according to manufacturer's instructions. Coat with cooking spray.",
+            "Cook, in batches, in the preheated waffle iron until crisp and golden brown, about 2 minutes. Repeat with remaining batter."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cinnamon Roll Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons white sugar",
+            "4 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1 ½ cups warm milk",
+            "⅓ cup butter, melted",
+            "2 eggs, beaten",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "To make the waffles: Preheat a waffle iron according to the manufacturer's instructions.",
+            "Whisk flour, white sugar, baking powder, and 1 teaspoon salt together in a large bowl. Beat warm milk, 1/3 cup melted butter, eggs, and 1 teaspoon vanilla extract together in another bowl. Add milk mixture to flour mixture and stir until batter is lumpy and just moistened.",
+            "Ladle batter into the preheated waffle iron, working in batches if necessary, and cook until golden brown and the iron stops steaming, about 5 minutes.",
+            "To make the cinnamon topping: Stir brown sugar, 1/2 cup melted butter, and cinnamon together in a small bowl.",
+            "To make the cream cheese topping: Beat confectioners' sugar, cream cheese, 1/4 cup softened butter, 1/2 teaspoon vanilla extract, and 1/8 teaspoon salt together in a medium bowl.",
+            "Place waffles on a plate and drizzle cinnamon mixture and cream cheese mixture over the top."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Malted Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "cooking spray",
+            "2 cups all-purpose flour",
+            "5 tablespoons malted milk powder",
+            "2 tablespoons corn meal",
+            "2 tablespoons white sugar",
+            "1 ¼ tablespoons baking powder",
+            "½ teaspoon salt",
+            "2 cups milk",
+            "2 eggs, beaten",
+            "¼ cup butter, melted",
+            "1 tablespoon vanilla extract"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat a waffle iron according to manufacturer's instructions. Spray the inside of the waffle iron with cooking spray.",
+            "Stir flour, milk powder, corn meal, sugar, baking powder, and salt together in a bowl. Whisk milk, eggs, butter, and vanilla extract together in a separate bowl; pour into flour mixture and stir just until batter is combined.",
+            "Pour batter, working in batches, into the preheated waffle iron and cook until golden brown, about 5 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Emma's Belgian Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 egg yolks",
+            "5 tablespoons white sugar",
+            "1 ½ teaspoons vanilla extract",
+            "½ cup butter, melted",
+            "1 teaspoon salt",
+            "2 ¾ cups self-rising flour",
+            "2 cups warm milk",
+            "2 egg whites"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "In a large bowl, beat together egg yolks and sugar. Beat in vanilla extract, butter and salt. Alternately mix in flour and milk until blended well.",
+            "In a separate bowl, beat egg whites until they have formed soft peaks. Fold egg whites into batter and let stand for 40 minutes.",
+            "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown and fluffy."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "4 teaspoons baking powder",
+            "¾ teaspoon salt",
+            "2 cups buttermilk",
+            "½ cup vanilla Greek-style yogurt",
+            "½ cup butter, melted",
+            "2 eggs, beaten",
+            "1 ½ tablespoons white sugar",
+            "¾ cup chopped strawberries, or more to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat and grease a waffle iron according to manufacturer's instructions.",
+            "Sift flour, baking powder, and salt together in a bowl. Whisk buttermilk, yogurt, butter, eggs, and sugar together in a separate bowl; stir into flour mixture until batter is smooth. Fold strawberries into batter.",
+            "Pour about 1/3 cup batter into preheated waffle iron; cook until lightly browned, 5 to 7 minutes. Repeat with remaining batter."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Savory Herb Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon garlic salt",
+            "1 teaspoon dried parsley",
+            "½ teaspoon dried rosemary",
+            "¼ teaspoon dried tarragon",
+            "1 ½ cups shredded smoked Gouda cheese",
+            "2 cups buttermilk",
+            "3 eggs, separated",
+            "⅔ cup light sour cream",
+            "½ cup vegetable oil"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "In a large bowl, stir together the flour, baking powder, baking soda, garlic salt, parsley, rosemary and tarragon. Stir in the shredded Gouda. Set aside.",
+            "In another bowl, mix together the egg yolks, buttermilk, sour cream and vegetable oil until well blended. Pour the wet ingredients into the flour mixture, and stir until just blended. In a separate clean bowl, whip the egg whites until stiff peaks form. Fold into the waffle batter.",
+            "Heat the waffle iron, and grease with vegetable oil spray. Use the recommended amount of batter for each waffle according to your iron. Close the lid, and cook until golden brown. Waffles can be held in a warm oven while the others are cooking. Serve with creamed beef or chicken."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Whole Grain Waffles",
+        "category": "Waffles",
+        "ingredients": [
+            "2 eggs, beaten",
+            "1 ¾ cups skim milk",
+            "¼ cup canola oil",
+            "¼ cup unsweetened applesauce",
+            "1 teaspoon vanilla extract",
+            "1 cup whole wheat pastry flour",
+            "½ cup flax seed meal",
+            "¼ cup wheat germ",
+            "¼ cup all-purpose flour",
+            "4 teaspoons baking powder",
+            "1 tablespoon sugar",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "In a large bowl, whisk together the eggs, milk, oil, applesauce, and vanilla. Beat in whole wheat pastry flour, flax seed meal, wheat germ, all-purpose flour, baking powder, sugar, and salt until batter is smooth.",
+            "Preheat a waffle iron, and coat with cooking spray. Pour batter into waffle iron in batches, and cook until crisp and golden brown."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

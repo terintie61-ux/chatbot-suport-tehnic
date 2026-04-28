@@ -1,0 +1,608 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Skillet Chicken Bulgogi",
+        "category": "Bulgogi",
+        "ingredients": [
+            "¼ cup chopped onion",
+            "5 tablespoons soy sauce",
+            "2 ½ tablespoons brown sugar",
+            "2 tablespoons minced garlic",
+            "2 tablespoons sesame oil",
+            "1 tablespoon sesame seeds",
+            "½ teaspoon cayenne",
+            "salt and ground black pepper to taste",
+            "1 pound skinless, boneless chicken breasts, cut into thin strips"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth.",
+            "Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean Spicy Marinated Pork (Dae Ji Bool Gogi)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "¼ cup rice wine vinegar",
+            "2 tablespoons soy sauce",
+            "½ cup gochujang (Korean hot pepper paste)",
+            "3 tablespoons minced garlic",
+            "3 tablespoons minced fresh ginger root",
+            "2 tablespoons red pepper flakes",
+            "½ teaspoon black pepper",
+            "3 tablespoons white sugar",
+            "3 green onions, cut into 2 inch pieces",
+            "½ yellow onion, cut into 1/4-inch thick rings",
+            "1 (2 pound) pork loin, cut into 1/4 inch slices",
+            "¼ cup canola oil"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Stir together the vinegar, soy sauce, hot pepper paste, garlic, ginger, red pepper flakes, black pepper, sugar, green onions, and yellow onion in a large bowl. Mix in the pork slices, mixing well until completely coated. Place into a resealable plastic bag, squeeze out any excess air, seal, and marinate in the refrigerator at least 3 hours.",
+            "Heat the canola oil in a large skillet over medium-high heat. Add the pork slices in batches, and cook until no longer pink in the center, and lightly browned on the outside, about 5 minutes per batch. Be careful when cooking the meat, the spicy fumes will hurt your nose!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Beef Bulgogi",
+        "category": "Bulgogi",
+        "ingredients": [
+            "1 pound flank steak, thinly sliced",
+            "5 tablespoons soy sauce",
+            "¼ cup sriracha sauce",
+            "¼ cup chopped green onion",
+            "2 ½ tablespoons white sugar",
+            "2 tablespoons whole dried cayenne peppers",
+            "2 tablespoons minced garlic",
+            "2 tablespoons sesame seeds",
+            "2 tablespoons sesame oil",
+            "1 teaspoon ground cayenne pepper, or to taste",
+            "½ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place flank steak slices in a shallow dish.",
+            "Mix soy sauce, sriracha sauce, green onion, sugar, whole dried peppers, garlic, sesame seeds, sesame oil, ground cayenne, and black pepper together in a bowl. Pour over steak. Cover with plastic wrap and refrigerate to marinate, at least 1 hour but preferably overnight.",
+            "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+            "Remove steak slices from marinade and grill on preheated grill until slightly charred and cooked through, 1 to 2 minutes per side.",
+            "Simmer marinade in a wok or skillet over medium heat until thick and the consistency of gravy; pour over grilled steak."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bulgogi (Korean Barbecued Beef)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "3 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1 tablespoon sesame seeds",
+            "1 clove garlic, minced",
+            "1 teaspoon white sugar",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "¼ teaspoon monosodium glutamate (MSG) (Optional)",
+            "1 pound beef top sirloin, thinly sliced",
+            "1 carrot, julienned",
+            "1 green onion, chopped",
+            "½ yellow onion, chopped"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "In a large resealable plastic bag, combine soy sauce, sesame oil, sesame seeds, garlic, sugar, salt, black pepper, and MSG. Place beef, carrots, and onions in the bag; seal, and shake to coat the vegetables and beef with the sauce. Refrigerate for at least 2 1/2 hours. I prefer to marinate mine overnight.",
+            "Preheat an outdoor grill for high heat. Remove meat and vegetables from marinade, and place on a large sheet of aluminum foil; seal. Discard marinade.",
+            "Place on grill, and cook for 15 to 20 minutes, or to desired doneness."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Bulgogi",
+        "category": "Bulgogi",
+        "ingredients": [
+            "½ cup soy sauce, divided",
+            "¼ cup white sugar, divided",
+            "4 teaspoons sesame oil, divided",
+            "2 cloves garlic, chopped, divided",
+            "1 teaspoon ground black pepper, divided",
+            "1 ½ pounds beef, thinly sliced",
+            "½ teaspoon sesame seeds",
+            "1 green onion, cut into 1-inch pieces, or more to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Whisk 1/4 cup soy sauce, 2 tablespoons sugar, 2 teaspoons sesame oil, 1 clove garlic, and 1/2 teaspoon black pepper together in a large bowl; stir in beef. Cover with plastic wrap and let marinate in the refrigerator, at least 30 minutes and preferably overnight.",
+            "Combine remaining 1/4 cup soy sauce, 2 tablespoons sugar, 2 teaspoons sesame oil, 1 clove garlic, and 1/2 teaspoon black pepper in a small bowl to make a second batch of marinade.",
+            "Toast sesame seeds in a small skillet over medium heat until lightly browned, 3 to 5 minutes.",
+            "Place marinated beef, second batch of marinade, toasted sesame seeds, and green onion in a slow cooker. Cook on Low until beef is tender and flavors are combined, 6 to 8 hours."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Beef Bulgogi with Dipping Sauce",
+        "category": "Bulgogi",
+        "ingredients": [
+            "¼ cup soy sauce",
+            "3 green onions, whites and greens, chopped",
+            "3 tablespoons white sugar",
+            "1 tablespoon vegetable oil",
+            "3 cloves garlic, crushed",
+            "1 teaspoon sesame oil",
+            "1 teaspoon toasted sesame seeds",
+            "2 pounds beef sirloin steak, very thinly sliced"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Mix 1/4 cup soy sauce, green onions, 3 tablespoons sugar, vegetable oil, garlic, sesame oil, and 1 teaspoon sesame seeds together in a bowl. Add beef to the marinade. Let sit until flavors are well absorbed, at least 30 minutes.",
+            "Prepare dipping sauce: Mix 6 tablespoons soy sauce, vinegar, 2 teaspoons sesame seeds, ginger root, paprika, cayenne pepper, and 1 pinch sugar together in a separate bowl.",
+            "Heat a skillet over medium-high heat. Cook and stir beef until firm and lightly browned, 8 to 10 minutes. Serve with dipping sauce."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bulgogi (Korean BBQ)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "1 cup soy sauce",
+            "½ cup pear juice or white wine",
+            "3 tablespoons white sugar",
+            "2 tablespoons chopped garlic",
+            "1 teaspoon sesame oil",
+            "1 teaspoon sesame seeds",
+            "1 tablespoon ground black pepper",
+            "1 teaspoon monosodium glutamate",
+            "1 (2 pound) beef rump roast, sliced into thin strips",
+            "1 onion, cut into thin strips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "In a large bowl, mix together soy sauce, pear juice, sugar, garlic, sesame oil, sesame seeds, black pepper, and monosodium glutamate; add beef and onions. Stir to coat, cover, and refrigerate for 1 hour.",
+            "Preheat a grill pan over high heat and brush with oil; add beef and onions. Cook, turning to brown evenly, for 3 to 6 minutes, or until done."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean BBQ Beef (Pul-Kogi)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "1 pound beef top sirloin, thinly sliced",
+            "6 cloves garlic, minced",
+            "½ pear - peeled, cored, and minced",
+            "2 green onions, thinly sliced",
+            "4 tablespoons soy sauce",
+            "2 tablespoons white sugar",
+            "1 tablespoon sesame oil",
+            "1 tablespoon rice wine",
+            "1 tablespoon sesame seeds",
+            "1 teaspoon minced fresh ginger",
+            "1 teaspoon freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "In a large resealable plastic bag, combine beef with garlic, pear, green onions, soy sauce, sugar, sesame oil, rice wine, sesame seeds, fresh ginger, and ground black pepper. Seal, and refrigerate for 2 to 3 hours.",
+            "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source. Brush oil over grill pan. Place beef on pan. Cook, turning to brown evenly, for 3 to 6 minutes, or until done."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bulgogi Meatballs",
+        "category": "Bulgogi",
+        "ingredients": [
+            "¼ cup low-sodium soy sauce",
+            "¼ Asian pear, grated",
+            "3 tablespoons dark brown sugar",
+            "3 tablespoons minced green onions",
+            "2 tablespoons toasted sesame oil",
+            "2 tablespoons minced garlic",
+            "2 teaspoons fish sauce",
+            "¾ teaspoon freshly ground black pepper",
+            "1 pound ground beef",
+            "1 pound ground pork",
+            "½ cup panko bread crumbs",
+            "1 large egg, lightly beaten",
+            "2 tablespoons toasted sesame seeds (Optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Whisk soy sauce, Asian pear, brown sugar, green onions, sesame oil, garlic, fish sauce, and pepper together in a large bowl. Add beef, pork, bread crumbs, and egg; mix until just combined. Do not over mix. Cover and refrigerate for 30 minutes, or up to 2 hours.",
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Form meat mixture into about 45 mini meatballs. Arrange on 2 baking sheets.",
+            "Bake in the preheated oven until golden and cooked through but still tender, 18 to 20 minutes. Turn baking sheets halfway through cooking time. Garnish with toasted sesame seeds."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean Bulgogi Bowl",
+        "category": "Bulgogi",
+        "ingredients": [
+            "1 pound lean ground beef",
+            "1 tablespoon sesame oil",
+            "¼ cup brown sugar",
+            "¼ cup soy sauce",
+            "¼ cup water",
+            "½ Asian pear, grated",
+            "5 cloves garlic, minced, or more to taste",
+            "1 inch piece ginger, peeled and diced",
+            "1 teaspoon red pepper flakes",
+            "½ teaspoon ground black pepper",
+            "1 cup cooked brown rice, or more to taste",
+            "1 head romaine lettuce, chopped, or to taste",
+            "1 cucumber, diced",
+            "1 red bell pepper, diced, or to taste (Optional)",
+            "1 tablespoon sesame seeds, or to taste (Optional)"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Mix in sesame oil.",
+            "Combine brown sugar, soy sauce, water, Asian pear, garlic, ginger, red pepper flakes, and black pepper in a food processor. Blend until combined but still slightly chunky. Pour mixture into the skillet with the beef and cook over medium heat until most of the liquid evaporates, 7 to 9 minutes.",
+            "Place 1/4 the cooked brown rice in the bottom of an individual serving bowl. Top with a portion of beef mixture, lettuce, cucumber, red bell pepper, and sesame seeds. Repeat with remaining rice, beef, and toppings."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Dak Bulgogi (Korean Barbeque Chicken)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "2 pounds bone-in chicken thighs",
+            "½ cup soy sauce",
+            "½ apple - peeled, cored, and chopped",
+            "1 tablespoon brown sugar",
+            "3 cloves garlic",
+            "1 teaspoon sesame oil",
+            "1 teaspoon gochugaru (Korean chile powder)",
+            "1 teaspoon minced fresh ginger root",
+            "1 teaspoon sesame seeds"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Peel skin from chicken thighs and trim off excess fat. Cut each into single flat 'steak,' working around the bone. Save any smaller pieces for cooking as well. Rinse thighs under cold water, removing any film. Place in a large bowl.",
+            "Pulse soy sauce, apple, sugar, garlic, sesame oil, gochugaru, and ginger together in a food processor until marinade is smooth.",
+            "Pour marinade into the bowl with the chicken and stir to coat. Pierce the chicken with a skewer for extra absorption, if desired. Cover with plastic wrap and refrigerate, 6 to 12 hours.",
+            "Heat a skillet over medium heat. Remove chicken from the marinade and add to the skillet. Cook and stir until no longer pink in the center, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "Transfer thighs to a serving plate and garnish with sesame seeds."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bulgogi Burgers",
+        "category": "Bulgogi",
+        "ingredients": [
+            "1 tablespoon sesame seeds",
+            "2 pounds lean ground beef",
+            "2 green onions, minced",
+            "3 cloves roasted garlic, mashed",
+            "¼ cup mirin (Japanese sweet wine)",
+            "3 tablespoons soy sauce",
+            "2 tablespoons white sugar",
+            "1 tablespoon Asian (toasted) sesame oil",
+            "1 ½ teaspoons ground black pepper",
+            "1 teaspoon salt"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather the ingredients.",
+            "Cook and stir sesame seeds in a small dry skillet over medium-low heat until they are fragrant and toasted, about 2 minutes. Transfer immediately into a small bowl and let cool.",
+            "Mix ground beef, green onions, roasted garlic, mirin wine, soy sauce, sugar, sesame oil, black pepper, salt, and toasted sesame seeds together in a large bowl until thoroughly combined. Divide the meat mixture into 8 portions and form each portion into a large beef patty about 1/2 inch thick.",
+            "Pan-fry the burgers in a large skillet over medium-low heat until browned and the meat is no longer pink inside, about 8 minutes per side. An instant-read meat thermometer inserted into the center of the burgers should read at least 145 degrees F (65 degrees F)."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Daeji Bulgogi (Pork Bulgogi)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "3 tablespoons soy sauce",
+            "2 tablespoons Korean barbeque sauce",
+            "2 tablespoons Korean hot pepper paste",
+            "1 tablespoon white sugar",
+            "1 tablespoon minced ginger root",
+            "2 teaspoons red pepper flakes",
+            "½ teaspoon sesame seeds",
+            "¼ teaspoon ground black pepper",
+            "1 ½ pounds boneless pork shoulder, thinly sliced",
+            "1 onion, sliced"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Whisk soy sauce, barbeque sauce, hot pepper paste, sugar, ginger root, red pepper flakes, sesame seeds, and black pepper together in a small bowl.",
+            "Place pork in a large bowl. Pour soy sauce mixture over pork; toss to coat. Marinate in the refrigerator, at least 3 hours and up to overnight.",
+            "Preheat a large skillet or grill pan over medium-high heat. Add pork, discarding marinade. Cook, stirring frequently, until pork begins to brown, about 5 minutes. Stir in onion; cook until soft, about 10 minutes."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Bulgogi (Korean Roast Beef)",
+        "category": "Bulgogi",
+        "ingredients": [
+            "1 pound beef tenderloin",
+            "3 tablespoons water",
+            "2 tablespoons soy sauce",
+            "2 tablespoons white sugar",
+            "1 green onion, finely chopped",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "½ teaspoon roasted sesame seeds, or to taste",
+            "ground black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine beef tenderloin, water, soy sauce, sugar, green onion, sesame oil, garlic, sesame seeds, and black pepper in a slow cooker. Cook on Low until meat is tender, 10 to 12 hours."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Vegan Bulgogi",
+        "category": "Bulgogi",
+        "ingredients": [
+            "2 ½ cups cremini mushrooms",
+            "1 ½ cups oyster mushrooms",
+            "½ cup brown champignon mushrooms",
+            "2 cups clamshell (shimeji) mushrooms, trimmed",
+            "1 small onion, chopped",
+            "1 shallot, minced",
+            "1 (1 inch) piece fresh ginger, grated",
+            "1 clove garlic, minced",
+            "1 teaspoon vegetable oil",
+            "½ cup low-sodium vegan vegetable broth",
+            "½ cup reduced-sodium tamari",
+            "¼ cup Asian pear, peeled and shredded",
+            "3 tablespoons brown rice syrup",
+            "2 tablespoons sesame oil",
+            "2 tablespoons gochujang (Korean hot pepper paste), or to taste",
+            "1 tablespoon Chinese rice wine vinegar",
+            "2 tablespoons cool water",
+            "2 tablespoons cornstarch",
+            "2 green onions, chopped",
+            "1 tablespoon black sesame seeds",
+            "1 tablespoon sesame seeds"
+        ],
+        "num_ingredients": 21,
+        "directions": [
+            "Wash cremini, oyster, and champignon mushrooms under running water, scrubbing with a mushroom brush to remove any dirt. Cut mushrooms in half, placing on clean dish towel. Delicately pull shimeji mushrooms apart and rinse.",
+            "Select Saute function on a multi-functional pressure cooker (such as Instant Pot). Saute onion, shallot, ginger, and garlic in vegetable oil until fragrant, about 3 minutes. Turn off Saute function. Add broth, tamari, pear, brown rice syrup, sesame oil, gochujang, and rice wine vinegar. Mix well. Add mushrooms and gently toss to coat. Close the lid and let marinate for 10 minutes.",
+            "Lock the lid. Select high pressure according to manufacturer's instructions; set timer for 12 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure naturally according to manufacturer's instructions, about 10 minutes. Manually release any remaining pressure, about 10 minutes more.",
+            "Turn Saute function back on. Mix water and cornstarch together; add slurry to mushrooms, mixing constantly to a create a thick gravy. Turn off Saute function. Serve with green onions and sesame seeds."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Hawaiian Slow Cooker Chicken Bulgogi",
+        "category": "Bulgogi",
+        "ingredients": [
+            "2 pounds skinless, boneless chicken breasts, cut into 1-inch pieces",
+            "1 onion, chopped",
+            "1 (20 ounce) can pineapple tidbits with juice",
+            "1 (10 ounce) bottle Korean bulgogi marinade",
+            "½ cup gochujang (Korean hot pepper paste), or to taste",
+            "1 (8 ounce) package shredded carrots",
+            "1 (8 ounce) package shredded broccoli stalks",
+            "½ bunch fresh cilantro, chopped"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place chicken and onion in a slow cooker. Stir in pineapple, bulgogi marinade, and gochujang.",
+            "Cook on High for 3 hours.",
+            "Mix shredded carrots and broccoli into the slow cooker and continue cooking for 1 hour.",
+            "Stir in cilantro and cook 15 minutes more. Serve."
+        ],
+        "healthiness_score": 90,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Thigh Bulgogi Tacos",
+        "category": "Bulgogi",
+        "ingredients": [
+            "¼ cup white wine vinegar",
+            "1 teaspoon white sugar, or more to taste",
+            "salt and ground black pepper to taste",
+            "2 Persian cucumbers, halved and thinly sliced",
+            "1 tablespoon olive oil",
+            "1 (8 ounce) package shredded red cabbage",
+            "4 scallions, sliced, whites and greens separated",
+            "1 ½ pounds skinless, boneless chicken thighs, cut into 1-inch cubes",
+            "1 cup Korean bulgogi sauce",
+            "⅓ cup sour cream",
+            "1 tablespoon water",
+            "½ tablespoon sriracha sauce, or to taste",
+            "8 (6 inch) flour tortillas, or more as needed"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Mix 3 tablespoons vinegar, sugar, salt, and pepper together in a bowl. Mix in cucumbers.",
+            "Heat oil in a skillet over medium heat. Add cabbage and white parts of scallions to the skillet; cook, stirring occasionally, until softened, 3 to 4 minutes. Transfer to a bowl and toss with salt and pepper and remaining vinegar.",
+            "Season chicken with salt and pepper. Cook in the same skillet until juices run clear, 4 to 7 minutes. Stir in sauce; cook until reduced, about 2 minutes more.",
+            "Mix sour cream, water, and sriracha sauce together. Spread some of the mixture over each tortilla. Top with bulgogi chicken, cucumbers, cabbage, and green parts of scallions."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Korean-Style Bulgogi Beef Tacos",
+        "category": "Bulgogi",
+        "ingredients": [
+            "2 pounds rib-eye steaks",
+            "½ yellow onion, cut into chunks",
+            "½ Asian pear, peeled and coarsely chopped",
+            "4 cloves garlic, peeled",
+            "1 (1/2 inch) piece ginger root, peeled",
+            "¼ cup sake",
+            "¼ cup soy sauce",
+            "¼ cup dark brown sugar",
+            "1 tablespoon sesame oil",
+            "1 teaspoon ground black pepper"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Trim excess fat from beef and slice very thinly across the grain. Transfer beef to a container.",
+            "Place onion, pear, garlic, ginger, and sake in a blender or food processor. Blend until smooth and creamy. Add soy sauce, brown sugar, sesame oil, and black pepper. Pulse until marinade is well mixed.",
+            "Pour marinade over beef. Gently massage beef for a minute or two. Cover and refrigerate for at least 1 hour or overnight.",
+            "Mix vinegar, sugar, garlic, gochugaru, sesame oil, and salt together in a large bowl. Add cucumbers and green onions and mix gently by hand. Refrigerate for at least 30 minutes.",
+            "Remove beef from refrigerator about 20 minutes before cooking.",
+            "Heat canola oil in a cast iron pan over high heat. Cook beef in batches, one layer at a time, stirring until nicely browned, about 3 minutes. Avoid overcrowding beef, or it will end up steaming instead of browning. Transfer to a serving plate and sprinkle with sesame seeds.",
+            "Heat tortillas in another skillet, about 1 minute. Transfer to a serving platter and cover to keep warm. Serve beef bulgogi with the tortillas, cucumber salad, and avocado, green onions, and cilantro as garnishes. Drizzle gochujang over tacos, mixing it with a little water if too thick."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sloppy Bulgogi",
+        "category": "Bulgogi",
+        "ingredients": [
+            "½ cup rice vinegar",
+            "½ cup water",
+            "2 tablespoons raw cane sugar",
+            "1 teaspoon sriracha sauce",
+            "1 small cucumber, thinly sliced",
+            "½ small red onion, sliced into petals"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Bring rice vinegar, water, sugar, and sriracha to a boil in a small saucepan over medium heat. Cook until sugar has dissolved, about 2 minutes. Place cucumber and red onion in a flat-bottomed dish and pour vinegar mixture over the top. Set aside to pickle as you prepare the bulgogi.",
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until no longer pink, about 5 minutes. Drain and discard grease; return beef to skillet. Add soy sauce, brown sugar, green onions, sesame oil, sriracha, garlic, and ginger. Cook, stirring occasionally, until sauce begins to thicken, about 8 minutes.",
+            "Serve bulgogi mixture on hamburger buns topped with the pickled cucumbers and onions."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

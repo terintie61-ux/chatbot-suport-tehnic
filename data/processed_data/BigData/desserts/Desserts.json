@@ -1,0 +1,622 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Domino Cookies",
+        "category": "Desserts",
+        "ingredients": [
+            "1/2 cup unsalted butter,",
+            "1/2 cup white sugar",
+            "1/2 cup brown sugar",
+            "1/2 teaspoon vanilla extract or vanilla paste",
+            "1/2 teaspoon kosher salt",
+            "1 large egg",
+            "1 large egg yolk",
+            "2 tablespoons all-purpose flour",
+            "1/2 cup cocoa powder",
+            "1/2 teaspoon baking soda",
+            "1 cup white chocolate chips",
+            "extra white chocolate"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Beat butter, white sugar, brown sugar, vanilla, and salt together with an electric mixer until light and fluffy, 2 to 3 minutes (if using melted butter instead, just mix until combined). Add egg and egg yolk and mix until incorporated.",
+            "Add flour, black cocoa powder, and baking soda and mix on low speed until a soft dough comes together. Add white chocolate chips and mix until just combined. Wrap the dough in plastic (I usually take it out of the bowl) and refrigerate until firm, at least 2 hours, and preferably overnight.",
+            "Portion the cookies: divide and roll the dough into 12 balls, about 60grams each, or 3 leveled tablespoons. If using extra chopped white chocolate, press several pieces into each dough ball and place them in the refrigerator.",
+            "Preheat the oven to 350 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+            "Place cookies on the prepared baking sheet. You can fit 6 to 8 on a half sheet, leaving some space for spreading between each.",
+            "Bake until cookies have spread and centers no longer look shiny and wet, 13 to 14 minutes. Bang the pan carefully on the counter 1 or 2 times to flatten cookies a bit, giving them chewier centers. Let cool on the pan. Enjoy!"
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Birthday Cake Dip",
+        "category": "Desserts",
+        "ingredients": [
+            "1 (8-ounce) package cream cheese, softened",
+            "1 (3.4-ounce) package vanilla or cheesecake instant pudding mix",
+            "2/3 cup milk",
+            "1 (8-ounce) tub frozen whipped dessert topping, thawed",
+            "1/4 cup multicolored sprinkles",
+            "animal crackers, graham crackers, strawberries or apple wedges for dipping"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine cream cheese, instant pudding mix and milk in a large bowl and beat with an electric mixer until smooth and thickened, about 1 minute.",
+            "Gently fold 1/4 cup sprinkles into the mixture. Cover and refrigerate for at least 1 hour before serving.",
+            "Garnish with additional sprinkles. Serve with animal crackers, graham crackers, strawberries or apple wedges."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy One Pan Baked Rice Krispy Treats",
+        "category": "Desserts",
+        "ingredients": [
+            "6 tablespoons butter",
+            "1 teaspoon vanilla extract",
+            "1 (9 ounce) box crispy rice cereal",
+            "16 ounces marshmallows"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Lightly grease a 9x13-inch baking dish.",
+            "Place butter pieces in bottom of the prepared dish. Add vanilla to baking dish, then add in marshmallows. Carefully pour cereal over marshmallows.",
+            "Bake in the preheated oven until until very lightly browned and marshmallows have melted, 13 to 15 minutes.",
+            "Stir mixture carefully until well combined. Press mixture into dish; let stand 1 hour to cool completely; mixture should be very well held together. Lightly grease a knife and cut into 12 or 16 squares."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Pumpkin Cheesecake Crescent Bars",
+        "category": "Desserts",
+        "ingredients": [
+            "cooking spray",
+            "2 (8 ounce) packages cream cheese",
+            "1 cup sugar",
+            "2 large eggs",
+            "1 cup pumpkin puree",
+            "2 teaspoons pumpkin pie spice",
+            "2 (8 ounce) cans crescent rolls",
+            "1 large egg white",
+            "1 tablespoon water"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Spray a 9x13-inch pan with cooking spray.",
+            "Beat cream cheese in a bowl with an electric mixer until smooth. Add white sugar and egg and beat until smooth. Beat in pumpkin and pumpkin spice.",
+            "Lay 1 package crescent roll dough in the prepared pan and pinch openings together. Pour cream cheese filling over dough and spread until smooth with a spatula.",
+            "Carefully roll out the remaining package crescent roll dough over filling. Pinch openings together.",
+            "Whisk egg white and water together in a small bowl. Using a pastry brush, spread the mixture over the top of crust.",
+            "Bake until a toothpick poked into the center comes out clean, 40 to 45 minutes.",
+            "For glaze, whisk confectioner's sugar, milk, and vanilla together in a bowl until smooth. Let the cake cool for 20 minutes, then drizzle with glaze. Serve warm or cold."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Cracker Barrel Fried Apples",
+        "category": "Desserts",
+        "ingredients": [
+            "6 tablespoons butter",
+            "4 Golden delicious apples",
+            "2 teaspoons ground cinnamon",
+            "1/2 cup white sugar",
+            "1/2 cup water",
+            "1 1/2 tablespoons cornstarch"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Melt butter in a deep skillet over medium-high heat.",
+            "Add apples, cinnamon and sugar and stir until well coated in sugar mixture,. Bring mixture to a simmer. Reduce heat to medium-low and cook, covered until apples are very tender, about 20 minutes.",
+            "Whisk together cold water and cornstarch until dissolved. Stir cornstarch mixture into apple mixture and return to a simmer. Cook until thickened, about 2 minutes; remove from heat."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "The 15-Minute No-Bake Bars That Taste 'Just Like a PB&J!'",
+        "category": "Desserts",
+        "ingredients": [
+            "3 1/2 cups pretzels",
+            "1/4 cup sugar",
+            "9 tablespoons unsalted butter,",
+            "1/4 teaspoon kosher salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "For pretzel crust, process pretzels in a food processor until small crumbs form, 15 to 30 seconds. Add sugar, butter, and salt; pulse until evenly combined, about 5 pulses.",
+            "Transfer pretzel mixture to an 8-inch square baking dish, and press firmly into an even layer. Chill, uncovered, until firm, about 10 minutes.",
+            "For peanut butter filling, beat cream cheese, peanut butter, confectioner's sugar, and salt in a large bowl with an electric mixer on medium speed until smooth and creamy, 1 to 2 minutes, stopping to scrape down sides of bowl as needed.",
+            "Fold in whipped topping until evenly distributed, about 1 minute. Spread filling evenly over cooled crust.",
+            "Spread strawberry preserves evenly over filling.",
+            "Cover and chill until set, at least 4 hours or up to 12 hours. Slice into 9 equal portions and serve chilled."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Chai Latte Bars",
+        "category": "Desserts",
+        "ingredients": [
+            "1 1/2 cups half and half",
+            "3 chai tea bags"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Place half-and-half in a small saucepan over medium-low heat. Cook until mixture just begins to simmer, 5 to 7 minutes, stirring often. Remove pan from heat and add in chai tea bags. Allow mixture to steep, stirring occasionally, for about 15 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "For crust, beat butter, white sugar, vanilla and salt together in a large bowl with an electric mixer until smooth and combined. Add in flour and beat on low speed until mixture comes together to form a soft dough. Press dough firmly and evenly into the bottom of the prepared pan.",
+            "Bake in the preheated oven and until crust looks just set, 10 to 12 minutes. Allow to cool 5 minutes.",
+            "Meanwhile, for filling, in the same bowl you used for crust (no need to wipe out the bowl), beat together pumpkin, brown sugar, white sugar, vanilla, cinnamon, cardamom, salt, ginger, nutmeg, cloves, and allspice with an electric mixer until smooth and combined.",
+            "Remove tea bags from half-and-half mixture. Squeeze bags to remove as much moisture from them as possible; then discard tea bags. With the mixer running on low speed, gradually pour half-and-half mixture into pumpkin mixture; beat until all is thoroughly incorporated. Add in eggs and beat on low speed until just incorporated. Once crust has cooled for 5 minutes, pour filling evenly over the top.",
+            "Bake in the preheated oven until bars are puffed and there is only a slight jiggle in the center of the filling, 50 to 55 minutes. Allow bars to cool completely to room temperature, then refrigerate until chilled, at least 4 hours to overnight.",
+            "Once bars have chilled, lift them out of the pan using the parchment overhang. Cut into 12 bars.",
+            "If desired, served topped with a lightly sweetened whipped cream and an extra sprinkle of cinnamon."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Caramel Apple Grapes",
+        "category": "Desserts",
+        "ingredients": [
+            "1 (11-ounce) bag caramel bits",
+            "2 tablespoons heavy cream",
+            "1 pound green grapes",
+            "toppings of choice, such as chopped peanuts, sprinkles, M&M's etc."
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine caramel bits and heavy cream in a microwave-saft bowl. Microwave in 30 second intervals until melted, stirring after each interval.",
+            "Take a toothpick and stick it into a grape. Dip grape into the melted caramel. Before caramel is completely cooled, roll covered grape in your favorite topping like peanuts or candy sprinkles."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Danish Dream Cake",
+        "category": "Desserts",
+        "ingredients": [
+            "1/2 cup unsalted butter",
+            "3/4 cup whole milk",
+            "3 large eggs",
+            "1 cup white sugar",
+            "3/4 teaspoon salt",
+            "1/4 teaspoon ground nutmeg",
+            "1 1/2 teaspoons vanilla extract",
+            "1/2 teaspoon almond extract",
+            "1 1/2 cups all-purpose flour",
+            "1 1/2 teaspoons baking powder"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment to have overhang on all sides.",
+            "For cake, place butter and milk in a microwave-safe bowl. Cook, stirring often, until butter is melted and mixture is hot, 2 to 2 1/2 minutes.",
+            "Add eggs, white sugar, salt, and nutmeg to a large bowl, and beat with an electric mixer on medium-high speed until mixture has lightened in color and tripled in volume, 3 to 5 minutes. Add in vanilla extract and almond extract and beat until combined. Add flour and baking powder and mix on low speed until nearly incorporated, but some dry bits of flour still remain. With mixer running on low speed, gradually pour in hot butter-milk mixture and beat until incorporated. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 35 to 45 minutes.",
+            "Meanwhile, for topping, place butter, milk, brown sugar, salt and nutmeg into a high-sided microwave-safe bowl. Cook, stirring after every 1 minute, until sugar is dissolved and mixture is bubbling, 2 to 3 minutes. Remove from the microwave and stir in coconut flakes and vanilla.",
+            "Remove cake from the oven and preheat the oven's broiler. Carefully pour topping over the hot cake, and gently spread into an even layer, covering the top of the cake.",
+            "Place cake under the broiler; broil until topping is bubbling and slightly browned, 2 to 3 minutes. Remove cake from the oven; cool in the pan for about 15 minutes, then use parchment overhang to remove to a wire rack to cool completely."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "S'Mores Pie",
+        "category": "Desserts",
+        "ingredients": [
+            "1 recipe G",
+            "1 (5.9-ounce) box chocolate instant pudding and pie filling mix",
+            "2 1/2 cups half and half",
+            "2 teaspoons vanilla extract",
+            "1 (7-ounce) container",
+            "semisweet chocolate shavings"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Follow directions for theGraham Cracker Crustrecipe using a deep-dish broiler-safe pie plate. Reserve 2 tablespoons of the crust mixture for garnish.",
+            "Prepare pudding mix according to package directions using the half-and-half, and adding vanilla. Add pudding to cooled crust.",
+            "Cover and chill at least 4 and up to 24 hours.",
+            "Spread marshmallow creme over the chilled pudding.",
+            "Use a culinary torch to toast the marshmallow creme, or place 4 to 6 inches beneath a preheated broiler. Broil until lightly toasted, 30 to 60 seconds.",
+            "Garnish with reserved graham cracker crust mixture and chocolate shavings, if desired."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Chewy Brown Butter Banana Bread Cookies",
+        "category": "Desserts",
+        "ingredients": [
+            "1 cup unsalted butter",
+            "1 cup chopped walnuts",
+            "1 3/4 cups bananas,",
+            "1 1/2 teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "1/4 teaspoon ground nutmeg",
+            "1 cup dark brown sugar",
+            "1/4 cup white sugar",
+            "1 large egg yolk",
+            "2 teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1/2 teaspoon baking soda"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Melt butter in a light-colored saucepan over medium-low heat. Add in chopped walnuts and 1 cup bananas. Cook over medium-low heat, stirring frequently, until bananas disintegrate, and little browned bits of butter begin to form and stick to the bottom of the pan, 15 to 20 minutes. Pour mixture into a large bowl and allow to cool for 15 minutes.",
+            "Stir cinnamon, salt, and nutmeg into butter mixture. Stir in brown sugar and white sugar until thoroughly combined. Mix in egg yolk and vanilla. Add in flour, remaining 3/4 cup sliced bananas, cornstarch, and baking soda and stir until incorporated. Cover dough and chill in the refrigerator for 1 hour.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line 2 baking sheets with parchment.",
+            "Scoop out 1 1/2 tablespoon-sized balls of dough; space balls about 1 1/2-inches apart on the prepared baking sheets.",
+            "Bake cookies in the preheated oven until edges are browned, 12 to 17 minutes (try not to under bake, or the cookies will be too soft). Allow cookies to cool on the baking sheets for 10 minutes before removing to a wire rack to cool completely."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Apple Dessert Rings",
+        "category": "Desserts",
+        "ingredients": [
+            "1 apple",
+            "desired toppers,"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "To keep slices from browning, whisk together 2 cups water and 1 teaspoon kosher salt in a medium bowl until salt dissolves. Add apple slices to the bowl. Let stand 5 minutes. Rinse in a colander under running water. Blot dry with paper towels before adding desired toppers."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Apple Dessert Pizza",
+        "category": "Desserts",
+        "ingredients": [
+            "flour for dusting",
+            "1 (16.5 to 18-ounce) package sugar cookie dough",
+            "1 tablespoon butter",
+            "2 medium apples, peeled and thinly sliced",
+            "1/4 cup dried cranberries",
+            "1/2 teaspoon lemon zest, plus more for garnish",
+            "1 (8-ounce) package mascarpone cheese, softened",
+            "1 tablespoon maple syrup",
+            "1 cup powdered sugar",
+            "1 tablespoon lemon juice, or more as needed",
+            "1/4 cup chopped pistachios or desired nuts, toasted"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a 12-inch pizza pan with foil or parchment paper. Dust lightly with flour.",
+            "Break or slice cookie dough into pieces and arrange on prepared pan. Let stand to soften slightly, 5 to 10 minutes. Use your fingers to flatten dough to form an even crust 1 inch from pan edges, building up outside edge slightly to create a 1/2-inch crust.",
+            "Bake until golden brown, 18 to 20 minutes. Transfer to a wire rack to cool completely. Slide crust onto a serving platter.",
+            "Meanwhile, melt butter in a large skillet over medium heat. Add apples and cranberries. Cook, stirring occasionally, until softened, about 5 minutes. Stir in lemon zest. Transfer mixture to a medium bowl and cool completely.",
+            "Beat together mascarpone and maple syrup in a small bowl with an electric mixer at medium speed until combined. Spread mascarpone mixture to edges of crust. Top with cooled apple mixture.",
+            "Whisk together powdered sugar and 1 tablespoon lemon juice; whisk in additional lemon juice as needed to reach drizzling consistency. Drizzle icing over pizza. Sprinkle with pistachios and garnish with additional lemon zest. (Best if served within 1 hour.)"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Rustic Caramel-Apple Tart",
+        "category": "Desserts",
+        "ingredients": [
+            "1 1/4 cups all-purpose flour",
+            "1/8 teaspoon plus 1/4 teaspoon salt",
+            "3 ounces cream cheese, chilled",
+            "1/4 cup butter, chilled",
+            "4 tablespoons water",
+            "1 teaspoon cider vinegar",
+            "1/3 cup packed brown sugar",
+            "1 1/2 tablespoons cornstarch",
+            "1/2 teaspoon ground cinnamon",
+            "1/4 teaspoon ground nutmeg",
+            "1/4 teaspoon cardamom",
+            "2 medium Fuji and/or Gala apples,",
+            "2 medium Granny Smith apples",
+            "1/4 teaspoon orange zest",
+            "1 tablespoon orange juice",
+            "1 tablespoon butter, cut up",
+            "1 large egg, lightly beaten",
+            "2 tablespoons apricot jam or apple jelly,",
+            "high-quality caramel sauce,",
+            "flaky salt,"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Stir together flour and 1/8 teaspoon table salt in a medium bowl. Cut in cream cheese and 1/4 cup chilled butter using a pastry blender until pieces are pea-size.",
+            "Stir in 3 tablespoons water and the vinegar just until moistened, adding an additional 1 tablespoon water, 1 teaspoon at a time, if needed. Gather pastry into a ball, kneading gently just until it holds together. Cover in plastic wrap and chill for at least 1 hour (or up to overnight).",
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 13x18-inch rimmed baking sheet or line with parchment paper.",
+            "Whisk together brown sugar, cornstarch, cinnamon, nutmeg, cardamom, and remaining 1/4 teaspoon table salt in a large bowl. Add apples, orange zest, and orange juice; toss to combine.",
+            "Roll dough out on a lightly floured work surface to form a 12-inch square. Transfer to prepared baking sheet. Top pastry with apple mixture, leaving a 2-inch border (see \"Get the Look,\" below). Pour any remaining juices over apples. Fold dough border up over edge of apples, pleating pastry gently as needed to hold in juices. Dot filling with 1 tablespoon butter. Brush edges of pastry with beaten egg. Tent center of tart loosely with foil.",
+            "Bake in the preheated oven for 15 minutes. Remove foil and bake until crust is browned and filling is bubbly, 35 to 45 minutes more. Remove from the oven. Brush filling with apricot jam. Let cool 30 minutes. Serve slices with caramel sauce and garnish with flaky salt."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Cannoli",
+        "category": "Desserts",
+        "ingredients": [
+            "1 1/2 cups flour",
+            "2 tablespoons white sugar",
+            "1/8 teaspoon cinnamon",
+            "2 tablespoons vegetable shortening",
+            "1 large egg",
+            "1/4 cup Marsala wine",
+            "1 tablespoon water,",
+            "2 teaspoons white vinegar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "For dough, stir together flour, white sugar, and cinnamon in a bowl. Cut in shortening with a pastry blender or fork until crumbly. Make a well in the center.",
+            "Add egg, Marsala, water, and vinegar to well. Mix with a fork until dough starts to come together. Transfer to a flour-dusted work surface; knead until dough forms a ball, about 10 minutes, adding 1 teaspoon water as needed. Wrap in plastic wrap and chill for at least 30 minutes (or up to overnight).",
+            "For apple filling, melt butter in a large saucepan over medium heat. Add apples, brown sugar, apple pie spice, and salt. Cook, stirring occasionally, until apples are soft, about 15 minutes. In a small bowl, stir together lemon juice and cornstarch; add to apple mixture. Simmer, stirring occasionally, until thickened, 3 to 5 minutes. Cool completely. Transfer cooled mixture to a pastry bag.",
+            "For ricotta filling, stir together drained ricotta and powdered sugar in a large bowl; fold in lemon zest. Transfer mixture to a pastry bag.",
+            "To shape and fry shells, divide dough into 2 balls. On a lightly floured surface, roll 1 ball into a 16- to 18-inch circle, about 1/16 inch thick or less. Using a 4- to 5-inch biscuit cutter, cut out 12 circles. Dust circles with a light coating of flour. (This will help you later in removing shells from cannoli tube molds.) Roll each dough circle around a cannoli tube, sealing edges with a bit of egg white. Repeat with remaining dough ball.",
+            "Pour oil to a depth of 3 inches in a deep, heavy-bottomed 4-quart pot or deep fryer; heat to 375°F. (You'll need about 1 quart oil.) Working in batches, fry shells on tubes, turning halfway through, until golden, about 1 minute. Using tongs, transfer shells to a wire rack lined with paper towels to drain.",
+            "Let stand just until tubes are cool enough to handle, then carefully twist each tube to remove shell. (Using a kitchen towel may help your grip.) Wash or wipe off tubes to use for remaining shells, if needed.",
+            "To assemble, pipe apple filling into shells, filling two-thirds full from center to one end and repeating on other side. Repeat piping method with ricotta filling. Garnish cannoli with powdered sugar."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Caramel-Apple Cake",
+        "category": "Desserts",
+        "ingredients": [
+            "2 3/4 cups cake flour",
+            "4 teaspoons baking powder",
+            "3/4 teaspoon salt",
+            "4 large egg whites",
+            "1 1/2 cups white sugar",
+            "3/4 cup butter",
+            "1 cup milk",
+            "1 teaspoon vanilla extract",
+            "1/2 teaspoon almond extract"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "For cake: Preheat the oven to 350 degrees F (180 degrees C). Grease 2 (8-inch) round cake pans. Line bottoms with parchment paper. Dust pans with flour, shaking out excess.",
+            "Sift together cake flour, baking powder, and salt 3 times in a medium bowl.",
+            "Beat egg whites in a large bowl with an electric mixer at medium-low speed until foamy. Gradually add 1/2 cup white sugar; mix until soft peaks form.",
+            "In another large bowl, with clean beaters, mix butter with remaining 1 cup white sugar with mixer at medium speed until light and fluffy. Alternately add flour mixture and milk until combined. Mix in vanilla and almond extracts. Fold in egg whites. Divide batter between prepared pans.",
+            "Bake in the preheated oven until tops spring back when lightly touched, 35 to 40 minutes. Cool in pans on a wire rack 10 minutes. Remove from pans. Cool completely on wire racks. Trim cake tops with a bread knife to level, if needed. Wrap each layer in plastic wrap and freeze at least 2 hours. (Frozen layers are easier to stack and frost.)",
+            "Meanwhile, for frosting, with clean beaters, mix together cream cheese and butter in a large bowl with mixer at medium speed, 30 seconds. Add caramel sauce, vanilla, and salt; mix until light and fluffy. Mix in powdered sugar, 1/2 cup at a time, to reach desired spreading consistency.",
+            "For filling, melt butter in a large skillet over medium heat. Add apple and brown sugar. Cook and stir until apple is tender and caramelized, about 8 minutes. Remove from skillet. Cool completely.",
+            "For streusel topper: preheat oven to 350 degrees F (180 degrees C). Line a cookie sheet with parchment paper. Combine all-purpose flour, brown sugar, and ci nnamon in a small bowl. Cut in butter with a pastry blender until mixture resembles coarse crumbs. Stir in almonds. Spread on prepared cookie sheet.",
+            "Bake in the preheated oven, stirring halfway through, until golden brown, about 10 minutes.",
+            "Unwrap cake layers. Place 1 cake layer on a serving platter. Spread with 1/2 cup frosting. Top with apple filling, spreading in an even layer. Top with remaining cake layer. Spread top with 1/2 cup frosting. Spread sides with remaining 3 cups frosting (an offset spatula can make spreading easier). Sprinkle top of frosted cake with streusel topper."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Whoopie Pies",
+        "category": "Desserts",
+        "ingredients": [
+            "1 cup packed brown sugar",
+            "3/4 cup unsweetened applesauce",
+            "1/2 cup vegetable oil",
+            "1 large egg",
+            "1/2 teaspoon vanilla extract",
+            "1 3/4 cups flour",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon apple pie spice",
+            "1/2 cup apple",
+            "marshmallow-apple spice buttercream"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Arrange racks in upper and lower thirds of oven; preheat to 375 degrees F (190 degrees C). Line 2 (10x15-inch) rimmed baking sheets with parchment paper.",
+            "Stir together brown sugar, applesauce, oil, egg, and vanilla in a large bowl. Mix with an electric mixer at low speed until combined. Add flour, salt, baking powder, baking soda, and apple pie spice. Beat until just combined. Fold in apple.",
+            "Working in batches as needed, drop dough on prepared baking sheets using a 1 1/2-tablespoons scoop, spacing 2 inches apart.",
+            "Bake in the preheated oven until cookies are set and lightly browned on edges, 10 to 12 minutes. Transfer to wire racks to cool completely, about 30 minutes.",
+            "Spoon marshmallow-apple spice buttercream into a zip-top plastic bag. Snip off a corner of bag. Turn half of cookies upside down; pipe about 1 1/2 tablespoons buttercream onto each. Top with remaining cookies to form sandwiches. (To store, chill unfilled cookies in a single layer in an airtight container up to 3 days or freeze up to 3 months. Fill cookie sandwiches just before serving.)"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate-Apple Egg Rolls",
+        "category": "Desserts",
+        "ingredients": [
+            "3 golden delicious apples",
+            "1/2 teaspoon orange zest",
+            "3 tablespoons orange juice",
+            "1 tablespoon white sugar",
+            "1 1/2 teaspoons vanilla extract",
+            "1 pinch nutmeg",
+            "1 pinch salt",
+            "1 quart vegetable oil, or as needed, for frying",
+            "8 egg roll wrappers",
+            "1/2 cup chocolate-hazelnut spread,",
+            "1 cup whipping cream",
+            "1/4 cup powdered sugar",
+            "1 tbsp unsweetened cocoa powder",
+            "1/4 cup hazelnuts",
+            "1 piece chocolate"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Combine apples, orange juice, white sugar, 1 teaspoon vanilla, nutmeg, and salt in a small saucepan. Bring to a boil. Reduce heat to medium-low and cook, covered, stirring occasionally, until apples are tender and mixture thickens, 3 to 5 minutes. Stir in orange zest. Spread filling on a plate and let cool completely.",
+            "Preheat oven to 200 dergrees F (93 degrees C). Pour oil to a depth of 3/4 inch in a deep 10-inch skillet; heat to between 350 and 375 degrees F (180 to 190 degrees C). You'll need about 1 quart oil.",
+            "Meanwhile, arrange 1 egg roll wrapper on a work surface with 1 corner pointed toward you like a diamond. Spread 1 tablespoon chocolate-hazelnut spread and 3 tablespoons apple filling in the center bottom half of wrapper. Fold bottom corner over filling, tucking it under on other side. Fold side corners over filling, forming an envelope shape. Roll egg roll toward remaining corner. Moisten top corner with water; press firmly to seal. Place on a parchment paper-lined baking sheet. Repeat with remaining wrappers, chocolate-hazelnut spread, and apple filling.",
+            "Working in batches, fry egg rolls, turning occasionally, until golden brown, 3 to 5 minutes. Drain on a paper towel-line plate. Transfer to prepared baking sheet; keep warm in oven while frying remaining egg rolls.",
+            "Beat cream, powdered sugar, cocoa powder, and remaining 1/2 teaspoon vanilla in a medium bowl with an electric mixer at medium speed until stiff peaks form.",
+            "Top warm egg rolls with whipped cream and hazelnuts. Garnish with chocolate shavings and additional orange zest."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Caramel-Apple Brandy Cheesecake",
+        "category": "Desserts",
+        "ingredients": [
+            "1 cup",
+            "1/2 cup pecans",
+            "1/4 cup butter",
+            "2 tablespoons brown sugar, divided",
+            "2 1/2 teaspoons apple pie spice",
+            "1/4 cup butter",
+            "4 medium apples",
+            "3 (8-ounce) packages cream cheese",
+            "3/4 cup white sugar",
+            "2 tablespoons apple brandy",
+            "3 large eggs",
+            "caramel sauce"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Stir together graham cracker crumbs, pecans, 1/4 cup melted butter, 2 tablespoons brown sugar, and 1/2 teaspoon apple pie spice in a medium bowl until combined. Press into bottom and 1 inch up sides of a 9-inch springform pan.",
+            "Melt 1/4 cup butter in a very large skillet over medium heat. Add apples; cook, stirring occasionally, until tender, 10 to 15 minutes. Remove from heat. Stir in remaining 1/2 cup brown sugar and 2 teaspoons apple pie spice. Let cool. (Note: There will be free liquid present.)",
+            "Preheat the oven to 350 degrees F (180 degrees C). Beat cream cheese, white sugar, and apple brandy in a large bowl with an electric mixer at medium speed until smooth. Beat in eggs until just combined. Pour half of cream cheese mixture into crust. Spoon half of apple mixture with any juices over cream cheese mixture. Repeat with remaining cream cheese mixture and apple mixture. Gently swirl apples with a spoon to expose cream cheese mixture. Place cheesecake in a shallow baking pan.",
+            "Bake in the preheated oven for 50 to 60 minutes, or until outer edge of cheesecake is set and slightly puffed, just the center jiggles, and an instant-read thermometer inserted into center registers 145 degrees F (63 degrees C).",
+            "Cool cheesecake in pan on a wire rack 15 minutes. Run tip of a knife around edges of pan. Remove pan sides and let cheesecake cool on rack to room temperature, about 1 hour. Chill until completely cool, at least 4 hours (or up to overnight). Serve slices with caramel sauce and additional pecans. (To store, chill cheesecake, covered, up to 3 days.)"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Funnel Cake",
+        "category": "Desserts",
+        "ingredients": [
+            "2 1/2 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon apple pie spice",
+            "1/2 teaspoon salt",
+            "1 3/4 cups milk",
+            "1 cup applesauce",
+            "3 large eggs",
+            "1/4 cup white sugar",
+            "1/4 teaspoon almond extract"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Stir together flour, baking powder, apple pie spice, and salt in a bowl for the batter.",
+            "Whisk together milk, applesauce, eggs, white sugar, and almond extract in a large bowl until combined. Add flour mixture and whisk until smooth. Batter should have the consistency of a cake batter and be thin enough to pass through a funnel.",
+            "For apple topper, melt butter in a large skillet over medium heat. Add apples, brown sugar, and apple pie spice; cook, stirring occasionally, until apples are tender, 15 to 20 minutes. Remove from heat.",
+            "Meanwhile, pour oil to a depth 1 1/2 to 2 inches in a deep, heavy- bottomed 8- to 10-inch skillet or deep fryer; heat to 375 degrees F (190 degrees C).",
+            "Put your finger over bottom opening of a funnel; fill funnel with 1/2 cup batter. Holding funnel close to surface of oil, release batter into oil while making a circular motion. Fry until golden brown, 1 to 2 minutes. Use tongs and a wide spatula to carefully turn funnel cake. If you don't have a funnel, you can use a squeeze bottle instead. Fry until golden, about 1 minute more. Drain on paper towels. Repeat with remaining batter. Keep finished funnel cakes warm in a 180 degrees F (82 degrees C) oven while preparing remaining funnel cakes.",
+            "Top with apple topper. Serve with caramel topping and/or powdered sugar."
+        ],
+        "healthiness_score": 48,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

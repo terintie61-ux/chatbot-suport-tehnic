@@ -1,0 +1,631 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Meet Zucchini Bread Pancakes: The Breakfast I'm Making All Summer Long",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 teaspoon baking powder",
+            "3/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1 teaspoon ground cinnamon",
+            "1/4 teaspoon ground cloves",
+            "1 pinch ground nutmeg",
+            "3/4 cup buttermilk",
+            "3 tablespoons white sugar",
+            "1 large egg",
+            "2 tablespoons butter,",
+            "1 cup zucchini",
+            "1/3 cup chopped walnuts"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients.",
+            "Whisk flour, baking powder, baking soda, salt, cinnamon, cloves, and nutmeg together in a large bowl.",
+            "Combine buttermilk, sugar, egg, and butter in a measuring cup; whisk well. Stir in shredded zucchini, and walnuts, then add to the dry ingredients. Fold together just until no dry spots remain.",
+            "Heat a large nonstick skillet or griddle over medium heat; grease with butter.",
+            "Working in batches, scoop 1/4 cup batter per pancake into the skillet. Cook until bubbles begin to form on surface of pancakes and edges start to look dry, 2 to 3 minutes.",
+            "Flip, and cook until fluffy and slightly firm, about 2 minutes. Repeat with remaining batter, adding butter and adjusting heat as needed."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "High Protein Scrambled Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "2 large eggs",
+            "1/2 cup cottage cheese",
+            "1/2 cup rolled oats",
+            "1/4 cup vanilla protein shake",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon cinnamon",
+            "1/2 teaspoon vanilla extract",
+            "cooking spray"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place eggs, cottage cheese, oats, protein shake, baking powder, cinnamon, and vanilla, in order, into the jar of a high-powered blender (such as a Vitamix®). Blend until smooth.",
+            "Heat a nonstick skillet over medium heat and lightly coat with cooking spray.",
+            "Pour batter into small pancakes. Before the batter begins to set, push the batter around to scramble the pancakes. Flip and fluff the pancakes, and cook until they acquire some golden color in places, 3 to 5 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Bacon Pancake Sticks",
+        "category": "Pancakes",
+        "ingredients": [
+            "2 cups pancake mix",
+            "1 1/3 cups water",
+            "3 tablespoons butter",
+            "8 slices thick cut bacon,",
+            "syrup for dipping (optional)"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine pancake mix and water in a medium bowl and stir until just blended (there may be a few lumps).",
+            "Heat half of the butter in a large nonstick skillet over medium heat until melted.",
+            "Dip half of the bacon in the batter until evenly coated and place in the skillet. Cook undisturbed until lightly browned and slightly puffed, about 2-3 minutes. Flip and cook for another 2-3 minutes or until the pancake is cooked through.",
+            "Repeat with remaining bacon and batter. Serve with syrup if desired for dipping."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Bacon Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "6 slices bacon",
+            "1 cup pancake mix, such as Bisquick",
+            "1/2 cup milk",
+            "1 tablespoon vegetable of avocado oil",
+            "1 large egg",
+            "1 teaspoon ground cinnamon",
+            "maple syrup, for serving"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place bacon in a large cast iron or nonstick skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels.",
+            "Whisk together baking mix, milk, oil, egg, and cinnamon in a bowl until smooth. Crumble 2 bacon slices into the batter, then mix the batter again.",
+            "Heat a medium-sized non-stick skillet to medium low-heat. Cut 1 of the remaining bacon slices in half, then lay the halves in the pre-heated skillet. Pour just enough batter over 1 half slice to cover it. Repeat with the other half slice of bacon.",
+            "Cook until pancakes have puffed up and bubbles have appeared. Flip and cook the other side until golden brown. Remove pancakes from the pan and repeat with remaining bacon and batter.",
+            "Serve with maple syrup on top and any leftover bacon."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Sausage Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "2 cups pancake mix",
+            "1 1/3 cups water, plus more as needed",
+            "3 tablespoons butter, divided",
+            "8 sausage patties",
+            "syrup for dipping"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine pancake mix and water in a bowl and stir until just blended (there may be a few lumps).",
+            "Heat half of the butter in a large nonstick skillet over medium heat until melted.",
+            "Dip half of the sausage patties in the batter until evenly coated and place in the skillet. Cook undisturbed until lightly browned and slightly puffed, 2 to 3 minutes. Flip and cook until the pancake is cooked through, 2 to 3 more minutes.",
+            "Repeat with remaining batter and sausage. Serve with syrup if desired for dipping."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Poppy Seed Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 tablespoon white sugar",
+            "1 tablespoon lemon zest, or more to taste",
+            "5 teaspoons poppy seeds",
+            "1 large egg",
+            "3 tablespoons butter",
+            "3 tablespoons lemon juice",
+            "1 cup milk",
+            "1 1/2 cups all-purpose flour",
+            "1 teaspoon kosher salt",
+            "2 teaspoons baking powder",
+            "1/4 teaspoon baking soda",
+            "lemon wedges"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Combine sugar and lemon zest, and stir to combine. Let stand about 15 minutes.",
+            "Whisk flour, salt, baking powder, and baking soda together in a separate bowl. Set aside.",
+            "Add poppy seeds, egg, and melted butter to the bowl of sugar, and whisk thoroughly. Add lemon juice, milk, and flour mixture. Whisk gently just until flour disappears. Let batter rest for 10 to 15 minutes before using.",
+            "Heat a nonstick skillet over medium heat, and generously grease with melted butter or vegetable oil.",
+            "Transfer about 1/3 cup of batter into the pan for each pancake, and cook until a few bubbles start to pop through the surface, 3 to 4 minutes. Flip and cook the second side 3 to 4 minutes. Serve immediately."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Chip Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "¾ cup milk",
+            "2 tablespoons white vinegar",
+            "1 cup all-purpose flour",
+            "2 tablespoons white sugar",
+            "1 teaspoon baking powder",
+            "½ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "1 large egg",
+            "2 tablespoons unsalted butter, melted",
+            "1 teaspoon vanilla extract",
+            "½ cup mini chocolate chips, or more to taste",
+            "cooking spray"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "To make the buttermilk: Combine milk and vinegar in a bowl and set aside for 5 minutes to sour the milk.",
+            "Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl.",
+            "Whisk egg, butter, and vanilla extract into buttermilk mixture until well combined; add flour mixture and whisk until just combined. Fold in chocolate chips. The pancake batter will be thick. Allow batter to rest for 5 minutes.",
+            "Heat a large skillet over medium-low heat, and coat with cooking spray.",
+            "Pour about ¼ cup of batter for each pancake onto the skillet. Cook until bubbles appear on the surface, 2 to 4 minutes. Flip pancake with a spatula, and cook until browned on the other side, 2 to 3 more minutes. Repeat with remaining batter. Serve immediately."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 ¼ cups all-purpose flour",
+            "1 ½ teaspoons baking powder",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon pumpkin pie spice",
+            "½ teaspoon baking soda",
+            "¼ teaspoon table salt",
+            "1 cup whole buttermilk",
+            "¼ cup packed light brown sugar",
+            "1 large egg",
+            "1 teaspoon vanilla extract",
+            "¾ cup finely grated carrot",
+            "3 tablespoons unsalted butter, melted, plus more for griddle"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the pancake batter: Whisk flour, baking powder, cinnamon, pumpkin pie spice, baking soda, and salt together in a large bowl.",
+            "Add buttermilk, brown sugar, egg, and vanilla; stir until just combined. Stir in carrots and melted butter until just combined. Set batter aside while you prepare the frosting and topping.",
+            "To make the frosting: Whisk cream cheese, milk, powdered sugar, and vanilla together in a medium bowl until smooth. Set aside.",
+            "To prepare the topping: Stir raisins, pecans, coconut, and ginger together in a small bowl. Set aside.",
+            "Heat a large nonstick skillet or griddle over medium heat; grease with butter.",
+            "Working in batches, scoop 1/4 cup batter per pancake into the skillet, being sure not to overcrowd it. Cook until bubbles begin to form on surface of pancakes and edges look dry, 2 to 3 minutes. Flip, and cook until fluffy and slightly firm, about 1 minute. Repeat with remaining batter, adding butter and adjusting heat as needed.",
+            "Divide pancakes evenly among 4 plates; drizzle evenly with frosting and sprinkle evenly with topping."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "My-Hop Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 ¼ cups buttermilk",
+            "¼ cup vegetable oil",
+            "½ teaspoon vanilla extract",
+            "¼ cup white sugar",
+            "1 ¼ cups all-purpose flour",
+            "1 ½ teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "1 dash salt",
+            "1 egg",
+            "1 teaspoon lemon juice",
+            "1 tablespoon butter, or as needed"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix buttermilk, vegetable oil, and vanilla in a bowl; stir in sugar. Whisk in flour, baking powder, baking soda, and salt, combining the batter with just a few strokes to moisten. Leave the lumps.",
+            "Whisk egg and lemon juice together in a separate bowl; gently stir into the batter. Refrigerate the batter for at least 30 minutes, up to 1 hour.",
+            "Heat a large skillet over medium heat and grease with the butter. Pour 1/3 cup of batter per pancake into the skillet and cook until bubbles appear on the surface, about 2 minutes.",
+            "Flip with spatula and brown the other side, about 2 more minutes.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Blueberry Dutch Baby",
+        "category": "Pancakes",
+        "ingredients": [
+            "½ cup packed all-purpose flour",
+            "¼ teaspoon fine salt",
+            "¼ teaspoon pure vanilla extract",
+            "3 large eggs, at room temperature",
+            "⅔ cup milk, at room temperature",
+            "3 tablespoons clarified butter, melted",
+            "⅓ cup fresh blueberries, or more to taste",
+            "1 tablespoon unsalted butter, melted",
+            "½ Meyer lemon, juiced",
+            "2 tablespoons powdered sugar, or to taste",
+            "2 tablespoons maple syrup, or to taste (Optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine flour, salt, vanilla extract, eggs, and milk in a high-speed blender. Blend on high speed until completely smooth and very thin, about 1 minute.",
+            "Place a 9- or 10-inch cast iron skillet over high heat; add clarified butter into the skillet and use a pastry brush to grease the sides. Heat butter until just starting to smoke.",
+            "Quickly and carefully pour the batter into the center of the skillet, then sprinkle blueberries over top. Transfer skillet to the center of the preheated oven and bake until browned and nicely puffed, 20 to 25 minutes.",
+            "Carefully remove from the oven and immediately brush the top with melted butter. Squeeze lemon juice over top as Dutch baby deflates. Dust with powdered sugar.",
+            "Cut in wedges to serve and drizzle with maple syrup."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "1 ¼ cups milk",
+            "1 egg",
+            "3 tablespoons butter, melted",
+            "1 tablespoon white sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Mix flour, milk, egg, butter, sugar, baking powder, and salt together.",
+            "Heat a lightly oiled griddle over low heat. Scoop 1/4 cup batter onto the griddle and cook until top and edges are dry, 3 to 4 minutes. Flip and cook until lightly browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 ½ cups milk",
+            "1 cup pumpkin puree",
+            "1 large egg",
+            "2 tablespoons vegetable oil",
+            "2 tablespoons vinegar",
+            "2 cups all-purpose flour",
+            "3 tablespoons brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon ground allspice",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon ground ginger",
+            "½ teaspoon salt",
+            "cooking spray"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir milk, pumpkin, egg, oil, and vinegar together in a large bowl until well combined.",
+            "Whisk flour, brown sugar, baking powder, baking soda, allspice, cinnamon, ginger, and salt together in a separate bowl. Add to pumpkin mixture; whisk just until combined.",
+            "Spray a griddle or frying pan with cooking spray; heat over medium-high heat. Pour 3 to 4 tablespoons batter for each pancake onto the hot griddle and flatten batter slightly with a spoon.",
+            "Cook until small bubbles appear, about 2 minutes.",
+            "Flip and cook until golden brown, about 2 more minutes. Repeat with remaining batter.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fluffy Flapjack Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "3 tablespoons white sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "2 cups milk",
+            "2 eggs",
+            "¼ cup canola oil",
+            "cooking spray"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk together flour, sugar, baking powder, baking soda, and salt in a bowl until no lumps remain.",
+            "Add milk, eggs, and oil; whisk until batter is runny and smooth.",
+            "Heat a nonstick griddle over medium heat and lightly coat with cooking spray.",
+            "Working in batches, ladle a generous 1/4 cup batter for each pancake onto the preheated grill and cook until bubbles appear, 3 to 4 minutes. Flip and cook, pressing middle gently with the spatula, until bottom is lightly browned, 2 to 3 minutes more. Repeat with remaining batter.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Gingerbread Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "¼ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "½ teaspoon ground dried ginger",
+            "1 teaspoon ground cinnamon",
+            "1 egg",
+            "½ teaspoon vanilla extract",
+            "¼ cup molasses",
+            "1 ½ cups water"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Whisk the flour, baking powder, baking soda, salt, ginger, and cinnamon in a bowl; set aside. Beat the egg in a separate mixing bowl with the vanilla and molasses until smooth. Whisk in the water until completely incorporated. Stir the flour mixture into the molasses mixture until just combined -- a few lumps are okay.",
+            "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle, and cook until bubbles form and the edges are dry. Flip, and cook until browned on the other side. Repeat with remaining batter."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mom's Buttermilk Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 cup flour",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "1 large egg",
+            "1 ⅛ cups buttermilk",
+            "2 tablespoons butter, melted"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat and lightly grease a large skillet or electric griddle.",
+            "Mix flour, salt, and baking soda together in a bowl. Add egg, buttermilk, and butter; stir together lightly, but keep it lumpy. The batter should look thick, spongy, and puffy.",
+            "Drop 1/3 cup of the batter onto the cooking surface, spreading lightly with the bottom of the cup. Cook until lightly browned on each side, 1 to 2 minutes per side."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Spice Latte Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1 cup milk",
+            "1/2 cup pumpkin puree",
+            "2 large eggs",
+            "1/4 cup butter, melted",
+            "1 2/3 cups flour",
+            "3 tablespoons brown sugar",
+            "1 tablespoon espresso powder",
+            "2 teaspoons baking powder",
+            "1 1/2 teaspoons pumpkin pie spice",
+            "1/2 teaspoon salt",
+            "2 1/2 tablespoons cinnamon butter, or as needed",
+            "5 tablespoons pure maple syrup, or as needed"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Whisk together milk, pumpkin, eggs, and melted butter in a large bowl until smooth.",
+            "Whisk together flour, brown sugar, espresso powder, baking powder, pumpkin pie spice, and salt in a bowl.",
+            "Add dry ingredients to wet ingredients, and stir until moistened. A few lumps are fine.",
+            "Heat a lightly oiled griddle over medium heat to 350 degrees F (180 degrees C). Drop batter by large spoonfuls onto the griddle to form 3-inch pancakes. Cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter.",
+            "Serve warm with cinnamon butter and maple syrup."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheesecake Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "8 ounces fresh strawberries, hulled and chopped",
+            "3/4 cup strawberry jam",
+            "4 ounces cream cheese, softened",
+            "5 tablespoons white sugar, divided",
+            "2 teaspoons milk",
+            "1/4 teaspoon vanilla extract",
+            "1 ¾ cups all purpose flour",
+            "2 teaspoons baking powder",
+            "1/2 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1 large egg, lightly beaten",
+            "1 ½ cups buttermilk",
+            "3 tablespoons vegetable oil",
+            "cooking spray",
+            "graham cracker crumbs or powdered sugar for topping"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the topping: Combine strawberries and jam in a small saucepan. Bring to a simmer; set aside.",
+            "To make the cream cheese swirl: Combine cream cheese, 3 tablespoons sugar, milk, and vanilla in a small bowl. Beat with an electric mixer until smooth.",
+            "Transfer cream cheese mixture to a pastry bag or a resealable plastic bag with a corner snipped off.",
+            "To make the pancake batter: Combine flour, remaining 2 tablespoons sugar, baking powder, baking soda, and salt in a large bowl.",
+            "Combine egg, buttermilk, and oil in a medium bowl.",
+            "Add egg mixture all at once to the flour mixture. Stir just until moistened (batter should be slightly lumpy).",
+            "Heat an extra-large nonstick skillet or griddle over medium heat. Coat with cooking spray. Pour 1/3 cup portions of batter onto the skillet. Reduce heat to medium-low.",
+            "Cook until bottoms are golden brown and edges are slightly dry and bubbles form at the edges of the pancakes, 2 to 3 minutes.",
+            "Pipe a swirl of cream cheese onto each pancake starting from the center.",
+            "Coat the uncooked side of the pancakes with cooking spray.",
+            "Turn and cook 2 to 3 minutes more on the other side. Repeat with remaining batter and cream cheese mixture.",
+            "Serve with strawberry topping and sprinkle with graham cracker crumbs or dust with powdered sugar."
+        ],
+        "healthiness_score": 48,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Ring Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "1/2 cup sugar",
+            "2 tablespoons cinnamon",
+            "1 tablespoon butter, divided",
+            "2 apples, cored and sliced into 1/4-inch thick rings",
+            "1 1cup prepared pancake batter from pancake mix",
+            "maple syrup, for serving (optional)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine sugar and cinnamon in a small bowl and set aside.",
+            "Working in batches, heat some of the butter in a nonstick skillet over medium-high until the butter is sizzling. Use a fork to dip an apple ring into pancake batter so it's fully covered on both sides. Gently tap off any excess batter, then transfer apple to the hot skillet. Cook, undisturbed, until bubbles begin forming around the foot of the \"pancake\", and it's golden brown on the bottom, about 2 minutes. Flip and continue cooking until browned on the other side, about 1 more minute.",
+            "Transfer cooked pancake ring to the bowl with cinnamon sugar and flip to cover both sides. Transfer to a plate and repeat with remaining apple rings and butter.",
+            "Serve apple pancake rings with maple syrup for dipping or drizzling."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Perfect Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "2 cups whole milk",
+            "1/4 cup white vinegar",
+            "2 1/2 cups flour",
+            "3/4 cup sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "3 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 tablespoon butter, softened, or as needed, for greasing, plus more for serving",
+            "toppings of choice, e.g. maple syrup or fruit, for serving toppings of choice, e.g. maple syrup or fruit, for serving"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat a griddle to 300 degrees F (175 degrees C).",
+            "Stir together milk and vinegar in a small bowl or a 4-cup liquid measuring cup.",
+            "Whisk together flour, sugar, baking powder, baking soda, and salt in a second bowl.",
+            "Beat eggs in a large bowl until smooth. Add vanilla and milk mixture; whisk together. Add flour mixture to bowl with egg mixture and whisk until just combined. (Batter will be lumpy.) Let rest 3 minutes and gently stir again.",
+            "Melt some butter on the griddle, then carefully wipe with a paper towel. (You want just a bit of a sheen; don't overgrease the griddle.) Spoon batter in 1/3-cup portions onto griddle. Cook until bubbles form on surface of batter, about 2 1/2 minutes.",
+            "Flip pancakes and cook until browned on the other side, about 1 1/2 minutes more. Repeat with remaining batter. Serve immediately with butter and toppings."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tres Leches Pancakes",
+        "category": "Pancakes",
+        "ingredients": [
+            "2/3 cup sweetened condensed milk",
+            "1/2 cup evaporated milk",
+            "1/3 cup half and half"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Combine sweetened condensed milk, evaporated milk, and half and half in a small saucepan and set over medium heat. Bring to a boil, stirring constantly for 3 to 4 minutes. Remove from heat and let cool. This is a sauce, not a syrup, so consistency will be on the thinner side.",
+            "Add cake mix, almond milk, eggs, and 3 tablespoons vegetable oil to a large bowl, and beat vigorously by hand for 2 minutes.",
+            "Heat a large skillet or griddle over medium heat, and lightly coat with remaining vegetable oil. Add 1/4 cup of the batter for each pancake. Cook until edges begin to puff up, small bubbles appear, pop, and leave small holes, 2 to 3 minutes. Flip pancakes and cook until golden brown on the other side, about 2 minutes more.",
+            "Serve pancakes warm with a drizzle of the tres leches sauce, a dollop of whipped cream, and sprinkle of cinnamon."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

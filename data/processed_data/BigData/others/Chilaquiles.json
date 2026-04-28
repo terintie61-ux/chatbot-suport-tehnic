@@ -1,0 +1,429 @@
+[
+    {
+        "Main_category": "others"
+    },
+    {
+        "recipe_title": "Chilaquiles Rojos",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 (28 ounce) can whole peeled tomatoes, drained",
+            "2 chipotle chiles in adobo sauce, or more to taste",
+            "1 ½ tablespoons vegetable oil",
+            "1 large white onion, thinly sliced",
+            "3 cloves garlic, minced",
+            "1 ½ cups chicken broth",
+            "1 dash roasted ground cumin",
+            "1 dash dried oregano",
+            "1 pinch salt and ground black pepper to taste",
+            "1 (16 ounce) package tortilla chips",
+            "1 (8 ounce) package shredded Mexican cheese blend",
+            "5 ounces crumbled cotija cheese",
+            "1 whole cooked chicken, deboned and shredded",
+            "⅔ cup chopped green onions, divided",
+            "1 cup chopped cilantro, divided",
+            "1 (8 ounce) carton sour cream, divided"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 10x15-inch casserole dish.",
+            "Combine drained tomatoes and chipotle chiles in adobo in a blender; puree until smooth.",
+            "Heat oil in a large skillet over medium heat. Add onion; cook and stir until onion has softened, about 5 to 7 minutes. Stir in garlic until fragrant; add pureed tomato-chile sauce and simmer until mixture starts to thicken. Pour in chicken broth and stir in cumin, oregano, and salt; let simmer until mixture thickens. Remove from heat.",
+            "Mix tortilla chips and tomato-chile sauce, folding carefully to cover chips completely. You may have to do this in 2 batches.",
+            "Cover the bottom of the casserole dish with half of the tortilla chip mixture. Sprinkle a layer of Mexican cheese and cotija cheese on top. Add shredded chicken to cover all of the cheese. Season chicken with salt and pepper, then sprinkle with 1/2 of the green onions and 1/2 of the cilantro. Spoon 3/4 of the sour cream evenly over top. Spread with the remaining tortilla mixture then top with remaining Mexican and cotija cheeses. Cover with aluminum foil.",
+            "Bake in the preheated oven until mixture is bubbly and cheese is melted, 35 to 45 minutes. Remove from the oven and let sit for 5 minutes. Serve with sour cream, green onions, and cilantro."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Chilaquiles Verdes",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 large skinless, boneless chicken breast",
+            "1 (16 ounce) jar salsa verde, divided",
+            "1 cup chicken broth",
+            "1 medium yellow onion, chopped",
+            "1 teaspoon chili powder",
+            "1 teaspoon ground cumin",
+            "½ teaspoon cayenne pepper",
+            "salt and freshly ground black pepper to taste",
+            "2 tablespoons olive oil",
+            "8 (6-inch) soft corn tortillas, cut into triangles",
+            "½ cup sour cream",
+            "1 tablespoon milk, or more as needed",
+            "2 tablespoons crumbled cotija cheese, or to taste",
+            "¼ cup chopped fresh cilantro"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Combine chicken breast, 1/2 of the salsa verde, chicken broth, onion, chili powder, cumin, cayenne, salt, and pepper in a slow cooker. Cook until chicken is cooked through on Low for 6 hours or High for 3 hours.",
+            "Remove chicken from sauce and shred in a bowl with 2 forks. Return to the slow cooker and mix to combine with sauce.",
+            "Place a large skillet over medium heat; add olive oil and heat until it starts to shimmer. Add tortilla triangles to the hot oil and cook, flipping every minute, until golden, about 8 to 10 minutes.",
+            "Add shredded chicken, slow cooker sauce, and remaining salsa verde to tortillas. Mix and heat until everything is warmed through.",
+            "Meanwhile, stir sour cream and enough milk together so it can be drizzled.",
+            "Remove tortilla mixture from the heat. Sprinkle cotija cheese on top and garnish with cilantro; drizzle with thinned sour cream mixture."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chilaquiles Scramble",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "2 tablespoons olive oil, divided, or to taste",
+            "1 small onion, finely chopped",
+            "1 jalapeno pepper, finely chopped",
+            "1 small tomato, diced",
+            "2 cloves garlic, minced",
+            "½ cup salsa verde (green salsa)",
+            "½ teaspoon ground cumin",
+            "salt and ground black pepper to taste",
+            "3 cups tortilla chips",
+            "5 large eggs",
+            "½ cup crumbled Cotija cheese",
+            "1 medium avocado, sliced",
+            "¼ cup chopped fresh cilantro",
+            "2 tablespoons sour cream, or to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Heat 1 tablespoon olive oil in a skillet over medium-high heat. Add onion and jalapeño; cook and stir until onion is translucent, about 5 minutes. Add tomato and garlic; cook and stir for 1 minute. Add salsa and scrape any browned bits off the bottom of the pan. Season with cumin, salt, and pepper. Reduce the heat and simmer for 2 minutes. Add tortilla chips to the pan and stir until coated with sauce.",
+            "Heat remaining 1 tablespoon oil in a separate skillet over medium-high heat. Whisk eggs together in a bowl, then pour into the hot pan and cook until starting to set, about 2 minutes. Scrape cooked egg from the edges and fold into the center. Cook until eggs are halfway cooked but still runny, 2 to 3 minutes more.",
+            "Fold eggs into tortilla chip mixture. Keep stirring to finish scrambling the eggs, about 2 minutes. Add Cotija cheese and turn off the heat.",
+            "Divide egg mixture among four plates. Garnish with avocado, cilantro, and sour cream."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick Black Bean Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 onion, chopped",
+            "4 cups tortilla chips",
+            "6 large eggs",
+            "2 cups chipotle salsa",
+            "1 (15 ounce) can black beans, rinsed and drained",
+            "1 avocado, sliced",
+            "½ cup crumbled queso fresco",
+            "¼ cup diced red onion",
+            "2 tablespoons chopped fresh cilantro"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Heat oil in a large skillet over medium-high heat until it shimmers. Add onion; cook until slightly softens, about 5 minutes. Add tortilla chips, then add eggs; stir until almost set, 3 to 4 minutes. Add salsa and black beans; stir until combined and heated through, about 5 minutes.",
+            "Top chilaquiles with avocado, queso fresco, red onion, and cilantro; serve immediately."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Super Easy Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "5 tablespoons corn oil",
+            "8 (8 inch) corn tortillas, cut into triangles",
+            "1 cup chipotle salsa",
+            "6 eggs",
+            "salt and ground black pepper to taste",
+            "1 cup shredded pepper Jack cheese"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat oil in a large skillet over medium-high heat; fry tortilla triangles until just starting to turn golden brown and crisp, 3 to 5 minutes. Add salsa; reduce heat to medium-low. Carefully mix tortillas and salsa with a spatula; cook 5 minutes.",
+            "Beat eggs, salt, and black pepper together in a small bowl; add to tortilla mixture. Increase heat to medium-high; gently scramble eggs until just set. Top with pepper Jack cheese, cover skillet, and turn off heat. Let sit for 3 minutes until cheese is melted."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "8 (6 inch) corn tortillas, cut into 2-inch pieces",
+            "5 tablespoons vegetable oil",
+            "8 eggs, beaten",
+            "salt and ground black pepper to taste",
+            "½ cup green taco sauce",
+            "1 cup shredded Monterey Jack cheese"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat oil in a skillet over medium-high heat. Add tortilla pieces to oil and fry until crisp, about 5 minutes.",
+            "Pour beaten eggs over the tortilla pieces in the skillet. Season with salt and pepper. Cook, stirring occasionally, until eggs have set, about 4 minutes. Remove from heat. Top with taco sauce and Monterey Jack cheese."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Chilaquiles Casserole",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "10 (6 inch) corn tortillas, each cut into 8 wedges",
+            "Vegetable oil spray",
+            "2 poblano chiles, steamed, seeded, and chopped coarse",
+            "2 onions, minced",
+            "2 teaspoons Melt® Organic Buttery Spread",
+            "Salt",
+            "¼ cup minced fresh cilantro",
+            "6 cloves garlic, minced",
+            "2 teaspoons minced canned chipotle peppers in adobo sauce",
+            "1 (14.5 ounce) can whole peeled tomatoes",
+            "¾ cup low-sodium chicken broth",
+            "1 ½ pounds boneless chicken breasts, trimmed",
+            "Pepper",
+            "3 ounces crumbled queso fresco or feta cheese",
+            "¼ cup low-fat sour cream",
+            "1 tablespoon fresh lime juice",
+            "1 tomato, cored, seeded and chopped medium"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Adjust the oven racks to the upper-middle and lower-middle positions and heat the oven to 350 degrees. Spread the tortilla wedges on 2 rimmed baking sheets. Lightly coat both sides of the tortilla with vegetable oil spray.",
+            "Bake the tortilla wedges until they are lightly browned and begin to crisp, 8 to 12 minutes. Flip the tortilla wedges and continue to bake until the chips are fully toasted, 8 to 12 minutes longer. Set the tortilla wedges aside and turn the oven to 500 degrees.",
+            "Combine the poblano chiles, 1 cup of the onions, Melt®, and 1/8 teaspoon salt in a 12-inch skillet. Cover and cook over medium-low heat until the vegetables are softened, 8 to 10 minutes. Uncover, increase the heat to medium-high, and continue to cook, stirring occasionally, until the vegetables are lightly browned, 4 to 6 minutes longer.",
+            "Stir in 2 tablespoons of the cilantro, garlic, and chipotles and cook until fragrant, about 30 seconds. Stir in the tomatoes with their juice and the broth. Pat the chicken breasts dry with paper towels and season with 1/8 teaspoon pepper. Nestle the chicken breasts into the sauce and bring to a simmer over medium-low heat, about 5 minutes. When the sauce simmers, flip the chicken, cover, and continue to cook until the chicken registers 160 to 165 degrees on an instant-read thermometer, 10 to 12 minutes longer.",
+            "Transfer the chicken to a plate. When cool enough to handle, shred the meat into bite-sized pieces. Process the sauce in a blender until completely smooth, about 1 minute. Return the sauce to the skillet, season with salt and pepper to taste, bring to a simmer over medium heat.",
+            "Stir in the tortillas and cook until they begin to soften, about 2 minutes. Stir in the shredded chicken, then transfer the mixture to an 8-inch square baking dish. Sprinkle with the cheese and bake on the lower-middle rack until hot throughout, 5 to 10 minutes."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "¼ pound chorizo",
+            "2 skinless, boneless chicken breast halves, cut into 1-inch cubes",
+            "½ (10 ounce) bag tortilla chips",
+            "1 cup frozen corn kernels",
+            "1 (19 ounce) can green enchilada sauce",
+            "½ cup sour cream",
+            "2 cups shredded Monterey Jack cheese"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Heat a large skillet over medium-high heat. Cook and stir chorizo in the hot skillet until crumbly, about 5 minutes. Add chicken; cook and stir until chicken is cooked through and no longer pink in the center, about 10 minutes.",
+            "Spread 1/2 of the tortilla chips over the bottom of a casserole dish; top chips with chicken mixture. Sprinkle corn evenly over chicken mixture and layer remaining chips on top. Whisk green enchilada sauce and sour cream in a mixing bowl; pour over chips and top with shredded Monterey Jack cheese.",
+            "Bake chilaquiles in the preheated oven until casserole is bubbly and the chips begin to brown, 15 to 20 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Breakfast Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 ½ teaspoons olive oil",
+            "2 corn tortillas, cut into small squares",
+            "5 eggs",
+            "salt and ground black pepper to taste",
+            "¼ cup shredded Cheddar cheese",
+            "½ (14 ounce) can enchilada sauce (such as Old El Paso)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat olive oil in a large skillet over medium heat. Add tortilla squares; cook and stir until crispy, about 5 minutes.",
+            "Whisk eggs, salt, and pepper together in a bowl; stir in Cheddar cheese.",
+            "Pour egg and cheese mixture into the skillet; cook and stir until eggs are firm, about 5 minutes. Pour enchilada sauce on top."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chilaquiles III",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "4 (6 inch) corn tortillas, torn into strips",
+            "1 small onion, diced",
+            "½ tomato, diced",
+            "3 serrano chile peppers, diced",
+            "salt and pepper to taste",
+            "6 eggs, lightly beaten"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Heat the oil in a medium skillet over medium heat, and fry the tortillas until lightly browned and crisp.",
+            "Mix the onion, tomato, and serrano chile peppers into the skillet. Season with salt and pepper. Continue to cook and stir until onions are tender.",
+            "Stir the eggs into the skillet, and cook until firm."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Microwave Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 ¾ cups enchilada sauce",
+            "1 (7-1/2 ounce) bag corn tortilla chips",
+            "2 cups sour cream",
+            "12 ounces shredded queso asadero (white Mexican cheese)"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Cover the bottom of a shallow microwaveable dish, with some of the enchilada sauce. Arrange a layer of tortilla chips on top. Follow with another layer of sauce, then a layer of sour cream. Sprinkle cheese over the top. Repeat layers to use up all ingredients, finishing with cheese on top.",
+            "Cook in the microwave on high for 2 minutes, or until cheese has melted throughout. Serve immediately."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pulled Pork Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "2 tablespoons unsalted butter",
+            "1 yellow onion, thinly sliced",
+            "½ (16 ounce) jar tomatillo salsa",
+            "1 cup chicken stock",
+            "8 cups tortilla chips",
+            "2 ½ cups shredded aged Cheddar cheese (such as Beecher's Flagship)",
+            "2 cups citrus-braised pulled pork"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Set a cast iron Dutch oven over hot coals. Heat butter until melted. Add onion; cook, stirring often, until soft and deeply browned in parts, 5 to 7 minutes.",
+            "Pour salsa and chicken stock into the Dutch oven; bring to a boil. Layer in 1/2 of the chips, Cheddar cheese, and pulled pork. Repeat with the remaining chips, Cheddar cheese, and pulled pork (see Cook's Note for recipe link). Cover and cook until cheese is melted, about 5 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Verde Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "10 tomatillos, husked and rinsed",
+            "2 fresh jalapeno peppers, sliced",
+            "⅓ cup chopped cilantro",
+            "3 cloves garlic, crushed",
+            "salt and ground black pepper to taste",
+            "2 tablespoons vegetable oil",
+            "¾ pound shredded cooked chicken breast, or more to taste",
+            "½ red onion, thinly sliced",
+            "⅓ cup sliced black olives, or more to taste",
+            "2 tablespoons cilantro leaves",
+            "1 (8 ounce) package tortilla chips, or as needed",
+            "¼ cup crumbled cotija cheese, or to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place tomatillos in a saucepan with water to cover; bring to a boil. Reduce heat to low; simmer until color begins to lighten and fruit is soft to the touch, 10 to 15 minutes.",
+            "Transfer tomatillos to a food processor or blender. Add jalapenos, 1/3 cup cilantro, garlic, salt, and pepper; blend until smooth. Cover with plastic wrap. Refrigerate at least 2 hours for best flavor.",
+            "Preheat oven to 400 degrees F (200 degrees C).",
+            "Heat oil in a skillet over medium heat. Cook and stir chicken and onion until onions begin to brown, about 10 minutes. Add olives; cook for 5 minutes. Add cilantro; cook and stir until wilted, about 1 minute more. Remove from heat.",
+            "Line the bottom of a 8-inch square casserole dish with 2 to 3 layers of tortilla chips, breaking chips slightly. Add half of the sauce; toss with chips. Top with chicken mixture and the remaining sauce. Sprinkle cotija cheese on top.",
+            "Bake in the preheated oven until tortilla chips are softened, 15 to 25 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Jollyrogers' Chilaquiles",
+        "category": "Chilaquiles",
+        "ingredients": [
+            "1 onion, chopped",
+            "1 (6 ounce) can sliced black olives",
+            "½ cup white vinegar, divided",
+            "1 tablespoon vegetable oil (Optional)",
+            "½ pound chorizo or bulk spicy pork sausage (Optional)",
+            "12 (7 inch) corn tortillas, cut into 1-inch pieces",
+            "¼ cup vegetable oil (Optional)",
+            "1 ½ tablespoons all-purpose flour",
+            "3 (8 ounce) cans tomato sauce",
+            "1 (7.75 ounce) can Mexican style hot tomato sauce (such as El Pato Salsa de Chile Fresco®)",
+            "1 cup water",
+            "1 ½ teaspoons unsweetened cocoa powder",
+            "1 teaspoon white sugar",
+            "1 tablespoon white vinegar",
+            "1 tablespoon dried oregano",
+            "1 tablespoon taco seasoning mix (Optional)",
+            "1 (4 ounce) can diced green chiles, drained",
+            "¾ cup crumbled cotija or feta cheese"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Put chopped onion and sliced olives in separate small bowls and combine each with 1/4 cup of vinegar. Set aside to marinate. Meanwhile, heat the vegetable oil in a skillet over medium heat. Stir in the chorizo, breaking it apart into crumbles as it cooks, about 10 minutes. Remove the chorizo from the skillet and set aside.",
+            "Heat 1/4 cup of oil in the skillet and add the tortilla pieces, cooking and stirring over medium-low heat until just beginning to get crisp and golden at the edges, about 10 minutes. Remove skillet from heat and drain the tortillas; pour 1 tablespoon of the oil into a saucepan.",
+            "Heat the saucepan over medium-low heat until hot but not smoking. Add the flour, and cook and stir until smooth, about 1 minute. Pour in the regular and hot tomato sauces, water, browned chorizo, cocoa powder, sugar, 1 tablespoon of vinegar, oregano, and taco seasoning. Simmer the sauce about 5 minutes to blend the flavors. Stir in diced chiles and tortillas. Simmer about 10 minutes more, stirring occasionally, until tortillas have softened and the mixture is thick.",
+            "Drain the onion and olives. Spoon a layer of tortilla mixture evenly into a 2 quart baking dish or serving dish, and follow with a layer of about 2 tablespoons marinated onion, then a layer of 2 tablespoons olives, followed by a layer of 1/4 cup cheese. Repeat layers twice more. Serve hot."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

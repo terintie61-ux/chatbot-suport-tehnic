@@ -1,0 +1,620 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Easy One Pan Baked Rice Krispy Treats",
+        "category": "Cookies",
+        "ingredients": [
+            "6 tablespoons butter",
+            "1 teaspoon vanilla extract",
+            "1 (9 ounce) box crispy rice cereal",
+            "16 ounces marshmallows"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Lightly grease a 9x13-inch baking dish.",
+            "Place butter pieces in bottom of the prepared dish. Add vanilla to baking dish, then add in marshmallows. Carefully pour cereal over marshmallows.",
+            "Bake in the preheated oven until until very lightly browned and marshmallows have melted, 13 to 15 minutes.",
+            "Stir mixture carefully until well combined. Press mixture into dish; let stand 1 hour to cool completely; mixture should be very well held together. Lightly grease a knife and cut into 12 or 16 squares."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Pumpkin Cheesecake Crescent Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "cooking spray",
+            "2 (8 ounce) packages cream cheese",
+            "1 cup sugar",
+            "2 large eggs",
+            "1 cup pumpkin puree",
+            "2 teaspoons pumpkin pie spice",
+            "2 (8 ounce) cans crescent rolls",
+            "1 large egg white",
+            "1 tablespoon water"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Spray a 9x13-inch pan with cooking spray.",
+            "Beat cream cheese in a bowl with an electric mixer until smooth. Add white sugar and egg and beat until smooth. Beat in pumpkin and pumpkin spice.",
+            "Lay 1 package crescent roll dough in the prepared pan and pinch openings together. Pour cream cheese filling over dough and spread until smooth with a spatula.",
+            "Carefully roll out the remaining package crescent roll dough over filling. Pinch openings together.",
+            "Whisk egg white and water together in a small bowl. Using a pastry brush, spread the mixture over the top of crust.",
+            "Bake until a toothpick poked into the center comes out clean, 40 to 45 minutes.",
+            "For glaze, whisk confectioner's sugar, milk, and vanilla together in a bowl until smooth. Let the cake cool for 20 minutes, then drizzle with glaze. Serve warm or cold."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The 15-Minute No-Bake Bars That Taste 'Just Like a PB&J!'",
+        "category": "Cookies",
+        "ingredients": [
+            "3 1/2 cups pretzels",
+            "1/4 cup sugar",
+            "9 tablespoons unsalted butter,",
+            "1/4 teaspoon kosher salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "For pretzel crust, process pretzels in a food processor until small crumbs form, 15 to 30 seconds. Add sugar, butter, and salt; pulse until evenly combined, about 5 pulses.",
+            "Transfer pretzel mixture to an 8-inch square baking dish, and press firmly into an even layer. Chill, uncovered, until firm, about 10 minutes.",
+            "For peanut butter filling, beat cream cheese, peanut butter, confectioner's sugar, and salt in a large bowl with an electric mixer on medium speed until smooth and creamy, 1 to 2 minutes, stopping to scrape down sides of bowl as needed.",
+            "Fold in whipped topping until evenly distributed, about 1 minute. Spread filling evenly over cooled crust.",
+            "Spread strawberry preserves evenly over filling.",
+            "Cover and chill until set, at least 4 hours or up to 12 hours. Slice into 9 equal portions and serve chilled."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Chai Latte Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "1 1/2 cups half and half",
+            "3 chai tea bags"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Place half-and-half in a small saucepan over medium-low heat. Cook until mixture just begins to simmer, 5 to 7 minutes, stirring often. Remove pan from heat and add in chai tea bags. Allow mixture to steep, stirring occasionally, for about 15 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "For crust, beat butter, white sugar, vanilla and salt together in a large bowl with an electric mixer until smooth and combined. Add in flour and beat on low speed until mixture comes together to form a soft dough. Press dough firmly and evenly into the bottom of the prepared pan.",
+            "Bake in the preheated oven and until crust looks just set, 10 to 12 minutes. Allow to cool 5 minutes.",
+            "Meanwhile, for filling, in the same bowl you used for crust (no need to wipe out the bowl), beat together pumpkin, brown sugar, white sugar, vanilla, cinnamon, cardamom, salt, ginger, nutmeg, cloves, and allspice with an electric mixer until smooth and combined.",
+            "Remove tea bags from half-and-half mixture. Squeeze bags to remove as much moisture from them as possible; then discard tea bags. With the mixer running on low speed, gradually pour half-and-half mixture into pumpkin mixture; beat until all is thoroughly incorporated. Add in eggs and beat on low speed until just incorporated. Once crust has cooled for 5 minutes, pour filling evenly over the top.",
+            "Bake in the preheated oven until bars are puffed and there is only a slight jiggle in the center of the filling, 50 to 55 minutes. Allow bars to cool completely to room temperature, then refrigerate until chilled, at least 4 hours to overnight.",
+            "Once bars have chilled, lift them out of the pan using the parchment overhang. Cut into 12 bars.",
+            "If desired, served topped with a lightly sweetened whipped cream and an extra sprinkle of cinnamon."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Bread Blondies",
+        "category": "Cookies",
+        "ingredients": [
+            "1/2 cup unsalted butter",
+            "1/2 cup brown sugar",
+            "1/4 cup white sugar",
+            "1 teaspoon ground cinnamon",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon ground nutmeg",
+            "1 cup mashed banana",
+            "1 large egg yolk",
+            "1 1/2 teaspoons vanilla extract",
+            "1 1/4 cups all-purpose flour",
+            "1/4 teaspoon baking soda",
+            "1/2 cup chopped walnuts"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a large bowl, whisk together butter, brown sugar, white sugar, cinnamon, salt, and nutmeg until smooth and combined. Add in mashed banana, egg yolk, and vanilla and mix until thoroughly incorporated. Add in flour and baking soda and whisk until just combined. Stir in walnuts. Pour batter into the prepared pan and smooth in an even layer.",
+            "Bake in the preheated oven until the edges of the bars are golden and the center of the bars is set, about 30 to 35 minutes. Allow bars to cool in the pan for 10 minutes before removing to a wire rack to cool completely."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chewy Brown Butter Banana Bread Cookies",
+        "category": "Cookies",
+        "ingredients": [
+            "1 cup unsalted butter",
+            "1 cup chopped walnuts",
+            "1 3/4 cups bananas,",
+            "1 1/2 teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "1/4 teaspoon ground nutmeg",
+            "1 cup dark brown sugar",
+            "1/4 cup white sugar",
+            "1 large egg yolk",
+            "2 teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1/2 teaspoon baking soda"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Melt butter in a light-colored saucepan over medium-low heat. Add in chopped walnuts and 1 cup bananas. Cook over medium-low heat, stirring frequently, until bananas disintegrate, and little browned bits of butter begin to form and stick to the bottom of the pan, 15 to 20 minutes. Pour mixture into a large bowl and allow to cool for 15 minutes.",
+            "Stir cinnamon, salt, and nutmeg into butter mixture. Stir in brown sugar and white sugar until thoroughly combined. Mix in egg yolk and vanilla. Add in flour, remaining 3/4 cup sliced bananas, cornstarch, and baking soda and stir until incorporated. Cover dough and chill in the refrigerator for 1 hour.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line 2 baking sheets with parchment.",
+            "Scoop out 1 1/2 tablespoon-sized balls of dough; space balls about 1 1/2-inches apart on the prepared baking sheets.",
+            "Bake cookies in the preheated oven until edges are browned, 12 to 17 minutes (try not to under bake, or the cookies will be too soft). Allow cookies to cool on the baking sheets for 10 minutes before removing to a wire rack to cool completely."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Whoopie Pies",
+        "category": "Cookies",
+        "ingredients": [
+            "1 cup packed brown sugar",
+            "3/4 cup unsweetened applesauce",
+            "1/2 cup vegetable oil",
+            "1 large egg",
+            "1/2 teaspoon vanilla extract",
+            "1 3/4 cups flour",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon apple pie spice",
+            "1/2 cup apple",
+            "marshmallow-apple spice buttercream"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Arrange racks in upper and lower thirds of oven; preheat to 375 degrees F (190 degrees C). Line 2 (10x15-inch) rimmed baking sheets with parchment paper.",
+            "Stir together brown sugar, applesauce, oil, egg, and vanilla in a large bowl. Mix with an electric mixer at low speed until combined. Add flour, salt, baking powder, baking soda, and apple pie spice. Beat until just combined. Fold in apple.",
+            "Working in batches as needed, drop dough on prepared baking sheets using a 1 1/2-tablespoons scoop, spacing 2 inches apart.",
+            "Bake in the preheated oven until cookies are set and lightly browned on edges, 10 to 12 minutes. Transfer to wire racks to cool completely, about 30 minutes.",
+            "Spoon marshmallow-apple spice buttercream into a zip-top plastic bag. Snip off a corner of bag. Turn half of cookies upside down; pipe about 1 1/2 tablespoons buttercream onto each. Top with remaining cookies to form sandwiches. (To store, chill unfilled cookies in a single layer in an airtight container up to 3 days or freeze up to 3 months. Fill cookie sandwiches just before serving.)"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Pie Cookies",
+        "category": "Cookies",
+        "ingredients": [
+            "1 1/2 cups butter",
+            "1 1/2 cups sugar",
+            "1/4 teaspoon baking powder",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "3/4 teaspoon salt",
+            "3 1/2 cups flour",
+            "1 medium apple, peeled and finely chopped",
+            "1/3 cup apple butter",
+            "2 teaspoons cinnamon"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line 2 baking sheets with parchment paper.",
+            "Beat butter in a large bowl with an electric mixer at medium speed for 30 seconds. Beat in 1 cup sugar and baking powder until combined, scraping sides of bowl as needed. Beat in 1 egg, the vanilla, and salt. Beat in as much of the 3 1/2 cups flour as you can with the mixer. Stir in any remaining flour. Divide dough in half.",
+            "Turn one dough half out onto a lightly floured surface; roll to 1/8-inch to 1/4-inch thickness. Cut out 3-inch circles with a round or apple-shaped cutter. Repeat with remaining dough half, rerolling scraps as needed.",
+            "Stir together chopped apple and apple butter in a small bowl. In another small bowl, whisk together remaining egg and 1 tablespoon water.",
+            "Brush half of the cookies lightly with half of egg wash. Spoon a generous 1 teaspoon apple filling onto the center of each egg-washed cookie. Top with remaining cookies, pressing edges to seal. Lightly brush cookie tops with remaining egg wash. Use a sharp knife to cut small slits in cookie tops to vent. Using a spatula, carefully transfer 6 filled cookies onto each prepared baking sheet.",
+            "Bake in the preheated oven, in batches as needed, until golden brown, 20 to 24 minutes. Cool on pans about 5 minutes.",
+            "Meanwhile, stir together remaining 1/2 cup sugar and the cinnamon in a shallow dish. Carefully dredge warm cookies in the sugar mixture until coated. Gently tap off excess. Transfer cookies to a wire rack to cool, about 10 minutes. (To store, chill cookies in an airtight container up to 1 week.)"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Cherry Crumb Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "4 cups fresh cherries",
+            "1/2 cup white sugar",
+            "2 tablespoons lemon juice",
+            "2 tablespoons cornstarch",
+            "1/2 teaspoon lemon zest"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "For filling, place cherries and sugar in a saucepan over medium-low heat. Cook, stirring often, until cherries are softened and release their juices, about 10 minutes.",
+            "In a small bowl, stir lemon juice and cornstarch together until combined. Gradually pour cornstarch slurry into cherries, stirring constantly. Stir in lemon zest. Continue to cook and stir until mixture is thickened, 1 to 2 minutes more. Remove from heat, and allow to cool completely.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line a 9x9-inch square pan with enough parchment to have overhang on all sides.",
+            "For crust and topping, whisk flour, brown sugar, white sugar, baking powder, salt, cinnamon, and nutmeg together in a large bowl until combined. Pour in melted butter, vanilla, and almond extract and mix with a fork until mixture is thoroughly moistened, combined, and somewhat crumbly.",
+            "Pour about 2 cups of crumb mixture into the prepared pan. Press mixture firmly and evenly into the bottom of the pan. Pour cooled cherry filling over crust, and spread into an even layer. Sprinkle remaining crumb mixture evenly over the cherries.",
+            "Bake in the preheated oven until edges of bars begin to brown, 30 to 40 minutes. Cool completely in the pan, about 1 hour. Remove using the parchment overhang and cut into 16 bars."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Golden Grahams S'mores Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "1/2 cup plus 1 tablespoon unsalted butter",
+            "1 (11 ounce) bag milk chocolate or semisweet chocolate chips",
+            "1 (10 ounce) bag mini marshmallows, divided",
+            "1 teaspoon vanilla extract",
+            "1/2 teaspoon salt",
+            "1 (11 ounce) box graham cereal, such as Golden Grahams®",
+            "salt, such as Maldon"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Grease a 9x13-inch baking dish with 1 tablespoon butter.",
+            "In a heavy-bottomed pot or double boiler, melt remaining 1/2 cup butter.",
+            "Turn off heat; add chocolate chips and 3/4 of marshmallows. Stirring constantly, return to low heat to melt evenly. This may take 5 to 10 minutes.",
+            "Stir in vanilla extract and salt. Add golden grahams to a large bowl; pour in melted mixture and toss until well coated. Set aside a few marshmallows for topping, and stir in remaining marshmallows.",
+            "Press into the prepared baking dish, top with the last few marshmallows, and scatter over a pinch of flaky salt. Refrigerate until completely chilled, at least 1 hour.",
+            "Slice with a sharp knife to serve."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Cherry Brownies",
+        "category": "Cookies",
+        "ingredients": [
+            "1/3 cup vegetable oil",
+            "1/4 cup water",
+            "1 large egg",
+            "1 teaspoon almond extract (",
+            "1 (18- ounce) packagebrownie mix, such as brownie mix, such as",
+            "1 cup fresh dark sweet cherries,",
+            "1/3 cup pecans"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Line an 8x8-inch pan with parchment paper, leaving an overhang on two sides for easy removal, and spray with cooking spray.",
+            "Combine oil, water, egg, and vanilla extract in a large bowl. Stir in brownie mix until well combined. Gently fold in cherries and pecan nuts. Spread out batter evenly in the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, and the edges start to pull away from the sides of the pan, 44 to 48 minutes.",
+            "Cool completely in the pan. Lift out of the pan using the parchment paper, cut, and serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Peach Cobbler Cookies",
+        "category": "Cookies",
+        "ingredients": [
+            "1 cups fresh peaches",
+            "1/3 cup brown sugar",
+            "1 tablespoon unsalted butter",
+            "1/2 teaspoon vanilla extract",
+            "1/4 teaspoon ground cinnamon",
+            "1/8 teaspoon ground nutmeg",
+            "1 pinch salt",
+            "2 teaspoons fresh lemon juice",
+            "1 1/2 teaspoons cornstarch"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "For filling: Place peaches, brown sugar, butter, vanilla, cinnamon, nutmeg, and salt to a small saucepan over medium heat. Cook, stirring frequently, until mixture is boiling and sugar is dissolved, about 5 minutes.",
+            "Stir lemon juice and cornstarch together in a small bowl until thoroughly combined; pour into the peaches and stir to thoroughly incorporate. Continue to cook, stirring constantly, until thickened, 2 to 3 minutes. Pour mixture into a heatproof container and refrigerate until thoroughly chilled, about 1 hour, or up to 2 days.",
+            "For cookie dough: Beat butter, brown sugar, 1/2 cup white sugar, salt, cinnamon, and nutmeg together with an electric mixer until light and fluffy, about 3 minutes. Add in egg, vanilla, and almond extract and beat for 1 minute more. Add in flour, baking powder, and baking soda and mix on low speed until mixture comes together in a stiff dough.",
+            "Pour remaining 1/4 cup white sugar into a small bowl and set aside. Scoop out 1 1/2 tablespoons dough and roll it into a ball. Roll dough ball in white sugar until thoroughly coated. Using your thumb or the handle of a wooden spoon or spatula, press an indentation into the center of the cookie measuring about 3/4-inch wide and about 1/3-inch deep. Repeat process with remaining cookie dough.",
+            "Remove filling from the refrigerator. Place about 1 1/2 teaspoons filling into the indentation of each cookie, heaping the filling into the center of the cookies. Refrigerate filled cookies for 30 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C) and line baking sheets with parchment. Place cookies about 2 inches apart on the prepared baking sheets.",
+            "Bake cookies, 1 pan at a time, in the preheated oven until edges begin to turn golden brown, 15 to 20 minutes. Cool cookies on the pan for 5 minutes; remove to a wire rack to cool completely. Store cooled cookies in the refrigerator."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Toaster Pastry Cookies",
+        "category": "Cookies",
+        "ingredients": [
+            "1/2 cup butter,",
+            "1 cup white sugar",
+            "1/2 teaspoon baking powder",
+            "1/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1/2 cup sour cream",
+            "1 large egg",
+            "1/2 teaspoon vanilla extract",
+            "2 2/3 cups all-purpose flour"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Beat butter in a large bowl with an electric mixer at medium speed 30 seconds. Beat in sugar, baking powder, baking soda, and salt. Beat in sour cream, egg, and vanilla. Beat in as much flour as you can with the mixer. Stir in remaining flour. Divide dough in half. Chill, covered, until easy to handle, 1 to 2 hours.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "On a well-floured work surface, roll half of dough at a time to 1/8-inch thickness. Cut out squares with a 2-inch cookie cutter. Place half of squares on ungreased cookie sheets.",
+            "Prepare Brown Sugar-Cinnamon filling (or prepare desired filling from Cook's Note, below). Beat butter in a small bowl with an electric mixer at medium speed 30 seconds. Add dark brown sugar, flour, cinnamon, and salt. Beat until combined.",
+            "Spoon 1/2 teaspoon filling onto center of each. Top with remaining squares. Seal edges using floured fork tines.",
+            "Bake until edges are firm and bottoms are very lightly browned, 6 to 8 minutes. Transfer cookies to a wire rack; cool.",
+            "For glaze, whisk confectioner's sugar, milk, and vanilla extract together in a small bowl. For brown sugar-cinnamon variation, add a dash of ground cinnamon.",
+            "Tint glaze with a few drops of food coloring as desired; spread on cooled cookies, leaving a 1/2-inch border. Add desired sprinkles or sanding sugar. Let stand until set."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Malted Milk Ball Brownies",
+        "category": "Cookies",
+        "ingredients": [
+            "1/2 cup butter,",
+            "3 ounces unsweetened chocolate",
+            "1/2 cup flour",
+            "2 tablespoons malted milk powder",
+            "1/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1 cup sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 1/4 cups malted milk balls",
+            "1/3 cup milk chocolate chips and/or white chocolate chips",
+            "sprinkles,"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8-inch square baking pan with parchment paper, extending over the edges of pan.",
+            "Melt butter and chocolate in a medium saucepan over low heat. Remove from heat; let cool 10 minutes.",
+            "Whisk together flour, malted milk powder, baking soda, and salt in a small bowl.",
+            "Stir sugar into melted chocolate mixture. Add eggs, one at a time, beating well with a wooden spoon. Stir in vanilla. Stir in flour mixture until combined. Stir in 3/4 cup chopped malted milk balls. Spread batter in prepared pan.",
+            "Bake in the preheated oven until center is set, about 30 minutes. Immediately sprinkle with milk chocolate chips and remaining 1/2 cup chopped malted milk balls; gently press into brownies. Cool in the pan on a wire rack. Use parchment to lift brownies from pan to a cutting board. Cut into 9 brownies. Garnish with sprinkles and additional chopped malted milk balls."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Orange Creamsicle Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "1 1/2 cups graham cracker crumbs",
+            "1 tablespoon brown sugar",
+            "1 pinch salt",
+            "6 tablespoons unsalted butter,"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Line a 9x9-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a small bowl, stir graham cracker crumbs, brown sugar, and salt together until combined. Add in melted butter and stir until mixture resembles wet sand. Pour crust mixture into the prepared pan and press firmly and evenly into the bottom of the pan. Place crust into the freezer to chill while you make the filling.",
+            "In a large bowl, beat heavy cream, powdered sugar, and 1/4 teaspoon vanilla extract with an electric mixer until mixture holds stiff peaks; refrigerate until needed.",
+            "Place gelatin into a small microwave-safe bowl. Pour 1/4 cup orange juice over gelatin and allow it to bloom for 5 minutes.",
+            "Meanwhile, place cream cheese, condensed milk, remaining 1/4 cup orange juice, lemon juice, remaining 1 1/2 teaspoons vanilla extract, and salt into the cup of a high speed blender. Blend ingredients on high speed until thoroughly smooth and combined, stopping to scrape down the sides as needed, 1 to 2 minutes.",
+            "Heat bloomed gelatin in the microwave until melted, about 30 seconds. Stir gelatin until thoroughly mixed and dissolved. With the blender running, pour melted gelatin into the cream mixture and continue to blend on High speed until thoroughly incorporated, about 30 seconds.",
+            "Remove whipped cream from the refrigerator. Pour cream cheese mixture over whipped cream and fold until thoroughly combined.",
+            "Remove crust from the freezer. Pour half of filling mixture over chilled crust; smooth into an even layer. Place pan back into the freezer until filling just begins to set, about 15 minutes.",
+            "To the remaining filling, add orange zest, lemon zest, and orange food coloring. Fold together until evenly combined.",
+            "Remove the pan from the freezer and carefully pour the orange layer over cream layer. Spread orange layer evenly over cream layer, making sure to cover completely. Refrigerate in the pan until bars are set, at least 4 hours to overnight.",
+            "To serve, lift bars out of the pan using the parchment paper. Carefully peel the parchment paper off, and cut into 16 bars. If desired, serve topped with an extra dollop of whipped cream and a small slice of orange. Store bars in the refrigerator."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy \"No Measure\" S'mores Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "cooking spray",
+            "¾ cup butter, melted",
+            "2 individual packages graham crackers, crushed",
+            "½ (12 ounce) bag chocolate chips, or more to taste",
+            "½ (12 ounce) package butterscotch chips",
+            "½ (10.5 ounce) package miniature marshmallows",
+            "½ (14 ounce) can sweetened condensed milk, or more to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease an 8x8-inch square pan with cooking spray.",
+            "Mix melted butter and graham cracker crumbs together; press into an even layer at the bottom of the pan. Top with chocolate chips, butterscotch chips, and marshmallows. Drizzle sweetened condensed milk on top.",
+            "Bake in the preheated oven until bubbly, 17 to 20 minutes.",
+            "Let cool, about 30 minutes. To make it easier to cut into bars, cover with plastic wrap and chill, about 30 minutes."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Blackberry Blondies",
+        "category": "Cookies",
+        "ingredients": [
+            "1 1/3 cups blackberries",
+            "1/2 cup unsalted butter,",
+            "1 cup white sugar",
+            "1/2 teaspoon salt",
+            "1 tablespoon lemon zest",
+            "1 tablespoon fresh lemon juice",
+            "1/2 teaspoon vanilla extract",
+            "1 cup plus 2 tablespoons all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1/2 teaspoon baking powder"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "Place frozen blackberries in a microwave-safe bowl. Microwave until blackberries are thawed, about 2 minutes. Do not drain.",
+            "In a large bowl, beat butter, sugar, and salt with an electric mixer until light and fluffy, about 3 minutes. Add in blackberries and their juices, lemon zest, lemon juice, and vanilla and beat until blackberries are broken down and incorporated, about 3 minutes. Mixture will still look slightly curdled. Mix in flour, cornstarch, and baking powder on low speed until combined.",
+            "Pour batter into the prepared pan and spread into an even layer.",
+            "Bake in the preheated oven until bars are puffed, and feel almost set, but still soft in the middle 30 to 35 minutes. Remove from the oven, and allow the bars to cool completely in the pan, about 20 minutes.",
+            "For glaze, whisk confectioner's sugar, salt, lemon juice, and heavy cream together until smooth; add lemon juice or heavy cream, a little at a time, as needed for a pourable consistency. Pour glaze over cooled bars and spread into an even layer. Allow glaze to set for about 15 minutes; lift bars from the pan using the parchment overhang. Cut into 16 servings."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Zucchini Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "1 teaspoon vegetable oil",
+            "3 small zucchini",
+            "3/4 cup pistachio butter or almond butter",
+            "1/2 cup butter",
+            "2 large eggs",
+            "1/2 cup maple syrup",
+            "1/2 teaspoon kosher salt",
+            "1 teaspoon vanilla extract",
+            "1 1/2 teaspoons baking powder",
+            "1/2 cup chopped walnuts",
+            "1 cup chocolate chips",
+            "3/4 cup almond flour"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease an 8x8-inch square baking pan, and line the bottom with parchment paper, with overhang on 2 sides.",
+            "Grate 2 heaping cups zucchini into a bowl. Use paper towels or a clean dry kitchen towel to squeeze out as much excess moisture as possible. Measure 2 packed cups grated zucchini, and refrigerate until needed.",
+            "Add nut butter, melted butter, eggs, and maple syrup to a bowl, and whisk until combined. Whisk in salt, vanilla, and baking powder briefly until combined.",
+            "Add walnuts, half the chocolate chips, almond flour, and grated zucchini. Use a spatula or spoon to stir everything together until evenly mixed. Spread batter in the prepared pan, and sprinkle remaining chocolate chips evenly over the top.",
+            "Bake in the center of the preheated oven until a toothpick inserted in the center comes out clean, 35 to 40 minutes.",
+            "Remove from the oven and let cool to room temperature. Cover and refrigerate until well chilled, then lift bars out of the pan using the parchment overhang to cut and serve."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Best Ever Blueberry Cookies",
+        "category": "Cookies",
+        "ingredients": [
+            "1/2 cup wild blueberries",
+            "1/2 cup unsalted butter",
+            "1/2 cup white sugar",
+            "1/4 teaspoon salt",
+            "1 tablespoon lemon zest",
+            "1 tablespoon fresh lemon juice",
+            "1/2 teaspoon vanilla extract",
+            "1 cup plus 2 tablespoons all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1/2 teaspoon baking powder",
+            "1/2 cup white chocolate chips"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Place frozen blueberries in a microwave-safe bowl. Microwave until blueberries are thawed, about 1 minute. Do not drain.",
+            "Beat butter, sugar, and salt together in a large bowl with an electric mixer until light and fluffy, about 3 minutes. Add in blueberries and their juices, lemon zest, lemon juice, and vanilla and beat on high speed until fairly smooth, about 5 minutes. Mixture will look curdled initially, but will emulsify and smooth out after several minutes of mixing on high speed.",
+            "Mix in flour, cornstarch and baking powder on low speed until combined. Stir in white chocolate chips.",
+            "Cover cookie dough and refrigerate until chilled, 30 to 60 minutes.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Line 2 baking sheets with parchment.",
+            "Scoop out 1 1/2 tablespoon-sized balls of dough; place 1 1/2 inches apart on the prepared baking sheets. Use damp hands to flatten the cookies slightly.",
+            "Bake in the preheated oven until cookies just begin to turn brown on the edges, 10 to 14 minutes. Cool cookies on the pan for 5 minutes, then remove to a wire rack to cool completely."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy S'Mores Bars",
+        "category": "Cookies",
+        "ingredients": [
+            "9 graham cracker squares",
+            "½ cup butter, melted",
+            "½ cup brown sugar",
+            "2 cups miniature marshmallows",
+            "1 ½ cups chocolate chips"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C). Line an 8x8-inch square pan with aluminum foil, leaving a 1-inch overhang on sides.",
+            "Crumble graham crackers in a bag; pour into a bowl. Stir in butter and brown sugar until well mixed. Press graham cracker mixture into bottom of prepared pan to form crust.",
+            "Bake in the preheated oven until crust is lightly browned and smells toasted, about 7 minutes.",
+            "Remove the pan from the oven; cover crust evenly with marshmallows. Sprinkle chocolate chips over marshmallows.",
+            "Bake in the preheated oven until chocolate chips are melted and marshmallows are browned, about 3 minutes.",
+            "Let s'mores rest in the pan until cool, about 30 minutes. Refrigerate until set, about 45 minutes. Remove from the pan and cut into squares."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    }
+]

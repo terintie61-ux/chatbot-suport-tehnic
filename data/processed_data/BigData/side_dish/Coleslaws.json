@@ -1,0 +1,592 @@
+[
+    {
+        "Main_category": "side_dish"
+    },
+    {
+        "recipe_title": "Southwestern Pulled Pork Sliders",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1/2 cup mayonnaise",
+            "2 chipotle peppers in adobo",
+            "1 tablespoon adobo sauce from the can",
+            "1/4 teaspoon salt",
+            "1 cup chopped fresh cilantro",
+            "3 cups coleslaw mix"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "For slaw, combine mayonnaise, chipotle peppers, adobo sauce, salt, and cilantro in the bowl of a blender or food processor. Pulse 4 or 5 times, scrape down the sides of the bowl, replace the lid, and puree until smooth. Toss with slaw mix and set aside.",
+            "Preheat the oven to 400 degrees F (200 degrees C) and line a sheet pan with foil.",
+            "For pork, in a microwave-safe bowl, combine lime juice, honey, tomato paste, cumin, smoked paprika, cayenne, pepper, coriander and garlic. Stir to combine. Add shredded pork and stir well. Heat on 50% power until warm, 2 to 3 minutes.",
+            "Meanwhile, place open buns on the prepared pan. Add a slice of smoked Gouda to the bottom half of each bun; trim any overhang, and add as a second layer of cheese.",
+            "Bake buns in the preheated oven until cheese has begun to melt, 3 to 5 minutes.",
+            "Remove from the oven and place 2 tablespoons pork mixture on top of cheese. Add slaw to taste on each slider, and cover with top half of bun. Serve immediately."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Slaw of Many Colors",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 medium head red cabbage",
+            "1 medium green bell pepper",
+            "1 medium onion",
+            "1 cup mayonnaise",
+            "1/2 cup cider vinegar",
+            "1/2 cup powdered sugar",
+            "1 teaspoon salt",
+            "1 teaspoon black pepper",
+            "1 large tomato"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine cabbage, green pepper, and onion in a large bowl. In a small bowl, whisk together mayonnaise, vinegar, powdered sugar, salt, and black pepper until smooth. Pour dressing over vegetables, tossing well to combine. Cover and chill at least 2 hours to allow everything to marinate.",
+            "When ready to serve, gently stir in tomato and season to taste with additional salt and pepper. (Chill, covered, up to 5 days.)"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cowboy Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "16 ounce coleslaw mix",
+            "(15-ounce) black beans,",
+            "1 1/2 cups frozen corn",
+            "1 cup red bell pepper",
+            "1/2 cup fresh cilantro",
+            "1/4 cup seeded and finely chopped jalapeño chile",
+            "1/2 cup mayonnaise",
+            "1/2 cup sour cream",
+            "1/4 cup lime juice",
+            "3 tablespoons adobo sauce",
+            "1 tablespoon taco seasoning",
+            "2 teaspoons kosher salt",
+            "1 teaspoon ground cumin",
+            "1/4 cup scallions",
+            "lime wedges"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients.",
+            "In a large bowl, toss coleslaw mix, black beans, corn, red bell pepper, cilantro, and jalapeño until well combined.",
+            "Whisk together mayonnaise, sour cream, lime juice, adobo sauce, taco seasoning mix, salt, and cumin until smooth and evenly combined.",
+            "Pour dressing over prepared coleslaw mixture. Toss until well combined.",
+            "Garnish with scallions and serve with lime wedges. Serve immediately or cover and refrigerate for up to 12 hours."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pikliz",
+        "category": "Coleslaws",
+        "ingredients": [
+            "2 cups cabbage",
+            "1 cup carrot",
+            "2 bell peppers, thinly sliced",
+            "1/2 medium red onion, sliced",
+            "3 scallions, thinly sliced",
+            "1 Jamaican Scotch bonnet pepper",
+            "3 tablespoons allspice",
+            "4 peppercorns",
+            "2 cloves",
+            "1 bay leaf",
+            "1 1/2 cups white vinegar",
+            "2 tablespoons lime juice"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Stuff cabbage, carrot, bell peppers, onion, scallions, Scotch bonnet pepper, allspice, peppercorn, cloves, and bay leaf into a mason jar with a lid until it's filled to the brim.",
+            "Add vinegar, and lime juice and press down on the ingredients. Seal the jar and shake once.",
+            "Refrigerate for 2 days for flavors to meld."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Carolina Red Slaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "2 pounds green cabbage",
+            "2 teaspoons kosher salt",
+            "3/4 cup ketchup",
+            "1/2 cup red bell peppers",
+            "1/4 cup apple cider vinegar",
+            "3 tablespoons white sugar",
+            "1 teaspoon smoked paprika",
+            "1/2 teaspoon freshly ground black pepper",
+            "1/8 teaspoon cayenne pepper",
+            "1 tablespoon chili sauce, or to taste",
+            "1 tablespoon riracha hot sauce, or to taste",
+            "2 tablespoons green onions, or as needed (optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Add finely chopped cabbage to a large bowl and sprinkle over the salt. Mix well and let sit for 30 minutes. If using fine salt, use half the amount.",
+            "Transfer cabbage to a strainer, and set aside to drain for 10 minutes.",
+            "Add ketchup, red bell pepper, cider vinegar, sugar, smoked paprika, black pepper, cayenne pepper, sambal chili sauce, and sriracha to a bowl; stir until dressing is well combined.",
+            "Use a spatula or your hand to press down on cabbage in the strainer; this will press out excess water. Discard the liquid (it is fine if cabbage is still slightly damp). Add cabbage to the bowl of dressing; mix well.",
+            "Cover slaw and refrigerate for 6 to 24 hours (preferably at least overnight), tossing occasionally. Taste before serving, and adjust salt and pepper, or add more hot sauce if needed. Sprinkle with sliced green onions."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Best Vinegar Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 large head cabbage, cored and finely shredded",
+            "1 medium onion, thinly sliced",
+            "1 cup white sugar",
+            "¾ cup vinegar",
+            "⅓ cup vegetable oil",
+            "2 teaspoons celery seed",
+            "1 ¼ teaspoon salt",
+            "1 teaspoon prepared mustard",
+            "¼ teaspoon freshly ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients.",
+            "Toss cabbage and onion together in a large bowl; set aside.",
+            "Combine sugar, vinegar, oil, celery seed, salt, mustard, and pepper in a small saucepan; bring to a boil and simmer, stirring frequently, until sugar is dissolved, about 3 minutes.",
+            "Let mixture cool slightly, about 5 minutes, then pour over cabbage mixture; toss well to coat.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Warm Grilled Red Cabbage Slaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 medium white onion, thinly sliced",
+            "2 tablespoons olive oil",
+            "1 Granny Smith apple - peeled, cored and chopped",
+            "3 tablespoons maple syrup",
+            "3 tablespoons apple cider vinegar",
+            "1 ½ teaspoons garlic powder",
+            "1 ½ teaspoons onion powder",
+            "1 head red cabbage, shredded",
+            "⅓ cup chopped fresh parsley"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Heat grill to medium high heat to 375 degrees F (190 degrees C).",
+            "Pour olive oil into a grill pan and sauté onion for 2 minutes. Add chopped apples, maple syrup, apple cider vinegar, garlic powder, and onion powder to the grill pan and stir until mixed.",
+            "Reduce heat to low at 300 degrees F (150 degrees C). Add red cabbage to the grill pan and cook until cabbage is wilted and lightly tender, about 15 minutes.",
+            "Remove from heat and add parsley. Enjoy warm."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Napa Cabbage Salad",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 head napa cabbage",
+            "1 bunch minced green onions",
+            "⅓ cup butter",
+            "1 (3 ounce) package ramen noodles, broken",
+            "1 cup slivered almonds",
+            "2 tablespoons sesame seeds",
+            "¾ cup vegetable oil",
+            "½ cup white sugar",
+            "¼ cup cider vinegar",
+            "2 tablespoons soy sauce"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather the ingredients.",
+            "Finely shred cabbage; do not chop. Combine green onions and cabbage in a large bowl. Cover and refrigerate until ready to serve.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Make the crunchy topping: Melt butter in a pot. Stir ramen noodles, almonds, and sesame seeds into the pot with melted butter.",
+            "Spoon the mixture onto a baking sheet and bake the crunchies in the preheated oven, turning often to make sure they do not burn, for 5 to 7 minutes. When they are browned remove them from the oven.",
+            "Make the dressing: Heat oil, sugar, vinegar, and soy sauce together in a small saucepan. Bring the dressing to a boil, let boil for 1 minute. Remove the pan from heat and let cool.",
+            "Toss together cabbage with crunchy topping and dressing immediately before serving. Serve right away or the crunchies will get soggy.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick and Easy Broccoli Slaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "½ cup light mayonnaise",
+            "2 tablespoons white sugar",
+            "2 tablespoons white vinegar",
+            "1 (12 ounce) package broccoli slaw",
+            "½ cup dried cranberries",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Whisk mayonnaise, sugar, and vinegar together in a bowl until smooth. Add broccoli slaw, cranberries, and walnuts; mix until slaw is evenly coated."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 cup mayonnaise",
+            "¼ cup white sugar or to taste",
+            "2 tablespoons seasoned rice wine vinegar",
+            "1 ½ tablespoons lemon juice",
+            "1 tablespoon prepared horseradish",
+            "½ teaspoon onion powder",
+            "½ teaspoon dry mustard",
+            "½ teaspoon celery salt",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "1 (28 ounce) package coleslaw mix"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk mayonnaise, sugar, vinegar, lemon juice, horseradish, onion powder, dry mustard, celery salt, salt, and pepper in a large mixing bowl until sugar has dissolved.",
+            "Fold coleslaw mix into dressing until well combined."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Frito Cowboy Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1/3 cup mayonnaise",
+            "1/3 cup sour cream",
+            "2 limes, juiced",
+            "2 tablespoons adobo sauce from canned chipotles in adobo, or more to taste",
+            "1 tablespoon taco seasoning",
+            "1 tablespoon ranch seasoning"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "To make the dressing: Whisk mayonnaise, sour cream, lime juice, adobo sauce, taco seasoning, and ranch seasoning together in a bowl.",
+            "Toss coleslaw mix, corn, black beans, jalapenos, bell pepper, green onions, and bacon together in a large bowl. Pour in dressing and stir until ingredients are completely coated.",
+            "Refrigerate until ready to serve. Immediately before serving, stir in Fritos or serve Fritos on the side."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Red Cabbage Slaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 small head red cabbage, thinly sliced and chopped",
+            "½ cup grated carrot",
+            "½ cup mayonnaise",
+            "¼ cup dried cranberries",
+            "¼ cup chopped walnuts",
+            "1 tablespoon milk, or more as needed",
+            "1 tablespoon apple cider vinegar",
+            "1 teaspoon white sugar, or more to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Combine cabbage, carrot, mayonnaise, cranberries, walnuts, milk, cider vinegar, and sugar in a bowl; stir well. For best flavor results, cover and refrigerate until chilled."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Asian Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "6 tablespoons rice wine vinegar",
+            "6 tablespoons vegetable oil",
+            "5 tablespoons creamy peanut butter",
+            "3 tablespoons soy sauce",
+            "3 tablespoons brown sugar",
+            "2 tablespoons minced fresh ginger root",
+            "1 ½ tablespoons minced garlic"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the peanut dressing: Whisk rice vinegar, oil, peanut butter, soy sauce, brown sugar, ginger, and garlic together in a medium bowl; set aside.",
+            "To make the coleslaw: Mix green cabbage, red cabbage, napa cabbage, red bell peppers, carrots, green onions, and cilantro in a large bowl.",
+            "When ready to serve, pour dressing over cabbage mixture and toss well to combine."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Japanese-Style Cabbage Salad",
+        "category": "Coleslaws",
+        "ingredients": [
+            "½ large head cabbage, cored and shredded",
+            "1 bunch green onions, thinly sliced",
+            "1 cup almond slivers",
+            "¼ cup toasted sesame seeds"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine cabbage, green onions, almond, and sesame seeds in a large bowl.",
+            "Make dressing: Whisk together sesame oil, vinegar, sugar, garlic, ginger, salt, and pepper in a small bowl until sugar is dissolved.",
+            "Pour dressing over cabbage mixture and toss until well combined."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Red Cabbage Salad",
+        "category": "Coleslaws",
+        "ingredients": [
+            "⅔ cup red wine vinegar",
+            "½ cup canola oil",
+            "1 tablespoon white sugar",
+            "1 teaspoon salt",
+            "1 teaspoon seasoned salt",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon onion powder",
+            "1 head red cabbage, cored and shredded"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Mix red wine vinegar, canola oil, sugar, salt, seasoned salt, pepper, and onion powder in a bowl.",
+            "Place cabbage in a large glass bowl. Pour dressing over cabbage and toss to coat. Cover and refrigerate, 8 hours to overnight, stirring occasionally. Drain before serving."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Apple Slaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "3 cups chopped cabbage",
+            "1 unpeeled red apple, cored and chopped",
+            "1 unpeeled Granny Smith apple, cored and chopped",
+            "1 carrot, grated",
+            "½ cup finely chopped red bell pepper",
+            "2 green onions, finely chopped",
+            "⅓ cup mayonnaise",
+            "⅓ cup brown sugar",
+            "1 tablespoon lemon juice, or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine cabbage, red apple, green apple, carrot, red bell pepper, and green onions in a large bowl.",
+            "To make the dressing: Mix mayonnaise, brown sugar, and lemon juice together in a small bowl. Pour dressing over cabbage mixture; mix until evenly coated."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Asian Cabbage Salad",
+        "category": "Coleslaws",
+        "ingredients": [
+            "2 tablespoons sesame seeds",
+            "4 cups shredded cabbage",
+            "2 carrots, shredded",
+            "1 (3 ounce) package ramen noodles, crushed",
+            "⅓ cup olive oil",
+            "2 tablespoons white sugar",
+            "1 ½ tablespoons rice vinegar",
+            "½ teaspoon sesame oil",
+            "½ teaspoon salt",
+            "¼ teaspoon black pepper"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Toast sesame seeds in a small skillet, shaking frequently, over medium heat until golden brown and fragrant. Transfer toasted seeds to a small plate and set aside.",
+            "Toss together cabbage, carrots, and crushed ramen noodles in a large bowl.",
+            "Whisk together olive oil, sugar, vinegar, sesame oil, salt, pepper, and ramen seasoning packet in a small bowl until combined.",
+            "Pour over cabbage mixture; toss to coat. Top with sesame seeds."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ramen Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "½ medium head cabbage, shredded",
+            "5 green onions, chopped",
+            "1 (3 ounce) package chicken flavored ramen noodles, crushed, seasoning packet reserved",
+            "¼ cup sliced almonds",
+            "2 tablespoons sesame seeds"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine cabbage, green onions, and crushed ramen noodles in a large salad bowl; set aside.",
+            "Spread almonds and sesame seeds evenly onto a baking sheet.",
+            "Bake in the preheated oven until lightly browned, about 10 minutes.",
+            "Meanwhile, make dressing: Whisk together vinegar, oil, sugar, salt, pepper, and seasoning packet in a medium bowl.",
+            "Pour dressing over cabbage mixture; toss to coat evenly. Sprinkle with toasted almonds and sesame seeds."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Susan's Vinaigrette Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "3 tablespoons apple cider vinegar",
+            "3 tablespoons canola oil",
+            "3 tablespoons white sugar",
+            "¼ teaspoon dry mustard",
+            "¼ teaspoon poppy seeds",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon salt",
+            "¼ teaspoon hot pepper sauce (Optional)",
+            "4 cups shredded green cabbage",
+            "2 medium carrots, shredded"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Whisk vinegar, oil, sugar, mustard, poppy seeds, pepper, salt, and hot sauce together in a bowl until sugar has dissolved.",
+            "Mix cabbage and carrots together in a large salad bowl. Pour vinaigrette over top and toss until well combined. Cover and refrigerate for at least 2 hours before serving."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hawaiian Coleslaw",
+        "category": "Coleslaws",
+        "ingredients": [
+            "1 (8.5 ounce) package coleslaw mix",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "½ cup finely chopped onion",
+            "½ cup mayonnaise",
+            "¼ cup apple cider vinegar",
+            "2 tablespoons brown sugar",
+            "1 teaspoon dried cilantro",
+            "½ teaspoon salt",
+            "¼ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients.",
+            "Mix coleslaw mix, pineapple, and onion together in a bowl.",
+            "Whisk mayonnaise, vinegar, brown sugar, cilantro, salt, and pepper together in a bowl until dressing is smooth.",
+            "Pour dressing over coleslaw mixture and toss to coat. Refrigerate until ready to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    }
+]

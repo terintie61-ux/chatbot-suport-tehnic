@@ -1,0 +1,624 @@
+[
+    {
+        "Main_category": "main_dish"
+    },
+    {
+        "recipe_title": "20 Layer Air Fryer Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "2 lbs. ground sirloin",
+            "1 cup onion, divided",
+            "1 package taco seasoning",
+            "1/2 cup water",
+            "1 1/2 bags (about 20 ounces) tortilla chips, divided",
+            "16 ounces shredded Cheddar cheese, divided",
+            "2 2(4-ounces) cans diced green chiles",
+            "1 (15- ounce) can black beans, drained and rinsed, divided",
+            "1 cup salsa",
+            "1/2 cup pickled jalapenos, plus more for garnish if desired",
+            "1 (2.25-ounce) black olives, drained",
+            "8 ounces sour cream",
+            "1 avocado, peeled and diced",
+            "2 oma tomatoes, seeded and diced",
+            "1/2 cup cilantro"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Heat a large skillet over medium-high heat and add ground beef and onion. Cook, while crumbling with a spoon and stirring often until browned. Add taco seasoning and water and cook until slightly thickened, about 3 minutes. Remove from heat.",
+            "Line the bottom of a deep air fryer basket with parchment paper and allow the parchment to come up the sides. Arrange a layer of chips along the bottom. Top with half of the beef mixture and sprinkle 1/3 of the cheese on top. Spoon green chiles over cheese and top with a second layer of chips. Sprinkle half of the beans evenly over the chips and top with salsa and the second third of the cheese. Arrange the last layer of chips over the cheese and top with remaining beans. Add sliced jalapenos, remaining cheese and olives.",
+            "Set air fryer to 350 degrees F (175 degrees C) and cook until the cheese is melted and begins to brown, 6 to 8 minutes.",
+            "Using the parchment paper, carefully lift the nachos from the air fryer basket onto a serving platter. Top with sour cream, avocado, tomato, cilantro, and any additional toppings if desired. Serve immediately."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Loaded Beef Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "5 teaspoons paprika",
+            "1 ¼ teaspoons garlic powder",
+            "1 ¼ teaspoons ground cumin",
+            "1 ¼ teaspoons onion powder",
+            "1 teaspoon chili powder",
+            "1 teaspoon oregano leaves",
+            "1 ½ teaspoons salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "To make the taco seasoning: Stir paprika, garlic powder, cumin, onion powder, chili powder, oregano, and salt together in a small bowl; set aside.",
+            "To make the beef mixture: Heat oil in a large skillet over medium-high heat; cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Stir in onion and green pepper; cook and stir with oil and juices from browned meat until much of the liquid has evaporated, about 2 minutes more.",
+            "Stir 1/2 can diced tomatoes with chilies and Mexican-style corn into skillet. Season beef mixture to taste with prepared taco seasoning mix.",
+            "Stir together the remaining 1/2 can diced tomatoes with chilies and refried beans in a microwave-safe bowl. Microwave on High until heated through, stirring every 30 seconds, 1 to 3 minutes.",
+            "To assemble the nachos: Lay half of tortilla chips in a single layer on a microwave-safe plate; drop teaspoons of refried beans onto chips, followed by beef mixture and shredded cheese. Repeat with remaining chips, beans, beef, and cheese to make a second layer.",
+            "Microwave on High until cheese is melted and nachos are warm, 2 to 3 minutes. Top with sour cream, salsa, olives, jalapeños, and green onion as desired."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Super Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "aluminum foil",
+            "1 pound ground beef",
+            "¾ cup water",
+            "1 (1.25 ounce) package taco seasoning mix",
+            "1 (18 ounce) package restaurant-style tortilla chips",
+            "1 cup shredded sharp Cheddar cheese, or more to taste",
+            "1 (15.5 ounce) can refried beans",
+            "1 (10 ounce) can pitted black olives, drained and chopped",
+            "1 cup salsa",
+            "1 cup sour cream, or more to taste",
+            "4 green onions, diced",
+            "1 (4 ounce) can sliced jalapeno peppers, drained"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven broiler. Set the oven rack about 6 inches from the heat source. Line a baking sheet with aluminum foil.",
+            "Gather all ingredients.",
+            "Cook and stir ground beef in a skillet over medium heat until meat is crumbly and no longer pink, 5 to 10 minutes. Drain excess grease. Stir in water and taco seasoning mix; simmer until beef mixture has thickened, 8 to 10 minutes.",
+            "Spread tortilla chips on the prepared baking sheet. Top with Cheddar cheese, then dot with refried beans and ground beef mixture.",
+            "Broil in the preheated oven until cheese is melted, 3 to 5 minutes. Top nachos with olives, salsa, sour cream, green onions, and jalapeño peppers."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Super Deluxe Steak Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 (1 ½-pound) skirt steak or flap steak",
+            "1 teaspoon salt",
+            "1 teaspoon freshly ground black pepper",
+            "1/2 teaspoon ground dried chipotle pepper",
+            "1 tablespoon vegetable oil"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "To cook the steak: Season both sides of steak with salt and peppers. Heat oil in a skillet over medium-high heat. Cook steak, turning occasionally, to medium doneness, about 6 minutes per side. An instant-read thermometer inserted into the center should read 135 to 140 degrees F (60 degrees C). Transfer steak to a bowl and let it rest.",
+            "Pour a splash of water into the skillet; stir to scrape up browned bits and deglaze the pan. Pour this liquid over meat. Allow meat to cool completely.",
+            "When meat is completely cool, slice thickly (about 1/2 inch) with the grain, then cut into thinner strips. Dice by cutting into pieces against the grain. Transfer chopped steak back to the bowl; toss with the pan drippings.",
+            "To make the beans: Melt bacon fat over medium heat in a pot. Add onion and a pinch of salt; cook and stir until softened, 5 to 6 minutes. Stir in oregano. Add pinto beans and water. Bring back to a simmer and cook until onions are soft, about 5 more minutes. Reduce heat to low.",
+            "Mash beans with a potato masher to your desired consistency. Add additional liquid if necessary to achieve your preferred texture. Add the remaining salt to taste. Remove from heat.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "To assemble the nachos: Place tortilla chips about 2 or 3 deep in a heat-proof pan. (You may need more than one pan.) Top chips with spoonfuls of beans and a generous handful of steak pieces. Sprinkle with grated cheese.",
+            "Bake in the preheated oven until cheese is melted and edges start to brown, about 10 minutes.",
+            "Scatter tomato, avocado, onion, and jalapeño over the top. Drizzle nachos with sour cream and garnish with chopped cilantro."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Nachos with Refried Beans",
+        "category": "Nachos",
+        "ingredients": [
+            "1 (16 ounce) can refried beans",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "1 teaspoon ground cumin",
+            "1 (10 ounce) bag scoop-shaped tortilla chips",
+            "8 ounces Colby-Monterey Jack cheese, thinly sliced",
+            "1 (4 ounce) can sliced jalapeno peppers"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine refried beans, garlic powder, onion powder, and cumin in a bowl; mix well.",
+            "Pour tortilla chips onto a baking sheet in one layer. Spoon bean mixture over tortilla chips. Top with Colby-Monterey Jack cheese and jalapeños.",
+            "Bake in the preheated oven until cheese is melted, about 5 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Restaurant-Style Chicken Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "3 tablespoons canola oil",
+            "6 green onions, sliced, white parts and tops separated",
+            "2 cloves garlic, crushed",
+            "1 shredded, cooked, whole chicken breast",
+            "salt and pepper to taste",
+            "1 cup salsa",
+            "½ (12 ounce) package tortilla chips",
+            "1 (8 ounce) package shredded Cheddar/Monterey Jack cheese blend",
+            "½ large tomato, diced"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat oil in a deep 12-inch skillet over medium heat. Add white parts of the green onions and garlic; cook and stir until onions are just tender.",
+            "Mix in shredded chicken and season to taste with salt and pepper; toss until well coated. Stir in salsa.",
+            "Arrange tortilla chips on a large baking sheet. Spoon chicken mixture over tortilla chips; top with shredded cheese and tomato.",
+            "Bake in the preheated oven until cheese has melted, about 10 minutes. Remove from heat and sprinkle with green onion tops before serving."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Classic Pub Style Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "¼ cup chopped red onion",
+            "4 tomatoes, seeded and finely chopped",
+            "½ cup chopped fresh parsley",
+            "¼ cup olive oil",
+            "1 lime, juiced",
+            "1 pinch salt and black pepper (Optional)",
+            "1 (8 ounce) package tortilla chips",
+            "2 cups shredded Cheddar cheese, divided",
+            "½ cup sour cream (Optional)",
+            "½ cup guacamole (Optional)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat an oven to 350 degrees F (175 degrees C).",
+            "Mix together the onion, tomatoes, parsley, olive oil, lime juice, salt and pepper in a bowl.",
+            "Spread tortilla chips in a single layer onto a baking sheet, and spoon about 1 teaspoon of the tomato salsa onto each chip. Spread 1 cup of Cheddar cheese over the nachos, top the chips with another teaspoon or so of salsa, and top with the remaining 1 cup of cheese.",
+            "Bake the nachos in the preheated oven until the cheese is bubbling, about 5 minutes. Serve hot with sour cream, guacamole, and any remaining salsa on the side for dipping the chips."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shrimp Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 (14.5 ounce) package tortilla chips, or to taste",
+            "2 pounds shredded Monterey Jack cheese",
+            "1 ½ pounds large peeled and deveined cooked shrimp, tails removed and shrimp quartered",
+            "1 cup mayonnaise",
+            "4 chipotle peppers in adobo sauce, chopped",
+            "½ cup chopped fresh cilantro",
+            "¼ cup dried minced onion (such as McCormick® Coarse Grind Blend White and Green Onions)",
+            "1 ½ tablespoons ground cumin",
+            "¼ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+            "Spread tortilla chips onto the prepared baking sheet.",
+            "Mix Monterey Jack cheese, shrimp, mayonnaise, chipotle peppers in adobo sauce, cilantro, minced onion, cumin, and black pepper together in a bowl. Spoon mixture onto the tortilla chips.",
+            "Bake in the preheated oven for 3 minutes. Turn on the broiler and broil nachos until lightly browned, 3 to 4 minutes. Allow nachos to sit at room temperature for about 2 minutes before serving."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Steven's Baked Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 (8 ounce) skinless, boneless chicken breast",
+            "1 (14.25 ounce) can refried beans",
+            "8 ounces corn tortilla chips, divided",
+            "1 ½ cups grated pepper Jack cheese, divided",
+            "¼ cup chopped green onions",
+            "½ cup sour cream"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x9-inch baking dish.",
+            "Place chicken on a microwave-safe plate; cover with a paper towel. Cook on high power until cooked through and no longer pink, about 10 minutes.",
+            "Cool, then shred using a knife; set aside.",
+            "Cook and stir refried beans in a saucepan over medium until thoroughly heated.",
+            "Layer ½ the chips, ½ cup cheese, and green onions on bottom of the prepared baking dish. Spoon beans over top.",
+            "Layer ½ cup cheese and sour cream over beans. Arrange shredded chicken over top, then top with remaining ½ chips and ½ cup cheese.",
+            "Bake in the preheated oven until cheese melts throughout, 15 to 18 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chili Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "3 plum tomatoes, finely chopped",
+            "⅓ cup finely chopped red or white onion",
+            "⅓ cup chopped fresh cilantro",
+            "1 lime",
+            "12 cups corn tortilla chips",
+            "1 (15 ounce) can chili with beans (such as HORMEL® Chili With Beans)",
+            "1 (2.25 ounce) can sliced pitted ripe olives, coarsely chopped (Optional)",
+            "3 cups shredded colby or Monterey Jack cheese",
+            "1 fresh jalapeño chile (or more to taste), thinly sliced (Optional)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Mix tomatoes, onion, and cilantro together in a bowl. Squeeze lime into mixture and toss to combine.",
+            "Arrange chips in a single layer on a heatproof platter or baking sheet. Top with spoonfuls of chili, tomato mixture, olives, and cheese. Add jalapeño slices, if desired. Repeat layers until all ingredients are used.",
+            "Bake until cheese is completely melted., about 15 minutes. Serve nachos hot."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick Potato Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 ½ pounds russet potatoes, cut into 1/2-inch wedges",
+            "1 ½ tablespoons vegetable oil",
+            "1 teaspoon Mexican-style seasoning blend",
+            "½ teaspoon garlic salt",
+            "1 cup shredded Mexican cheese blend",
+            "¼ cup rinsed and drained canned black beans",
+            "¼ cup diced tomatoes",
+            "¼ cup sliced black olives",
+            "¼ cup sliced green onions",
+            "3 tablespoons canned chopped green chiles"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat oven to 425 degrees F (220 degrees C).",
+            "Combine potatoes, oil, Mexican seasoning, and garlic salt together in a bowl; stir to coat potatoes completely. Spread potatoes in a single layer on a baking sheet.",
+            "Bake in the preheated oven, stirring occasionally, until potatoes are crisp and golden brown, 25 to 30 minutes.",
+            "Transfer potatoes to a plate and top with Mexican cheese blend, black beans, diced tomatoes, black olives, green onions, and green chiles."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "2 skinless, boneless chicken breasts, chopped",
+            "2 tablespoons vegetable oil",
+            "1 teaspoon cayenne pepper, or to taste",
+            "1 (12 ounce) package corn tortilla chips, or as needed",
+            "1 (7 ounce) can diced green chiles, drained",
+            "1 (8 ounce) package shredded Mexican-style cheese blend"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine chicken, vegetable oil, and cayenne pepper in a bowl; let stand at least 15 minutes, or longer if desired.",
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Heat a skillet over medium-high heat. Add chicken mixture; cook until no longer pink. Remove from heat; set aside.",
+            "Meanwhile, spread a thin layer of tortilla chips in a 9x13-inch baking dish; top with 1/4 chicken, 1/4 chiles, and 1/4 cheese. Repeat layers three more times ending with cheese.",
+            "Bake in the preheated oven until cheese melts and nachos heated through, 15 to 20 minutes. Serve with your favorite nacho toppings."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 pound lean ground beef",
+            "¼ cup water",
+            "1 tablespoon chili powder",
+            "1 teaspoon ground cayenne pepper",
+            "salt and ground black pepper to taste",
+            "1 (14.5 ounce) package tortilla chips",
+            "1 (12 ounce) jar pickled jalapeno pepper slices (Optional)",
+            "1 (4 ounce) can sliced black olives",
+            "2 cups shredded Cheddar cheese",
+            "1 (8 ounce) container sour cream",
+            "1 cup salsa"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Set an oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a sheet pan with aluminum foil.",
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Mix in water, chili powder, cayenne, salt, and pepper until incorporated.",
+            "Lay out tortilla chips on the prepared sheet pan. Top with ground beef mixture.",
+            "Cover with jalapeño slices and olives. Sprinkle with Cheddar cheese.",
+            "Cook under the preheated broiler until cheese is bubbly and golden brown, 3 to 5 minutes. Serve with sour cream and salsa for dipping."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Totchos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 (32 ounce) package frozen bite-size potato nuggets (such as Tater Tots®)",
+            "2 pounds boneless skinless chicken breasts, cubed",
+            "1 ½ teaspoons celery seed",
+            "1 tablespoon olive oil",
+            "⅔ cup buffalo wing sauce",
+            "1 cup shredded Monterey Jack cheese",
+            "½ cup ranch dressing"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Spread potato nuggets in a single layer on a baking sheet.",
+            "Bake in the preheated oven until golden brown, about 25 minutes.",
+            "Meanwhile, place chicken in a large bowl. Add celery seed and olive oil; stir to coat.",
+            "Heat a large skillet over medium-high heat. Add chicken and cook until golden brown on all sides, about 15 minutes. Turn heat off and add wing sauce; stir to coat.",
+            "Remove potatoes from the oven. Set an oven rack about 6 inches from the heat source and preheat the oven's broiler to low.",
+            "Spoon chicken mixture evenly over potatoes and top with Monterey Jack cheese.",
+            "Broil in the preheated oven until cheese is melted, about 5 minutes. Remove and drizzle ranch dressing over the top. Serve immediately."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Memphis BBQ Pork Totchos",
+        "category": "Nachos",
+        "ingredients": [
+            "1 (28 ounce) package frozen bite-size potato nuggets (such as Extra Crispy Tater Tots)",
+            "2 cups shredded pepper Jack cheese",
+            "2 cups cooked pulled pork",
+            "½ cup chopped white onion",
+            "¼ cup chopped pickled jalapeño peppers",
+            "½ cup barbecue sauce (such as Cattlemen's)",
+            "1 cup prepared coleslaw (Optional)",
+            "1 bunch green onions, sliced"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Arrange potato nuggets in a single layer on a baking sheet.",
+            "Bake in the preheated oven for 20 minutes. Shake the baking sheet and continue baking until potato nuggets are extra crispy, 20 to 24 minutes more. Remove the baking sheet from the oven and turn on the broiler.",
+            "Top potato nuggets with pepper Jack cheese, pulled pork, onion, and jalapeño peppers. Drizzle barbecue sauce over \"totchos\".",
+            "Broil in the preheated oven until cheese starts to bubble, 5 to 7 minutes. Top \"totchos\" with coleslaw and green onions."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Turkey Nacho Bake",
+        "category": "Nachos",
+        "ingredients": [
+            "1 pound ground turkey",
+            "2 cloves garlic, chopped",
+            "freshly ground black pepper to taste",
+            "2 teaspoons crushed red pepper flakes",
+            "2 tablespoons chopped fresh chives",
+            "2 tablespoons hot sauce (Optional)",
+            "1 (1 ounce) package dry taco seasoning mix",
+            "1 (14 ounce) can refried beans",
+            "1 (14.5 ounce) package tortilla chips",
+            "2 cups shredded Cheddar cheese",
+            "1 (4 ounce) can sliced black olives",
+            "1 ripe tomato, diced",
+            "1 bunch green onions, sliced"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "In a large skillet over medium heat, begin to brown the ground turkey. Stir in garlic, pepper, 1 teaspoon red pepper flakes, and 1 tablespoon chives. Stir in 1 tablespoon hot sauce. When the turkey is browned, stir in taco seasoning mix according to package instructions.",
+            "Pour the beans into a microwave safe bowl, and heat in the microwave until softened. Stir in 1 tablespoon chives and 1 tablespoon hot sauce.",
+            "Spread the tortilla chips across the bottom of a baking sheet. Spoon the beans mixture over the chips. Then spread the turkey mixture across the top. Sprinkle cheese, then olives, tomatoes, green onions, and remaining 1 teaspoon of crushed red pepper flakes over the top.",
+            "Bake in preheated oven until cheese is melted, about 15 minutes"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Zucchini Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "2 medium zucchini",
+            "½ teaspoon salt",
+            "1 tablespoon olive oil",
+            "½ medium onion, finely chopped",
+            "1 pound lean ground chicken",
+            "1 teaspoon chili powder",
+            "½ teaspoon paprika",
+            "½ teaspoon cumin",
+            "½ teaspoon garlic powder",
+            "½ teaspoon salt",
+            "¼ teaspoon oregano",
+            "¼ teaspoon ground black pepper",
+            "2 cups shredded Cheddar cheese",
+            "½ cup low-fat sour cream",
+            "½ cup pico de gallo",
+            "1 jalapeno pepper, thinly sliced (Optional)",
+            "3 green onions, green parts chopped"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Cut zucchini into 1/4-inch slices using a mandoline slicer. Place slices in a colander, sprinkle with salt, and toss to coat. Let drain for 30 minutes. Place slices on a clean kitchen towel and pat dry.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a 12x18-inch baking sheet with parchment paper.",
+            "Heat oil in a skillet over medium-high heat. Add onion and saute until translucent, 2 to 3 minutes. Add chicken and cook until lightly browned, breaking meat up into small crumbles, 5 to 6 minutes. Drain and discard any accumulated liquid.",
+            "Return skillet to low heat and stir in chili powder, paprika, cumin, garlic powder, salt, oregano, and black pepper. Keep warm.",
+            "Place zucchini slices on the prepared baking pan in a single layer.",
+            "Bake in the preheated oven for 5 minutes.",
+            "Remove zucchini from oven and top with chicken mixture and shredded Cheddar cheese. Return to the hot oven and bake until cheese is melted, 2 to 3 minutes more.",
+            "Top nachos with dollops of sour cream, pico de gallo, jalapeno, and green onions. Serve immediately."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Chicken Nachos",
+        "category": "Nachos",
+        "ingredients": [
+            "cooking spray",
+            "¾ cup blue cheese salad dressing, divided",
+            "½ cup cayenne pepper sauce (such as Frank's® RedHot®)",
+            "2 tablespoons butter, melted",
+            "2 cups shredded cooked chicken",
+            "1 (13 ounce) package restaurant-style white corn tortilla chips (such as Tostitos®)",
+            "1 large tomato, seeded and chopped",
+            "½ cup sliced black olives",
+            "⅓ cup diced red onion",
+            "¼ cup pickled jalapeno pepper slices",
+            "4 ounces precooked bacon, crumbled",
+            "1 ½ cups shredded Mexican cheese blend",
+            "1 cup shredded Monterey Jack cheese",
+            "1 tablespoon chopped fresh cilantro"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a large, rimmed baking sheet with aluminum foil and spray with cooking spray.",
+            "Combine 1/4 cup blue cheese dressing, cayenne pepper sauce, and melted butter in a bowl until well blended. Add chicken and toss to coat.",
+            "Spread tortilla chips evenly over the prepared baking sheet. Sprinkle tomato, olives, onion, and jalapeño peppers over chips. Spread chicken mixture over vegetables and top with crumbled bacon.",
+            "Mix both cheeses together in a bowl; sprinkle mixture evenly over chicken mixture.",
+            "Bake in the preheated oven until cheese is melted and lightly browned, 10 to 15 minutes.",
+            "Remove from the oven. Drizzle remaining 1/2 cup blue cheese dressing over nachos and garnish with cilantro."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Nachos Restaurant-Style",
+        "category": "Nachos",
+        "ingredients": [
+            "1 pound bulk Italian sausage",
+            "1 (7-1/2 ounce) bag tortilla chips",
+            "1 (2 ounce) package sliced pepperoni",
+            "½ pound shredded mozzarella cheese",
+            "½ cup banana peppers, drained",
+            "1 ¼ cups pizza sauce"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat your oven's broiler.",
+            "Crumble the sausage into a large skillet over medium heat. Cook and stir until no longer pink; drain.",
+            "Arrange the tortilla chips on a baking sheet. Top with sausage, pepperoni, mozzarella cheese, and banana peppers. Place nachos under the preheated broiler until the cheese is melted, 5 to 8 minutes. Serve with pizza sauce for dipping."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "15-Minute Dinner Nachos Supreme",
+        "category": "Nachos",
+        "ingredients": [
+            "1 pound ground beef",
+            "1 (1.12 ounce) package taco seasoning (such as Pace)",
+            "1 (10.5 ounce) can condensed tomato soup (such as Campbell's)",
+            "1 ½ cups water",
+            "1 ½ cups uncooked instant white rice",
+            "1/2 cup thick and chunky salsa (such as Pace), or to taste",
+            "1/2 cup shredded Cheddar cheese, or to taste",
+            "1 cup shredded lettuce, or to taste",
+            "cups t ortilla chips, or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Cook beef and taco seasoning in a skillet until browned. Pour off fat.",
+            "Add condensed soup, water, and rice. Heat to a boil. Cover and cook over low heat until rice is tender, about 5 min.",
+            "Top with salsa, Cheddar, and lettuce. Serve with tortilla chips for dipping."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

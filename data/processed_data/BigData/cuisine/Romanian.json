@@ -1,0 +1,250 @@
+[
+    {
+        "recipe_title": "Sarmale în foi de varză",
+        "category": "romanian",
+        "ingredients": [
+            "varză murată",
+            "carne tocată de porc și vită",
+            "orez",
+            "ceapă",
+            "cimbru",
+            "sare",
+            "piper",
+            "foi de dafin",
+            "bulion"
+        ],
+        "num_ingredients": 9,
+        "directions": "Pentru a prepara Sarmale în foi de varză, urmează acești pași:\n1. Pregătește varză murată. 2. Pregătește carne tocată de porc și vită. 3. Pregătește orez. 4. Pregătește ceapă. 5. Pregătește cimbru. 6. Pregătește sare. 7. Pregătește piper. 8. Pregătește foi de dafin. 9. Pregătește bulion. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 65,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cozonac cu nucă și cacao",
+        "category": "romanian",
+        "ingredients": [
+            "făină",
+            "lapte",
+            "drojdie",
+            "ouă",
+            "zahăr",
+            "unt",
+            "nucă măcinată",
+            "cacao",
+            "esență de rom",
+            "coajă de lămâie"
+        ],
+        "num_ingredients": 10,
+        "directions": "Pentru a prepara Cozonac cu nucă și cacao, urmează acești pași:\n1. Pregătește făină. 2. Pregătește lapte. 3. Pregătește drojdie. 4. Pregătește ouă. 5. Pregătește zahăr. 6. Pregătește unt. 7. Pregătește nucă măcinată. 8. Pregătește cacao. 9. Pregătește esență de rom. 10. Pregătește coajă de lămâie. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Ciorbă de burtă",
+        "category": "romanian",
+        "ingredients": [
+            "burtă de vită",
+            "morcovi",
+            "țelină",
+            "pătrunjel",
+            "usturoi",
+            "smântână",
+            "ouă",
+            "oțet",
+            "leuștean"
+        ],
+        "num_ingredients": 9,
+        "directions": "Pentru a prepara Ciorbă de burtă, urmează acești pași:\n1. Pregătește burtă de vită. 2. Pregătește morcovi. 3. Pregătește țelină. 4. Pregătește pătrunjel. 5. Pregătește usturoi. 6. Pregătește smântână. 7. Pregătește ouă. 8. Pregătește oțet. 9. Pregătește leuștean. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory, sour"
+        ]
+    },
+    {
+        "recipe_title": "Papanași cu smântână",
+        "category": "romanian",
+        "ingredients": [
+            "brânză de vaci",
+            "ouă",
+            "făină",
+            "griș",
+            "zahăr",
+            "smântână",
+            "dulceață de afine sau căpșuni"
+        ],
+        "num_ingredients": 7,
+        "directions": "Pentru a prepara Papanași cu smântână, urmează acești pași:\n1. Pregătește brânză de vaci. 2. Pregătește ouă. 3. Pregătește făină. 4. Pregătește griș. 5. Pregătește zahăr. 6. Pregătește smântână. 7. Pregătește dulceață de afine sau căpșuni. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 48,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Mămăligă cu brânză și ou",
+        "category": "romanian",
+        "ingredients": [
+            "mălai",
+            "apă",
+            "sare",
+            "brânză telemea",
+            "ouă",
+            "smântână (opțional)"
+        ],
+        "num_ingredients": 6,
+        "directions": "Pentru a prepara Mămăligă cu brânză și ou, urmează acești pași:\n1. Pregătește mălai. 2. Pregătește apă. 3. Pregătește sare. 4. Pregătește brânză telemea. 5. Pregătește ouă. 6. Pregătește smântână (opțional). Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Salată de vinete",
+        "category": "romanian",
+        "ingredients": [
+            "vinete",
+            "ceapă",
+            "ulei",
+            "sare",
+            "piper",
+            "zeamă de lămâie (opțional)"
+        ],
+        "num_ingredients": 6,
+        "directions": "Pentru a prepara Salată de vinete, urmează acești pași:\n1. Pregătește vinete. 2. Pregătește ceapă. 3. Pregătește ulei. 4. Pregătește sare. 5. Pregătește piper. 6. Pregătește zeamă de lămâie (opțional). Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 85,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fasole bătută",
+        "category": "romanian",
+        "ingredients": [
+            "fasole boabe",
+            "ceapă",
+            "usturoi",
+            "ulei",
+            "sare",
+            "piper"
+        ],
+        "num_ingredients": 6,
+        "directions": "Pentru a prepara Fasole bătută, urmează acești pași:\n1. Pregătește fasole boabe. 2. Pregătește ceapă. 3. Pregătește usturoi. 4. Pregătește ulei. 5. Pregătește sare. 6. Pregătește piper. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pâine de casă cu maia",
+        "category": "romanian",
+        "ingredients": [
+            "făină",
+            "apă",
+            "maia",
+            "sare"
+        ],
+        "num_ingredients": 4,
+        "directions": "Pentru a prepara Pâine de casă cu maia, urmează acești pași:\n1. Pregătește făină. 2. Pregătește apă. 3. Pregătește maia. 4. Pregătește sare. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Tocăniță de vită",
+        "category": "romanian",
+        "ingredients": [
+            "carne de vită",
+            "cartofi",
+            "ceapă",
+            "morcovi",
+            "ardei",
+            "roșii",
+            "frunză de dafin",
+            "cimbru",
+            "sare",
+            "piper"
+        ],
+        "num_ingredients": 10,
+        "directions": "Pentru a prepara Tocăniță de vită, urmează acești pași:\n1. Pregătește carne de vită. 2. Pregătește cartofi. 3. Pregătește ceapă. 4. Pregătește morcovi. 5. Pregătește ardei. 6. Pregătește roșii. 7. Pregătește frunză de dafin. 8. Pregătește cimbru. 9. Pregătește sare. 10. Pregătește piper. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 75,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Plăcintă cu mere",
+        "category": "romanian",
+        "ingredients": [
+            "mere",
+            "făină",
+            "zahăr",
+            "ouă",
+            "unt",
+            "scorțișoară",
+            "praf de copt"
+        ],
+        "num_ingredients": 7,
+        "directions": "Pentru a prepara Plăcintă cu mere, urmează acești pași:\n1. Pregătește mere. 2. Pregătește făină. 3. Pregătește zahăr. 4. Pregătește ouă. 5. Pregătește unt. 6. Pregătește scorțișoară. 7. Pregătește praf de copt. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Mici (mititei) de casă",
+        "category": "romanian",
+        "ingredients": [
+            "carne de vită și porc",
+            "usturoi",
+            "cimbru",
+            "boia",
+            "sare",
+            "piper",
+            "bicarbonat"
+        ],
+        "num_ingredients": 7,
+        "directions": "Pentru a prepara Mici (mititei) de casă, urmează acești pași:\n1. Pregătește carne de vită și porc. 2. Pregătește usturoi. 3. Pregătește cimbru. 4. Pregătește boia. 5. Pregătește sare. 6. Pregătește piper. 7. Pregătește bicarbonat. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 55,
+        "health_level": "moderate",
+        "tastes": [
+            "savory, spicy"
+        ]
+    },
+    {
+        "recipe_title": "Crap la cuptor cu legume",
+        "category": "romanian",
+        "ingredients": [
+            "crap",
+            "cartofi",
+            "ceapă",
+            "morcovi",
+            "roșii",
+            "usturoi",
+            "zeamă de lămâie",
+            "pătrunjel",
+            "sare",
+            "piper",
+            "ulei de măsline"
+        ],
+        "num_ingredients": 11,
+        "directions": "Pentru a prepara Crap la cuptor cu legume, urmează acești pași:\n1. Pregătește crap. 2. Pregătește cartofi. 3. Pregătește ceapă. 4. Pregătește morcovi. 5. Pregătește roșii. 6. Pregătește usturoi. 7. Pregătește zeamă de lămâie. 8. Pregătește pătrunjel. 9. Pregătește sare. 10. Pregătește piper. 11. Pregătește ulei de măsline. Amestecă ingredientele și gătește conform metodei tradiționale.",
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    }
+]

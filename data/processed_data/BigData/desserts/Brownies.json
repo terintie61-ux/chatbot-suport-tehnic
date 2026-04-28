@@ -1,0 +1,623 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Apple Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 cup brown sugar",
+            "1 cup white sugar",
+            "⅔ cup butter",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "2 cups all-purpose flour",
+            "½ teaspoon salt",
+            "½ cup peeled and chopped Granny Smith apples",
+            "½ cup chopped walnuts (Optional)",
+            "1 tablespoon powdered sugar, or to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan.",
+            "Beat brown sugar, white sugar, butter, eggs, and vanilla extract in a bowl with an electric mixer until creamy. Add flour and salt; mix well. Stir in apples and walnuts. Pour into the prepared pan.",
+            "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, 30 to 35 minutes. Let blondies cool completely, 20 to 30 minutes. Dust with powdered sugar."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Cherry Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1/3 cup vegetable oil",
+            "1/4 cup water",
+            "1 large egg",
+            "1 teaspoon almond extract (",
+            "1 (18- ounce) packagebrownie mix, such as brownie mix, such as",
+            "1 cup fresh dark sweet cherries,",
+            "1/3 cup pecans"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Line an 8x8-inch pan with parchment paper, leaving an overhang on two sides for easy removal, and spray with cooking spray.",
+            "Combine oil, water, egg, and vanilla extract in a large bowl. Stir in brownie mix until well combined. Gently fold in cherries and pecan nuts. Spread out batter evenly in the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, and the edges start to pull away from the sides of the pan, 44 to 48 minutes.",
+            "Cool completely in the pan. Lift out of the pan using the parchment paper, cut, and serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Malted Milk Ball Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1/2 cup butter,",
+            "3 ounces unsweetened chocolate",
+            "1/2 cup flour",
+            "2 tablespoons malted milk powder",
+            "1/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1 cup sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 1/4 cups malted milk balls",
+            "1/3 cup milk chocolate chips and/or white chocolate chips",
+            "sprinkles,"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8-inch square baking pan with parchment paper, extending over the edges of pan.",
+            "Melt butter and chocolate in a medium saucepan over low heat. Remove from heat; let cool 10 minutes.",
+            "Whisk together flour, malted milk powder, baking soda, and salt in a small bowl.",
+            "Stir sugar into melted chocolate mixture. Add eggs, one at a time, beating well with a wooden spoon. Stir in vanilla. Stir in flour mixture until combined. Stir in 3/4 cup chopped malted milk balls. Spread batter in prepared pan.",
+            "Bake in the preheated oven until center is set, about 30 minutes. Immediately sprinkle with milk chocolate chips and remaining 1/2 cup chopped malted milk balls; gently press into brownies. Cool in the pan on a wire rack. Use parchment to lift brownies from pan to a cutting board. Cut into 9 brownies. Garnish with sprinkles and additional chopped malted milk balls."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Blackberry Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 1/3 cups blackberries",
+            "1/2 cup unsalted butter,",
+            "1 cup white sugar",
+            "1/2 teaspoon salt",
+            "1 tablespoon lemon zest",
+            "1 tablespoon fresh lemon juice",
+            "1/2 teaspoon vanilla extract",
+            "1 cup plus 2 tablespoons all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1/2 teaspoon baking powder"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "Place frozen blackberries in a microwave-safe bowl. Microwave until blackberries are thawed, about 2 minutes. Do not drain.",
+            "In a large bowl, beat butter, sugar, and salt with an electric mixer until light and fluffy, about 3 minutes. Add in blackberries and their juices, lemon zest, lemon juice, and vanilla and beat until blackberries are broken down and incorporated, about 3 minutes. Mixture will still look slightly curdled. Mix in flour, cornstarch, and baking powder on low speed until combined.",
+            "Pour batter into the prepared pan and spread into an even layer.",
+            "Bake in the preheated oven until bars are puffed, and feel almost set, but still soft in the middle 30 to 35 minutes. Remove from the oven, and allow the bars to cool completely in the pan, about 20 minutes.",
+            "For glaze, whisk confectioner's sugar, salt, lemon juice, and heavy cream together until smooth; add lemon juice or heavy cream, a little at a time, as needed for a pourable consistency. Pour glaze over cooled bars and spread into an even layer. Allow glaze to set for about 15 minutes; lift bars from the pan using the parchment overhang. Cut into 16 servings."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Zucchini Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 ½ cups white sugar",
+            "½ cup vegetable oil",
+            "2 teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "½ cup unsweetened cocoa powder",
+            "1 ½ teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 cups shredded zucchini",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking pan.",
+            "Mix sugar, oil, and 2 teaspoons vanilla together in a large bowl until well blended. Combine flour, 1/2 cup cocoa, baking soda, and salt together in a separate bowl; stir into sugar mixture.",
+            "Fold in zucchini and walnuts; spread batter evenly into the prepared pan.",
+            "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, about 25 to 30 minutes. Let cool, about 20 minutes.",
+            "Meanwhile, make the frosting: Whisk 6 tablespoons of cocoa and butter in a pan over medium-low heat until smooth and glossy; set aside to cool.",
+            "Blend confectioners' sugar, milk, and 1/2 teaspoon vanilla together; stir into cooled cocoa mixture. Spread over cooled brownies before cutting into squares.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chickpea Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 (15-ounce) can chickpeas, rinsed and drained",
+            "1/2 cup creamy peanut butter",
+            "1/2 cup packed brown sugar",
+            "1/2 cup all purpose flour",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1/2 cup semisweet chocolate chips",
+            "2 tablespoons semisweet chocolate chips",
+            "1/4 teaspoon sea salt"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch baking pan with parchment paper.",
+            "Spread dough evenly in prepared pan. Top with remaining 2 tablespoons chocolate chips.",
+            "Bake until a toothpick inserted into the center comes out clean, 25 to 28 minutes.",
+            "Sprinkle with flaky sea salt",
+            "Cool in pan on a wire rack 30 minutes. Remove from pan and cool completely on the wire rack, 15 minutes. Cut in squares."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Tiramisu Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1/2 cup unsalted butter,",
+            "1/2 cup light brown sugar",
+            "1/4 cup white sugar",
+            "2 tablespoons espresso powder",
+            "1/2 teaspoon salt",
+            "1 extra-large egg,",
+            "2 teaspoons vanilla extract",
+            "1 tablespoon coffee liqueur",
+            "1 1/4 cups all-purpose flour",
+            "1/2 teaspoon baking soda"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a large bowl, whisk together melted butter, brown sugar, white sugar, espresso powder, and salt until thoroughly combined. Add in egg, 2 teaspoons vanilla, and coffee liqueur and whisk until mixture is combined and lightens in color slightly, about 1 minute. Whisk in flour and baking soda until just combined. Pour batter into the prepared pan and spread into an even layer.",
+            "Bake in the preheated oven until the bars begin to slightly pull away from the edges of the pan, 20 to 25 minutes. Remove from oven and allow bars to cool completely in the pan.",
+            "For frosting, beat butter in a bowl with an electric mixer until smooth. Add confectioner's sugar, vanilla, and salt and beat until completely smooth and incorporated. Add heavy cream; beat for another 2 minutes. Add mascarpone, and mix on low speed until just combined.",
+            "Spread frosting evenly over the cooled bars. Sprinkle cocoa powder evenly over the top of frosting. Refrigerate bars to firm up frosting, about 30 minutes. Remove bars from pan, cut into 16 bars, and serve."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Best Gluten Free Brownies Ever...Seriously",
+        "category": "Brownies",
+        "ingredients": [
+            "½ cup chopped walnuts, or to taste (Optional)",
+            "6 ounces semisweet chocolate chips",
+            "1 teaspoon unsweetened cocoa powder",
+            "¼ cup tapioca flour",
+            "¼ cup sorghum flour",
+            "¼ cup teff flour",
+            "⅓ cup unsweetened cocoa powder",
+            "1 teaspoon xanthan gum",
+            "1 pinch salt",
+            "½ cup butter, room temperature",
+            "1 cup white sugar",
+            "2 large eggs, beaten",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x9-inch baking pan.",
+            "Toss walnuts and chocolate chips with 1 teaspoon cocoa powder in a bowl until well coated; set aside. Mix tapioca flour, sorghum flour, teff flour, 1/3 cup cocoa powder, xanthan gum, and salt together in a separate bowl.",
+            "Beat butter and sugar together in a separate large bowl until creamy and lighter in color. Stir in eggs and vanilla extract.",
+            "Gradually add flour mixture to butter mixture until fully incorporated. Fold in nuts and chocolate chips.",
+            "Spread batter into the prepared baking pan.",
+            "Bake in the preheated oven until the top is dry and the edges have started to pull away from the sides of the pan, about 25 minutes."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Deviled Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 tablespoon butter",
+            "2 tablespoons light brown sugar",
+            "1 rounded tablespoon Gochujang chili paste,"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x9 cake pan and line the bottom with parchment paper.",
+            "For the sweet and spicy chili topping, combine butter, brown sugar, and Gochujang in a small bowl, and mix thoroughly into a smooth paste. Set aside at room temperature until needed.",
+            "For the blondie batter, combine flour, baking powder, and salt in a bowl; mix thoroughly to combine. Set aside.",
+            "Combine white sugar, brown sugar, eggs, and vanilla extract in a second bowl. Using an electric mixer beat until smooth and thick. Pour in melted butter, and beat until batter is smooth. Fold in macadamia nuts and flour mixture using a spatula, carefully stirring and folding just until the flour disappears. Transfer batter into the prepared cake pan and smooth out the top.",
+            "Transfer chili mixture on top in 12 evenly spaced dollops. Use the tip of a knife to make a flame design out of each dollop by running the knife in a few different dirctions. Make sure to push some of the chili mixture down into the batter as well. When done, the surface should have about a 50/50 ratio between red and blond streaks. Tap pan on the counter a few times.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 35 minutes.",
+            "Transfer to a wire rack and cool completely before removing brownies from pan. Cut into 9 brownies. For best results, serve chilled."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cinnamon Roll Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1/4 cup light brown sugar",
+            "1 tablespoon ground cinnamon"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "For filling: in a small bowl, mix brown sugar and cinnamon together until thoroughly combined. Set aside.",
+            "For blondies: Whisk melted butter, white sugar, brown sugar, vanilla, salt, and nutmeg until thoroughly combined. Add in egg and egg yolk and mix until thoroughly combined. Add in flour and baking soda and mix until just incorporated.",
+            "Spread half the batter into an even layer in the prepared pan (it will be a somewhat thin layer). Sprinkle cinnamon-sugar mixture evenly over the batter. Place dollops of remaining batter over the cinnamon-sugar layer, and carefully spread into an even layer to cover cinnamon-sugar completely.",
+            "Bake in the preheated oven until bars begin to pull away from the sides of the pan, are puffed in the middle, and golden brown on top, 25 to 30 minutes. Allow bars to cool completely in the pan.",
+            "For glaze: beat cream cheese, powdered sugar, vanilla and salt together with an electric mixer until completely smooth. Add in heavy cream and beat until smooth. If glaze is too thick, add more heavy cream a small amount at a time; if glaze is too thin, add more powdered sugar until desired consistency is reached.",
+            "Pour glaze onto cooled bars and spread into an even layer. Cut into 16 bars."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Espresso Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1/2 cup all-purpose flour",
+            "2 tablespoons espresso powder",
+            "1/8 teaspoon baking powder",
+            "1/8 teaspoon salt",
+            "1 cup white sugar",
+            "1/2 cup butter",
+            "2 large eggs",
+            "2 ounces baking chocolate",
+            "1/2 teaspoon vanilla extract",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease an 11x7-inch baking pan. Sift flour, espresso powder, baking powder, and salt together in a bowl.",
+            "Beat sugar and butter together in a large bowl with an electric mixer until light and fluffy. Beat in eggs until smooth batter forms; beat in chocolate and vanilla extract. Stir flour mixture in just until incorporated; fold in walnuts. Spread batter into prepared pan.",
+            "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, 35 to 40 minutes. Cool completely before cutting."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Pecan Pie Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 cup white sugar",
+            "7/8 cup cocoa powder (3/4 cup plus 2 tablespoons)",
+            "1/2 teaspoon kosher salt",
+            "10 tablespoons butter",
+            "1 teaspoon vanilla extract",
+            "2 large eggs",
+            "1/2 cup all-purpose flour"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Line an 8x8-inch baking pan with enough parchment to overhang on all sides, and oil the parchment.",
+            "To make brownie batter, combine white sugar, cocoa powder, kosher salt, and 10 tablespoons melted butter in a mixing bowl. Mix with an electric hand mixer or whisk until combined. The mixture will look grainy, but that's okay.",
+            "Add 1 teaspoon vanilla and 1 egg, and mix with a whisk or electric hand mixer until combined. Again, the mixture will look grainy. Add the second egg, and continue mixing on high speed until a smooth, thick, glossy batter is formed.",
+            "Add flour and mix on low speed until flour just disappears. Use a spatula to mix in any flour from the side of the bowl; spread batter evenly into the prepared pan. Tap pan gently on the counter to level the brownie base.",
+            "Bake brownie base for 20 minutes. Remove to cool on a wire rack while making pecan pie filling.",
+            "Increase oven temperature to 350 degrees F (180 degrees C).",
+            "For pecan pie filling, combine brown sugar, salt, 1 teaspoon vanilla, corn syrup, 2 eggs, and melted salted butter in a bowl; whisk until smooth. Stir in pecans; pour filling over brownie base and spread evenly; tap pan gently on counter to level the filling.",
+            "Bake in the preheated oven until pecan pie filling is almost fully set, about 1 hour. If dish is shaken gently from side to side, there will be a very slight jiggle in the center.",
+            "Let cool completely, about 30 minutes. For best results, cover and chill before cutting. Lift brownies from the dish using parchment overhang. Cut into 16 2x2-inch squares."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Maple Pecan Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "2 cups all purpose flour",
+            "1 teaspoon salt",
+            "1 teaspoon baking powder",
+            "1/4 teaspoon baking soda",
+            "2/3 cup unsalted butter",
+            "1 1/4 cups brown sugar",
+            "1/2 cup maple syrup",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "1 1/2 cups pecans, toasted and chopped, divided"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Line an 8x8-inch baking pan with parchment paper, extending the paper over the sides.",
+            "In a large bowl whisk together flour, salt, baking powder, and baking soda; set aside.",
+            "In a medium saucepan combine butter, brown sugar, andmaple syrup. Cook and stir over medium heat until melted and smooth,about 6 minutes. Remove from heat; let cool for 10 minutes.",
+            "Stir eggs and vanilla into the butter mixture.",
+            "Stir butter mixture into flour mixture.",
+            "Fold in 1 1/4 cups of the pecans.",
+            "Spread batter in prepared pan.",
+            "Sprinkle remaining 1/4 cup pecans over the top. Bake until set, 35 to 40 minutes. The internal temperature should read 200 degrees F ( (93 degrees C).",
+            "Cool for 10 minutes on a wire rack before lifting from pan with the parchment paper. Cool completely on a wire rack. Cut into bars for serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Maple Blondies",
+        "category": "Brownies",
+        "ingredients": [
+            "1/2 cup unsalted butter, melted and cooled",
+            "1/2 cup maple syrup",
+            "1/4 cup dark brown sugar",
+            "1 large egg, at room temperature",
+            "1 teaspoon extract",
+            "1 teaspoon vanilla extract",
+            "1 1/4 cups all-purpose flour",
+            "1/2 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "1/8 teaspoon ground cinnamon",
+            "1/8 teaspoon ground nutmeg"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "In a large bowl, whisk together melted butter, 1/2 cup maple syrup, brown sugar, egg, 1 teaspoon maple extract, and vanilla extract until thoroughly combined. Add in flour, baking soda, 1/2 teaspoon salt, cinnamon, and nutmeg, and mix until combined.",
+            "Pour batter into prepared pan and smooth into an even layer. Bake until bars feel just set, 15 to 20 minutes. Remove to cool on a wire rack for about 15 minutes.",
+            "Meanwhile, make the glaze. Whisk together confectioner's sugar, 2 tablespoons maple syrup, heavy cream, 3/4 teaspoon maple extract, and 1/8 teaspoon salt until smooth.",
+            "After bars have cooled for 15 minutes, pour glaze evenly over bars. Allow glaze to set, and bars to cool completely. Cut into 16 bars."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Guinness Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "cooking spray",
+            "1 bottle Guinness",
+            "3/4 cup unsalted butter",
+            "3/4 cup granulated sugar",
+            "1 1/2 cups semi sweet chocolate chips",
+            "3 large eggs, at room temperature, lightly beaten",
+            "1 teaspoon vanilla extract",
+            "1 cup all purpose flour",
+            "1/2 teaspoon kosher salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x9-inch square baking pan with cooking spray and line with parchment paper, leaving a 2-inch overhang on one side.",
+            "Heat Guinness in a medium saucepan over high heat until boiling. Skim any foam from the top. Reduce to a simmer over medium-low heat and cook until liquid has reduced to 1/2 cup, 12 to 15 minutes. Transfer to a heatproof bowl or container. Set aside.",
+            "Heat butter in the same saucepan over medium heat until melted, about 4 minutes. Add sugar and cook, whisking constantly, until mixture is thickened and sugar is mostly dissolved, about 2 minutes.",
+            "Remove from heat, add chocolate, and whisk together until smooth, about 1 minute. (Mixture will be slightly grainy.) Gradually add reduced Guinness, whisking constantly, until batter is glossy and dark, about 2 minutes.",
+            "Transfer chocolate mixture to a large bowl, cool slightly, stirring occasionally, about 10 minutes. Add eggs slowly, stirring to combine after each egg, about 30 seconds. Add vanilla, stirring until combined, about 30 seconds.",
+            "Combine flour and salt in a medium bowl and whisk together. In two batches, gently stir flour mixture into chocolate mixture until just combined or until no clumps remain, about 1 minute. Pour batter evenly into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 25 to 30 minutes. Remove from the oven and let cool completely, about 1 hour. When cool, remove from pan and place on a cutting board, slice into squares and serve. Store in the refrigerator in an airtight container for up to one week."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mocha Cookie Bars",
+        "category": "Brownies",
+        "ingredients": [
+            "1 tablespoon instant espresso powder",
+            "1 tablespoon strong brewed coffee",
+            "1 cup all-purpose flour",
+            "¼ cup unsweetened cocoa powder",
+            "½ teaspoon cream of tartar",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "¼ teaspoon ground cinnamon",
+            "½ cup unsalted butter, softened",
+            "½ cup white sugar",
+            "¼ cup firmly packed brown sugar",
+            "1 large egg, at room temperature",
+            "2 teaspoons vanilla extract"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "Stir espresso powder and coffee together in a small bowl until espresso powder is completely dissolved.",
+            "Whisk flour, cocoa, cream of tartar, baking soda, salt, and 1/4 teaspoon cinnamon together in a bowl; set aside.",
+            "Beat butter, 1/2 cup white sugar, and brown sugar with an electric mixer together until light and fluffy in a bowl. Beat in espresso mixture, egg, and vanilla until well combined. Stir in flour mixture; mix until a dough just begins to form. Press dough firmly and evenly into the prepared pan using lightly floured hands.",
+            "Whisk 1 tablespoon white sugar and remaining 1/2 teaspoon cinnamon together in a small bowl; sprinkle sugar mixture evenly over the dough.",
+            "Bake in the preheated oven just until the dough in the center of the pan feels barely set, 20 to 23 minutes.",
+            "Allow cookies to cool in the pan for 10 minutes. Use the overhanging parchment to lift cookies out to a wire rack; cool completely before cutting into bars."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "½ cup butter",
+            "1 cup white sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "⅓ cup unsweetened cocoa powder",
+            "½ cup all-purpose flour",
+            "¼ teaspoon salt",
+            "¼ teaspoon baking powder"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.",
+            "Melt 1/2 cup butter in a large saucepan. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, flour, salt, and baking powder. Spread batter into prepared pan.",
+            "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, about 25 to 30 minutes. Let cool briefly before frosting.",
+            "To make the chocolate frosting: Combine softened butter, confectioners' sugar, 3 tablespoons cocoa, honey, and 1 teaspoon vanilla extract in a bowl. Stir until smooth. Frost brownies while they are still warm."
+        ],
+        "healthiness_score": 28,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Lemon Cake Mix Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 (15.5 ounce) box lemon cake mix",
+            "1/3 cup canola oil",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 1/2 to 2 cups confectioners sugar, or as needed",
+            "1 tablespoon lemon zest",
+            "1 to 2 tablespoons lemon juice",
+            "1/4 teaspoon kosher salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Lightly grease an 11x7-inch baking dish.",
+            "Mix lemon cake mix, canola oil, eggs, and vanilla extract in a bowl until well combined. Spread the mixture in the prepared dish in an even layer.",
+            "Bake in the preheated oven until a toothpick comes out clean when inserted into the center, 16 to 18 minutes. Allow brownies to cool for about 20 minutes.",
+            "Meanwhile, combine 1 1/2 cups confectioner's sugar, lemon zest, and lemon juice in a bowl; whisk until smooth; add more sugar as needed for a smooth, spreadable glaze. Stir in salt.",
+            "Spread lemon glaze evenly over brownies and let stand until completely cooled. Refrigerate until ready to serve; cut into 12 squares."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Strawberry Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 (15.5 ounce) box strawberry cake mix",
+            "1/2 cup unsalted butter",
+            "2 large eggs",
+            "2 easpoons vanilla extract",
+            "3 strawberries, strawberries,",
+            "1 1/2 cups confectioner's sugar",
+            "1/4 teaspoon kosher salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Lightly grease an 11x7-inch baking dish.",
+            "Mix cake mix, melted butter, eggs, and 1 teaspoon vanilla extract in a bowl until well combined. Spread mixture into an even layer in the prepared baking dish.",
+            "Bake in the preheated oven until a toothpick comes out clean when inserted into the center, 16 to 18 minutes. Allow brownies to cool in the pan for about 20 minutes.",
+            "Meanwhile, puree strawberries and remaining teaspoon of vanilla extract in a food processor or with an immersion blender until smooth.",
+            "Stir strawberry mixture into confectioner's sugar until smooth, adding extra sugar as necessary to reach the consistency of a glaze. Add salt and stir.",
+            "Spread strawberry glaze evenly over the cooled brownies and let stand until completely cooled. Cut into 12 squares, or refrigerate until ready to serve."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Blackberry Cheesecake Brownies",
+        "category": "Brownies",
+        "ingredients": [
+            "1 ½ cups blackberries",
+            "1/4 cup white sugar",
+            "1 tablespoon fresh lemon juice",
+            "1/4 teaspoon lemon zest",
+            "1 teaspoon cornstarch",
+            "1 tablespoon water"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "To make the blackberry sauce; Combine frozen blackberries, sugar, lemon juice, and lemon zest in a small saucepan set over medium-low heat. Cook, stirring often, until berries fall apart, 8 to 10 minutes. Remove mixture from heat, and pour into a fine mesh sieve set over a bowl. Use the back of a wooden spoon or spatula to press berry mixture through the sieve, extracting as much juice as possible. Discard seeds. Pour sauce back into saucepan and bring to a simmer over low heat.",
+            "Stir cornstarch and water together in a small bowl until thoroughly combined; stir cornstarch slurry into blackberry sauce and continue to cook, stirring constantly, until slightly thickened, 1 to 2 minutes. Remove from heat, and allow blackberry sauce to cool completely, about 20 minutes. The sauce can be refrigerated to speed up cooling.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "To make the brownie layer; Whisk melted butter, brown sugar, and salt together in a large bowl until thoroughly combined. Whisk in egg, egg yolk, and vanilla until thoroughly incorporated. Add in cocoa powder, flour, and baking soda and stir until just combined. Batter will be somewhat thick. Spread brownie batter into the prepared pan in a smooth, even layer.",
+            "To make the cheesecake layer: Beat cream cheese, white sugar, salt, and nutmeg together in a bowl with an electric mixer until smooth and creamy. Add in egg white, lemon juice, and vanilla and mix until thoroughly incorporated. Pour in heavy cream and mix until combined. Pour cheesecake layer over brownie layer and smooth into an even layer.",
+            "Place dollops of the cooled blackberry sauce over the cheesecake layer. Use a knife to swirl only the cheesecake layer and blackberry sauce together; taking care not to go into the brownie layer. Swirl as many or as few times as needed to get the desired marbled effect.",
+            "Bake in the preheated oven until the center of the bars are puffed and mostly set, 55 to 60 minutes. The edges will bake up taller than the center, and will begin to turn golden brown when they are done. Allow bars to cool to room temperature in the pan, then refrigerate for at least 4 hours to overnight. Cut into 16 bars before serving."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

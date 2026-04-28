@@ -1,0 +1,631 @@
+[
+    {
+        "Main_category": "bakery"
+    },
+    {
+        "recipe_title": "Apple Danish",
+        "category": "Danishes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons packed brown sugar",
+            "1 teaspoon salt",
+            "1 ½ teaspoons instant yeast",
+            "¾ cup hot water",
+            "2 tablespoons butter at room temperature"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "To make the pastry: Combine 1 cup flour, 2 tablespoons brown sugar, 1 teaspoon salt, and instant yeast in a mixing bowl. Add water and room temperature butter; beat for 1 minute. Stir in remaining cup of flour and mix well. Turn dough out onto a lightly floured surface and knead until smooth and elastic, about 10 minutes. Shape dough into a ball and transfer to an oiled bowl, turning to coat the surface of the dough. Cover the bowl with plastic wrap and let the dough rise until doubled in bulk, about 1 hour.",
+            "Meanwhile, make the filling: Place chopped apples and 3 tablespoons butter in a medium saucepan. Combine 1/2 cup brown sugar, 1 ½ tablespoons flour, 1/4 teaspoon salt, cinnamon, and nutmeg and mix well; add mixture to the saucepan; bring to a boil over medium-high heat and then reduce heat to a simmer. Cook until apples are tender, about 5 minutes. Remove from heat and allow filling to cool.",
+            "Transfer Danish pastry dough to a floured surface and punch down. Let dough rest, covered, for 15 minutes. Roll dough out into a 13 x 8-inch rectangle. Place dough on a greased or parchment-lined baking sheet.",
+            "Turn the baking sheet so that you face the short side of the dough. Spread apple filling down the center third of the dough. With a sharp paring knife, make cuts in the dough along the right side, starting each cut about 1/4 inch from the apple filling. Cut to the edge of the dough strip, with each cut angled to about 4 o'clock. Each strip of dough should be about 1-inch thick. Repeat on the left side of the dough, angling the cuts to 8 o'clock.",
+            "Starting at the top, fold the dough strips across the apple filling, alternating left and right. The pastry will look like a long braid. Pinch the top and bottom ends of the braid to seal in the filling. Cover the pastry and let it rise at room temperature until the dough is puffy, 30 to 40 minutes.",
+            "Preheat an oven to 375 degrees F (190 degrees C). Bake the braid for 20 minutes, covering it with aluminum foil during the last 10 minutes of baking to prevent over-browning. Remove the pastry from the oven and allow it to cool.",
+            "To make the glaze: Heat 2 tablespoons of butter in a saucepan over medium heat. Swirl the pan occasionally and cook until the milk solids turn brown and give off a nutty fragrance, about 5 minutes. Remove from heat and transfer to a bowl to cool slightly. Stir in confectioners' sugar and vanilla. Mix in milk a teaspoon at a time until glaze is thin enough to drizzle. Decorate the Danish braid with glaze."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shortcut Cherry Danish",
+        "category": "Danishes",
+        "ingredients": [
+            "1 (8 ounce) crescent dough sheet",
+            "4 ounces reduced-fat cream cheese",
+            "1/4 cup white sugar",
+            "1 1/2 teaspoons vanilla extract, divided",
+            "1/2 cup cherry pie filling",
+            "1/2 cup confectioners sugar",
+            "3 tablespoons milk, or as needed"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment.",
+            "Without unrolling, slice crescent dough sheet into 10 equal portions. Place crescent dough rounds onto the prepared baking sheet. Press the back of a tablespoon into the center of each roll to make an indentation.",
+            "For filling, add cream cheese, white sugar, and 1 teaspoon vanilla to a bowl, and beat with an electric mixer until smooth. Dollop filling into the indentations in the rolls.",
+            "Bake in the preheated oven for 8 minutes.",
+            "Remove Danishes from the oven. Add a spoonful of cherry pie filling containing 4 or 5 cherries into each Danish.",
+            "Return to the oven; bake until golden, about 9 minutes more.",
+            "To glaze, whisk confectioner's sugar, remaining 1/2 teaspoon vanilla, and enough milk together to form a pourable glaze; drizzle over cherry-topped Danishes while still warm and enjoy."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Danish Kringle",
+        "category": "Danishes",
+        "ingredients": [
+            "2 cups all-purpose flour, plus more as needed",
+            "1/4 teaspoon salt",
+            "1 cup cold butter, cubed",
+            "1 cup sour cream"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the pastry: Place flour and salt in a food processor and pulse to combine. Add butter and pulse until pieces are pea-sized.",
+            "Add sour cream and pulse to form a sticky dough. Cover dough tightly with plastic wrap and refrigerate for 8 hours, or overnight.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a large baking sheet with parchment paper.",
+            "To make the filling: Place egg yolk in a medium bowl; set egg white aside for egg wash.",
+            "Add cream cheese, brown sugar, and cinnamon; beat with an electric mixer until smooth.",
+            "Stir in 1 cup toasted walnuts until well combined.",
+            "Divide chilled dough in half.",
+            "Roll each piece of dough into a 10x12-inch rectangle on a lightly floured surface.",
+            "Working from a short side, spoon 1/2 of the filling along the center four inches of each rectangle.",
+            "On both sides of the filling, cut the unfilled pastry into eight horizontal strips. Working top to bottom, fold each strip over the filling, alternating sides. Press to seal ends and tuck under; arrange braids on the prepared baking sheet.",
+            "Beat egg white and 1 tablespoon water together until smooth; brush evenly over each braid. Bake kringles in the preheated oven until golden brown, about 30 to 35 minutes. Cool on the baking sheet for 30 minutes.",
+            "While pastries are cooling, make glaze: Mix together confectioners' sugar and 2 tablespoons water in a small bowl until smooth and thin enough to drizzle. Spoon or drizzle glaze over cooled pastries; sprinkle with remaining 1/4 cup of walnuts."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Cream Cheese Danish",
+        "category": "Danishes",
+        "ingredients": [
+            "2 (10 ounce) cans refrigerated crescent roll dough",
+            "2 (8 ounce) packages cream cheese, diced",
+            "¾ cup white sugar",
+            "1 ½ teaspoons lemon juice",
+            "1 teaspoon vanilla extract",
+            "2 teaspoons sour cream",
+            "1 cup confectioners' sugar",
+            "1 tablespoon milk",
+            "1 tablespoon butter, softened"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking pan.",
+            "Line bottom of baking pan with 1 can of crescent rolls. Pinch all seams together to seal.",
+            "In a large bowl, mix together cream cheese, white sugar, lemon juice, vanilla extract and sour cream. Spread filling on top of rolls. Place second can of rolls on top of filling.",
+            "Bake in preheated oven for 20 to 30 minutes.",
+            "In a small bowl, stir together confectioners' sugar, milk and butter. After Danish has cooled, drizzle with icing."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Danish Almond Puff",
+        "category": "Danishes",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "½ cup butter, softened",
+            "2 tablespoons water",
+            "½ cup butter",
+            "1 cup water",
+            "1 teaspoon almond extract",
+            "3 eggs, beaten",
+            "1 cup all-purpose flour",
+            "1 cup confectioners' sugar",
+            "1 teaspoon almond extract",
+            "1 tablespoon milk, or as needed",
+            "2 tablespoons candy sprinkles"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place 1 cup of flour in a medium bowl. Mix in butter using a fork or a pastry blender. Sprinkle 2 tablespoons of water over, and stir with a fork until dough comes together. Divide into two balls. Pat dough into two long strips on an ungreased baking sheet, about 14 inches long and 3 inches wide. Set aside.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "In a saucepan, combine 1/2 cup of butter and 1 cup of water. Bring to a rolling boil. Add 1 teaspoon of almond extract and remove from the heat. Immediately stir in 1 cup of flour until the mixture pulls away from the sides of the pan. Gradually stir in the eggs until well blended. Divide evenly, and spread over the two crusts on the baking sheet.",
+            "Bake in the preheated oven until golden, about 1 hour. Allow to cool almost to room temperature before frosting.",
+            "To make the frosting, mix together the confectioners' sugar, 1 teaspoon of almond extract and a splash of milk in a small bowl until smooth. Add more milk if necessary to make a pourable glaze. Drizzle over the Danish, and decorate with candy sprinkles if desired."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Swedish Tea Ring",
+        "category": "Danishes",
+        "ingredients": [
+            "1 cup lukewarm milk",
+            "1 egg, beaten",
+            "1 tablespoon butter, room temperature",
+            "3 tablespoons white sugar",
+            "½ teaspoon salt",
+            "3 ¼ cups bread flour",
+            "¾ teaspoon active dry yeast"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "In a bread machine, put milk, egg, butter, sugar, salt, bread flour, and yeast in the order suggested by the manufacturer. Select the Dough cycle and press Start. When dough is mixed, transfer to a greased bowl; cover with plastic wrap and let rise until doubled, about 1 to 1 1/2 hours.",
+            "Grease 2 baking sheets or line them with parchment paper; set aside.",
+            "Divide dough in half. Roll each piece out into rectangles about 12x16 inches. Spread each dough rectangle with 1 tablespoon softened butter. In a small bowl, combine 2 teaspoons ground cinnamon, 3/4 cup light brown sugar, and 1/2 cup raisins.",
+            "Sprinkle cinnamon mixture onto buttered dough. Roll them up jelly-roll fashion, along long side. Pinch edges to seal. Stretch and twist into rings, pinching ends to seal. Place them seam-side down onto prepared baking sheets. Using clean scissors, cut 2/3 way of the way through the loaf at about 1-inch intervals. Spread each cut slightly. you wish to",
+            "[At this point, the dough can be refrigerated: cover dough with greased plastic wrap and refrigerate overnight. The next morning, let pastries come to room temperature for about half an hour before baking as directed in step 7.]",
+            "Alternately, cover each ring with a clean towel or greased plastic wrap and let loaves rise until double, about 40 minutes.",
+            "Arrange two oven racks so that both baking sheets will fit. Preheat oven to 350 degrees F (175 degrees C).",
+            "Bake for 10 minutes in preheated; rotate baking sheets. Bake until rings are light brown and the filling is oozing and bubbling, about 10 minutes more.",
+            "In a small mixing bowl, combine confectioners sugar, almond extract, and milk until icing is desired consistency. Drizzle icing over warm pastries."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Danish Cinnamon Snails",
+        "category": "Danishes",
+        "ingredients": [
+            "1 cup warm milk (110 degrees F/45 degrees C)",
+            "3 (0.6 ounce) blocks fresh yeast",
+            "6 ½ tablespoons butter, room temperature",
+            "2 large eggs",
+            "2 tablespoons white sugar",
+            "½ teaspoon ground cardamom",
+            "¼ teaspoon salt",
+            "4 cups all-purpose flour, or as needed"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Pour warm milk into a bowl; mash in yeast cakes. Mix in butter, eggs, sugar, cardamom, salt, and 3 1/2 cups flour. Use a wooden spoon to mix dough together. If very sticky, add remaining 1/2 cup flour. Cover the bowl; let dough rise for 30 minutes.",
+            "Beat together butter and sugar in a medium bowl until filling is creamy. Stir in cinnamon until combined. Set aside.",
+            "Transfer dough to a floured surface; knead until firm, about 3 minutes. Divide dough in half; roll each half into a 1/2-inch thick rectangle. Spread each rectangle with 1/2 of the filling.",
+            "Stack dough rectangles on top each other, filling-side up. Roll dough into a log starting with edge closest to you. Cut log into 1-inch-thick slices.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper. Alternatively, grease a baking dish or 2 cake pans if you prefer pull-apart rolls.",
+            "Place rolls on the prepared baking sheet about 3 inches apart. If baking pull-apart rolls, arrange in the prepared baking dish or cake pans about 1 inch apart. Let rolls rest at room temperature for 20 minutes.",
+            "Bake rolls in the preheated oven until golden brown, about 10 minutes. Pull-apart rolls will take longer. Reduce the oven temperature to 350 degrees F (175 degrees C). Continue baking until sides are fully set, about 10 minutes more. Cover rolls with foil if browning too quickly."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Babka",
+        "category": "Danishes",
+        "ingredients": [
+            "¾ cup milk",
+            "¼ cup butter",
+            "2 cups bread flour",
+            "2 cups all-purpose flour",
+            "2 teaspoons active dry yeast",
+            "¼ cup white sugar",
+            "¼ cup water (Optional)",
+            "1 large egg",
+            "¾ teaspoon salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "To make the dough: Warm milk and melt butter in a glass or ceramic bowl in the microwave for 30 seconds, or in a saucepan on the stovetop. Combine bread flour, all-purpose flour, yeast, and sugar. Add water, milk-butter mixture, egg, and salt to the dry ingredients and mix well.",
+            "Use the dough hook in a stand mixer on low speed or knead the dough by hand until the dough is smooth and elastic, about 15 minutes. If the dough is too wet, add more bread flour, about 2 tablespoons at a time (up to 8 tablespoons) to make a workable dough; too much flour can make the dough dry. Cover the dough with a damp cloth and let rise until double in size, about 1 to 1 ½ hours.",
+            "Make chocolate filling and streusel while the dough is rising: Stir finely chopped chocolate, cinnamon, and sugar together in a bowl. Cut in chilled butter with a fork.",
+            "To make the streusel: Combine confectioners' sugar and all-purpose flour; cut in chilled butter until the mixture resembles coarse crumbs.",
+            "When the dough has doubled, punch the dough down and cut it into two equal pieces. Loosely shape each piece into a ball. Cover the dough with a damp cloth and let it rest for 10 minutes.",
+            "Roll out one portion of dough on a lightly floured surface to form a 15x4-inch rectangle. Sprinkle with 1/2 of the chocolate filling, roll up to form a long log, and seal the seam. Attach the ends to form a circle and place the ring, seam-side down, on a parchment-lined baking sheet.",
+            "Repeat with the second piece of dough.",
+            "Use a serrated knife or kitchen shears to cut slits at 1-inch intervals around the rings. Cover the rings with damp kitchen towels and let rise until doubled in size, about 30 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Combine egg and water in a small dish and whisk to combine. Brush babkas with egg wash; sprinkle streusel on top. Bake babkas in the preheated oven, rotating the baking sheets to promote even browning, until the bread is a deep golden brown, about 25 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blueberry Turnovers",
+        "category": "Danishes",
+        "ingredients": [
+            "1 (8 ounce) package refrigerated crescent rolls",
+            "½ cup fresh blueberries",
+            "¼ cup confectioners' sugar, divided",
+            "¼ cup prepared vanilla frosting (Optional)"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Roll out crescent dough triangles onto a baking sheet.",
+            "Place 1 tablespoon blueberries on widest end of each triangle; top each group blueberries with 1/2 teaspoon confectioners' sugar. Roll up crescent rolls around blueberries, starting with the wide ends. Pinch both sides to completely seal.",
+            "Bake in the preheated oven until golden, about 12 minutes. Cool on a wire rack for 5 minutes.",
+            "Dust turnovers with remaining confectioners' sugar. Drizzle with vanilla frosting."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Juleskringle (Marzipan Christmas Kringle)",
+        "category": "Danishes",
+        "ingredients": [
+            "½ cup warm milk",
+            "1 tablespoon white sugar",
+            "1 (.25 ounce) envelope active dry yeast",
+            "1 cup heavy cream",
+            "3 ½ cups all-purpose flour",
+            "¼ cup white sugar",
+            "1 teaspoon salt",
+            "1 teaspoon ground cardamom",
+            "½ cup butter, cut into small pieces"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Make the bread: Stir milk and sugar together in a small bowl. Sprinkle yeast over top and let stand for 10 minutes to dissolve. Stir in cream.",
+            "Stir together flour, sugar, salt, and cardamom in a separate bowl. Cut in butter with 2 knives or a pastry blender until texture is coarse and mealy. Add yeast mixture and stir until well blended. Pat into a ball, flatten slightly, and wrap in plastic wrap. Refrigerate for 12 to 24 hours.",
+            "When ready to bake, make the filling: Mix almond paste, almonds, sugar, cinnamon, and almond extract with an electric mixer in a large bowl until evenly blended. It may be crumbly.",
+            "Roll chilled dough into a 2x24-inch rectangle. Spread filling over dough to within 2 inches of each side. Roll up into a tube. Cover the work surface with sugar and roll dough tube into sugar until thoroughly coated.",
+            "Roll and stretch dough tube out into a 40-inch-long rope. Place onto a parchment-lined baking sheet and form into a pretzel shape.",
+            "Brush dough with egg white and sprinkle with almonds. Cover loosely with a towel and let rise for 45 minutes.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bake kringle in the preheated oven until golden brown, 25 to 30 minutes. Cut into slices to serve."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Puff Pastry Bear Claws",
+        "category": "Danishes",
+        "ingredients": [
+            "⅓ cup superfine sugar",
+            "¼ cup unsalted butter, softened",
+            "2 large egg yolks",
+            "¼ teaspoon almond extract",
+            "1 cup ground almonds",
+            "1 tablespoon all-purpose flour",
+            "1 sheet puff pastry, thawed and rolled out into a 16x16-inch square",
+            "1 egg",
+            "1 tablespoon water",
+            "2 tablespoons superfine sugar, or to taste",
+            "2 tablespoons sliced almonds, or to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Beat ⅓ cup superfine sugar and butter together in a bowl with an electric mixer until light and fluffy, about 5 minutes. Add eggs yolks; beat well. Beat in almond extract. Stir in ground almonds and flour until reaches a thick paste-like consistency.",
+            "Cut puff pastry into 8 equal pieces. Place 1 tablespoon almond mixture in lower center of each piece puff pastry. Fold puff pastry over filling; press edges together to seal. Make three ½-inch cuts, equally spaced apart on bottom edge, to make \"claws.\" Transfer pastries to a baking sheet.",
+            "Whisk whole egg and water together in a bowl; brush on each bear claw, then sprinkle with remaining 2 tablespoons superfine sugar and sliced almonds.",
+            "Bake in the preheated oven until puffed and golden brown, 15 to 20 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Swedish Kringles",
+        "category": "Danishes",
+        "ingredients": [
+            "1 cup unsalted butter, divided",
+            "2 cups all-purpose flour, divided",
+            "1 tablespoon water, or as needed",
+            "1 cup water",
+            "3 eggs",
+            "1 teaspoon almond extract",
+            "1 cup confectioners' sugar",
+            "1 tablespoon heavy cream",
+            "1 tablespoon unsalted butter, softened",
+            "2 teaspoons almond extract, divided"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Make the dough: Cut 1/2 cup butter into 1 cup flour using a knife or pastry blender. Add 1 tablespoon water (or as needed) and mix until crumbly, leaving pea-sized chunks. On a floured surface, roll dough out to 3 or 4 inches in width. Place onto a rectangular cookie sheet.",
+            "Make the filling: In a small saucepan over high heat, bring 1 cup water and 1/2 cup butter to a boil. Remove from the heat and stir in remaining 1 cup flour; mix until smooth. Beat in eggs, one at a time, mixing well after each addition. Stir in 1 teaspoon almond extract. Spread filling over dough.",
+            "Bake in the preheated oven for 55 to 60 minutes. The pastry will fall a little as it cools.",
+            "Meanwhile, make the icing: Combine confectioners' sugar, cream, 1 tablespoon butter, and remaining 1 teaspoon almond extract.",
+            "Remove kringle from the oven and immediately spread icing over top."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Raspberry Pain au Chocolat (Raspberry Chocolate Croissants)",
+        "category": "Danishes",
+        "ingredients": [
+            "1 (17.25 ounce) package frozen puff pastry, thawed",
+            "6 tablespoons chocolate hazelnut spread",
+            "3 tablespoons all fruit raspberry jam",
+            "1 egg, beaten",
+            "¼ cup confectioners' sugar for dusting (Optional)"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Unfold puff pastry sheets on a lightly floured surface; cut each sheet into thirds along fold lines. Roll out each dough strip to about 16 inches long; cut strips into thirds.",
+            "Spread about 1 teaspoon hazelnut spread onto one half of 1 rectangle to within ½ inch of edge. Spread about ½ teaspoon raspberry jam over hazelnut spread. Brush edges with egg; fold over other side to enclose the filling. Press edges firmly to seal. Repeat with remaining rectangles, hazelnut spread, and jam. Cut 5 slits across top of each pastry using a sharp knife; place onto baking sheets, spaced 2 inches apart.",
+            "Bake in the preheated oven until golden brown, 18 minutes. Transfer to wire racks to cool, then dust with confectioners' sugar."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gluten Free Danish",
+        "category": "Danishes",
+        "ingredients": [
+            "2 cups gluten-free pancake mix",
+            "¼ cup unsalted butter, room temperature",
+            "2 tablespoons white sugar",
+            "⅔ cup milk",
+            "teaspoon almond extract, divided",
+            "¼ cup raspberry jam",
+            "⅔ cup confectioners' sugar",
+            "2 tablespoons milk, or more as needed",
+            "½ teaspoon vanilla extract"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.",
+            "Combine pancake mix, butter, and sugar in a bowl; stir until crumbly. Stir in 2/3 cup milk and 1/2 teaspoon almond extract until fully incorporated; the dough will be sticky.",
+            "Drop dough by rounded tablespoonfuls onto the prepared baking sheet, spaced about 2 inches apart. Make a shallow indentation in center of each dough ball using the back of a teaspoon. Fill each center with 1 teaspoon jam.",
+            "Bake in the preheated oven until lightly browned, 10 to 12 minutes. Cool.",
+            "Combine confectioners' sugar, 3 tablespoons milk, vanilla extract, and remaining 1/4 teaspoon almond extract; mix until smooth. Drizzle glaze over Danish."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Danish Almond Pastries",
+        "category": "Danishes",
+        "ingredients": [
+            "2 (8 ounce) tubes refrigerated crescent roll dough, divided",
+            "1 (8 ounce) can almond paste",
+            "1 (8 ounce) container mascarpone cheese",
+            "½ cup white sugar",
+            "1 large egg, separated, divided",
+            "2 ¼ ounces sliced almonds",
+            "1 tablespoon white sugar",
+            "½ cup confectioners' sugar",
+            "2 tablespoons water"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a 9x13-inch baking pan with parchment paper.",
+            "Unroll 1 tube crescent roll dough; spread into the bottom of the prepared pan. Seal dough seams to prevent separation.",
+            "Roll almond paste to size of dough in the baking pan; trim with a knife or a pizza cutter. Set aside.",
+            "Beat mascarpone, 1/2 cup white sugar, and egg yolk in a bowl with an electric mixer until well combined and smooth; spread evenly on top of dough in the pan. Place reserved almond paste on top of mascarpone layer.",
+            "Unroll remaining 1 tube crescent roll dough; place on top of almond paste layer ensuring dough completely covers. Seal dough seams.",
+            "Beat egg white in a bowl; brush onto dough top. Sprinkle almonds evenly over dough; sprinkle 1 tablespoon white sugar evenly over almonds.",
+            "Bake in the preheated oven until top is golden brown, 25 to 30 minutes. Cool.",
+            "Meanwhile, whisk confectioners' sugar and water together in a bowl; drizzle over cooled Danish."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cream Cheese Danish Coffeecake",
+        "category": "Danishes",
+        "ingredients": [
+            "4 cups all-purpose flour, or more as needed, divided",
+            "½ cup white sugar",
+            "1 ½ teaspoons active dry yeast",
+            "½ teaspoon salt",
+            "1 cup milk",
+            "½ cup butter",
+            "1 egg"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Combine 1 cup flour, sugar, yeast, and salt in the bowl of a stand mixer.",
+            "Combine 1 cup milk and butter in a 2-quart saucepan over low heat; heat until very warm (120 to 130 degrees F (40 to 54 degrees C)), about 5 minutes.",
+            "Beat milk-butter mixture gradually into flour mixture on low speed. Increase speed to medium; beat for 2 minutes, stopping occasionally to scrape the bowl with a spatula. Beat in 1 cup flour and egg, occasionally scraping the bowl. Switch to the dough hook attachment; mix in remaining 2 cups flour until a soft dough forms.",
+            "Turn dough out on a lightly floured work surface. Knead until smooth and elastic, about 10 minutes. Shape into a ball. Transfer to a greased bowl. Turn over to coat top with grease. Cover and let rise in a warm place until doubled, about 1 hour.",
+            "Punch down dough and turn out on a lightly floured surface. Divide into 2 pieces. Place each piece in a separate bowl. Cover and refrigerate, 2 hours to overnight.",
+            "Combine cream cheese, confectioners' sugar, 1 egg, and lemon juice in the clean bowl of a stand mixer. Beat on low speed until evenly blended. Increase speed to medium; beat until fluffy, about 3 minutes.",
+            "Grease 2 baking sheets. Roll 1 piece of dough into a 12x15-inch rectangle. Transfer to a baking sheet. Repeat with remaining dough.",
+            "Spread cream cheese filling in a 4-inch strip down the center of each rectangle. Cut dough on both sides of the filling into 1-inch-wide strips. Fold strips alternately over the filling to create a braid. Cover braided dough and let rise in a warm, draft-free place until doubled, about 1 hour.",
+            "Preheat oven to 375 degrees F (190 degrees C). Brush tops of braids with 2 tablespoons milk.",
+            "Bake in the preheated oven until golden brown, about 20 minutes. Transfer to a wire rack to cool."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Cheese Danish",
+        "category": "Danishes",
+        "ingredients": [
+            "1 (24 ounce) carton cottage cheese",
+            "3 apples - peeled, cored and thinly sliced",
+            "1 teaspoon lemon juice",
+            "1 (8 ounce) package cream cheese, at room temperature",
+            "½ cup white sugar",
+            "1 egg",
+            "1 teaspoon vanilla extract",
+            "1 (17.5 ounce) package frozen puff pastry, thawed",
+            "3 tablespoons white sugar for decoration"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place the cottage cheese in a strainer lined with cheesecloth or heavy-duty paper towels. Pat dry with paper towels and set aside for 5 to 10 minutes.",
+            "Place apples in a bowl, and sprinkle with lemon juice to prevent browning.",
+            "Combine the cream cheese, drained cottage cheese, 1/2 cup sugar, egg, and vanilla extract in the bowl of an electric mixer, and mix 1 to 2 minutes on high speed, until almost smooth.",
+            "Preheat an oven to 400 degrees F (200 degrees C). Line two baking sheets with parchment paper.",
+            "Cut each of the puff pastry sheets into 9 pieces; you should have 18 total. Roll the pieces out, one at a time, to make 5 x 5-inch squares. To ensure the pastries puff up, avoid using too much pressure or rolling over the edges of the dough.",
+            "Place a square in front of you so that it looks like a diamond. Spoon a generous amount of cheese filling down the middle of each square, leaving 1/4 inch of room at the top and bottom edges. Fan out 4-5 slices of apple down the center of each cheese-filled square. Bring the left and right corners together to meet in the center and pinch to seal.",
+            "Transfer the Danish to a baking sheet and repeat with the remaining pastries. Sprinkle sugar over each bundle and bake in the preheated oven until the pastry is golden brown, about 20 minutes."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Glazed Cheese Danish Squares",
+        "category": "Danishes",
+        "ingredients": [
+            "nonstick cooking spray",
+            "2 (8 ounce) packages cream cheese, softened",
+            "1 cup white sugar",
+            "1 egg",
+            "1 teaspoon vanilla extract",
+            "2 (8 ounce) cans refrigerated crescent roll dough",
+            "½ cup powdered sugar",
+            "1 tablespoon milk"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking pan with cooking spray.",
+            "Combine cream cheese, sugar, egg, and vanilla extract in a large bowl; beat with an electric mixer until smooth and creamy.",
+            "Spread 1 can crescent roll dough onto the bottom of the prepared baking pan. Spread cream cheese mixture over top, and top with remaining can of crescent roll dough.",
+            "Bake in the preheated oven until lightly browned, about 30 minutes. Let cool to room temperature, at least 20 minutes.",
+            "Meanwhile, mix together powdered sugar and milk to make a glaze. Pour glaze on top of cooled Danishes and cut into squares."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Swedish Tea Ring with Pecans",
+        "category": "Danishes",
+        "ingredients": [
+            "1 tablespoon active dry yeast",
+            "¼ cup warm water (110 degrees F/45 degrees C)",
+            "1 lemon, juiced and zested",
+            "1 cup milk",
+            "½ cup margarine, softened",
+            "1 teaspoon salt",
+            "½ cup white sugar",
+            "2 eggs, beaten",
+            "4 ½ cups all-purpose flour",
+            "2 teaspoons ground cinnamon",
+            "¼ cup white sugar",
+            "¾ cup chopped pecans",
+            "¼ teaspoon vanilla extract",
+            "1 cup confectioners' sugar"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "In a small bowl, dissolve yeast in the warm water and let stand until creamy, about 15 minutes. Zest and juice the lemon; set juice aside for later use.",
+            "In a large mixing bowl, combine the yeast mixture, milk, butter, salt, sugar, eggs, lemon zest, and 2 cups of the flour. Stir until smooth and well combined. Mix in the remaining flour, 1/2 cup at a time, stirring well after each addition. When the dough has come together, turn it out onto a lightly floured surface and knead until smooth and satiny; about 8 minutes. Lightly oil a large bowl, place the dough in the bowl and turn to coat with oil. Cover with a damp cloth and let rise in a warm place until doubled in volume; about 1 hour.",
+            "Punch down the dough and turn out onto a lightly floured surface. Roll the dough out into a rectangle approximately 12x24 inches.",
+            "In a small bowl, mix together the cinnamon, 1/4 cup sugar and pecans; spread this mixture evenly across the dough. Roll the dough into a long roll and press the seam closed. With the seam turned downward, seal the two ends together to make a ring. Use a little water to help you seal the ends.",
+            "Place the ring on a lightly greased cookie pan. Using a sharp knife or kitchen shears, make cuts every inch or so along the ring, cutting only three quarters of the way through. Twist each piece slightly so that the rolls fan out from the center of the ring. Cover the roll with greased plastic wrap and let rise in a warm place until nearly doubled in volume, about 1 hour.",
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "Bake until golden brown, 25 to 30 minutes. Remove the ring from the oven, place on a rack to cool.",
+            "Place the lemon juice in a small bowl along with the vanilla. Add 1/4 cup of powdered sugar and stir until the sugar is dissolved. Continue adding powdered sugar, 1 tablespoon at a time, until the mixture is fairly thick but still pourable. Drizzle the lemon-sugar topping over the ring."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheese Filling For Pastries",
+        "category": "Danishes",
+        "ingredients": [
+            "¼ cup raisins",
+            "1 tablespoon brandy",
+            "1 ½ cups cream cheese",
+            "⅓ cup white sugar",
+            "1 tablespoon all-purpose flour",
+            "1 tablespoon sour cream",
+            "1 teaspoon vanilla extract",
+            "1 tablespoon butter, melted",
+            "1 egg yolk, beaten"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Sprinkle raisins with brandy and set aside.",
+            "In a bowl, cream together cream cheese and sugar. Beat in flour, sour cream, vanilla and butter. Beat in egg yolk. Fold in raisins. Chill until using."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

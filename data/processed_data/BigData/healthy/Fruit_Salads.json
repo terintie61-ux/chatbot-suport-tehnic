@@ -1,0 +1,515 @@
+[
+    {
+        "Main_category": "healthy"
+    },
+    {
+        "recipe_title": "Melon and Prosciutto Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 cup greens, or more as needed",
+            "1/2 cup feta crumbles",
+            "1/3 cup slivered almonds",
+            "1/3 cup Champagne salad dressing",
+            "4 slices prosciutto",
+            "1/2 honeydew melon",
+            "1/2 cantaloupe"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Combine spring mix, feta crumbles, and shaved almonds in a large bowl. Add champagne salad dressing, toss well, and set aside.",
+            "Very carefully wrap the prosciutto around 1 wedge of melon at a time and place on top of the salad mixture. Repeat with remaining melon and prosciutto."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Melon Salad with Feta",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 cup honeydew melon",
+            "1 cup cantaloupe",
+            "1 cup watermelon"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Add honeydew, cantaloupe, and watermelon to a bowl.",
+            "For dressing, add olive oil, balsamic vinegar, orange juice, mint, and agave syrup to a bowl and whisk together, or add to a jar with tight fitting lid, cover the jar, and shake well.",
+            "Pour as much dressing as desired over melons and mix well; add feta and mix again. Garnish with mint leaves, sprinkle with almonds, and drizzle with a small amount of balsamic glaze."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Celebrate Summer with Watermelon, Feta, and Mint Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 (3 pound) watermelon, cut into 1-inch cubes and chilled",
+            "1/4 cup extra virgin olive oil",
+            "2 tablespoons lemon juice",
+            "1 teaspoon lemon zest",
+            "1/2 teaspoon kosher salt",
+            "freshly ground ground black pepper to taste",
+            "4 ounces feta cheese, coarsely crumbled",
+            "1/4 cup mint leaves"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place the chilled watermelon cubes in a large bowl.",
+            "Whisk olive oil, lemon juice, lemon zest, kosher salt, and black pepper together in a small bowl.",
+            "Just before serving, drizzle dressing over chilled watermelon, and toss gently. Sprinkle feta cheese and mint over the watermelon, but do not mix in. Serve immediately."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tomato Watermelon Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 large seedless watermelon, cut into 1-inch cubes",
+            "4 tomatoes, cut into 1-inch dice",
+            "1 cup crumbled feta cheese",
+            "1 large sweet onion, thinly sliced",
+            "12 mint leaves, sliced thinly",
+            "¼ cup olive oil",
+            "2 tablespoons white balsamic vinegar",
+            "1 pinch coarse salt, or to taste",
+            "1 pinch ground black pepper, or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gently mix watermelon, tomatoes, feta cheese, onion, and mint in a large bowl.",
+            "Whisk olive oil, vinegar, salt, and pepper together in a small bowl; drizzle over salad and gently toss to coat."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cranberry Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "2 cups cranberries",
+            "1 large orange, cut into small pieces",
+            "1 cup white sugar",
+            "1 cup chopped celery",
+            "1 cup finely chopped walnuts",
+            "1 cup crushed pineapple, drained",
+            "1 (3 ounce) package cranberry (or raspberry) flavored Jell-O mix",
+            "2 cups hot water"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Place cranberries, orange (including rind), and sugar in a food processor. Process together until the cranberries and orange are roughly ground and well combined with sugar.",
+            "Transfer to a bowl. Stir in celery, walnuts, and pineapple until thoroughly mixed.",
+            "Place gelatin in a bowl and pour hot water over top (don't let stand). Whisk together to dissolve.",
+            "Pour gelatin over the cranberry mixture. Stir to combine.",
+            "Pour into the mold of your choice and chill until you are ready to serve.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Apple Slaw",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "3 cups chopped cabbage",
+            "1 unpeeled red apple, cored and chopped",
+            "1 unpeeled Granny Smith apple, cored and chopped",
+            "1 carrot, grated",
+            "½ cup finely chopped red bell pepper",
+            "2 green onions, finely chopped",
+            "⅓ cup mayonnaise",
+            "⅓ cup brown sugar",
+            "1 tablespoon lemon juice, or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine cabbage, red apple, green apple, carrot, red bell pepper, and green onions in a large bowl.",
+            "To make the dressing: Mix mayonnaise, brown sugar, and lemon juice together in a small bowl. Pour dressing over cabbage mixture; mix until evenly coated."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cream Cheese Fruit Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 (8 ounce) package cream cheese, softened",
+            "¼ cup white sugar, or to taste",
+            "1 (12 ounce) container frozen whipped topping, thawed",
+            "1 (15.25 ounce) can crushed pineapple, drained",
+            "1 (15.25 ounce) can fruit cocktail, drained",
+            "3 bananas, peeled and sliced",
+            "1 large Jonagold apple, peeled and chopped",
+            "½ cup sweetened flaked coconut",
+            "½ cup chopped pecans (Optional)",
+            "½ cup golden raisins (Optional)",
+            "1 (4 ounce) jar maraschino cherries, drained and halved (Optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Beat cream cheese and sugar together in a large bowl with an electric mixer. Mix in whipped topping on high speed until incorporated. Fold in pineapple, fruit cocktail, bananas, apple, coconut, pecans, raisins, and cherries. Transfer to a serving bowl, cover, and chill for at least 1 hour before serving."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Very Easy Fruit Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 pint strawberries - cleaned, hulled and sliced",
+            "1 pound seedless grapes, halved",
+            "3 kiwis, peeled and sliced",
+            "3 bananas, sliced",
+            "1 (21 ounce) can peach pie filling"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "In a large bowl, combine the strawberries, grapes, kiwis, and bananas. Gently mix in peaches. Chill for 1 hour before serving."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Apple Snicker Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 (3.4 ounce) package instant butterscotch pudding mix",
+            "1 cup milk",
+            "1 (6 ounce) package whipped cream topping (such as Cool Whip®)",
+            "6 chocolate-coated caramel-peanut nougat candy bars (such as Snickers®), cut into bite-size pieces",
+            "3 Granny Smith apples - peeled, cored, and cut into bite-size pieces"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather the ingredients.",
+            "Whisk butterscotch pudding mix into milk in a bowl until dissolved.",
+            "Stir whipped cream topping into pudding mixture.",
+            "Fold the candy bar pieces into the pudding mixture.",
+            "Fold the apples into the pudding mixture.",
+            "Serve and enjoy."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "5 Cup Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 cup mini marshmallows",
+            "1 cup shredded coconut",
+            "1 cup drained mandarin oranges",
+            "1 cup drained pineapple chunks",
+            "1 cup sour cream"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Mix marshmallows, coconut, oranges, pineapple, and sour cream together in a bowl. Cover and refrigerate until flavors blend, 5 to 6 hours."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Berry Fruit Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 cup fresh strawberries, hulled and quartered lengthwise",
+            "1 cup fresh blueberries",
+            "1 cup fresh blackberries",
+            "1 cup fresh raspberries",
+            "1 teaspoon white sugar"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Mix strawberries, blueberries, blackberries, and raspberries together in a bowl. Sprinkle with sugar."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Watermelon Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 cup sliced red onion, cut lengthwise",
+            "3 tablespoons lime juice",
+            "15 cups cubed watermelon",
+            "3 cups cubed English cucumber",
+            "1 (8 ounce) package feta cheese, crumbled",
+            "½ cup chopped fresh cilantro or mint",
+            "cracked black pepper, to taste",
+            "sea salt, to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients.",
+            "Place red onion slices in a small bowl; pour over lime juice. Allow onions to marinate while assembling the salad.",
+            "Gently combine watermelon, cucumber, feta cheese, and cilantro in a large bowl; season with black pepper.",
+            "Toss watermelon salad with marinated onions and season with sea salt just before serving.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Caramel Apple Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 (8 ounce) container frozen whipped topping, thawed",
+            "1 (8 ounce) can crushed pineapple",
+            "1 (3.4 ounce) package instant butterscotch pudding mix",
+            "2 cups chopped apples",
+            "1 cup skinless peanuts"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Stir whipped topping, pineapple, and butterscotch pudding mix together in a bowl until smooth. Fold apples and peanuts into pudding mixture until salad is well mixed.",
+            "Refrigerate salad until completely chilled, at least 30 minutes."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Mandarin Orange Watergate Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "2 (16 ounce) cans crushed pineapple, drained",
+            "2 (15 ounce) cans mandarin oranges, drained",
+            "2 (8 ounce) containers whipped topping (such as Cool Whip®)",
+            "1 ½ (10.5 ounce) packages miniature marshmallows",
+            "1 (4 ounce) jar maraschino cherries, sliced",
+            "½ (3.5 ounce) package shredded coconut"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Mix pineapple, mandarin oranges, whipped topping, marshmallows, cherries, and coconut together in a bowl. Chill in refrigerator for 2 hours for flavors to blend."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Cucumber and Apple Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 ½ cups diced apple",
+            "1 cup cucumber slices",
+            "⅓ cup raspberry vinaigrette"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Mix diced apple and cucumber slices together in a small bowl. Drizzle vinaigrette over the apple mixture and toss to coat."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Winter Fruit Salad with Poppyseed Dressing",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "½ cup white sugar",
+            "½ cup lemon juice",
+            "2 teaspoons diced onion",
+            "1 teaspoon Dijon-style prepared mustard",
+            "½ teaspoon salt",
+            "⅔ cup vegetable oil",
+            "1 tablespoon poppy seeds",
+            "1 head romaine lettuce, torn into bite-size pieces",
+            "4 ounces shredded Swiss cheese",
+            "1 cup cashews",
+            "¼ cup dried cranberries",
+            "1 apple - peeled, cored and diced",
+            "1 pear - peeled, cored and sliced"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Combine sugar, lemon juice, onion, mustard, and salt in a food processor or blender; process until well blended. With machine still running, add oil in a slow, steady stream until mixture is thick and smooth. Add poppy seeds, and process just a few seconds more to mix.",
+            "Toss romaine lettuce, shredded Swiss cheese, cashews, dried cranberries, apple, and pear together in a large serving bowl. Pour dressing over salad just before serving, and toss to coat."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cranberry Jell-O® Salad with Walnuts",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1 (6 ounce) package cherry-flavored gelatin mix (such as Jell-O®)",
+            "1 ½ cups boiling water",
+            "2 (14.5 ounce) cans whole berry cranberry sauce",
+            "2 oranges, peeled and chopped",
+            "1 cup diced apple",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Dissolve cherry gelatin mix in boiling water in a bowl; stir cranberry sauce and oranges into gelatin. Refrigerate until mixture is thickened to the consistency of egg whites, about 45 minutes. Mix apple and walnuts into gelatin, transfer to a serving dish or mold, and chill until firm, about 2 more hours."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Watermelon Salad with Mint Dressing",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "small watermelon, cubed",
+            "red onion, sliced",
+            "cup chopped black olives",
+            "cup crumbled feta cheese",
+            "2 tablespoons lime juice",
+            "4 leaves mint, thinly sliced, or more to taste",
+            "salt and ground black pepper to taste",
+            "cup olive oil"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Combine watermelon, red onion, olives, and feta cheese in a large bowl.",
+            "Combine lime juice, mint, salt, and black pepper in a small bowl; whisk in olive oil until blended. Pour over watermelon mixture; stir until evenly coated.",
+            "Chill salad in the refrigerator until ready to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Watermelon Feta Salad",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "1/2 large chilled seedless watermelon, cut into 1-inch cubes",
+            "1 small red onion, sliced",
+            "1 cup thinly sliced fresh basil leaves",
+            "1 cup chopped fresh cilantro",
+            "1/2 cup minced fresh mint leaves",
+            "2 limes, juiced",
+            "1 (4 ounce) package crumbled feta cheese",
+            "3 tablespoons olive oil",
+            "2 tablespoons balsamic vinegar, or more to taste",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Gently toss watermelon, onion, basil, cilantro, mint, lime juice, feta cheese, olive oil, balsamic vinegar, salt, and black pepper together in a large bowl."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Watermelon Salad with Feta",
+        "category": "Fruit Salads",
+        "ingredients": [
+            "3 tablespoons olive oil",
+            "2 teaspoons white balsamic vinegar",
+            "½ teaspoon kosher salt",
+            "8 ounces grape tomatoes, halved",
+            "3 cups arugula",
+            "1 cup sliced red onion",
+            "2 pounds watermelon, cubed",
+            "4 ounces feta cheese, cut into 1/4-inch cubes"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Whisk olive oil, vinegar, and salt together in a large mixing bowl. Add tomatoes, arugula, and red onion; toss to coat. Gently stir in watermelon and feta cheese to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

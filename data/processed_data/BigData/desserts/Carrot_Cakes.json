@@ -1,0 +1,734 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Ooey Gooey Carrot Butter Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "baking spray with flour",
+            "1/2 cup unsalted butter,",
+            "2 cups shredded carrot",
+            "1/2 teaspoon ground cardamom",
+            "1 (15.25-ounce) box spice cake mix",
+            "3 large eggs",
+            "2 1/2 teaspoons vanilla extract",
+            "1 (8-ounce) package cream cheese",
+            "4 cups powdered sugar",
+            "2 teaspoons grated lemon zest",
+            "3/4 teaspoon salt",
+            "1/2 cup pecans"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients. Preheat oven to 350 degrees F (180 degrees C). Grease a 13- x 9-inch baking pan with baking spray; line bottom and sides with parchment paper leaving a 2-inch overhang on long sides.",
+            "Heat 2 tablespoons butter in a skillet over medium heat. Add carrots and cook, stirring frequently, until softened and just starting to brown slightly, about 8 minutes.",
+            "Transfer to a heatproof bowl; stir in cardamom. Chill in the refrigerator, uncovered, until completely cool, about 15 minutes.",
+            "While carrots cool, beat cake mix, 1 egg, 1 1/2 teaspoons vanilla extract, and remaining 1/2 cup butter in a large bowl with an electric mixer on medium-low speed just until combined, 30 seconds to 1 minute.",
+            "Pat mixture evenly into the bottom of the prepared pan.",
+            "Beat cream cheese in a separate large bowl with an electric mixer on medium speed until smooth and creamy, 1 to 2 minutes, stopping to scrape down sides.",
+            "Add powdered sugar, lemon zest, salt, remaining 2 eggs, and remaining 1 teaspoon vanilla; beat on medium-low speed until smooth and creamy, about 1 to 2 minutes. Stir in cooled carrots and pecans until evenly dispersed.",
+            "Spread cream cheese mixture evenly over cake mix layer in pan.",
+            "Bake in the preheated oven until top is lightly golden, shiny, and slightly crackly, about 40 minutes. Let cool completely in pan on a wire rack, about 2 to 3 hours. (It's OK if topping sinks slightly as it cools.)",
+            "Using parchment paper as handles, remove from pan and cut into bars. Dust with powdered sugar. Garnish with pecans."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake Roll",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "3 large eggs",
+            "1 cup white sugar",
+            "1 cup finely chopped cooked carrot",
+            "1 (8 ounce) can crushed pineapple, drained",
+            "1 cup all-purpose flour",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a rimmed cookie sheet or jelly roll pan with parchment paper.",
+            "To make the cake: Beat eggs and sugar in a mixing bowl until lighter in color; add carrot and pineapple.",
+            "Mix flour, cinnamon, baking powder, and salt together in a separate bowl. Pour in egg mixture; mix until it comes together. Spread batter on the prepared baking sheet.",
+            "Bake in the preheated oven for 15 minutes. Allow to cool completely, about 30 minutes.",
+            "To make the filling: Beat cream cheese, powdered sugar, and vanilla extract together in a bowl. Spread cream cheese filling evenly over the cooled cake. Sprinkle walnuts on top of filling.",
+            "Run a spatula under the cake to loosen from the parchment paper. Grab the paper from one end and start rolling, pulling the paper away as you do. Roll up and refrigerate for 1 hour before cutting."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Pineapple Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 teaspoons ground cinnamon",
+            "2 teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "1 teaspoon salt",
+            "1 ¾ cups white sugar",
+            "1 cup vegetable oil",
+            "3 large eggs",
+            "1 teaspoon vanilla extract",
+            "2 cups shredded carrots",
+            "1 cup flaked coconut",
+            "1 cup chopped walnuts",
+            "1 (8 ounce) can crushed pineapple, drained"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.",
+            "To make the cake: Mix flour, cinnamon, baking soda, baking powder, and salt in a large bowl. Make a well in the center and add sugar, oil, eggs, and vanilla. Mix with a wooden spoon until smooth. Stir in carrots, coconut, walnuts, and pineapple. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes. Allow cake to cool completely before frosting. (The center of cake may sink slightly as it cools.)",
+            "To make the frosting: Beat cream cheese and butter in a mixing bowl until smooth. Add confectioners' sugar; beat until smooth and creamy. Spread frosting on top of cooled cake. Slice into squares and enjoy!"
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "2 teaspoons baking powder",
+            "½ teaspoon ground ginger",
+            "2 teaspoons ground cinnamon",
+            "2 cups white sugar",
+            "4 large eggs",
+            "¼ cup unsalted butter",
+            "1 cup coconut oil",
+            "2 cups finely grated carrots, or more to taste",
+            "1 (8 ounce) can finely crushed pineapple, drained",
+            "½ cup finely chopped pecans (Optional)",
+            "½ cup finely chopped walnuts (Optional)"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place flour in a bowl. Add salt, baking soda, and baking powder. Sprinkle in ground ginger and cinnamon. Whisk thoroughly until combined. Set aside.",
+            "Add sugar to a separate bowl. Whisk in eggs until mixture is smooth and pale yellow, 2 to 3 minutes.",
+            "Heat butter and coconut oil in a saucepan over low heat until just melted but not too hot. Whisk into the bowl with the eggs and sugar until well combined. Add carrots, crushed pineapple, pecans, and walnuts. Stir well.",
+            "Stir flour mixture into the carrot mixture until no dry spots remain. Pour batter into a greased 9x13-inch baking pan. Tap the pan against your counter to let any big air bubbles rise to the surface.",
+            "Bake in the preheated oven until a toothpick inserted into the cake comes out clean, 40 to 45 minutes. Let cool completely before frosting, at least 40 minutes.",
+            "Beat cream cheese, butter, and vanilla extract together using an electric mixer until light and fluffy. Gradually beat in the confectioners' sugar to form a smooth frosting. Spread evenly over the cooled cake. Chill completely before slicing."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake Bars",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "3/4 cup unsalted butter",
+            "2/3 cup brown sugar, divided",
+            "1 large egg, at room temperature",
+            "1 large egg yolk, at room temperature",
+            "1 1/2 teaspoons vanilla extract",
+            "2/3 cup all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground ginger",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon ground nutmeg",
+            "1/4 teaspoon ground allspice",
+            "1 1/2 cups grated carrot"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Melt butter in a light-colored saucepan over medium heat. Continue to cook, stirring constantly, until butter begins to brown and smell nutty, about 5 minutes. Carefully measure out 1/4 cup of the browned butter and set aside to use in the frosting. Pour remaining brown butter into a large mixing bowl; allow to cool for 10 to 15 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides.",
+            "To the mixing bowl with brown butter, add brown sugar and whisk until combined. Whisk in egg, egg yolk, and vanilla until completely smooth and combined. Add in flour, baking soda, cinnamon, ginger, salt, nutmeg, and allspice and mix until just combined. Fold in carrots. Pour batter into the prepared pan and spread into an even layer.",
+            "Bake in the preheated oven until bars spring back when touched lightly in the center, 25 to 30 minutes.",
+            "Remove bars from oven to cool in the pan for 10 minutes. Lift bars out of the pan using the parchment overhang, and remove to a wire rack to cool completely.",
+            "Meanwhile, prepare frosting. Beat cream cheese in a large bowl with an electric mixer until smooth. Beat in reserved 1/4 cup brown butter on medium-high speed until thoroughly combined. Beat in vanilla, salt, and 1 cup powdered sugar until smooth. Add remaining 1 cup powdered sugar, and beat until thoroughly incorporated. Beat frosting on medium speed until completely smooth, 2 to 3 minutes more. Cover frosting and refrigerate until ready to use.",
+            "Spread bars with frosting as desired. For best results when slicing, place frosted bars in the fridge for about 1 hour to allow frosting to set up a bit before cutting. Cut into 16 bars."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Apple Cake with Cream Cheese Frosting",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon ground ginger",
+            "½ teaspoon baking soda",
+            "½ teaspoon salt",
+            "¼ teaspoon ground nutmeg",
+            "¼ teaspoon ground cloves",
+            "¼ teaspoon ground allspice",
+            "¾ cup unsalted butter, softened",
+            "¼ cup vegetable oil",
+            "1 cup firmly packed dark brown sugar",
+            "¾ cup white sugar",
+            "4 large eggs, at room temperature",
+            "2 teaspoons vanilla extract",
+            "1 cup buttermilk, at room temperature",
+            "1 ½ cups grated carrot",
+            "1 cup peeled and grated Granny Smith apple",
+            "¾ cup raisins (Optional)",
+            "¾ cup chopped pecans (Optional)"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease two 8-inch square pans and line the bottoms with parchment paper.",
+            "Whisk flour, baking powder, cinnamon, ginger, baking soda, salt, nutmeg, cloves, and allspice together in a bowl; set aside.",
+            "Beat butter, oil, brown sugar, and white sugar together in a large bowl with an electric mixer until light and fluffy. Add eggs one at a time, beating well after each addition. Beat batter for an additional 2 minutes after adding last egg. Beat in vanilla extract. Pour in half of the flour mixture; mix on low speed until just combined. Pour in buttermilk; mix until just combined. Pour in remaining flour mixture; mix until just combined. Fold in carrot, apple, raisins, and pecans.",
+            "Divide batter evenly between the two pans. Spread into an even layer in each pan.",
+            "Bake in the preheated oven until the top of the cake springs back lightly when touched and a toothpick inserted near the center comes out clean, 40 to 45 minutes.",
+            "Allow cakes to cool in pans for 20 minutes; remove to a wire rack to cool completely, about 1 1/2 hours more.",
+            "Beat butter in a large bowl with an electric mixer until completely smooth; beat in cream cheese until smooth and thoroughly combined. Beat in confectioners' sugar 1 cup at a time, mixing well after each addition; beat in vanilla and salt. Add in heavy cream; beat on medium-high until frosting is slightly fluffy, about 2 minutes.",
+            "Spread frosting onto one cooled cake layer. Stack layers; frost top and sides."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups white sugar",
+            "1 ¼ cups vegetable oil",
+            "4 large eggs",
+            "2 teaspoons vanilla extract",
+            "2 cups all-purpose flour",
+            "2 teaspoons baking soda",
+            "2 teaspoons baking powder",
+            "2 teaspoons ground cinnamon",
+            "½ teaspoon salt",
+            "3 cups grated carrots",
+            "1 cup chopped pecans (Optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.",
+            "Beat sugar, oil, eggs, and 2 teaspoons vanilla together in a large bowl with an electric mixer until well combined.",
+            "Mix in flour, baking soda, baking powder, cinnamon, and salt. Stir in carrots, then fold in pecans.",
+            "Pour into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 40 minutes. Let cool in the pan for 10 minutes, then turn out onto a wire rack and cool completely.",
+            "To make the frosting: Beat butter, cream cheese, confectioners' sugar, and 1 teaspoon vanilla together in a large bowl with an electric mixer until smooth and creamy.",
+            "Stir in chopped pecans.",
+            "Frost the cooled cake. Serve and enjoy!"
+        ],
+        "healthiness_score": 38,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Carrot Cake Ever",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "6 cups grated carrots",
+            "1 cup brown sugar",
+            "1 cup raisins",
+            "4 large eggs",
+            "1 ½ cups white sugar",
+            "1 cup vegetable oil",
+            "2 teaspoons vanilla extract",
+            "1 cup crushed pineapple, drained",
+            "3 cups all-purpose flour",
+            "4 teaspoons ground cinnamon",
+            "1 ½ teaspoons baking soda",
+            "1 teaspoon salt",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine grated carrots and brown sugar in a medium bowl. Let sit for 1 hour, then stir in raisins.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 10-inch round cake pans. Beat eggs in a large bowl until lighter in color.",
+            "Gradually beat in white sugar, oil, and vanilla. Stir in pineapple.",
+            "Combine flour, cinnamon, baking soda, and salt in a separate bowl, then stir into egg mixture until absorbed.",
+            "Stir in carrot mixture and walnuts. Pour evenly into the prepared cake pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 45 to 50 minutes.",
+            "Cool for 10 minutes before removing cake from the pans; let cool completely."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "No-Bake Carrot Cheesecake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "4 medium carrots",
+            "1 1/2 cups graham cracker crumbs",
+            "1 cup unsweetened shredded coconut",
+            "6 tablespoons butter",
+            "pinch of salt",
+            "1 cup whipping cream",
+            "2 (8-ounce) packages cream cheese",
+            "3/4 cup powdered sugar",
+            "6 tablespoons brown sugar, divided",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon ground cinnamon",
+            "1/4 teaspoon ground ginger",
+            "1/4 teaspoon ground nutmeg",
+            "1/8 teaspoon salt",
+            "candied pecans for garnish (optional)",
+            "sweetened whipped cream for garnish"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Gather all ingredients.",
+            "Place carrots into a saucepan and cover with water. Bring to a boil. Reduce heat and simmer, covered, until carrots are tender, about 20 minutes. Drain, but reserve cooking liquid. Transfer carrots to a blender container. Cover and blend until smooth, adding reserved liquid, 1 tablesppon. at a time as needed. You should get 1 cup of carrot puree. Chill until ready to use.",
+            "In a small bowl combine graham cracker crumbs, 1/2 cup toasted coconut, butter, 2 tablespoons brown sugar and salt. Press very firmly into the bottom of a 9-inch springform pan. Chill until ready to use.",
+            "Beat whipping cream in a bowl with an electric mixer until stiff peaks form. Set aside.",
+            "Beat cream cheese in a large bowl with an electric mixer until completely smooth and creamy, scraping the bowl as needed.",
+            "Add 1 cup carrot puree, powdered sugar, and remaining 4 tablespoons brown sugar. Beat on medium-high speed until well combined, scraping the bowl as needed. Add thevanilla, cinnamon, ginger, nutmeg and salt and beat until combined and smooth.",
+            "Slowly fold in whipped cream with a spatula until just combined, careful to not deflate the whipped cream.",
+            "Pour filling into the prepared crust, spreading evenly.",
+            "Cover and chill overnight. Serve topped with additional whipped cream, candied pecans and remaining toasted coconut."
+        ],
+        "healthiness_score": 38,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sam's Famous Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 teaspoons baking soda",
+            "2 teaspoons ground cinnamon",
+            "¼ teaspoon salt",
+            "1 ½ cups white sugar",
+            "3 large eggs",
+            "¾ cup buttermilk",
+            "¾ cup vegetable oil",
+            "2 teaspoons vanilla extract",
+            "2 cups shredded carrots",
+            "1 (8 ounce) can crushed pineapple with juice",
+            "1 cup flaked coconut",
+            "1 cup chopped walnuts",
+            "1 cup raisins"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8x12-inch pan.",
+            "Sift flour, baking soda, cinnamon, and salt together in a medium bowl; set aside.",
+            "Mix sugar, eggs, buttermilk, oil, and vanilla together in a large bowl; gradually add flour mixture until just combined.",
+            "Combine shredded carrots, pineapple, coconut, walnuts, and raisins in a separate bowl; stir into cake batter using a large wooden spoon until combined. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 1 hour. Allow cake to cool for at least 20 minutes before serving."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Moist Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 ½ teaspoons ground cinnamon",
+            "2 teaspoons baking powder",
+            "1 ½ teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 cups white sugar",
+            "1 ½ cups vegetable oil",
+            "4 large eggs",
+            "2 ¾ cups shredded carrots",
+            "1 (8 ounce) can crushed pineapple, drained",
+            "1 cup flaked coconut",
+            "¾ cup chopped walnuts"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour a 9x13-inch pan.",
+            "Combine flour, cinnamon, baking powder, baking soda, and salt together in a large bowl; set aside.",
+            "Mix sugar, oil, and eggs together in a separate bowl. Beat in flour mixture. Stir in carrots, pineapple, coconut, and walnuts. Pour cake batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 to 40 minutes. Allow to cool."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups white sugar",
+            "¾ cup vegetable oil",
+            "¾ cup buttermilk",
+            "3 large eggs",
+            "2 teaspoons vanilla extract, divided",
+            "2 cups grated carrots",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "1 cup flaked coconut",
+            "2 cups all-purpose flour",
+            "2 teaspoons baking soda",
+            "2 teaspoons ground cinnamon",
+            "1 ½ teaspoons salt",
+            "1 cup chopped walnuts",
+            "4 cups confectioners' sugar",
+            "1 (8 ounce) package cream cheese",
+            "½ cup butter"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish; set aside.",
+            "Mix together sugar, oil, buttermilk, eggs, and 1 teaspoon vanilla in a large bowl until well combined. Stir in carrots, pineapple, and coconut. Combine flour, baking soda, cinnamon, and salt in a medium bowl; gently stir into carrot mixture. Mix in nuts until incorporated. Spread batter into the prepared dish.",
+            "Bake in the preheated oven until a toothpick inserted into cake comes out clean, about 55 minutes. Remove from the oven and set aside to cool.",
+            "Beat together confectioners' sugar, cream cheese, butter, and remaining 1 teaspoon vanilla in a large bowl with an electric mixer until creamy. Frost cooled cake while still in the dish."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups white sugar",
+            "2 cups all-purpose flour",
+            "1 teaspoon salt",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon baking soda",
+            "1 ½ cups vegetable oil",
+            "4 eggs",
+            "3 cups grated carrots",
+            "1 cup chopped walnuts",
+            "1 (3 ounce) package cream cheese",
+            "¼ cup heavy whipping cream",
+            "1 teaspoon vanilla extract",
+            "2 ½ cups sifted confectioners' sugar"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease one 9 or 10 inch tube pan.",
+            "Combine the sugar, flour, salt, cinnamon, soda, oil. With an electric mixer beat in the eggs one at a time. Stir in the carrots and the walnuts. Pour the batter into the prepared baking pan.",
+            "Bake at 350 degrees F (175 degrees C) for 1 hour 20 minutes. Note: this cake can be made in two 9 inch layer cake pans just change the baking time to 40 minutes.",
+            "To Make Frosting: With an electric mixer blend the cream cheese and cream. Add the vanilla and confectioners' sugar. Frosting can be spread and a still warm cake."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake with PHILLY Cream Cheese Icing",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups flour",
+            "2 teaspoons MAGIC Baking Powder",
+            "1 teaspoon baking soda",
+            "1 tablespoon ground cinnamon",
+            "¼ teaspoon ground nutmeg",
+            "1 dash Dash of ground cloves",
+            "½ teaspoon salt",
+            "4 eggs",
+            "1 ¼ cups oil",
+            "2 cups granulated sugar",
+            "2 cups grated carrots",
+            "1 (19 ounce) can crushed pineapple, well drained",
+            "½ cup chopped walnuts or pecans"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Cake: Heat oven to 350 degrees F. Sift together flour, baking powder, baking soda, spices and salt in medium bowl; set aside. Beat eggs and oil in large bowl with wire whisk until well blended. Gradually add granulated sugar, mixing until blended. Add flour mixture, carrots, pineapple and walnuts; mix well. Pour into greased and floured 12-cup fluted tube pan or 10-inch (3-L) tube pan.",
+            "Bake 50 min. to 1 hour or until wooden toothpick inserted in centre comes out clean. Cool 10 min.; loosen from sides of pan with spatula or knife and gently remove cake. Cool completely on wire rack.",
+            "Icing: Beat cream cheese and butter in large bowl with electric mixer until well blended. Gradually add icing sugar, juice and peel, beating until well blended after each addition. Spread on top of cake. Store leftover cake in refrigerator."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Gluten-Free Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "1 cup white sugar",
+            "1 cup vegetable oil",
+            "3 large eggs",
+            "½ teaspoon vanilla extract",
+            "1 ⅓ cups gluten-free all-purpose baking flour (such as Cup4Cup)",
+            "1 ½ teaspoons baking powder",
+            "1 ½ teaspoons baking soda",
+            "1 ½ teaspoons ground cinnamon",
+            "½ teaspoon salt",
+            "2 cups grated carrots"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "To make the carrot cake: Beat sugar and oil together in a bowl using an electric mixer until smooth and creamy. Beat in eggs one at a time, mixing well after each addition. Stir in vanilla.",
+            "Combine baking flour, baking powder, baking soda, cinnamon, and salt in a separate bowl; beat into egg mixture until batter is smooth. Fold in carrots until incorporated.",
+            "Pour into the prepared baking dish.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes. Allow cake to cool completely for at least 30 minutes.",
+            "To make the icing: Beat cream cheese and butter together in a bowl using an electric mixer until well combined. Beat in confectioners' sugar, a little at a time, until icing is smooth and creamy. Add vanilla and beat well.",
+            "Spread icing onto cooled cake.",
+            "Slice and enjoy!"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Carrot Cake with Cream Cheese Frosting",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "3 cups grated carrots",
+            "2 cups all-purpose flour",
+            "2 cups white sugar",
+            "2 teaspoons baking soda",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "1 teaspoon ground cinnamon",
+            "4 large eggs",
+            "¾ cup vegetable oil",
+            "1 ¼ teaspoons vanilla extract",
+            "1 (8 ounce) can crushed pineapple with juice",
+            "¾ cup chopped pecans",
+            "3 ½ cups confectioners' sugar",
+            "1 (8 ounce) package Neufchatel cheese",
+            "½ cup butter, softened",
+            "1 ¼ teaspoons vanilla extract",
+            "1 cup chopped pecans"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.",
+            "Combine grated carrots, flour, white sugar, baking soda, baking powder, salt, and cinnamon in a large bowl; stir in eggs, oil, 1 ¼ teaspoons vanilla, pineapple, and ¾ cup chopped pecans. Spoon batter into prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 30 to 40 minutes. Let cake cool.",
+            "To make the frosting: Combine confectioners' sugar, Neufchatel cheese, ½ cup butter and 1 ¼ teaspoons vanilla in a medium bowl; beat until smooth. Fold in 1 cup chopped pecans. Spread frosting on cooled cake."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Zucchini Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup whole wheat flour",
+            "1 cup white sugar",
+            "2 teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "1 teaspoon baking soda",
+            "1 ½ cups vegetable oil",
+            "1 cup grated carrot",
+            "1 cup grated zucchini",
+            "4 large eggs",
+            "½ cup honey"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour three 8-inch round cake pans.",
+            "To make the cake: Mix all-purpose flour, whole wheat flour, sugar, cinnamon, salt, and baking soda together in a bowl.",
+            "Beat oil, carrots, zucchini, and eggs in a large bowl with an electric mixer on low speed until well blended. Beat in honey. Stir in flour mixture gradually, then beat on medium speed until batter is smooth, about 3 minutes. Divide batter evenly among the prepared cake pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 30 minutes. Cool in the pans for 5 minutes, then invert onto a wire rack and allow to cool completely, about 25 more minutes.",
+            "Meanwhile, make the frosting: Beat confectioners' sugar, pineapple, cream cheese, walnuts, butter, and vanilla in a large bowl with an electric mixer until smooth.",
+            "Spread frosting over the top of each cooled cake layer. Stack layers, then frost sides and top."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Isaac's Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "2 cups white sugar",
+            "2 ½ teaspoons baking soda",
+            "2 ½ teaspoons ground cinnamon",
+            "1 teaspoon salt",
+            "¼ teaspoon ground nutmeg",
+            "2 cups shredded carrots",
+            "1 (11 ounce) can mandarin oranges, drained",
+            "1 ¼ cups vegetable oil",
+            "3 eggs",
+            "2 teaspoons vanilla extract",
+            "1 teaspoon grated orange zest"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13x2-inch baking dish.",
+            "Whisk flour, sugar, baking soda, ground cinnamon, salt, and nutmeg together in a bowl. Beat carrots, mandarin oranges, oil, eggs, vanilla extract, and orange zest into flour mixture with an electric mixer until batter is smooth, about 2 minutes. Pour batter into prepared baking dish.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 40 to 50 minutes."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 teaspoons baking soda",
+            "1 teaspoon ground cinnamon",
+            "2 cups white sugar",
+            "1 cup vegetable oil",
+            "3 eggs",
+            "1 teaspoon vanilla extract",
+            "2 cups carrots, grated",
+            "1 (15 ounce) can crushed pineapple, drained",
+            "1 cup chopped walnuts",
+            "1 cup flaked coconut",
+            "1 cup white sugar",
+            "½ cup unsalted butter",
+            "½ cup buttermilk",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch pan.",
+            "Sift flour, baking soda, and cinnamon together in a bowl; set aside.",
+            "Stir sugar and oil together in a large bowl, until combined. Beat in eggs, one at a time, then stir in vanilla. Stir in flour mixture just until incorporated. Fold in carrots, pineapple, walnuts, and coconut. Pour batter into prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 minutes. While still warm, poke holes in cake with a fork.",
+            "For the glaze: Combine sugar, butter, buttermilk, and vanilla in a saucepan. Bring to a boil over medium heat, then reduce heat and cook 5 minutes. Pour glaze over warm cake, then allow to cool completely."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Lite Carrot Cake",
+        "category": "Carrot Cakes",
+        "ingredients": [
+            "1 cup cake flour",
+            "1 cup whole wheat flour",
+            "1 cup packed brown sugar",
+            "1 ½ teaspoons ground cinnamon",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "⅔ cup buttermilk",
+            "⅓ cup vegetable oil",
+            "3 eggs, separated, divided",
+            "½ cup white sugar",
+            "1 ½ cups grated carrots"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease and flour a 9x13-inch baking pan or two 9-inch round cake pans.",
+            "Stir together flours, brown sugar, cinnamon, baking powder, and baking soda in a large bowl. Add buttermilk and oil and mix until well combined. Mix in egg yolks until incorporated.",
+            "Beat egg whites in a separate bowl until frothy. Gradually beat in white sugar, then continue to beat until stiff.",
+            "Fold egg whites into batter, then fold in carrots. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 25 to 35 minutes. Let cool before serving."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

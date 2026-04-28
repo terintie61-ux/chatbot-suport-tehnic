@@ -1,0 +1,645 @@
+[
+    {
+        "Main_category": "bakery"
+    },
+    {
+        "recipe_title": "Strawberry Crumb Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "1 ¾ cups white sugar",
+            "1 tablespoon baking powder",
+            "½ teaspoon salt",
+            "½ teaspoon ground nutmeg",
+            "¾ cup unsalted butter, cut into ½-inch cubes",
+            "1 cup buttermilk",
+            "2 large eggs, at room temperature",
+            "1 tablespoon vanilla extract",
+            "2 cups hulled and halved strawberries"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Line a 9-inch square cake pan with enough parchment paper to have overhang on all sides.",
+            "Mix flour, sugar, baking powder, salt, and nutmeg together in a large bowl until combined. Cut in butter until mixture resembles wet sand. Measure out 1 cup of the crumb mixture to use for the topping, and set aside.",
+            "Add buttermilk, eggs, and vanilla to remaining mixture in the bowl. Mix just until there are no dry clumps of flour remaining. Fold in strawberries.",
+            "Pour cake batter into the prepared pan and smooth into an even layer. Sprinkle 1 cup reserved crumb mixture evenly over the top.",
+            "Bake cake in the preheated oven until a toothpick inserted into the center of the cake comes out with a few moist crumbs, 60 to 65 minutes. Allow cake to cool completely in pan before carefully lifting out of the pan using the parchment overhang. Cut and serve."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Zucchini Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 zucchini (10 ounces), ends trimmed",
+            "2 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "1/4 teaspoon salt",
+            "1 cup butter",
+            "1 cup sour cream",
+            "1 1/2 cups white sugar",
+            "2 large eggs",
+            "1 tablespoon vanilla extract",
+            "1 cup chopped pecans",
+            "1/2 cup packed brown sugar",
+            "1 teaspoon cinnamon",
+            "2 tablespoons butter, melted"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients. Preheat oven to 350 degrees F (175 degrees C). Line a 9x13-inch pan with foil and coat with cooking spray.",
+            "Using large holes of a box grater, shred zucchini. (You should have 2 cups packed.) Transfer zucchini to a clean kitchen towel. Roll up; squeeze out as much moisture as possible.",
+            "Stir together flour, baking powder, and salt in a bowl.",
+            "In a large bowl, beat 1 cup softened butter with an electric mixer until light and fluffy.",
+            "Gradually beat in sour cream, then white sugar.",
+            "Beat in eggs, 1 at a time.",
+            "Stir in zucchini and vanilla.",
+            "Fold in flour mixture with a spatula, mixing just until incorporated.",
+            "Spread batter into prepared pan.",
+            "Stir together pecans, brown sugar, and cinnamon in a bowl. Stir in 2 tablespoons melted butter until crumbly.",
+            "Sprinkle topper over cake batter.",
+            "Bake until a toothpick inserted into center of cake comes out clean, 35 to 40 minutes. Let cool in pan 10 minutes before serving."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blueberry Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 cup packed brown sugar",
+            "⅔ cup all-purpose flour",
+            "1 teaspoon ground cinnamon",
+            "½ cup unsalted butter, softened"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Make the streusel: Mix brown sugar, flour, and cinnamon together in a medium bowl. Cut in butter until mixture is crumbly.",
+            "Make the cake: Generously spray a fluted tube pan (such as Bundt) with cooking spray. Whisk flour, baking powder, and salt together in a bowl.",
+            "Beat butter in a large bowl with an electric mixer until creamy. Add sugar and beat until fluffy. Beat in egg and vanilla. Add flour mixture in two batches, alternating with milk, beating batter briefly after each addition.",
+            "Spread 1/2 of the batter in the prepared pan. Sprinkle blueberries over top, then add remaining batter, one spoon at a time.",
+            "Sprinkle streusel over top.",
+            "Bake in the preheated oven until deep golden brown, 55 to 60 minutes. Set on a wire rack to cool, about 30 minutes.",
+            "Invert cake onto a plate and dust with confectioners' sugar."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Strawberry Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "¼ cup butter",
+            "¾ cup white sugar",
+            "1 egg",
+            "1 ½ cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 teaspoon salt",
+            "½ cup milk",
+            "1 ½ cups thinly sliced strawberries",
+            "½ cup all-purpose flour",
+            "½ cup white sugar",
+            "¼ cup butter, softened",
+            "¼ cup flaked coconut"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch baking pan.",
+            "Beat 1/4 cup butter in a bowl until creamy; add 3/4 cup sugar and egg. Beat until fully incorporated.",
+            "Mix 1 ½ cups flour, baking powder, and salt together in a separate bowl. Stir flour mixture, alternating with milk, into butter mixture until combined. Pour batter into prepared baking pan. Arrange strawberries on top of batter.",
+            "Mix 1/2 cup flour, 1/2 cup sugar, 1/4 cup butter, and coconut together in a bowl. Sprinkle topping over strawberries.",
+            "Bake in the preheated oven until a toothpick inserted in the center of the cake comes out clean, about 35 minutes."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Aunt Anne's Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "⅔ cup white sugar",
+            "¼ cup all-purpose flour",
+            "1 teaspoon ground cinnamon",
+            "¼ cup cold butter"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.",
+            "Make streusel topping: Combine sugar, flour, and cinnamon in a medium bowl. Cut in butter until mixture resembles coarse crumbs. Set aside.",
+            "Make cake: Combine flour, sugar, baking powder, and salt in a large bowl. Cut in butter until mixture resembles coarse crumbs. Whisk together egg and milk in a separate bowl; stir in vanilla.",
+            "Pour egg mixture into crumb mixture; mix until just moistened.",
+            "Spread into the prepared pan and sprinkle with streusel topping.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 25 to 30 minutes.",
+            "Allow to cool before slicing."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Oatmeal Coffee Cake with Pecan Streusel",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "½ cup brown sugar",
+            "½ cup chopped pecans",
+            "3 tablespoons unsalted butter, at room temperature",
+            "2 tablespoons all-purpose flour"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease and flour a 9x12-inch baking dish.",
+            "To make the streusel: Mix together brown sugar, pecans, butter, and flour in a small bowl until well combined. Set aside.",
+            "To make the cake: Pour boiling water over oats in a medium bowl. Combine flour, baking powder, baking soda, and salt in a separate bowl.",
+            "Beat brown sugar and butter together in a large bowl with an electric mixer until light and fluffy. Add eggs, one at a time, beating briefly after each addition. Scrape down the bowl and continue beating until mixture is smooth. Mix in soaked oats, vanilla, and cinnamon. Stir in flour mixture with a rubber scraper or wooden spoon. Pour batter into the prepared baking dish and cover with streusel.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 minutes."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pumpkin Coffee Cake with a Brown Sugar Glaze",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 teaspoon unsalted butter",
+            "1 (15 ounce) can pumpkin puree",
+            "2 large eggs",
+            "⅓ cup water",
+            "1 tablespoon vanilla extract",
+            "2 teaspoons pumpkin pie spice",
+            "1 (15.25 ounce) package yellow cake mix",
+            "1 teaspoon baking soda"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan with 1 teaspoon butter.",
+            "Combine pumpkin puree, eggs, water, 1 tablespoon vanilla extract, and pumpkin pie spice in a large bowl. Stir in cake mix and baking soda until just combined. Pour batter into the prepared baking pan.",
+            "Combine 1/2 cup brown sugar, flour, and 1/4 cup melted butter in a small bowl until crumbly; sprinkle over batter with your fingers.",
+            "Bake in the preheated oven until a toothpick inserted into center comes out clean, 25 to 30 minutes.",
+            "Combine 1/2 cup brown sugar, heavy cream, white sugar, and 1 teaspoon vanilla extract in a saucepan; bring to a simmer over medium heat. Remove from heat; stir until sugars are dissolved and glaze is smooth.",
+            "Poke holes all over top of cake with a toothpick. Pour glaze evenly over cake."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Orange, Poppy Seed, and Butternut Squash Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "½ cup all-purpose flour",
+            "½ cup firmly packed brown sugar",
+            "¾ teaspoon ground cinnamon",
+            "1 pinch salt",
+            "1 pinch ground cloves",
+            "1 pinch ground nutmeg",
+            "6 tablespoons cold unsalted butter, cut into cubes"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch springform pan with removable bottom.",
+            "Mix flour, brown sugar, cinnamon, salt, cloves, and nutmeg together in a bowl until well combined. Cut in butter until streusel forms coarse, large crumbs. Set aside.",
+            "Whisk flour, baking powder, baking soda, salt, cinnamon, cloves, and nutmeg until combined. Set aside.",
+            "Cream sugar and butter in a large bowl with an electric mixer until light and fluffy. Beat in eggs one at a time, mixing well after each addition. Mix butternut squash, orange juice, orange zest, and vanilla extract until combined. Mix in 1/2 of the dry ingredients until just combined. Pour in buttermilk, mixing until just combined. Stir in remaining dry ingredients until just incorporated. Fold in poppy seeds.",
+            "Pour batter into the prepared pan and spread into an even layer. Sprinkle streusel mixture evenly over the top of the batter.",
+            "Set springform onto a baking sheet, and place into the preheated oven. Bake until a toothpick inserted into the center of the cake comes out clean, 55 to 60 minutes. Remove from oven and cool for 20 minutes before removing the sides of the pan. Serve slightly warm, or cool to room temperature."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Berry Coffeecake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "cooking spray",
+            "2 cups fresh raspberries",
+            "6 tablespoons brown sugar",
+            "2 cups all-purpose flour",
+            "⅔ cup white sugar",
+            "1 teaspoon baking powder",
+            "½ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "1 cup sour cream",
+            "¼ cup butter, melted",
+            "2 ½ teaspoons vanilla extract, divided",
+            "2 large eggs",
+            "2 cups toasted, chopped pecans",
+            "2 teaspoons milk",
+            "½ cup confectioners' sugar"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray a 10-inch Bundt pan with cooking spray.",
+            "Stir raspberries and brown sugar together; set aside. Mix flour, white sugar, baking powder, baking soda, and salt together in another bowl; set aside.",
+            "Beat sour cream, butter, and 2 teaspoons vanilla together in another bowl until light and fluffy. Beat in eggs one at a time until well combined. Stir in flour mixture until just moist for the batter.",
+            "Sprinkle 1/2 cup berries and 1 cup pecans in the pan. Pour in 1/2 of the batter. Sprinkle remaining 1 ½ cups berries, and remaining 1 cup pecans in the pan. Spread remaining batter over berries and pecans.",
+            "Bake in the preheated oven until a toothpick inserted into the center of cake comes out clean, 35 to 40 minutes.",
+            "To make the frosting: Stir milk, remaining 1/2 teaspoon vanilla, and confectioners' sugar together in a bowl. Remove cake from the pan and let cool before frosting."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cinnamon Streusel Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "¾ cup brown sugar",
+            "⅓ cup all-purpose flour",
+            "1 ½ teaspoons ground cinnamon"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish; set aside.",
+            "To make the cinnamon layer: Stir brown sugar, flour, and cinnamon together in a small bowl until well combined; set aside.",
+            "To make the streusel topping: combine brown sugar, flour, cinnamon, and salt in a small bowl. Add butter and stir with a fork until mixture is crumbly; set aside.",
+            "To make the cake: Whisk flour, baking powder, and salt together in a medium bowl.",
+            "Beat sugar and butter in a stand mixer fitted with the paddle attachment on medium speed until fluffy, about 3 minutes. Scrape the sides of the bowl, then turn the mixer on low speed and beat in eggs until well blended. Gradually mix in flour mixture and milk. Add sour cream and vanilla and beat for 30 seconds.",
+            "Pour 1/2 of the batter into the prepared baking dish. Sprinkle the cinnamon layer over batter, then pour the remaining batter over top. Spread streusel topping evenly over the cake, pressing very lightly so it adheres to the batter.",
+            "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 40 to 50 minutes. Remove from the oven and let cool completely before serving, about 30 minutes."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Date Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 ½ cups water",
+            "1 ½ cups raisins",
+            "¾ cup dates, pitted and chopped",
+            "1 teaspoon baking soda",
+            "¾ cup white sugar",
+            "½ cup butter",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 ½ cups all-purpose flour",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square pan.",
+            "Combine water and raisins in a medium saucepan. Bring to a boil and cook for 5 minutes. Remove from heat, then stir in chopped dates and baking soda. Set aside.",
+            "Cream together white sugar and butter in a large bowl until light and fluffy. Beat in eggs one at a time, then stir in vanilla. Add flour, salt, and date mixture; mix until combined. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 45 minutes. Remove cake from the oven.",
+            "Set the oven to broil. Meanwhile, make the topping: Melt butter in a small saucepan; stir in brown sugar, walnuts, and cream until combined. Spread mixture over warm cake.",
+            "Place cake under preheated broiler and cook until top is lightly browned, about 3 minutes. Rotate cake as needed for even browning; watch carefully as the top can burn quickly under the broiler."
+        ],
+        "healthiness_score": 48,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cinnamon Swirl Bundt Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 ½ cups white sugar",
+            "¾ cup butter, room temperature",
+            "3 large eggs",
+            "1 teaspoon vanilla extract",
+            "2 ½ cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon baking powder",
+            "1 cup sour cream",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 400 degrees F (205 degrees C). Grease a 10-inch Bundt pan.",
+            "Beat sugar and butter together in a large bowl with an electric mixer until light and fluffy. Add eggs, one at a time, beating well after each addition. Beat in vanilla.",
+            "Whisk flour, baking soda, and baking powder together in a separate bowl; add flour mixture in 2 batches, alternating with sour cream, beating batter briefly after each addition. Fold in walnuts. Pour 1/2 of the batter into the prepared pan.",
+            "Mix sugar and cinnamon together in a small bowl; sprinkle over batter in the pan. Drop remaining batter in heaping spoonfuls over filling, covering it as best you can.",
+            "Bake in the preheated oven for 8 minutes. Lower heat to 350 degrees F (175 degrees C) and bake until a toothpick inserted into the center comes out clean, about 40 minutes more. Cool on a wire rack for 5 minutes. Invert carefully onto a serving plate or cooling rack. Let cool completely."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blueberry Sour Cream Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "2 cups white sugar",
+            "1 cup butter, softened",
+            "2 large eggs",
+            "1 cup sour cream",
+            "1 teaspoon vanilla extract",
+            "1 ⅝ cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "¼ teaspoon salt",
+            "1 cup fresh or frozen blueberries",
+            "½ cup brown sugar",
+            "½ cup chopped pecans",
+            "1 teaspoon ground cinnamon",
+            "1 tablespoon confectioners' sugar for dusting"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch Bundt pan.",
+            "Beat sugar and butter together in a large bowl with an electric mixer until light and fluffy. Add eggs, one at a time, beating well after each addition. Beat in sour cream and vanilla extract. Combine flour, baking powder, and salt; stir into butter mixture until just blended. Fold in blueberries.",
+            "Spoon 1/2 of the batter into the prepared pan. Combine brown sugar, pecans, and cinnamon in a small bowl; sprinkle 1/2 of the mixture over batter in the pan.",
+            "Spoon remaining batter on top, then sprinkle over remaining pecan mixture. Use a knife or thin spatula to swirl the sugar layer into the cake.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour to 1 hour 15 minutes. Cool briefly on a wire rack. Invert carefully onto a serving plate; dust with confectioners' sugar just before serving.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pecan Sour Cream Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 ½ cups pecans, finely chopped",
+            "⅓ cup white sugar",
+            "⅓ cup packed light brown sugar",
+            "3 tablespoons melted butter",
+            "1 teaspoon cinnamon",
+            "⅛ teaspoon salt"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Butter an 8x10-inch baking dish.",
+            "Make the topping: Mix pecans, white sugar, brown sugar, melted butter, cinnamon, and salt together in a mixing bowl until thoroughly combined and all components are coated with butter, 3 to 4 minutes.",
+            "Make the cake: Whisk flour, baking powder, baking soda, and salt together in a medium bowl.",
+            "Mix sugar and butter together in a large bowl with a spatula until well blended. Whisk in eggs, one at a time, until thoroughly incorporated. Whisk in sour cream and vanilla. Gradually whisk in flour mixture until flour is just incorporated; do not overmix.",
+            "Spread 1/2 of the batter over the bottom of the prepared baking dish, then sprinkle with 1/2 of the topping. Carefully spoon remaining batter over topping, then sprinkle with remaining topping; very gently press topping into batter.",
+            "Bake in the preheated oven until a bamboo skewer inserted into the center comes out clean, 30 to 35 minutes.",
+            "Let cool slightly before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "¾ teaspoon ground cinnamon",
+            "½ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "¾ cup brown sugar",
+            "¼ cup unsalted butter, softened",
+            "1 large egg",
+            "¼ cup sour cream",
+            "¼ cup vanilla yogurt",
+            "1 teaspoon vanilla extract",
+            "2 cups diced Granny Smith apple"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and generously flour an 8-inch square baking dish.",
+            "To make the cake: Stir flour, cinnamon, baking soda, and salt together in a bowl.",
+            "Beat brown sugar and butter with an electric mixer in a large bowl until light, fluffy, and noticeably lighter in color. Mix in egg, then mix in sour cream, yogurt, and vanilla until well incorporated.",
+            "Gradually mix in flour mixture, then fold in apples. Pour batter into the prepared baking dish.",
+            "To make the crumb topping: Mix brown sugar, flour, butter, and cinnamon together in a bowl with a fork until crumbly. Sprinkle over cake batter.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 35 to 40 minutes. Remove from the oven and cool on a wire rack.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Crumble Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "2 teaspoons unsalted butter"
+        ],
+        "num_ingredients": 1,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C) with an rack in the center position. Generously butter a 9x12-inch baking dish with 2 teaspoons butter.",
+            "Whisk flour, baking powder, baking soda, and ½ teaspoon sea salt together in a bowl; set dry ingredients aside.",
+            "Combine walnuts, ⅓ cup brown sugar, ⅓ cup white sugar, 3 tablespoons melted butter, cinnamon, and ¼ teaspoon salt in a bowl until walnuts and sugars are thoroughly coated with butter; set crumble mixture aside.",
+            "Beat 1 cup white sugar and ½ cup butter together in a separate bowl with a spatula until well blended.",
+            "Whisk in 1 egg until mixture is smooth, 2 to 3 minutes.",
+            "Whisk in second egg until thoroughly incorporated. Add yogurt and vanilla; whisk together.",
+            "Add flour mixture to yogurt mixture; whisk just until flour disappears. Do not overmix.",
+            "Remove and discard cores from apples. Cut apples into ⅛- to ¼-inch slices. Stack a few slices; cut down the center, lengthwise, then dice, crosswise, into cubes.",
+            "Fold apples into cake batter with a spatula until just combined.",
+            "Spread ½ the batter into the prepared baking dish; evenly scatter ½ crumble mixture over top.",
+            "Dollop remaining ½ batter on top crumble mixture; spread carefully to evenly distribute, trying not to disturb the crumbs.",
+            "Top with remaining ½ crumble mixture; press crumbs into the batter very gently.",
+            "Bake in the center of the preheated oven until a toothpick or bamboo skewer inserted into the center comes out clean, about 40 minutes.",
+            "Cool to room temperature before slicing and serving, about 30 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buttery Cinnamon Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "1 teaspoon ground cinnamon",
+            "¾ teaspoon salt",
+            "1 ⅓ cups white sugar",
+            "⅔ cup shortening",
+            "1 ½ teaspoons vanilla extract",
+            "3 large eggs",
+            "⅔ cup milk"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and lightly flour a 10-inch Bundt pan.",
+            "Make the cake: Stir flour, baking powder, cinnamon, and salt together in a bowl.",
+            "Beat sugar, shortening, and vanilla in a large bowl with an electric mixer until light and fluffy.",
+            "Add eggs, one at a time, beating for at least 1 minute after each addition.",
+            "Beat in flour mixture alternately with milk.",
+            "Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, 40 to 45 minutes.",
+            "While the cake is baking, make the syrup: Combine sugar, water, butter, vanilla, and cinnamon in a saucepan over medium-low heat. Cook and stir until butter melts; keep warm.",
+            "Remove cake from the oven and let cool in the pan for 10 minutes. Invert warm cake carefully onto a serving plate or cooling rack.",
+            "Use a fork to poke holes around the top of the cake.",
+            "Pour warm syrup over the top and sides, making sure it goes into the holes. Serve after about 30 minutes, while still warm."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bisquick Coffee Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "2 cups baking mix (such as Bisquick®)",
+            "⅔ cup milk",
+            "1 large egg",
+            "2 tablespoons white sugar",
+            "¼ teaspoon ground cinnamon"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease a 9-inch square baking dish.",
+            "Make the cake: Mix baking mix, milk, egg, sugar, and cinnamon together in a bowl until well combined; spread into the bottom of the prepared baking dish.",
+            "Make the topping: Mix baking mix, brown sugar, butter, and cinnamon together in a separate bowl using a fork or pastry blender until crumbly. Sprinkle evenly over batter, then drag a butter knife across the top in a crisscross pattern.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 25 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vasilopita - Greek New Years Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "2 cups white sugar",
+            "1 cup butter",
+            "3 cups all-purpose flour",
+            "6 large eggs",
+            "2 teaspoons baking powder",
+            "1 cup warm milk (110 degrees F/45 degrees C)",
+            "½ teaspoon baking soda",
+            "1 tablespoon fresh lemon juice",
+            "¼ cup blanched slivered almonds",
+            "2 tablespoons white sugar"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Generously grease a 10-inch round cake pan.",
+            "Beat sugar and butter together in a medium bowl until lighter in color; stir in flour and mix until the mixture is mealy. Add eggs one at a time, mixing well after each addition. Combine baking powder and milk; add to egg mixture, mix well. Combine lemon juice and baking soda; stir into the batter. Pour into the prepared cake pan.",
+            "Bake in the preheated oven for 20 minutes. Remove and sprinkle the nuts and sugar over the cake, then return it to the oven until cake springs back to the touch, about 20 to 30 additional minutes. Gently cut a small hole in the cake and place a quarter in the hole. Try to cover the hole with sugar. Cool cake on a rack for 10 minutes before inverting onto a plate.",
+            "Serve cake warm."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Oatmeal Cake",
+        "category": "Coffee Cakes",
+        "ingredients": [
+            "1 ¼ cups boiling water",
+            "1 cup quick-cooking oats",
+            "½ cup butter",
+            "¾ cup packed brown sugar",
+            "¾ cup white sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 teaspoon ground cinnamon",
+            "1 ½ cups all-purpose flour",
+            "½ cup raisins"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Pour the boiling water over the quick oats and let stand for 20 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking pan.",
+            "Beat sugar and butter together in a large bowl with an electric mixer until creamy. Beat in eggs, then mix in oats and vanilla.",
+            "Combine baking soda, salt, cinnamon, and flour; mix until combined. Add the raisins to flour mixture and coat well.",
+            "Add raisin and flour mixture to the oatmeal mixture and stir to combine.",
+            "Pour cake batter into the prepared pan.",
+            "Bake cake in the preheated oven until a toothpick inserted in the center comes out clean, about 35 minutes."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    }
+]

@@ -1,0 +1,519 @@
+[
+    {
+        "Main_category": "healthy"
+    },
+    {
+        "recipe_title": "Homemade Crispy Hash Browns",
+        "category": "Low Calorie",
+        "ingredients": [
+            "2 medium russet potatoes, shredded",
+            "½ medium onion, finely chopped",
+            "¼ cup all-purpose flour",
+            "1 large egg",
+            "1 cup oil for frying, or as needed",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Rinse shredded potatoes until water is clear, then drain and squeeze dry. Place shreds in a bowl and mix in the onion, flour, and egg until evenly distributed.",
+            "Heat about 1/4 inch of oil in a large heavy skillet over medium-high heat. When oil is sizzling hot, place potatoes into the pan in a 1/2 inch thick layer. Cover the whole bottom of the pan, or make separate piles like pancakes.",
+            "Cook until nicely browned on the bottom, then flip over and brown on the other side. It should take at least 5 minutes per side. If you are cooking them in one big piece, it can be cut into quarters for easier flipping.",
+            "Remove from pan, and drain on paper towels. Season with salt and pepper and serve immediately.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vietnamese Fresh Spring Rolls",
+        "category": "Low Calorie",
+        "ingredients": [
+            "2 ounces rice vermicelli noodles",
+            "8 rice wrappers (8.5 inch diameter)",
+            "8 large cooked shrimp - peeled, deveined and cut in half",
+            "2 leaves lettuce, chopped",
+            "3 tablespoons chopped fresh mint leaves",
+            "3 tablespoons chopped fresh cilantro",
+            "1 ⅓ tablespoons chopped fresh Thai basil"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Fill a large pot with lightly salted water and bring to a rolling boil; stir in noodles and return to a boil. Cook noodles uncovered, stirring occasionally, until tender yet firm to the bite, 3 to 5 minutes; drain and set aside to cool.",
+            "Fill a large bowl with warm water. Dip one wrapper into the hot water for 1 second to soften.",
+            "Lay wrapper flat; place 2 shrimp halves in a row across the center, add some cooled noodles, lettuce, mint, cilantro, and basil, leaving about 2 inches uncovered on each side.",
+            "Fold uncovered sides inward, then tightly roll the wrapper, beginning at the end with lettuce. Repeat with remaining ingredients.",
+            "To make the chili sauce for dipping: Mix water, lime juice, sugar, fish sauce, garlic, and chili sauce in a small bowl until well combined.",
+            "To make the second sauce for dipping: Mix hoisin sauce and peanuts in a separate small bowl.",
+            "Serve spring rolls with the two sauce mixtures."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Roasted Broccoli",
+        "category": "Low Calorie",
+        "ingredients": [
+            "14 ounces broccoli",
+            "1 tablespoon olive oil",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+            "Cut broccoli florets from the stalk.",
+            "Peel the stalk and slice into 1/4-inch slices.",
+            "Mix florets and stem pieces with olive oil in a bowl and transfer to a baking sheet; season with salt and pepper.",
+            "Roast in the preheated oven until broccoli is tender and lightly browned, about 18 to 20 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Greek Pulled Pork",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 (2 pound) pork tenderloin, fat trimmed",
+            "2 tablespoons Greek seasoning (such as Cavender's), or more to taste",
+            "1 (16 ounce) jar sliced pepperoncini peppers with juice (such as Mezzetta)"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Place pork tenderloin in a slow cooker; generously season with Greek seasoning. Pour pepperoncini with juice over pork.",
+            "Cover slow cooker. Cook on High for 4 hours.",
+            "Shred pork using 2 forks. Cook 10 to 15 minutes more."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Whitney and Ashley's Flawless Roasted Vegetables",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 sheet Reynolds parchment paper",
+            "2 large zucchini, sliced",
+            "2 large yellow squash, sliced",
+            "1 medium onion, cut into",
+            "1 medium red bell pepper, sliced",
+            "2 tablespoons olive oil",
+            "2 teaspoons dried Italian seasoning, and more to taste (Optional)",
+            "salt and ground black pepper to taste",
+            "1 lemon, halved"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 400 degrees F (205 degrees C) with rack in top position. Line a baking sheet with parchment paper.",
+            "Place zucchini, yellow squash, onion, and bell pepper in a large bowl. Add olive oil, 2 teaspoons Italian seasoning, salt, and black pepper; toss to coat.",
+            "Spread vegetables in a single layer on the prepared baking sheet; season with Italian seasoning.",
+            "Bake in the preheated oven on the top rack until vegetables are crisp-tender, about 15 minutes; squeeze with lemon juice before serving."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pork Normandy",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 ½ pounds pork tenderloin",
+            "1 medium onion, thinly sliced",
+            "1 large sweet apple - peeled, cored and thinly sliced",
+            "1 tablespoon all-purpose flour",
+            "5 ounces chicken stock",
+            "4 fluid ounces hard apple cider",
+            "salt and pepper to taste",
+            "2 tablespoons heavy cream"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Melt butter in an oven-proof skillet over medium heat. Sear tenderloin in melted butter, then transfer to a plate.",
+            "Add onions to the skillet; cook and stir for 2 to 3 minutes. Stir in apple and cook until golden brown. Stir in flour and cook for about 30 seconds.",
+            "Whisk chicken stock and hard cider together in a bowl; pour into the skillet and bring to a boil while scraping the browned bits of food off the bottom of the pan. Return tenderloin to the skillet; season with salt and pepper.",
+            "Cover the skillet, transfer to the preheated oven, and bake until is pork is slightly pink in the center, about 45 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C).",
+            "Transfer tenderloin to a cutting board, and cut into 1 1/2-inch slices.",
+            "Place onions, apples, and all liquid from the skillet into a blender or food processor; pulse until smooth. Return sauce to the pan, and reheat over medium-low. Stir in cream and heat until warm.",
+            "Spoon sauce over sliced tenderloin to serve."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Picante Chicken",
+        "category": "Low Calorie",
+        "ingredients": [
+            "2 skinless, boneless chicken breasts",
+            "1 cup picante sauce"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Open jar of picante sauce and put into a large saucepan. Add chicken breasts to picante sauce and bring to a steady boil. Boil gently for 20 to 25 minutes or until the chicken is no longer pink inside and the juices run clear."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cabbage Success",
+        "category": "Low Calorie",
+        "ingredients": [
+            "4 tablespoons butter",
+            "1 cup whole milk",
+            "1 tablespoon brown sugar",
+            "1 head cabbage, cored and shredded",
+            "1 onion, chopped",
+            "1 pinch salt",
+            "1 pinch white pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Melt butter in a large saucepan over low heat. Add the milk, and cook for about 5 minutes, or until hot. Stir in the brown sugar until dissolved. Stir in cabbage and onion, and season with salt and white pepper. Simmer over medium heat until sauce is creamy, and the onion is tender."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Homestyle Green Beans",
+        "category": "Low Calorie",
+        "ingredients": [
+            "3 slices bacon, cut into 1 inch pieces",
+            "¼ cup chopped onion",
+            "1 (15 ounce) can green beans, with liquid",
+            "1 cube chicken bouillon"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Heat a saucepan over medium heat, and add the bacon pieces. Fry for a few minutes, then add the onions. Cook and stir until the onions are tender, about 5 minutes. Pour in the green beans, and crumble in the bouillon cube. Stir to blend, then simmer for about 15 minutes. If you wish to simmer longer, add more water to keep the beans from scorching."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Beef Kelaguen",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 ½ cups lemon juice, or as needed",
+            "2 tablespoons soy sauce",
+            "Tabasco to taste",
+            "2 pounds beef flank steak, very thinly sliced against the grain",
+            "1 bunch green onions, thinly sliced"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Pour lemon juice, soy sauce, and Tabasco into a large, glass bowl. Stir in beef and green onions. Add additional lemon juice if needed to cover the beef.",
+            "Cover the bowl with plastic wrap, and allow to rest at room temperature for 1 hour, until meat turns a grayish-brown color and appears cooked."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Portuguese Pork with Red Peppers",
+        "category": "Low Calorie",
+        "ingredients": [
+            "4 large cloves garlic, peeled",
+            "1 ½ teaspoons coarse salt",
+            "2 tablespoons olive oil",
+            "1 tablespoon whole black peppercorns",
+            "2 pounds pork tenderloin, cut into 1 inch medallions",
+            "2 red bell peppers, julienned",
+            "1 cup white wine",
+            "2 lemons"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "With a large mortar and pestle, mash the garlic, coarse salt, 1 tablespoon olive oil, and peppercorns into a fine paste. Transfer to a large bowl.",
+            "With a mallet, flatten the pork medallions to 1/4 inch thick. Place in the bowl with the garlic mixture, tossing to coat. Cover, and marinate 2 to 4 hours in the refrigerator.",
+            "Heat the remaining oil in a large skillet over high heat. Stir in the pork and remaining garlic mixture. Quickly brown pork about 1 minute on each side. Remove from heat, and set aside.",
+            "Place red peppers into the skillet, and saute 2 to 5 minutes, until tender but firm. Pour white wine into the skillet, and scrape up the browned bits. Reduce heat to low, return pork to skillet, and continue cooking 10 to 15 minutes, to an internal temperature of 180 degrees F (80 degrees C).",
+            "Slice 1 1/2 lemons into thin rounds. Transfer the pork and pepper mixture to a serving platter. Squeeze juice of remaining 1/2 lemon over the pork and peppers, and garnish with the lemon rounds."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Creamed Cabbage",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 cup milk",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons butter",
+            "¼ teaspoon salt",
+            "1 dash ground black pepper",
+            "1 medium head cabbage, shredded",
+            "1 cup grated Romano cheese"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Blend milk, flour, butter, salt, and pepper in a medium saucepan over medium heat. Stir constantly until a thick white sauce has formed. Set aside.",
+            "Bring water to a boil in a separate medium saucepan. Place cabbage in a steamer set over the saucepan and steam until tender but firm.",
+            "Alternate layers of white sauce, steamed cabbage, and grated Romano cheese in a small baking dish.",
+            "Bake until sauce and cheese are bubbly, about 30 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Asparagus",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 pound fresh asparagus spears, trimmed",
+            "1 tablespoon olive oil",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather the ingredients.",
+            "Preheat an outdoor grill for high heat and lightly oil the grate.",
+            "Lightly coat the asparagus spears with olive oil. Season with salt and pepper to taste.",
+            "Cook asparagus on the preheated grill, turning often until lightly charred and fork-tender about 3 to 5 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Southern Fried Cabbage",
+        "category": "Low Calorie",
+        "ingredients": [
+            "⅓ cup vegetable oil",
+            "3 slices bacon, cut into thirds",
+            "1 teaspoon salt, or to taste",
+            "1 teaspoon ground black pepper, or to taste",
+            "1 head cabbage, cored and sliced",
+            "1 white onion, chopped",
+            "1 pinch white sugar"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a large pot over medium heat; add sliced bacon and season with salt and pepper. Cook until bacon is crisp, 5 to 7 minutes.",
+            "Add cabbage, onion, and sugar; cook and stir continuously until cabbage and onion are tender, about 5 to 10 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Roasted New Red Potatoes",
+        "category": "Low Calorie",
+        "ingredients": [
+            "3 pounds small red new potatoes, halved",
+            "¼ cup olive oil",
+            "1 teaspoon salt and freshly ground black pepper"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C) and adjust the oven rack to the lowest position.",
+            "Toss potatoes with oil, salt, and pepper in a bowl. Arrange, cut-side down, on a rimmed cookie sheet or jellyroll pan.",
+            "Roast potatoes in the preheated oven until tender and golden brown, 20 to 30 minutes. Transfer to a serving dish.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Black Beans and Rice",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 teaspoon olive oil",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "¾ cup uncooked white rice",
+            "1 ½ cups low sodium, low fat vegetable broth",
+            "3 ½ cups canned black beans, drained",
+            "1 teaspoon ground cumin",
+            "¼ teaspoon cayenne pepper"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a saucepan over medium-high heat. Add onion and garlic; cook and stir until onion has softened, about 4 minutes.",
+            "Stir in rice to coat; cook and stir for 2 minutes.",
+            "Add vegetable broth and bring to a boil. Cover, reduce to a simmer, and cook until liquid is absorbed, about 20 minutes.",
+            "Stir in beans, cumin, and cayenne; cook until beans are warmed through.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Simply Steamed Asparagus",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 bunch asparagus spears",
+            "1 teaspoon butter",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Place 3 cups water in the bottom half of a steamer pan set. Add butter and salt and bring to a boil.",
+            "Trim dry ends off of asparagus. If spears are thick, peel them lightly with a vegetable peeler.",
+            "Place asparagus spears in the top half of the steamer pan set. Steam until asparagus is tender, 5 to 10 minutes depending on thickness.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Easy Baked Tilapia",
+        "category": "Low Calorie",
+        "ingredients": [
+            "4 (4 ounce) fillets tilapia",
+            "2 teaspoons butter",
+            "½ teaspoon garlic salt, or to taste",
+            "¼ teaspoon seafood seasoning (such as Old Bay®), or to taste",
+            "1 lemon, sliced",
+            "1 (16 ounce) package frozen cauliflower with broccoli and red pepper",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees F). Grease a 9x13-inch baking dish.",
+            "Place tilapia fillets in the bottom of the baking dish, then dot with butter and season with garlic salt and seafood seasoning.",
+            "Top each fillet with a slice or two of lemon.",
+            "Arrange frozen mixed vegetables around fillets and season lightly with salt and pepper. Cover the dish with aluminum foil.",
+            "Bake in the preheated oven until vegetables are tender and fish flakes easily with a fork, 25 to 30 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fish in Foil",
+        "category": "Low Calorie",
+        "ingredients": [
+            "2 rainbow trout fillets",
+            "1 tablespoon olive oil",
+            "2 teaspoons garlic salt",
+            "1 teaspoon ground black pepper",
+            "2 sheets heavy-duty aluminum foil",
+            "1 fresh jalapeno pepper, sliced",
+            "1 lemon, sliced"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+            "Rinse and pat fillets dry. Rub fillets with olive oil, and season with garlic salt and black pepper.",
+            "Place each fillet on a large sheet of aluminum foil. Top with jalapeno slices, and squeeze the juice from the ends of the lemon over fillets.",
+            "Arrange remaining lemon slices on top of fillets.",
+            "Carefully seal all edges of the foil to form enclosed packets. Place packets on a baking sheet.",
+            "Bake in the preheated oven until fish flakes easily with a fork, 15 to 20 minutes depending on size of fillets."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Three Bean Salad",
+        "category": "Low Calorie",
+        "ingredients": [
+            "1 (15 ounce) can green beans",
+            "1 pound wax beans",
+            "1 (15 ounce) can kidney beans, drained and rinsed",
+            "1 onion, sliced into thin rings",
+            "¾ cup white sugar, or to taste",
+            "⅔ cup distilled white vinegar",
+            "⅓ cup vegetable oil",
+            "½ teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon celery seed"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix together green beans, wax beans, kidney beans, onion, sugar, vinegar, vegetable oil, salt, pepper, and celery seed. Chill in refrigerator for at least 12 hours.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    }
+]

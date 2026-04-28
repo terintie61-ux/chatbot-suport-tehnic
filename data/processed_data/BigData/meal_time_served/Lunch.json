@@ -1,0 +1,603 @@
+[
+    {
+        "Main_category": "meal_time_served"
+    },
+    {
+        "recipe_title": "4-Ingredient Egg Avocado Toast",
+        "category": "Lunch",
+        "ingredients": [
+            "1 slice",
+            "1/2 cup avocado",
+            "1 large hard boiled egg",
+            "1 teaspoon Everything Bagel Seasoning"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Smear mashed avocado on toast. Sprinkle with everything bagel seasoning. Top with egg. Season with salt and pepper."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Green Goddess Chicken and Cucumber Wraps",
+        "category": "Lunch",
+        "ingredients": [
+            "2 (7 inch) spinach herb tortillas",
+            "2 leaf lettuce leaves",
+            "2 (1 ounce) slices mozzarella",
+            "2/3 cup cooked chicken breast",
+            "1 cucumber",
+            "1/2 avocado",
+            "1 thin slice sweet onion",
+            "2 tablespoons green goddess salad dressing,",
+            "2 green onion leaves",
+            "grape tomatoes"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "For each wrap, place a tortilla on a flat work surface and cover half the tortilla surface with a piece of leaf lettuce. Top lettuce with 1 mozzarella slice, and distribute 1/3 cup shredded chicken over cheese.",
+            "Cut cucumber in half crosswise. Cut one half into 6 to 8 cucumber spears, and set aside. Use a vegetable peeler to shave remaining half of cucumber into very thin pieces, avoiding seeds. Place 1/2 of shaved cucumber on top of chicken.",
+            "Add half the avocado slices and half the sweet onion rings. Drizzle with 1 tablespoon green goddess dressing. Begin rolling the tortilla from the filled edge to the unfilled edge. Roll wrap in a paper towel to mold. Meanwhile, repeat steps with remaining ingredients for second wrap.",
+            "Release first wrap from paper towel and tie closed with a green onion leaf or chive. Release and tie second wrap.",
+            "To serve, place wraps on a bed of leaf lettuce. Lettuce leaves may be used for an optional outer wrap. Garnish with reserved cucumber spears and grape tomatoes."
+        ],
+        "healthiness_score": 86,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ploughman's Sandwich",
+        "category": "Lunch",
+        "ingredients": [
+            "2 slices bread",
+            "1 teaspoon butter",
+            "arugula",
+            "2 sweet gherkin pickles",
+            "3 slices smoked ham",
+            "2 slices white Cheddar cheese",
+            "1 small tomato",
+            "1 teaspoon mustard"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Lightly butter both slices of bread.",
+            "Layer the arugula, pickles, ham, Cheddar, and tomatoes on one slice of buttered bread. Spread the mustard on the remaining buttered bread slice, and place on top. Cut sandwich in half, and serve."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hotdog Roll-Ups",
+        "category": "Lunch",
+        "ingredients": [
+            "8 (1-ounce) slices white bread",
+            "2 tablespoons yellow mustard",
+            "4 thin slices sharp Cheddar cheese",
+            "8 beef hot dogs",
+            "4 tablespoons yellow onion",
+            "2 tablespoons plus 2 teaspoons pickle relish",
+            "1/4 cup barbecue sauce",
+            "1/4 cup mayonnaise",
+            "1/2 teaspoon seasoned salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Using a rolling pin, roll each bread slice until entirely flat. Trim just the crust off each bread slice, forming a 4x4-inch square. Spread each bread slice with an even layer of mustard (about 3/4 teaspoon per slice).",
+            "Working with 1 slice of bread at a time, place a halved cheese slice on the edge of the bread closest to you; place 1 hot dog horizontally on top of the cheese slice. If needed, trim the ends of the hot dog so that no hot dog extends over edges of bread. Spoon 1 1/2 teaspoons onion horizontally across the cheese slice above the hot dog, followed by 1 teaspoon of relish.",
+            "Roll up tightly, applying gentle pressure to help seal the bread seams together. Slice crosswise into 3 equal pieces (about 1 1/4-inches each), and transfer to a serving platter. Repeat process with remaining ingredients. Preheat an air fryer to 400 degrees F (200 degrees C) for 5 minutes, or according to manufacturer's instructions. Lightly coat tops and sides of roll-ups with cooking spray. Working in 2 batches, add roll-ups to basket, spacing them 1/2-inch apart, and cook until bread is lightly golden brown, about 5 minutes.",
+            "Stir together barbecue sauce, mayonnaise, and seasoned salt in a small bowl until evenly combined.",
+            "Serve hotdog roll-ups with mayonnaise mixture."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Ultimate Pool Sandwich",
+        "category": "Lunch",
+        "ingredients": [
+            "1 round bread loaf",
+            "2 tablespoons butter",
+            "2 tablespoons yellow mustard",
+            "2 cups iceberg lettuce",
+            "1/2 pound deli ham",
+            "1/2 pound deli turkey",
+            "6 slices Swiss cheese",
+            "6 slices Cheddar or Colby Jack cheese"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Cut a wide circle out of the bread loaf top like you're making a soup bread bowl. Carefully remove and set aside the loaf top.",
+            "Hollow out the bread interior, being careful not to break through the sides. The loaf interior can be used to make croutons, so there's no waste.",
+            "Melt butter with mustard in the microwave for 15 seconds in a small bowl. Mix well.",
+            "Brush butter mixture onto the exterior of the bread loaf and top; place loaf and top on a baking sheet.",
+            "Bake in the preheated oven for 10 minutes. Let cool.",
+            "Pat lettuce dry and place a layer in the bottom of the hollowed-out loaf. Layer cheese over lettuce. Add a layer of ham and turkey. Repeat until the loaf is full. Top with reserved bread top.",
+            "Wrap sandwich in plastic wrap and put on a baking sheet. Place another baking sheet on top with something to weigh it down.",
+            "Place the completed sandwich on the baking sheet in the refrigerator for at least 1 hour or overnight.",
+            "Keep the sandwich whole or cut it into easy triangular sections."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Asparagus and Eggs",
+        "category": "Lunch",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 garlic clove",
+            "8 asparagus stalks, trimmed",
+            "2 large eggs",
+            "salt and freshly ground black pepper to taste",
+            "1 pinch red pepper flakes (optional)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat a small skillet over medium-high heat. Add olive oil and garlic; cook and stir until garlic is fragrant, about 30 seconds.",
+            "Add asparagus and cook until fork-tender, turning asparagus often to ensure even cooking, about 4 minutes.",
+            "Spread asparagus out and crack 2 eggs over the asparagus. Cover with lid and cook until egg whites are firm and yolk is done to desired consistency, about 4 minutes.",
+            "Season with salt and pepper; sprinkle with red pepper flakes and serve immediately."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Tater Caesar Salad",
+        "category": "Lunch",
+        "ingredients": [
+            "8 ounces chicken cutlets",
+            "cooking spray",
+            "2 1/2 cups Tater Tots",
+            "2 ounces Parmesan cheese",
+            "1 cup Caesar dressing",
+            "1 teaspoon fresh lemon zest",
+            "1 teaspoon anchovy paste",
+            "1 teaspoon garlic",
+            "1/2 teaspoon ground black pepper",
+            "1/4 teaspoon kosher salt",
+            "4 cups omaine lettuce",
+            "1 tablespoon white balsamic vinegar"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Set 2 shelves near the center of the oven. Spray a baking pan with cooking spray; place frozen chicken filets on the pan.",
+            "Bake in the preheated oven on the lower-center shelf until hot and crisp, about 20 minutes, turning filets over halfway through heating time. When cool enough to handle, cut filets into bite-sized pieces.",
+            "Meanwhile, line a large rimmed baking sheet with parchment paper, and add tater tots in an even layer.",
+            "Bake on upper-center shelf in the preheated oven until tots are soft and slightly baked, 8 to 10 minutes. Remove from oven. Spray cooking spray on the bottom of a cup. Smash each tater tot into a flat disk with cup.",
+            "Return to the oven; bake until golden brown and crispy, 15 to 20 minutes. Remove from oven again, and sprinkle with 1/2 cup Parmesan cheese.",
+            "Bake again until cheese is melted, about 1 minute. Set aside to cool, about 5 minutes.",
+            "Meanwhile, whisk Caesar dressing, lemon juice, anchovy paste, garlic, 1/4 teaspoon black pepper, and salt together in a bowl until smooth.",
+            "Toss together lettuce, chicken, remaining 1/2 cup Parmesan cheese and remaining 1/4 teaspoon black pepper until well combined. Pour half the dressing into salad mix and toss until evenly coated. Add cooled tater tots and toss until well combined.",
+            "Transfer to a serving platter, drizzle with white balsamic vinegar, and garnish with more Parmesan cheese. Serve immediately."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Teriyaki Salmon Bowl",
+        "category": "Lunch",
+        "ingredients": [
+            "1/4 cup low-sodium soy sauce",
+            "3 tablespoons brown sugar",
+            "1 small clove garlic, chopped",
+            "1 tablespoon fresh ginger",
+            "1 (6 ounce) salmon filet",
+            "1/4 cup grated carrots",
+            "2 radishes, thinly sliced",
+            "1 cup red cabbage",
+            "1 cup cooked rice",
+            "1 teaspoon sesame seeds (optional)",
+            "1 green onion, thinly sliced (optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C) and spray a baking dish with cooking spray.",
+            "Combine soy sauce, brown sugar, garlic, and ginger in a small bowl. Place the salmon in the prepared baking dish, skin side down. Pour teriyaki sauce over.",
+            "Bake in the preheated oven until fish flakes easily with a fork, 12 to 15 minutes.",
+            "Place rice in a bowl, top with salmon, and spoon over teriyaki sauce from the baking dish. Add in the shredded cabbage, grated carrots, and radishes. Sprinkle with sliced green onions and sesame seeds, to garnish."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Meatless Grain Bowl",
+        "category": "Lunch",
+        "ingredients": [
+            "2 cups white rice",
+            "4 cups water",
+            "1 large sweet potato, peeled and cubed",
+            "3 tablespoons coconut oil or vegetable oil, or as needed, divided",
+            "1/2 red bell pepper, sliced",
+            "1/2 green bell pepper, sliced",
+            "1/2 orange bell pepper, sliced",
+            "1 14 ounce extra firm tofu",
+            "1 (15 ounce) can black beans, drained and rinsed",
+            "1 teaspoon jerk seasoning, or to taste",
+            "2 tablespoons jerk marinade"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, 20 to 25 minutes. Keep warm.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Toss cubed sweet potatoes in 1 tablespoon oil. Spread evenly on a baking sheet.",
+            "Roast sweet potatoes in the preheated oven until tender but not too soft, 15 to 20 minutes.",
+            "Heat a cast iron skillet with 1 tablespoon coconut oil over medium-high heat; add red, green, and orange bell peppers and saute for 2 to 3 minutes. Remove from the skillet and set aside.",
+            "Add remaining 1 tablespoon coconut oil to the same skillet. Add tofu evenly. Cook for 2 minutes and gently flip to the other side. Continue cooking, turning occasionally, until tofu gets a little crisp on the edges, 6 to 8 minutes.",
+            "Add jerk marinade, being deliberate about making sure tofu is covered. Once tofu starts to caramelize from the marinade, remove from heat.",
+            "Warm black beans in a microwave-safe dish until hot, 2 to 3 minutes, stirring every 30 seconds.",
+            "Assemble grain bowls: divide rice, tofu, peppers, sweet potatoes, and black beans evenly into individual serving bowls."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Miso Noodle Soup in a Jar",
+        "category": "Lunch",
+        "ingredients": [
+            "12 ounces tofu",
+            "1 tablespoon vegetable oil",
+            "1/4 cup green onions",
+            "3 tablespoons miso paste",
+            "2 cloves minced",
+            "1 tablespoon vegetable stock base",
+            "1 tablespoon grated fresh ginger",
+            "1 1/2 cups noodles",
+            "1 cup shiitake mushrooms",
+            "1 cup baby bok choy"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Cut tofu into 1/2-inch planks. Heat oil in a large skillet over medium-high heat. Cook tofu, turning halfway through, until golden, 6 to 8 minutes. Cut tofu into cubes.",
+            "Stir together green onions, miso paste, garlic, stock base, and ginger in a small bowl. Divide evenly among 3 microwave-safe pint-size canning jars with lids.",
+            "Layer evenly with rice vermicelli noodles, tofu, mushrooms, and bok choy. Chill, covered, up to 5 days. To serve, see \"Heat and Eat\". Garnish with sliced green onions."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Arugula Salad with Stone Fruit",
+        "category": "Lunch",
+        "ingredients": [
+            "2 tablespoons extra-virgin olive oil",
+            "2 tablespoons red wine vinegar",
+            "3/4 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1 1/2 cups cherry tomatoes, halved",
+            "1 1/2 cups cherry tomatoes, halved",
+            "1 (5- ounce package) arugula",
+            "3/4 cup basil leaves",
+            "2 nectarines, sliced",
+            "1 large white peach, sliced",
+            "1 cupRainier or other yellow-flesh cherries, Rainier or other yellow-flesh cherries,",
+            "1/2 teaspoon sea salt"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Whisk together olive oil, vinegar, salt, and pepper in a small bowl for the dressing.",
+            "Arrange tomatoes, arugula, basil, nectarines, and peach slices on a large platter. Drizzle with half the dressing. Top with cherries, sea salt, and remaining dressing. Serve immediately."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Croque Madame",
+        "category": "Lunch",
+        "ingredients": [
+            "4 tablespoons salted butter, softened, divided",
+            "1 ½ tablespoons all-purpose flour",
+            "1 cup milk",
+            "2 ounces shredded Gruyère cheese",
+            "¼ teaspoon salt, or to taste",
+            "¼ teaspoon ground black pepper, or to taste",
+            "⅛ teaspoon ground nutmeg",
+            "4 slices white bread, lightly toasted",
+            "2 teaspoons Dijon mustard",
+            "2 thin slices Black Forest ham",
+            "2 large eggs",
+            "1 tablespoon water",
+            "1 teaspoon chopped fresh dill, or to taste (Optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+            "Melt 1 1/2 tablespoons butter in a saucepan over medium-low heat. Whisk in flour and stir until slightly brown, about 3 minutes. Whisk in milk; bring to a boil, stirring constantly. Once boiling, reduce heat immediately and simmer for 5 minutes. Add 1/2 of the Gruyère cheese, salt, pepper, and nutmeg; heat until cheese is melted, about 2 minutes. Remove from the heat and set aside.",
+            "Spread about 1 teaspoon butter on 2 pieces of bread. Spread 1 tablespoon cheese sauce on top and layer each with a ham slice. Spread 1 teaspoon butter on the remaining 2 pieces of bread, then spread Dijon mustard on top and sprinkle with remaining Gruyère. Transfer all 4 pieces to a baking sheet.",
+            "Broil in the preheated oven until cheese is almost melted, 2 to 3 minutes. Remove from the oven, place toast slices together to make 2 sandwiches and pour remaining cheese sauce on top of each sandwich. Return to the broiler until sauce starts to brown, about 2 minutes.",
+            "While the sandwiches are broiling, heat remaining butter in a nonstick skillet over medium-high heat. Crack 2 eggs into the skillet, keeping them completely separate from one another. Season with salt and pepper. Add water, cover, and baste until whites are set but yolks are still runny, about 2 minutes.",
+            "Top each sandwich with an egg and sprinkle with dill, if using. Serve immediately."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Delicious Egg Salad",
+        "category": "Lunch",
+        "ingredients": [
+            "8 large eggs",
+            "½ cup mayonnaise",
+            "¼ cup chopped green onion",
+            "1 teaspoon prepared yellow mustard",
+            "¼ teaspoon paprika",
+            "salt and pepper to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes.",
+            "Remove eggs from hot water; cool, peel, and chop.",
+            "Place chopped eggs in a bowl; stir in mayonnaise, green onion, and mustard. Season with paprika, salt, and pepper.",
+            "Stir and serve on your favorite bread, crackers, or salad greens."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sloppy Joes",
+        "category": "Lunch",
+        "ingredients": [
+            "1 pound lean ground beef",
+            "¼ cup chopped onion",
+            "¼ cup chopped green bell pepper",
+            "¾ cup ketchup, or to taste",
+            "1 tablespoon brown sugar, or to taste",
+            "1 teaspoon yellow mustard, or to taste",
+            "½ teaspoon garlic powder",
+            "salt and ground black pepper to taste",
+            "6 hamburger buns, split"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes.",
+            "Stir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes.",
+            "Divide meat mixture evenly among hamburger buns."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pasta Salad",
+        "category": "Lunch",
+        "ingredients": [
+            "1 pound tri-colored spiral pasta",
+            "1 (16 ounce) bottle Italian-style salad dressing",
+            "6 tablespoons salad seasoning mix",
+            "2 cups cherry tomatoes, diced",
+            "1 green bell pepper, chopped",
+            "1 red bell pepper, diced",
+            "½ yellow bell pepper, chopped",
+            "1 (2.25 ounce) can black olives, chopped"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a large pot of lightly salted water to a boil. Cook pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 to 12 minutes; rinse under cold water and drain.",
+            "Whisk Italian dressing and salad spice mix together until smooth. Combine pasta, tomatoes, bell peppers, and olives in a salad bowl.",
+            "Pour dressing over salad and toss to coat.",
+            "For the best flavor, refrigerate the pasta salad for 8 hours to overnight.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Cream Of Broccoli Soup",
+        "category": "Lunch",
+        "ingredients": [
+            "5 tablespoons butter, divided",
+            "1 onion, chopped",
+            "1 stalk celery, chopped",
+            "3 cups chicken broth",
+            "8 cups broccoli florets",
+            "3 tablespoons all-purpose flour",
+            "2 cups milk",
+            "ground black pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Melt 2 tablespoons butter in a medium stock pot over medium heat. Saute onion and celery until tender.",
+            "Add broccoli and broth, cover, and simmer for 10 minutes.",
+            "Pour the soup into a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to puree. Puree in batches until smooth and pour into a clean pot.",
+            "Melt 3 tablespoons butter in a small saucepan over medium to medium-low heat; stir in flour and add milk. Stir until thick and bubbly, and add to soup. Season with pepper and serve.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Potato Salad",
+        "category": "Lunch",
+        "ingredients": [
+            "5 medium potatoes",
+            "3 large eggs",
+            "1 cup chopped celery",
+            "½ cup chopped onion",
+            "½ cup sweet pickle relish",
+            "¼ cup mayonnaise",
+            "1 tablespoon prepared mustard",
+            "¼ teaspoon garlic salt",
+            "¼ teaspoon celery salt",
+            "ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes.",
+            "Drain, cool, peel, and chop potatoes.",
+            "While potatoes cook, place eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes.",
+            "Remove eggs from hot water; cool, peel, and chop into chunks.",
+            "Combine potatoes, eggs, celery, onion, relish, mayonnaise, mustard, garlic salt, celery salt, and pepper in a large bowl. Mix together until well combined.",
+            "Chill potato salad in the refrigerator before serving for best flavor results. Enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Cheese Sandwich",
+        "category": "Lunch",
+        "ingredients": [
+            "4 slices white bread",
+            "3 tablespoons butter, divided",
+            "2 slices Cheddar cheese"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat a nonstick skillet over medium heat. Generously butter one side of a slice of bread.",
+            "Place bread butter-side down in the hot skillet; add 1 slice of cheese.",
+            "Butter a second slice of bread on one side and place butter-side up on top of cheese.",
+            "Cook until lightly browned on one side; flip over and continue cooking until cheese is melted.",
+            "Repeat with remaining 2 slices of bread, butter, and slice of cheese. Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fresh Tomato Soup",
+        "category": "Lunch",
+        "ingredients": [
+            "4 cups chopped fresh tomatoes",
+            "2 cups chicken broth",
+            "4 cloves garlic",
+            "1 large slice of onion",
+            "2 tablespoons butter",
+            "2 tablespoons all-purpose flour",
+            "2 teaspoons white sugar, or to taste",
+            "1 teaspoon salt, or to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather the ingredients.",
+            "Combine tomatoes, chicken broth, garlic cloves, and a large slice of onion in a stockpot over medium heat. Bring to a boil, and gently simmer for about 15 to 20 minutes to blend flavors.",
+            "Remove from heat and run the mixture through a food mill into a large bowl, or pan. Discard any stuff left over in the food mill.",
+            "Melt butter over medium heat in the now empty stockpot. Stir in flour to make a roux by cooking, whisking constantly, until mixture turns medium brown.",
+            "Gradually whisk in a bit of the tomato mixture to prevent lumps from forming, then stir in the rest.",
+            "Season with sugar and salt to taste.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Reuben Sandwich",
+        "category": "Lunch",
+        "ingredients": [
+            "8 slices rye bread",
+            "½ cup Thousand Island dressing",
+            "8 slices Swiss cheese",
+            "8 slices deli sliced corned beef",
+            "1 cup sauerkraut, drained",
+            "2 tablespoons butter, softened"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients and preheat a large griddle or skillet over medium heat.",
+            "Spread one side of bread slices evenly with Thousand Island dressing.",
+            "On four bread slices, layer one slice Swiss cheese, 2 slices corned beef, 1/4 cup sauerkraut, and a second slice of Swiss cheese. Top with remaining bread slices, dressing-side down. Butter the top of each sandwich.",
+            "Place sandwiches, butter-side down on the preheated griddle; butter the top of each sandwich with remaining butter. Grill until both sides are golden brown, about 5 minutes per side.",
+            "Serve hot. Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

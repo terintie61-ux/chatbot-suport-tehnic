@@ -1,0 +1,628 @@
+[
+    {
+        "Main_category": "main_dish"
+    },
+    {
+        "recipe_title": "Potato Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 large Yukon Gold or russet potato",
+            "4 large cloves garlic",
+            "2 tablespoons olive oil or avocado oil",
+            "1/2 bunch thyme, rosemary, or herbs of choice",
+            "1/2 teaspoon fine sea salt or kosher salt",
+            "1/2 teaspoon ground black pepper",
+            "4 ounces mixed shredded melty cheese, or more to taste",
+            "1 pound fresh pizza dough",
+            "1 ounce Parmesan cheese",
+            "1/2 teaspoon pizza seasoning",
+            "1 teaspoon red pepper flakes (optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat a pizza stone to the highest oven setting, 450 to 500 degrees F (240 to 260 degrees C), or a standalone pizza oven to medium heat, around 700 to 750 degrees F (370 to 400 degrees C). If using an oven, continue heating for 10 to 15 minutes after oven is up to temperature to ensure the pizza stone is nice and hot.",
+            "In a large bowl, toss potatoes, garlic, olive oil, fresh herbs, salt, and pepper. Use your hands to make sure oil and seasoning are well-distributed.",
+            "Sprinkle shredded cheese evenly across pizza dough. Spread potato slices evenly across the pie, shingling them as needed.",
+            "Top with Parmesan cheese. If using an oven, spritz the outside edge of pizza crust with oil, then evenly sprinkle pizza seasoning blend around the edge on top of oil. If using a high-powered pizza oven, spritz with oil and sprinkle with herbs after baking",
+            "Using a pizza peel, slide pizza onto the preheated stone or into the pizza oven.",
+            "Bake until the edges of the crust are puffed and blistered and the bottom of the crust is firm and golden, 12 to 17 minutes in a conventional oven, or 4 to 7 minutes in a pizza oven, or according to manufacturer's instructions. If using an oven, rotate the pie about 120 degrees every 1 1/2 to 2 minutes to ensure even baking.",
+            "Garnish with a sprinkle of fresh herbs, an extra sprinkle of Parm, and red pepper flakes. Slice into 8 pieces and serve hot!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lavash Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 package lavash flatbread",
+            "1/2 cup pizza sauce",
+            "8 ounces mozzarella cheese, shredded",
+            "2 ounces"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Spray one side of lavash with nonstick spray.",
+            "Bake lavash directly on the rack in the preheated oven for 2 minutes.",
+            "Carefully remove lavash from oven; place on a baking tray. Spread 2 to 3 tablespoons pizza sauce on each lavash.",
+            "Sprinkle 2 ounces shredded mozzarella cheese on each lavash. Top with pepperoni.",
+            "Bake pizza until cheese is melted and golden, about 15 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pissaladière (Southern French \"Pizza\")",
+        "category": "Pizza",
+        "ingredients": [
+            "1 1/4 cups water",
+            "1 teaspoon dry active \"rapid rise\" yeast",
+            "1 tablespoon olive oil",
+            "3 cups all-purpose flour",
+            "1 1/2 teaspoons kosher salt"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "For dough, add water and yeast to a bowl; let stand for 10 minutes. Stir in olive oil, flour, and salt, and knead until a very sticky, elastic dough is formed, about 4 minutes. Cover and let rise in a warm spot until doubled in size, about 1 hour.",
+            "Punch down dough to remove the air bubbles, and transfer to a floured work surface. Form into a smooth ball of dough.",
+            "Grease a parchment paper sheet with olive oil; and transfer dough onto the sheet; grease another parchment sheet and lay it on top of the dough. Press out dough with your hands to form a rectangle, then switch to a rolling pin and roll dough out to cover nearly the entire surface of the paper.",
+            "Preheat the oven to 450 degrees F (235 degrees C). Transfer dough with both sheets of parchment onto a sheet pan. Carefully peel off the top sheet of paper, and then use a fork to prick the dough all over.",
+            "Bake in the preheated oven for 10 minutes. Remove to cool on a rack; set aside until needed.",
+            "Transfer anchovies into a bowl and cover with 4 cups of cold water. Gently separate the fillets and let soak for 1 hour. Water may be changed halfway through to remove more salt from anchovies. Drain and pat dry on paper towels.",
+            "For caramelized onions, add butter and olive oil to a heavy-bottomed pot, and place over medium-high heat. Add onions and salt, and toss occasionally with a spatula, until onions just begin to slump down in the pot. Reduce heat to medium, cover, and cook for 10 minutes.",
+            "Uncover; reduce heat to medium low. Cook, stirring occasionally, until onions are a light golden brown, about 1 hour. Add thyme, sherry vinegar, and black pepper. For a slightly more intense version, a few anchovy fillets can be added to the onions at this point. Cook, stirring, for another 10 to 15 minutes. Turn off heat and let cool.",
+            "Preheat the oven to 450 degrees F (235 degrees C).",
+            "Line a baking sheet with a fresh sheet of parchment, and grease with olive oil. Place crust on the prepared sheet. For a crispier edge, brush 1-inch of the outside edge of dough with olive oil. Spread caramelized onions over crust, going nearly to the edge.",
+            "Place half of the anchovies in diagonal rows, spaced a couple inches apart, on top of the onions, then place the other half of anchovies in diagonal rows in the other direction to form the classic pissaladiere decoration. Place an olive half inside each opening in the grid formed by anchovies.",
+            "Bake in the preheated oven until edges of the crust are browned, and the bottom is golden, about 25 minutes. Remove from oven and allow to ool for about 5 minutes. Cut in squares and serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Roman-Style Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "4 1/4 cups bread flour (500 grams)",
+            "1 rounded teaspoon dry yeast (3.5 grams)",
+            "1 1/2 cups water (400 ml)",
+            "1 1/2 tablespoons olive oil",
+            "sea salt or kosher salt ("
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "For dough, mix together flour, yeast, and water with a wooden spoon until almost all flour has disappeared and a rough dough is formed.",
+            "Add salt and olive oil and continue mixing with a spoon for about 3 minutes until a smooth, very soft and sticky dough forms. Clean off spoon and scrape down bowl. Cover and let rest 15 minutes.",
+            "Perform first set of rotating folds: leaving dough in the bowl, with a damp hand, reach under and grab the dough at the edge of the bowl, pull it and stretch it over the top. Rotate the bowl a few inches and repeat about 10 or 12 times, then gather the dough into a ball as best you can, turning the smoothest side up. Cover the bowl, and let dough rest for 15 minutes. Repeat this stretch, fold, and rest process 2 more times.",
+            "Transfer dough into an oiled container with a lid, rub dough with a few drops of olive oil and cover. Refrigerate for 24 hours or until doubled in size.",
+            "Transfer dough to the counter. With damp hands press and stretch dough into a square about 15 inches wide. Fold in half, and then in half again to create a rectangle. Fold rectangle into thirds, and turn over so the seam side is down.",
+            "Shape back into a neat ball with damp hand. Transfer dough into an oiled container, rub with a few drops of olive oil, and cover. Refrigerate for an additional 24 hours or until doubled in size.",
+            "Remove dough from the refrigerator and let stand on the counter for 1 hour to come to room temperature.",
+            "Meanwhile, prepare toppings: Cook and stir sausage in a skillet over medium heat until browned and crumbly, breaking up any clumps with a spatula, about 10 minutes. Remove from the pan; set aside to cool. Add red peppers and onions to the same skillet, and cook and stir just until they begin to soften, 3 to 5 minutes; remove and set aside.",
+            "Preheat the oven to 500 degrees F (250 degrees C). Oil a sheet pan generously with olive oil. A sheet of parchment paper can be placed on the pan to prevent sticking.",
+            "Transfer dough to the prepared sheet pan. Use oiled fingers to press dough into a rectangle that almost covers the pan. If dough is too elastic to stay in place, let it rest for a minute, and then continue stretching and pressing into place.",
+            "Drizzle a teaspoon of olive oil over dough and brush to coat evenly.",
+            "Bake in the preheated oven until golden brown, about 15 minutes. Remove pizza crust to a cooling rack to cool to room temperature, about 15 minutes. Remove parchment from pan if used, then return crust to the pan.",
+            "Spread crust with sauce, scatter over sausage and vegetables, sprinkle with mozzarella and Monterey Jack cheese, and finish with a dusting of Parmesan.",
+            "Bake in the preheated oven until the edges are well browned, about 15 minutes. Remove to a cooling rack; let cool for 10 to 15 minutes, then cut and serve."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sweet Potato and Bacon Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 2/3 cups water",
+            "1 teaspoon dry yeast",
+            "4 1/3 cups all-purpose flour",
+            "2 teaspoons kosher salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "For dough, mix yeast and water and let stand for 10 minutes. Add flour and salt, and stir with a wooden spoon for 2 minutes to form a soft, sticky dough. Scrape down sides of bowl, cover, and let rise in a cool spot until doubled in size, 8 to 12 hours.",
+            "Use a wet hand to deflate and de-gas the dough, and form into a ball. Cover and store in the refrigerator until needed.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Pierce sweet potatoes with a knife and place on a baking sheet.",
+            "Roast in the preheated oven until soft, about 1 hour. Let cool until cool enough to handle, about 10 minutes.",
+            "Scoop sweet potato flesh into a bowl—you will need about 2 1/2 cups. Add salt, black pepper, cayenne, olive oil, rosemary, lemon zest, and lemon juice, and mash until smooth. Stir in Parmigiano Reggiano, and taste for seasoning. Set aside.",
+            "Preheat the oven to 450 degrees F (235 degrees C).",
+            "Add bacon to a cold, dry, nonstick skillet. Place over medium-high heat, and cook, separating bacon pieces with tongs, until almost crisp, 7 to 10 minutes. Transfer to a plate lined with paper towels; set aside.",
+            "To assemble pizza, pour olive oil on a sheet pan and spread over evenly; place on dough, and use oiled hands to press out to the edges. If dough is very elastic, let dough rest and relax for a few minutes, then continue to stretch. Repeat this process as needed to stretch dough to cover the pan.",
+            "Dollop sweet potato mixture onto dough; Spread a thin layer over crust with the back of a spoon. Top evenly with mozzarella, bacon, fontina, and jalapenos. Finish with another dusting of Parmigiano Reggiano.",
+            "Bake in the preheated oven until crust is golden, and cheese is browned, 30 to 35 minutes. Remove from oven; cool in the pan for 5 to 10 minutes. Transfer to a board and slice with a pizza cutter."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tzatziki Chicken Naan Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "2 naan breads",
+            "2 teaspoons olive oil",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon dried dill",
+            "2/3 cup tzatziki sauce",
+            "1 cup cooked chicken",
+            "1/3 cup feta cheese",
+            "1/4 small red onion",
+            "1/4 cup cherry tomatoes",
+            "1/4 cup nglish cucumber"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C).",
+            "Place naan breads on a baking sheet; brush each with olive oil. Sprinkle evenly with garlic powder and dried dill. Top each naan with half of tzatziki sauce, 1/2 cup chicken, and half of feta cheese.",
+            "Bake in the preheated oven until cheese is bubbly and the edges are nice and brown, about 7 minutes. Remove from the oven and top with red onion, tomatoes, and cucumber. Serve warm."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "This Easy TikTok Pizza Is the 3-Ingredient Recipe of Our Dreams",
+        "category": "Pizza",
+        "ingredients": [
+            "1 pound pizza dough",
+            "4 Roma tomatoes",
+            "fresh basil"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C) with a rack in the center position. Lightly oil a 13- by 18-inch rimmed baking sheet.",
+            "Thinly slice tomatoes and place them on a paper towel-lined plate. Pat the tops of the tomatoes dry.",
+            "Gently stretch and press pizza dough to each corner of the rimmed baking sheet. Drizzle with oil, then season all over with salt, pepper, and oregano (or Italian seasoning).",
+            "Cover the pizza dough with sliced tomatoes (they should touch). Bake pizza until the crust is golden brown and the tomatoes look roasted, 22 to 25 minutes.",
+            "Let cool slightly, then transfer to a cutting board and cut into small squares. Sprinkle with a pinch of salt and garnish with fresh basil."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Pizza Poppers",
+        "category": "Pizza",
+        "ingredients": [
+            "1 cup shredded mozzarella cheese",
+            "1/3 cup cooked and crumbled bulk Italian sausage",
+            "1/3 cup pepperoni",
+            "1 pound pizza dough",
+            "1 1/4 cups pizza sauce",
+            "2 tablespoons vegetable oil,",
+            "1/2 teaspoon dried basil,",
+            "1/2 teaspoon dried oregano,",
+            "1/4 teaspoon garlic powder,",
+            "1/4 cup grated Parmesan cheese,"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine mozzarella, sausage, and pepperoni in a small bowl; set aside.",
+            "Lightly flour a work surface, and roll out dough 1/4-inch thick. Cut rounds with a biscuit or cookie cutter, and stretch each piece. Place a dollop of pizza sauce on each round, and top with about 1 tablespoon meat mixture. Fold dough over toppings into a ball, pinching the bottom to seal well; set aside, seam side down.",
+            "Lightly brush a cast iron skillet with oil. Place pizza poppers in skillet, and brush tops with oil. Sprinkle with basil, oregano, and garlic powder.",
+            "Bake in the preheated oven for 15 to 20 minutes, or until golden brown. Garnish with grated Parmesan, and serve with pizza sauce for dipping."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "New England Beach Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "3 cloves garlic",
+            "1/4 cup tomato paste",
+            "2 cups marinara sauce",
+            "1/4 cup water",
+            "1/4 cup white sugar",
+            "1/4 teaspoon dried oregano",
+            "1/4 teaspoon chili flakes"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 475 degrees F (245 degrees C).",
+            "Heat olive oil in a saucepan over medium heat; sauté garlic until fragrant, about 30 seconds. Stir in tomato paste, and cook, stirring, for another 30 seconds. Add marinara, water, sugar, oregano, and chili flakes. Bring to a simmer, and cook, stirring occasionally, for 10 to 15 minutes. Taste for seasoning and adjust if need be. Turn off heat and reserve.",
+            "Roll and stretch dough into a rectangle about 15x10 inches. Rub a 13x18-inch half sheet pan with olive oil and transfer dough on. Push, pull, and stretch dough to cover pan. If dough pulls back from the edge, let it rest for a few minutes, and then continue shaping.",
+            "Top dough with a light layer of sauce (the recipe will make extra sauce). Top with mozzarella cheese.",
+            "Bake in the preheated oven until the crust is cooked through, and the bottom is golden brown, 15 to 20 minutes.",
+            "As soon as pizza comes out of the oven, top with slices of provolone. Pizza can be served immediately, or placed back in the oven for a few minutes to melt provolone even more."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Folded Pizza Sandwich",
+        "category": "Pizza",
+        "ingredients": [
+            "1 refrigerated fresh pizza dough",
+            "cooking spray",
+            "2 teaspoons garlic",
+            "1/4 cup extra-virgin olive oil",
+            "1 tablespoon red wine vinegar",
+            "1/4 teaspoon kosher salt",
+            "2 cups fresh baby spinach",
+            "2 balls burrata cheese",
+            "6 ounce mixed cured meats",
+            "1/2 cup pepperoncini",
+            "balsamic glaze"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Place pizza dough in a medium bowl greased with cooking spray and cover lightly with plastic wrap; let stand at room temperature until soft and pliable, about 1 hour.",
+            "While dough sits, preheat oven to 450 degrees F (230 degrees C) with a rack in the center position. Stir together grated garlic and 2 tablespoons of the oil in a small bowl. In a separate bowl, whisk together vinegar, salt, and remaining 2 tablespoons oil. Set aside.",
+            "Turn dough out onto a large sheet of parchment; cut dough into 4 equal pieces. Working one piece of dough at a time, stretch and roll dough piece into a (7-inch) circle. Brush dough with garlic-oil mixture; fold dough circle in half. Brush top of dough lightly with garlic-oil mixture. Place on a parchment-lined baking sheet. Repeat with remaining dough pieces and garlic-oil mixture.",
+            "Bake in the preheated oven until puffed and golden, 8 to 10 minutes. Let cool about 3 minutes.",
+            "Toss spinach with 1 1/2 tablespoons of the vinaigrette in a medium bowl. Tear burrata into 8 pieces. Open pizza bread gently and place 2 pieces of the burrata on the bottom half of each pizza bread.",
+            "Evenly stuff spinach, cured meats, and pepperoncini slices into each pizza bread.",
+            "Drizzle with remaining vinaigrette and balsamic glaze. Serve immediately."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Perfect Pan Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "1 ¼ teaspoons dry yeast",
+            "1 ¼ teaspoons salt",
+            "1 cup water",
+            "4 tablespoons olive oil, divided",
+            "2 tablespoons grated Parmesan cheese",
+            "6 ounces part skim mozzarella cheese",
+            "3/4 cup pizza sauce (see note)",
+            "1/3 cup pepperoni"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Whisk flour, yeast, and salt together in a large bowl. Stir water and 1 tablespoon olive oil together in a separate bowl or measuring cup and add to flour mixture. Stir just until well combined. Cover bowl with plastic wrap and let stand at room temperature until dough has tripled in size, 8 to 12 hours. Alternatively, cover and refrigerate at least 12 hours and up to 36 hours, or until dough has tripled in size.",
+            "Uncover dough and transfer to a floured surface. Gently stretch and fold dough over a few times until nearly smooth; use your hands to lightly shape dough into a ball. Dough should remain a little sticky.",
+            "Pour remaining olive oil into a 12-inch cast iron skillet and use your fingers to liberally coat the bottom and sides of the skillet. Using oiled hands, transfer dough to the skillet, gently flatten into a thick disc shape, and lightly coat with some of the oil. Lightly cover the skillet with plastic wrap and set aside at room temperature for 2 hours.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Use fingers to lightly press dough to an even layer to the edges of the pan and about 1/2 inch up the sides.",
+            "Sprinkle Parmesan cheese around the edges and over dough. Sprinkle 1/3 cup shredded mozzarella over dough. Spread pizza sauce in an even layer over entire crust. Sprinkle with remaining cheese and top with pepperoni.",
+            "Bake in the preheated oven until crust is golden around the edges and cheese is lightly browned and melted, 20 to 25 minutes.",
+            "Remove from the oven and place on the stove over medium heat. Cook until bottom of crust is golden brown and toasted, 3 to 5 minutes.",
+            "Carefully slide pizza from the pan to a wire rack; let stand for 10 minutes. Transfer pizza to a cutting board; slice and serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Buffalo Caesar Chicken Crust Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 (10 ounce) can chicken breast, well drained",
+            "1/3 cup Parmesan cheese",
+            "2 tablespoons Buffalo sauce",
+            "1 large egg",
+            "1 (9.8 ounce) Caesar salad mix",
+            "1/4 cup celery",
+            "2 tablespoons blue cheese (optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment.",
+            "Combine chicken, Parmesan cheese, Buffalo sauce, and egg in a bowl and mix well. Pat mixture firmly into a 10-inch circle on the prepared baking sheet.",
+            "Bake in the preheated oven until golden brown and toasted, about 40 minutes. Let cool for about 5 minutes.",
+            "Drizzle about 2 teaspoons of dressing from the salad kit over crust. Toss half of salad mix with half of remaining dressing packet, according to package directions. (Reserve croutons, if desired, and remaining half of salad mix and dressing for later use.)",
+            "Place tossed salad on top of crust, and sprinkle evenly with celery and blue cheese. Drizzle with additional Buffalo sauce and serve immediately."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pretzel Crust Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 ¼ cups warm water",
+            "1 ½ tablespoons",
+            "1 (1/4-ounce) envelope active dry yeast",
+            "3 ½ cups",
+            "1 teaspoon",
+            "neutral cooking oil,",
+            "cooking spray",
+            "tablespoon",
+            "2 tablespoons hot water",
+            "2 cups part-skim mozzarella cheese",
+            "30 pepperoni slices",
+            "1 tablespoon unsalted butter, melted",
+            "pretzel salt"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Prepare the pizza: Place warm water, sugar, and yeast in the bowl of a stand mixer fitted with a dough hook. Whisk until just combined, and let stand until foamy, about 5 minutes.",
+            "Add flour and salt; mix on low speed until just combined, about 20 seconds. Increase speed to medium, and knead until dough is smoothand elastic, about 5 minutes.",
+            "Shape dough into a ball, and transfer to a large greased bowl, rotating dough to coat all sides in oil. Cover with plastic wrap or a clean damp towel; let rest in a warm area until doubled in size, 25 to 30 minutes.",
+            "Preheat the oven to 425 degrees F (230 degrees C) with a pizza stone or overturned large rimmed baking sheet on the center rack. Grease a large 15-inch pizza pan with cooking spray. Punch down dough, and transfer to the prepared pizza pan. Using clean hands, press dough to the outer edge of the pan (dough should be 15 inches in diameter). Fold 1 to 1 1/2-inches of dough's outer edge over itself to create adefined crust (dough should be 13 inches in diameter to the outer edge).",
+            "Combine baking soda and hot water in a small bowl. Using a pastry brush, brush the top and outer edges of crust; discard any remaining baking soda mixture.",
+            "Bake crust on pizza stone in preheated oven until crust is golden brown, about 8 minutes.",
+            "Meanwhile prepare the cheese sauce: Bring milk to a simmer in a small saucepan over medium. Reduce heat to low; add processed cheese, in batches, whisking constantly until melted, about 5 minutes. Whisk in butter, onion powder, paprika, garlic powder, and salt until smooth. Set aside until ready to use.",
+            "Spread cheese sauce evenly over par-baked crust. Sprinkle with an even layer of mozzarella cheese, and top evenly with pepperoni slices. Brush outer crust with melted butter, and sprinkle evenly with pretzel salt.",
+            "Bake in the preheated oven at 425 degrees F (230 degrees C) until mozzarella is slightly browned and melted and crust is cooked through, about 8 minutes. Remove from oven, and let cool on pizza pan for 5 minutes. Slice and serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Crazy Puffs",
+        "category": "Pizza",
+        "ingredients": [
+            "1 (13.8-ounce) pizza crust (such as Pillsbury)",
+            "1/3 cup unsalted butter, melted",
+            "1 tablespoon fresh parsley",
+            "2 teaspoons dried talian seasoning",
+            "2 teaspoons garlic salt",
+            "1/4 teaspoon black pepper",
+            "1 1/2 cups pizza sauce",
+            "1 1/2 cups pepperoni slices",
+            "4 cups mozzarella cheese",
+            "1/4 cup grated Parmesan cheese"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 375 degrees F (180 degrees C) Place a baking sheet on the bottom rack oven. Coat a shallow 12 cup muffin tin with cooking spray.",
+            "Roll pizza dough across prepared muffin tin, make sure to stretch dough to cover the entire surface. Using a pizza cutter, cut dough into squares for each muffin tin. Discard any excess dough.",
+            "Press and roll dough squares into each tin and ensure dough comes halfway up the sides of each cup.",
+            "Stir together butter, parsley, Italian seasoning, garlic salt, and black pepper in a small bowl until well combined. Brush butter mixture onto each dough cup.",
+            "Dollop 1 teaspoon pizza sauce into each cup. Layer two slices of pepperoni, add 1 tablespoon cheese overtop, and another 2 slices of pepperoni. Top with another 2 tablespoons of cheese, making sure to press the cheese within each muffin cup. Add Parmesan to butter mixture, and drip butter mix over each puff.",
+            "Bake in the preheated oven until cheese is melted, about 15 minutes. Set oven to broil, and broil until golden brown, about 1 minute. Remove from oven and allow to cool for 2 minutes before serving."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sardine Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 pound pizza dough",
+            "1 teaspoon olive oil",
+            "1/2 teaspoon seasoning",
+            "1/4 cup pizza sauce",
+            "8 slices mozzarella cheese, or more to taste",
+            "1/4 cup cherry tomatoes",
+            "10 sardines",
+            "1 1/2 teaspoons oregano",
+            "1 large egg (optional)",
+            "3 leaves basil, torn",
+            "2 teaspoons lemon juice"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat a gas grill with all burners on High for 10 to 15 minutes.",
+            "Shape pizza dough into a disc. Reduce the flame on half the grill burners to Low, to create areas of direct and indirect heat.",
+            "Carefully place dough onto the grill over direct heat. Close the cover. Let dough grill until the bottom is just barely cooked and shows char marks, 1 to 3 minutes.",
+            "Use tongs to flip pizza dough over; move to the indirect heat. Brush dough with olive oil, and sprinkle with Greek seasoning. Place mozzarella slices, tomatoes, and sardines on pizza.",
+            "Sprinkle oregano evenly over the pizza. Crack open egg and place in center of the pizza.",
+            "Grill until cheese is melted, and egg white is no longer clear, about 3 minutes. Carefully remove pizza from the grill.",
+            "Sprinkle with torn basil; squeeze lemon juice over the pizza."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Heart-Shaped Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 pound prepared pizza dough",
+            "1/2 cup pizza sauce",
+            "3/4 cup shredded mozzarella cheese",
+            "1/4 cup shredded Parmesan cheese",
+            "1/4 cup sausage",
+            "1/4 cup pepperoni slices, or as needed"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Allow dough to come to room temperature, about 30 minutes.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Divide the dough into 2 unequal pieces. One piece of dough should be smaller. Take the larger piece and press out into a square shape. Take the smaller piece and roll into a circle. Cut the circle in half.",
+            "Take a teaspoon of oil and brush a pizza stone. Position the dough square on the pizza stone with one point of the square pointing down.",
+            "Position the straight side of a dough half circle along the upper left edge of the square. Place the other half circle along the upper right edge of the square. Press seams together to join.",
+            "Spread pizza sauce over dough to 1/2-inch from the edge. Top pizza with shredded cheese, sausage and pepperoni.",
+            "Bake in the preheated oven until cheese is melted and crust is golden, 17 to 19 minutes. Let rest 3 minutes before slicing."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "This Viral Pan Pizza Recipe Uses Your 9x13 and Easy Store-Bought Shortcuts",
+        "category": "Pizza",
+        "ingredients": [
+            "1 pound fresh pizza dough, thawed",
+            "cooking spray",
+            "5 tablespoons Trader Joe's Garlic Spread-Dip",
+            "1 tablespoon Trader Joe's Italian Bomba Hot Pepper Sauce, or as needed",
+            "2 ounces sliced Calabrese salami, divided",
+            "1 1/2 ounces pepperoni, divided",
+            "6 ounces low-moisture part-skim mozzarella cheese, shredded, divided",
+            "3 tablespoons Trader Joe's Pesto Genovese",
+            "1/4 cup loosely packed fresh basil leaves"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Remove pizza dough from refrigerator 20 minutes before making pizza. Preheat the oven to 450 degrees F (230 degrees C).",
+            "Spray a metal 9x13-inch baking pan with cooking spray. Place pizza dough in baking pan and stretch to reach corners. If dough is hard to stretch and springs back, place a clean kitchen towel over baking pan and let dough relax for 10 minutes until pliable enough to stretch.",
+            "Spread Garlic Spread-Dip evenly over dough, edge to edge, with a spoon or small offset spatula. Dollop with Bomba Hot Pepper Sauce, and spread evenly over Garlic Spread-Dip.",
+            "Place 1/2 of the salami and 1/2 of the pepperoni over the sauces; sprinkle with 3/4 cup mozzarella. Top with remaining salami and pepperoni. Sprinkle with remaining mozzarella cheese.",
+            "With a small spoon, dollop pesto, about 1/2 teaspoon at a time, over pizza.",
+            "Bake in the preheated oven until dough has puffed, is golden brown around edges and bottom, and cheese has melted, 15 to 20 minutes, rotating pan back to front halfway through.",
+            "Using a large spatula, remove from the oven and carefully transfer to a cutting board. Sprinkle with basil leaves, slice, and serve!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mini Heart-Shaped Naan Pizzas",
+        "category": "Pizza",
+        "ingredients": [
+            "8 naan",
+            "1 cup pizza sauce",
+            "1 1/2 cups shredded mozzarella cheese, or more to taste",
+            "40 slices pepperoni, or more to taste"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with foil for easy cleanup.",
+            "Use a 4 to 4 1/2-inch heart-shaped cookie cutter to cut each flatbread into a heart shape. Place flatbreads on the prepared baking sheet, evenly spread the pizza sauce on each, and sprinkle with mozzarella.",
+            "Cut each slice of pepperoni into a heart shape using a mini heart-shaped cookie cutter, if desired, and place on top of mozzarella.",
+            "Move the baking sheet to the oven, and cook until cheese is melted and crust is golden brown, 9 to 11 minutes. Serve hot."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sicilian Sausage Rolls (Tomasini)",
+        "category": "Pizza",
+        "ingredients": [
+            "24 ounces pizza dough",
+            "1 large egg, beaten",
+            "2 cups ricotta cheese",
+            "12 ounces talian sausage, casing removed",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon red chili flakes, or to taste",
+            "salt to taste",
+            "1/2 cup green onions",
+            "1/2 cup pecorino Romano cheese, plus more to finish"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment.",
+            "Roll dough out on a lightly floured surface into a 12x18-inch rectangle. Brush the entire surface of dough with half the beaten egg",
+            "Beginning about 3 inches from the top edge of the long side of dough, scoop rounded tablespoons of ricotta onto dough in a row, leaving about 1 1/2 inches between each scoop. Make a second row below the first, but offset the ricotta scoops to make a checkerboard pattern. Repeat all the way to the bottom of the dough, using all the ricotta.",
+            "Place rounded tablespoons of sausage into the spaces between ricotta scoops. When finished, the cheese on one row should line up with sausage on the next row and vice versa.",
+            "Season with black pepper, red chili flakes, and salt, keeping in mind that sausage may already be salty. Scatter green onions over, and grate pecorino Romano cheese evenly over.",
+            "Roll dough up from the bottom toward the edge with 3 inches of unfilled dough. Finish with seam on the bottom.",
+            "Cut into 12 equal portions, and place cut side up on the prepared baking sheet. Brush top of each sausage roll with remaining egg, and grate more pecorino Romano cheese over if desired.",
+            "Bake in the preheated oven until nicely browned, 45 to 50 minutes."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mexican Polenta Pizza",
+        "category": "Pizza",
+        "ingredients": [
+            "1 cup cornmeal",
+            "3 cups skim milk",
+            "1/2 teaspoon kosher salt",
+            "1 tablespoon olive oil",
+            "5 ounces lean ground beef",
+            "1 1/2 cup red chile sauce",
+            "1 cup exican shredded cheese blend, plus more for sprinkling on top",
+            "1 cup shredded lettuce, or to taste",
+            "1 tomato, diced, or to taste",
+            "2 tablespoons black olives, or to taste",
+            "2 tablespoons sour cream, or to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Stir cornmeal, milk, and salt together in a medium saucepan, and cook over medium-high heat, stirring constantly, until mixture comes to a boil and thickens enough to pull away from the sides of the pan, about 15 minutes. Remove from heat and stir in the olive oil. Spread on a greased cookie sheet. Cool in the refrigerator for 1 hour.",
+            "Preheat the oven to 400 degrees F (200 degrees C).",
+            "Bake polenta crust in the preheated oven for 10 to 15 minutes.",
+            "Meanwhile, heat a nonstick skillet over medium-high heat, and cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Pour in red chile sauce, and simmer until thickened, about 10 minutes.",
+            "Top polenta crust with meat sauce and cheese. Return to the oven; bake until cheese is melted, 10 to 12 minutes more.",
+            "Top with lettuce, tomato, black olives, and sour cream. Sprinkle with additional shredded cheese, if desired."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,633 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Swamp Cabbage",
+        "category": "Pork",
+        "ingredients": [
+            "8 ounces thick-cut bacon, chopped",
+            "6 ounces smoked sausage",
+            "1 yellow onion",
+            "1 green bell pepper",
+            "2 stalks celery",
+            "1 1/2 tablespoons minced garlic",
+            "1 (2 pound) green cabbage",
+            "1 1/2 teaspoons kosher salt",
+            "3/4 teaspoon onion powder",
+            "1/2 teaspoon black pepper",
+            "1 (14.5 ounce) can diced tomatoes",
+            "1 (14 ounce) can hearts of palm",
+            "1/2 cup vegetable broth"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat a large Dutch oven over medium-high heat. Add bacon and cook, stirring occasionally, until most of bacon starts to turn brown, about 8 minutes; add sausage and continue cooking, stirring often, until bacon and sausage are crisp, 2 to 3 minutes.",
+            "Add onion, bell pepper, celery, and garlic; cook, stirring often, until tender, about 5 minutes.",
+            "Add cabbage, salt, onion powder, and black pepper; cook, stirring often, until cabbage starts to wilt, 2 to 3 minutes. Add diced tomatoes, hearts of palm, and broth; stir until evenly combined.",
+            "Bring mixture to a simmer over medium heat; cover and cook, stirring every few minutes, until cabbage is tender and most of the liquid is absorbed, 15 to 20 minutes."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pork and Apple Meatballs in Bao-Style Buns",
+        "category": "Pork",
+        "ingredients": [
+            "1 large egg,",
+            "1/3 cup breadcrumbs",
+            "2 tablespoons applesauce",
+            "2 green onions",
+            "1 tablespoon soy sauce",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1 pound ground pork",
+            "1/2 cup apple",
+            "1/3 cup hoisin sauce",
+            "1 tablespoon sambal oelek",
+            "2 teaspoons rice vinegar",
+            "pizza dough bao-",
+            "toasted sesame seeds, for garnish"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Stir together egg, breadcrumbs, applesauce, green onions, soy sauce, salt, and pepper in a bowl. Add ground pork and shredded apple. Mix until combined.",
+            "Shape into 16 (1 1/2 ounce) meatballs. Arrange in a foil-lined shallow baking pan.",
+            "Bake in the preheated oven for 20 to 25 minutes or until an instant-read thermometer inserted into centers registers 160 degrees F (71 degrees C).",
+            "Whisk together hoisin, sambal oelek, and vinegar in a small bowl. Brush onto meatballs.",
+            "Serve meatballs in Pizza Dough Bao-Style Buns. Garnish with green onions and sesame seeds."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bacon-Wrapped Chicken Skewers",
+        "category": "Pork",
+        "ingredients": [
+            "1 pound chicken breast",
+            "1/2 tablespoon olive oil",
+            "1/4 teaspoon smoked paprika",
+            "1/4 teaspoon garlic powder",
+            "1/4 teaspoon onion powder",
+            "1/4 teaspoon celery seed",
+            "salt and freshly ground black pepper to taste",
+            "8 slices bacon, cut in half crosswise",
+            "1/3 cup barbecue sauce"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C) and line a large baking sheet with aluminum foil.",
+            "Place chicken pieces in a large bowl. Add oil, paprika, garlic powder, onion powder, celery seed, salt, and pepper. Toss to evenly coat.",
+            "Take a chicken piece and roll tightly in bacon half. Repeat with remaining chicken pieces.",
+            "Skewer bacon wrapped chicken pieces tightly on a skewer and place on the prepared baking sheet.",
+            "Bake skewers in the preheated oven 30 minutes. Brush BBQ sauce over skewers. Bake until evenly browned, about 5 minutes more."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Maple Pancake Shot",
+        "category": "Pork",
+        "ingredients": [
+            "2 strips bacon",
+            "1 tablespoon maple syrup",
+            "4 ounces whiskey",
+            "2 ounces butterscotch schnapps",
+            "1 cup orange juice"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Add bacon to a skillet over medium heat, and cook until nearly crisp, about 7 minutes. Pour syrup over bacon, and cook until syrup is reduced, about 30 seconds more. Remove from heat and allow to cool. Syrup will harden like candy.",
+            "Pour 1 ounce whiskey and 1/3 ounce butterscotch schapps into each of 4 shot glasses.",
+            "Pour 2 ounces orange juice into each of 4 shot glasses or small glasses. Serve each whiskey shot with a shot of orange juice as a chaser, and a piece of bacon on the side."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Apple-Bacon French Toast Cups",
+        "category": "Pork",
+        "ingredients": [
+            "3/4 cup whole milk",
+            "3 large eggs",
+            "2 tablespoons brown sugar",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon espresso powder",
+            "1 teaspoon ground cinnamon",
+            "1/4 teaspoon salt",
+            "5 slices bacon",
+            "4 cups brioche cubes",
+            "1 honeycrisp apple",
+            "1/4 cup chopped pecans"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Whisk together milk, eggs, brown sugar, vanilla, espresso powder, cinnamon, and salt in a large bowl.",
+            "Crumble 3 slices bacon. Add brioche cubes, apple, and crumbled bacon to custard mixture; toss to combine. Let stand to allow brioche to soak up custard mixture, 10 minutes.",
+            "Divide brioche mixture among 8 (2 1/2-inch) silicone muffin cups (cups will be very full). Top with pecans.",
+            "Working in batches as needed, place muffin cups in an air fryer basket. Cook at 350 degrees F (180 degrees C) until puffed and golden, 10 to 12 minutes. An instant-read thermometer inserted into centers should register 165 degrees F (74 degrees C). Remove from air fryer and let stand 10 minutes.",
+            "Meanwhile, break remaining 2 slices bacon into 8 pieces. Top each French toast cup with 1 piece of bacon."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Bacon Ranch Potato Bake",
+        "category": "Pork",
+        "ingredients": [
+            "2 1/2 pounds ukon gold potatoes, scrubbed and cut in 1-inch chunks",
+            "2 tablespoons olive oil",
+            "1 (1-ounce) ranch dry salad dressing mix,",
+            "8 slices bacon",
+            "1/2 cup onion",
+            "3 tablespoons all purpose flour",
+            "1 1/2 cups whole milk",
+            "1 tablespoonlemon juice lemon juice",
+            "2 pounds skinless, boneless chicken thighs, cut into bite-sized pieces",
+            "1 cup Cheddar cheese, divided",
+            "1/4 cup green onions"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 425 degrees F (220 degrees C). Grease a 9x13-inch baking dish.",
+            "Place potatoes in the prepared baking dish. Drizzle with olive oil and sprinkle with 1 tablespoon ranch dressing mix; toss to coat. Roast potatoes until lightly browned and tender, stirring twice, about 30 minutes.",
+            "Meanwhile, cook bacon in a 12-inch skillet over medium heat until crisp, about 10 minutes. Drain bacon on paper towels. When cool enough to handle, crumble bacon. Drain all but 3 tablespoons bacon grease from the skillet.",
+            "Add onion to the skillet. Cook until tender, 5 minutes. Stir in flour. Cook and stir for 1 minute more. Add milk. Cook and stir until thickened and bubbly. Stir in lemon juice and remaining ranch dressing mix.",
+            "Place chicken over the potatoes in the baking dish. Top with bacon and 1/2 cup Cheddar cheese. Pour sauce over the mixture. Bake until chicken is no longer pink, 15 minutes.",
+            "Top with remaining 1/2 cup Cheddar cheese. Bake until melted, about 5 minutes.",
+            "Serve garnished with green onions."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Jalapeño Popper Smashed Tacos",
+        "category": "Pork",
+        "ingredients": [
+            "6 slices bacon",
+            "1 pound ground sirloin or ground round beef",
+            "1/2 cup finely chopped jalapeños",
+            "1/2 teaspoon garlic powder",
+            "3/4 teaspoon salt",
+            "1 1/2 cups shredded Cheddar cheese,",
+            "10 (6 inch) flour tortillas",
+            "2 ounces cream cheese,",
+            "1/2 cup sour cream",
+            "1 tablespoon lime juice",
+            "1/4 cup chopped cilantro, or as needed",
+            "1 cup shredded lettuce, or as needed"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 7 minutes. Drain bacon slices on paper towels. Crumble when cool enough to handle.",
+            "Combine ground beef with jalapeños, garlic powder, salt, crumbled bacon, and 3/4 cup shredded cheese in a bowl. Spread beef mixture to the edges of each tortilla; set aside.",
+            "Preheat a griddle to medium-high heat. Meanwhile, mix cream cheese with sour cream, lime juice, and salt and set aside.",
+            "Place tacos meat-side down on hot griddle. Cook, undisturbed, until golden brown and slightly crisp, about 3 minutes. Flip and cook until lightly toasted, 30 seconds to 1 minute more. Fold tacos in half and top with sour cream mixture, remaining cheese, cilantro, and shredded lettuce."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gochujang Pork Belly Bites",
+        "category": "Pork",
+        "ingredients": [
+            "1 pound pork belly",
+            "1/4 cup gochujang",
+            "2 tablespoons soy sauce",
+            "1 tablespoon honey,",
+            "1 teaspoon ground ginger"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Place pork belly pieces in the basket in a single layer, not touching. Air fry for 8 to 9 minutes; turn over and air fry for 6 to 7 minutes more.",
+            "Meanwhile, for sauce, stir gochujang, soy sauce, hot honey, and ginger together in a medium bowl.",
+            "Remove pork belly from air fryer basket; toss in sauce to coat. Return to the air fryer and fry until bites begin to char at the edges, 8 to 11 minutes more. (Alternately, you can use sauce only for dipping; in this case, continue to fry without removing bites, until they begin to char, 6 to 7 minutes.)"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Million Dollar Chicken Breasts",
+        "category": "Pork",
+        "ingredients": [
+            "4 boneless chicken breasts",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon ground black pepper",
+            "1 (8-ounce) cream cheese, softened",
+            "1/3 cup sour cream",
+            "1 cupshredded sharp C shredded sharp C",
+            "6 slices bacon",
+            "1/2 cup green onion, divided",
+            "1 teaspoon talian seasoning"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking dish.",
+            "Sprinkle chicken with salt and pepper. Place chicken in the prepared baking dish.",
+            "Stir together cream cheese and sour cream in a bowl until combined. Stir in 1/2 cup of the Cheddar cheese, bacon, 1/4 cup of the green onions, and Italian seasoning. Spread evenly over the chicken.",
+            "Bake until chicken is done (165 degrees F or 74 degrees C) when tested with an instant-read thermometer, 25 to 30 minutes.",
+            "Top with the remaining 1/2 cup cheese. Bake until cheese melts, 5 minutes.",
+            "Garnish with remaining 1/4 cup green onions."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Stick of Butter Smothered Pork Chops",
+        "category": "Pork",
+        "ingredients": [
+            "3 cups instant rice, such as Minute Rice®",
+            "1 (10.5 ounce) can French onion soup",
+            "1 (14.5 ounce) can chicken broth",
+            "1 tablespoon Worcestershire sauce",
+            "1/2 cup butter",
+            "4 (1½-inch-thick) pork chops,",
+            "1 teaspoon salt",
+            "1 teaspoon pepper",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon paprika",
+            "1 cup onion",
+            "1 (10.5 ounce) can cream of mushroom soup",
+            "chopped parsley for garnish (optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Pour rice into a 9x13-inch baking dish.",
+            "Add French onion soup, chicken broth, and Worcestershire; stir to combine. Top with butter slices.",
+            "Season both sides of pork chops with salt, pepper, garlic powder, and paprika and place on top of rice mixture.",
+            "Stir sliced onion and mushroom soup together in a medium bowl. Fill soup can with water and stir into onion mixture. Pour mixture over pork chops and cover with foil.",
+            "Bake in the preheated oven for 40 to 45 minutes. Uncover and, if necessary, gently stir any uncooked rice under or around pork into remaining rice mixture. Continue to bake until pork is no longer pink at the center and onion mixture is lightly browned, about 20 minutes more. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C).",
+            "Sprinkle with chopped parsley before serving."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Summer Roll Bowl",
+        "category": "Pork",
+        "ingredients": [
+            "1/2 pound raw shrimp",
+            "1/2 pound ground pork",
+            "1/2 cup onions",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon sugar",
+            "1 tablespoon avocado oil,",
+            "4 cloves garlic,",
+            "1/3 cup hoisin sauce",
+            "2 tablespoons peanut butter",
+            "2/3 cup water",
+            "1 1/2 teaspoons chili paste,",
+            "8 leaves Romaine or leaf lettuce",
+            "4 sprigs mint",
+            "4 sprigs cilantro",
+            "1/2 cup carrots",
+            "8 ounces Asian-style vermicelli rice noodles",
+            "1/3 cup peanuts",
+            "3 green onions"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a pan of lightly salted water to a boil; add shrimp and cook until they are pink and curled into a tight \"C\" shape. Immediately remove shrimp and place into a bowl of ice water. When cool, slice shrimp thinly, from head to tail, and refrigerate.",
+            "Cook pork in a small nonstick skillet, breaking meat up into small bits. After about 2 minutes, add onion, salt, and sugar, and continue cooking until onion is translucent, 4 to 5 minutes. Remove pork to a plate lined with paper towels to drain. Remove paper towel, and refrigerate until needed.",
+            "For sauce, add oil and garlic to a small saucepan; place over medium heat. Cook, stirring, until garlic is fragrant, about 30 seconds. Add hoisin sauce, peanut butter, and water, stirring to combine. Bring to a boil, then remove from heat. Add chili paste and allow to cool. Set aside.",
+            "When ready to make the bowls, bring 5 cups of water to boil in a large saucepan. Add rice noodles and stir, to avoid clumping. Boil and stir for 2 to 3 minutes. Pour into a mesh strainer and rinse thoroughly with cold water.",
+            "Evenly divide vermicelli into 4 serving bowls. Working in sections, place cooked shrimp, ground pork mixture, lettuce, herbs, and carrots on top of vermicelli.",
+            "Drizzle each bowl with sauce. Sprinkle each bowl with crushed peanuts, and garnish with green onions."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bacon Broccoli Pasta Bake",
+        "category": "Pork",
+        "ingredients": [
+            "6 slices bacon",
+            "1 cup broccoli florets,",
+            "2 cups protein pasta",
+            "1 1/2 cups protein milk, or more as needed",
+            "1 cup chicken bone broth",
+            "1 (8 ounce) container pub cheese",
+            "1 cup shredded Cheddar cheese",
+            "1/4 cup unsalted butter",
+            "1 teaspoon salt",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/4 teaspoon black pepper"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Crumble when cool enough to handle.",
+            "Place broccoli in a microwave-safe bowl with a small amount of water, and cook on High until bright green, 1 to 2 minutes. Drain.",
+            "In a 9x13-inch baking dish, combine uncooked pasta, milk, broth, melted butter, pub cheese, 1/2 cup Cheddar, salt, garlic powder, onion powder, pepper, bacon, and broccoli. Stir well to ensure that pub cheese is evenly distributed.",
+            "Cover tightly with foil and bake until pasta is nearly tender and most liquid is absorbed, stirring halfway through cooking time, 45 to 50 minutes. If pasta seems dry at the halfway point, add up to 1/4 cup more milk.",
+            "Remove foil, sprinkle with remaining 1/2 cup Cheddar. Bake until the top is golden and bubbly, 10 to 15 minutes more.",
+            "Let stand for 5 minutes before serving."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "4-Ingredient Cauliflower Alfredo Bake",
+        "category": "Pork",
+        "ingredients": [
+            "1 pound cauliflower florets",
+            "1 (15 ounce) jar Alfredo sauce",
+            "1/4 cup peas",
+            "4 strips bacon"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 425 degrees F (220 degrees C).",
+            "Bring a large pot of salted water to a boil. Add cauliflower florets and cook for just 3 minutes. Drain.",
+            "Transfer cauliflower to a greased 8x8-inch casserole dish. Pour Alfredo sauce over cauliflower. Sprinkle with peas and chopped bacon. Stir to combine.",
+            "Bake uncovered until cauliflower is tender and sauce is bubbly, 25 to 30 minutes. Serve immediately."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Breakfast Pizza",
+        "category": "Pork",
+        "ingredients": [
+            "cooking spray",
+            "2 (8-ounce) packages crescent dough sheets or refrigerated crescent rolls",
+            "12 ounces bacon, quartered",
+            "1 1/2 cups hash brown potatoes, thawed",
+            "2 cups shredded Cheddar cheese, divided",
+            "12 large eggs",
+            "1/3 cup milk",
+            "1/2 teaspoon salt",
+            "1/8 teaspoon black pepper, plus more for garnish",
+            "chopped fresh chives and/or green onion, for garnish",
+            "flaky salt, for garnish",
+            "hot sauce, for serving"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Coat a 11x17-inch rimmed sheet pan with cooking spray.",
+            "Place crescent dough sheets on the prepared sheet pan. Press seams together to seal, stretching slightly if needed to fit the pan. (If using crescent roll dough, press seams of triangles together.) Pinch dough so it comes up the sides of the pan.",
+            "Evenly sprinkle Canadian bacon over the dough. Spread hash browns over Canadian bacon and sprinkle with 1 1/2 cups cheese.",
+            "Whisk together eggs, milk, table salt, and pepper in a bowl until smooth. Pour evenly over mixture in the sheet pan. Sprinkle with remaining 1/2 cup Cheddar cheese.",
+            "Bake until eggs are set and crust is lightly browned, 30 to 35 minutes. Garnish with chives, green onion, flaky salt, and/or additional pepper. Serve with hot sauce."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hawaiian Pizza Sliders",
+        "category": "Pork",
+        "ingredients": [
+            "2 slices bacon",
+            "1 (12-ounce) package Hawaiian sweet r olls, split",
+            "1/2 cup pizza sauce",
+            "6 ounces sliced deli ham",
+            "1 8-ounce) can crushed pineapple, drained well",
+            "2 tablespoons red onion",
+            "1 1/2 cups shredded mozzarella cheese",
+            "1/8 teaspoon crushed red pepper",
+            "3 tablespoons butter, melted",
+            "1/2 teaspoon dried oregano",
+            "1/4 teaspoon garlic powder",
+            "1 tablespoon grated Parmesan cheese"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain bacon slices on paper towels. Crumble when cool enough to handle.",
+            "Place roll bottoms in a 13x9-inch baking pan or dish. Spread with pizza sauce.",
+            "Top with ham, pineapple, bacon, red onion, mozzarella cheese, and crushed red pepper.",
+            "Place roll tops over the filling. Combine butter, oregano, and garlic powder in a small bowl. Brush roll tops with the butter mixture. Sprinkle with Parmesan cheese and cover pan with foil.",
+            "Bake in the preheated oven for 15 minutes. Remove foil and bake until cheese is melted and tops are golden brown, 5 to 10 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Egg in a Hole with Bacon and Brussels Sprout Slaw",
+        "category": "Pork",
+        "ingredients": [
+            "6 tablespoons butter, softened",
+            "6 slices sourdough bread",
+            "6 slices thick-cut bacon",
+            "1/3 cup mayonnaise",
+            "1 tablespoon ijon mustard",
+            "1 tablespoon maple syrup",
+            "1 tablespoon cider vinegar",
+            "1/8 teaspoon salt",
+            "1/8 teaspoon black pepper, plus more for garnish",
+            "1 (9-10-ounce) package russels sprouts",
+            "1 shallot, thinly sliced",
+            "6 large eggs",
+            "grated Parmesan cheese, for garnish"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a 13x18-inch rimmed sheet pan with parchment paper or foil.",
+            "Spread butter on both sides of bread slices; arrange in an even layer on the prepared sheet pan. Bake for 7 minutes; turn slices and bake until lightly toasted, about 3 minutes more.",
+            "Using a 2 1/2-inch biscuit cutter or straight-sided glass, remove a hole from the center of each toast slice. Set toast slices and rounds aside.",
+            "Arrange bacon in an even layer on the same sheet pan. Bake, turning halfway through, until crisp, 15 to 20 minutes.",
+            "Meanwhile, for slaw, whisk together mayonnaise, mustard, maple syrup, vinegar, table salt, and pepper in a bowl. Add Brussels sprouts and shallot; toss to coat.",
+            "Transfer bacon to a paper towel-lined plate; let cool. Pour off excess drippings from the pan, leaving parchment or foil in place. Return toast slices to pan, reserving rounds. Crack an egg into each hole.",
+            "Bake until whites are set and yolks are desired doneness, 7 to 9 minutes.",
+            "Crumble bacon; sprinkle evenly over eggs. Top with slaw. Garnish with flaky salt, Parmesan cheese, and/or additional pepper. If you like, top with reserved toast rounds."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Campfire Carnitas",
+        "category": "Pork",
+        "ingredients": [
+            "4 pounds pork shoulder",
+            "4 teaspoons kosher salt,",
+            "1 teaspoon ground black pepper",
+            "1/2 teaspoon oregano",
+            "1 white onion,",
+            "1 chili pepper,",
+            "6 garlic cloves,"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Cut pork into 2-inch pieces. Stack 2 (7x10x3-inch) disposable foil baking pans and transfer in the pork. Season with salt, pepper, and oregano, and toss with your hands until everything is evenly coated.",
+            "Cover the pan with a sheet of heavy-duty aluminum foil, and crimp tightly around the edges. Place on top of another large sheet of heavy-duty aluminum foil, and then wrap the foil up over the pan. All seams should be rolled facing up. Repeat with 2 more sheets of aluminum foil.",
+            "Place pan next to a campfire, or in a charcoal grill, and arrange the burning coals evenly around the pan. Wrap a sheet pan in foil, place over the pan, and arrange some charcoal on top.",
+            "Use a probe or laser thermometer to check the temperature on the surface of the bottom pan, as well as the ambient temperature next to the pan. Try to maintain a constant temperature of between 250 to 300 degrees F (120 to 150 degrees C). To do this, move charcoal further away or closer to the pan as needed. If cooking next to a campfire and the pan is getting more heat from one direction than the other, rotate the pan occasionally. Cook until falling-apart tender, 4 to 5 hours.",
+            "Remove pan from the fire, and let rest for up to 1 hour, or serve immediately. Carefully cut foil away and peel back. Serve made into tacos, nachos, or enjoyed in hot dog or hamburger buns."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Savory Palmiers",
+        "category": "Pork",
+        "ingredients": [
+            "1 sheet puff pastry",
+            "1/4 cup horseradish sauce or honey mustard dressing",
+            "1/2 cup gruyere cheese",
+            "1/3 cup caramelized onion",
+            "2 slices thick cut bacon, cooked and crumbled"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Lay puff pastry out on a lightly floured surface. Brush pastry with horseradish sauce. Sprinkle evenly with gruyere. Sprinkle onions evenly over, then scatter evenly with bacon.",
+            "Starting with a long side, roll and tuck pastry to the center. Repeat on the other long side, rolling until the 2 scrolled sides meet in the center. Pinch together to ensure they hold together. Wrap pastry in plastic wrap and freeze for about 20 minutes.",
+            "Meanwhile, preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment.",
+            "Remove pastry to a cutting board. Slice into 1/3-inch slices; lay slices on the prepared baking sheet.",
+            "Bake in the preheated oven until until golden brown and puffed, 15 to 20 minutes. Rotate pan halfway through cooking time. Serve with more horseradish sauce for dipping."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "BLT Chicken Salad",
+        "category": "Pork",
+        "ingredients": [
+            "2/3 cup mayonnaise",
+            "1/2 cup green onions",
+            "1/3 cup buttermilk or sour cream",
+            "1/2 teaspoon ground black pepper",
+            "3 1/2 cups chopped cooked chicken,",
+            "1 1/2 cups grape tomatoes, quartered",
+            "8 strips bacon",
+            "1 avocado - peeled, pitted, and chopped (optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine mayonnaise, green onions, buttermilk and pepper in a bowl.",
+            "Add chicken, tomatoes, and bacon. Stir to combine.",
+            "If using, fold in avocado just before serving.",
+            "Serve immediately or cover and store in the refrigerator for up to 3 days."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bacon Jalapeño Corn",
+        "category": "Pork",
+        "ingredients": [
+            "3 slices bacon",
+            "1 tablespoon unsalted butter",
+            "3 cups corn kernels",
+            "1/2 cup bell pepper,",
+            "1/3 cup red onion",
+            "1 jalapeno,",
+            "1/2 teaspoon dried basil",
+            "salt and freshly ground black pepper",
+            "fresh basil"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Pour out all but 1 tablespoon bacon fat.",
+            "Add butter to the skillet and allow to melt. Stir in corn, bell pepper, red onion, and jalapeño. Cook until corn is becoming tender but still slightly crisp, about 5 minutes. Season with dried basil, salt, and pepper and stir until well combined.",
+            "Crumble or chop bacon, and stir half into the corn mixture. Sprinkle the remainder over the top, garnish with fresh basil, and serve."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

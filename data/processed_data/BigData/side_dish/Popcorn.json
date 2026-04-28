@@ -1,0 +1,479 @@
+[
+    {
+        "Main_category": "side_dish"
+    },
+    {
+        "recipe_title": "Microwave Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "½ cup unpopped popcorn",
+            "1 teaspoon vegetable oil",
+            "½ teaspoon salt, or to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix together unpopped popcorn and oil in a cup or small bowl.",
+            "Pour the coated corn into a brown paper lunch sack, and sprinkle in the salt. Fold the top of the bag over twice to seal in the ingredients.",
+            "Cook in the microwave at full power for 2 1/2 to 3 minutes, or until you hear pauses of about 2 seconds between pops. Carefully open the bag to avoid steam, and pour into a serving bowl.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Coconut Oil Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "¼ cup unpopped popcorn",
+            "2 tablespoons coconut oil",
+            "sea salt to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Place popcorn and oil in a 3-quart pot over medium heat and cover the pot with a lid.",
+            "Shake the pot constantly as popcorn pops. When popping slows to a few seconds between pops, after about 3 to 5 minutes, remove pot from heat and pour popcorn into a large bowl. Season with sea salt."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Instant Pot Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "2 tablespoons coconut oil",
+            "½ cup unpopped popcorn",
+            "salt to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Sauté function. When the display indicates the pot is hot, add coconut oil and let it melt.",
+            "Add popcorn and stir with a rubber spatula until kernels are coated. Wait 30 seconds and stir again; kernels should be making a sizzling sound at this point. Cover pot with the glass lid and cook for 5 minutes. Cancel Sauté mode and let sit until kernels have completely stopped popping, about 1 minute.",
+            "Transfer popcorn to a large bowl and sprinkle with salt."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cajun-Spiced Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "20 cups popped popcorn",
+            "½ cup butter",
+            "2 teaspoons paprika",
+            "2 teaspoons lemon pepper",
+            "1 teaspoon salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon onion powder",
+            "¼ teaspoon cayenne pepper"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Place popped popcorn in a large roasting pan.",
+            "Combine melted butter, paprika, lemon pepper, salt, garlic powder, onion powder, and cayenne pepper in a small bowl; pour over popcorn and stir until it is somewhat evenly coated.",
+            "Bake in the preheated oven for 15 minutes, stirring every 5 minutes. Remove from the oven and cool completely. Serve immediately, or store in an airtight container for later."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Movie Star Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "3 tablespoons peanut oil",
+            "½ cup unpopped popcorn kernels",
+            "½ teaspoon salt, or more as needed",
+            "2 tablespoons butter"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Heat oil in a 2- to 3-quart saucepan or pot with a lid set over medium-high heat. Pour in popcorn kernels and sprinkle enough salt to cover the layer of kernels lightly. Remember, you can always add more salt later. Add butter to the pot and cover with the lid.",
+            "As soon as kernels start to pop, shake the pot back and forth across the burner constantly until the popping slows down. When the pops are about 2 seconds apart, remove from heat and pour popcorn into a serving bowl. Taste and season with more salt if desired."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Truffle Lovers' Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "4 teaspoons white truffle oil",
+            "2 tablespoons dried parsley",
+            "¼ cup grated Parmesan cheese",
+            "1 (3.5 ounce) package microwave popcorn, popped",
+            "¼ teaspoon sea salt, or to taste"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Mix the truffle oil, parsley, and Parmesan cheese in a heat-safe bowl.",
+            "Place unopened package of popcorn into center of microwave oven; cook on High power until the bag fills with popped corn and the pops occur about 2 seconds apart (1 1/2 to 4 minutes, depending on oven's power). Open hot bag carefully and pour into bowl. Toss with truffle oil mixture; season to taste with sea salt."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Daddy's Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "½ cup unpopped popcorn",
+            "¼ cup vegetable oil",
+            "3 tablespoons margarine",
+            "½ teaspoon seasoned salt, or to taste, divided"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Cut a paper grocery bag in half crosswise. (To use as a serving bowl and to absorb excess oil.)",
+            "Combine popcorn, oil, and margarine in a 2-quart pot; heat on high heat, and constantly shake the pot back and forth, until first corn kernel pops, then cover the pot, and continue shaking. When the lid lifts off the pot, remove the pot from heat; hold it over the prepared bag until popping stops.",
+            "Pour popcorn into the bag. Season with ¼ teaspoon seasoned salt; shake bag to distribute. Taste before seasoning with more salt."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Bacon Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "½ cup bacon grease",
+            "¾ cup unpopped popcorn kernels",
+            "½ teaspoon seasoned salt, or to taste",
+            "3 tablespoons bacon bits (Optional)",
+            "1 cup shredded Cheddar cheese (Optional)"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Place bacon grease into a 6-quart pot and place over high heat. Add one or two popcorn kernels as testers. When test kernels pop, add remaining popcorn kernels and cover with a lid. As kernels start to pop, shake the pan back and forth constantly to keep unpopped kernels on the bottom. When popping slows down, remove the pan from heat and let it finish popping.",
+            "Pour popcorn into a large bowl or paper sack. Season with 1/2 of the seasoned salt and stir. Taste before adding more salt if desired. Toss with bacon bits and shredded Cheddar cheese for an extra special treat. Store leftovers in lunch sacks or sandwich bags."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Chili Seasoning Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "2 tablespoons canola oil",
+            "½ cup white popcorn kernels",
+            "½ teaspoon popcorn salt, divided",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon onion powder",
+            "⅛ teaspoon ground cayenne pepper",
+            "⅛ teaspoon ground chipotle chile pepper",
+            "⅛ teaspoon ground ancho chile pepper"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Heat canola oil in a large pot over medium-high heat; add 1 popcorn kernel to hot oil. The oil is ready when kernel pops.",
+            "Pour popcorn kernels into hot oil; season with 1/2 of the popcorn salt. Stir to coat. Cover the pot with a sheet of aluminum foil. Poke about 10 holes into the aluminum foil using a knife. Cook popcorn until all kernels are popped, 5 to 10 minutes. Remove the pot from heat.",
+            "Sprinkle popcorn with remaining popcorn salt, garlic powder, onion powder, cayenne pepper, chipotle chile pepper, and ancho chile pepper. Toss to evenly coat."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Italian Popcorn with Parmesan",
+        "category": "Popcorn",
+        "ingredients": [
+            "6 tablespoons unpopped popcorn",
+            "¼ cup olive oil",
+            "2 tablespoons olive oil",
+            "1 ½ tablespoons Italian seasoning",
+            "1 ½ teaspoons garlic salt",
+            "1 cup freshly grated Parmigiano cheese"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine popcorn and 1/4 cup olive oil in a 2-quart saucepan; cover. Cook over high heat, continuously shaking the pan, until popcorn is popped and the lid begins to lift, about 5 minutes. Pour popcorn into a large serving bowl.",
+            "Add 2 tablespoons olive oil, Italian seasoning, and garlic salt to popcorn; toss to coat. Add Parmesan cheese and mix well."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Protein Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "⅓ cup light corn syrup",
+            "⅓ cup honey",
+            "⅓ cup white sugar",
+            "¾ cup peanut butter",
+            "1 teaspoon vanilla extract",
+            "3 (3.5 ounce) packages microwave popcorn, popped"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Bring corn syrup, honey, and sugar to a boil in a saucepan; cook at a boil for 2 minutes. Immediately remove from heat and stir peanut butter and vanilla into syrup mixture until peanut butter has melted completely.",
+            "Pour popcorn into a large bowl; pour sauce over popcorn and stir until evenly coated. Allow to cool completely and break into chunks to serve."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Kool-Aid® Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "6 quarts popped popcorn",
+            "2 cups white sugar",
+            "1 cup light corn syrup",
+            "⅔ cup butter",
+            "2 (.13 ounce) envelopes unsweetened soft drink mix, any flavor (such as KOOL-AID®)",
+            "1 teaspoon baking soda"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat oven to 225 degrees F (110 degrees C). Grease a large baking sheet. Place popped popcorn in a large bowl.",
+            "Combine sugar, corn syrup, and butter in a saucepan; bring to a boil until sugar dissolves, about 3 minutes.",
+            "Combine drink mix and baking soda in a large bowl; pour sugar mixture into drink mixture, stirring carefully. Sugar mixture will bubble. Pour mixture over popcorn; toss to evenly coat. Transfer coated popcorn to baking sheet.",
+            "Bake in the preheated oven, stirring every 10 minutes, until coating has hardened, about 30 minutes. Cool and break popcorn into pieces."
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spicy-Sweet Buffalo Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "cooking spray",
+            "8 cups popped popcorn",
+            "1 cup white sugar",
+            "¼ cup water",
+            "⅓ cup Buffalo wing sauce (such as Frank's®)",
+            "3 tablespoons butter, cut into small cubes",
+            "½ teaspoon baking soda",
+            "¼ teaspoon cayenne pepper (Optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Spray a large bowl with cooking spray. Fill with popcorn.",
+            "Preheat oven to 300 degrees F (150 degrees C). Line a baking sheet with parchment paper or a silicone pad.",
+            "Combine sugar and water in a saucepan and bring to a boil over medium-high heat. Cook, without stirring and swirling pan gently as needed, until sugar has melted and the caramel is a deep amber color, 8 to 12 minutes. Remove from heat.",
+            "Stir Buffalo sauce and butter carefully into the caramel; it will spit and bubble and may form a ball. Return to heat; bring to a boil, stirring until caramel is dissolved, about 3 minutes. Remove from heat and stir in the baking soda and cayenne pepper.",
+            "Pour spicy caramel mixture carefully over the popcorn. Toss to completely coat, guarding your hands from the hot caramel. Spread the coated popcorn onto the prepared baking sheet.",
+            "Bake in the preheated oven until dry, 15 to 20 minutes. Let cool for 10 minutes; stir."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gourmet Microwave Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "¼ cup unpopped popcorn",
+            "salt to taste",
+            "1 teaspoon olive oil, or more if needed"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Place popcorn in a brown paper bag. Tightly seal the bag by folding the top several times.",
+            "Microwave on High until the popping slows, about 2 minutes. Carefully open the bag. Season with salt and drizzle with olive oil. Reclose the bag and shake to distribute the seasoning."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cinnamon Heart Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "1 ½ cups cinnamon red hot candies",
+            "1 cup butter",
+            "½ cup light corn syrup",
+            "8 cups popped popcorn"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 250 degrees F (120 degrees C). Line baking sheets with parchment paper.",
+            "Combine cinnamon candies, butter, and corn syrup in a medium pot over medium heat. Bring to a boil and cook for 5 minutes.",
+            "Pour hot syrup over popcorn in a large, heatproof bowl; stir to cover popcorn as evenly as possible. Spread popcorn out onto the prepared baking sheets.",
+            "Bake in the preheated oven until candy coating is set, about 30 minutes."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Confetti Puffed Corn",
+        "category": "Popcorn",
+        "ingredients": [
+            "1 (20 ounce) package white almond bark, cut into small chunks",
+            "2 (3.25 ounce) packages butter-flavored puffed corn (such as Puffcorn)",
+            "1 tablespoon multicolored candy sprinkles, or as needed"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Place almond bark into a microwave-safe bowl. Microwave on high power until melted, about 4 minutes, stirring every 30 seconds.",
+            "Place puffed corn in a large bowl; pour melted almond bark on top and toss until evenly coated.",
+            "Distribute sprinkles evenly over puffed corn. Cool before storing."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Skillet-Popped Lentils with Parsley",
+        "category": "Popcorn",
+        "ingredients": [
+            "1 teaspoon extra-virgin olive oil",
+            "1 ½ cups dry lentils",
+            "½ teaspoon cayenne pepper",
+            "salt and ground black pepper to taste",
+            "¼ cup dried parsley"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Heat oil in a skillet over medium heat. Pour in lentils; cook and stir constantly until plump and coated with oil, about 5 minutes. Stir in cayenne pepper, salt, and pepper until lentils are brown around the edges, 5 to 7 minutes. Mix in parsley; remove popped lentils from pan and serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sesame Parmesan Popcorn",
+        "category": "Popcorn",
+        "ingredients": [
+            "⅓ cup popcorn kernels",
+            "3 tablespoons butter, melted",
+            "3 tablespoons sesame oil",
+            "¼ cup finely grated Parmesan cheese",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Pop popcorn in a hot air popper or microwave popper according to manufacturer's instructions. Pour into a large bowl.",
+            "Mix butter and sesame oil together in a small bowl. Drizzle over popcorn. Add Parmesan cheese, salt, and pepper; toss well to coat."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Butter Popcorn With Sumac",
+        "category": "Popcorn",
+        "ingredients": [
+            "¼ cup butter",
+            "2 ½ tablespoons vegetable oil, divided",
+            "1 teaspoon sumac powder",
+            "1 teaspoon chili powder",
+            "¼ teaspoon salt",
+            "¾ cup unpopped popcorn"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine butter and 1/2 tablespoon oil in a saucepan over medium-low heat; cook and stir until butter is just melted, 1 to 2 minutes. Stir sumac, chili powder, and salt into butter-oil mixture.",
+            "Heat 2 tablespoons oil in a large saucepan over high heat. Add 3 popcorn kernels to the oil and cover saucepan with a lid. Once the 3 kernels have popped, the oil is ready. Add the remaining popcorn, cover saucepan, and cook popcorn, shaking saucepan constantly, until you no longer hear popping. Remove saucepan from heat.",
+            "Transfer popcorn to a large heat-proof bowl and let sit for 2 minutes to ensure better coverage by the butter.",
+            "Pour half of the butter mixture in a second large bowl and swirl it around the bottom and sides; add popcorn and mix with a big spoon. Transfer the popcorn back in the first large bowl; stir again. Pour remaining half butter mixture into the second bowl and swirl around again; add the popcorn in and mix again."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chinese Popcorn Snack Mix",
+        "category": "Popcorn",
+        "ingredients": [
+            "10 cups plain popped popcorn, unsalted",
+            "1 ½ cups chow mein noodles",
+            "1 cup honey roasted peanuts",
+            "3 tablespoons unsalted butter, melted",
+            "2 tablespoons low-sodium soy sauce",
+            "1 tablespoon freshly squeezed lime juice",
+            "1 ½ teaspoons sesame oil",
+            "1 teaspoon Sriracha sauce, or to taste",
+            "1 teaspoon ground ginger"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 250 degrees F (120 degrees C). Line a large baking sheet with aluminum foil or parchment paper.",
+            "Combine popcorn, chow mein noodles, and peanuts in a large bowl.",
+            "Whisk butter, soy sauce, lime juice, sesame oil, Sriracha, and ginger together in a small bowl. Drizzle the butter mixture over the popcorn, tossing to evenly coat. Distribute evenly on the prepared baking sheet.",
+            "Bake in the preheated oven for 30 minutes, stirring halfway through. Remove baking sheet from oven. Set aside to cool before storing in an airtight container."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

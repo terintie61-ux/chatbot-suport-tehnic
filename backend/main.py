@@ -206,6 +206,7 @@ def chat():
         data = request.json
         
         if not data or 'mesaj' not in data:
+        #if True:
             return jsonify({
                 "success": False,
                 "error": "Te rog să trimiți un mesaj valid",
@@ -223,8 +224,10 @@ def chat():
         # 2. Găsește răspunsul potrivit
         raspuns = gaseste_raspuns_intentie(intentie, mesaj)
         
+        print("Mesaj: ",mesaj," Raspuns: ",raspuns)
+
         # 3. Loghează cererea
-        log_cerere(mesaj, intentie, raspuns)
+        #log_cerere(mesaj, intentie, raspuns)
         
         # 4. Returnează răspunsul
         return jsonify({

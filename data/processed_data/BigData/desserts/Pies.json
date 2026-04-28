@@ -1,0 +1,636 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Rustic Caramel-Apple Tart",
+        "category": "Pies",
+        "ingredients": [
+            "1 1/4 cups all-purpose flour",
+            "1/8 teaspoon plus 1/4 teaspoon salt",
+            "3 ounces cream cheese, chilled",
+            "1/4 cup butter, chilled",
+            "4 tablespoons water",
+            "1 teaspoon cider vinegar",
+            "1/3 cup packed brown sugar",
+            "1 1/2 tablespoons cornstarch",
+            "1/2 teaspoon ground cinnamon",
+            "1/4 teaspoon ground nutmeg",
+            "1/4 teaspoon cardamom",
+            "2 medium Fuji and/or Gala apples,",
+            "2 medium Granny Smith apples",
+            "1/4 teaspoon orange zest",
+            "1 tablespoon orange juice",
+            "1 tablespoon butter, cut up",
+            "1 large egg, lightly beaten",
+            "2 tablespoons apricot jam or apple jelly,",
+            "high-quality caramel sauce,",
+            "flaky salt,"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Stir together flour and 1/8 teaspoon table salt in a medium bowl. Cut in cream cheese and 1/4 cup chilled butter using a pastry blender until pieces are pea-size.",
+            "Stir in 3 tablespoons water and the vinegar just until moistened, adding an additional 1 tablespoon water, 1 teaspoon at a time, if needed. Gather pastry into a ball, kneading gently just until it holds together. Cover in plastic wrap and chill for at least 1 hour (or up to overnight).",
+            "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 13x18-inch rimmed baking sheet or line with parchment paper.",
+            "Whisk together brown sugar, cornstarch, cinnamon, nutmeg, cardamom, and remaining 1/4 teaspoon table salt in a large bowl. Add apples, orange zest, and orange juice; toss to combine.",
+            "Roll dough out on a lightly floured work surface to form a 12-inch square. Transfer to prepared baking sheet. Top pastry with apple mixture, leaving a 2-inch border (see \"Get the Look,\" below). Pour any remaining juices over apples. Fold dough border up over edge of apples, pleating pastry gently as needed to hold in juices. Dot filling with 1 tablespoon butter. Brush edges of pastry with beaten egg. Tent center of tart loosely with foil.",
+            "Bake in the preheated oven for 15 minutes. Remove foil and bake until crust is browned and filling is bubbly, 35 to 45 minutes more. Remove from the oven. Brush filling with apricot jam. Let cool 30 minutes. Serve slices with caramel sauce and garnish with flaky salt."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Peanut Butter Chocolate Pretzel Pie",
+        "category": "Pies",
+        "ingredients": [
+            "2 1/4 cups pretzels",
+            "1/4 cup sugar",
+            "3/4 cup butter, melted",
+            "2 (8 ounce) packages cream cheese",
+            "1 cup creamy peanut butter",
+            "1 1/2 cups confectioner's sugar",
+            "1 teaspoon vanilla extract",
+            "16 ounces whipped topping",
+            "1 (5.9 ounce) package instant chocolate pudding",
+            "2 1/2 cups milk",
+            "1/2 cup chopped peanut butter cups"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Stir pretzels, sugar, and melted butter together and press lightly into a 9x13-inch baking dish.",
+            "Bake in the preheated oven just until fragrant, about 10 minutes. Let cool to room temperature, about 20 minutes.",
+            "Beat cream cheese, peanut butter, confectioner's sugar, and vanilla together with an electric mixer until well blended, light, and fluffy. Fold in 2 1/2 cups whipped topping.",
+            "Spread peanut butter mixture evenly over cooled crust.",
+            "Whisk together chocolate pudding mix and milk until smooth, well combined, and slightly thickened.",
+            "Carefully spread chocolate pudding mixture over peanut butter layer, taking care not to mix layers together. Top with remaining whipped topping.",
+            "Sprinkle with chopped candies and refrigerate for at least 4 hours."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Big Boy Strawberry Pie",
+        "category": "Pies",
+        "ingredients": [
+            "4 cups fresh strawberries",
+            "1 frozen pie crust",
+            "3/4 cup white sugar",
+            "3 tablespoons cornstarch",
+            "1 cup lemon-lime soda",
+            "1/2 cup water",
+            "1 3 ounce) package strawberry-flavored gelatin",
+            "whipped cream,"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Wash, dry, and remove stems from strawberries. Arrange strawberries, tip-side up, in the prepared pie crust. Cut larger strawberries in half if needed to fit evenly. Strawberries should be piled high inside the crust.",
+            "In a saucepan, whisk together corn starch and sugar. Add lemon-lime soda and water, and whisk to combine.",
+            "Bring to a boil over medium heat, whisking frequently, until sugar is dissolved and mixture has thickened slightly.",
+            "Remove from heat and whisk in the strawberry gelatin until fully dissolved.",
+            "Let the mixture cool slightly, about 5 minutes, then carefully pour over the strawberries in the pie crust, covering evenly.",
+            "Refrigerate for at least 4 hours, or until the filling is completely set.",
+            "Slice and serve chilled. Top with whipped cream."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The 4-Ingredient Icebox Pie Our Test Kitchen Calls 'So Easy and So Yummy'",
+        "category": "Pies",
+        "ingredients": [
+            "1 (14-ounce) can sweetened condensed milk",
+            "1 teaspoon lime zest or lime zest, plus more for garnish, if desired",
+            "1/2 cup key lime juice or lime juice",
+            "1 3/4 cups whipping cream, divided",
+            "8 graham cracker sheets, cut along the scored lines",
+            "1 tablespoon powdered sugar (optional)",
+            "1 teaspoon vanilla extract (optional)",
+            "crushed graham crackers, for garnish (optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk together sweetened condensed milk, lime zest, and lime juice in a medium bowl.",
+            "Beat 1 cup of the cream in a medium bowl with an electric mixer on medium until soft peaks form (tips curl). Fold whipped cream into the lime mixture.",
+            "Arrange half of the graham cracker pieces in an even layer in the bottom of a 9-inch pie plate, breaking crackers as needed to fit. Spoon half of the filling over the top and gently spread to an even layer. Top with the remaining graham cracker pieces and the remaining filling.",
+            "Cover and freeze 4 hours or until firm. Keep remaining cream chilled until ready to serve.",
+            "To serve, remove pie from freezer; let stand 10 minutes. To serve with the optional whipped cream: Beat remaining 3/4 cup cream, powdered sugar, and vanilla in a medium bowl with an electric mixer on medium speed until soft peaks form (tips curl). Spread or pipe whipped cream over filling. If desired, top with crushed graham crackers and key lime zest."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tang Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1/2 cup orange-flavored drink mix (e.g. Tang)",
+            "1 (14 ounce) can sweetened condensed milk",
+            "1 (8-ounce) package cream cheese, softened",
+            "1 (9-inch) prepared graham cracker crust",
+            "1 (8-ounce) frozen whipped topping, thawed, divided",
+            "8 mandarin orange segments for garnish"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine orange drink mix, condensed milk, and cream cheese in a large bowl. Beat with an electric mixer on high speed until well combined. Fold 2 cups whipped topping into cream cheese mixture.",
+            "Pour mixture into graham cracker crust and chill until firm, at least 1 hour. Garnish with remaining whipped topping and mandarin orange segments."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "No-Bake Orange Creamsicle Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1/2 (3-ounce) package gelatin",
+            "1/3 cup water",
+            "1 tablespoon orange zest,",
+            "1/2 cup orange juice",
+            "4 ounces cream cheese",
+            "1 (8-ounce) container frozen whipped topping",
+            "1 9 inch) graham cracker pie crust (see Note)",
+            "1/2 cup"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk orange gelatin and boiling water together in a medium bowl until completely dissolved and slightly cooled, about 2 minutes. Whisk in orange zest and juice until combined. Set aside.",
+            "Whisk cream cheese in a large bowl until smooth, about 30 seconds. Gradually whisk in gelatin mixture until smooth.",
+            "Whisk in 1 1/2 cups whipped topping until smooth and no lumps remain; refrigerate creamsicle filling uncovered, until partially set and slightly thickened, about 30 minutes.",
+            "Pour filling into graham cracker crust and spread evenly. Cover and refrigerate until set, at least 4 hours or up to overnight.",
+            "Before serving, spoon the remaining 1 1/2 cups whipped topping over the orange layer and spread into an even layer.",
+            "Arrange mandarins decoratively over the top, sprinkle with zest, and serve."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Heide's Kentucky Derby Dessert",
+        "category": "Pies",
+        "ingredients": [
+            "1 ¼ cups chopped pecans",
+            "¾ cup brown sugar",
+            "¾ cup light corn syrup",
+            "½ cup all-purpose flour",
+            "½ cup butter, melted and cooled",
+            "¼ cup white sugar",
+            "4 large eggs",
+            "2 tablespoons bourbon",
+            "1 ½ teaspoons vanilla extract",
+            "¾ cup miniature semisweet chocolate chips",
+            "1 (9 inch) unbaked deep-dish pie crust"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 300 degrees F (150 degrees C). Spread pecans evenly on a baking sheet.",
+            "Bake pecans in the preheated oven until toasted, stirring halfway through, about 10 to 15 minutes total; let cool completely.",
+            "Increase the oven temperature to 350 degrees F (175 degrees C).",
+            "Whisk brown sugar, corn syrup, flour, butter, white sugar, eggs, bourbon, and vanilla together in a large bowl until smooth. Fold in pecans and chocolate until well combined. Pour mixture into prepared pie crust.",
+            "Bake in the preheated oven until pie is set, 50 to 60 minutes. Serve warm or chilled."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Lemon Meringue Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1 cup white sugar",
+            "2 tablespoons all-purpose flour",
+            "3 tablespoons cornstarch",
+            "¼ teaspoon salt",
+            "1 ½ cups water",
+            "2 medium lemons, juiced and zested",
+            "2 tablespoons butter",
+            "4 egg yolks, beaten",
+            "1 (9 inch) prepared pie crust, baked"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 325 degrees F (165 degrees C).",
+            "To make the lemon filling: Whisk 1 cup sugar, flour, cornstarch, and salt together in a medium saucepan; stir in water, lemon juice, and lemon zest. Cook over medium-high heat, stirring frequently, until mixture comes to a boil. Stir in butter.",
+            "Place egg yolks in a small bowl and gradually whisk in 1/2 cup of hot sugar mixture.",
+            "Whisk egg yolk mixture back into remaining sugar mixture. Bring to a boil and continue to cook while stirring constantly until thick. Remove from heat; pour filling into baked pastry crust.",
+            "To make the meringue topping: Beat egg whites in a glass, metal, or ceramic bowl with an electric mixer until foamy. Gradually add sugar, continuing to beat until stiff peaks form.",
+            "Working quickly, spread meringue over pie filling, sealing the edges at the crust. Use the back of the spoon to create peaks on the top of the meringue if you like.",
+            "Bake pie in the preheated oven until meringue is golden brown, about 20 to 25 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Coconut Cream Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1 cup sweetened flaked coconut",
+            "3 cups half-and-half",
+            "¾ cup white sugar",
+            "½ cup all-purpose flour",
+            "2 large eggs, beaten",
+            "¼ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "1 (9-inch) prepared pie shell, baked",
+            "1 cup frozen whipped topping, thawed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Spread coconut on a baking sheet.",
+            "Bake coconut in the preheated oven, stirring occasionally, until golden brown, about 5 minutes.",
+            "Combine half-and-half, sugar, flour, eggs, and salt in a medium pot. Bring to a boil over low heat, stirring constantly, until mixture thickens and coats the back of a wooden spoon, about 15 minutes.",
+            "Remove the pan from heat and stir in 3/4 cup toasted coconut and vanilla; reserve remaining toasted coconut for garnishing the pie.",
+            "Pour custard into pie shell and chill until firm, about 4 hours.",
+            "Top with whipped topping and reserved toasted coconut.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1 quart fresh strawberries, hulled",
+            "1 (9 inch) pie crust, baked",
+            "1 cup white sugar",
+            "3 tablespoons cornstarch",
+            "¾ cup water",
+            "½ cup heavy whipping cream"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Arrange 1/2 of strawberries in baked pastry shell. Place remaining strawberries in a medium saucepan.",
+            "Add sugar to the strawberries in the saucepan; place over medium heat and bring to a boil, stirring frequently.",
+            "Whisk cornstarch and water together in a small bowl. Gradually stir cornstarch mixture into boiling strawberry mixture. Reduce heat and simmer mixture until thickened, about 10 minutes, stirring constantly.",
+            "Pour cooked strawberry mixture over berries in pastry shell. Refrigerate until chilled and set, at least 3 hours.",
+            "Before serving, whip cream in a medium bowl until soft peaks form.",
+            "Serve each slice of pie with a dollop of whipped cream. Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Oreo Cookie Pie Crust",
+        "category": "Pies",
+        "ingredients": [
+            "30 chocolate creme-filled sandwich cookies, such as OREO®",
+            "5 tablespoons butter, melted"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Gather all ingredients.",
+            "Add cookies to a food processor and grind into very fine crumbs.",
+            "Pour crumbs into a bowl, then pour in melted butter. Mix with a fork until thoroughly combined.",
+            "Press mixture into the bottom of a 9-inch springform pan."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ultimate Pumpkin Custard Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1",
+            "3 large eggs",
+            "1 teaspoon ground cinnamon",
+            "1/2 teaspoon ground ginger",
+            "1/4 teaspoon ground nutmeg",
+            "1/4 teaspoon ground cloves",
+            "1/2 teaspoon ground allspice",
+            "1/2 teaspoon cardamom",
+            "3/4 teaspoon salt",
+            "1 1/4 cups heavy cream",
+            "1/4 cup sour cream",
+            "1 tablespoon vanilla bean paste",
+            "2/3 cup sugar",
+            "3 tablespoons bourbon whiskey",
+            "1 (15 ounce) can pumpkin puree",
+            "whipped cream for serving (optional)"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C) and set a rack in the center.",
+            "Lightly flour a work surface, and roll pastry to a 14-inch round. Press dough evenly into the bottom and sides of a 9-inch pie pan. Trim any excess dough and flute the edges. Freeze pie shell for 15 minutes or refrigerate for 30 minutes before baking,",
+            "Poke bottom and sides of pie shell with the tines of a fork; line with parchment paper and fill with pie weights or dried beans.",
+            "Bake crust in the preheated oven for 30 minutes. Carefully remove weights and parchment and return the shell to the oven. Continue baking until golden and firm to the touch, about 5 more minutes. Set aside to cool while preparing filling.",
+            "Add eggs, cinnamon, ginger, nutmeg, cloves, allspice, cardamom, and salt to a large bowl; whisk until well combined. Whisk in whipping cream, sour cream, vanilla bean paste, sugar, bourbon and pumpkin purée until well combined. Pour mixture into pie shell.",
+            "Bake in the preheated oven until a knife inserted near the center comes out clean, 50 to 60 minutes. Transfer the pie to a rack to cool completely."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pecan Pie Upside Down Cake",
+        "category": "Pies",
+        "ingredients": [
+            "nonstick cooking spray",
+            "1/2 cup butter",
+            "1/2 cup brown sugar",
+            "1/3 cup light corn syrup",
+            "1 teaspoon vanilla paste",
+            "1/2 teaspoon cinnamon",
+            "1/4 teaspoon salt",
+            "1 1/2 cups pecan halves"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray a 10-inch cake pan with nonstick cooking spray. Line with parchment paper and spray again. Set aside.",
+            "Place butter, brown sugar, corn syrup, vanilla paste, cinnamon, and salt in a saucepan. Bring to a boil, stirring constantly. Add pecans and stir until pecans are coated in mixture. Pour into prepared cake pan and set aside.",
+            "For cake batter, place cake mix, eggs, pudding mix, milk, oil, sour cream, and vanilla in a large bowl. Using an electric mixer, beat for 3 minutes. Pour over pecan mixture.",
+            "Bake in the preheated oven until a skewer inserted in center comes out clean, 40 to 50 minutes.",
+            "Run a butter knife around outside of cake to release from pan. Cool on a wire rack for 10 minutes. Carefully flip cake onto a serving platter and cool completely before slicing."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Caramel Apple Crisp Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1 (9 inch) unbaked pie crust",
+            "2 (20 ounce) cans apple pie filling",
+            "1/3 cup thick caramel dip",
+            "1 cup all-purpose flour",
+            "2/3 cup light brown sugar",
+            "2/3 cup oats",
+            "1/2 cup butter",
+            "1 1/2 teaspoons cinnamon",
+            "1/4 teaspoon salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Pour pie filling into crust.",
+            "Heat caramel dip in a microwave on High until runny, about 20 seconds. Drizzle caramel over pie filling.",
+            "Combine flour, brown sugar, oats, butter, cinnamon, and salt in a bowl and mix together with a fork until combined and crumbly. Scatter crumble mixture evenly over pie. Place pie on a rimmed baking sheet.",
+            "Bake in the preheated oven until crust is golden brown and filling is bubbly around the edges, 35 to 45 minutes. Let stand for 20 minutes before serving."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "No-Bake Cannoli Pie",
+        "category": "Pies",
+        "ingredients": [
+            "8 waffle cones,",
+            "1/2 cup roasted pistachios",
+            "1 tablespoon granulated sugar",
+            "7 tablespoons unsalted butter, melted",
+            "cooking spray"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the crust: Pulse waffle cones, pistachios, and sugar in a food processor until mixture is finely ground, about 20 (1-second) pulses. Add butter, and pulse until mixture holds together when squeezed, about 10 (1-second) pulses, stopping to scrape down sides as needed.",
+            "Lightly coat a 9-inch deep-dish pie plate with cooking spray, and transfer waffle cone mixture to prepared pie plate, pressing evenly into bottom and up sides of pie plate. Freeze crust, uncovered, until set,about 15 minutes.",
+            "Meanwhile, to make the filling: Finely chop pistachios, and transfer toa medium bowl. Add ricotta, mascarpone, powdered sugar, chocolate chips, orange zest, vanilla, and salt. Stir until combined, and set aside at room temperature.",
+            "Beat heavy cream with an electric mixer on medium-high speed until medium peaksform, 2 to 3 minutes. Spoon whipped cream into ricotta mixture, and gently folduntil just combined.",
+            "Spoon ricotta mixture into prepared Crust, and spread in an even layer with a rubber spatula or offset spatula. Cover with plastic wrap, and refrigerate, uncovered, until set, at least 4 hours or up to 8 hours.",
+            "Remove pie from refrigerator; remove plastic wrap, and garnishwith additional chopped pistachios, chocolate chips, and orange zest."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Atlantic Beach Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1 (4.5 ounce) sleeve saltine crackers",
+            "6 tablespoons unsalted butter, melted",
+            "3 tablespoons granulated sugar",
+            "1 large egg white",
+            "cooking spray",
+            "1 (14 ounce) can sweetened condensed milk",
+            "4 large egg yolks",
+            "3 large limes",
+            "2 large lemons",
+            "2 teaspoons vanilla extract",
+            "1 ½ cups heavy whipping cream",
+            "1/4 cup powdered sugar",
+            "sea salt"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Crush saltines so that they resemble coarse meal. Stir crushed crackers, melted butter, sugar, and egg white together in a medium bowl until combined.",
+            "Transfer mixture to a 9-inch glass or ceramic standard pie plate greased with cooking spray; firmly press on bottom and up the sides. Freeze for 10 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Bake in the preheated oven until crust is lightly browned, 15 to 20 minutes. Transfer to a wire rack; cool slightly, about 10 minutes.",
+            "While crust cools, whisk condensed milk and egg yolks together until smooth. Zest 1 of the lemons and 1 of the limes to yield 1 teaspoon each. Juice zested lemon and 2 of the limes to yield 1/4 cup juice each. Whisk lime juice, lemon juice, and 1 teaspoon of the vanilla into condensed milk mixture until smooth. Pour mixture into warm crust.",
+            "Bake at 350 degrees F (175 degrees C) until center is just set, about 15 minutes. Transfer to a wire rack; cool 1 hour at room temperature. Refrigerate, uncovered, until thoroughly chilled, at least 2 hours.",
+            "When ready to serve, beat cream, powdered sugar, and remaining 1 teaspoon vanilla in a large bowl with an electric mixer on high speed until stiff peaks form, about 2 minutes.",
+            "Spread whipped cream topping over chilled pie, leaving about a 1/2-inch border of custard showing around crust. Thinly slice remaining lemon and lime into rounds. Twist slices and arrange decoratively over whipped cream. Sprinkle with reserved lemon and lime zest.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy No-Bake Peach Tart",
+        "category": "Pies",
+        "ingredients": [
+            "9 graham crackers",
+            "1/4 teaspoon ground cinnamon",
+            "1/8 teaspoon ground nutmeg",
+            "1 pinch salt",
+            "1/2 cup sliced almonds",
+            "8 tablespoons unsalted butter",
+            "2 tablespoons honey"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Line a 9-inch tart pan with a removable bottom with a round of parchment paper. Lightly grease pan and paper.",
+            "Prepare the crust: place graham crackers, cinnamon, nutmeg, and salt into the bowl of a food processor and process until fine crumbs form.",
+            "Place almonds in a skillet over medium-low heat. Cook, stirring constantly, until almonds are toasted, about 5 minutes. Remove from heat and pour almonds into the food processor bowl with the graham crumbs. Pulse until combined.",
+            "Melt butter in the skillet using the residual heat of the pan, or if needed, place pan over low heat just until butter is melted. Add butter and honey to the food processor bowl, and pulse until mixture is thoroughly combined.",
+            "Pour crust mixture into prepared tart pan. Press crust firmly and evenly into the bottom and up sides of the pan. Place tart pan on a small baking sheet or cutting board, then freeze until crust is firm, at least 15 minutes.",
+            "For filling, place gelatin and cold water in a saucepan; let stand for 5 minutes to allow gelatin to bloom.",
+            "Meanwhile, add peaches, sugar, lemon juice, vanilla, Greek yogurt, and heavy cream to the jar of a high-powered blender. Blend mixture until very smooth, 1 to 2 minutes. Taste, and add more sugar or lemon juice, if needed; then blend again to combine.",
+            "Place saucepan with gelatin over low heat; cook, stirring constantly, until gelatin dissolves, 1 to 3 minutes. With the blender running on low speed, carefully pour gelatin mixture into peach mixture. Gradually turn blender speed up to High and blend for 30 seconds.",
+            "Remove tart crust from the freezer. Carefully pour peach mixture into the tart crust, only filling to the lip of the crust. You will have extra peach filling. Place extra filling into a ramekin or small dessert bowl and refrigerate until set; and enjoy as a separate dessert once fully chilled.",
+            "Refrigerate tart, uncovered, for at least 6 hours to overnight to set.",
+            "When ready to serve, remove tart from pan and remove parchment paper. If desired, top tart with sliced peaches and blueberries just before serving."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Peach Custard Pie",
+        "category": "Pies",
+        "ingredients": [
+            "1 pie crust shell",
+            "2 peaches"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "To blind bake the crust (optional): Chill pastry-filled pie pan at least 20 minutes before baking to prevent shrinkage.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line pastry with parchment or a double layer of aluminum foil and a layer of pie weights or dried beans.",
+            "Bake in the preheated oven for about 15 minutes. Remove from the oven, carefully remove the foil and weights, and let cool to room temperature, about 20 minutes. The base of the crust will have turned a very light golden brown. Reduce the oven temperature to 350 degrees F (175 degrees C).",
+            "For custard: combine eggs, white sugar, and brown sugar in a bowl, and whisk vigorously until sugar is dissolved, about 2 minutes. Add flour, cornmeal, salt, vanilla, vinegar, milk, and butter, and whisk vigorously until you achieve a smooth, emulsified batter, about 2 minutes.",
+            "Arrange 12 peach slices on the bottom of the crust. Whisk batter again, and slowly ladle into the crust, being careful not to move the peach slices out of place.",
+            "Bake in the preheated oven at 350 degrees F (175 degrees C) until top is browned and a very sharp knife inserted near the center comes out clean, 50 to 60 minutes. The pie should not be liquid, but jiggle when the pie dish is moved back and forth.",
+            "Let cool completely before serving. For best results, chill in the refrigerator before serving."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Perfect Key Lime Pie with Coconut Rum Whipped Cream",
+        "category": "Pies",
+        "ingredients": [
+            "11 graham crackers",
+            "1/4 cup sugar",
+            "5 tablespoons butter",
+            "1 (14 ounce) can plus 1/2 cup sweetened condensed milk",
+            "2/3 cup lime juice or Key lime juice (see Note)",
+            "1/2 teaspoon lime zest",
+            "3 large egg yolks",
+            "1/3 cup sour cream",
+            "1 cup heavy cream",
+            "1/4 cup powdered sugar",
+            "2 tablespoons coconut rum"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Break graham crackers into the bowl of a food processor and add sugar. Pulse until coarsely ground. Add melted butter and pulse about 4 times until mixture resembles damp sand; transfer to a pie plate and very lightly press into bottom and up sides of the dish.",
+            "Bake in the preheated oven just until fragrant, 4 to 6 minutes. Let cool.",
+            "Whisk together sweetened condensed milk and lime juice until smooth. Whisk in egg yolks until well combined. Stir in sour cream and zest until smooth.",
+            "Pour filling over graham cracker crust; lightly spread in an even layer. Place pie dish on a rimmed baking sheet.",
+            "Bake in the preheated oven until just set around the edges and slightly jiggly in the center, 14 to 16 minutes. Remove to a wire rack to cool to room temperature, about 40 minutes. Chill pie in the refrigerator for at least 8 hours.",
+            "Place cream, powdered sugar, and rum in a mixing bowl. Beat with an electric mixer until cream holds medium peaks. Serve pie with whipped cream."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Rough Puff Pastry",
+        "category": "Pies",
+        "ingredients": [
+            "2 cups all-purpose flour, plus more for dusting",
+            "½ teaspoon kosher salt",
+            "1 cup cold unsalted butter, cubed",
+            "½ cup cold water"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Place flour and salt in the bowl of a stand mixer fitted with a paddle attachment. Add butter and toss with your fingertips until evenly coated with flour.",
+            "Add water to bowl. Mix on low speed until the dough forms a shaggy mass, about 45 seconds.",
+            "Cover bowl with plastic wrap and refrigerate until butter is firm but not brittle, about 20 minutes.",
+            "Transfer dough to a floured work surface and roll into a ½-inch-thick rectangle that is about 10 ½ x 6 inches.",
+            "Fold one third of the longer side of the dough over the center third of dough. Fold the final third over the center (like you would fold a letter). Tightly wrap folded dough in plastic wrap and refrigerate until chilled, about 30 minutes. Repeat this process of rolling, folding and refrigerating 4 more times, turning the dough 90 degrees each time before rolling.",
+            "After completing the final fold, wrap the dough tightly in plastic wrap and refrigerate until firm before using, at least 1 hour or up to 2 days."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    }
+]

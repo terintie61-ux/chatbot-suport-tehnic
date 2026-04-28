@@ -1,0 +1,300 @@
+[
+    {
+        "Main_category": "bakery"
+    },
+    {
+        "recipe_title": "Traditional Cheese Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "3 eggs",
+            "1 cup milk",
+            "2 tablespoons vegetable oil",
+            "1 ½ teaspoons salt, divided",
+            "¾ cup all-purpose flour, sifted",
+            "1 (16 ounce) package dry small curd cottage cheese",
+            "3 ½ tablespoons white sugar",
+            "3 tablespoons sour cream",
+            "1 egg yolk",
+            "¼ teaspoon ground cinnamon",
+            "¼ cup butter, or as needed, divided"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Beat eggs in a bowl. Add milk, oil, and 1/2 teaspoon salt. Beat in flour using an electric mixer until well blended. Let batter stand for 15 to 30 minutes.",
+            "Mix the remaining 1 teaspoon salt, cottage cheese, sugar, sour cream, egg yolk, and cinnamon together in a bowl to make the filling.",
+            "Melt butter in a 6- to 7-inch skillet. Spoon a portion of the batter onto the skillet; cook until lightly browned on the bottom, about 3 minutes. Turn out onto a tea towel. Repeat with the remaining batter, thinning with small amounts of water if necessary and greasing the pan after every 2 to 3 blintzes.",
+            "Preheat oven to 400 degrees F (200 degrees C). Grease a baking sheet.",
+            "Melt the remaining butter in the skillet over low heat, about 1 minute.",
+            "Place a blintz on a clean work surface with the uncooked side up. Add 1 tablespoon filling and roll up, completely covering the filling. Place on the prepared baking sheet. Repeat with the remaining blintzes. Brush filled blintzes with melted butter.",
+            "Bake in the preheated oven until brown, 15 to 20 minutes."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "⅔ cup all-purpose flour",
+            "3 eggs",
+            "½ teaspoon salt",
+            "1 ½ cups milk",
+            "1 ½ tablespoons butter, melted"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Beat flour, eggs, and salt together in a large bowl until smooth. Gradually stir in milk and 1 ½ tablespoons melted butter. Cover batter with plastic wrap; rest in the refrigerator at least 2 hours.",
+            "Combine cottage cheese, cream cheese, sugar, and vanilla extract in a blender; blend until filling is smooth.",
+            "Melt a bit of butter in a large skillet or crêpe pan over medium heat. Spoon a small amount of batter into the skillet; immediately swirl the skillet to spread batter in a thin layer. Cook until set, about 30 seconds. Flip; cook until second side is cooked, about 10 seconds more. Transfer to a plate; cool. Repeat with remaining butter and batter.",
+            "Spoon filling onto blintzes; fold. Top with strawberries."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Marylyn's Cheese Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "1 cup water",
+            "¾ cup milk",
+            "3 eggs",
+            "5 tablespoons melted butter",
+            "½ teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "1 ½ cups all-purpose flour",
+            "1 (16 ounce) package cottage cheese",
+            "1 (8 ounce) package farmers cheese",
+            "¼ cup sour cream",
+            "2 tablespoons white sugar",
+            "1 teaspoon vanilla extract",
+            "1 pinch salt",
+            "2 tablespoons butter, or as needed"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Place the water, milk, eggs, melted butter, 1/2 teaspoon of salt, 1 teaspoon of vanilla extract, and flour in the container of a blender, and blend until the mixture forms a smooth batter, about 1 minute. Pour into a bowl, and refrigerate at least 1 hour.",
+            "Clean the blender container, then add the cottage cheese, farmers cheese, sour cream, sugar, 1 teaspoon of vanilla extract, and 1 pinch of salt. Pulse the filling mixture a few times to combine, then blend until the filling is smooth, about 2 minutes.",
+            "Melt 1 teaspoon of butter in an 8-inch skillet over medium heat until the foam disappears from the skillet. Pour about 2 tablespoons of batter into the heated skillet, and swirl the pan to coat the bottom completely. Cook until the crepe is opaque and set, 1 to 2 minutes, and set aside, uncooked side down, on a plate lined with wax paper. Repeat with the rest of the batter, buttering the pan every few crepes if needed.",
+            "To fill, place a crepe in front of you on a work surface with the cooked side up, and place about 1 1/2 tablespoons of cheese filling about 1 1/2 inches from the top of the crepe. Fold the top edge of the crepe over the filling, and fold the two sides inward to completely enclose the cheese. Roll the crepe over to seal the filling in, making a compact filled roll.",
+            "Melt 1 teaspoon of butter, or as needed, in a skillet over medium-low heat. Pan fry the blintzes on both sides until the filling is hot and brown spots appear on the crepe, 1 to 2 minutes per side."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Orange Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "2 tablespoons white sugar",
+            "1 teaspoon grated orange zest",
+            "¾ teaspoon salt",
+            "1 cup all-purpose flour",
+            "¼ cup milk",
+            "¼ cup vanilla yogurt",
+            "2 tablespoons extra-virgin olive oil",
+            "4 eggs",
+            "½ cup orange juice",
+            "1 egg",
+            "3 tablespoons white sugar",
+            "2 tablespoons unsalted butter, melted",
+            "1 (16 ounce) package small curd cottage cheese",
+            "5 tablespoons dry bread crumbs",
+            "1 tablespoon grated orange zest",
+            "2 tablespoons unsalted butter"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Mix 2 tablespoons of sugar, 1 teaspoon of orange zest, salt, and flour in a small bowl. Combine milk and yogurt in a separate bowl. Stir in olive oil and mix until smooth. Beat 4 eggs in a large bowl, then add orange juice. Stir in the yogurt mixture followed by the flour mixture. Beat until smooth. Allow batter to rest at room temperature for 1 hour.",
+            "Beat 1 egg with 3 tablespoons of sugar, then add butter and cottage cheese, mixing until smooth. Stir in the bread crumbs and 1 tablespoon of orange zest. Refrigerate until the batter is ready.",
+            "Lightly butter a 6 inch skillet, and heat over medium heat. For each crepe, pour 1/4 cup of the batter into the skillet, and immediately rotate the skillet until the batter evenly coats the bottom in a thin layer. Cook until the top of the crepe is no longer wet and the bottom has turned light brown. Run a spatula around the edge of the skillet to loosen; flip the crepe, and cook until the other side has turned light brown. Stack the crepes in a clean kitchen towel, placing waxed paper between each.",
+            "Place 2 to 3 tablespoons of the filling onto the golden side of the crepe. Roll the crepe up and repeat until all the blintzes are made. Heat 2 tablespoons of butter in a large skillet and fry 4 to 5 blintzes at a time until golden brown, about 2 minutes on each side."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheese and Lemon Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "3 eggs",
+            "½ teaspoon salt",
+            "cooking spray"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Mix flour, eggs, and salt together in a bowl until smooth and creamy.",
+            "Lightly coat a small skillet with cooking spray. Pour 2 to 3 tablespoons of batter into the skillet. Swirl around until even and then place skillet over medium heat. Cook until sides begin to curl away, about 2 minutes. Turn and cook other side until lightly browned, about 1 minute more. Put onto a plate.",
+            "Mix cream cheese, raisins, sugar, egg yolks, lemon peel, vanilla extract, and cinnamon together in a bowl to make the filling. Place 2 to 3 teaspoons of filling on each blintz and roll up like a small burrito.",
+            "Melt 1 tablespoon butter in a skillet over medium heat. Cook the filled blintzes, turning carefully, until lightly browned, about 30 seconds each."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baby Blintz Stacks",
+        "category": "Blintzes",
+        "ingredients": [
+            "1 (24 ounce) carton cottage cheese",
+            "2 fresh peaches - peeled, pitted and chopped",
+            "3 tablespoons white sugar",
+            "½ teaspoon ground nutmeg",
+            "¼ teaspoon salt",
+            "¼ teaspoon almond extract",
+            "½ cup sour cream",
+            "2 tablespoons brown sugar",
+            "1 ½ cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "½ teaspoon baking powder",
+            "½ teaspoon salt",
+            "½ teaspoon ground nutmeg",
+            "2 cups milk",
+            "2 eggs",
+            "2 tablespoons melted butter",
+            "½ teaspoon vanilla extract",
+            "2 fresh peaches, pitted and sliced"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Stir together the cottage cheese, chopped peaches, 3 tablespoons white sugar, 1/4 teaspoon salt, and the almond extract in a bowl until evenly combined. Stir together the sour cream and brown sugar in a separate bowl. Refrigerate both fillings until ready to use.",
+            "Whisk together the flour, 1 tablespoon of white sugar, the baking powder, 1/2 teaspoon salt, and the nutmeg in a bowl. Beat the eggs, milk, butter, and vanilla extract in a separate bowl until smooth. Stir in the flour mixture until no lumps remain.",
+            "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle to form silver dollar-sized blintzes. Cook until bubbles form and the edges are dry, about 2 minutes. Flip, and cook until browned on the other side. Repeat with remaining batter.",
+            "To assemble, spread 1 tablespoon of peach filling on top of each blintz. Stack together 5 blintzes to make a serving portion, and spoon the sweetened sour cream overtop. Garnish with peach slices."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheese Blintzes II",
+        "category": "Blintzes",
+        "ingredients": [
+            "1 cup milk",
+            "3 eggs",
+            "½ teaspoon salt",
+            "¾ cup all-purpose flour",
+            "2 cups cottage cheese",
+            "1 egg yolk",
+            "1 teaspoon melted butter",
+            "2 teaspoons white sugar",
+            "1 teaspoon lemon juice",
+            "½ teaspoon vanilla extract",
+            "2 tablespoons butter, or as needed",
+            "2 tablespoons cinnamon sugar, or as needed"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place the milk, whole eggs, salt, and flour into a blender. Blend until smooth. Refrigerate at least 20 minutes. Meanwhile, make the filling by beating together the cottage cheese, egg yolk, melted butter, sugar, lemon juice, and vanilla extract in a bowl with an electric mixer until smooth.",
+            "Preheat an oven to 425 degrees F (220 degrees C). Lightly grease a baking sheet.",
+            "Melt some of the 2 tablespoons of butter in a skillet over medium-high heat. Pour in about 2 tablespoons of the batter and tilt the pan to completely coat with the batter. Cook until golden on the bottom, and no longer wet on the top, about 2 minutes per crepe. Repeat with remaining batter.",
+            "Place 1 to 2 tablespoons of the filling near one edge of a crepe. Fold this side up towards the center, then fold the sides in. Fold the top over the filling, and place seam-side-down onto the prepared baking sheet. Repeat with the remaining crepes and filling.",
+            "Bake in the preheated oven 10 minutes, then sprinkle with cinnamon sugar, and continue baking until lightly golden, about 5 minutes more."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blenty of Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "1 ¼ cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "½ cup butter, softened",
+            "3 tablespoons white sugar",
+            "2 eggs",
+            "¾ cup milk",
+            "1 (16 ounce) container cottage cheese, creamed",
+            "2 tablespoons butter, softened",
+            "1 egg",
+            "1 tablespoon sour cream",
+            "½ teaspoon salt"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x9 inch baking dish.",
+            "In a medium bowl, mix flour, baking powder, butter and sugar. Stir in eggs and milk. In a separate medium bowl, mix cottage cheese, butter, egg, sour cream and salt.",
+            "Place 1/2 the flour mixture in the baking dish. Cover with the cottage cheese mixture, and top with remaining flour mixture.",
+            "Bake 50 minutes in the preheated oven, until puffed and golden brown. Allow to cool slightly, and cut into squares to serve."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Raspberry Blintzes",
+        "category": "Blintzes",
+        "ingredients": [
+            "1 (8 ounce) package cream cheese, softened",
+            "⅓ (13 ounce) jar chocolate-hazelnut spread (such as Nutella®)",
+            "½ (8 ounce) package mixed berry cream cheese, softened",
+            "1 tablespoon milk",
+            "2 teaspoons vanilla extract",
+            "½ cup butter, melted",
+            "1 cup white sugar",
+            "2 tablespoons ground cinnamon",
+            "1 loaf sliced white bread, crusts removed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Mix cream cheese, chocolate-hazelnut spread, berry cream cheese, milk, and vanilla extract together in a bowl.",
+            "Pour melted butter into a shallow bowl.",
+            "Combine sugar and cinnamon in a separate shallow bowl.",
+            "Flatten bread slices out on a work surface. Spread cream cheese mixture over each slice. Roll up each slice. Dip rolls in melted butter; coat with cinnamon sugar. Arrange seam-side down in a baking dish.",
+            "Bake in the preheated oven until lightly golden, 15 to 20 minutes."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

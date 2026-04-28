@@ -1,0 +1,591 @@
+[
+    {
+        "Main_category": "main_dish"
+    },
+    {
+        "recipe_title": "Chicken and Shrimp Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "4 tablespoons olive oil, divided",
+            "1 pound boneless, skinless chicken breast halves, cut into bite-sized pieces",
+            "2 tablespoons minced garlic, divided",
+            "2 tablespoons Italian seasoning",
+            "1 pound large shrimp, peeled and deveined",
+            "8 slices smoked bacon, diced",
+            "1 (16 ounce) package linguine pasta",
+            "1 ½ cups heavy whipping cream",
+            "1 ½ cups grated Parmesan cheese",
+            "4 large egg yolks",
+            "salt and ground black pepper to taste",
+            "1 medium onion, diced",
+            "¼ cup Sauvignon Blanc wine"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Heat 1 tablespoon oil in a large skillet over medium-high heat. Add chicken, 1 tablespoon garlic, and 1 tablespoon Italian seasoning; cook and stir until chicken is no longer pink in the center and the juices run clear, 6 to 8 minutes. Transfer to a bowl.",
+            "Heat 1 tablespoon oil and 1 tablespoon garlic in the same skillet until fragrant, about 1 minute. Add shrimp and cook until bright pink on the outside and the meat is opaque, 2 to 3 minutes per side. Transfer to the bowl with chicken.",
+            "Cook bacon in the same skillet until just crispy (not crunchy), about 6 minutes. Drain on a paper towel-lined plate; leave grease in the skillet.",
+            "Bring a large pot of lightly salted water to a boil. Add linguine and remaining 2 tablespoons oil; cook until tender yet firm to the bite, about 11 minutes. Drain and keep warm.",
+            "Mix cream, Parmesan cheese, egg yolks, remaining 1 tablespoon Italian seasoning, salt, and pepper together in a bowl.",
+            "Sauté onion in bacon grease over medium heat until translucent, about 5 minutes. Add wine, increase the heat, and bring to a boil.",
+            "Add cream mixture, reduce the heat, and simmer until sauce begins to thicken, 3 to 5 minutes. Stir in chicken, bacon, and shrimp until coated, then serve over linguine."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Loaded Chicken Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "6 slices bacon, chopped",
+            "1 ½ pounds skinless, boneless chicken breast halves",
+            "salt and ground black pepper to taste",
+            "3 cloves garlic",
+            "1 teaspoon ground black pepper",
+            "½ cup white wine",
+            "1 ½ cups grated Parmesan cheese",
+            "3 large eggs",
+            "1 gallon water",
+            "1 pound spaghetti",
+            "2 cups frozen peas"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Cook the bacon in a large skillet over medium heat until crisp, about 10 minutes. Remove bacon from skillet with a slotted spoon and drain on a paper towel-lined plate. Drain fat from skillet, reserving 2 tablespoons of the bacon drippings.",
+            "Season chicken with salt and pepper. Heat 1 tablespoon bacon drippings in the skillet over medium heat. Cook chicken breast halves in the bacon drippings until no longer pink in the center and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Transfer to cutting board and tent with foil. Rest chicken for 5 minutes before slicing; set aside.",
+            "Heat remaining tablespoon bacon drippings in skillet over medium heat until shimmering. Cook and stir garlic and ground black pepper in skillet until fragrant, about 30 seconds. Pour wine into skillet; cook at a simmer until thickened, about 2 minutes. Remove from heat.",
+            "Whisk Parmesan cheese and eggs together in a bowl. Slowly stream wine mixture into the Parmesan mixture while whisking continually.",
+            "Bring a large pot of generously salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Remove 1/2 cup of the water from the pot for later use.",
+            "Put the peas in a large colander. Drain the pasta in the colander with the peas. Return drained pasta and peas to the pot. Stir bacon, chicken, and wine mixture into the spaghetti. Thin sauce with reserved pasta water as desired."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick and Creamy Pasta Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "3 cups rigatoni pasta",
+            "6 slices bacon, diced",
+            "2 cloves garlic, minced",
+            "1 ¼ cups milk",
+            "1 (8 ounce) package cream cheese, cut into cubes",
+            "½ cup butter, softened",
+            "½ cup freshly shredded Parmesan cheese",
+            "¼ cup fresh green peas",
+            "¼ cup diced cooked ham"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally until cooked through but firm to the bite, about 13 minutes. Drain.",
+            "Meanwhile, place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Remove bacon with a slotted spoon, leaving drippings in pan; set bacon aside.",
+            "Cook and stir garlic in the remaining bacon grease over medium heat. Add milk, cream cheese, and butter to skillet; stir until smooth. Stir Parmesan cheese, peas, ham, and bacon into cream cheese mixture; cook until peas are heated through, about 5 minutes more. Mix pasta into sauce to serve."
+        ],
+        "healthiness_score": 36,
+        "health_level": "unhealthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Carbonara with Bacon",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (16 ounce) package spaghetti",
+            "12 slices thick-cut, applewood-smoked bacon",
+            "2 tablespoons olive oil, divided",
+            "1 onion, finely chopped",
+            "2 large cloves garlic, minced",
+            "¼ cup dry vermouth",
+            "1 cup shredded Parmesan cheese",
+            "½ cup whipping cream (Optional)",
+            "4 eggs, beaten",
+            "1 tablespoon ground black pepper"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes.",
+            "Meanwhile, place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Reserve 2 tablespoons bacon fat in the skillet and discard the rest. Chop bacon when cool enough to handle.",
+            "Add 1 tablespoon olive oil and onion to reserved bacon fat in the skillet. Cook over medium-high heat until the onion has softened and turned translucent, about 5 minutes. Add garlic and cook until fragrant, about 1 minute. Pour vermouth into the pan and bring to a boil while scraping the browned bits of food off the bottom of the pan with a wooden spoon, about 1 minute. Mix in chopped bacon.",
+            "Drain spaghetti, transfer to a large serving bowl, and mix in remaining 1 tablespoon oil. Add bacon-onion mixture, Parmesan cheese, cream, eggs, and pepper to the hot pasta; stir until spaghetti is well coated and sauce is creamy."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Pasta Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "½ pound bacon, cut into small pieces",
+            "4 large eggs, at room temperature",
+            "¼ cup heavy cream, at room temperature",
+            "1 cup grated Parmesan cheese",
+            "16 ounces dry fettuccine pasta",
+            "¼ cup butter, softened",
+            "¼ cup chopped parsley",
+            "ground black pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Cook and stir bacon in a large skillet over medium-high heat until evenly browned and crisp, about 10 minutes. Drain on a paper towel-lined plate and set aside.",
+            "Beat together eggs and cream in a medium bowl until just blended. Stir in Parmesan cheese and set aside.",
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Cook pasta in boiling water until tender yet firm to the bite, about 8 minutes. Drain and return pasta to the pot.",
+            "Add softened butter to the pot and toss with pasta until butter is melted. Add bacon and egg-cheese mixture. Stir until the heat of pasta cooks eggs, then garnish with parsley and black pepper to serve."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Greek Yogurt Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "¼ pound turkey bacon",
+            "¼ pound angel hair pasta",
+            "¼ cup plain Greek yogurt",
+            "¼ cup grated Parmesan cheese",
+            "1 egg",
+            "¼ teaspoon Italian seasoning",
+            "¼ teaspoon crushed red pepper flakes",
+            "1 pinch garlic salt",
+            "1 pinch onion powder"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place turkey bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 5 minutes. Drain, let cool, and crumble.",
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in angel hair pasta, bring back to a boil, and cook over medium heat until tender yet firm to the bite, 4 to 5 minutes.",
+            "Meanwhile, whisk Greek yogurt, Parmesan cheese, egg, Italian seasoning, red pepper flakes, garlic salt, and onion powder together in a bowl.",
+            "Drain pasta and return to the pot. Pour egg mixture over the pasta while still warm. Cook and stir over low heat for 1 to 2 minutes. Add bacon pieces and toss to coat."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Spaghetti alla Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "4 ounces guanciale, cut into 1/4-inch cubes",
+            "1 tablespoon olive oil",
+            "1 teaspoon ground black pepper, or to taste",
+            "2 eggs",
+            "3 tablespoons grated Parmigiano-Reggiano cheese",
+            "3 tablespoons grated Pecorino Romano cheese",
+            "1 teaspoon ground black pepper, or to taste",
+            "6 ounces spaghetti",
+            "1 cup reserved pasta water",
+            "3 tablespoons grated Parmigiano-Reggiano cheese",
+            "3 tablespoons grated Pecorino Romano cheese"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Cook guanciale with olive oil and 1 teaspoon ground black pepper in a Dutch oven over medium-low heat until almost crisp, about 5 minutes. Reduce heat to low.",
+            "Whisk eggs, 3 tablespoons Parmigiano-Reggiano cheese, 3 tablespoons Pecorino Romano cheese, and 1 teaspoon ground black pepper in a bowl. Set aside.",
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, 10 to 12 minutes. Drain, reserving 1 cup of the pasta water.",
+            "Pour reserved pasta water and drained spaghetti into the bacon-pepper mixture; stir to combine.",
+            "Slowly pour egg mixture into the pasta mixture; cook, stirring constantly until the egg mixture forms a thick sauce, 1 to 2 minutes. Remove from heat.",
+            "Stir remaining 3 tablespoons Parmigiano-Reggiano cheese and 3 tablespoons Pecorino Romano cheese into the pasta mixture and serve."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (16 ounce) package spaghetti",
+            "2 teaspoons olive oil",
+            "1 (4 ounce) package pancetta bacon, diced",
+            "2 cloves garlic, minced",
+            "2 ½ cups whipping cream",
+            "1 cup freshly grated Parmesan cheese",
+            "8 large egg yolks",
+            "¼ cup chopped fresh basil",
+            "¼ cup chopped fresh flat-leaf Italian parsley",
+            "4 cups shredded cooked chicken",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain and set aside.",
+            "Meanwhile, heat olive oil in a large, heavy skillet over medium heat. Add pancetta and garlic; cook until browned and crisp, about 8 minutes. Remove from heat; cool slightly.",
+            "Whisk heavy cream, Parmesan cheese, egg yolks, basil, and parsley together in a large bowl until well blended.",
+            "Stir chicken into pancetta mixture until well combined. Toss in spaghetti and cream mixture over medium-low heat until chicken is heated through and sauce thickly coats spaghetti, about 4 minutes. Do not boil, or eggs will scramble. Season with salt and black pepper. Transfer to a serving bowl."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Carbonara Sauce",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "6 ounces bacon, diced",
+            "1 large onion, diced",
+            "1 tablespoon minced garlic",
+            "1 (12 ounce) jar Alfredo sauce",
+            "½ cup water",
+            "3 roma (plum) tomatoes - halved, seeded, and chopped"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Cook bacon in a large skillet over medium-high heat until evenly browned, about 10 minutes. Drain all but about 2 tablespoons bacon drippings from skillet. Cook and stir onion with bacon in reserved drippings until onion is translucent, 5 to 10 minutes. Add garlic; cook and stir until fragrant, 2 minutes.",
+            "Pour Alfredo sauce into onion-bacon mixture; rinse jar with the water and pour into skillet. Stir sauce with a wooden spoon, thoroughly scraping any brown bits of food from bottom of the skillet. Bring sauce to a simmer; add tomatoes. Simmer sauce until flavors blend, about 5 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gluten Free Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (12 ounce) box Barilla® Gluten Free Spaghetti",
+            "½ cup chopped onion",
+            "1 cup chopped raw bacon",
+            "1 tablespoon vegetable oil",
+            "1 bunch asparagus, trimmed, cut 1 inch long on a bias",
+            "5 large egg yolks, lightly beaten",
+            "½ cup grated Parmesan cheese",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Bring a large pot of water to a boil. Cook pasta according to package directions. Drain and set aside.",
+            "Meanwhile, sauté onion, bacon, and oil in a skillet over medium-high heat until bacon is rendered and onions are translucent, about 5 minutes. Add asparagus; sauté for 3 to 4 minutes, then season with salt and pepper.",
+            "Mix yolks with cheese in a bowl. Season with salt and pepper; set aside.",
+            "Toss pasta with bacon and asparagus mixture in the skillet until warmed through. Remove the skillet from heat.",
+            "Fold yolk mixture into pasta; stir vigorously until yolks thicken and coat spaghetti. Serve immediately."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shrimp Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (16 ounce) package spaghetti",
+            "20 uncooked medium shrimp, peeled and deveined",
+            "2 tablespoons extra-virgin olive oil, divided",
+            "salt and ground black pepper to taste",
+            "1 small onion, minced",
+            "2 cloves garlic, minced",
+            "1 cup skim milk",
+            "¼ cup half-and-half",
+            "4 large eggs, beaten",
+            "1 cup grated Parmesan cheese",
+            "1 tablespoon fresh parsley"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain and immediately return spaghetti to the pot.",
+            "Meanwhile, place shrimp in a large pan over medium heat. Add 1 tablespoon olive oil; season with salt and pepper. Cook and stir shrimp until mostly opaque, about 5 minutes. Add shrimp to pasta; cover to keep warm.",
+            "Heat remaining 1 tablespoon olive oil in the same pan. Add onion; cook and stir until translucent, about 5 minutes. Add garlic and cook until fragrant, about 1 minute. Add milk and half-and-half; cook until heated through, about 3 minutes.",
+            "Pour 1/4 cup of the milk mixture into a bowl; add eggs and stir until warmed through. Pour egg mixture over shrimp and pasta and stir in remaining milk mixture.",
+            "Top with Parmesan cheese and parsley."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Classic Carbonara with Pancetta",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "4 eggs, lightly beaten",
+            "2 cups heavy cream",
+            "1 cup freshly grated Parmesan cheese",
+            "1 (16 ounce) package penne pasta",
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "½ pound sliced pancetta, chopped",
+            "½ teaspoon ground nutmeg",
+            "½ cup pine nuts, toasted",
+            "½ teaspoon salt",
+            "1 teaspoon black pepper",
+            "¾ cup chopped Italian flat leaf parsley",
+            "½ cup freshly grated Parmesan cheese"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Whisk together eggs, cream, and 1 cup Parmesan cheese in a bowl. Set aside.",
+            "Bring a large pot of lightly salted water to a boil. Add pasta; cook until al dente, 8 to 10 minutes. Drain pasta; return it to the pot off heat and cover to keep warm.",
+            "Meanwhile, heat olive oil in a large skillet over medium heat. Add onion and cook until translucent, about 8 minutes. Transfer onion to a bowl; cover to keep warm.",
+            "Cook pancetta in the same skillet over medium heat until browned; toss with nutmeg. Drain on paper towels.",
+            "Combine pasta, onion, pancetta, pine nuts, salt, and pepper in the same large skillet over low heat. Slowly stir in egg mixture, tossing gently, so eggs don't scramble. Cook until just heated through.",
+            "Remove from heat and toss with parsley and remaining 1/2 cup Parmesan cheese. Serve immediately."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick Pasta Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "½ pound medium-size pasta",
+            "4 slices OSCAR MAYER Bacon, chopped",
+            "4 ounces PHILADELPHIA Cream Cheese, cubed",
+            "1 cup frozen peas",
+            "¾ cup milk",
+            "½ cup KRAFT Grated Parmesan Cheese",
+            "½ teaspoon garlic powder"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Cook pasta as directed on the package. Drain pasta and set aside.",
+            "Meanwhile, cook bacon in a large skillet until crisp. Drain bacon on paper towels. Reserve 2 tablespoons drippings in the skillet.",
+            "Add cream cheese, peas, milk, Parmesan cheese, and garlic powder to reserved drippings. Cook on low heat until cream cheese is melted and mixture is heated through.",
+            "Place pasta in a large bowl. Add cream cheese sauce and bacon; mix lightly."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tortellini Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "2 tablespoons butter",
+            "½ pound cooked ham, cut into 1/2-inch pieces",
+            "4 cups half-and-half",
+            "1 cup Parmesan cheese, grated",
+            "¼ cup onion, chopped",
+            "1 ½ cups frozen green peas",
+            "9 ounces fresh cheese-filled tortellini"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Melt butter in a large skillet over medium heat. Stir in onion and ham and saute for 5 minutes, or until onion is translucent.",
+            "Pour in half-and-half and cheese, stirring frequently, until sauce starts to thicken and bubble. Season with salt and pepper to taste and set aside.",
+            "Fill a large pot with water and bring to a boil. Add tortellini and cook to desired doneness, or according to package directions. Add peas to boiling tortellini in the final minute of cooking. Drain from water and toss with ham and sauce mixture."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "10-Minute Mushroom Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (16 ounce) package spaghetti",
+            "½ pound sliced fresh mushrooms",
+            "1 tablespoon olive oil",
+            "2 cloves garlic",
+            "3 eggs",
+            "½ cup freshly grated Parmesan cheese divided"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain.",
+            "Meanwhile, place mushrooms in a dry skillet over medium heat. Cook until they begin to brown and release moisture, 3 to 5 minutes. Add oil and garlic. Fry until softened, about 3 minutes more.",
+            "Beat eggs together in a bowl. Add 1/2 of the Parmesan cheese. Mix well and stir into cooked mushroom mixture.",
+            "Serve spaghetti topped with mushroom sauce and remaining Parmesan cheese."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Asparagus Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (8 ounce) package spaghetti",
+            "4 slices center-cut bacon, chopped into 1/2-inch slices",
+            "1 ½ cups thin asparagus, cut into 1 1/2-inch lengths",
+            "1 large clove garlic, minced",
+            "½ cup finely grated Parmesan cheese, divided",
+            "3 large egg yolks, at room temperature",
+            "½ cup plain fat-free Greek yogurt",
+            "salt and freshly ground black pepper to taste",
+            "2 tablespoons fat-free half-and-half",
+            "¼ cup freshly chopped parsley"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes.",
+            "Meanwhile, heat a large skillet over medium-low heat and cook bacon in the hot skillet, stirring occasionally, until browned, 5 to 6 minutes. Transfer bacon to a paper towel-lined plate using a slotted spoon. Remove all but 1 tablespoon bacon fat from the skillet.",
+            "Add asparagus to bacon fat in the skillet and cook and stir until asparagus begins to brown, about 3 minutes. Add garlic and cook until fragrant, about 30 seconds. Transfer asparagus and garlic to the plate with bacon.",
+            "Reserve 2 tablespoons Parmesan cheese for garnish. Whisk together remaining Parmesan cheese, egg yolks, Greek yogurt, salt, and pepper in a small bowl until well combined.",
+            "Drain spaghetti, setting aside about 3/4 cup of the cooking water, and return spaghetti to the pot. Stir in egg yolk mixture and toss for 1 minute until evenly coated. Return the pot back to low heat and cook, adjusting consistency with reserved cooking water if necessary, 1 to 2 minutes.",
+            "Turn off heat, pour in half-and-half, and stir well. Mix in bacon and asparagus until evenly distributed. Garnish with reserved Parmesan cheese and parsley."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spaghetti Alla Carbonara Tradizionali",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (14 ounce) package spaghetti",
+            "5 ounces guanciale (cured pork cheek), cut into small cubes",
+            "3 egg yolks",
+            "1 large egg",
+            "¾ cup grated Pecorino-Romano cheese, plus more to serve",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in spaghetti and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Reserve a little pasta water, then drain.",
+            "Meanwhile, heat a skillet over medium heat; add guanciale, cook and stir until crisp, 5 to 10 minutes.",
+            "Whisk egg yolks and whole egg together in a bowl; whisk in ¾ cup Pecorino-Romano cheese, salt, and pepper until combined.",
+            "Stir in guanciale. Add spaghetti; toss until evenly coated. Season to taste with extra cheese, salt, and pepper; serve."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ramen Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "2 slices bacon, chopped",
+            "½ cup chopped onion",
+            "2 (3 ounce) packages ramen noodles (flavor packets discarded)",
+            "½ cup frozen peas",
+            "1 egg",
+            "½ cup shredded Parmesan cheese",
+            "¼ teaspoon kosher salt",
+            "1 pinch red pepper flakes",
+            "Chopped fresh parsley"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Cook bacon in a large skillet over medium heat until crisp, about 5 minutes. Transfer to paper towels to drain. Add onion to bacon drippings in skillet; cook until tender, 3 to 5 minutes.",
+            "Meanwhile, cook ramen in a saucepan according to package directions, adding peas the last minute of cooking. Reserve 1/2 cup cooking water; drain.",
+            "Whisk together egg, Parmesan, onion and drippings, salt, and red pepper in a bowl. Add hot ramen and cooked bacon. Toss to coat, adding enough reserved cooking water to make a creamy consistency. Top servings with parsley."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Four-Cheese Chicken Carbonara",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 (16 ounce) package thick-cut bacon",
+            "1 (16 ounce) package penne pasta",
+            "⅓ cup olive oil",
+            "¼ cup butter",
+            "3 tablespoons minced garlic",
+            "3 teaspoons ground black pepper, divided",
+            "3 skinless, boneless chicken breasts, sliced",
+            "2 cups heavy whipping cream",
+            "1 cup grated Parmesan-Romano cheese blend",
+            "1 cup shredded Colby Jack cheese blend",
+            "3 eggs, beaten"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes.",
+            "Drain bacon slices on paper towels. Chop into small pieces when cool enough to handle.",
+            "Bring a large pot of lightly salted water to a boil. Add penne and olive oil; cook, stirring occasionally, until tender yet firm to the bite, about 8 minutes.",
+            "While pasta is cooking, melt butter in a large, deep skillet over low heat. Add chopped bacon, garlic, and 1 teaspoon pepper; sauté until fragrant, 2 to 3 minutes.",
+            "Increase heat to medium, add chicken, and cook until chicken is no longer pink in the center and the juices run clear, 5 to 7 minutes.",
+            "Add whipping cream, Parmesan-Romano cheese, and remaining 2 teaspoons pepper to the skillet. Stir and cook until heated through, about 3 minutes. Add Colby-Jack cheese and stir until melted. Stir in beaten eggs and bring to a simmer.",
+            "Add drained pasta and stir until coated with sauce."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spaghetti Carbonara I",
+        "category": "Pasta Carbonara",
+        "ingredients": [
+            "1 pound spaghetti",
+            "1 pound bacon, chopped",
+            "4 eggs, well beaten",
+            "1 cup grated Parmesan cheese",
+            "¼ cup olive oil"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+            "Meanwhile, place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving some of the drippings, crumble and set aside.",
+            "Scramble eggs in bacon drippings.",
+            "Place spaghetti in a large bowl. Pour in olive oil, and mix well; use enough to just moisten spaghetti. Stir in bacon, eggs, and Parmesan cheese. Serve immediately."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "Main_category": "side_dish"
+    },
+    {
+        "recipe_title": "Curried Egg Sandwiches",
+        "category": "Egg Salads",
+        "ingredients": [
+            "4 hard-cooked eggs, peeled and chopped",
+            "½ cup mayonnaise",
+            "1 teaspoon curry powder",
+            "salt and pepper to taste",
+            "8 slices bread"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather your ingredients.",
+            "Mix together mayonnaise and curry powder in a bowl. Gently stir in eggs, then season to taste with salt and pepper.",
+            "Evenly divide between 4 slices of bread, top with remaining 4 slices."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cucumbers and Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "4 large eggs",
+            "4 small seedless cucumbers",
+            "4 small dill pickles",
+            "3 tablespoons mayonnaise"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Place eggs in a saucepan and cover completely with cold water; bring to a boil. Cover, remove from the heat, and let stand for 10 to 12 minutes. Transfer eggs to a colander and run under cold water to cool.",
+            "Peel and chop eggs. Chop cucumbers and pickles.",
+            "Combine eggs, cucumbers, pickles, and mayonnaise in a bowl; mix until well blended. Cover and refrigerate until chilled, about 1 hour."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Shrimp Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "1 pound cooked shrimp - peeled, deveined, and chopped",
+            "4 hard-cooked eggs, chopped",
+            "4 tablespoons mayonnaise",
+            "1 teaspoon Dijon mustard",
+            "1 sprig chopped fresh dill",
+            "4 leaves green leaf lettuce"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "In a medium bowl, mix together shrimp, eggs, mayonnaise, mustard, and dill. Spoon onto lettuce leaves to serve."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cauliflower and Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "4 cups cauliflower, broken into small florets",
+            "3 large hard-boiled eggs, diced",
+            "½ small carrot, peeled and shaved into strips using a vegetable peeler",
+            "3 small green onions, chopped",
+            "5 tablespoons sweet pickle relish",
+            "5 tablespoons light mayonnaise",
+            "1 tablespoon mustard",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Cook cauliflower in boiling water until tender, about 10 minutes; drain.",
+            "Mix together cauliflower, eggs, carrot, green onions, relish, mayonnaise, and mustard in a large bowl until well combined. Season with salt and black pepper."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Simply Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "4 eggs",
+            "2 tablespoons plain nonfat yogurt",
+            "2 tablespoons light mayonnaise",
+            "1 teaspoon Dijon mustard",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "¼ cup diced celery",
+            "1 green onion, chopped"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place eggs in saucepan and fill with cold water to cover. Bring to a boil over medium high heat. Cover, remove from heat and let stand for 15 to 20 minutes. Drain and run under cold water until chilled. Refrigerate for at least 2 hours or up to 7 days.",
+            "Place peeled, hard cooked eggs in a bowl and using a fork or potato masher, mash eggs until finely chopped.",
+            "Stir in yogurt, mayonnaise, Dijon mustard, salt and pepper until smooth. Add celery and green onion (if using) and stir to combine.",
+            "Spread over your favorite bread, stuff into pita halves or scoop some onto your favorite salad greens."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Warm Chicken, Bacon, and Egg Salad with Mayonnaise Dressing",
+        "category": "Egg Salads",
+        "ingredients": [
+            "2 slices smoked bacon",
+            "2 large eggs",
+            "2 teaspoons vegetable oil",
+            "2 skinless, boneless chicken breast halves, cubed",
+            "1 white onion, sliced",
+            "¾ cup sliced fresh mushrooms",
+            "3 cups torn iceberg lettuce",
+            "½ red bell pepper, diced",
+            "10 cherry tomatoes",
+            "2 ounces white Cheddar cheese, cut into 1/2-inch cubes",
+            "¼ cup mayonnaise",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place the bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on paper towels. Chop bacon when cool enough to handle.",
+            "Bring a saucepan of water to a boil, reduce heat to medium, and gently lower eggs into the boiling water using a spoon. Boil for 8 minutes. Remove immediately from heat, drain, and cover eggs with cold water.",
+            "Heat vegetable oil in a skillet over medium heat; cook and stir chicken cubes, onion, and mushrooms in the hot oil until the meat is no longer pink inside and mushrooms are softened, about 10 minutes.",
+            "Place iceberg lettuce into a salad bowl. Add chicken-mushroom mixture and bacon. Top with red bell pepper, cherry tomatoes, and white Cheddar cheese. Stir mayonnaise into salad, tossing gently to coat. Peel eggs and cut each egg in half; cut halves horizontally into 3 wedges apiece. Arrange eggs on top of salad; serve warm."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Cauliflower Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "1 large head cauliflower, cut into small chunks",
+            "4 hard-cooked eggs, or more to taste - chopped",
+            "1 cup creamy salad dressing (such as Miracle Whip®)",
+            "2 stalks celery, diced",
+            "4 green onions, chopped",
+            "¼ cup sour cream",
+            "2 tablespoons apple cider vinegar",
+            "1 teaspoon white sugar",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Place cauliflower into a microwave-safe bowl, cover, and cook in microwave oven until tender, about 7 minutes. Uncover and cool for 5 minutes.",
+            "Stir eggs, creamy salad dressing, celery, green onions, sour cream, apple cider vinegar, sugar, salt, and black pepper in a bowl until thoroughly combined. Mix cauliflower into dressing. Chill at least 1 hour before serving."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Egg-Style Avocado Salad Sandwiches",
+        "category": "Egg Salads",
+        "ingredients": [
+            "⅓ cup egg-free mayonnaise",
+            "2 large green onions, sliced",
+            "2 tablespoons prepared yellow mustard",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon paprika",
+            "2 large semi-firm avocados, diced",
+            "½ teaspoon kala namak (black salt)",
+            "8 slices potato bread"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Whisk mayonnaise, green onion, mustard, black pepper, and paprika together in a mixing bowl; add diced avocado, sprinkle with black salt, and stir.",
+            "Divide salad between 4 bread slices. Top with remaining bread slices to finish sandwiches."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ham & Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "6 hard-boiled eggs",
+            "¼ cup mayonnaise, or more to taste",
+            "1 tablespoon mustard",
+            "1 dash hot sauce",
+            "1 pinch Salt and pepper to taste",
+            "1 (8 ounce) package Smithfield® Cubed Ham",
+            "1 shallot, chopped",
+            "2 ribs celery, chopped"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Halve the hard-boiled eggs and remove the yolks to a bowl. Coarsely chop the egg whites and set aside.",
+            "To the bowl with the egg yolks, add the mayonnaise, mustard, hot sauce, salt, and pepper. Using a fork, smash the mixture until smooth. Add the reserved chopped egg whites, ham, shallot, and celery. Toss to combine. If you like a creamier texture, add more mayonnaise."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Harissa Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "1 ripe avocado, halved and pitted",
+            "1 teaspoon lime juice",
+            "3 hard-boiled eggs, peeled and halved",
+            "1 tablespoon harissa",
+            "1 tablespoon mayonnaise",
+            "2 teaspoons spicy brown mustard",
+            "salt and ground black pepper to taste",
+            "10 cornichons, chopped",
+            "3 large radishes, diced",
+            "1 spring onion, chopped",
+            "1 tablespoon minced fresh cilantro",
+            "1 tablespoon smoked paprika"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Combine 1/2 the avocado and lime juice in a bowl. Mash with a fork. Scoop egg yolks into the bowl. Add harissa, mayonnaise, and mustard. Mix until creamy. Season with salt and pepper.",
+            "Add cornichons, radishes, and onion to the bowl. Mix to coat the vegetables.",
+            "Coarsely chop remaining avocado and egg whites. Fold into salad mixture in the bowl, taking care to leave some chunks of avocado. Top with cilantro and paprika before serving."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Green Goddess Egg Salad",
+        "category": "Egg Salads",
+        "ingredients": [
+            "6 large hard boiled eggs,",
+            "1/4 cup mayonnaise",
+            "1 1/2 tablespoons fresh dill",
+            "1 1/2 tablespoons chives",
+            "2 teaspoons Dijon mustard",
+            "1 teaspoon parsley",
+            "1 teaspoon lemon juice",
+            "1/2 teaspoon anchovy paste (optional)",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Roughly chop eggs and place in a bowl.",
+            "In a small bowl, whisk mayonnaise, dill, chives, Dijon, parsley, lemon juice, and anchovy paste together until smooth. Season with salt and pepper.",
+            "Add dressing to chopped eggs, and gently fold in until well combined. Cover and refrigerate if not serving immediately."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

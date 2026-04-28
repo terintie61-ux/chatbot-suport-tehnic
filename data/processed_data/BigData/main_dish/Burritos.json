@@ -1,0 +1,630 @@
+[
+    {
+        "Main_category": "main_dish"
+    },
+    {
+        "recipe_title": "Delicious Black Bean Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "2 (10 inch) flour tortillas",
+            "2 tablespoons vegetable oil",
+            "1 small onion, chopped",
+            "½ red bell pepper, chopped",
+            "1 teaspoon minced garlic",
+            "1 teaspoon minced jalapeño peppers",
+            "1 (15 ounce) can black beans, rinsed and drained",
+            "3 ounces cream cheese, cubed",
+            "½ teaspoon salt",
+            "2 tablespoons chopped fresh cilantro"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Wrap tortillas in foil.",
+            "Bake wrapped tortillas in the preheated oven until heated through, about 15 minutes.",
+            "Meanwhile, heat oil in a 10-inch skillet over medium heat. Add onion, bell pepper, garlic, and jalapeño; cook and stir for 2 minutes.",
+            "Stir in beans and cook until heated through, about 3 minutes. Stir in cream cheese and salt; cook, stirring occasionally, for 2 minutes. Stir in cilantro.",
+            "Spoon filling in a line across the middle of each tortilla. Fold opposing edges of the tortilla to overlap the filling. Roll 1 of the opposing edges around the filling creating a burrito. Serve immediately."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Steak Burrito",
+        "category": "Burritos",
+        "ingredients": [
+            "1 (10-inch) flour tortilla",
+            "3/4 cup ribeye steak, warmed",
+            "1/4 cup exican rice, heated",
+            "1/4 cup pinto beans, heated",
+            "1/4 cup shredded Cheddar cheese",
+            "1 tablespoon onion",
+            "1 tablespoon chopped cilantro"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Fold a paper towel around tortilla. Microwave on High until pliable, 5 to 10 seconds.",
+            "Lay tortilla flat on a plate. Layer steak, rice, beans, cheese, onion, and cilantro in a line across the middle of the tortilla. Fold opposing edges of the tortilla to overlap the filling. Roll 1 of the opposing edges around the filling and tuck tortilla to form a burrito."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Mexican Pork Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "3 pounds pork butt roast with bone",
+            "1 medium onion, sliced",
+            "6 cloves garlic, chopped",
+            "2 (1.25 ounce) packages taco seasoning mix, divided",
+            "1 (16 ounce) can refried beans",
+            "1 (14.5 ounce) can diced tomatoes",
+            "1 (4 ounce) can chopped green chiles, or to taste",
+            "1 (16 ounce) package shredded Cheddar cheese",
+            "20 (8 inch) flour tortillas",
+            "¼ cup vegetable oil"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Place pork roast, onion, and garlic into a large pot. Sprinkle one package taco seasoning over top and add enough water to cover roast. Set over medium-high heat and bring to a boil. Reduce the heat to medium-low and simmer until meat is tender and can be pulled apart with a fork, 2 to 3 hours. Check water level every 45 minutes, adding more as needed. Carefully transfer roast to a cutting board. Discard vegetables, but reserve about 1 cup cooking liquid.",
+            "Shred pork with a fork, discarding any excess fat. Place pork into a mixing bowl with refried beans, tomatoes, refried beans, chiles, and remaining taco seasoning. Mix until well combined, adding reserved cooking liquid if mixture is too dry.",
+            "Spread pork mixture evenly down the center of each tortilla, then sprinkle with Cheddar cheese. Fold the bottom and top edges of each tortilla over the filling, then roll from one side to form a burrito.",
+            "Heat 2 tablespoons oil in a large skillet over medium heat. Place two burritos into the hot oil with the seams facing down. Fry until golden, about 2 minutes. flip and repeat on the other side. Drain on a paper towel-lined plate. Continue to fry remaining burritos in batches of two."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Fajita Burrito",
+        "category": "Burritos",
+        "ingredients": [
+            "10 ounces skinless, boneless chicken breasts, cut into thin strips",
+            "½ onion, cut into strips",
+            "5 ounces multi-colored bell pepper strips",
+            "2 tablespoons vegetable oil",
+            "½ lime, juiced",
+            "2 tablespoons fajita seasoning",
+            "4 (12 inch) flour tortillas",
+            "1 cup refried beans, warmed",
+            "⅔ cup shredded Cheddar cheese",
+            "1 ½ cups cooked Mexican rice",
+            "¼ cup sour cream",
+            "⅓ cup guacamole"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Place chicken, onion, bell pepper, oil, lime juice, and fajita seasoning in a resealable plastic bag. Seal the bag and squeeze to ensure all ingredients are combined and well-coated; place in the refrigerator to marinate for 2 hours.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a sheet pan with foil. Spread fajita mixture onto sheet pan in a single layer.",
+            "Bake in the preheated oven until chicken juices run clear, about 25 minutes. An instant-read thermometer inserted into the chicken strips should read 165 degrees F (74 degrees C).",
+            "Wrap tortillas in a damp paper towel, and warm in the microwave until soft and pliable, about 30 seconds. To assemble burritos, spread 1/4 of each of the refried beans, cheese, rice, fajita mixture, sour cream, and guacamole in a line across the middle of each tortilla.",
+            "Fold opposing sides of the tortilla in, overlapping the filling. Roll the bottom edge up tightly around the filling, then roll the burrito away from you, keeping the sides folded in."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chorizo Breakfast Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "cooking spray",
+            "¾ pound chorizo sausage, casings removed and crumbled",
+            "½ cup chopped red onion",
+            "1 green chile pepper, seeded and diced",
+            "4 large eggs",
+            "4 flour tortillas",
+            "1 cup shredded Cheddar cheese"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Generously coat a large frying pan with cooking spray. Cook and stir chorizo in the prepared pan over medium-high heat until well browned and crumbled. Add onion and chile pepper; continue cooking, stirring occasionally, until onion is tender.",
+            "Beat eggs in a medium bowl and add to chorizo mixture. Reduce heat to medium-low; continue cooking and stirring until eggs are scrambled and no longer runny.",
+            "Warm flour tortillas in the microwave for 30 seconds. Spoon chorizo-egg mixture into the middle of each tortilla and top with shredded Cheddar cheese. Roll up like a burrito."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sweet Potato Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 onion, chopped",
+            "4 cloves garlic, minced",
+            "6 cups canned kidney beans, drained",
+            "2 cups water",
+            "3 tablespoons soy sauce",
+            "3 tablespoons chili powder",
+            "4 teaspoons prepared mustard",
+            "2 teaspoons ground cumin",
+            "1 pinch cayenne pepper, or to taste",
+            "4 cups mashed cooked sweet potatoes",
+            "12 (10 inch) flour tortillas, warmed",
+            "8 ounces shredded Cheddar cheese"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat oil in a medium skillet. Cook and stir onion and garlic in hot oil until onion is soft. Mash beans into onion mixture. Gradually stir in water; heat until warm, 2 to 3 minutes. Remove from heat and stir in soy sauce, chili powder, mustard, cumin, and cayenne pepper.",
+            "Divide bean mixture and mashed sweet potatoes evenly between warm tortillas; top with cheese. Fold tortillas, burrito-style, around fillings and place on a baking sheet.",
+            "Bake in the preheated oven until warmed through, about 12 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Black Bean and Rice Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "2 cups water",
+            "1 cup white rice",
+            "2 tablespoons butter",
+            "½ sweet yellow onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tablespoon chili powder, or more to taste",
+            "1 tablespoon paprika",
+            "1 teaspoon ground cumin",
+            "1 teaspoon freshly cracked black pepper",
+            "1 teaspoon cayenne pepper",
+            "¼ teaspoon ground cloves",
+            "¼ teaspoon freshly ground nutmeg",
+            "1 (15 ounce) can black beans, drained",
+            "1 (8 ounce) can tomato sauce",
+            "2 tablespoons chopped fresh cilantro",
+            "8 large flour tortillas, warmed"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Bring water and rice to a boil in a saucepan over high heat. Reduce the heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes.",
+            "Meanwhile, melt 1 tablespoon butter in a large skillet over medium heat. Cook and stir onion and garlic in melted butter until onion is translucent, 5 to 6 minutes. Add remaining 1 tablespoon butter and let melt. Stir in chili powder, paprika, cumin, black pepper, cayenne pepper, cloves, and nutmeg; cook, stirring often, for 2 more minutes.",
+            "Stir in black beans and tomato sauce, then bring to a simmer. Reduce the heat to low and cook until flavors blend, about 10 minutes. Remove from the heat and stir in cilantro. Let sit until cilantro wilts, about 5 minutes.",
+            "Fill warm tortillas with bean mixture and rice."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Southwest Breakfast Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "12 large eggs",
+            "⅔ cup milk",
+            "½ teaspoon salt",
+            "2 tablespoons butter",
+            "1 pound bulk pork sausage",
+            "2 tablespoons minced garlic",
+            "½ red onion, diced",
+            "1 tomato, diced",
+            "¼ cup chopped fresh cilantro",
+            "1 (3.5 ounce) can diced jalapeños (Optional)",
+            "1 (1 ounce) package taco seasoning",
+            "1 ½ cups shredded Cheddar cheese",
+            "20 (6 inch) flour tortillas"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk together eggs, milk, and salt in a large bowl. Heat butter in a large skillet over medium-high heat. Pour in egg mixture; cook and stir until eggs are completely set, about 5 minutes.",
+            "Break up cooked eggs into small pieces and place into a large bowl. Set aside.",
+            "Heat the same large skillet over medium heat. Cook and stir sausage and garlic in the hot skillet for 5 minutes, Add onion; continue to cook and stir until sausage is crumbly, evenly browned, and no longer pink. Drain and discard any excess grease.",
+            "Transfer sausage to eggs in the bowl. Stir in tomato, cilantro, jalapeños, and taco seasoning until well combined. Allow mixture to cool to room temperature, then stir in Cheddar cheese.",
+            "Lay a tortilla onto your work surface, then spoon some of the egg filling halfway between the bottom edge and the center of tortilla. Flatten filling into a rectangular shape with the back of a spoon. Fold the bottom of tortilla snugly over filling, then fold in the left and right edges. Roll burrito up to the top edge, forming a tight cylinder. Repeat with remaining ingredients.",
+            "Wrap individual burritos tightly with plastic wrap and store in the freezer until ready to serve.",
+            "To serve, heat burritos in the microwave until hot, 3 to 4 minutes."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Beef Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "6 ounces sliced jalapeno peppers",
+            "1 tomato, diced",
+            "1 (4 ounce) can chopped green chile peppers",
+            "1 green bell pepper, diced",
+            "1 red bell pepper, diced",
+            "1 onion, diced",
+            "1 ½ tablespoons hot sauce",
+            "¼ teaspoon ground cayenne pepper",
+            "1 pound ground beef",
+            "1 (1 ounce) package burrito seasoning",
+            "1 (14 ounce) can refried beans",
+            "6 (10 inch) flour tortillas",
+            "1 (10 ounce) bag shredded lettuce",
+            "1 (8 ounce) container sour cream",
+            "1 (8 ounce) package shredded sharp Cheddar cheese"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Mix jalapeno peppers, tomato, green chile peppers, green bell pepper, red bell pepper, onion, hot sauce, and cayenne pepper together in a large bowl.",
+            "Cook beef in a large skillet over medium-high heat, stirring to break up clumps, about 5 minutes. Drain excess grease. Add jalapeno pepper mixture and burrito seasoning; cook, covered, stirring occasionally, until flavors combine, about 10 minutes.",
+            "Pour refried beans into a saucepan over medium-low heat. Cook and stir until heated through, about 5 minutes.",
+            "Warm each tortilla in the microwave until soft, 15 to 20 seconds. Spread a layer of refried beans on top. Divide beef mixture among tortillas. Top with lettuce, sour cream, and Cheddar cheese. Fold in opposing edges of each tortilla and roll up into a burrito."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Burrito Pie",
+        "category": "Burritos",
+        "ingredients": [
+            "2 pounds ground beef",
+            "1 onion, chopped",
+            "2 teaspoons minced garlic",
+            "1 (2 ounce) can black olives, sliced",
+            "1 (4 ounce) can diced green chili peppers",
+            "1 (10 ounce) can diced tomatoes with green chile peppers",
+            "1 (16 ounce) jar taco sauce",
+            "2 (16 ounce) cans refried beans",
+            "12 (8 inch) flour tortillas",
+            "9 ounces shredded Colby cheese"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "In a large skillet over medium heat, saute the ground beef for 5 minutes. Add the onion and garlic, and saute for 5 more minutes. Drain any excess fat, if desired. Mix in the olives, green chile peppers, tomatoes with green chile peppers, taco sauce and refried beans. Stir mixture thoroughly, reduce heat to low, and let simmer for 15 to 20 minutes.",
+            "Spread a thin layer of the meat mixture in the bottom of a 4 quart casserole dish. Cover with a layer of tortillas followed by more meat mixture, then a layer of cheese. Repeat tortilla, meat, cheese pattern until all the tortillas are used, topping off with a layer of meat mixture and cheese.",
+            "Bake for 20 to 30 minutes in the preheated oven, or until cheese is slightly brown and bubbly."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Roast Beef Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 onion, chopped",
+            "1 clove garlic, minced",
+            "4 tomatoes, chopped",
+            "2 cups chopped cooked roast beef",
+            "1 (8 ounce) jar prepared taco sauce",
+            "1 (4 ounce) can diced green chile peppers",
+            "½ teaspoon cumin",
+            "⅛ teaspoon red pepper flakes, or to taste (Optional)",
+            "6 (7 inch) flour tortillas, warmed",
+            "1 ½ cups shredded Cheddar cheese",
+            "2 cups shredded lettuce"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat the oil in a skillet over medium-high heat. Stir in the onion and garlic, and cook until tender and transparent, about 5 minutes. Mix in the tomatoes, roast beef, taco sauce, chile peppers, cumin, and red pepper flakes, if desired. Bring the mixture to a boil. Reduce heat to medium, and simmer, uncovered, for 25 minutes, or until thickened.",
+            "Arrange tortillas on a clean, flat work surface. Spread about 2/3 cup of beef mixture in the center of each warm tortilla. Sprinkle evenly with cheese and lettuce. Fold over ends and sides to make a package."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "New Mexico Green Chile Breakfast Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "4 potatoes, shredded",
+            "1 small onion, finely chopped",
+            "1 clove garlic, minced",
+            "1 (8 ounce) container frozen Hatch, New Mexico green chile peppers",
+            "½ cup chicken broth",
+            "12 strips bacon",
+            "⅓ cup vegetable oil",
+            "1 tablespoon onion powder",
+            "salt and pepper to taste",
+            "6 (10 inch) flour tortillas",
+            "butter flavored cooking spray",
+            "12 extra large eggs, beaten",
+            "2 cups shredded Cheddar cheese"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Place the shredded potatoes in a bowl, cover with water, and set aside. Bring the onion, garlic, green chiles, and chicken broth to a boil in a saucepan over high heat. Reduce the heat to low, and simmer until the sauce thickens; turn off the heat.",
+            "Meanwhile, place the strips of bacon on paper towels on a microwave-safe plate, and cook on High until crisp, about 1 minute per strip; set aside.",
+            "Heat the vegetable oil over medium-high heat in a large skillet. Drain the potatoes, and add to the skillet. Spoon hot oil over the potatoes; sprinkle with the onion powder, salt, and pepper. Flip the potatoes occasionally, but let them fry until crispy bits form and the potatoes are cooked through, about 15 minutes.",
+            "Place the tortillas between two damp paper towels. Microwave on High until warm, about 30 seconds.",
+            "Spray a separate skillet with butter flavored cooking spray and cook the eggs over medium heat, whisking them continuously until the eggs are completely set; turn off the heat.",
+            "Lay a tortilla flat in front of you. Place some potatoes, scrambled egg, and a strip of bacon on the lower third, leaving about an inch of room from the bottom, and about 1-1/2 inches on the left and right clear for folding the burrito. Spoon on a little of the green chile sauce, and sprinkle with Cheddar cheese.",
+            "Fold the left and right edges into the middle about 1-1/2 to 2 inches. Take the bottom edge closest to you with the stuffing and pick it up, pulling it OVER the filling, while keeping the sides in place until that edge now touches the tortilla about 7/8 of the way up to the top edge. Check to see that the sides are still tucked well. If they aren't slide them in a bit now that you have the filling covered. Finish by tucking the bottom flap that you pulled over the filling UNDER the filling a bit to seal it, then continue rolling the burrito up to the top edge, forming a tight cylinder. Let it rest seam-side down, and it will stay nice and tight. Repeat with remaining ingredients."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vegan Bean Taco Filling",
+        "category": "Burritos",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "1 bell pepper, chopped",
+            "2 (14.5 ounce) cans black beans, rinsed, drained, and mashed",
+            "2 tablespoons yellow cornmeal",
+            "1 ½ tablespoons cumin",
+            "1 teaspoon paprika",
+            "1 teaspoon cayenne pepper",
+            "1 teaspoon chili powder",
+            "1 cup salsa"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Heat olive oil in a medium skillet over medium heat. Stir in onion, garlic, and bell pepper; cook until tender. Stir in mashed beans. Add the cornmeal. Mix in cumin, paprika, cayenne, chili powder, and salsa. Cover, and cook 5 minutes."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gary's Turkey Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "1 pound ground turkey",
+            "2 (7.75 ounce) cans Mexican-style hot tomato sauce (such as El Pato)",
+            "1 (15.25 ounce) can whole kernel corn, drained",
+            "½ small onion, diced",
+            "1 (16 ounce) can fat-free refried beans",
+            "6 (10 inch) flour tortillas",
+            "1 (16 ounce) container fat-free sour cream",
+            "¾ cup shredded reduced-fat Cheddar cheese"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Brown ground turkey in a large skillet over medium-high heat. Stir in tomato sauce, corn, and onion. Reduce heat to medium; simmer, stirring occasionally, until liquids reduce, about 20 minutes.",
+            "Heat beans in a separate medium skillet over medium-low heat.",
+            "Heat tortillas over a gas stovetop burner for 1 to 2 minutes, flipping a few times.",
+            "Fill tortillas with beans, turkey mixture, sour cream, and cheese; serve while still warm."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fiesta Chicken Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "2 teaspoons Gay Lea Butter",
+            "1 pound skinless, boneless chicken breasts, cut into 1-inch cubes",
+            "salt and ground black pepper to taste",
+            "2 cups shredded Ivanhoe Old Cheddar, divided",
+            "1 cup diced green pepper",
+            "⅔ cup Gay Lea Sour Cream",
+            "½ cup sliced black olives (Optional)",
+            "⅓ cup salsa",
+            "1 jalapeno pepper, seeded and minced",
+            "2 tablespoons chopped fresh cilantro",
+            "4 large flour tortillas"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C).",
+            "Melt butter in a large skillet over medium-high heat. Add chicken and cook until no longer pink inside, about 8 minutes. Season with salt and pepper, then transfer to a large bowl.",
+            "Add 1 cup shredded cheese, bell pepper, sour cream, olives, salsa, jalapeño, and cilantro to the chicken; stir to combine.",
+            "Place 1/4 of the chicken mixture onto a tortilla. Fold and roll tortilla to completely enclose filling, then place it, seam-side down, in a small baking dish. Repeat to fill and roll remaining tortillas. Sprinkle the remaining cheese over top.",
+            "Bake in center of the preheated oven until cheese is melted and tortillas are crispy, about 20 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Smothered Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "1 pound ground beef",
+            "½ cup chopped onion",
+            "2 tablespoons chopped green chiles",
+            "½ cup water",
+            "1 tablespoon chili powder",
+            "1 teaspoon salt",
+            "1 teaspoon red pepper flakes",
+            "½ teaspoon ground cumin",
+            "½ teaspoon garlic powder",
+            "1 (16 ounce) can refried beans",
+            "1 (10.75 ounce) can cream of mushroom soup",
+            "½ pint sour cream",
+            "4 large flour tortillas, or more as needed",
+            "1 (8 ounce) package shredded Cheddar-Monterey Jack cheese blend"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+            "Heat a large skillet over medium-high heat. Cook and stir beef, onion, and green chiles in the hot skillet until beef is browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+            "Add water, chili powder, salt, red pepper flakes, cumin, and garlic powder to beef mixture; bring to a boil. Reduce heat to medium-low and simmer. Stir in refried beans; cook until heated through, about 5 minutes.",
+            "Mix cream of mushroom soup and sour cream together in a bowl.",
+            "Fill each tortilla with beef mixture and roll tortilla around filling. Arrange burritos in the prepared baking dish; top with sour cream mixture.",
+            "Bake in the preheated oven for 20 minutes. Cover burritos with Cheddar-Monterey Jack cheese blend. Bake until cheese is melted, about 10 minutes more."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Salsa Chicken Burrito Filling",
+        "category": "Burritos",
+        "ingredients": [
+            "2 skinless, boneless chicken breast halves",
+            "1 (4 ounce) can tomato sauce",
+            "¼ cup salsa",
+            "1 (1.25 ounce) package taco seasoning mix",
+            "1 teaspoon ground cumin",
+            "2 cloves garlic, minced",
+            "1 teaspoon chili powder",
+            "hot sauce to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place chicken breasts and tomato sauce in a medium saucepan over medium high heat. Bring to a boil, then add the salsa, seasoning, cumin, garlic and chili powder. Let simmer for 15 minutes.",
+            "With a fork, start pulling the chicken meat apart into thin strings. Keep cooking pulled chicken meat and sauce, covered, for another 5 to 10 minutes. Add hot sauce to taste and stir together (Note: You may need to add a bit of water if the mixture is cooked too high and gets too thick.)"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Sausage and Pepper Sunrise Burrito",
+        "category": "Burritos",
+        "ingredients": [
+            "4 links breakfast pork sausage, cut into 1/2-inch pieces",
+            "½ cup red bell pepper strips",
+            "½ cup green bell pepper strips",
+            "½ red onion, sliced",
+            "4 eggs, beaten",
+            "4 (8 inch) whole wheat tortillas",
+            "1 cup Kraft Creamy Melt shredded triple Cheddar with cream cheese"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Cook sausage, bell peppers, and onion in a medium nonstick skillet over medium heat until sausage is cooked through and vegetables are crisp-tender, 4 to 5 minutes. Remove from the skillet.",
+            "Add eggs to the skillet and cook, stirring occasionally, over medium heat until set, about 2 min. Stir in sausage mixture and top with shredded cheese.",
+            "Spoon onto tortillas. Fold in opposite sides of each tortilla, then roll up burrito-style."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Breakfast Burritos",
+        "category": "Burritos",
+        "ingredients": [
+            "1 pound bacon",
+            "10 eggs",
+            "1 (16 ounce) can refried beans",
+            "8 ounces shredded Cheddar cheese",
+            "10 (10 inch) flour tortillas"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and set aside. Wrap tortillas in foil and warm them in the oven.",
+            "Fry eggs in a greased skillet until firm. In a small saucepan, heat refried beans.",
+            "Top each tortilla with refried beans, 2 strips of bacon, 1 egg, and a little cheese. Roll tortillas into burritos and serve."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Wet Burrito",
+        "category": "Burritos",
+        "ingredients": [
+            "1 pound lean ground beef",
+            "¾ cup chopped onion, divided",
+            "2 cloves garlic, minced",
+            "1 (14.5 ounce) can diced tomatoes with juice, divided",
+            "1 tablespoon Worcestershire sauce",
+            "1 ½ teaspoons chili powder",
+            "1 teaspoon paprika",
+            "1 teaspoon dried oregano",
+            "1 teaspoon ground cumin, divided",
+            "½ teaspoon ground black pepper",
+            "2 cups refried beans",
+            "1 (18 ounce) jar beef gravy",
+            "1 (10 ounce) can enchilada sauce",
+            "4 large flour tortillas",
+            "2 cups shredded Cheddar cheese, divided",
+            "1 cup sour cream, divided",
+            "¼ cup chopped tomatoes, divided",
+            "1 cup chopped lettuce, divided"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Place a skillet over medium heat. Cook and stir ground beef, 1/2 cup chopped onion, and garlic in the hot skillet until beef is browned and crumbly, breaking it apart as it cooks, about 8 minutes; drain excess grease. Mix in 1/2 of the can diced tomatoes, Worcestershire sauce, chili powder, paprika, oregano, 3/4 teaspoon cumin, and black pepper. Bring meat mixture to a boil over medium-high heat and cook for 5 minutes, stirring often.",
+            "Heat refried beans and remaining 1/4 teaspoon cumin in a saucepan over medium-low heat. Keep beans warm. Mix remaining diced tomatoes, beef gravy, and enchilada sauce in a separate saucepan; bring to a boil.",
+            "Place tortillas onto a microwave-safe plate and cover with a damp paper towel; microwave tortillas until they are soft and warm, about 30 seconds.",
+            "Place warmed tortilla onto a work surface and spoon 1/4 of the beef mixture in a line down the center. Layer 1/4 of the bean mixture on top of beef layer and spread 1/4 cup of the Cheddar cheese over the bean layer. Fold right and left edges of tortilla over the ends of the filling and roll up tortilla to make a burrito. Place burrito, seam side down, into a 9x13-inch baking dish. Repeat with remaining tortillas to make 4 burritos.",
+            "Pour gravy sauce over burritos in the baking dish; top with remaining 1 cup Cheddar cheese.",
+            "Bake burritos in the preheated oven until cheese has melted, 15 to 20 minutes.",
+            "To serve, place each burrito on a serving plate and spoon sauce from baking dish over burrito. Top each burrito with 1/4 cup sour cream, remaining chopped onion, and chopped tomato. Finish each with 1/4 cup chopped lettuce."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

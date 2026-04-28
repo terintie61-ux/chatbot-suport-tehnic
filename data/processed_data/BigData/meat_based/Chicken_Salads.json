@@ -1,0 +1,622 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Neiman Marcus Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "4 cups cooked chicken",
+            "1 cup chopped celery",
+            "1 cup red grapes",
+            "1/2 cup sliced almonds",
+            "1 tablespoon fresh parsley",
+            "1 cup mayonnaise",
+            "1 teaspoon kosher salt",
+            "1/2 teaspoon black pepper",
+            "1/2 cup heavy cream"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "In a large bowl, combine chicken, celery, grapes, almonds, parsley, mayonnaise, salt, and pepper. Stir until well mixed.",
+            "In a separate bowl, whip heavy cream until soft peaks form. Gently fold whipped cream into the chicken mixture until fully incorporated. Taste; adjust seasoning if desired.",
+            "Chill until ready to serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "BLT Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2/3 cup mayonnaise",
+            "1/2 cup green onions",
+            "1/3 cup buttermilk or sour cream",
+            "1/2 teaspoon ground black pepper",
+            "3 1/2 cups chopped cooked chicken,",
+            "1 1/2 cups grape tomatoes, quartered",
+            "8 strips bacon",
+            "1 avocado - peeled, pitted, and chopped (optional)"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine mayonnaise, green onions, buttermilk and pepper in a bowl.",
+            "Add chicken, tomatoes, and bacon. Stir to combine.",
+            "If using, fold in avocado just before serving.",
+            "Serve immediately or cover and store in the refrigerator for up to 3 days."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "This High-Protein Greek Salad Will Be on Repeat All Summer Long",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2 cups chopped cooked chicken breast",
+            "2 (15.5 ounce) cans cannellini beans, drained and rinsed",
+            "1 pint cherry tomatoes, drained",
+            "1 cup chopped mini cucumber",
+            "1/2 red onion, diced",
+            "1/2 cup feta cheese",
+            "1/2 cup Kalamata olives, pitted and chopped",
+            "3 tablespoons red wine vinegar",
+            "3 tablespoons extra virgin olive oil",
+            "1 teaspoon dried Greek oregano",
+            "½ teaspoon sea salt, or to taste",
+            "½ teaspoon freshly ground black pepper, or to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Combine beans, tomatoes, chicken, feta, cucumber, onion, olives, red wine vinegar, olive oil, oregano, salt, and black pepper in a large bowl; toss until well mixed. Serve immediately or refrigerate until chilled."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Hot Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "4 cups diced cooked chicken",
+            "2 cups chopped celery",
+            "1 cup almonds, toasted",
+            "1 cup mayonnaise",
+            "1 cup sour cream",
+            "1 cup shredded American cheese",
+            "¼ cup lemon juice or to taste",
+            "2 tablespoons chopped onion",
+            "2 cups crushed cornflakes cereal"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 325 degrees F (165 degrees C). Lightly grease a 9x13-inch baking dish.",
+            "Combine chicken, celery, almonds, mayonnaise, sour cream, American cheese, lemon juice, and onion in a bowl; transfer to the prepared baking dish. Top with crushed corn flakes.",
+            "Bake in the preheated oven until heated through, 45 to 60 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Dill Pickle Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "3 cups cooked chicken",
+            "2 stalks celery",
+            "1/2 cup chopped dill pickles",
+            "1/2 cup mayonnaise",
+            "1/2 teaspoon sugar",
+            "1/4 teaspoon onion powder",
+            "1/4 teaspoon salt",
+            "1/4 teaspoon pepper"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Combine chicken, celery, pickles, pickle brine, mayonnaise, sugar, onion powder, salt, and pepper in a bowl and stir until well combined and evenly coated. Refrigerate until ready to serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Thai Chopped Chicken Bean Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1/2 small green cabbage",
+            "1 English cucumber",
+            "1/2 bunch cilantro, chopped",
+            "1 bunch green onions",
+            "1 cup carrots",
+            "1 jalapeno",
+            "1/2 cup shelled edamame",
+            "1 (15 ounce) can navy beans,",
+            "2 cups cooked chicken",
+            "1/2 cup dry roasted peanuts"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine cabbage, cucumber, cilantro, green onions, carrots, jalapeno, edamame, navy beans, chicken, and peanuts in a large bowl.",
+            "Whisk together vinegar, lime juice, ginger, garlic, salt, peanut butter, soy sauce, and honey in a bowl until well combined. Slowly drizzle in oil while whisking until well incorporated. Pour dressing over cabbage mixture and toss to coat.",
+            "Serve immediately or refrigerate until ready to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Southwest Chicken Power Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1/2 cup fresh cilantro",
+            "1/4 cup olive oil",
+            "2 tablespoons lime juice",
+            "1 teaspoon honey",
+            "1 teaspoon garlic",
+            "1/2 teaspoon ground cumin",
+            "1/4 teaspoon cayenne pepper",
+            "2 tablespoons Mexican crema",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "For vinaigrette, place cilantro, olive oil, lime juice, honey, garlic, cumin, and cayenne in the bowl of a blender or mini food processor and pulse several times until well blended. For a creamy dressing, include the optional Mexican crema. Season to taste with salt and pepper.",
+            "For salad, line a serving plate with mixed salad greens. Arrange chicken, pinto beans, corn, yellow bell pepper, red bell pepper, cherry tomatoes, cotija, avocado, and red onion in a pleasing design on top of greens.",
+            "Drizzle with vinaigrette (alternatively, place all ingredients in a large salad bowl and toss with vinaigrette). Garnish with pumpkin seeds and jalapeño slices."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sticky Fingers Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "12 breaded chicken strips",
+            "2 tablespoons butter",
+            "1/2 cup Frank's RedHot® Sauce)",
+            "1 cup brown sugar",
+            "1/4 cup water",
+            "8 cups Romaine lettuce",
+            "1 cup grape tomatoes",
+            "1 cup shredded Cheddar cheese",
+            "1 cup croutons",
+            "1/2 cup cranberries",
+            "1/2 cup ranch dressing, or as needed"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Place chicken strips on a baking sheet.",
+            "Bake chicken in the preheated oven until crispy, about 20 minutes. Alternatively, cook chicken strips according to package directions.",
+            "Prepare chicken strips according to package directions, cooking until crispy. Cut chicken into bite-sized pieces.",
+            "Meanwhile, prepare sauce. Combine butter, hot sauce, brown sugar and water in a medium saucepan. Bring mixture to a boil over medium-high heat, stirring occasionally. Reduce to a simmer and cook, stirring occasionally, until slightly thickened, about 5 minutes.",
+            "Divide lettuce, tomatoes, cheese, croutons and cranberries evenly among 4 dinner plates. Toss chicken with sauce and divide chicken among the four salads. Drizzle with ranch dressing and serve immediately."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Buffalo Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2 boneless chicken breasts",
+            "2 tablespoons Cajun seasoning",
+            "1/4 cup grapeseed oil",
+            "1/3 cup ranch dressing",
+            "1/3 cup hot sauce",
+            "8 cups lettuce",
+            "1 cup cherry tomatoes, halved",
+            "1/2 cucumber, sliced",
+            "1/2 cup shredded carrots",
+            "1/2 cup blue cheese",
+            "salad dressing"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Grease a baking sheet.",
+            "Season chicken with 1 tablespoon Cajun seasoning. Heat oil in a cast iron skillet over medium-high heat. Add chicken to the hot oil, without crowding, and cook, turning once, until no longer pink at the center and juices run clear, about 6 minutes per side. An instant-read thermometer inserted near the center will read 165 degrees F (74 degrees C). Remove chicken from pan to a plate to cool, about 10 minutes.",
+            "Stir ranch dressing, hot sauce, and remaining 1 tablespoon Cajun seasoning together in a large bowl.",
+            "Cut chicken into bite-sized pieces; add to bowl with sauce mixture and toss well. Place chicken on the prepared baking sheet.",
+            "Bake in the preheated oven until just beginning to get crisp, 5 to 10 minutes; remove to cool, about 10 minutes.",
+            "Combine green leafy lettuce, tomatoes, cucumbers, and carrots in a salad bowl. Add Buffalo chicken and blue cheese crumbles. Serve with your favorite dressing."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken, Avocado and Mango Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2 tablespoons brown sugar",
+            "¼ cup water",
+            "⅓ cup lime juice",
+            "½ cup chili garlic sauce",
+            "4 cups shredded, cooked chicken",
+            "2 medium mangos - peeled, seeded and diced",
+            "2 avocados - peeled, pitted and diced",
+            "1 (10 ounce) package spring lettuce mix"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "In a saucepan over medium-high heat, stir together the brown sugar and water. Bring to a boil, then pour into a medium bowl. Stir in the garlic chili sauce and lime juice. Set the dressing aside.",
+            "In a large bowl, toss together the chicken, mangos and avocados.",
+            "Arrange the spring salad mix on serving plates, then top with a few spoonfuls of the chicken mixture. Pour dressing over the top."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Rotisserie Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1 deli rotisserie chicken, meat removed and shredded",
+            "1 white onion, chopped",
+            "4 hard-boiled eggs, chopped",
+            "½ cup sweet-hot pickle relish",
+            "1 tablespoon Dijon mustard",
+            "1 teaspoon paprika",
+            "½ teaspoon red pepper flakes",
+            "½ cup mayonnaise, or to taste",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine chicken, onion, eggs, pickle relish, mustard, paprika, and red pepper flakes in a bowl; stir in mayonnaise by spoonfuls until mixture holds together but isn't too moist. Season with salt and pepper."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fruity Chicken Salad with Tarragon",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1 ½ cups grilled skinless, boneless chicken thighs, chopped",
+            "½ red apple - peeled, cored, and diced",
+            "½ cup halved green grapes",
+            "⅓ cup toasted chopped pecans",
+            "¼ cup diced red onion",
+            "¼ cup diced celery",
+            "¼ cup mayonnaise",
+            "¼ cup low-fat plain Greek yogurt",
+            "2 tablespoons chopped fresh tarragon",
+            "1 teaspoon Dijon mustard",
+            "1 lime, zested and juiced",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Combine chicken, apple, grapes, pecans, red onion, and celery in a medium bowl.",
+            "Whisk mayonnaise, yogurt, tarragon, Dijon mustard, and lime zest and juice together in a small bowl. Stir dressing into the chicken mixture. Season with salt and pepper."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Dijon Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2 (10 ounce) cans chunk chicken",
+            "1 cup sliced celery",
+            "1 cup halved seedless green grapes",
+            "1 cup halved seedless red grapes",
+            "¼ cup dried cranberries",
+            "2 teaspoons dried chives",
+            "2 tablespoons honey",
+            "1 tablespoon Dijon mustard",
+            "¾ cup mayonnaise",
+            "½ teaspoon salt",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Mix together chicken, celery, green grapes, red grapes, cranberries, and chives in a large bowl.",
+            "Whisk together honey, mustard, mayonnaise, salt, and pepper in a medium bowl. Pour over chicken mixture and stir to coat."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Greek-Style Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1 cup diced English cucumbers",
+            "1 ¼ teaspoons salt, divided",
+            "2 tablespoons diced red onion",
+            "1 cup Greek yogurt",
+            "⅓ cup chopped Kalamata olives",
+            "1 ½ tablespoons chopped fresh dill",
+            "2 teaspoons red wine vinegar",
+            "2 teaspoons lemon juice",
+            "1 teaspoon garlic, minced",
+            "1 teaspoon lemon zest",
+            "½ teaspoon dried oregano",
+            "¼ teaspoon ground black pepper",
+            "3 cups diced cooked chicken",
+            "¾ cup crumbled feta cheese",
+            "½ cup diced seeded plum tomatoes",
+            "1 head Bibb lettuce, or more as needed"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Place cucumbers in a colander; set onto a plate. Toss cucumbers with 1 teaspoon salt. Let rest to draw about liquid, about 30 minutes. Pat dry with paper towels.",
+            "Place red onion and 1 cup cold water in a bowl. Let soak until the strong onion flavor is weakened, 5 to 10 minutes. Drain and rinse.",
+            "Combine cucumbers, red onions, Greek yogurt, Kalamata olives, dill, vinegar, lemon juice, garlic, lemon zest, oregano, and black pepper in a bowl. Fold in chicken, feta cheese, and tomatoes. Cover with plastic wrap; refrigerate salad for at least 1 hour.",
+            "Stir salad and serve on lettuce leaves."
+        ],
+        "healthiness_score": 90,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Creamy Avocado Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2 cooked chicken breast halves, diced",
+            "1 ripe avocado, sliced",
+            "½ cup sour cream",
+            "1 ½ teaspoons ground black pepper, or to taste",
+            "1 teaspoon lime juice",
+            "½ teaspoon garlic powder",
+            "½ teaspoon onion powder",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place chicken in a food processor; process until finely chopped. Add avocado, sour cream, black pepper, lime juice, garlic powder, onion powder, and salt; blend until smooth (or the consistency you desire)."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Dill Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1/4 cup pecans",
+            "1 lemon, juiced",
+            "2 tablespoons fresh dill",
+            "1 teaspoon white sugar",
+            "1/2 cup mayonnaise",
+            "1/2 cup plain Greek yogurt",
+            "1 stalk celery, minced",
+            "2 pounds cooked chicken breasts, shredded",
+            "1/4 cup chicken broth",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spread pecans onto a baking sheet.",
+            "Toast in the preheated oven until nuts start to turn golden brown and become fragrant, about 10 minutes. Remove from oven to cool to room temperature, about 10 minutes; chop.",
+            "Whisk lemon juice, dill, sugar, mayonnaise and Greek yogurt together In a large bowl until smooth. Stir in celery, pecans, and shredded chicken.",
+            "Stir in chicken broth as needed, 1 tablespoon at a time, until salad is your preferred texture. Season to taste with salt and black pepper."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Grilled Chicken Salad with Seasonal Fruit",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "1 pound skinless, boneless chicken breast halves",
+            "½ cup pecans",
+            "⅓ cup red wine vinegar",
+            "½ cup white sugar",
+            "1 cup vegetable oil",
+            "½ onion, minced",
+            "1 teaspoon ground mustard",
+            "1 teaspoon salt",
+            "¼ teaspoon ground white pepper",
+            "2 heads Bibb lettuce - rinsed, dried and torn",
+            "1 cup sliced fresh strawberries"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the grill to high heat. Lightly oil the grill grate.",
+            "Grill chicken until juices run clear, about 8 minutes per side. Remove from heat, cool, and slice. Set aside.",
+            "Meanwhile, place pecans in a dry skillet over medium-high heat. Cook pecans, stirring frequently, until fragrant, about 8 minutes. Remove from heat and set aside.",
+            "To make the dressing: Combine red wine vinegar, sugar, vegetable oil, onion, mustard, salt, and pepper in a blender. Process until smooth.",
+            "Arrange lettuce on serving plates. Top with grilled chicken slices, strawberries, and pecans. Drizzle with dressing to serve."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pecan Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "½ cup mayonnaise",
+            "½ cup plain Greek yogurt",
+            "2 teaspoons white wine vinegar",
+            "½ teaspoon garlic powder",
+            "¼ teaspoon dried thyme",
+            "1/2 teaspoon Park Hill maple pepper (such as Savory Spice Shop)",
+            "2 cups chopped cooked chicken",
+            "2 stalks celery, sliced",
+            "⅓ cup chopped toasted pecans",
+            "2 tablespoons minced red onion"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Mix mayonnaise, Greek yogurt, vinegar, garlic powder, thyme, and maple pepper together in a bowl until well combined. Add chicken, celery, pecans, and red onion; stir well to incorporate.",
+            "Serve immediately or refrigerate for up to 3 days."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Best Chicken Salad",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "½ cup blanched slivered almonds",
+            "½ cup mayonnaise",
+            "1 tablespoon lemon juice",
+            "¼ teaspoon ground black pepper",
+            "2 cups chopped, cooked chicken meat",
+            "1 rib celery, chopped"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place almonds in a frying pan. Toast over medium-high heat, shaking frequently. Watch carefully, as they burn easily.",
+            "Mix together mayonnaise, lemon juice, and pepper in a medium bowl.",
+            "Toss with chicken, toasted almonds, and celery.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Larb Gai",
+        "category": "Chicken Salads",
+        "ingredients": [
+            "2 lemons, juiced",
+            "1 lime, juiced",
+            "2 tablespoons fish sauce, or more to taste",
+            "1 tablespoon rice vinegar",
+            "1 teaspoon white sugar",
+            "1 teaspoon cayenne pepper",
+            "1 teaspoon lemon zest",
+            "1 pound ground chicken or turkey",
+            "1 clove garlic, minced",
+            "1 cup water to cover",
+            "½ red onion, thinly sliced",
+            "1 carrot, shredded",
+            "½ cup coarsely chopped chestnuts",
+            "3 Thai chile peppers, sliced",
+            "3 green onions, sliced",
+            "¼ cup chopped fresh mint",
+            "⅓ cup chopped fresh Thai basil",
+            "2 tablespoons chopped fresh cilantro",
+            "3 tablespoons toasted rice powder",
+            "2 tablespoons Thai chile flakes"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the dressing: Whisk lemon juice, lime juice, fish sauce, rice vinegar, sugar, cayenne, and lemon zest together in a bowl until dressing is smooth.",
+            "Spread ground turkey or chicken in a thin layer in a large skillet; add garlic. Pour enough water into the skillet to cover the ground meat; bring to a boil. Cook and stir, breaking the meat apart with a fork, until browned and crumbly, 7 to 10 minutes.",
+            "Drain liquid and transfer ground meat to a large glass bowl.",
+            "Stir red onion, carrot, chestnuts, Thai chile peppers, green onions, mint, basil, and cilantro into the bowl until well combined. Refrigerate mixture until chilled, about 30 minutes.",
+            "Sprinkle rice powder and Thai chile flakes over salad mixture and mix well."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "Main_category": "bakery"
+    },
+    {
+        "recipe_title": "Chai-Spiced Apple Babka",
+        "category": "Breads",
+        "ingredients": [
+            "1 cup whole milk",
+            "1/4 cup sugar",
+            "1/4 cup butter",
+            "1 teaspoon salt",
+            "1/4 cup water",
+            "2 (0.25- ounce) dry yeast",
+            "2 large eggs",
+            "4 1/2 cups flour"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Make Dough:Heat and stir milk, sugar, butter, and salt in a small saucepan just until warm (110 degrees F to 115 degrees F/43 degrees C to 46 degrees C) and butter is almost melted. Pour 1/4 cup warm water into the bowl of a stand mixer fitted with a paddle attachment. Sprinkle yeast over warm water. Stir to dissolve. Stir remaining milk mixture into yeast mixture.",
+            "Add eggs and 2 1/2 cups flour to mixer bowl. Beat at low speed until combined. Beat at high speed for 15 seconds. Switch to dough hook attachment. Add remaining 2 cups flour, 1/2 cup at a time. Mix until dough leaves sides of bowl, about 5 minutes. Transfer dough to a large, lightly greased bowl, turning dough to coat. Cover; let rise in a warm spot until doubled in size, about 1 hour.",
+            "Make Filling:Melt 2 tablespoons butter in a large skillet over medium heat. Add apples; cook, stirring frequently, until just beginning to soften, about 4 minutes. Remove from heat. Stir in lemon juice.",
+            "Melt 4 tablespoons butter. Transfer to a bowl. Stir in brown sugar, flour, chai spice, and vanilla (mixture will be crumbly). Stir in egg whites.",
+            "Shape Babka:Punch dough down. Turn dough out onto a large, lightly floured surface, cover with a bowl, and let rest 10 minutes. Line 3 (4x8-inch) loaf pans with parchment paper, leaving a 2-inch overhang on long sides.",
+            "Divide dough into thirds. Roll out each third into a 12-inch square on a lightly floured surface. Spoon one-third of the brown sugar filling (about 2/3 cup) onto each dough square and spread to 1/2 inch from edges. Evenly sprinkle one-third of the apple filling (about 1 heaping cup) over each dough square. Roll up each square tightly to form a log. Pinch seam closed to seal. With your palms, roll logs back and forth to make uniformly cylindrical.",
+            "With a sharp knife or dough scraper, cut one log in half lengthwise, exposing striped interior. Lay one half over the other, striped sides out, in an X. Twist ends below cross together 2 or 3 times. Repeat with ends above cross, twisting in opposite direction to form a spiral. Fit into prepared pan, patting down any loose filling and tucking ends under. (It might look like a mess now, but it comes out beautifully!) Repeat with remaining logs and pans. Cover pans with a kitchen towel and let rise in a warm spot until doubled in size, about 1 hour.",
+            "Bake Babka:Preheat the oven to 350 degrees F (175 degrees C). Melt remaining 2 tablespoons butter; brush over loaf tops. Bake loaves until puffed, well-browned, and an instant-read thermometer inserted into centers registers 200 degrees F (93 degrees C), about 45 minutes, tenting with foil if tops get too brown before loaves are done. Cool in the pans for 10 minutes, then use parchment to lift loaves from pans to transfer to wire racks.",
+            "Cool completely on wire racks, about 1 hour, before slicing and serving. (To freeze babka, wrap tightly and freeze up to 2 months. Thaw at room temperature.)"
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Caramel Apple Cinnamon Rolls",
+        "category": "Breads",
+        "ingredients": [
+            "3/4 cup whole milk",
+            "1/4 cup water",
+            "4 cups bread flour",
+            "1/3 cup sugar",
+            "1 (0.25 ounce) package dry yeast",
+            "1 teaspoon salt",
+            "2 large eggs, lightly",
+            "1/3 cup butter,",
+            "2/3 cup packed brown sugar",
+            "1 1/2 teaspoons ground cinnamon",
+            "2/3 cup caramel sauce,",
+            "1 apple"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Stir together milk and water in a glass measuring cup. Microwave mixture until it reaches 105 to 115 degrees F (40 to 46 degrees C), 30 to 60 seconds.",
+            "Whisk together 2 cups flour, sugar, yeast, and salt in the bowl of a stand mixer fitted with the paddle attachment. Add eggs, melted butter, and milk mixture. Beat at low speed until combined. Beat at high speed 15 seconds. Switch to dough hook attachment. Add remaining 2 cups flour, 1/2 cup at a time, mixing until a soft dough forms and begins to pull away from sides of bowl, 3 to 5 minutes—dough will be sticky. Transfer dough to a lightly greased bowl, turning to coat. Chill, covered, until dough is easy to handle, at least 2 hours or up to overnight.",
+            "Grease 2 (9 inch) round cake pans or 2 (8 inch) square baking pans. Stir together brown sugar and cinnamon in a small bowl; set aside. Punch down dough. Divide dough in half. Roll one portion of dough on a lightly floured surface into a 6x16-inch rectangle. If dough springs back when rolling, cover and let rest for 5 to 10 minutes, then try rolling again. Spread 1/3 cup caramel sauce over rolled-out dough portion; sprinkle with half the cinnamon-sugar and apples.",
+            "Starting on a long side, roll up dough to form a log; pinch seam to seal. Slice dough log into 8 (2-inch-thick) pieces. Put rolls, cut sides down, in one of the prepared pans. Repeat with remaining dough, 1/3 cup caramel sauce, cinnamon-sugar, and apples. Let rolls rise, covered, in a warm place until nearly double in size, about 30 minutes.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Bake rolls in the preheated oven until golden brown, 20 to 24 minutes. Cool in pan on a wire rack for 10 minutes. Drizzle rolls with 1/2 cup caramel sauce and serve warm."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pissaladière (Southern French \"Pizza\")",
+        "category": "Breads",
+        "ingredients": [
+            "1 1/4 cups water",
+            "1 teaspoon dry active \"rapid rise\" yeast",
+            "1 tablespoon olive oil",
+            "3 cups all-purpose flour",
+            "1 1/2 teaspoons kosher salt"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "For dough, add water and yeast to a bowl; let stand for 10 minutes. Stir in olive oil, flour, and salt, and knead until a very sticky, elastic dough is formed, about 4 minutes. Cover and let rise in a warm spot until doubled in size, about 1 hour.",
+            "Punch down dough to remove the air bubbles, and transfer to a floured work surface. Form into a smooth ball of dough.",
+            "Grease a parchment paper sheet with olive oil; and transfer dough onto the sheet; grease another parchment sheet and lay it on top of the dough. Press out dough with your hands to form a rectangle, then switch to a rolling pin and roll dough out to cover nearly the entire surface of the paper.",
+            "Preheat the oven to 450 degrees F (235 degrees C). Transfer dough with both sheets of parchment onto a sheet pan. Carefully peel off the top sheet of paper, and then use a fork to prick the dough all over.",
+            "Bake in the preheated oven for 10 minutes. Remove to cool on a rack; set aside until needed.",
+            "Transfer anchovies into a bowl and cover with 4 cups of cold water. Gently separate the fillets and let soak for 1 hour. Water may be changed halfway through to remove more salt from anchovies. Drain and pat dry on paper towels.",
+            "For caramelized onions, add butter and olive oil to a heavy-bottomed pot, and place over medium-high heat. Add onions and salt, and toss occasionally with a spatula, until onions just begin to slump down in the pot. Reduce heat to medium, cover, and cook for 10 minutes.",
+            "Uncover; reduce heat to medium low. Cook, stirring occasionally, until onions are a light golden brown, about 1 hour. Add thyme, sherry vinegar, and black pepper. For a slightly more intense version, a few anchovy fillets can be added to the onions at this point. Cook, stirring, for another 10 to 15 minutes. Turn off heat and let cool.",
+            "Preheat the oven to 450 degrees F (235 degrees C).",
+            "Line a baking sheet with a fresh sheet of parchment, and grease with olive oil. Place crust on the prepared sheet. For a crispier edge, brush 1-inch of the outside edge of dough with olive oil. Spread caramelized onions over crust, going nearly to the edge.",
+            "Place half of the anchovies in diagonal rows, spaced a couple inches apart, on top of the onions, then place the other half of anchovies in diagonal rows in the other direction to form the classic pissaladiere decoration. Place an olive half inside each opening in the grid formed by anchovies.",
+            "Bake in the preheated oven until edges of the crust are browned, and the bottom is golden, about 25 minutes. Remove from oven and allow to ool for about 5 minutes. Cut in squares and serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Cider Hawaiian Roll Donuts",
+        "category": "Breads",
+        "ingredients": [
+            "1 (12-count) package) Hawaiian rolls",
+            "1 cup apple pie filling",
+            "2 (0.74 ounce) apple cider powdered drink mix (",
+            "5 tablespoons butter, divided",
+            "1/2 cup sugar",
+            "1 teaspoon cinnamon"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Separate Hawaiian rolls and cut a 1/2-inch slit in the side of each one. Use a finger or the end of a spoon to create a larger opening and a space large enough to fill each roll with about 1 tablespoon filling.",
+            "Roughly chop apple pie filling and add to a bowl. Stir in 1 packet apple cider mix. Spoon filling into the prepared rolls.",
+            "Melt 4 tablespoons butter and brush each roll on all sides with melted butter. Place rolls on a lined baking sheet.",
+            "Bake rolls in the preheated oven until lightly toasted and golden brown, 12 to 14 minutes.",
+            "Meanwhile, stir together remaining apple cider packet, sugar, and cinnamon in a shallow dish and melt remaining butter.",
+            "Brush tops of rolls evenly with melted butter and coat each roll in sugar mixture."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Butter Rolls",
+        "category": "Breads",
+        "ingredients": [
+            "3 cups all-purpose flour",
+            "2 tablespoons white sugar",
+            "4 1/2 teaspoons baking powder",
+            "1 teaspoon kosher salt",
+            "6 tablespoons unsalted butter,",
+            "1 cup cold whole milk"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (180 degrees C). Butter a 13x9-inch baking dish.",
+            "For dough, whisk together flour, sugar, baking powder, and salt in a large bowl. Cut in cold butter until mixture resembles coarse crumbs. Stir in milk until a stiff dough forms.",
+            "Lightly flour a work surface, and roll dough out into a 15x13-inch rectangle.",
+            "For filling, stir together sugar, cinnamon, and nutmeg in a small bowl. Spread softened butter evenly over rolled dough, and sprinkle with cinnamon mixture.",
+            "Starting with a short end, tightly roll dough into a 13-inch-long log. Trim ends slightly, and cut log crosswise into 12 (1-inch) rounds using a serrated knife.",
+            "Place rounds, cut sides up, in a single layer, spaced about 1/2 inch apart in the prepared baking dish; set aside.",
+            "For sauce, stir together milk, sugar, butter, and salt in a medium saucepan. Cook over high heat, stirring often, until milk begins to foam and sugar is dissolved, about 5 minutes. Remove from heat and stir in vanilla. Pour mixture evenly over dough rounds. They will be nearly submerged.",
+            "Bake in the preheated oven until rolls are firm and golden brown on top, about 35 minutes. Let stand for 5 minutes; serve warm."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cheddar Zucchini Bread",
+        "category": "Breads",
+        "ingredients": [
+            "1 medium zucchini",
+            "2 cups all purpose flour",
+            "2 teaspoons baking powder",
+            "1/2 teaspoon salt",
+            "1/2 cup buttermilk",
+            "2 large eggs",
+            "1/4 cup butter, melted",
+            "1 cup Cheddar cheese",
+            "1 tablespoon green onions",
+            "1 tablespoon chives"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Coat 9x5-inch loaf pan with cooking spray.",
+            "Coarsely shred zucchini. Wrap shredded zucchini in a clean kitchen towel or cheesecloth. Squeeze well and discard excess liquid. Set aside.",
+            "Whisk together flour, baking powder and salt in a large bowl.",
+            "Whisk together buttermilk and egg in a bowl. Stir in melted butter.",
+            "Stir buttermilk mixture into dry ingredients, being careful not to overmix.",
+            "Fold in shredded zucchini, cheese, green onions and chives until combined (batter will be thick).",
+            "Spread batter evenly into the prepared pan.",
+            "Bake in the preheated oven until golden brown and a toothpick inserted into the center comes out clean, 55 to 60 minutes. Allow bread to cool in the pan for 15 minutes.",
+            "Remove from pan and cool completely on a wire rack."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Easiest 30-Minute Cottage Cheese Muffins You Can Make in a Blender",
+        "category": "Breads",
+        "ingredients": [
+            "1 cup cottage cheese, such as good CULTURE",
+            "3/4 cup high protein 2% milk, such as Fair Life",
+            "1/4 cup butter",
+            "1 large egg",
+            "1 cup self-rising flour",
+            "1 cup oat flour",
+            "1/2 cup sugar",
+            "1 pinch salt",
+            "2/3 cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 12-cup muffin tin or line cups with paper liners.",
+            "Combine cottage cheese, milk, butter, and egg in a high speed blender (such as Vitamix); blend until smooth. Add in flour, oat flour, sugar, and salt. Blend in 20 seconds increments until ingredients are just combined. Fold in chocolate chips by hand.",
+            "Spoon batter into the prepared muffin cups.",
+            "Bake in the preheated oven until tops spring back when lightly pressed and a toothpick inserted into the center of a muffin comes out clean, 22 to 24 minutes. Cool in the tin for 5 minutes.",
+            "Transfer to a wire rack to cool completely."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Butter Swim Biscuits",
+        "category": "Breads",
+        "ingredients": [
+            "2 1/2 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "1 tablespoon white sugar",
+            "3/4 teaspoon kosher salt",
+            "1/2 teaspoon baking soda",
+            "2 cups whole buttermilk",
+            "8 tablespoons unsalted butter",
+            "3/4 cup fresh strawberries",
+            "1/2 cup confectioners sugar",
+            "1 tablespoon buttermilk"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 450 degrees F (235 degrees C).",
+            "Whisk together flour, baking powder, sugar, salt, and baking soda in a large bowl; pour in 2 cups of the buttermilk and 3 tablespoons melted butter. Stir until almost fully combined but some dry streaks remain, about 30 seconds.",
+            "Gently fold in strawberries until evenly combined.",
+            "Pour remaining 5 tablespoons melted butter into an 8-inch square baking dish; swirl the dish to evenly coat bottom and sides. Transfer dough to the prepared baking dish and gently spread into an even layer; cut biscuits into 9 even squares.",
+            "Bake in the preheated oven until biscuits are golden brown, 30 to 35 minutes. Checking after 20 minutes and tent with foil if biscuits are browning too quickly.",
+            "Remove from the oven and let rest in the pan on a wire rack for 5 minutes. Meanwhile, whisk confectioner's sugar and 1 tablespoon buttermilk together in a small bowl until combined. Drizzle evenly over warm biscuits, slice, and serve while warm."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Lobster Roll Khachapuri",
+        "category": "Breads",
+        "ingredients": [
+            "1 cup water",
+            "1 packet active dry yeast",
+            "2 tablespoons white sugar",
+            "1 large egg",
+            "3 tablespoons butter",
+            "3 1/2 cups all-purpose flour",
+            "1 1/2 teaspoons kosher salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "For dough, add warm water to the bowl of a stand mixer, and sprinkle yeast over the top. Let sit for about 10 minutes.",
+            "Whisk sugar, egg, and melted butter into the bowl. Add flour and salt, and knead using a dough hook until a very soft, sticky, relatively elastic dough is formed, about 5 minutes, scraping the sides down occasionally if necessary.",
+            "Remove from the mixer and use a spatula to scrape down the sides of the bowl. Cover and let dough rise until doubled in size, 1 to 1 1/2 hours.",
+            "Lightly flour a work surface, and scrape dough out onto the surface. Lightly flour your hands; form dough into a smooth ball, using a bench scraper to assist if necessary. Transfer dough into an oiled resealable plastic bag. Squeeze out most of the air and seal tightly. Place in the refrigerator overnight before using.",
+            "For filling, preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with foil.",
+            "Place lobster tails on the prepared baking sheet and cut each lobster tail down the center with scissors. Spread open the shell to expose the meat and remove the digestive tract if necessary. Grab lobster meat from the thick end, and peel towards the tail, to separate meat from the shell. Lay meat back into the shell in its original position.",
+            "Bake in the preheated oven until meat has just turned opaque and lightly firm, about 15 minutes. Let cool completely, about 20 minutes, and then dice into 1/4-inch pieces.",
+            "Transfer lobster meat into a bowl. Add tarragon, lemon zest, Old Bay seasoning, cayenne, and mayonnaise. Mix until thoroughly combined, cover, and refrigerate until needed. Turn the oven off if not proceeding immediately.",
+            "For khachapuri, place chilled dough on a lightly floured surface, and divide into 4 equal portions. Form each portion into a ball, and use a rolling pin to roll each dough into a circle about 9 inches across.",
+            "Divide filling into 4 equal portions. For each circle of dough, transfer about 1/3 of the filling portion in a ring pattern about 1 inch away from the edge. Sprinkle Monterey Jack cheese over the whole dough circle, except for a 1-inch border around the edge.",
+            "Roll 2 opposite edges of dough towards the center, until the rolled sides about 1 1/2 inches apart in the middle. Twist the ends together to seal the dough, and twist into 2 points, to create a boat shape.",
+            "Transfer khachapuri to silpat or parchment-lined baking sheets. You should be able to fit 2 per pan. Set the rest of the lobster filling evenly into the centers of each \"boat.\" Spread filling out to fill the space but don't pack down.",
+            "Whisk egg and water together in a small bowl; paint exposed dough with egg wash. Top evenly with remaining cheese. If desired, sprinkle with paprika or cayenne.",
+            "Increase the oven temperature to 450 degrees F (235 degrees C).",
+            "Bake in the preheated oven until nicely browned, 16 to 18 minutes. Transfer onto a cooling rack; let cool for about 10 to 15 minutes before serving. Garnish with additional paprika or cayenne and chopped fresh tarragon."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cowboy Butter Swim Biscuits",
+        "category": "Breads",
+        "ingredients": [
+            "1/2 cup unsalted butter",
+            "4 cloves garlic, minced",
+            "1 tablespoon parsley",
+            "1 tablespoon chives",
+            "2 teaspoons Dijon mustard",
+            "1 teaspoon lemon zest",
+            "1/2 teaspoon juice",
+            "1 teaspoon smoked paprika",
+            "1 teaspoon kosher salt",
+            "1/2 teaspoon ground black pepper",
+            "1/2 teaspoon fresh thyme",
+            "1/4 teaspoon chili powder",
+            "1/4 teaspoon crushed red pepper"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "To make the cowboy butter: Stir softened butter, garlic, parsley, chives, mustard, lemon zest, lemon juice, smoked paprika, salt, black pepper, thyme, chili powder, and crushed red pepper in a bowl until well combined; set aside.",
+            "Preheat the oven to 450 degrees F (230 degrees C).",
+            "Place cowboy butter in a 9-inch square glass or ceramic baking dish. Place dish in the oven as it is preheating until butter is fully melted, 3 to 5 minutes; remove from the oven.",
+            "To make the biscuit dough: Mix flour, baking powder, sugar, and salt together into a bowl; rub in butter until dough resembles coarse crumbs. Stir in buttermilk to make a dough.",
+            "Pour biscuit dough into the baking dish and spread over melted butter. Use a bench scraper to cut dough into 9 equal pieces.",
+            "Bake in the preheated oven until golden brown on top, 20 to 25 minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cornbread Donuts",
+        "category": "Breads",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 cup cornmeal",
+            "1 1/4 teaspoons baking powder",
+            "1 teaspoon salt",
+            "1/2 teaspoon baking soda",
+            "1 large egg",
+            "1/2 cup white sugar",
+            "6 tablespoons unsalted butter",
+            "1/2 cup milk",
+            "1/2 cup buttermilk"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Generously butter 2 nonstick donut pans (6 compartments per pan).",
+            "Whisk flour, cornmeal, baking powder, salt, and baking soda together in a bowl; set aside.",
+            "Add egg and sugar to a large bowl; whisk until mixture turns a pale yellow, about 1 minute.",
+            "Whisk in melted butter until combined, then whisk in milk and buttermilk. Add cornmeal mixture and whisk until a thick, sticky batter forms, 2 to 3 minutes, to develop a little bit of gluten so donuts are not overly fragile after baking.",
+            "Spoon or pipe batter evenly into prepared pans, for 12 donuts total. Tap pans on the counter a few times to settle the batter down.",
+            "Bake in the preheated oven until golden on the top and a toothpick inserted in the thickest part comes out clean, about 15 minutes.",
+            "Let cool for 10 minutes; remove donuts from pans to cool completely on a wire rack.",
+            "Whisk confectioner's sugar, lemon juice, milk, and chipotle together in a small bowl until very thick and smooth. Add confectioner's sugar, a small amount at a time, to form an icing thick enough to hold its shape when piped.",
+            "Pipe or spread icing as desired over donuts. Let icing set until firm, 30 to 60 minutes."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Yummy Ice Cream Bread",
+        "category": "Breads",
+        "ingredients": [
+            "2 cups softened ice cream",
+            "1 ½ cups self-rising flour"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8x4-inch loaf pan.",
+            "Mix ice cream and flour together in a bowl just until moistened.",
+            "Spread into the prepared pan.",
+            "Bake in the preheated oven until cooked through, 35 to 40 minutes.",
+            "Enjoy warm or at room temperature."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sour Cream and Chive Skillet Dinner Rolls",
+        "category": "Breads",
+        "ingredients": [
+            "1/2 cup whole milk",
+            "1 pinch white sugar",
+            "2 1/2 teaspoons yeast",
+            "3 1/2 cups all-purpose flour, or as needed",
+            "1/4 cup white sugar",
+            "3 tablespoons dried chives",
+            "1 3/4 teaspoons salt",
+            "1/2 teaspoon onion powder",
+            "1/4 teaspoon black pepper",
+            "1 cup sour cream",
+            "5 tablespoons extra-virgin olive oil,",
+            "2 large eggs"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Stir together warm milk, pinch of sugar, and yeast in a small bowl. Allow to sit in a warm place until yeast begins to foam, about 5 minutes.",
+            "In a large bowl, mix together 2 cups flour, 1/4 cup sugar, chives, salt, onion powder, and black pepper until combined. Add in yeast mixture, sour cream, olive oil, and eggs and mix until combined. Gradually mix in another 1 to 1 1/2 cups flour until mixture begins to pull away from the sides of the bowl. Turn dough out onto a lightly floured surface and knead until mixture is smooth and elastic, 10 to 15 minutes, adding more flour as needed to keep dough from sticking. Cover dough, and allow it to rest for 10 minutes.",
+            "Meanwhile, grease a 10-inch cast iron skillet with olive oil.",
+            "After the dough has rested, divide it evenly into 14 pieces. Roll each piece into a ball and place into the skillet. Place 10 rolls around the outside of the pan, and 4 in the middle; they will be a bit snug. Cover rolls loosely with a greased piece of plastic wrap and allow to rise in a warm, draft-free place until doubled, 1 to 2 hours.",
+            "Preheat the oven to 350 degrees F (180 degrees C). Remove plastic wrap from rolls.",
+            "Bake in the preheated oven until rolls are golden brown on top and sound hollow when tapped, 25 to 30 minutes. If desired, brush the tops of the warm rolls with extra olive oil or butter and sprinkle with a few extra chives. Allow rolls to cool slightly before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ooey Gooey Hawaiian Roll Cinnamon Rolls",
+        "category": "Breads",
+        "ingredients": [
+            "2/3 cup brown sugar",
+            "2 teaspoons cinnamon",
+            "9 tablespoons butter",
+            "1/4 teaspoon salt",
+            "1 12 count package) Hawaiian rolls",
+            "3 ounces cream cheese",
+            "1 teaspoon vanilla extract",
+            "1 cup confectioners sugar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Lightly grease a 9x13-inch baking dish. Slice rolls in half horizontally, keeping tops and bottoms connected.",
+            "Stir together brown sugar, cinnamon, 8 tablespoons butter, and 1/8 teaspoon salt in a small bowl until well combined and set aside. Spread bottom half of buns with 3/4 of butter mixture and place top halves on top. Place rolls in the prepared baking dish; spread remaining butter mixture on top.",
+            "Bake in the preheated oven for 20 minutes. Let stand for 5 minutes before icing.",
+            "Meanwhile, beat remaining 1 tablespoon butter with cream cheese, remaining salt, vanilla, and confectioner's sugar with an electric mixer until smooth. Spread icing over warm rolls."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mediterranean Flatbread",
+        "category": "Breads",
+        "ingredients": [
+            "2 flatbreads",
+            "1/4 cup extra-virgin olive oil",
+            "3 garlic cloves,",
+            "2 cups cherry or grape tomatoes",
+            "1/2 cup sliced Kalamata olives",
+            "1/2 red onion,",
+            "1/3 cup pepperoncini",
+            "3 tablespoons feta cheese",
+            "fresh oregano,"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Combine olive oil and garlic in a small bowl. Lightly brush a little garlic olive oil over the flatbreads.",
+            "Add tomatoes, olives, onion, and pepperoncini to a bowl; drizzle with remaining garlic olive oil, and gently combine.",
+            "Evenly top flatbreads with the tomato mixture, sprinkle with feta cheese, and place on a baking sheet.",
+            "Bake. in the preheated oven until flatbreads are starting to turn golden brown, 12 to 15 minutes. Sprinkle with chopped oregano and serve."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shortcut Cherry Danish",
+        "category": "Breads",
+        "ingredients": [
+            "1 (8 ounce) crescent dough sheet",
+            "4 ounces reduced-fat cream cheese",
+            "1/4 cup white sugar",
+            "1 1/2 teaspoons vanilla extract, divided",
+            "1/2 cup cherry pie filling",
+            "1/2 cup confectioners sugar",
+            "3 tablespoons milk, or as needed"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment.",
+            "Without unrolling, slice crescent dough sheet into 10 equal portions. Place crescent dough rounds onto the prepared baking sheet. Press the back of a tablespoon into the center of each roll to make an indentation.",
+            "For filling, add cream cheese, white sugar, and 1 teaspoon vanilla to a bowl, and beat with an electric mixer until smooth. Dollop filling into the indentations in the rolls.",
+            "Bake in the preheated oven for 8 minutes.",
+            "Remove Danishes from the oven. Add a spoonful of cherry pie filling containing 4 or 5 cherries into each Danish.",
+            "Return to the oven; bake until golden, about 9 minutes more.",
+            "To glaze, whisk confectioner's sugar, remaining 1/2 teaspoon vanilla, and enough milk together to form a pourable glaze; drizzle over cherry-topped Danishes while still warm and enjoy."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Hummingbird Muffins",
+        "category": "Breads",
+        "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1 teaspoon ground cinnamon",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon baking soda",
+            "1/4 teaspoon ground allspice",
+            "3 bananas",
+            "1 (8 ounce) can crushed pineapple",
+            "1/2 cup white sugar",
+            "1/4 cup packed brown sugar",
+            "1/2 cup salted butter,",
+            "1/4 cup whole milk",
+            "1 large egg",
+            "2 teaspoons vanilla extract",
+            "1/2 cup pecans"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (180 degrees C). Line 12 standard muffin cups with paper liners or coat with cooking spray.",
+            "For batter, whisk together flour, baking powder, cinnamon, salt, baking soda, and allspice in a small bowl.",
+            "Whisk together bananas, pineapple, white sugar, brown sugar, melted butter, milk, egg, and vanilla in a large bowl.",
+            "Fold in flour mixture until just combined. Fold in pecans.",
+            "Add batter to the prepared muffin cups. They will be nearly full.",
+            "For streusel, combine flour, brown sugar, cinnamon, and salt in a bowl. Cut in salted butter with a pastry blender until the mixture resembles coarse crumbs. Stir in pecans.",
+            "Sprinkle streusel over the muffin batter.",
+            "Bake in the preheated oven until a toothpick inserted in the center of muffins comes out clean, 20 to 25 minutes. Let cool in the pan for 10 minutes.",
+            "Remove muffins to cool completely on a wire rack."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Super Meat Lovers Cheddar Biscuit Breakfast Sandwich",
+        "category": "Breads",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "2 teaspoons garlic powder",
+            "1/2 cup fresh parsley",
+            "1 cup milk",
+            "1/2 cup shortening",
+            "1 cup shredded Cheddar cheese",
+            "1 teaspoon salt",
+            "4 slices bacon",
+            "4 4 sausage patties",
+            "1 tablespoon olive oil",
+            "4 large eggs",
+            "4 slices Cheddar cheese"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C) and line a rimmed baking sheet with parchment paper.",
+            "Add flour, grated Cheddar, parsley, baking powder, garlic powder and salt to a bowl and mix to combine. Add milk and shortening. Use a fork or pastry cutter to cut shortening into dry ingredients until combined.",
+            "Turn dough onto a cutting board and form into an 8-inch square. Cut into 4 pieces, then transfer to prepared baking sheet.",
+            "Bake in the preheated oven until biscuits are golden brown, 15 to 20 minutes.",
+            "Meanwhile, fry bacon in a nonstick skillet over medium-high heat until crisp, turning occasionally, about 5 minutes. Drain bacon on a plate lined with paper towels; drain any excess grease from the skillet. Add sausage patties; fry, turning occasionally, until no longer pink at the center, about 5 minutes. Remove to a plate.",
+            "Add olive oil to the skillet and fry or scramble eggs to your taste.",
+            "Slice biscuits open horizontally, and assemble the sandwich, from top to bottom: bottom half of biscuit, egg, Cheddar cheese slice, bacon, and sausage, then finish it with the other biscuit half on top."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pickle Bacon Chopped Bagels",
+        "category": "Breads",
+        "ingredients": [
+            "3 ounces cream cheese",
+            "1/3 cup dill pickle slices",
+            "2 teaspoons pickle brine from the jar",
+            "2 green onions,",
+            "4 slices bacon",
+            "4 dill sprigs",
+            "2 everything bagels"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place cream cheese onto a cutting board. Top cream cheese with pickles, brine, bacon, green onions, and dill. Chop all of the ingredients together and mix until well combined.",
+            "Divide mixture onto the bottom halves of bagels; place top halves on. Cut in half and serve immediately."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Herby Garlic Skillet Dinner Rolls",
+        "category": "Breads",
+        "ingredients": [
+            "1/2 cup unsalted butter",
+            "1 pinch kosher salt",
+            "2 cloves garlic,",
+            "2 tablespoons parsley",
+            "1 tablespoon fresh rosemary",
+            "18 dough balls",
+            "1 tablespoon grated Parmesan cheese"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Brush a 10-inch cast iron skillet with melted butter. Combine remaining melted butter, salt, garlic, flat-leaf parsley, and rosemary in a large mixing bowl.",
+            "Place thawed dough balls into the butter and herb mixture and coat each dough ball thoroughly. Place coated dough balls in the prepared skillet. Reserve any remaining butter-herb mixture.",
+            "Lightly brush a piece of plastic wrap with melted butter, and cover rolls, with buttered side toward rolls. Set in a warm place, without drafts until doubled in size, 2 to 3 hours.",
+            "Preheat the oven to 375 degrees F (190 degrees C).",
+            "Gently remove plastic wrap. Melt remaining herb butter in the microwave, if necessary, and pour over the top of the rolls. Sprinkle with Parmesan cheese.",
+            "Bake rolls in the preheated oven until lightly browned, 15 to 20 minutes. Remove from the oven and cool in the pan for 3 to 5 minutes. Serve warm."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

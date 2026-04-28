@@ -1,0 +1,652 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Fluffy Cake Donuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "¾ cup white sugar",
+            "2 teaspoons baking powder",
+            "¼ teaspoon ground nutmeg",
+            "¼ teaspoon ground cinnamon",
+            "1 teaspoon salt",
+            "¾ cup milk",
+            "2 large eggs, beaten",
+            "1 tablespoon butter or shortening",
+            "1 teaspoon vanilla extract",
+            "1 cup confectioners' sugar",
+            "2 tablespoons hot water",
+            "½ teaspoon almond extract"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Lightly grease a donut pan.",
+            "Mix flour, sugar, baking powder, nutmeg, cinnamon, and salt together in a large bowl. Stir in milk, eggs, butter, and vanilla. Beat until well blended. Fill each prepared donut cup approximately 3/4 full.",
+            "Bake in the preheated oven until donuts spring back when touched, 8 to 10 minutes. Allow to cool slightly before removing from the pan.",
+            "While the donuts are cooling, make the glaze: Blend confectioners' sugar, hot water, and almond extract together in a small bowl. Dip doughnuts in the glaze when serving."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Super Easy Doughnuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "⅜ cup milk",
+            "2 tablespoons white vinegar",
+            "½ cup white sugar",
+            "2 tablespoons shortening",
+            "1 large egg",
+            "½ teaspoon vanilla extract",
+            "2 cups sifted all-purpose flour",
+            "½ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "1 quart oil for deep frying",
+            "½ cup confectioners' sugar for dusting"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir together milk and vinegar; let stand for a few minutes until thick.",
+            "Cream together sugar and shortening in a mixing bowl until smooth.",
+            "Beat in egg and vanilla until well-blended.",
+            "Sift together flour, baking soda, and salt in a separate bowl; stir into sugar mixture alternating with milk mixture.",
+            "Roll dough out on a floured surface to 1/3-inch thickness.",
+            "Cut into donuts using a donut cutter. Let stand for about 10 minutes.",
+            "Heat oil in a large, deep skillet to 375 degrees F (190 degrees C). Fry donuts in hot oil in batches until golden, turning over once, about 1 to 2 minutes per side.",
+            "Drain on paper towels.",
+            "Dust with confectioners' sugar while they are still warm and serve."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Mini Doughnuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "⅔ cup all-purpose flour",
+            "½ teaspoon baking powder",
+            "¼ teaspoon ground nutmeg, or more to taste",
+            "⅛ teaspoon salt",
+            "¼ cup milk",
+            "½ teaspoon vanilla extract",
+            "5 tablespoons softened butter",
+            "⅓ cup white sugar",
+            "1 large egg"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease donut baking pans or miniature muffin cups.",
+            "To make the donuts: Whisk flour, baking powder, nutmeg, and salt together in a bowl. Stir milk and vanilla extract together in a separate bowl. Beat butter and sugar together in a third bowl using an electric mixer until smooth and creamy; beat in egg.",
+            "Stir flour mixture, alternating with milk mixture, into butter mixture until batter is smooth. Spoon batter into a piping bag and pipe into donut pans or muffin cups.",
+            "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 10 to 12 minutes.",
+            "To make the coating: Mix sugar and cinnamon together in a bowl.",
+            "Add warm donuts to cinnamon-sugar mixture; gently toss with hands until coated."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Struffoli",
+        "category": "Doughnuts",
+        "ingredients": [
+            "4 large eggs",
+            "¼ cup white sugar",
+            "¼ cup vegetable oil",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon baking powder",
+            "¼ cup all-purpose flour, or as needed",
+            "2 cups vegetable oil for frying, or as needed"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Beat eggs, 1/4 cup white sugar, 1/4 cup vegetable oil, and vanilla extract together in a bowl; stir in baking powder.",
+            "Slowly stir flour, about 1 tablespoon at a time, into egg mixture until a soft dough forms.",
+            "Roll dough into small balls.",
+            "Heat 2 cups vegetable oil in a large saucepan to 350 degrees F (175 degrees C) or until you see little waves on the bottom of the saucepan.",
+            "Working in small batches, fry dough balls in hot oil until lightly browned, 2 to 3 minutes per batch. Transfer struffoli to a paper towel-lined plate using a slotted spoon.",
+            "Heat honey in a saucepan over medium-low heat. Slowly mix 1/2 cup sugar, a few tablespoons at a time, into honey until sugar is melted and glaze is smooth, about 5 minutes.",
+            "Transfer struffoli to a large bowl and pour glaze on top; toss quickly to evenly coat before glaze hardens.",
+            "Arrange struffoli into a tower shape or Christmas tree shape on a serving plate. Sprinkle nonpareil sprinkles over struffoli."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Churro Cronuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 (8 ounce) cans crescent dough sheets",
+            "4 cups oil",
+            "1 cup sugar",
+            "2 teaspoons cinnamon",
+            "chocolate sauce or chocolate hazelnut spread for serving"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Remove dough from each can and unroll to a rectangular shape. Fold the shorter end of 1 sheet up 1/3 of the way. Fold the opposite edge 1/3 of the way to fold over (and cover) the first fold. The dough should have 3 layers. Use a 3-inch cutter to cut 3 circles from the dough. Form the scraps into another layered piece and cut out one more circle. Repeat with the remaining dough sheet. Use a smaller cutter to cut the center out of each circle to form a donut shape and reserve for donut holes.",
+            "Fill a large saucepan halfway with oil and place over medium-high heat to reach a temperature of 350 to 365 degrees F (175 to 183 degrees C). Line a tray with paper towels.",
+            "Combine sugar and cinnamon in a shallow dish; set aside.",
+            "Working with 2 to 3 cronuts at a time, carefully lower each cronut into the hot oil. Fry about 1 minute, rotating occasionally, until browned evenly. Drain briefly on the prepared tray. While donuts are still hot, coat evenly in cinnamon sugar. Repeat with remaining cronuts and doughnut holes.",
+            "Serve with chocolate sauce or hazelnut spread for dipping."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Mom's Apple Fritters",
+        "category": "Doughnuts",
+        "ingredients": [
+            "1 quart vegetable oil for deep-frying",
+            "1 ½ cups all-purpose flour",
+            "1 tablespoon white sugar",
+            "2 teaspoons baking powder",
+            "1/2 teaspoon salt",
+            "2/3 cup milk",
+            "2 large eggs, beaten",
+            "1 tablespoon vegetable oil",
+            "3 cups apples - peeled, cored and chopped",
+            "1 cup cinnamon-sugar"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather the ingredients. Heat oil in a deep fryer or electric skillet to 375 degrees F (190 degrees C).",
+            "Stir flour, sugar, baking powder, and salt together in a large bowl. Pour in milk, eggs, and oil; stir until well blended.",
+            "Mix in apples until evenly distributed.",
+            "Working in small batches to prevent overcrowding, drop spoonfuls of batter into the deep fryer and fry in hot oil until golden all over, about 5 minutes.",
+            "Use a slotted spoon to transfer fritters to a paper towel-lined plate.",
+            "Toss warm fritters with cinnamon sugar in a bowl until well coated.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Apple Fritters",
+        "category": "Doughnuts",
+        "ingredients": [
+            "1 1/2 cups all-purpose flour, sifted",
+            "1/2 cup packed light brown sugar",
+            "2 teaspoons baking powder",
+            "1 teaspoon ground cinnamon",
+            "1 teaspoon ground nutmeg",
+            "1 pinch salt",
+            "6 tablespoons unsalted butter",
+            "1/2 cup whole milk",
+            "1 large egg",
+            "1 teaspoon vanilla extract",
+            "1 cup oneycrisp apple",
+            "1 cup confectioners' sugar",
+            "2 tablespoons whole milk",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.",
+            "Whisk together all-purpose flour, brown sugar, baking powder, cinnamon, nutmeg, and salt in a large bowl. Cut in butter with a pastry blender until mixture resembles coarse crumbs.",
+            "Whisk milk, egg, and vanilla extract together in a cup. Stir into flour mixture just until combined; stir in chopped apple. Use a scoop or spoon to drop 1/4-cup mounds onto prepared baking sheet.",
+            "Bake in the preheated oven until a skewer inserted near the center of fritter comes out clean, 11 to 12 minutes. Remove to a wire rack.",
+            "Preheat the oven's broiler. Whisk together confectioner's sugar, milk, and vanilla extract. Brush a thin layer of glaze over fritters, and place under broiler.",
+            "Broil fritters until glaze is bubbly, about 2 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Zeppole",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 quarts vegetable oil for frying",
+            "1 cup all-purpose flour",
+            "2 teaspoons baking powder",
+            "1 ½ teaspoons white sugar",
+            "1 pinch salt",
+            "2 large eggs, beaten",
+            "1 cup ricotta cheese",
+            "¼ teaspoon vanilla extract",
+            "½ cup confectioners' sugar for dusting"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients. Heat oil in a deep fryer to 375 degrees F (190 degrees C).",
+            "Combine flour, baking powder, sugar, and salt in a medium saucepan. Stir in eggs, ricotta cheese, and vanilla. Mix gently over low heat until combined. Batter will be sticky.",
+            "Drop by tablespoons into the hot oil a few at a time. Zeppole will turn over by themselves. Fry until golden brown, about 3 or 4 minutes. Drain in a paper sack and dust with confectioners' sugar. Serve warm."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Funnel Cakes",
+        "category": "Doughnuts",
+        "ingredients": [
+            "1 quart vegetable oil for frying, or as needed",
+            "1 ½ cups milk",
+            "2 large eggs",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "½ teaspoon ground cinnamon",
+            "½ teaspoon salt",
+            "¾ cup confectioners' sugar"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients. Heat oil to 375 degrees F (190 degrees C) in a heavy skillet.",
+            "Beat milk and eggs together in a large bowl.",
+            "Combine flour, baking powder, cinnamon, and salt in a separate bowl.",
+            "Stir into egg mixture until smooth.",
+            "Use your finger to cover the funnel hole; pour in 1 cup of batter. Starting in the center of the skillet, remove your finger and move the funnel in a swirling motion to make a 6- or 7-inch round.",
+            "Fry in hot oil until bottom is golden brown; flip and continue cooking until golden brown all over, about 1 minute per side.",
+            "Drain on paper towels. Continue cooking remaining batter.",
+            "Sprinkle with confectioners' sugar and serve warm."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sour Cream Donuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 ¼ cups bleached cake flour",
+            "2 teaspoons baking powder",
+            "¾ teaspoon kosher salt",
+            "½ teaspoon ground nutmeg",
+            "¼ teaspoon ground cinnamon",
+            "⅔ cup sour cream, room temperature",
+            "½ cup granulated sugar",
+            "2 large egg yolks, room temperature",
+            "1 tablespoon unsalted butter, melted and cooled slightly",
+            "1 tablespoon vegetable oil",
+            "1 teaspoon vanilla extract",
+            "vegetable oil as needed for frying"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Whisk flour, baking powder, salt, nutmeg, and cinnamon together in a bowl until well combined.",
+            "Whisk sour cream, granulated sugar, egg yolks, melted butter, oil, and vanilla together in a large bowl until well combined.",
+            "Gradually fold flour mixture into sour cream mixture just until combined. (Dough will be quite soft and sticky.)",
+            "Cover, and chill in the refrigerator until dough is cold and just slightly firmed, about 2 hours.",
+            "Turn dough out onto a heavily-floured surface and pat or roll to 3/8- to 1/2-inch thickness, flouring hands or rolling pin as needed. Cut dough using a floured 3 ½-inch round cutter. Cut holes in the center of the dough circles using a floured 1 ¼-inch round cutter. Transfer dough rings to a parchment-lined baking sheet. Reroll, and cut dough scraps, repeating process as needed.",
+            "Heat 3 inches of oil in a large Dutch oven over medium heat until a deep-fry thermometer registers 360 degrees F to 365 degrees F (182 degrees C to 185 degrees C).",
+            "Fry 1 to 2 donuts at a time until golden brown and cooked through, about 1 to 1 ½ minutes per side, adjusting heat as necessary to maintain oil temperature.",
+            "Transfer donuts to a baking sheet lined with paper towels using a spider strainer. Let drain, and cool for 5 minutes (see note).",
+            "Whisk together powdered sugar, melted butter, hot water, corn syrup, salt, and vanilla in a large bowl for the glaze until smooth and well combined.",
+            "Place 1 warm donut in the powdered sugar mixture, craggy side up; use a spoon to coat donut completely in the glaze.",
+            "Remove donut from glaze using two forks placed underneath; let excess drip off, and then transfer donut to a wire rack placed over a rimmed baking sheet. Repeat with remaining donuts and glaze.",
+            "Let donuts stand until glaze is set before serving, about 25 minutes."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Uncrustable Donuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "1 uncrustables sandwiches",
+            "6 cups peanut oil, or as needed",
+            "4 tablespoons granulated sugar",
+            "1/2 teaspoon ground cinnamon"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat oil to 400 degrees F (200 degrees C) in a large saucepan over medium-high heat.",
+            "Meanwhile, use a 1-inch cutter to cut a hole in the center of each Uncrustable. Press edges around the center of the hole to seal sandwich closed in the middle",
+            "Fry each sandwich in hot oil until browned, 8 to 10 seconds per side. Drain on paper towels.",
+            "Stir together sugar and cinnamon on a plate; dredge donuts lightly in cinnamon sugar."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Classic Glazed Doughnuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "⅓ cup milk",
+            "⅓ cup cake flour"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "For tangzhong, whisk together 1/3 cup milk and 1/3 cup cake flour in a small saucepan. Cook, stirring constantly, over medium heat until a very thick paste forms, about 3 minutes (watch constantly—it thickens quickly). Cool briefly.",
+            "Heat 1 cup milk in a second saucepan to 105 degrees F to 115 degrees F (40 degrees C to 46 degrees C). Transfer warm milk to the bowl of a stand mixer; stir in yeast and let stand for 5 minutes.",
+            "Add evaporated milk, melted butter, eggs, sugar, salt, vanilla, the cooled tangzhong, and 2 cups cake flour to the stand mixer. Using the paddle attachment, beat at low speed until mixture is smooth, about 3 minutes. Gradually beat in remaining 2 1/4 cups cake flour to make a soft dough. Continue beating at low speed until dough is smooth, 2 to 3 minutes. Dough will be soft.",
+            "Turn dough out onto a lightly floured surface. Knead dough until smooth, 2 to 3 minutes, adding 2 to 4 tablespoons additional cake flour. Be careful not to add too much flour. (If dough begins to stick to surface, use a bench scraper to lift dough from surface and add a dusting of flour. If your dough is too soft to knead, chill covered for 2 hours or up to overnight before kneading.) Shape dough into a ball. Transfer to a lightly greased bowl, turning once to grease surface; cover. Let rise in a warm place until doubled in size, 1 to 1 1/2 hours.",
+            "Punch down dough and turn out onto floured surface. Roll dough into a 10x15-inch rectangle about 1/2-inch thick. If dough springs back, let it rest an additional 10 minutes. Lightly flour 2 large baking sheets.",
+            "Cut dough using 3-inch and 1-inch round cutters to create doughnuts and doughnut holes. Arrange cutouts 1 inch apart on the prepared baking sheets. Cover with a towel and let cutouts rise in a warm place until very light and fluffy, about 1 hour.[If you have scraps, gently knead together, being careful not to overwork dough; let rest 10 minutes before cutting.]",
+            "Arrange wire racks in two 10x15-inch rimmed baking pans (one for cooling, one for finished glazed doughnuts).",
+            "About 20 minutes before doughnuts are done rising, pour oil to a depth of 2 1/2 to 3 inches into a large skillet or a deep-fat fryer. Heat to 365 degrees F (185 degrees C).",
+            "Working in batches of 2 to 3 doughnuts, fry, turning once halfway through, until golden, about 90 seconds. Transfer to prepared cooling rack to cool slightly. Repeat with remaining doughnuts. For doughnut holes, working in batches, fry, constantly moving with a slotted spoon, until evenly golden, about 1 minute. Transfer to prepared rack to cool slightly.",
+            "Whisk together powdered sugar, melted butter, vanilla extract and salt in a bowl to make the vanilla glaze. Whisk in hot water, 1 tablespoon at a time, until desired consistency. If glaze thickens, stir in additional hot water, 1 teaspoon at a time.",
+            "Dip warm doughnuts and doughnut holes into vanilla glaze, turning to coat both sides. Arrange doughnuts on the second prepared rack to allow glaze to set, about 30 minutes."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Munchable Donut Holes",
+        "category": "Doughnuts",
+        "ingredients": [
+            "4 cups flour",
+            "2 teaspoons baking powder",
+            "½ teaspoon salt",
+            "2 large eggs",
+            "1 ¼ cups sugar",
+            "1 teaspoon vanilla",
+            "⅔ cup milk",
+            "¼ cup butter, melted",
+            "vegetable oil for frying"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Stir together flour, baking powder, and salt in a bowl. In a large bowl, beat eggs, sugar, and vanilla with an electric mixer at medium speed until thick, about 3 minutes. In a small bowl, stir together milk and melted butter.",
+            "Add flour mixture and milk mixture alternately to egg mixture, beating at low speed after each addition just until combined (stir in the last of the flour mixture, if needed). Chill dough, covered, until easy to handle, about 1 hour.",
+            "Roll dough until 1/2-inch thick on a lightly floured surface. Cut donut holes using a 11/2-inch round cutter. Dip cutter into flour between cuts and reroll dough as needed. Set a wire rack inside a sheet pan.",
+            "Pour oil to a depth of 21/2 to 3 inches in a 4-qt. pot or a deep-fat fryer.[You'll need about 2 qt. oil.]Heat to 365°F. (Use a frying thermometer to monitor temperature to keep it as close to 365°F as you can.)",
+            "Working in batches of 5 to 6 donut holes, fry, turning once halfway through, until light and golden, about 2 minutes.",
+            "Transfer donut holes to prepared rack. Let cool about 2 minutes.",
+            "Whisk together powdered sugar, melted butter, vanilla extract and salt in a bowl to make the vanilla glaze. Whisk in hot water, 1 tablespoon at a time, until desired consistency. If glaze thickens, stir in additional hot water, 1 teaspoon at a time.",
+            "Coat donuts with vanilla glaze. Let stand until glaze is set, about 30 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Mochi Donuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "1 ½ cups Mochiko (sweet white rice flour, such as Asian's Best), plus more for dusting",
+            "1 cup tapioca flour",
+            "½ cup granulated sugar",
+            "1 tablespoon baking powder",
+            "¼ teaspoon kosher salt",
+            "⅔ cup whole milk",
+            "3 tablespoons unsalted butter, melted",
+            "1 teaspoon vanilla extract",
+            "1 large egg",
+            "canola oil for frying"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine rice flour, tapioca flour, sugar, baking powder, and salt in the bowl of a stand mixer fitted with the paddle attachment. Beat on low speed until combined, 1 minute. Add milk, butter, vanilla, and egg; beat on low speed until a smooth dough forms about 1 to 2 minutes (dough will be slightly sticky).",
+            "Lightly dust rice flour onto a clean work surface and turn dough onto surface. Divide dough into quarters and working in batches, roll dough quarters into 18-inch-long ropes about 1-inch wide.",
+            "Cut each rope into 1-inch pieces. Roll each piece into a ball, wetting hands as needed to help roll (about 72 each for 9 donuts).",
+            "Cut 9 square pieces of parchment paper, 5x5-inches, and place in a single layer on a baking sheet. Arrange 8 dough balls onto each piece parchment in a ring about 3 1/2 inches in diameter, connecting them side by side and using water to seal together.",
+            "Pour oil to a depth of 2 inches in a large Dutch oven; heat over medium-high to 350 degrees F (175 degrees C).",
+            "Place 3 dough rings, along with parchment, in hot oil. Remove parchment with tongs once dough floats to top of oil. Cook until golden and puffed, turning once halfway through, 2 to 3 minutes. Transfer to a wire rack lined with paper towels; cool 10 minutes. Repeat with remaining dough rings.",
+            "For the glaze whisk powdered sugar, 2 tablespoons milk, and vanilla together in a medium bowl. Mixture should be the consistency of heavy cream; add up to 1 tablespoon milk, 1 teaspoon at a time, as needed to adjust consistency. Dip tops of 4 or 5 doughnuts into the glaze; place on wire rack (with paper towel removed).",
+            "Stir 2 teaspoons dried fruit powder into remaining glaze. Dip remaining doughnuts in the glaze; transfer to wire rack and sprinkle with remaining fruit powder."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Cider Donuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 cups fresh apple cider",
+            "2 cups all-purpose flour",
+            "¾ teaspoon baking powder",
+            "¾ teaspoon baking soda",
+            "¼ teaspoon fine salt",
+            "1 teaspoon ground cinnamon",
+            "1 pinch ground cardamom",
+            "1 pinch freshly grated nutmeg",
+            "½ cup white sugar",
+            "½ cup packed brown sugar",
+            "½ cup warm milk",
+            "6 tablespoons unsalted butter, melted, divided",
+            "¾ teaspoon vanilla extract",
+            "1 large egg"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Butter two 6-cup donut pans.",
+            "Pour apple cider into a saucepan and place over medium heat. Bring to a simmer and let it cook, watching carefully, until the cider is reduced to 1/2 cup. If it reduces too much, add enough water to make 1/2 cup. Set aside until needed.",
+            "Add flour, baking powder, baking soda, salt, 1 teaspoon cinnamon, cardamom, and nutmeg to a large bowl. Mix with a whisk until combined and set aside until needed.",
+            "Whisk 1/2 cup white sugar, brown sugar, milk, 2 tablespoons melted butter, vanilla extract, and egg together in another bowl until combined. Add the apple cider reduction and the dry ingredients. Whisk together to form a slightly thick batter; do not overmix.",
+            "Spoon or pipe the batter into the prepared donut pans, filling them about 3/4 of the way up.",
+            "Bake in the center of the preheated oven until the tops are lightly browned, and the donuts spring back slightly to the touch, 10 to 12 minutes. Let cool for 10 minutes in the pans before removing to a sheet pan lined with a silicone baking mat. Cut out any donut holes as necessary.",
+            "If desired, while still slightly warm, brush the donuts lightly with remaining melted butter.",
+            "To make the coating: Mix 1 cup white sugar and 1 tablespoon cinnamon together in a shallow dish; toss donuts in sugar mixture to coat. Let cool completely before serving."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Cake Doughnuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "½ cup white sugar",
+            "1 tablespoon baking powder",
+            "1 teaspoon salt",
+            "¼ teaspoon ground cinnamon",
+            "1 dash ground nutmeg",
+            "2 tablespoons melted butter",
+            "½ cup milk",
+            "1 egg, beaten",
+            "1 quart oil for frying"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Heat oil in a deep-fryer to 375 degrees F (190 degrees C).",
+            "Sift together flour, sugar, baking powder, salt, cinnamon, and nutmeg in a large bowl.",
+            "Mix in butter until crumbly.",
+            "Stir in milk and egg until smooth.",
+            "Knead lightly, then turn out onto a lightly floured surface. Roll or pat to 1/4-inch thickness.",
+            "Cut with a doughnut cutter, or use two round biscuit cutters of different sizes.",
+            "Lay doughnuts in hot oil, a few at a time. Do not overcrowd the pan, or oil may overflow.",
+            "Fry, turning once, until golden, about 3 minutes.",
+            "Drain on paper towels.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy and Creamy Doughnuts",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 (.25 ounce) envelopes active dry yeast",
+            "¼ cup warm water (105 to 115 degrees F)",
+            "1 ½ cups lukewarm milk",
+            "½ cup white sugar",
+            "1 teaspoon salt",
+            "2 large eggs",
+            "⅓ cup shortening",
+            "5 cups all-purpose flour",
+            "1 quart vegetable oil for frying",
+            "⅓ cup butter",
+            "2 cups confectioners' sugar",
+            "1 ½ teaspoons vanilla",
+            "4 tablespoons hot water or as needed"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Sprinkle the yeast over the warm water, and let stand for 5 minutes, or until foamy.",
+            "Mix yeast mixture, milk, sugar, salt, eggs, shortening, and 2 cups of the flour together in a large bowl for a few minutes with an electric mixer at low speed, or stir with a wooden spoon. Beat in remaining flour, ½ cup at a time, until the dough no longer sticks to the bowl. Knead for about 5 minutes, or until smooth and elastic. Place the dough into a greased bowl, and cover. Set in a warm place to rise until double. Dough is ready if you touch it, and the indention remains.",
+            "Turn the dough out onto a floured surface, and gently roll out to ½-inch thickness. Cut with a floured doughnut cutter. Let doughnuts sit out to rise again until double. Cover loosely with a cloth.",
+            "Melt butter in a saucepan over medium heat. Stir in confectioners' sugar and vanilla until smooth. Remove from heat, and stir in hot water one tablespoon at a time until the icing is somewhat thin, but not watery. Set aside.",
+            "Heat oil in a deep-fryer or large heavy skillet to 350 degrees F (175 degrees C). Slide donuts into the hot oil using a wide spatula. Turn donuts over as they rise to the surface. Fry donuts on each side until golden brown. Remove from hot oil, to drain on a wire rack. Dip donuts into the glaze while still hot, and set onto wire racks to drain off excess. Keep a cookie sheet or tray under racks for easier clean up.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Beignets",
+        "category": "Doughnuts",
+        "ingredients": [
+            "1 (.25 ounce) package active dry yeast",
+            "1 ½ cups warm water (110 degrees F/45 degrees C)",
+            "1 cup evaporated milk",
+            "½ cup white sugar",
+            "2 large eggs",
+            "1 teaspoon salt",
+            "7 cups all-purpose flour, divided",
+            "¼ cup shortening",
+            "1 quart vegetable oil for frying",
+            "¼ cup confectioners' sugar"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients.",
+            "Dissolve yeast in warm water. Pour into a large bowl and stir in evaporated milk, white sugar, eggs, and salt. Add 4 cups flour and beat until smooth.",
+            "Mix in shortening. Mix in remaining 3 cups flour. Cover and refrigerate for at least 2 hours, or up to 24 hours.",
+            "Roll dough out on floured surface to 1/8-inch thick. Cut into 2 1/2-inch squares.",
+            "Heat oil in a deep pot to 360 degrees F (180 degrees C). Fry beignets in batches until browned and puffed. (If beignets sink and do not pop up, oil is not hot enough.) Remove from oil with a slotted spoon and drain on paper towels.",
+            "Shake confectioners' sugar over hot beignets. Serve immediately. Enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sufganiyot",
+        "category": "Doughnuts",
+        "ingredients": [
+            "4 cups self-rising flour",
+            "2 (8 ounce) containers yogurt",
+            "2 large eggs",
+            "2 tablespoons white sugar",
+            "2 tablespoons vanilla sugar",
+            "1 pinch salt",
+            "3 quarts vegetable oil for frying"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine flour, yogurt, eggs, sugar, vanilla sugar, and salt in a large bowl; mix well. Set the dough aside for 30 minutes.",
+            "Form dough into 2-inch balls.",
+            "Heat vegetable oil to 365 degrees F (190 degrees C) in a large pot or deep fryer over high heat. Deep-fry sufganiyot, in batches, in hot oil until golden brown, about 3 minutes, turning them halfway through.",
+            "Use a slotted spoon to transfer donuts to a paper towel-lined plate; repeat with remaining dough.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Banana Fritters",
+        "category": "Doughnuts",
+        "ingredients": [
+            "2 bananas, mashed",
+            "½ cup milk",
+            "2 cups all-purpose flour",
+            "3 teaspoons baking powder",
+            "½ teaspoon salt",
+            "2 eggs, beaten",
+            "1 tablespoon margarine, melted",
+            "1 quart vegetable oil for frying",
+            "½ cup confectioners' sugar, or as needed"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather the ingredients.",
+            "Combine bananas and milk in a large mixing bowl; sift in flour, baking powder, and salt. Add eggs and margarine; mix well to combine. Heat oil in a large, deep skillet to 365 degrees F (180 degrees C).",
+            "Carefully place spoonfuls of the fritter mixture into the hot oil; cook, flipping once, until golden brown, about 5 minutes. Remove, and drain on a paper towel-lined plate.",
+            "Dust fritters with confectioners' sugar and serve warm."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    }
+]

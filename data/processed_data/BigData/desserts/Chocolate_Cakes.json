@@ -1,0 +1,693 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "3-Ingredient Chocolate Cherry Dump Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "2 (21 ounce) cans cherry pie filling",
+            "1 (15.25 ounce) box chocolate cake mix",
+            "1/2 cup butter"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Pour pie filling into a 9x13-inch baking dish.",
+            "Spread cake mix evenly over the pie filling, taking care not to mix it into the fruit. Top evenly with butter slices.",
+            "Bake in the preheated oven until lightly golden brown and bubbly, about 45 minutes. Let stand at least 5 minutes before serving."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fudgy Black Forest Bars",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1 cup salted butter,",
+            "1 1/2 cups white sugar",
+            "2 teaspoons vanilla extract",
+            "4 large eggs",
+            "2 cups all purpose flour",
+            "1/2 cup unsweetened triple chocolate baking cocoa",
+            "1 large dark chocolate bar, chopped into chunks (about 1 cup chunks)",
+            "1 (21 ounce) can cherry pie filling",
+            "1 tablespoon confectioners sugar"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (180 degrees C). Grease a 9x13-inch pan.",
+            "Beat butter and sugar together in a bowl with an electric mixer until creamy. Beat in vanilla. Add eggs, 1 at a time, beating in each egg completely before adding the next.",
+            "Stir in flour and cocoa powder until fully combined. Stir in chocolate chunks.",
+            "Spread mixture into prepared pan, then pour pie filling over the top, smoothing it out.",
+            "Bake in the preheated oven for 40 minutes, then check for doneness. A toothpick inserted near the center should come out with just a few moist crumbs. Bake up to 10 minutes more, if needed.",
+            "Cool completely; sprinkle with confectioner's sugar. Cut into bars."
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cassata Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1 ½ cups cake flour",
+            "½ teaspoon baking powder",
+            "¼ teaspoon salt",
+            "5 large eggs",
+            "½ cup cold water",
+            "1 ¼ cups white sugar",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon cream of tartar",
+            "2 pounds whole milk ricotta cheese",
+            "2 ¼ cups confectioners' sugar",
+            "½ teaspoon ground cinnamon",
+            "1 ½ teaspoons vanilla extract",
+            "2 (1 ounce) squares semi-sweet chocolate, coarsely grated",
+            "½ cup candied lemon peel",
+            "⅓ cup white sugar",
+            "¼ cup water",
+            "2 tablespoons light rum",
+            "6 (1 ounce) squares bittersweet chocolate, chopped",
+            "⅓ cup heavy whipping cream",
+            "3 tablespoons unsalted butter, cubed"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 325 degrees F (165 degrees C). Grease and line two 9-inch round cake pans with parchment paper.",
+            "Sift flour, baking powder, and salt together in a bowl.",
+            "Separate the eggs and set egg whites aside. Beat egg yolks together on medium-high speed until very thick, about 4 minutes. Gradually add ½ cup of cold water. Add 1 ¼ cups of white sugar, slowly, and beat well for about 3 more minutes. Add 1 teaspoon of vanilla. Add flour mixture to egg yolk mixture and fold in.",
+            "Beat egg whites and cream of tartar together until stiff peaks form. Fold into egg yolk mixture; divide the cake batter between the prepared pans.",
+            "Bake cakes in the preheated oven for 25 minutes. Cool on wire rack for 10 minutes; invert and cool completely. While the cakes are cooling, you can make the ricotta filling and rum syrup.",
+            "To make the ricotta filling: Beat ricotta cheese well and add confectioner's sugar and cinnamon. Add 1 ½ teaspoons of vanilla and 2 ounces of grated chocolate. Stir in candied lemon peel and mix. Chill filling until ready to use.",
+            "To make the rum syrup: Place 1/3 cup of sugar and water in a small saucepan. Bring to a boil over medium heat, stirring to dissolve sugar. Boil 1 minute and then remove from heat and add rum. Cool syrup to room temperature.",
+            "Cut each cooled cake in half. Place one of the 4 halves on a cake board or plate and sprinkle with a little of the rum syrup.",
+            "Spread 1 ½ cups of the filling over this layer. Add a second layer of cake and repeat this procedure. Top the cake with the remaining piece of cake. Chill cake in the refrigerator for at least 4 hours.",
+            "To make the chocolate glaze: Melt 6 ounces of chocolate and cream together in a microwave-safe bowl in the microwave; whisk until smooth. Add butter and whisk until dissolved. Cool mixture until spreadable.",
+            "Spread over the top of the chilled cake."
+        ],
+        "healthiness_score": 32,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Cherry Cheesecake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "24 whole chocolate sandwich cookies (such as OREO)",
+            "4 tablespoons butter",
+            "2 pinches salt",
+            "4 ounce) packages cream cheese",
+            "3 large eggs",
+            "1/4 teaspoon almond extract",
+            "1/2 cup sugar",
+            "1 cup heavy cream",
+            "1 ( 21 ounce cherry pie filling",
+            "1 cup chocolate chips"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Place whole sandwich cookies In a food processor or high speed blender; pulse several times, until crumbs are quite small.",
+            "Combine crumbs, melted butter, and 1 pinch salt. Stir until well blended, breaking up any missed large cookie pieces. Press crumb mixture on the bottom and about 1 inch up the sides of a 10-inch springform pan.",
+            "Beat cream cheese in a bowl with an electric mixer and beat on medium speed until smooth, 1 to 2 minutes. Beat in 1 egg at a time, making sure each egg is well incorporated before adding the next. Scrape down sides of the bowl as needed.",
+            "Add almond extract and sugar to cream cheese mixture; beat until smooth, about 1 minute. Add 1/2 cup heavy cream, blending well. Carefully pour about half the batter into the prepared pan.",
+            "Spoon 1 cup pie filling over the batter in the pan, distributing evenly. Spoon remaining batter in a smooth layer on top of pie filling. Place filled springform on a cookie sheet.",
+            "Bake in the center of the preheated oven until the center of the cheesecake is set, about 1 hour and 5 minutes. Cool in the pan on a wire rack, about 1 hour.",
+            "For glaze, heat remaining 1/2 cup heavy cream in a small saucepan over medium heat until it begins to steam. Remove from heat; add chocolate chips and pinch salt. Stir until chocolate is completely melted and smooth.",
+            "Line a cookie sheet with parchment paper. Place cheesecake on the lined cookie sheet and release the side of the springform pan. Pour chocolate glaze on top of the cooled cheesecake, allowing some of the glaze to drizzle down the side.",
+            "Refrigerate until completely chilled, at least 3 hours or overnight. To serve, slice into 16 slices. Top each slice with a bit of remaining pie filling."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Swiss Roll",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "cooking spray"
+        ],
+        "num_ingredients": 1,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Spray a jelly roll or rimmed sheet pan with cooking spray and line with parchment paper.",
+            "Make cake: Sift flour, cocoa powder, salt, and baking soda together in a medium bowl.",
+            "Beat eggs and sugar in a large bowl with an electric mixer on high speed until tripled in volume, about 5 minutes. Mix in vanilla. Beat in flour mixture on low speed in thirds, alternating with melted butter, until just combined. Pour into the prepared pan (the thickness should be less than 1/4 inch).",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 8 to 9 minutes. Allow to cool completely.",
+            "Flip cake upside-down out of the pan onto a new sheet of parchment paper. Remove the used parchment paper gently from the top of cake. Roll cake, starting at one end of the paper, into a tube until it is completely rolled into the parchment. Refrigerate for 2 hours.",
+            "Make filling: Whip cream, powdered sugar, and vanilla together in a bowl with an electric mixer until medium peaks form. Mix in chocolate-hazelnut spread until well combined.",
+            "Unroll cake and spread evenly with filling. Roll up cake with filling, keeping in mind that cake might crack or tear easily. Dust with cocoa powder if you like."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "German Chocolate Cupcakes",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1 (12 ounce) can evaporated milk",
+            "½ cup unsalted butter",
+            "⅓ cup packed light brown sugar",
+            "⅓ cup granulated sugar",
+            "3 large egg yolks",
+            "¼ teaspoon table salt",
+            "¾ cup sweetened shredded coconut",
+            "¾ cup toasted chopped pecans or walnuts",
+            "½ teaspoon almond extract (Optional)"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine evaporated milk, butter, brown sugar, sugar, egg yolks, and salt in a saucepan. Cook over medium-high, whisking constantly, until it coats the back of a spoon, 3 to 4 minutes. Remove from heat, and stir in coconut, pecans, and almond extract. Transfer to a medium bowl, and cool in the refrigerator, uncovered, stirring occasionally, until just chilled, about 1 hour.",
+            "Gather the ingredients. Preheat the oven to 400 degrees F (200 degrees C). Line a 12-cup muffin pan with paper liners, and lightly coat liners with baking spray.",
+            "Whisk together flour, granulated sugar, cocoa, espresso granules, baking powder, baking soda, and salt in a large bowl until combined. Stir in sour cream, oil, buttermilk, vanilla, and eggs just until smooth. Divide batter evenly among prepared muffin cups (about 1/3 cup batter each).",
+            "Place pan in preheated oven; immediately reduce oven temperature to 350 degrees F (175 degrees C).",
+            "Bake until a wooden pick inserted in center of cupcakes comes out clean, about 25 minutes. Cool in pan 10 minutes; transfer cupcakes to a wire rack to cool completely, about 30 minutes.",
+            "Place butter, powdered sugar, and cocoa in bowl of a stand mixer fitted with the whisk attachment. Beat on medium speed until light and fluffy, scraping down sides as needed, about 3 minutes. Stir in melted chocolate, cream, and vanilla until combined and smooth. Cover and chill until just firm, about 30 minutes.",
+            "Stir frosting, and spoon into a piping bag fitted with a Wilton #21 fluted tip. Pipe a circle around the edge of each cupcake. Spoon coconut icing inside each circle of chocolate frosting.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Black Forest Cake Icing",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "3 cups heavy whipping cream",
+            "4 ½ tablespoons white sugar",
+            "1 ½ teaspoons vanilla extract"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Beat together cream, sugar, and vanilla in a bowl with an electric mixer until stiff. Place in the refrigerator until set, about 15 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Microwave Chocolate Mug Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "¼ cup all-purpose flour",
+            "¼ cup white sugar",
+            "2 tablespoons unsweetened cocoa powder",
+            "⅛ teaspoon baking soda",
+            "⅛ teaspoon salt",
+            "3 tablespoons milk",
+            "2 tablespoons canola oil",
+            "1 tablespoon water",
+            "¼ teaspoon vanilla extract"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix flour, sugar, cocoa powder, baking soda, and salt together in a large microwave-safe mug; stir in milk, canola oil, water, and vanilla extract.",
+            "Cook in the microwave until cake is done in the middle, about 1 minute 45 seconds.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Cherry Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1 (15.25 ounce) package chocolate cake mix",
+            "1 (21 ounce) can cherry pie filling",
+            "3 large eggs",
+            "1 cup white sugar",
+            "5 tablespoons butter",
+            "⅓ cup milk",
+            "1 cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking pan.",
+            "Combine cake mix, cherry pie filling, and three eggs in a large bowl until well blended; pour cake mixture into prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 35 to 40 minutes. Let cake cool completely.",
+            "To make the frosting: Combine sugar, butter, and milk in a saucepan. Bring to a boil, stirring constantly, and cook for 1 minute. Remove from heat and stir in chocolate chips until melted and smooth.",
+            "Spread frosting evenly over cooled chocolate cake.",
+            "Slice and serve."
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Microwave Chocolate Pudding Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1 1/2 cups water",
+            "1 cup packed dark brown sugar",
+            "1/4 cup unsweetened cocoa powder",
+            "1/4 cup salted butter, cubed"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "For topping, combine hot water, brown sugar, 1/4 cup cocoa powder, and butter in a microwave-safe bowl. Microwave on high until bubbly, 4 minutes.",
+            "For cake, whisk together flour, white sugar, 1/3 cup cocoa powder, baking powder, salt, and instant espresso powder in a 2-quart round casserole dish. Add milk and vanilla; whisk until smooth.",
+            "Pour topping over the cake batter, they will flow together.",
+            "Microwave on high until the cake is on top of the sauce, 8 to 10 minutes.",
+            "Serve warm topped with vanilla ice cream."
+        ],
+        "healthiness_score": 40,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blackout Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "cooking spray",
+            "2 1/4 cups all-purpose flour",
+            "1 3/4 cups white sugar",
+            "1 cup cocoa",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "3/4 teaspoon kosher salt",
+            "1 cup whole buttermilk",
+            "3/4 cup canola oil",
+            "3 large eggs",
+            "1 tablespoon vanilla extract",
+            "1/2 cup brewed coffee"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "For the cake, preheat the oven to 350 degrees F (180 degrees C). Coat 3 (9-inch) round cake pans with cooking spray; line bottoms of each cake pan with parchment paper, and spray parchment lightly with cooking spray. Set aside.",
+            "Whisk together flour, sugar, cocoa, baking powder, baking soda, and salt together in a large bowl until no lumps remain.",
+            "Combine buttermilk, canola oil, eggs, and vanilla in the bowl of a stand mixer fitted with a whisk attachment. Beat on medium-low speed until combined, about 30 seconds. Reduce speed to low, and gradually beat in flour mixture until just combined, 1 to 2 minutes, stopping to scrape down sides of bowl as needed. With mixer on low speed, slowly stream in hot coffee, beating until just incorporated, about 1 minute. Divide batter evenly among the prepared cake pans, about 2 cups each.",
+            "Bake in the preheated oven until a wooden pick inserted in the center comes out with a few moist crumbs, about 18 minutes. Let cakes cool completely in cake pans on a wire rack, about 45 minutes.",
+            "While cake cools, prepare filling: Whisk together pudding mix and heavy cream until mostly smooth and slightly thickened, about 2 minutes. Chill, covered, until fully set, about 30 minutes.",
+            "Meanwhile, prepare frosting: Microwave chocolate chips, butter, and heavy cream in a large microwave-safe bowl on High in 30-second intervals, stirring thoroughly between intervals, until smooth and melted, about 1 minute 30 seconds to 2 minutes. Chill, covered, until partially set but spreadable, 25 to 30 minutes.",
+            "To assemble, remove cooled cakes from cake pans, and discard parchment paper. Slightly trim tops of each cake layer to create a flat surface, and transfer trimmings to a large bowl. Using your hands, break up cake trimmings into fine crumbs, and set them aside (you should have at least 1 1/2 cups crumbs). Place 1 trimmed cake layer, top side up, on a plate or cake stand.",
+            "Remove set filling from the refrigerator, and whisk lightly until completely smooth and slightly loosened. Top cake layer with half (about 1 1/2 cups) of filling; spread to edges of cake in an even layer using an offset spatula. Top with second cake layer, top side down, and repeat the process with remaining filling. Top with third cake layer, top side down.",
+            "Stir chilled frosting until smooth. Using a large offset spatula, spread frosting evenly over the top and sides of the cake.",
+            "Gently press reserved cake crumbs evenly over into frosting, covering the top and sides completely. Discard any remaining crumbs. Slice and serve!"
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Cream Snack Cakes",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1/2 cup unsalted butter",
+            "1/2 cup unsweetened cocoa powder",
+            "1/2 cup water",
+            "1 1/4 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon sea salt",
+            "1 1/4 cup plus 2/3 cup sugar, divided",
+            "2 large eggs",
+            "3 1/2 teaspoons vanilla extract, divided",
+            "1/4 cup whipping cream",
+            "1 1/3 cup plus 1 1/2 teaspoons light corn syrup, divided",
+            "1/4 cup water",
+            "2 large egg whites",
+            "1/4 teaspoon cream of tartar",
+            "1/4 cup unsalted butter",
+            "4 ounces bittersweet chocolate"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C) and position a rack in the center. Lightly butter top surface of a 12-cup muffin pan and put a cupcake liner in each cup.",
+            "Whisk together cocoa powder and boiling water in a small heat-safe bowl until smooth. In a medium bowl, whisk together flour, baking powder, and salt.",
+            "In the bowl of a stand mixer fitted with a paddle attachment, beat 1/2 cup butter and 1 1/4 cups sugar at medium speed until light and fluffy, 4 to 5 minutes; scrape bowl well. Mix in 2 eggs, one at a time, at medium speed, scraping bowl well after each addition. Mix in 1 1/2 teaspoons vanilla.",
+            "Mix in about 1/3 of flour mixture at low speed. Mix in half of cocoa mixture. Repeat, alternating between flour mixture and cocoa mixture, until fully incorporated and batter is smooth. Mix in cream.",
+            "Divide batter among prepared muffin cups, filling each about 3/4 full. Bake until a toothpick inserted into center of a cake comes out clean or with a few moist crumbs, 22 to 25 minutes. Cool in pan 5 minutes, then use a small offset spatula or a knife to remove each cake; transfer to a wire rack and let cool completely.",
+            "Heat remaining 2/3 cup sugar, 1/3 cup corn syrup, and 1/4 cup water in a small saucepan over medium heat, stirring until sugar is dissolved. When bubbles start to form around edges, stop stirring. Use a pastry brush dipped in water to dissolve any sugar left on sides of pot. Cook, without stirring, until a candy thermometer registers 230 degreed F (110 degrees C).",
+            "Meanwhile, put egg whites and cream of tartar in the bowl of a stand mixer fitted with a whisk attachment (bowl should be clean and dry). When sugar mixture reaches 230 degrees F (110 degrees C), start beating egg white mixture at medium-high speed.",
+            "When sugar mixture reaches 240 degrees F (116 degrees C), remove from heat and add to egg white mixture in a slow, steady stream, beating until soft peaks form, 6 to 8 minutes more. Mix in remaining 2 teaspoons vanilla. Transfer vanilla cream to a disposable pastry bag and cut a 1/2-inch opening from tip.",
+            "Use the base of a large round piping tip, a small round cookie cutter, or a paring knife to cut a hole out of the top of each cake. Pipe vanilla cream into holes. Top with a small piece of removed cake to help seal cream inside. Freeze cakes while you make the glaze (at least 15 minutes).",
+            "Melt butter cubes, chocolate, and remaining 1 1/2 teaspoons corn syrup in a double boiler or a heat-safe bowl set over simmering water, stirring occasionally, until mixture is smooth. Remove from heat; let cool 5 minutes. Stir before using.",
+            "Dip top of each cake into glaze, allowing excess to drip off; transfer to a wire rack. Let stand until glaze sets completely. If desired, decorate tops of cakes with remaining vanilla cream. Chill in an airtight container until ready to serve, up to 4 days."
+        ],
+        "healthiness_score": 28,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Funfetti Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "2 cups cake flour",
+            "1 cup unsweetened cocoa powder",
+            "1 tablespoon espresso powder (optional)",
+            "1 teaspoon baking soda",
+            "1 teaspoon baking powder",
+            "1 teaspoon salt",
+            "1 cup unsalted butter",
+            "1/4 cup vegetable oil",
+            "2 cups brown sugar",
+            "3 large eggs, at room temperature",
+            "1 tablespoon vanilla extract",
+            "1 cup sour cream",
+            "3/4 cup 2% milk",
+            "3/4 cup sprinkles"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray 3 8-inch round cake pans with a baking spray containing flour, and line the bottoms of the pans with parchment paper.",
+            "For cake, sift together flour, cocoa powder, espresso powder, baking soda, baking powder, and salt. Set aside.",
+            "In a large bowl, beat together butter, vegetable oil, and brown sugar on medium-high speed until light and fluffy, 3 to 4 minutes. Add in eggs 1 at a time; beating well after each addition. Mix in vanilla. Add in half of the dry ingredients and mix until just combined. Add in sour cream and milk, and mix until just combined. Add in remaining dry ingredients and mix until just combined. Fold in sprinkles.",
+            "Divide batter evenly between pans. Gently tap pans on the counter a few times to remove larger air bubbles.",
+            "Bake in the preheated oven until tops of the cakes spring back lightly when touched, 30 to 35 minutes. Err on the side of slightly underbaking rather than overbaking. Allow cakes to cool in pans for 30 minutes before removing to a wire rack to cool completely.",
+            "For frosting, beat butter in a large bowl until smooth. Add in cream cheese and beat until smooth. Add in 1 cup of powdered sugar, 1 1/2 teaspoons vanilla, 1/4 teaspoon salt, and almond extract and mix until smooth. Add in remaining powdered sugar 1 cup at a time, mixing well after each addition. Add in chilled heavy cream and beat until frosting is light and fluffy, about 3 minutes on medium-high speed. Fold in sprinkles.",
+            "To assemble cake, place one cooled cake layer onto a serving platter. Top with a thin layer of the frosting. Continue layering and frosting remaining cake layers. Use remaining frosting to frost the top and outside of cake. Place cake into the fridge to chill for 30 minutes before serving."
+        ],
+        "healthiness_score": 32,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Espresso Bundt Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "3/4 cup water",
+            "3/4 cup unsweetened cocoa powder",
+            "2 1/2 tablespoons espresso powder",
+            "1 3/4 cups cake flour",
+            "1 teaspoon salt",
+            "3/4 teaspoon baking soda",
+            "3/4 teaspoon baking powder",
+            "1/2 cup unsalted butter",
+            "3 tablespoons vegetable oil",
+            "1 3/4 cups dark brown sugar",
+            "3 large eggs, at room temperature",
+            "1 tablespoon vanilla extract",
+            "3/4 cup sour cream, at room temperature"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 10-cup Bundt pan.",
+            "In a heat-safe bowl or measuring cup, combine boiling water, cocoa powder, and espresso powder. Whisk until smooth and combined. Allow mixture to cool slightly while you prepare the rest of the cake.",
+            "Sift together cake flour, salt, baking soda, and baking powder.",
+            "Beat butter, oil, and brown sugar in a large bowl with an electric mixer until light and fluffy, about 3 minutes. Add in eggs 1 at a time, beating well after each addition. Beat mixture for about 3 minutes on medium-high speed after adding in last egg. Mix in 1 tablespoon vanilla.",
+            "Whisk cocoa powder-espresso mixture again to smooth it out, then add to butter-sugar mixture. Beat on low speed until thoroughly combined. Add in half the flour mixture and mix until just combined. Add in sour cream and mix until just combined. Add in remaining flour mixture and mix until just combined.",
+            "Pour batter evenly into the prepared pan. Tap pan sharply on the counter a few times to pop any larger air bubbles.",
+            "Bake in the preheated oven until top of the cake springs back lightly when touched, 45 to 50 minutes. Allow cake to cool in pan for 30 minutes before inverting onto a serving platter to cool completely.",
+            "For icing, whisk espresso powder and milk together in a small bowl until espresso powder is dissolved. Beat in cream cheese, powdered sugar, salt, and vanilla with an electric mixer on low speed to combine, then turn mixer speed up to high; continue to beat until mixture is smooth and no clumps of cream cheese remain. If mixture is too thick, add milk, a little at a time, until icing is the desired consistency. If mixture is too thin, add more powdered sugar as needed. Drizzle icing over cooled cake."
+        ],
+        "healthiness_score": 34,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Espresso Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "2 cups sugar",
+            "1 3/4 cups flour",
+            "3/4 cups cocoa powder",
+            "2 tablespoons espresso powder",
+            "1 1/2 teaspoons baking powder",
+            "1 1/2 teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 large eggs",
+            "1 cup whole milk",
+            "1/2 cup oil",
+            "2 teaspoons vanilla extract",
+            "1 cup water"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray 2 9-inch pans with nonstick cooking spray. Set aside.",
+            "Sift sugar, flour, cocoa, espresso powder, baking powder, baking soda, and salt into a large bowl. Stir to combine. Add eggs, milk, oil and vanilla. Stir in boiling water. Divide batter evenly into prepared pans.",
+            "Bake until a toothpick inserted in the center comes out clean, for 30 to 37 minutes. Remove to cool on a wire rack."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Stout Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "2 cups dark chocolate chips (",
+            "1 ½ cups white sugar",
+            "1/4 cup water",
+            "3 tablespoons light corn syrup",
+            "1/4 teaspoon salt",
+            "1 ½ cups heavy cream",
+            "2 teaspoons vanilla extract",
+            "3 tablespoons Irish cream liqueur (",
+            "3 tablespoons unsalted butter"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "To make the frosting: Place dark chocolate chips in a large bowl; set aside.",
+            "Combine 1 ½ cups white sugar, water, and corn syrup in a light colored, tall-sided saucepan. Place pan over medium heat and cook until mixture begins to turn a deep amber color, swirling pan often to combine ingredients; about 15 minutes. Remove pan from heat and carefully pour in heavy cream (mixture will bubble up rapidly and then seize, this is ok). Place pan back over low heat and bring to a boil, stirring constantly. Allow mixture to boil for 5 minutes, stirring constantly, then immediately pour caramel over the chocolate chips. Allow mixture to stand for 1 minute.",
+            "Gently stir until chocolate is melted and smooth. Add in 2 teaspoons vanilla and Irish cream liqueur; mix until combined. Add in butter, one tablespoon at a time, making sure each addition is fully incorporated before adding the next, until all 3 tablespoons of butter are incorporated. Loosely cover bowl with a kitchen towel and set aside to cool to room temperature, stirring occasionally, about 4 to 6 hours.",
+            "Combine stout beer and 1 tablespoon dark brown sugar in a saucepan set over medium heat. Bring to a simmer, stirring occasionally, until mixture has reduced to 1 cup, about 8 to 10 minutes. Remove from heat and allow to cool to room temperature, about 20 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9-inch round cake pans.",
+            "Sift together flour, cocoa powder, baking powder, baking soda, and 3/4 teaspoon salt; set dry ingredients aside.",
+            "Beat 1/2 cup unsalted butter, vegetable oil, 1 cup dark brown sugar, and 1/2 cup white sugar together in a large bowl or the bowl of a stand mixer until light and fluffy, 3 to 4 minutes. Add in eggs 1 at a time, beating well after each addition, and scraping down the sides of the bowl as needed. Beat mixture on medium-high speed for 4 to 5 additional minutes after adding in the last egg. Mix in sour cream and 2 teaspoons vanilla extract.",
+            "Pour in half of dry ingredients and mix on low until just combined. Pour in cooled stout mixture and mix until just combined. Add in remaining dry ingredients and mix until just combined.",
+            "Divide batter evenly between the 2 prepared cake pans. Tap pans on the counter several times to remove any larger air bubbles.",
+            "Bake in the preheated oven and until the tops of the cakes spring back lightly when touched, 30 to 35 minutes. Allow cakes to cool in pans for 20 to 30 minutes before removing to a wire rack to cool completely, about 1 hour.",
+            "Once cakes and frosting are both cooled, place one cake layer on a serving platter. Top with about 1 cup frosting; spread it into an even layer. Top with remaining cake. Pour remaining frosting over the top of the cake and smooth over top and sides of cake until completely frosted on all sides."
+        ],
+        "healthiness_score": 16,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chocolate Snack Cake",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 cups sugar",
+            "1/2 cup cocoa",
+            "2 teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "2 cups water",
+            "1/2 cup butter, softened",
+            "2 large eggs, lightly beaten",
+            "2 teaspoons vanilla extract",
+            "1 cup chopped nuts (optional)",
+            "1/4 cup powdered sugar (optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C) and grease a 9x13-inch baking dish.",
+            "In a large mixing bowl, combine flour, sugar, cocoa, baking powder, baking soda, and salt. Stir to mix thoroughly.",
+            "Combine boiling water and butter in a bowl, and stir until the butter is melted. Allow about 5 minutes for the mixture to cool. While stirring briskly, slowly add eggs. When the egg and butter mixture is well blended, stir in vanilla.",
+            "Add the wet mixture to the dry mixture and beat about 2 minutes. Stir in nuts, if using.",
+            "Pour batter into the prepared pan, and bake in the center of the preheated oven until a wooden pick inserted in the middle of the cake comes out clean, 30 to 35 minutes.",
+            "Cool completely on a wire rack, about 15 minutes. When cool, place powdered sugar in a mesh sieve, or a sifter, and dust the cake with powdered sugar, if desired. Cut into squares and serve."
+        ],
+        "healthiness_score": 44,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Mini Dark Chocolate Cake with Brown Butter Frosting",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "cooking spray",
+            "1/4 cup flour, plus more for dusting cake pan",
+            "3 tablespoons unsweetened Dutch process cocoa powder",
+            "1/2 teaspoon baking powder",
+            "1/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "3 tablespoons buttermilk",
+            "3 tablespoons unsweetened applesauce",
+            "4 1/2 teaspoons canola oil",
+            "1 teaspoon",
+            "1/2 teaspoon vanilla extract",
+            "1 large egg",
+            "1/2 cup sugar",
+            "1 ounce dark chocolate, chopped, plus more for garnish"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat air fryer to 320 degrees F (160 degrees C). Coat a 6-inch cake pan with cooking spray. Line bottom of pan with parchment paper; dust with 2 tablespoons flour, tapping out excess.",
+            "Stir together 1/4 cup flour, the cocoa, baking powder, baking soda, and salt in a small bowl. In another small bowl, whisk together buttermilk, applesauce, oil, espresso powder, and vanilla.",
+            "In a third bowl, beat egg with an electric mixer at low speed. Gradually add sugar. Increase mixer speed to high and continue beating until mixture is thick and pale, about 2 minutes.",
+            "Alternately fold flour mixture and buttermilk mixture into egg mixture with a rubber spatula, stirring until incorporated before adding next addition. Fold in dark chocolate.",
+            "Pour batter into the prepared pan. Arrange pan in the air fryer basket.",
+            "Cook until a toothpick inserted in center comes out clean, about 25 minutes. Let cool in pan on a wire rack about 10 minutes. Remove cake from pan and allow to cool completely on a wire rack.",
+            "For the frosting, melt butter in a heavy saucepan over medium heat; cook, stirring occasionally, until butter begins to turn golden brown and smells nutty, 15 to 20 minutes. Transfer butter to a bowl; cool for 10 minutes.",
+            "Whisk in honey and vanilla. Whisk in powdered sugar until smooth, adding water, 1 teaspoon at a time, until desired consistency. The frosting will look separated but will come together with whisking in water a little at a time.",
+            "Immediately top cooled cake with the frosting and garnish with additional dark chocolate."
+        ],
+        "healthiness_score": 32,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Best Paleo Chocolate Cake with Paleo Chocolate Frosting",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "1 (14 ounce) can coconut cream",
+            "1 1/2 cups chocolate chips",
+            "pinch salt",
+            "spray",
+            "3/4 cup coconut oil,",
+            "1 3/4 cups coconut sugar",
+            "4 large eggs,",
+            "1 tablespoon vanilla extract",
+            "1 tablespoon apple cider vinegar",
+            "1 cup Unsweetened Vanilla Almondmilk",
+            "3 cups Almond Flour",
+            "3/4 cup unsweetened cocoa powder",
+            "1/4 cup coconut flour",
+            "2 teaspoons baking soda",
+            "1/2 teaspoon salt"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "First begin by making your frosting: Add coconut cream, chocolate chips, and a pinch of salt to a small pot and place over low heat. Whisk until melted. Transfer to a bowl, cover with plastic wrap and place in the refrigerator to harden for 6 hours or until hard. Overnight is best!",
+            "Preheat the oven to 350 degrees F (175 degrees C). Line the bottom of 3 round cake pans with parchment paper rounds. Spray parchment paper and side of pan with nonstick cooking spray (otherwise cake is likely to stick).",
+            "In a large bowl, mix together melted and cooled coconut oil, coconut sugar, eggs, vanilla, and apple cider vinegar with an electric mixer until smooth. Add Almond Breeze Unsweetened Vanilla Almondmilk and beat once more until mixture is well incorporated.",
+            "In a separate bowl, whisk Blue Diamond Almond Flour, cocoa powder, coconut flour, baking soda, and 1/2 teaspoon salt together. Add the dry ingredients to the wet ingredients and mix well. Mixture will be on the thicker side. Divide batter evenly between pans and spread out with a spatula to smooth the tops.",
+            "Bake in the preheated oven until a tester comes out clean or with just a few crumbs attached, rotating the pans halfway through baking, 20 to 30 minutes.",
+            "Let cake cool in the pan for 15 minutes then transfer to the fridge to finish cooling completely. Allow cake to cool in the fridge for at least 1 hour before removing from the pan and frosting. The cake should be room temperature when you frost it. This is very important. Cake can be made a day ahead if you'd like!",
+            "Finish making your frosting: Scoop the hardened chocolate coconut cream frosting mixture into a large bowl. Use a hand mixer or an electric mixer to beat frosting until peaks form and it looks nice, fluffy and creamy. Use immediately!",
+            "Layer cake, using about 1/3 to 1/2 cup frosting between each layer, then frost the top and sides with remaining frosting."
+        ],
+        "healthiness_score": 42,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Torta Caprese (Italian Flourless Chocolate Torte)",
+        "category": "Chocolate Cakes",
+        "ingredients": [
+            "6 ounces dark chocolate (70% cacao), chopped into small pieces",
+            "10 tablespoons unsalted butter, at room temperature",
+            "1 cup ground almond meal",
+            "2 tablespoons unsweetened cocoa powder",
+            "1 tablespoon coffee liqueur",
+            "½ teaspoon kosher salt",
+            "pinch of cayenne pepper (Optional)",
+            "4 large eggs, at room temperature",
+            "¾ cup white granulated sugar"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Generously grease an 8-inch cake pan with butter, and place a round piece of parchment paper in the bottom. Dust the inside and sides with cocoa powder and knock out excess. Set aside.",
+            "Place chocolate and butter in a mixing bowl, and place on top of a saucepan filled with 1 inch of water. Place on low heat until the butter and chocolate have melted.",
+            "Remove from heat, and stir together with a spatula. Stir in almond meal, cocoa powder, coffee liqueur, salt, and cayenne until fully combined. Set aside.",
+            "Combine eggs and sugar in a second bowl, and beat with an electric mixer, or whisk by hand until very thick and pale colored.",
+            "Pour chocolate mixture into the egg mixture; fold in gently with a spatula until just combined. Transfer batter into the prepared pan. Tap pan on the counter to settle the mixture.",
+            "Bake in the preheated oven until a wooden skewer inserted near the center comes out almost clean, 25 to 30 minutes.",
+            "Let cool for 30 minutes in the pan before turning out onto a plate. Let cool to room temperature, before wrapping and transferring into the fridge to chill before serving.",
+            "Before cutting, the top can be dusted with cocoa and/or powdered sugar if desired. Serve with unsweetened whipped cream and fresh raspberries."
+        ],
+        "healthiness_score": 46,
+        "health_level": "unhealthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

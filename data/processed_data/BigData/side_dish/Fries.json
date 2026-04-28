@@ -1,0 +1,540 @@
+[
+    {
+        "Main_category": "side_dish"
+    },
+    {
+        "recipe_title": "Loaded Waffle Fries",
+        "category": "Fries",
+        "ingredients": [
+            "1 tablespoon ketchup",
+            "1 tablespoon mayonnaise",
+            "1 teaspoon yellow mustard",
+            "1 teaspoon dill pickle relish",
+            "12 ounces waffle fries",
+            "2 slices thick cut bacon",
+            "8 ounces lean ground beef",
+            "1/2 teaspoon Seasoning)",
+            "1 cup shredded Cheddar cheese",
+            "1 cup shredded lettuce",
+            "1 Roma tomato, chopped",
+            "2 tablespoons red onion"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Whisk ketchup, mayonnaise, mustard, and dill pickle relish in a small bowl. Set sauce aside.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with foil, and arrange waffle fries on the sheet in a single layer.",
+            "Bake fries in the preheated oven until golden, about 20 minutes, or according to package directions.",
+            "Meanwhile, place bacon in a skillet over medium-high heat and cook until crisp, about 5 minutes. Transfer bacon to a paper towel-lined plate. Crumble when cool enough to handle.",
+            "Heat the same skillet over medium-high heat. Crumble beef into the skillet, sprinkle with Worcestershire pub burger seasoning, and cook and stir until browned, about 8 minutes. Drain in a colander.",
+            "Divide beef among the cooked fries and top with cheese. Return baking sheet to the oven and bake until cheese is melted, about 5 minutes.",
+            "Top fries with lettuce, tomato, onion, and bacon. Drizzle reserved sauce over the top and serve immediately."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Waffle Fries",
+        "category": "Fries",
+        "ingredients": [
+            "2 pounds russet potatoes, peeled",
+            "peanut or vegetable oil for frying",
+            "1/2 teaspoon salt"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat oven to 200 degrees F (400 degrees C). Set two wire racks atop paper towels.",
+            "Fill a large bowl with ice water. Using a mandoline with a waffle blade set to 1/4-inch, slice potatoes crosswise, then rotate 90° and make another slice for each waffle fry (you can also use a crinkle cutter using the same process).",
+            "Add cut waffle fries to the ice water as they are done.",
+            "In a large heavy saucepan, add 2 inches of oil. Clip a candy/oil thermometer to the side of the pan. Heat oil over medium heat to 310 degrees F (155 degrees C).",
+            "Drain waffle fries and blot dry with paper towels.",
+            "Working in batches, fry waffle fries 4 to 5 minutes. They should just cook through at this point, but not brown.",
+            "Remove from oil with a slotted spoon and place on wire racks.",
+            "Increase oil temperature to 375 degrees F (190 degrees C). Add waffle fries in batches and cook 1 to 2 minutes until golden brown.",
+            "Drain on paper towels, and sprinkle with salt. Transfer cooked fries to the oven to keep warm while frying remaining waffle fries.",
+            "Serve with Zippy Fry Sauce.",
+            "In a small bowl, whisk together mayonnaise, ketchup, pickle brine, and Sriracha."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Loaded Steak Fries",
+        "category": "Fries",
+        "ingredients": [
+            "1 cup light beer",
+            "1/3 cup orcestershire sauce",
+            "1/2 teaspoon red pepper flakes",
+            "1 teaspoon garlic",
+            "1 lime",
+            "1 pound sirloin filet steak",
+            "1 32 frozen French fries",
+            "cooking spray"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place beer, Worcestershire sauce, red pepper flakes, and garlic in a resealable plastic bag. Squeeze in lime juice. Add steak, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 2 hours, or overnight.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Spread fries onto a baking sheet and spray with cooking spray.",
+            "Bake in the preheated oven until crisp, 25 to 30 minutes, or per package instructions.",
+            "Meanwhile, make cheese sauce. Melt butter in a saucepan over medium heat; whisk in flour; whisk continuously until mixture turns golden and forms a smooth paste. Pour in half and half and stir until mixture thickens, 3 to 5 minutes. Stir in cheese until melted, 2 to 3 minutes more. Stir garlic powder, oregano, and dill into the sauce.",
+            "Meanwhile, preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove steak from the marinade and shake off excess. Discard remaining marinade. Cook steak on the preheated until firm and reddish-pink and juicy in the center, about 5 minutes per side for medium rare. An instant-read thermometer inserted into the center should read 130 degrees F (54 degrees C). Remove from the grill and let rest for 5 minutes before slicing.",
+            "Place French fries evenly on a platter; pour cheese sauce over fries. Top with sliced steak, tomato, red onions, and thinly sliced jalapenos. Serve immediately."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Cheesy Bacon Ranch French Fries",
+        "category": "Fries",
+        "ingredients": [
+            "4 cups frozen French fries",
+            "1/4 cup olive oil",
+            "2 tablespoons ranch salad dressing mix",
+            "2 teaspoons bacon bits",
+            "1 pinch salt",
+            "1/4 cup shredded Cheddar cheese"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat an air fryer to 400 degrees Fahrenheit (200 degrees C). Place frozen French fries in a large bowl.",
+            "Whisk olive oil and dry ranch salad mix in a separate small bowl until smooth. Pour olive oil mixture over the fries and toss to coat. Add bacon bits and salt. Toss again.",
+            "Place seasoned fries in the basket of the air fryer. Cook for 7 minutes. Shake the basket and cook 5 minutes more.",
+            "Sprinkle shredded cheese over the fries. Cook 2 minutes. Using a spatula, transfer to a serving platter and serve immediately."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Potato Wedges",
+        "category": "Fries",
+        "ingredients": [
+            "2 medium russet potatoes",
+            "1 ½ tablespoons olive oil",
+            "½ teaspoon ground paprika",
+            "½ teaspoon parsley flakes",
+            "½ teaspoon chili powder",
+            "½ teaspoon sea salt",
+            "⅛ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather the ingredients. Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Cut each potato in half lengthwise. Cut each half in half lengthwise, and then cut each quarter in half lengthwise. You will have 16 wedges. Gather the seasonings.",
+            "Place potato wedges in a large bowl. Add olive oil, paprika, parsley, chili, salt, and pepper; mix until well combined.",
+            "Place 1/2 of the potato wedges in the basket of the air fryer and cook for 10 minutes.",
+            "Flip wedges with tongs and cook for an additional 5 minutes. Remove to a plate. Repeat to cook the remaining wedges.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Oven-Fresh Seasoned Potato Wedges",
+        "category": "Fries",
+        "ingredients": [
+            "2 russet potatoes, scrubbed and cut into eighths",
+            "¼ cup grated Parmesan cheese",
+            "1 tablespoon olive oil",
+            "1 teaspoon onion powder",
+            "1 teaspoon garlic powder",
+            "¼ teaspoon salt",
+            "¼ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 425 degrees F (220 degrees C).",
+            "Place potatoes, Parmesan cheese, olive oil, onion powder, garlic powder, salt, and pepper into a resealable plastic bag. Seal the bag, then shake until potatoes are evenly coated with seasoning.",
+            "Spread potatoes on a baking sheet.",
+            "Bake in the preheated oven until potatoes are easily pierced with a fork, about 25 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's French Fries (How to Make)",
+        "category": "Fries",
+        "ingredients": [
+            "1 large russet potato, cut into evenly sized strips",
+            "vegetable oil for frying, about 2 cups or as needed",
+            "salt to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Soak potato strips in a large bowl of water for about 30 minutes.",
+            "Pat with paper towels until thoroughly dry.",
+            "Heat oil in a deep-fryer or large saucepan to 275 degrees F (135 degrees C). Gently add potatoes to the hot oil and fry for about 5 minutes, stirring and flipping the potatoes occasionally.",
+            "Use a slotted spoon to transfer potatoes to a paper towel-lined plate. Let cool completely.",
+            "Heat oil again, but this time to 350 degrees F (175 degrees C). Add potatoes and fry a second time until golden brown, 5 to 6 minutes.",
+            "Remove from the deep-fryer and blot with a paper towel. Sprinkle with salt to serve.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Sweet Potato Fries",
+        "category": "Fries",
+        "ingredients": [
+            "1 medium sweet potato, peeled",
+            "1 tablespoon canola oil",
+            "½ teaspoon kosher salt",
+            "¼ teaspoon pepper",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon ground sweet paprika"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the air fryer to 400 degrees F (200 degrees C).",
+            "Cut sweet potato into 1/2-inch wide fries. Place in a bowl with canola oil; toss to coat. Season with salt, pepper, garlic powder, and paprika; mix until all fries are evenly coated.",
+            "Working in batches if necessary, place an even layer of fries in the air fryer basket.",
+            "Cook in the preheated air fryer until golden, about 10 minutes. Repeat to cook remaining fries.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Crispy Seasoned French Fries",
+        "category": "Fries",
+        "ingredients": [
+            "2 ½ pounds russet potatoes, peeled",
+            "1 cup vegetable oil for frying",
+            "1 cup all-purpose flour",
+            "1 teaspoon garlic salt",
+            "1 teaspoon onion salt",
+            "1 teaspoon paprika",
+            "1 teaspoon salt",
+            "½ cup water, or as needed"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Slice potatoes into French fries and place them into a large bowl of cold water to prevent them from turning brown.",
+            "Heat oil in a heavy saucepan or large skillet to 350 degrees F (175 degrees C).",
+            "While the oil is heating, sift flour, garlic salt, onion salt, paprika, and salt into a large bowl. Gradually stir in enough water to make a slightly thick batter that can be drizzled from a spoon.",
+            "Drain fries and pat dry; dip into the batter one at a time.",
+            "Lower fries carefully into the hot oil in batches to prevent them from clumping together. Fry until golden brown and crispy on all sides, about 7 to 10 minutes.",
+            "Drain fries on a paper towel-lined plate.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer French Fries",
+        "category": "Fries",
+        "ingredients": [
+            "1 pound russet potatoes, peeled",
+            "2 teaspoons vegetable oil",
+            "1 pinch cayenne pepper",
+            "½ teaspoon kosher salt"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Cut each potato lengthwise into 3/8-inch-thick slices, then slice sections into 3/8-inch-wide sticks. Place potatoes in a bowl of cold water. Let soak to release excess starches, about 5 minutes; drain.",
+            "Pour boiling water over the potatoes until they're covered by a few inches. Let sit for 10 minutes. Drain potatoes and transfer onto some paper towels. Blot off excess water and let cool completely, at least 10 minutes.",
+            "Place cooled potatoes in a mixing bowl. Drizzle with oil and season with cayenne; toss to coat.",
+            "Preheat an air fryer to 375 degrees F (190 degrees C).",
+            "Stack potatoes in a double layer in the fryer basket.",
+            "Cook for 15 minutes. Slide basket out and toss fries. Continue frying until golden brown, about 10 minutes more. Toss fries with salt in a mixing bowl. Serve immediately."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "French Fried Potatoes",
+        "category": "Fries",
+        "ingredients": [
+            "2 cups warm water",
+            "⅓ cup white sugar",
+            "2 large russet potatoes - peeled, and sliced into 1/4 inch strips",
+            "6 cups vegetable oil for frying",
+            "salt to taste"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Stir together warm water and sugar in a medium bowl. Soak potatoes in water mixture for 15 minutes.",
+            "Remove potatoes from water and dry thoroughly on paper towels. Heat oil in a deep-fryer to 375 degrees F (190 degrees C).",
+            "Cook potatoes in hot oil until golden, 5 to 6 minutes. Drain on paper towels and season with salt."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked French Fries",
+        "category": "Fries",
+        "ingredients": [
+            "1 large baking potato",
+            "1 tablespoon olive oil",
+            "½ teaspoon paprika",
+            "½ teaspoon garlic powder",
+            "½ teaspoon chili powder",
+            "½ teaspoon onion powder"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 450 degrees F (230 degrees C).",
+            "Cut potato into thick wedges.",
+            "Mix olive oil, paprika, garlic powder, chili powder, and onion powder together in a medium bowl. Add potato wedges and toss to coat evenly; arrange on a baking sheet.",
+            "Bake in the preheated oven, turning once or twice, until golden brown and crispy, about 45 minutes.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Baked Sweet Potato Fries",
+        "category": "Fries",
+        "ingredients": [
+            "2 large sweet potatoes",
+            "3 tablespoons soybean oil (often labeled \"vegetable oil\")",
+            "½ teaspoon sea salt",
+            "½ teaspoon freshly ground black pepper",
+            "¼ teaspoon garlic powder",
+            "¼ teaspoon paprika"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 425 degrees F (220 degrees C). Position rack in upper third of the oven. Grease a baking sheet.",
+            "Peel sweet potatoes and cut into 1x3-inch wedges. Place wedges and soybean oil in a large bowl; toss lightly. Sprinkle with salt, pepper, garlic powder, and paprika.",
+            "Arrange potatoes in a single layer on the prepared baking sheet, being sure not to overcrowd. Bake, turning occasionally, until tender and golden brown, 18 to 24 minutes. Cool 5 minutes before serving."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Truffle Polenta Fries",
+        "category": "Fries",
+        "ingredients": [
+            "1 (18 ounce) tube polenta",
+            "1 1/2 tablespoons black truffle-infused olive oil",
+            "1 1/2 teaspoon truffle zest seasoning",
+            "2 tablespoons shredded Parmesan cheese",
+            "2 teaspoons fresh parsley"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions. Line a baking sheet with paper towels; set aside.",
+            "Cut the tube of polenta in half widthwise. Cut each half in half lengthwise and then cut into 1/2-inch wide fry-shaped sticks.",
+            "Whisk truffle-infused olive oil and truffle zest in a bowl. Add fries and gently toss to coat.",
+            "Place fries in the basket of the air fryer in a single layer. Depending on the size of your air fryer, fries may need to be cooked in batches.",
+            "Cook for 10 minutes. Shake the basket and cook 5 minutes more. Using tongs, transfer fries to the prepared baking sheet. Garnish with Parmesan and chopped parsley."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Baked French Fries",
+        "category": "Fries",
+        "ingredients": [
+            "cooking spray",
+            "6 Yukon Gold potatoes, cut into thick fries",
+            "1 tablespoon white sugar",
+            "¼ cup extra-virgin olive oil",
+            "1 teaspoon garlic powder, or more to taste",
+            "1 teaspoon salt, or more to taste",
+            "1 teaspoon ground black pepper, or more to taste"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with aluminum foil; spray with cooking spray.",
+            "Place sliced potatoes in a colander; sprinkle sugar over potatoes. Set aside until liquid is released from potatoes, 20 to 30 minutes. Drain liquid and dry potatoes well.",
+            "Mix potato slices, olive oil, garlic powder, salt, and black pepper in a resealable plastic bag until evenly coated. Spread coated potato slices in a single layer, leaving space around each potato, on the prepared baking sheet.",
+            "Bake in the preheated oven for 20 minutes; flip fries and continue baking until crisp and browned, about 20 more minutes."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Salt and Pepper Skillet Fries",
+        "category": "Fries",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 teaspoon butter",
+            "3 large potatoes, sliced lengthwise into 1/2-inch circles and cut into 1/2-inch strips",
+            "¼ teaspoon coarse sea salt",
+            "¼ teaspoon cracked black pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Heat olive oil and butter in a skillet over medium heat.",
+            "Cook and stir potato strips in hot oil mixture until browned on all sides, 20 to 25 minutes.",
+            "Transfer fries to a paper towel-lined plate; season with sea salt and cracked black pepper."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Fried Potato Wedges",
+        "category": "Fries",
+        "ingredients": [
+            "4 cups vegetable oil for frying",
+            "5 small russet potatoes",
+            "1 cup all-purpose flour",
+            "2 teaspoons chili powder",
+            "2 teaspoons chicken bouillon granules",
+            "2 teaspoons paprika",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon ground cayenne pepper",
+            "1 cup milk"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Slice potatoes into 16 wedges.",
+            "Combine flour, chili powder, chicken bouillon, paprika, black pepper, and cayenne in a 1-gallon resealable plastic bag.",
+            "Dip potato wedges in milk, then shake them in the flour mixture. Fry in the hot oil until golden brown, 5 to 6 minutes per batch. Let drain on paper towels."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Oven-Baked Garlic and Parmesan Fries",
+        "category": "Fries",
+        "ingredients": [
+            "4 large unpeeled russet potatoes, cut into 1/4-inch strips",
+            "¼ cup olive oil",
+            "3 cloves garlic, minced",
+            "½ teaspoon ground dried thyme",
+            "½ teaspoon seasoned salt, divided (Optional)",
+            "¾ cup grated Parmesan cheese, divided",
+            "¼ cup chopped fresh parsley"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Place potatoes in a large bowl and drizzle with olive oil. Season with garlic, thyme, and 1/4 teaspoon seasoned salt; toss until are evenly coated. Lift fries out of the bowl and spread evenly onto a nonstick baking sheet. Save remaining oil in the bowl.",
+            "Bake in the preheated oven for 30 minutes, flipping fries halfway. Return fries to the bowl with olive oil. Sprinkle with 1/2 cup Parmesan cheese and parsley; toss to coat. Spread again onto the baking sheet.",
+            "Continue baking until cheese melts, about 10 minutes. Sprinkle with remaining 1/4 cup Parmesan cheese and 1/4 teaspoon seasoned salt to serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Yuca French Fries",
+        "category": "Fries",
+        "ingredients": [
+            "2 pounds yuca, peeled, and cut into 4-inch sections",
+            "2 quarts vegetable oil for frying",
+            "salt to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Place yuca into a large pot; add water to cover. Bring to a boil, then reduce heat to medium-low. Cover and simmer until yuca can be pierced easily with a fork, 20 to 30 minutes. Drain and allow to steam for several minutes until cool enough to handle.",
+            "Cut yuca into French fry-sized sticks, discarding fibrous core.",
+            "Heat oil in a deep fryer to 375 degrees F (190 degrees C).",
+            "Working in batches, fry yuca in hot oil until golden brown and crispy, about 5 minutes. Remove with a slotted spoon and drain in a paper towel-lined bowl.",
+            "Season with salt and serve hot."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Cottage Fries",
+        "category": "Fries",
+        "ingredients": [
+            "4 baking (russet) potatoes, sliced into 3/8-inch thick rounds",
+            "salt and freshly ground black pepper to taste",
+            "1 pinch cayenne pepper, or to taste",
+            "1 pinch herbes de provence, or to taste",
+            "2 tablespoons olive oil"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper or a silicone baking mat.",
+            "Combine potatoes, salt, black pepper, cayenne pepper, and herbes de Provence in a large bowl. Drizzle with olive oil; stir to coat. Arrange potatoes, evenly spaced, onto the prepared baking sheet.",
+            "Bake in the preheated oven for 15 minutes. Flip over each potato slice, then bake for 15 minutes more.",
+            "Continue baking and flipping until potatoes are well browned, about 30 minutes. Potatoes should be crispy around the edges but soft in the center."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    }
+]

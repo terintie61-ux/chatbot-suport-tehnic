@@ -1,0 +1,638 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Classic Spicy Southern Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 whole chicken",
+            "2 cups buttermilk",
+            "3 large eggs",
+            "7 dashes hot sauce",
+            "2 tablespoons kosher salt",
+            "2 tablespoons ground black pepper, divided",
+            "2 cups all-purpose flour",
+            "1 tablespoon onion powder",
+            "1 teaspoon garlic powder",
+            "1 teaspoon paprika",
+            "1 teaspoon dried oregano",
+            "1 teaspoon cayenne pepper",
+            "1 quart vegetable oil"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Combine chicken, buttermilk, eggs, hot sauce, 1 tablespoon salt, and 1 tablespoon black pepper in a large bowl. Stir until coated. Cover and refrigerate for at least 20 minutes or up to overnight,",
+            "Combine flour, remaining 1 teaspoons salt, remaining 1 tablespoon black pepper, onion powder, garlic powder, paprika, oregano, and cayenne in a large bowl; whisk until well combined. Set a wire rack over a rimmed baking sheet.",
+            "Remove chicken from the refrigerator. Working with one piece at a time, remove from the marinade and allow excess to drip off into flour dredge. Drop chicken into flour dredge. Coat evenly in the flour mixture, pressing dredge onto chicken. Set pieces on the prepared wire rack. When all pieces are coated, dredge and press each piece a second time; return chicken to the wire rack.",
+            "Pour oil into a large Dutch oven to a depth of 1 inch. Heat over medium-high heat until it reaches 350 degrees F (175 degrees C). Place a clean wire rack over a paper towel-lined baking sheet.",
+            "Add a few chicken pieces to the hot oil and cook, turning once or twice, until golden brown on the outside, no longer pink at the bone, and the juices run clear, 10 to 15 minutes. An instant read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Maintain the oil temperature around 320 degrees F (160 degrees C) during cooking. Remove chicken to the prepared clean wire rack. Return oil to 350 degrees F (175 degrees C) and repeat to fry remaining chicken. Serve immediately."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Fried Bacon",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "4 cups peanut oil",
+            "1 pound thick-cut bacon",
+            "1 tablespoon multi-purpose seasoning blend",
+            "2 cups flour",
+            "2 teaspoons kosher salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon paprika",
+            "2 large eggs",
+            "1/4 cup beer or water",
+            "2 teaspoons maple syrup",
+            "2 tablespoons ranch dressing"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Line a rimmed baking sheet with paper towels and set a wire rack inside.",
+            "Heat oil in a large deep skillet or Dutch oven over medium heat to 350 degrees F (175 degrees C). Meanwhile, cut bacon in half crosswise and season evenly on both sides with multi-purpose seasoning.",
+            "Whisk together flour, salt, pepper, and paprika in a shallow bowl. Alternatively, season flour with additional multi-purpose seasoning blend. Whisk eggs, beer, and syrup together in a separate shallow bowl.",
+            "Coat each piece of bacon lightly in seasoned flour. Then coat in egg mixture, allowing the excess to drip off. Coat once more in flour mixture; set aside until all pieces are coated and oil is hot.",
+            "Working a few pieces at a time, fry each piece in hot oil, flipping occasionally, until crispy golden brown, 4 to 5 minutes. Maintain the oil temperature between 330 and 350 degrees F (165 to 175 degrees C) while cooking. Drain bacon on the prepared wire rack. Repeat with remaining bacon.",
+            "Serve with ranch dressing for dipping."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Caesar Chicken Cutlets",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 cup seasoned croutons",
+            "1/2 cup seasoned breadcrumbs",
+            "1/2 cup Parmesan cheese,",
+            "2 teaspoons lemon pepper seasoning",
+            "2 teaspoons dried oregano",
+            "1 teaspoon ground mustard",
+            "3/4 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/4 teaspoon cayenne pepper",
+            "1 cup Caesar dressing",
+            "1 cup whole milk",
+            "cooking spray",
+            "6 4ounce) chicken breasts cutlets"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Process croutons in a food processor until finely crumbled, about 8 pulses.",
+            "Prepare dredging station. Stir together croutons, breadcrumbs, Parmesan cheese, lemon pepper, oregano, mustard, garlic powder, onion powder, and cayenne in a shallow bowl. Whisk together Caesar dressing and milk until smooth in a separate shallow bowl. Set aside.",
+            "Preheat the air fryer to 390 degrees F for 2 minutes (200 degrees C). Lightly coat the air fryer basket with cooking spray.",
+            "Working with 1 cutlet at a time, fully submerge each cutlet into dressing mixture, shaking off excess. Dredge cutlets in crouton mixture, pressing firmly until evenly coated on both sides. Place on a plate in an even layer.",
+            "Working in batches, add 2 cutlets to basket in one even layer, and cook until golden brown and cooked through, 10 to 12 minutes, flipping halfway through.",
+            "Transfer to a serving platter, and repeat with remaining cutlets. Serve with additional Parmesan cheese and dressing."
+        ],
+        "healthiness_score": 86,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Flamin' Hot Cheetos Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "6 cups CHEETOS",
+            "1 teaspoon cayenne pepper",
+            "1/2 teaspoon salt",
+            "1 pound chicken breast tenderloins (about 8 pieces)",
+            "1/4 cup mayonnaise",
+            "2 tablespoons vegetable oil"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Place Cheetos in a blender and pulse until fine crumbs. Pour crumbs into a 1-gallon resealable plastic bag. Add cayenne and salt. Seal the bag and shake to combine.",
+            "Place chicken tenders in a 1-quart resealable plastic bag. Add mayonnaise. Seal the bag and massage chicken in mayonnaise until evenly coated.",
+            "Transfer 2 chicken tenders from their bag to the bag with Cheeto crumbs. Seal the bag and shake until evenly coated. Place tenders on a plate. Repeat with remaining tenders.",
+            "Heat oil in a skillet over medium high heat. Add breaded chicken tenders in a single layer and cook for 6 minutes. Using a spatula, flip tenders over and cook until tenders are no longer pink in the center and the juices run clear, about 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Dooky Chase-Style Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "4 teaspoons salt",
+            "2 teaspoons ground black pepper",
+            "1 teaspoon garlic powder",
+            "1/2 teaspoon cayenne pepper",
+            "3 large eggs",
+            "1/4 cup water",
+            "1 (4 pound) whole chicken",
+            "2 quarts vegetable oil for frying"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Mix together 4 teaspoons salt, black pepper, garlic powder, and cayenne in a small bowl; set aside.",
+            "Whisk eggs, water, and 2 tablespoons of spice mix thoroughly together in a mixing bowl large enough to hold all chicken pieces.",
+            "Cut whole chicken into serving-size pieces, ending up with 2 breast halves, 2 thighs, 2 drumsticks, and 2 wings. Alternately, you can use 4 pounds of bone-in, skin-on pre-cut chicken pieces.",
+            "Add chicken pieces to the egg marinade and toss thoroughly until evenly coated. Press and compact chicken pieces down into the bowl so they are covered with marinade.",
+            "Cover with plastic, and marinate in the refrigerator for 12 to 24 hours. Toss chicken pieces several times during the marinating process.",
+            "Mix flour and the 1 teaspoon salt together in a shallow pan.",
+            "Preheat vegetable oil for deep frying to 350 degrees F (180 degrees C).",
+            "When ready to fry, use tongs to pull chicken out of marinade, letting excess marinade drip off. Coat thoroughly with seasoned flour, and shake off excess. Carefully place in the hot oil.",
+            "If your fryer is large enough to accommodate the whole chicken, add breast pieces first, and fry for 3 to 4 minutes before adding thighs, legs, and wings. Once all the chicken is in the oil, fry for 15 to 18 minutes, or until chicken is no longer pink at the center and juices run clear. An instant-read thermometer inserted near the center should read at least 165 degrees F (74 degrees C).",
+            "Transfer chicken to a rack to drain, and let cool 5 minutes before serving."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Alligator Nuggets",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "4 cups vegetable oil",
+            "ounces seasoned crispy fish fry seafood breading mix (Louisiana® brand)",
+            "1 pound Louisiana alligator prime filet,"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+            "Pour fish fry mix into a 1-gallon resealable plastic bag. Add alligator nuggets, reseal the bag, and shake to coat. Let stand for 5 minutes. Shake the bag again.",
+            "Place half of seasoned alligator nuggets in the deep fryer. Cook until golden brown and nuggets float to the top of the oil, about 3 minutes. An instant-read thermometer inserted in the center should read at least 160 degrees F (70 degrees C). Using tongs, transfer nuggets to a paper-towel lined plate.",
+            "Repeat Step 3 with remaining nuggets. Serve immediately."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Buttermilk Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 (3 1/2) pound chicken, cut into 8 pieces",
+            "1 teaspoon black pepper",
+            "1 teaspoon salt",
+            "1 teaspoon paprika",
+            "½ teaspoon white pepper",
+            "¼ teaspoon dried rosemary",
+            "¼ teaspoon ground thyme",
+            "¼ teaspoon dried oregano",
+            "¼ teaspoon dried sage",
+            "¼ teaspoon cayenne pepper",
+            "2 cups buttermilk"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Toss chicken pieces, black pepper, salt, paprika, white pepper, rosemary, thyme, oregano, sage, and cayenne together in a large bowl.",
+            "Stir in buttermilk until chicken is evenly coated. Cover and refrigerate for 6 hours.",
+            "Combine flour, salt, paprika, cayenne, garlic powder, white pepper, and onion powder in a large shallow dish.",
+            "Remove chicken from buttermilk and dredge each piece in seasoned flour; shake off any excess and transfer to a plate.",
+            "Heat peanut oil in a large Dutch oven to 350 degrees F (175 degrees C).",
+            "Add chicken pieces to the hot oil and fry for 10 minutes. Turn chicken pieces and fry for another 10 to 15 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Transfer fried chicken to a cooling rack set over a paper towel-lined baking sheet. Let sit for 10 minutes before serving.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Bang Bang Chicken Sliders",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 1/2 pounds chicken breas",
+            "1 large egg",
+            "1/4 cup water",
+            "1 cup all-purpose flour",
+            "1 teaspoon garlic powder",
+            "1 teaspoon cayenne pepper",
+            "1 teaspoon ground coriander",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "2 cups panko bread crumbs",
+            "1 cup avocado oil or other vegetable oil, or more as needed for frying"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients. Line a baking sheet with parchment and set aside.",
+            "Cut flattened chicken into about 12 pieces.",
+            "Combine egg and water in a shallow bowl. Combine flour, garlic powder, cayenne, coriander, salt, and black pepper in another shallow bowl; mix lightly. Add panko to a third shallow bowl.",
+            "Dip each chicken piece into egg wash, then into flour mixture. Dip again into egg wash, then into panko. Once thoroughly coated, place on the prepared baking sheet. Place the pan in the refrigerator to chill.",
+            "Meanwhile, for bang bang sauce, stir mayonnaise, sweet chili sauce, hot sauce, and rice vinegar together in a small bowl. Pour into a squirt bottle if desired. Set aside.",
+            "Heat oil in a cast iron skillet over medium heat. Cover a large platter or plate with paper towels and set near the stove. Remove chicken from the refrigerator and carefully add to the oil, 1 piece at a time.",
+            "Fry one side until golden brown, about 3 minutes, then turn. Fry an additional 3 minutes until chicken is no longer pink at the center and juices run clear. An instant read thermometer inserted near the center of chicken should read 165 degrees F (74 degrees C). Remove to the prepared plate and repeat with remaining chicken.",
+            "For sliders, cut rolls in half horizontally and lightly toast. Squeeze or spread some bang bang sauce on the bottom half, then lay down 2 lettuce leaves. Top with 1 piece of chicken. Layer on some more bang bang sauce and top with other half of roll. Enjoy!"
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Roscoe's Korean Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "12 wingette or drummette chicken wings",
+            "6 chicken legs",
+            "2 tablespoons ginger",
+            "2 tablespoons garlic",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon ground black pepper",
+            "1 cup water"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place a wire rack inside a rimmed baking sheet. In a large bowl toss chicken wings, chicken legs, ginger, garlic, salt, pepper, and water together. Mix well.",
+            "In another bowl combine flour, potato starch, cornstarch, and EverCrisp in a large mixing bowl. Whisk ingredients until fully mixed. Season with salt and pepper.",
+            "Add 1 cup of flour mixture to the bowl with chicken. Mix into chicken and water to make a very thin batter.",
+            "Add chicken to the flour bowl and toss and press until completely dredged in mixture. Place on the prepared wire rack until ready to fry.",
+            "Heat oil in a deep fryer or large saucepan to 325 degrees F (165 degrees C). Line a second rimmed baking sheet with paper towels, and place a clean wire rack on top.",
+            "Add chicken pieces to the hot oil about 5 pieces at a time so as not to drop the temperature of the oil. Fry for 6 minutes. Transfer chicken to the rack over the paper towel-lined baking sheet tray. Continue with remaining chicken pieces.",
+            "Increase oil temperature to 350 degrees F (175 degrees C) until continuously boiling. Carefully add the first batch of cooked chicken and fry again until cooked through and crispy, about 5 minutes more. Transfer to a plate lined with paper towels to drain. Repeat with the second batch of chicken pieces.",
+            "Transfer chicken to a medium-sized serving bowl. Heat a small saucepan over medium-low heat. Add sesame oil, grated garlic, grated ginger, brown sugar, gochujang paste, vinegar, and 1/2 cup water. Cook and stir continuously until sugar has melted and sauce is smooth, about 5 minutes. Drizzle sauce over twice-fried chicken pieces, garnish with sesame seed and peanuts, and serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Honey Garlic Chicken Wings",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 tablespoon baking powder",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon paprika",
+            "1/4 teaspoon cayenne pepper",
+            "2 pounds chicken wings",
+            "1/2 cup honey",
+            "1/4 cup soy sauce",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger root",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "2 tablespoons green onions"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the air fryer to 400 degrees F (200 degrees C).",
+            "Mix baking powder, salt, black pepper, garlic powder, paprika, and cayenne pepper together in a small bowl.",
+            "Pat chicken wings dry with paper towels, then toss them in spice mixture until evenly coated. Arrange wings in a single layer in the air fryer basket.",
+            "Cook wings in the preheated air fryer until crispy and golden brown, juices are clear, and meat is no longer pink at the bone, 20 to 25 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Meanwhile, make the honey garlic sauce. Stir honey, soy sauce, garlic, and ginger together in a small saucepan over medium heat.",
+            "In a separate small bowl, whisk together cornstarch and water until smooth, then add to the saucepan. Cook until sauce thickens, 1 to 2 minutes.",
+            "Transfer wings to a large bowl, pour honey garlic sauce over wings, and toss to coat evenly. Garnish with chopped green onions and serve hot."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Triple-Dipped Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 quart vegetable oil for frying",
+            "4 ⅓ cups all-purpose flour, divided",
+            "1 ½ tablespoons garlic salt",
+            "1 tablespoon ground black pepper",
+            "1 tablespoon paprika",
+            "½ teaspoon poultry seasoning",
+            "1 ½ cups beer, or as needed",
+            "2 egg yolks, beaten",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "1 (3 pound) whole chicken, cut into pieces"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a deep fryer to 350 degrees F (175 degrees C). Mix 3 cups flour, garlic salt, 1 tablespoon pepper, paprika, and poultry seasoning together in a medium bowl.",
+            "Stir 1 1/2 cups beer, remaining 1 1/3 cups flour, egg yolks, salt, and 1/4 teaspoon pepper together in a separate bowl; thin with more beer if batter is too thick.",
+            "Moisten chicken pieces with a little water, then dip in seasoned flour mixture. Shake off excess and dip in beer batter, then dip in the seasoned flour mixture once more.",
+            "Lower chicken pieces carefully into the hot oil in batches. Fry until crispy and well-browned, about 15 to 18 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+            "Transfer to a paper towel-lined plate to drain. Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Tender Pan-Fried Chicken Breasts",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "2 cups flour",
+            "2 tablespoons salt",
+            "2 tablespoons ground black pepper",
+            "1 tablespoon dried tarragon",
+            "1 tablespoon ground ginger",
+            "1 tablespoon dry mustard powder",
+            "1 tablespoon dried thyme leaves",
+            "1 teaspoon garlic powder",
+            "1 teaspoon dried oregano",
+            "1 egg",
+            "¼ cup milk",
+            "8 (6 ounce) skinless, boneless chicken breast halves",
+            "½ cup vegetable oil"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Line 2 baking trays with aluminum foil; set aside.",
+            "Stir together flour, salt, pepper, tarragon, ginger, mustard powder, thyme, garlic powder, and oregano in a shallow bowl until well-blended. Beat together egg and milk in a separate bowl until smooth.",
+            "Dredge chicken breasts in flour mixture, shake off excess, then dip in egg, and again in flour. Place coated chicken breasts on one of the prepared baking trays; set aside to rest for 10 minutes.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Dredge chicken breasts in flour once more; shake off excess.",
+            "Heat vegetable oil in a skillet over medium-high heat. Cook chicken breasts in hot oil until golden brown, 2 to 3 minutes per side. Place fried chicken breasts on the second prepared baking tray.",
+            "Bake in the preheated oven until no longer pink in the center and the juices run clear, about 20 to 30 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Southern Fried Chicken Livers",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 pound chicken livers",
+            "1 egg",
+            "½ cup milk",
+            "1 cup all-purpose flour",
+            "1 tablespoon garlic powder",
+            "salt and pepper to taste",
+            "1 quart vegetable oil for frying"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Place chicken livers in a colander; rinse with cold water and drain well. Blot dry with paper towels.",
+            "Whisk egg and milk together in a shallow dish until blended.",
+            "Place flour, garlic powder, salt, and pepper into a zip-top bag; shake to combine. Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C).",
+            "Dip chicken livers in egg mixture to coat, then transfer, one at a time, into flour mixture, shaking the bag to coat completely.",
+            "Gently place coated livers, a few at a time, into hot oil; cover with a splatter screen and cook until crisp and golden brown, 5 to 6 minutes.",
+            "Serve with your choice of dip. Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Nashville Hot Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 whole chicken, cut into 8 pieces"
+        ],
+        "num_ingredients": 1,
+        "directions": [
+            "Arrange chicken pieces in a large bowl.",
+            "Whisk buttermilk, pickle brine, hot sauce, and egg together in a mixing bowl. Pour marinade over chicken and stir to ensure each piece is thoroughly coated. Cover and let chicken marinate in refrigerator 2 to 4 hours.",
+            "Mix flour and salt together in a shallow flat dish. Remove chicken from marinade and blot with paper towels. Reserve marinade. Toss chicken in flour until thoroughly coated. Return chicken to marinade, coating all sides; remove chicken from marinade allowing excess to drip back into the bowl. Coat the chicken once again in flour mixture. Place on a rack. Repeat with all chicken pieces. Allow to sit out about 15 minutes to allow coating to dry out a bit.",
+            "Place butter and lard in a large pot. Add cayenne pepper, brown sugar, paprika, garlic powder, kosher salt, and black pepper. Place over medium-high heat. Cook and stir until fats melt. Remove from heat; keep sauce warm.",
+            "Fill cast iron skillet about 1/3 of the way with vegetable oil. Heat oil to 350 degrees F over medium-high heat. Carefully place chicken into hot oil, skin side down. Maintain an oil temperature of 325 degrees F, adjusting heat as need. Fry until instant read thermometer reads 160 degrees F, 8 to 10 minutes per side.",
+            "Transfer chicken to a rack to drain. Brush with the sauce on both sides.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 (4 pound) chicken, cut into pieces",
+            "1 cup buttermilk",
+            "2 cups all-purpose flour for coating",
+            "1 teaspoon paprika",
+            "salt and pepper to taste",
+            "2 quarts vegetable oil for frying"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Take your cut up chicken pieces and skin them if you prefer.",
+            "Place flour in a large plastic bag (let the amount of chicken you are cooking dictate the amount of flour you use). Season flour with paprika (which helps to brown the chicken), salt and pepper.",
+            "Dip chicken pieces in buttermilk then, a few at a time, transfer them into the bag with flour; seal the bag and shake to coat well.",
+            "Place the coated chicken on a cookie sheet or tray, and cover with a clean dish towel or waxed paper. LET SIT UNTIL THE FLOUR IS OF A PASTE-LIKE CONSISTENCY. THIS IS CRUCIAL!",
+            "Fill a large skillet (cast iron is best) about 1/3 to 1/2 full with vegetable oil. Heat until VERY hot.",
+            "Put in as many chicken pieces as the skillet can hold. Brown the chicken in HOT oil on both sides.",
+            "When browned, reduce heat and cover skillet; let cook for 30 minutes (the chicken will be cooked through but not crispy). Remove cover, raise heat again, and continue to fry until crispy.",
+            "Drain fried chicken on paper towels. Depending on how much chicken you have, you may have to fry in a few shifts. Keep the finished chicken in a slightly warm oven while preparing the rest."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Oven-Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "12 chicken thighs, patted dry",
+            "1 cup all-purpose flour",
+            "salt and pepper to taste",
+            "1 cup Italian seasoned bread crumbs",
+            "3 eggs",
+            "½ cup vegetable oil",
+            "1 teaspoon paprika"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Place flour in a shallow plate or bowl and season with salt and pepper to taste. Put bread crumbs in another shallow plate or bowl and beat eggs in another bowl.",
+            "Dredge chicken piece by piece in the flour, then the egg, then the bread crumbs, until all pieces are coated.",
+            "Pour oil into a large baking dish; add the breaded chicken thighs and sprinkle with paprika to taste.",
+            "Bake in the preheated oven for 30 minutes, then turn pieces over and bake for another 30 minutes. Remove from the oven and drain on paper towels.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Panko Chicken Breasts",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 pound boneless skinless chicken breasts",
+            "1 egg",
+            "1 cup panko crumbs",
+            "½ teaspoon Spice Islands® Garlic Powder",
+            "½ teaspoon Spice Islands® Onion Powder",
+            "½ teaspoon Spice Islands® Fine Grind Sea Salt",
+            "¼ teaspoon Spice Islands® Fine Grind Black Pepper",
+            "¼ cup Mazola® Corn Oil"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Pound chicken breasts, one at a time, in a resealable plastic bag until about 1/2-inch thick.",
+            "Lightly beat egg in a shallow bowl. Combine panko crumbs, garlic powder, onion powder, salt, and pepper in a separate shallow bowl.",
+            "Dip chicken breasts in egg until coated, then dip in panko mixture, pressing chicken into the crumbs until fully coated. Arrange in a single layer on a plate.",
+            "Heat oil in a large skillet over medium-high heat. Add chicken and cook until golden brown and cooked through, about 2 to 3 minutes per side."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fried Chicken Tenders",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "2 large eggs, beaten",
+            "2 tablespoons water",
+            "2 cups Italian-style seasoned bread crumbs",
+            "½ teaspoon ground black pepper",
+            "½ teaspoon cayenne pepper",
+            "24 chicken tenderloins",
+            "2 quarts oil for frying"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Prepare the breading station: Place flour in a shallow bowl. Place eggs and water in a second shallow bowl. Place bread crumbs in a third shallow bowl, and mix in ground black pepper and cayenne pepper.",
+            "Coat chicken in flour, then eggs, and then bread crumbs, one piece at a time, and set aside.",
+            "Heat oil in a deep fryer to 375 degrees F (190 degrees C).",
+            "Fry chicken in small batches until the pieces are golden brown, 6 to 8 minutes. Remove chicken to drain on paper towels or a wire rack.",
+            "Make the dipping sauce: Combine mayonnaise, sour cream, horseradish, mustard, and Worcestershire sauce in a small bowl. Mix well, and serve with chicken."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Chicken Katsu with Homemade Katsu Sauce",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "½ cup ketchup",
+            "2 tablespoons soy sauce",
+            "1 tablespoon brown sugar",
+            "1 tablespoon sherry",
+            "2 teaspoons Worcestershire sauce",
+            "1 teaspoon minced garlic"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather the ingredients.",
+            "Prepare sauce: Whisk ketchup, soy sauce, brown sugar, sherry, Worcestershire sauce, and garlic together in a bowl until sugar has dissolved. Set katsu sauce aside. Preheat an air fryer to 350 degrees F (175 degrees C).",
+            "Meanwhile, lay chicken pieces on a clean work surface. Season with salt and pepper.",
+            "Place beaten eggs in a flat dish or shallow bowl. Pour bread crumbs into a second flat dish. Dredge chicken pieces in egg and then in bread crumbs. Repeat by dredging chicken in egg and then bread crumbs again, pressing down so the bread crumbs stick to the chicken.",
+            "Place chicken pieces in the basket of the preheated air fryer. Spray the tops with nonstick cooking spray.",
+            "Air fry for 10 minutes. Flip chicken pieces over using a spatula and spray the tops with nonstick cooking spray. Cook for 8 minutes more. Transfer chicken to a cutting board and slice. Serve with katsu sauce.",
+            "Serve with katsu sauce and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Southern-Style Buttermilk Fried Chicken",
+        "category": "Fried Chicken",
+        "ingredients": [
+            "2 cups buttermilk",
+            "1 tablespoon Dijon mustard",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon cayenne pepper",
+            "1 whole chicken, cut into pieces",
+            "2 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "1 tablespoon garlic powder",
+            "1 tablespoon onion powder",
+            "5 cups vegetable oil for frying"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Whisk together buttermilk, mustard, salt, pepper, and cayenne in a bowl.",
+            "Pour buttermilk marinade into a resealable plastic bag. Add chicken pieces, coat with marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 2 to 8 hours.",
+            "Combine flour, baking powder, garlic powder, and onion powder in another resealable plastic bag; shake to mix thoroughly.",
+            "Working with one piece at a time, transfer marinated chicken to the dry ingredient bag, seal the bag, and shake well to coat. After all chicken pieces are coated, repeat the process by dipping them in buttermilk marinade and shaking in the dry coating again. Then heat oil in a large frying pan over medium-high heat. Place chicken on the pan.",
+            "Fry chicken in batches in hot oil, turning chicken occasionally, until golden brown and juices run clear. An instant-read thermometer inserted into the meat should read at least 165 degrees F (74 degrees C).",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

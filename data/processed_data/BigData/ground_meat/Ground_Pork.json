@@ -1,0 +1,684 @@
+[
+    {
+        "Main_category": "ground_meat"
+    },
+    {
+        "recipe_title": "Summer Roll Bowl",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1/2 pound raw shrimp",
+            "1/2 pound ground pork",
+            "1/2 cup onions",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon sugar",
+            "1 tablespoon avocado oil,",
+            "4 cloves garlic,",
+            "1/3 cup hoisin sauce",
+            "2 tablespoons peanut butter",
+            "2/3 cup water",
+            "1 1/2 teaspoons chili paste,",
+            "8 leaves Romaine or leaf lettuce",
+            "4 sprigs mint",
+            "4 sprigs cilantro",
+            "1/2 cup carrots",
+            "8 ounces Asian-style vermicelli rice noodles",
+            "1/3 cup peanuts",
+            "3 green onions"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring a pan of lightly salted water to a boil; add shrimp and cook until they are pink and curled into a tight \"C\" shape. Immediately remove shrimp and place into a bowl of ice water. When cool, slice shrimp thinly, from head to tail, and refrigerate.",
+            "Cook pork in a small nonstick skillet, breaking meat up into small bits. After about 2 minutes, add onion, salt, and sugar, and continue cooking until onion is translucent, 4 to 5 minutes. Remove pork to a plate lined with paper towels to drain. Remove paper towel, and refrigerate until needed.",
+            "For sauce, add oil and garlic to a small saucepan; place over medium heat. Cook, stirring, until garlic is fragrant, about 30 seconds. Add hoisin sauce, peanut butter, and water, stirring to combine. Bring to a boil, then remove from heat. Add chili paste and allow to cool. Set aside.",
+            "When ready to make the bowls, bring 5 cups of water to boil in a large saucepan. Add rice noodles and stir, to avoid clumping. Boil and stir for 2 to 3 minutes. Pour into a mesh strainer and rinse thoroughly with cold water.",
+            "Evenly divide vermicelli into 4 serving bowls. Working in sections, place cooked shrimp, ground pork mixture, lettuce, herbs, and carrots on top of vermicelli.",
+            "Drizzle each bowl with sauce. Sprinkle each bowl with crushed peanuts, and garnish with green onions."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Pork Tacos with Pineapple Salsa",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 cup pineapple",
+            "1/4 cup red onion",
+            "3 tablespoons chopped cilantro",
+            "1 jalapeno",
+            "1 tablespoon lime juice",
+            "1 tablespoon olive oil",
+            "1 1/4 teaspoons kosher salt",
+            "1 pound ground pork",
+            "1 1/2 teaspoons chili powder",
+            "1 teaspoon cumin",
+            "1 teaspoon onion powder",
+            "1/4 teaspoon pepper",
+            "1 (10 ounce) can diced tomatoes and green chiles",
+            "1 (15 ounce) can black beans",
+            "8 (6 inch) flour tortillas",
+            "shredded cabbage, for garnish (optional)"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Combine pineapple, red onion, cilantro, jalapeno, lime juice, olive oil, and 1/4 teaspoon salt in a bowl and stir well, set aside.",
+            "Heat a large skillet over medium-high heat. Add pork and press to flatten. Cook, undisturbed, about 4 minutes or until browned. Flip and continue to cook, crumbling with a spoon until no longer pink. Season with remaining salt, chili powder, cumin, onion powder, and black pepper and cook 1 minute, stirring constantly.",
+            "Stir in tomatoes and beans and bring to a simmer. Cook 5 minutes, stirring occasionally; remove from heat.",
+            "Heat tortillas as desired. Divide pork mixture evenly among the tortillas and top with pineapple salsa and shredded cabbage if desired."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ants Climbing a Tree Glass Noodles",
+        "category": "Ground Pork",
+        "ingredients": [
+            "4 ounces mung bean glass noodles (",
+            "2 tablespoons vegetable oil",
+            "6 ounces ground pork",
+            "3 garlic cloves,",
+            "1 tablespoon ginger",
+            "2 tablespoons Chinese spicy fermented bean sauce",
+            "1/4 teaspoon pepper",
+            "1 teaspoon white sugar",
+            "2 teaspoons soy sauce",
+            "2 cups chicken stock",
+            "1/3 cup green onions"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Add dry glass noodles to a large bowl and cover with cold water. Gently loosen the noodles apart with your fingers, and submerge noodles completely in water. Let soak for 10 minutes. Drain well and reserve.",
+            "Meanwhile, for the sauce, add oil to a skillet set over medium-high heat. Add pork, and cook for 3 or 4 minutes, breaking up the meat into small crumbles with a spatula. Continue to cook until pork starts to brown, 1 or 2 minutes more.",
+            "Add garlic, ginger, and fermented bean sauce, and cook, stirring, for 1 minute. Add Sichuan pepper and sugar, and cook, stirring. 30 seconds more.",
+            "Add soy sauce and chicken broth; raise the heat to high and bring sauce to a boil. Add drained noodles and green onions.",
+            "Cook, stirring with tongs, until noodles are soft, but retain a slight chewiness, 2 to 3 minutes. Remove from heat; noodles will continue to soak up most of the liquid after removing from heat.",
+            "Transfer into a serving bowl and garnish with more sliced green onions."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Apple Butter Meatballs",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1/2 pound ground beef",
+            "1/2 pound ground pork",
+            "1/4 cup panko bread crumbs",
+            "1/4 cup white onion",
+            "1 large egg",
+            "1/4 cup milk",
+            "3/4 teaspoon salt",
+            "1/2 teaspoon granulated garlic",
+            "1/4 teaspoon black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with parchment paper.",
+            "Combine ground beef, ground pork, panko, onion, milk, egg, salt, granulated garlic, and pepper in a large bowl. If mixture is too soft or wet, place in the refrigerator for 15 to 20 minutes to firm up before rolling. Shape into 24 meatballs, about 1 1/2 inches in diameter, and place on the prepared baking sheet.",
+            "Bake meatballs in the preheated oven until no longer pink at the center and browned on the outside, about 20 minutes. An instant read thermometer inserted into the center of meatballs should read 165 degrees F (74 degrees C).",
+            "Meanwhile, prepare apple butter bourbon glaze. In a small saucepan, whisk together apple butter, bourbon, soy sauce, maple syrup, and Dijon mustard. Bring to a simmer over medium-low heat and stir frequently until the sauce is smooth and just thickened, 5 to 7 minutes.",
+            "Remove meatballs from the oven and transfer to a large bowl. Pour glaze over meatballs and gently toss to coat evenly. Serve warm."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Giant Lazy Meatballs",
+        "category": "Ground Pork",
+        "ingredients": [
+            "4 large slices white bread",
+            "1/2 cup milk",
+            "1 pound ground beef",
+            "1 pound ground pork",
+            "2 1/2 teaspoons kosher salt",
+            "1 teaspoon ground black pepper",
+            "1/4 teaspoon dried oregano",
+            "1 teaspoon onion powder",
+            "1 teaspoon garlic powder",
+            "1 pinch cayenne pepper",
+            "1 tablespoon olive oil",
+            "1/4 cup grated Parmigiano-Reggiano cheese",
+            "1/3 cup chopped fresh Italian parsley (optional)",
+            "2 large eggs,"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Crumble bread into a bowl and mix in milk thoroughly using a fork. Let stand for 10 to 15 minutes.",
+            "Combine beef and pork in a large bowl and mix well using 2 forks. Add salt, black pepper, oregano, onion powder, garlic powder, cayenne, olive oil, Parmesan, parsley, eggs, and the breadcrumb mixture. Mix using 2 forks until everything is evenly combined. Wrap and chill in the refrigerator for 1 hour.",
+            "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a roasting pan or baking dish. Using damp hands, roll 4 giant meatballs, and place in the prepared pan.",
+            "Bake in the preheated oven until an instant read thermometer inserted near the center of meatballs reads 160 to 165 degrees F (71 to 74 degrees C), 40 to 45 minutes.",
+            "Remove meatballs from the oven, and spoon tomato sauce evenly over meatballs. Sprinkle first with Monterey Jack cheese, and then with Parmigiano-Reggiano.",
+            "Return meatballs to the oven, and bake until sauce is hot and cheese is melted, 5 to 10 minutes more. Top with parsley and serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ground Pork Tacos with Pineapple Salsa",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 pound ground pork",
+            "1 tablespoon soy-based liquid seasoning (such as Maggi® Jugo)",
+            "½ teaspoon chipotle powder",
+            "1 clove garlic, minced"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine ground pork, liquid seasoning, ground chipotle powder, and garlic in a bowl. Set aside briefly for flavors to meld.",
+            "Meanwhile, make the salsa: Combine pineapple, red onion, jalapeño, cilantro, lime juice, and salt in a bowl. Set aside.",
+            "Preheat a large skillet over high heat. Crumble ground pork into the hot skillet. Cook and stir until pork is completely browned and edges begin to crisp, 7 to 10 minutes. Drain any excess grease. Place pork in a bowl and keep warm. Wipe out skillet.",
+            "Warm tortillas in skillet over medium-low heat, about 20 seconds per side. Divide meat mixture between tortillas and top with pineapple salsa."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Pumpkin Pork Noodles",
+        "category": "Ground Pork",
+        "ingredients": [
+            "2 teaspoons vegetable oil",
+            "8 ounces ground pork",
+            "salt and freshly ground black pepper to taste",
+            "¼ teaspoon smoked paprika",
+            "2 cloves minced garlic",
+            "⅓ cup sliced green onions",
+            "2 tablespoons hoisin sauce"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat oil in a skillet over medium high heat and cook pork, while breaking up into small pieces, 2 to 3 minutes. Season with salt, pepper, and smoked paprika and keep cooking and stirring until pork is crumble and is browned up, about 5 minutes.",
+            "Lower heat to medium and add garlic and green onions. Cook for 30 seconds until fragrant. Mix in hoisin sauce and cook until sauce has glazed over all the pork pieces, 1 to 2 minutes. Transfer pork topping to a bowl.",
+            "Pour out cooking grease but leave 1 tablespoon of grease in the skillet. Add pumpkin puree, gochujang, green onions, sesame oil, and chili peppers. Cook and stir over medium heat for 2 minutes.",
+            "Meanwhile, bring a large pot of lightly salted water to a boil. Cook bucatini the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 minutes. Fish out noodles and drop into the skillet with the pumpkin sauce. Reserve about 1/2 cup pasta cooking water.",
+            "Squeeze lime juice on top of the noodles. Add about 2 tablespoons pasta water on top and mix noodles with the sauce until well combined. Keep adding pasta water, a little at a time, until sauce has reached your preferred consistency.",
+            "Turn off heat and stir in chopped cilantro. Transfer noodles to a plate and top with ground pork.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ground Pork Tacos with Pineapple Salsa",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 pound ground pork",
+            "1 tablespoon soy-based liquid seasoning (such as Maggi® Jugo)",
+            "½ teaspoon chipotle powder",
+            "1 clove garlic, minced"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine ground pork, liquid seasoning, ground chipotle powder, and garlic in a bowl. Set aside for flavors to meld.",
+            "Combine pineapple, red onion, jalapeno, cilantro, lime juice, and salt in a bowl. Set pineapple salsa aside.",
+            "Preheat a large skillet over high heat. Crumble ground pork into the hot skillet. Cook and stir until pork is completely browned and edges begin to crisp, 7 to 10 minutes. Drain any excess grease. Place pork in a bowl and keep warm. Wipe out skillet.",
+            "Warm tortillas in skillet over medium-low heat, about 20 seconds per side. Divide meat mixture between tortillas and top with pineapple salsa"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Italian Meatballs",
+        "category": "Ground Pork",
+        "ingredients": [
+            "⅓ cup plain bread crumbs",
+            "½ cup milk or beef broth",
+            "2 tablespoons olive oil",
+            "1 onion, diced",
+            "1 pound ground beef",
+            "1 pound ground pork",
+            "2 large eggs",
+            "2 tablespoons grated Parmesan cheese",
+            "¼ bunch fresh parsley, chopped",
+            "3 cloves garlic, crushed",
+            "2 teaspoons salt",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon dried Italian herb seasoning",
+            "½ teaspoon red pepper flakes"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Cover a baking sheet with foil and spray lightly with cooking spray. Soak bread crumbs in milk in a small bowl for 20 minutes.",
+            "Meanwhile, heat olive oil in a skillet over medium heat. Add onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue cooking and stirring until onion is very tender, about 15 minutes more.",
+            "Gently stir beef and pork together in a large bowl. Add onions, bread crumb mixture, eggs, Parmesan cheese, parsley, garlic, salt, black pepper, Italian herb seasoning, and red pepper flakes; mix together using a rubber spatula until combined. Cover and refrigerate for about one hour.",
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Form mixture into balls about 1 ½ inches in diameter; arrange in a single layer on the prepared baking sheet.",
+            "Bake in the preheated oven until browned and cooked through, 15 to 20 minutes.",
+            "Serve with your favorite tomato sauce. Enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Lasagna",
+        "category": "Ground Pork",
+        "ingredients": [
+            "½ pound ground pork",
+            "½ pound lean ground beef",
+            "½ cup minced onion",
+            "1 (28 ounce) can crushed tomatoes",
+            "1 (8 ounce) can tomato sauce",
+            "2 tablespoons chopped fresh parsley, divided",
+            "1 clove garlic, crushed",
+            "1 ½ teaspoons dried basil",
+            "1 ½ teaspoons salt",
+            "½ teaspoon dried oregano",
+            "⅛ teaspoon white sugar",
+            "1 (16 ounce) package lasagna noodles",
+            "1 pound small-curd cottage cheese",
+            "¾ cup grated Parmesan cheese",
+            "3 large eggs",
+            "2 teaspoons salt",
+            "¼ teaspoon ground black pepper",
+            "1 (16 ounce) package shredded mozzarella cheese"
+        ],
+        "num_ingredients": 18,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine pork and ground beef in a large, deep skillet over medium-high heat; cook and stir until browned and crumbly, 5 to 7 minutes.",
+            "Add onion and cook until translucent, about 5 minutes.",
+            "Stir in crushed tomatoes, tomato sauce, 1 tablespoon fresh parsley, garlic, basil, salt, oregano, and sugar. Reduce heat to medium-low and simmer, stirring occasionally, for 30 minutes.",
+            "While the sauce is simmering, bring a large pot of lightly salted water to a boil. Cook lasagna noodles in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and set aside. While the noodles are cooking, preheat the oven to 375 degrees F (190 degrees C).",
+            "Mix cottage cheese, Parmesan cheese, eggs, remaining 1 tablespoon fresh parsley, salt, and pepper in a large bowl until combined.",
+            "Assemble lasagna: Spread a spoon or two of sauce over the bottom of a 9x13-inch baking dish just to to coat it. Place two layers of noodles over the sauce to cover.",
+            "Layer with 1/2 of the cheese mixture, 1/2 of the remaining sauce, and 1/2 of the mozzarella cheese. Repeat layers once more using the remaining noodles, cheese mixture, sauce, and mozzarella. Cover the baking dish with aluminum foil.",
+            "Bake in the preheated oven for 30 to 40 minutes. Remove the foil and bake until cheese is golden brown, 5 to 10 more minutes.",
+            "Remove from the oven and let stand for 10 minutes before cutting and serving."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Best Meatballs",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 pound ground beef",
+            "½ pound ground veal",
+            "½ pound ground pork",
+            "1 cup freshly grated Romano cheese",
+            "2 eggs",
+            "2 cloves garlic, minced",
+            "1 ½ tablespoons chopped Italian flat leaf parsley",
+            "salt and ground black pepper to taste",
+            "2 cups stale Italian bread, crumbled",
+            "1 ½ cups lukewarm water",
+            "1 cup olive oil"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine beef, veal, and pork in a large bowl. Mix in cheese, eggs, garlic, parsley, salt, and pepper.",
+            "Add bread crumbs and slowly mix in water, 1/2 cup at a time, until mixture is moist but still holds its shape (I usually use about 1 1/4 cups of water); shape into meatballs.",
+            "Heat olive oil in a large skillet; add meatballs in batches and cook until browned on all sides, slightly crisp, and cooked through, about 10 to 15 minutes. Drain on paper towels.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Meatballs",
+        "category": "Ground Pork",
+        "ingredients": [
+            "16 ounces lean ground beef",
+            "4 ounces ground pork",
+            "½ cup grated Parmesan cheese",
+            "⅓ cup Italian seasoned bread crumbs",
+            "1 large egg",
+            "2 cloves garlic, minced",
+            "1 teaspoon Italian seasoning",
+            "½ teaspoon salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat an air fryer to 350 degrees F (175 degrees C).",
+            "Combine beef, pork, Parmesan cheese, bread crumbs, egg, garlic, Italian seasoning, and salt in a large bowl. Mix until evenly combined.",
+            "Form into 16 equal meatballs (a small ice cream scoop is helpful) and place on a baking sheet.",
+            "Place 1/2 of the meatballs in the basket of the air fryer and cook 8 minutes. Shake the basket and cook 2 minutes more. Transfer to a serving plate and let rest for 5 minutes. Repeat with remaining meatballs.",
+            "Serve warm and enjoy!"
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Traditional Filipino Lumpia",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 pound ground pork",
+            "½ cup chopped onion",
+            "2 cloves garlic, crushed",
+            "½ cup minced carrots",
+            "½ cup chopped green onions",
+            "½ cup thinly sliced green cabbage",
+            "2 tablespoons chopped fresh cilantro (Optional)",
+            "1 teaspoon ground black pepper",
+            "1 teaspoon salt",
+            "1 teaspoon garlic powder",
+            "1 teaspoon soy sauce",
+            "30 lumpia wrappers",
+            "2 cups vegetable oil for frying, or as needed"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat 1 tablespoon vegetable oil in a wok or large skillet over high heat. Add pork; cook and stir until crumbly and no longer pink, 5 to 7 minutes. Remove pork from the pan and set aside. Drain grease from the pan, leaving just a thin coating.",
+            "Add onion and garlic to the pan; cook and stir until fragrant, about 2 minutes.",
+            "Stir in cooked pork, carrots, green onions, cabbage, and cilantro. Season with pepper, salt, garlic powder, and soy sauce. Remove from the heat, and set aside until cool enough to handle, about 5 minutes.",
+            "To assemble lumpia: Place 3 heaping tablespoons of filling diagonally near one corner of a lumpia wrapper, leaving a 1 ½ inch space at both ends.",
+            "Fold the side along the length of the filling over the filling, tuck in both ends, and roll neatly and tightly to close.",
+            "Moisten the other side of the wrapper with water to seal the edge. Transfer to a plate and cover with plastic wrap to retain moisture. Repeat to assemble remaining lumpia.",
+            "Heat 1/2 inch vegetable oil in a heavy skillet over medium heat for 5 minutes.",
+            "Slide 3 to 4 lumpia into the hot oil, making sure the seams are facing down. Fry, turning occasionally, until all sides are golden brown, 1 to 2 minutes. Transfer to a paper towel-lined plate to drain. Repeat to fry remaining lumpia.",
+            "Serve immediately. Enjoy!"
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Egg Rolls",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 pound ground pork",
+            "1 teaspoon ground ginger, or more to taste",
+            "1 teaspoon garlic powder, or more to taste",
+            "2 cups shredded cabbage",
+            "2 ounces shredded carrots",
+            "2 tablespoons all-purpose flour",
+            "2 tablespoons water",
+            "1 quart peanut oil for frying, or as needed",
+            "8 (7 inch square) egg roll wrappers",
+            "2 tablespoons sesame seeds (Optional)"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather the ingredients.",
+            "Season pork with ginger and garlic powder in a large bowl; mix until thoroughly combined. Place pork in a medium skillet over medium heat. Cook and stir until pork is browned and crumbly, 5 to 7 minutes.",
+            "Combine cooked pork, cabbage, and carrots in a large bowl; mix until egg roll filling is well combined. Mix four and water together in a small bowl until a paste forms.",
+            "Heat oil in a large skillet to about 375 degrees F (190 degrees C) or medium high heat. While oil is heating, prepare egg rolls: Lay one egg roll wrapper on a work surface with one corner pointed toward you like a diamond. Place about 1/4 to 1/3 cup of the filling in the center of the wrapper.",
+            "Fold the bottom corner up and over the filling. Fold the left and right corners in toward the center. Push the egg roll away from you and roll toward the top corner.",
+            "Brush a bit of the flour paste over the inside of that corner to help seal the egg roll.",
+            "Fry egg rolls in the hot oil, turning occasionally, until golden brown and crispy, 5 to 8 minutes. Remove from oil and drain on paper towels or rack.",
+            "Place egg rolls on a serving plate and sprinkle sesame seeds over top."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Breakfast Sausage",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 tablespoon brown sugar",
+            "2 teaspoons dried sage",
+            "2 teaspoons salt",
+            "1 teaspoon ground black pepper",
+            "¼ teaspoon dried marjoram",
+            "⅛ teaspoon crushed red pepper flakes",
+            "1 pinch ground cloves",
+            "2 pounds ground pork"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Gather all ingredients.",
+            "Mix together brown sugar, sage, salt, black pepper, marjoram, red pepper flakes, and cloves in a small bowl until well combined.",
+            "Place pork in a large bowl. Add spice mixture and mix with your hands until well combined. Form mixture into 6 patties.",
+            "Heat a large skillet over medium-high heat. Add patties and saute until browned and crispy, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (71 degrees C).",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Sweet Italian Sausage (Mild or Hot)",
+        "category": "Ground Pork",
+        "ingredients": [
+            "3 pounds ground pork",
+            "3 tablespoons red wine vinegar",
+            "1 ¼ tablespoons dried parsley",
+            "1 tablespoon garlic powder",
+            "1 tablespoon onion powder",
+            "1 tablespoon dried basil",
+            "1 tablespoon salt",
+            "1 tablespoon freshly cracked black pepper",
+            "2 teaspoons paprika",
+            "2 teaspoons crushed red pepper flakes, or to taste",
+            "¾ teaspoon ground fennel seed",
+            "¼ teaspoon brown sugar",
+            "⅛ teaspoon dried oregano",
+            "⅛ teaspoon dried thyme"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Gather all ingredients.",
+            "Place pork and red wine vinegar in a large mixing bowl. Sprinkle with parsley, garlic powder, onion powder, basil, salt, black pepper, paprika, red pepper flakes, fennel seed, brown sugar, oregano, and thyme.",
+            "Knead until flecks of spice are evenly distributed throughout meat.",
+            "Divide sausage into thirds. Form each into a 3-inch diameter log, wrap securely in plastic wrap, and place in a zip-top bag. Refrigerate for at least 12 hours before cooking.",
+            "When ready to cook, remove logs from the zip-top bags and place on a cutting board. Use a finely serrated knife to cut logs right through the plastic wrapping into 1/4- to 1/2-inch-thick patties. Carefully remove and discard any plastic.",
+            "Heat a large skillet over medium heat. Working in batches, cook sausage patties in the hot skillet until no longer pink in the center, 2 to 6 minutes per side, depending on thickness. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Meat Pie",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 medium potato, peeled and cubed",
+            "½ pound ground beef",
+            "½ pound ground pork",
+            "½ cup chopped onion",
+            "⅓ clove garlic, chopped",
+            "½ teaspoon mustard powder",
+            "½ teaspoon dried thyme",
+            "¼ teaspoon dried sage",
+            "¼ teaspoon ground cloves",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "¼ cup water",
+            "1 (15 ounce) package refrigerated pie crusts"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 425 degrees F (220 degrees C).",
+            "Place potato in a saucepan with enough water to cover. Bring to a boil, and cook until tender, about 5 minutes.",
+            "Drain, mash, and set aside.",
+            "Meanwhile, crumble ground beef and pork into a large saucepan. Add onion, garlic, mustard powder, thyme, sage, cloves, salt, and black pepper. Stir in water. Cook over medium heat, stirring, until meat is evenly browned.",
+            "Remove from the heat and mix in mashed potato.",
+            "Ease one pie crust into a 9-inch pie plate. Fill with meat mixture, then top with the remaining pie crust.",
+            "Trim any excess dough, then crimp the edges with the tines of a fork to seal.",
+            "Prick top crust a few times with a knife to vent steam. Cover the edges of the crust with aluminum foil.",
+            "Bake in the preheated oven until crust is browned, about 25 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Perfect Pot Stickers",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 pound ground pork",
+            "4 cloves minced garlic",
+            "½ cup finely chopped green onions",
+            "3 tablespoons very finely minced fresh ginger",
+            "2 tablespoons soy sauce",
+            "1 teaspoon soy sauce",
+            "1 teaspoon sesame oil",
+            "1 pinch cayenne pepper",
+            "1 ½ cups finely chopped green cabbage"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "To make the filling: Place ground pork, green onions, garlic, ginger, 2 tablespoon plus 1 teaspoon soy sauce, sesame oil, and cayenne in a mixing bowl. Top with chopped green cabbage. Mix with fork until thoroughly combined. Tamp down lightly; cover with plastic. Refrigerate until chilled, about an hour.",
+            "To make the dough: Place 2 ½ cups of flour and kosher salt in a mixing bowl. Slowly pour in hot water. Stir with a wooden spoon until mixture forms a shaggy dough. Flour your hands and transfer dough to a work surface. Knead dough until it becomes smooth and elastic, about 3 to 5 minutes. If dough seems too sticky, sprinkle with a bit more flour, up to an additional 1/2 cup, and continue to knead. Wrap dough ball in plastic, and let it rest about 30 minutes.",
+            "When dough has rested, divide into 4 equal pieces. Cover 3 pieces with a dish cloth while you work the first piece. Roll into a small log about the thickness of a thumb, about 3/4 inch. Divide each log into 6 equal pieces. Roll each piece into a thin 3 ½-inch circle on a lightly floured surface to form the pot sticker wrappers. Repeat with the remaining dough pieces.",
+            "Lightly moisten the edges of a wrapper with your wet finger. Place a small scoop of the ground pork mixture onto the center of a wrapper. Fold up the 2 sides and pinch together in the center. Pinch together the remaining edges, forming \"pleats\" along one side. Tap the pot sticker on the work surface to slightly flatten the bottom; form a slight curve in it so it stands upright in the pan. Transfer to a well-floured plate. Repeat with remaining dough and filling.",
+            "To make the dipping sauce: Mix seasoned rice vinegar and soy sauce together in a small mixing bowl. Set aside.",
+            "Heat oil in skillet over medium-high heat. Place about 6 or 7 pot stickers in the hot oil, flat-side down. Cook until bottoms are golden brown, about 2 minutes. Drizzle in water and quickly cover the pan; steam for 3 minutes. Uncover; reduce heat to medium. Continue cooking until water evaporates and bottoms are browned and crunchy, 1 or 2 minutes. Transfer to a warm serving dish. Repeat with remaining pot stickers.",
+            "Serve dumplings with dipping sauce."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Phenomenal Pork Tacos",
+        "category": "Ground Pork",
+        "ingredients": [
+            "1 red onion, halved and thinly sliced",
+            "1 Roma tomato, seeded and finely chopped",
+            "1 ripe kiwi, diced",
+            "1 lime, quartered, divided",
+            "2 tablespoons chopped cilantro, divided",
+            "salt and ground black pepper to taste",
+            "4 tablespoons sour cream",
+            "olive oil",
+            "1 poblano pepper - cored, seeded, and finely chopped",
+            "10 ounces ground pork",
+            "1 tablespoon Mexican seasoning",
+            "2 tablespoons chicken stock",
+            "1 tablespoon tomato paste",
+            "6 flour tortillas"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Mince a few slices of onion to get 1 tablespoon. Add minced onion, tomato, kiwi, juice from 2 lime wedges, 3/4 of the cilantro, salt, and pepper to a small bowl. Mix into a salsa.",
+            "Juice 1/4 of the lime into another small bowl; mix in sour cream to make the crema.",
+            "Heat olive oil in a large pan over medium-high heat. Add sliced onion and poblano pepper. Cook, tossing occasionally, until softened and lightly charred, 3 to 4 minutes. Add pork and Mexican seasoning. Cook until pork is browned throughout, 4 to 5 minutes. Reduce heat to medium-low. Add chicken stock, tomato paste, salt, and pepper. Cook and stir until everything is coated, 1 to 2 minutes.",
+            "Wrap tortillas in a damp cloth and microwave for 30 seconds. Divide tortillas over plates; spread lime crema on top. Top tortillas with pork mixture and salsa. Garnish with remaining cilantro."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pork Dumplings",
+        "category": "Ground Pork",
+        "ingredients": [
+            "100 (3.5 inch square) wonton wrappers",
+            "1 ¾ pounds ground pork",
+            "1 tablespoon minced fresh ginger root",
+            "4 cloves garlic, minced",
+            "2 tablespoons thinly sliced green onion",
+            "4 tablespoons soy sauce",
+            "3 tablespoons sesame oil",
+            "1 egg, beaten",
+            "5 cups finely shredded Chinese cabbage"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine pork, ginger, garlic, green onion, soy sauce, sesame oil, egg and cabbage in a large bowl. Stir until well mixed.",
+            "Place 1 heaping teaspoon of pork filling onto each wonton skin. Moisten edges with water and fold edges over to form a triangle shape. Roll edges slightly to seal in filling. Set dumplings aside on a lightly floured surface until ready to cook.",
+            "Arrange dumplings in a covered bamboo or metal steamer so they don't touch to prevent them from sticking together; steam until pork is cooked through, about 15 minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "Main_category": "drinks"
+    },
+    {
+        "recipe_title": "Red, White, and Blueberry Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "1 cup (packed) fresh strawberry halves",
+            "1/2 cup fresh blueberries",
+            "1 1/4 cups white sugar, divided",
+            "6 lemons, organic preferred,",
+            "5 cups water"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine strawberries, blueberries, and 1/2 of the sugar in a bowl. Use a potato masher to lightly crush berries until all blueberries have broken open.",
+            "Use a sharp vegetable peeler to peel off just the yellow zest from 6 lemons; add lemon zest to the berry-sugar mixture.",
+            "Pour remaining sugar into the bowl and mix thoroughly. Cover and let sit on the counter for 2 to 6 hours, stirring occasionally, or refrigerate overnight if you prefer.",
+            "Bring 5 cups water to boil in a saucepan, transfer in berry mixture. Immediately turn off heat, and let sit for 5 minutes, stirring a few times.",
+            "Set a fine mesh strainer over a heatproof bowl, and pour berry mixture through the strainer; press out liquid gently. Let cool to room temperature, about 20 minutes.",
+            "Cut the 6 zested lemons in half, and squeeze the juice (through a strainer to catch the seeds) into the bowl.",
+            "Taste, and juice in more lemons as desired. You will have another chance to adjust the final flavor after the lemonade is cold.",
+            "Transfer lemonade into a pitcher and refrigerate until fully chilled, about 1 hour. Give the lemonade a final taste, and adjust with more fresh lemon juice or sugar if necessary. Fill glasses with ice to serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "This 3-Ingredient Lemonade Is Shockingly Easy—and Requires Zero Squeezing",
+        "category": "Lemonade",
+        "ingredients": [
+            "2 organic lemons, quartered and seeded",
+            "6 cups water, divided",
+            "3/4 cup granulated sugar",
+            "2 cups ice"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine lemons, sugar, and 4 cups water in a blender and process until completely smooth, 1 to 2 minutes.",
+            "Pour lemonade through a fine mesh strainer into a pitcher and discard solids.",
+            "Stir in ice and remaining 2 cups of water."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Juneteenth 'Red Punch' Strawberry Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "2 cups frozen strawberries",
+            "1/2 cup sugar",
+            "1 cup fresh-squeezed lemon juice",
+            "7 cups water",
+            "ice, as needed"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Add strawberries, sugar, lemonade concentrate, and water to a blender in that order. Pulse the mixture a few times. Then blend at low speed for 2 minutes. Gradually turn the speed up to medium. Blend until smooth.",
+            "Pour strawberry lemonade into a large pitcher or punch bowl. Serve over ice."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Whipped Vodka Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "1/2 cup limoncello cream liqueur",
+            "1/3 cup lemon juice",
+            "1/3 cup sweetened condensed milk",
+            "1/4 cup heavy cream",
+            "2 fluid ounce lemon and elderflower vodka",
+            "2 cups ice, or as needed",
+            "vanilla whipped cream",
+            "lemon zest",
+            "lemon wheels,"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine limoncello cream, lemon juice, sweetened condensed milk, heavy cream, and lemon & elderflower vodka in a blender. Add ice; blend on Whip or Frozen Cocktail setting until ice is blended.",
+            "Pour into glasses; garnish with vanilla whipped cream, lemon zest, and dried or fresh lemon wheel."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Whipped Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "2 cups heavy cream",
+            "1/2 cup lemon juice",
+            "1/2 cup sweetened condensed milk",
+            "3 cups ice"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Combine heavy cream, lemon juice, sweetened condensed milk, and ice in a blender cup. Blend until smooth.",
+            "Pour into glasses and serve immediately."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Coconut Rum Brazilian Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "2 limes",
+            "2 cups water",
+            "1/2 cup coconut rum",
+            "1/4 cup sweetened condensed milk",
+            "2 cups ice"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Rinse limes and cut the ends off. Cut each lime in 8 wedges and add to a blender. Add water, coconut rum, and sweetened condensed milk; blend until creamy.",
+            "Fill 3 glasses with ice and strain lemonade over."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Homemade Lemonade Ever",
+        "category": "Lemonade",
+        "ingredients": [
+            "1 ¾ cups white sugar",
+            "1 cup water",
+            "9 medium lemons, or more as needed",
+            "7 cups ice-cold water",
+            "ice as needed"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine sugar and 1 cup water in a small saucepan. Stir to dissolve sugar while mixture comes to a boil. Set aside to cool slightly.",
+            "Meanwhile, roll lemons around on your counter to soften. Cut in half crosswise, and squeeze into a liquid measuring cup. Add pulp to the juice, but discard any seeds. Continue juicing until you have 1 ½ cups fresh juice and pulp.",
+            "Pour 7 cups ice-cold water into a pitcher. Stir in lemon juice and pulp, then add simple syrup to taste. Add ice.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Spiked Strawberry Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "1 cup fresh strawberries",
+            "1/2 cup lemon juice",
+            "3 cups water, divided",
+            "tablespoons sugar, or to taste (optional)",
+            "vodka, divided",
+            "ice, as needed"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Combine strawberries, lemon juice, and 1 cup water in a blender; blend until smooth.",
+            "Pour into a pitcher and add remaining 2 cups water. Taste; add sugar as desired.",
+            "Fill each glass with ice, add 2 ounces vodka per glass, and top off with strawberry lemonade."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Chick-fil-A Frosted Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "4 cups vanilla ice cream",
+            "12 ounces frozen lemonade concentrate",
+            "1 teaspoon lemon zest"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Place ice cream, frozen lemonade concentrate, and lemon zest in the jar of a blender, and blend until smooth. Divide into 4 glasses, and serve immediately."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Pink Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "9 cups water",
+            "2 cups white sugar",
+            "2 cups fresh lemon juice",
+            "1 cup cranberry juice, chilled",
+            "ice as needed"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine water, sugar, lemon juice, and cranberry juice in a large pitcher; stir until sugar dissolves. Serve in tall glasses over ice."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Iced Peach Tea Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "5 1/2 cups water, divided",
+            "1 1/2 cups white sugar",
+            "4 peaches - peeled, pitted, and sliced",
+            "1 cup lemon juice",
+            "4 each-flavored tea bags"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Stir together 1 1/2 cups water, sugar, and sliced peaches in a large pot. Bring to a simmer, and simmer until sugar is dissolved, the mixture is syrupy, and syrup is infused with peach flavor, about 10 minutes. Set syrup aside to cool, then strain off peaches; reserve peaches for another use.",
+            "Meanwhile, in another pot bring remaining 4 cups water to a boil. Turn heat off. Add tea bags; steep 4 to 6 minutes. Remove tea bags and discard.",
+            "Add lemon juice to syrup. To each glass add ice and 6 ounces brewed tea. Sweeten each glass to taste with 1 to 2 ounces lemon-peach syrup."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Old-Fashioned Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "6 lemons",
+            "1 cup white sugar",
+            "6 cups water, or more as needed"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Juice lemons; you should have 1 cup juice.",
+            "Combine juice, sugar, and water in a 1/2-gallon pitcher. Stir until sugar dissolves. Taste and add more water if desired.",
+            "Chill and serve over ice."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Hard Cranberry Limeade",
+        "category": "Lemonade",
+        "ingredients": [
+            "3 fluid ounces cranberry vodka (such as Deep Eddy)",
+            "1.5 fluid ounces lime vodka",
+            "ice, as needed",
+            "4 ounces Sprite",
+            "1 lime slice, for garnish"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Combine cranberry vodka and lime vodka in a tall glass. Add ice, top off with Sprite, and stir. Garnish with lime slice."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter"
+        ]
+    },
+    {
+        "recipe_title": "Brazilian Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "2 limes",
+            "3 cups water",
+            "½ cup sugar",
+            "3 tablespoons sweetened condensed milk",
+            "ice cubes"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Wash limes thoroughly. Cut off the ends and slice into eight wedges.",
+            "Place limes in a blender with water, sugar, sweetened condensed milk, and ice; pulse 5 times, or until smooth. Strain through a fine mesh strainer to remove rinds. Serve over ice."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "State Fair Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "6 lemons",
+            "1 ¼ cups white sugar",
+            "5 cups cold water"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients.",
+            "Wash lemons and peel off all the zest using a vegetable peeler; set peeled lemons aside. Add lemon zest to a bowl and cover with sugar; toss to combine. Cover and let sit for a minimum of 2 hours, or up to overnight.",
+            "Bring water to a boil in a pot over high heat; turn off heat and pour in lemon-sugar mixture. Stir and let sit until sugar is completely dissolved, about 5 minutes.",
+            "Pour through a mesh strainer back into the same bowl and discard the zest. Let cool to room temperature, 20 to 30 minutes.",
+            "Cut lemons in half and squeeze juice into the bowl. Pour lemonade into a serving pitcher; cover and chill thoroughly before serving over ice, at least 2 hours.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "All Natural Strawberry Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "8 large ripe strawberries, halved",
+            "2 tablespoons white sugar",
+            "7 cups water, divided",
+            "2 cups freshly squeezed lemon juice",
+            "1 cup white sugar, or more to taste"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather the ingredients.",
+            "Place strawberries in a blender; top with 2 tablespoons sugar. Pour 1 cup water over sugared strawberries; blend until completely smooth.",
+            "Transfer strawberry juice into a large pitcher; stir in remaining 6 cups water, lemon juice, and 1 cup sugar until well blended. Taste and add more sugar if desired; chill before serving."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Refreshing Cucumber Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "1 cup water",
+            "½ cup white sugar",
+            "1 cucumber, sliced",
+            "6 lemons, juiced"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients.",
+            "Make the simple syrup: Combine water and sugar together in a saucepan over medium heat; heat until just about to boil and sugar has dissolved. Place in refrigerator until cool, about 30 minutes.",
+            "Blend cucumber in a blender or food processor until mashed into a pulp. Pour cucumber pulp into a fine mesh strainer placed over a bowl; allow to sit until you have about 2/3 cup of cucumber juice in the bowl, about 15 minutes.",
+            "Stir simple syrup, cucumber juice, and lemon juice together in a pitcher. Serve cold."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Watermelon Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "4 cups cubed watermelon",
+            "½ cup white sugar",
+            "½ cup water",
+            "3 cups cold water",
+            "½ cup fresh lemon juice",
+            "6 cups ice cubes"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients.",
+            "Place watermelon into a blender; cover and puree until smooth. Strain through a fine mesh sieve.",
+            "Bring sugar and 1/2 cup water to a boil in a saucepan over medium-high heat until sugar dissolves, about 5 minutes. Remove from heat; stir in 3 cups of cold water and lemon juice.",
+            "Divide ice into 12 glasses; scoop 2 to 3 tablespoons of watermelon puree over ice, then top with lemonade.",
+            "Gently stir before serving."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Orangeade",
+        "category": "Lemonade",
+        "ingredients": [
+            "2 cups water",
+            "1 ½ cups white sugar",
+            "6 cups water",
+            "1 ½ cups freshly squeezed orange juice",
+            "⅓ cup freshly squeezed lemon juice"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Bring 2 cups water and sugar to a boil in a small saucepan; cook at a boil for 3 minutes, stirring to dissolve sugar, and creating a simple syrup.",
+            "Combine simple syrup, 6 cups water, orange juice, and lemon juice in a large pitcher; refrigerate until cold."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    },
+    {
+        "recipe_title": "Vintage Lemonade",
+        "category": "Lemonade",
+        "ingredients": [
+            "5 lemons",
+            "1 ¼ cups white sugar",
+            "1 ¼ quarts water"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Peel the rinds from the 5 lemons and cut them into 1/2 inch slices. Set the lemons aside.",
+            "Place the rinds in a bowl and sprinkle the sugar over them. Let this stand for about one hour, so that the sugar begins to soak up the oils from the lemons.",
+            "Bring water to a boil in a covered saucepan and then pour the hot water over the sugared lemon rinds. Allow this mixture to cool for 20 minutes and then remove the rinds.",
+            "Squeeze the lemons into another bowl. Pour the juice through a strainer into the sugar mixture. Stir well, pour into pitcher and pop it in the fridge! Serve with ice cubes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour"
+        ]
+    }
+]

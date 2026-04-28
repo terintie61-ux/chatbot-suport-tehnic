@@ -1,0 +1,625 @@
+[
+    {
+        "Main_category": "main_dish"
+    },
+    {
+        "recipe_title": "Hot Dog Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 tablespoon peanut oil",
+            "1/4 cup onion",
+            "6 hot dogs, sliced",
+            "3 cups cooked rice",
+            "1/2 teaspoon ground ginger",
+            "1/4 teaspoon garlic powder",
+            "1/2 teaspoon kosher salt",
+            "1/4 teaspoon pepper",
+            "1 cup frozen mixed vegetables",
+            "2 tablespoons butter",
+            "2 eggs, beaten",
+            "2 teaspoons rice vinegar",
+            "1 tablespoon soy sauce, plus more to taste",
+            "1/4 cup mayonnaise",
+            "1 tablespoon riracha",
+            "1 teaspoon lemon juice",
+            "3 green onions, thinly sliced"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Heat oil over high in a large deep skillet or wok. Add onions and cook until lightly browned and softened, about 2 minutes. Add hot dogs and cook, stirring constantly until browned. Add in rice and sesame oil and cook, stirring constantly, about 1 minute. Stir in ginger, garlic, salt and pepper.",
+            "Spread mixture into an even layer and cook, undisturbed, until rice is lightly toasted, about 2 minutes. Add in mixed vegetables and stir, then cook undisturbed for 2 minutes. Push rice mixture to the sides and create a space in the center of the skillet. Add butter to the skillet and allow to melt. Crack in eggs and cook, stirring only the eggs until they are soft scrambled. Fold eggs into rice mixture and stir until evenly mixed. Stir in vinegar and soy sauce and cook for 1 minute. Remove from heat.",
+            "Combine mayo, Sriracha and lemon juice in a small bowl. Serve fried rice topped with a drizzle of mayo mixture and sprinkle with green onions."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chicken Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 tablespoon canola oil",
+            "1 teaspoon sesame oil",
+            "⅓ cup diced carrots",
+            "¼ cup sliced green onions, white and lighter green parts",
+            "½ teaspoon garlic powder",
+            "½ teaspoon ground ginger",
+            "3 cups cold cooked rice",
+            "1 teaspoon kosher salt",
+            "½ teaspoon ground black pepper",
+            "1 cup shredded cooked chicken",
+            "½ cup frozen peas",
+            "2 tablespoons butter",
+            "2 large eggs, beaten",
+            "2 tablespoons soy sauce",
+            "2 teaspoons rice vinegar",
+            "2 tablespoons Sriracha mayonnaise, or to taste",
+            "1 tablespoon sliced green onions, or to taste"
+        ],
+        "num_ingredients": 17,
+        "directions": [
+            "Heat canola and sesame oils in a large, nonstick skillet over medium-high heat. Add carrot and 1/4 cup green onion; cook, stirring constantly, for 1 minute. Stir in garlic powder and ginger and cook for 2 minutes. Stir in rice, salt, and pepper; cook, stirring only once or twice, until rice is lightly browned, about 4 to 5 minutes. Stir in chicken and peas; cook for 2 minutes.",
+            "Push rice mixture to the sides of the pan, creating a circle in the middle. Add butter to the center of the pan. When melted, pour eggs into the center. Cook eggs, stirring often, until almost set, about 3 minutes. Stir eggs into the rice mixture. Stir in soy sauce and rice vinegar; cook for 2 more minutes.",
+            "Serve immediately topped with Sriracha mayo and green onions."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cabbage Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "3 large eggs",
+            "1/8 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "2 1/2 tablespoons sesame oil, divided",
+            "3 cloves garlic, minced",
+            "1 small yellow onion, chopped",
+            "1 small green pepper, chopped",
+            "3 cups cabbage",
+            "2 cups cooked white rice",
+            "3 tablespoons soy sauce",
+            "2 teaspoons ginger",
+            "1 pinch red pepper flakes (optional)",
+            "1 green onion, thinly sliced (optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "In a bowl, whisk eggs with salt and pepper.",
+            "Heat a large skillet over medium high heat; add 1/2 tablespoon sesame oil. Cook and stir eggs in the hot oil until scrambled and set, 3 to 4 minutes. Transfer eggs to a plate, clean the pan, and return to medium high heat.",
+            "Pour in remaining 2 tablespoons sesame oil, then add garlic and cook for 1 minute. Stir in onions and green peppers and cook for about 5 minutes. Add cabbage and cook until softened, about 5 minutes more.",
+            "Stir in cooked rice, soy sauce, grated ginger, and cooked eggs. Stir until combined and heated thoroughly, about 5 minutes. Add red pepper flakes and top with green onions. Serve warm."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Kimchi Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 tablespoon olive oil",
+            "3 drops sesame oil, or to taste",
+            "¼ cup diced onion",
+            "¼ cup shredded carrots",
+            "2 scallions, white and light green parts, sliced",
+            "½ cup cubed, fully cooked ham",
+            "⅓ cup chopped kimchi",
+            "1 teaspoon garlic powder",
+            "2 cups cooked rice",
+            "1 tablespoon soy sauce",
+            "1 tablespoon gochujang (Korean chile paste)",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Warm butter and olive oil together over medium-high heat in a large skillet or wok. Add in sesame oil. Add onion, carrots, and scallions and cook until onion is translucent, about 2 minutes. Mix in cubed ham and kimchi; cook for 1 more minute. Season with garlic powder.",
+            "Stir in rice and cook until mixture is heated throughout. Drizzle soy sauce over top and mix in gochujang. Stir until well combined and adjust seasoning with salt and pepper."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Shrimp Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 tablespoon canola oil",
+            "1/3 cup onion",
+            "1/3 cup carrot",
+            "1 teaspoon kosher salt, divided",
+            "2 large eggs, lightly beaten",
+            "1 pound raw shrimp",
+            "2 ounce brown rice",
+            "3/4 cup green peas",
+            "1 tablespoon soy sauce",
+            "1 teaspoon rice vinegar",
+            "1/4 teaspoon black pepper",
+            "1 tablespoon toasted sesame seeds, or as needed (optional)",
+            "1/4 cup Sriracha mayonnaise,",
+            "1 scallion, sliced, or as needed"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Remove the basket insert from air fryer. Preheat the air fryer to 400 degrees F (200 degrees C) for 5 minutes.",
+            "Add oil to the basket holder to coat; add onion, carrot, and 1/2 teaspoon of the salt, and stir to combine. Cook for 5 minutes. Add eggs; cook until partially set, about 3 minutes.",
+            "Add shrimp, rice, peas, soy sauce, vinegar, pepper, and remaining salt to egg mixture; stir to combine. Cook for 10 minutes. Stir mixture, sprinkle with sesame seeds, if desired, and cook until heated throughout and crisp, 10 to 15 minutes more. Drizzle with Sriracha mayonnaise, and sprinkle with scallions."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Leftover Pork Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "3 large eggs",
+            "1 tablespoon soy sauce",
+            "3 tablespoons butter",
+            "6 cloves garlic, chopped",
+            "4 green onions, chopped, white and green parts separated",
+            "½ cup frozen mixed peas and carrots",
+            "¼ onion, thinly sliced",
+            "2 cooked pork chops, meat cut into 1/2-inch pieces, bones discarded",
+            "2 cups cooked rice",
+            "salt and freshly ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Whisk eggs and soy sauce in a bowl. Stir in rice, breaking up clumps; set aside.",
+            "Melt butter in a wok over medium-high heat. Stir in garlic, white part of green onion, peas and carrots, and onion slices. Stir fry for 3 minutes; stir in pork.",
+            "Pour egg mixture into wok; stir fry until eggs are cooked through and rice is golden, and all ingredients are hot, about 7 minutes. Season with salt and ground black pepper; garnish with chopped green onion tops."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gochujang Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "2 teaspoons minced garlic",
+            "2 teaspoons minced fresh ginger",
+            "1 cup thinly-sliced mixed color bell peppers",
+            "½ cup diced carrots",
+            "¼ cup diced onion",
+            "4 cups cooked and refrigerated white rice",
+            "2 tablespoons gochujang (Korean hot and sweet pepper paste), or to taste",
+            "2 tablespoons low-sodium soy sauce",
+            "2 teaspoons sesame oil",
+            "2 tablespoons sliced green onions",
+            "1 teaspoon toasted sesame seeds"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat a wok or large skillet over medium-high heat, and add vegetable oil. Add garlic and ginger, and cook until fragrant, about 30 seconds.",
+            "Add bell peppers, carrots, and onion, and cook until tender, 4 to 5 minutes. Add a splash of water if the pan gets too dry.",
+            "Add rice, gochujang, soy sauce, and sesame oil, mixing everything well, and stir fry until the rice is hot.",
+            "Garnish with green onions and sesame seeds, and serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "⅔ cup chopped baby carrots",
+            "½ cup frozen green peas",
+            "2 tablespoons vegetable oil",
+            "1 clove garlic, minced, or to taste (Optional)",
+            "2 large eggs",
+            "3 cups leftover cooked and chilled white rice",
+            "1 tablespoon soy sauce, or more to taste",
+            "2 teaspoons sesame oil, or to taste"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Assemble ingredients.",
+            "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander.",
+            "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables.",
+            "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Pork Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 (6 ounce) boneless pork loin chop, cut into small pieces",
+            "1 green onion, chopped",
+            "¼ cup chopped carrot",
+            "¼ cup chopped broccoli",
+            "1 large egg, beaten",
+            "1 cup cold cooked rice",
+            "¼ cup frozen peas",
+            "1 ½ tablespoons soy sauce",
+            "⅛ teaspoon garlic powder",
+            "⅛ teaspoon ground ginger"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Melt butter in a large non-stick skillet over medium heat. Add pork, green onion, carrot, and broccoli; cook and stir until pork is cooked through, 7 to 10 minutes.",
+            "Transfer pork mixture to a bowl and return skillet to medium heat. Stir egg into the skillet and scramble until completely set.",
+            "Add pork mixture back into the skillet; stir in rice, peas, soy sauce, garlic powder, and ground ginger.",
+            "Cook and stir until heated through, 7 to 10 minutes. Serve and enjoy!"
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick Pork Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "2 teaspoons vegetable oil",
+            "½ cup finely chopped fresh mushrooms",
+            "6 cups cooled cooked rice",
+            "¼ cup vegetable oil, divided",
+            "1 ½ cups cubed cooked pork",
+            "2 cloves garlic, finely chopped",
+            "1 (1 inch) piece fresh ginger, finely chopped",
+            "3 stalks celery, diced",
+            "½ small onion, diced",
+            "1 large carrot, diced",
+            "½ red bell pepper, diced",
+            "1 tablespoon soy sauce",
+            "3 green onions, finely chopped"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients.",
+            "Heat 2 teaspoons vegetable oil in a skillet over medium heat; cook and stir mushrooms until liquid has evaporated, and mushrooms are browned, about 15 minutes. Set mushrooms aside.",
+            "Fluff cooked rice with a fork and stir in 1 tablespoon vegetable oil to separate the grains. Set aside.",
+            "Heat remaining 3 tablespoons vegetable oil in a large skillet or wok over medium heat. Cook and stir pork, garlic, and ginger until fragrant, about 1 minute. Add celery, onion, and carrot. Cook and stir until vegetables begin to soften, 3 to 4 minutes. Stir in bell pepper and cooked mushrooms just until combined.",
+            "Add in cooked rice, lightly tossing until rice is heated through and thoroughly combined with pork and vegetables. Stir in soy sauce, remove from heat, and sprinkle green onions over the top."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Vegetable Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "3 cups water",
+            "1 ½ cups quick-cooking brown rice",
+            "2 tablespoons peanut oil",
+            "1 small yellow onion, chopped",
+            "1 small green bell pepper, chopped",
+            "1 teaspoon minced garlic",
+            "¼ teaspoon red pepper flakes",
+            "3 green onions, thinly sliced",
+            "3 tablespoons soy sauce",
+            "1 cup frozen petite peas",
+            "2 teaspoons sesame oil",
+            "¼ cup roasted peanuts (Optional)"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Bring water to a boil in a saucepan. Stir in rice. Reduce heat, cover, and simmer until liquid is absorbed, about 20 minutes. Set aside.",
+            "Heat peanut oil in a large skillet or wok over medium heat. Add onions, bell pepper, garlic, and red pepper flakes. Cook, stirring occasionally, for 3 minutes.",
+            "Increase heat to medium-high. Stir in cooked rice, green onions, and soy sauce; cook and stir for 1 minute.",
+            "Add peas and cook for 1 minute more.",
+            "Remove from heat. Stir in sesame oil and garnish with peanuts."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shrimp Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "3 cups water",
+            "1 ½ cups uncooked white rice",
+            "4 tablespoons vegetable oil",
+            "1 cup fresh bean sprouts",
+            "½ cup chopped onion",
+            "1 ½ cups cooked medium shrimp, peeled and deveined without tail",
+            "2 large eggs, beaten",
+            "¼ cup chopped green onion",
+            "4 tablespoons soy sauce",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "¼ teaspoon sesame oil"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring water to a boil in a saucepan. Add rice and stir. Reduce heat, cover, and simmer for 20 minutes. Set aside and allow rice to completely cool.",
+            "Heat a large skillet or wok for 2 minutes. When the skillet or wok is hot, pour in vegetable oil, bean sprouts, and onions. Mix well and cook for 3 minutes.",
+            "Mix in cooled rice and shrimp and cook for another 3 minutes. Stirring constantly.",
+            "Add in eggs, green onion, soy sauce, salt, pepper, and sesame oil. Cook for another 4 minutes, stirring continuously, until eggs are cooked and everything is blended evenly."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 large egg",
+            "1 tablespoon water",
+            "1 tablespoon butter",
+            "1 tablespoon vegetable oil",
+            "1 medium onion, chopped",
+            "2 cups cooked white rice, cold",
+            "1 cup cooked, chopped chicken meat",
+            "2 tablespoons soy sauce",
+            "1 teaspoon ground black pepper or to taste"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Beat egg and water together in small bowl. Melt butter in a large skillet or wok over medium-low heat; add egg and cook without stirring, 1 to 2 minutes. Remove egg from skillet and cut into shreds; set aside.",
+            "Heat oil in the same skillet. Add onion; cook and stir until soft, about 3 minutes. Stir in rice, chicken, soy sauce, and pepper. Cook and stir for about 5 minutes; stir in shredded egg. Serve hot."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Leftover Turkey Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "nonstick cooking spray",
+            "1 medium onion, diced",
+            "½ cup frozen peas and carrots",
+            "2 tablespoons salted butter",
+            "3 cups cold cooked rice",
+            "2 cups diced cooked turkey",
+            "2 tablespoons soy sauce, or more to taste",
+            "1 tablespoon sesame oil, or as needed",
+            "2 large eggs"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Coat a large pan with cooking spray. Add onion and sauté over medium heat until translucent, about 5 minutes. Add frozen vegetables and butter; cook and stir, allowing butter to melt and veggies to thaw, 3 to 5 minutes.",
+            "Increase heat to medium-high and stir in rice and turkey. Add soy sauce, 2 tablespoons at a time, and stir until rice takes on color. Push everything to the sides of the pan. Add sesame oil to the center of the pan and stir rice mixture until coated. Push everything to the sides of the pan again. Break eggs in the center of the pan. Scramble in the center until set, 2 to 3 minutes; then stir into rice mixture until well combined."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Stir-Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 tablespoon oil",
+            "3 large eggs, lightly beaten",
+            "1 (16 ounce) package frozen stir-fry vegetables, thawed",
+            "1 (14.5 ounce) can chicken broth",
+            "2 tablespoons soy sauce",
+            "2 cups Minute® White Rice, uncooked"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat oil in a large skillet over medium heat. Cook beaten eggs in hot oil until set, stirring occasionally. Remove scrambled eggs to a plate; set aside.",
+            "Add vegetables, broth, and soy sauce to the same skillet; bring to a boil. Stir in rice; cover. Remove from heat and let stand for 5 minutes.",
+            "Stir scrambled eggs into rice mixture. Serve hot."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Thai Spicy Basil Chicken Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "3 tablespoons oyster sauce",
+            "2 tablespoons fish sauce",
+            "1 teaspoon white sugar",
+            "½ cup peanut oil for frying",
+            "6 large cloves garlic clove, crushed",
+            "2 serrano peppers, crushed",
+            "1 pound boneless, skinless chicken breast, cut into thin strips",
+            "1 red bell pepper, thinly sliced",
+            "1 onion, thinly sliced",
+            "4 cups cooked jasmine rice, chilled",
+            "2 cups sweet Thai basil",
+            "1 cucumber, sliced (Optional)",
+            "½ cup cilantro sprigs (Optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk together oyster sauce, fish sauce, and sugar in a small bowl; set aside.",
+            "Heat oil in a wok over medium-high heat until oil begins to smoke. Add garlic and Serrano peppers, stirring quickly.",
+            "Stir in chicken, bell pepper, onion, and oyster sauce mixture; cook until chicken is no longer pink in the center and the juices run clear.",
+            "Increase heat to high and stir in chilled rice; stir quickly until sauce is well blended with rice. Use the back of a spoon to break up any rice sticking together.",
+            "Remove the wok from heat. Stir in basil leaves. Garnish with sliced cucumber and cilantro."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chinese Chicken Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "½ tablespoon sesame oil",
+            "1 onion, diced",
+            "1 ½ pounds cooked, cubed chicken meat",
+            "2 tablespoons soy sauce",
+            "2 large carrots, diced",
+            "2 stalks celery, diced",
+            "1 large red bell pepper, diced",
+            "¾ cup fresh pea pods, halved",
+            "½ large green bell pepper, diced",
+            "6 cups cooked white rice",
+            "2 large eggs, scrambled",
+            "⅓ cup soy sauce"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat sesame oil in a large skillet over medium heat. Add onion and sauté until soft. Add cooked chicken and 2 tablespoons soy sauce; stir-fry for 5 to 6 minutes.",
+            "Stir in carrots, celery, red bell pepper, pea pods, and green bell pepper; stir-fry for 5 minutes. Mix in cooked rice until thoroughly combined.",
+            "Stir in scrambled eggs and 1/3 cup soy sauce; cook until heated through and serve hot."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Egg Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "1 cup water",
+            "2 tablespoons soy sauce",
+            "½ teaspoon salt",
+            "1 cup uncooked instant rice",
+            "1 teaspoon vegetable oil",
+            "½ onion, finely chopped",
+            "½ cup sliced green beans or peas",
+            "1 large egg, lightly beaten",
+            "¼ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Bring water, soy sauce, and salt to a boil in a medium saucepan. Stir in instant rice and remove from heat. Cover and let stand for 5 minutes.",
+            "Heat oil in a medium skillet or wok over medium heat. Sauté onions and green beans or peas in hot oil for 2 to 3 minutes.",
+            "Pour in beaten egg and fry for 2 minutes, scrambling egg while it cooks.",
+            "Add cooked rice to egg mixture; mix well. Season with pepper."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Fried Rice with Ham",
+        "category": "Fried Rice",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "4 green onions, chopped",
+            "1 cup cubed ham",
+            "1 cup frozen mixed peas and carrots",
+            "4 large eggs, beaten",
+            "4 cups cold cooked rice",
+            "1 cup bean sprouts",
+            "3 tablespoons soy sauce",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Heat oil in a large skillet over medium-high heat. Cook and stir green onions in hot oil for 1 minute. Add ham, peas and carrots, and beaten eggs. Cook and stir until egg is completely cooked. Add cold rice and bean sprouts; cook and stir until rice is heated through. Remove from heat; season with soy sauce, salt, and pepper."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Shrimp Fried Rice",
+        "category": "Fried Rice",
+        "ingredients": [
+            "2 tablespoons sesame oil",
+            "2 tablespoons olive oil",
+            "1 pound uncooked medium shrimp, peeled and deveined",
+            "1 cup frozen peas and carrots",
+            "½ cup frozen corn",
+            "2 cloves garlic, finely minced, or more to taste",
+            "3 large eggs, lightly beaten",
+            "4 cups cooked rice",
+            "3 tablespoons thinly sliced green onions",
+            "3 tablespoons low-sodium soy sauce, or more to taste",
+            "½ teaspoon salt, or to taste",
+            "½ teaspoon freshly ground black pepper, or to taste"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Heat sesame oil and olive oil in a large nonstick skillet or wok over medium-high heat. Add shrimp and cook until they are bright pink on the outside and the meat is opaque, about 3 minutes, flipping halfway through.",
+            "Remove shrimp from the skillet using a slotted spoon, allowing oils and cooking juices to remain in the skillet. Place shrimp on a plate and set aside.",
+            "Add peas and carrots and corn to the skillet and cook, stirring intermittently, until vegetables begin to soften, about 2 minutes. Add garlic; cook and stir for 1 minute. Push vegetables to the side of the skillet, pour eggs into the other side, and cook to scramble, stirring as necessary, 3 to 4 minutes.",
+            "Stir shrimp, rice, and green onions into the skillet. Drizzle evenly with soy sauce, season with salt and pepper, and stir to combine. Cook until shrimp is reheated through, about 2 minutes."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    }
+]

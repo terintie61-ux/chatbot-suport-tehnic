@@ -1,0 +1,687 @@
+[
+    {
+        "Main_category": "cuisine"
+    },
+    {
+        "recipe_title": "Slow Cooker Asian Zing Chicken Noodles",
+        "category": "Chinese",
+        "ingredients": [
+            "1 (12 ounce) jar Buffalo Wild Wings® Asian Zing Sauce",
+            "1 1/2 pounds skinless boneless chicken thighs",
+            "1 (16 ounce) package lo mein noodles",
+            "1 bunch green onions, sliced, for garnish"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Place chicken thighs into a slow cooker. Pour sauce over chicken and cover with the lid. Cook on Low until chicken is very tender, about 3 hours.",
+            "Use two forks to shred chicken into large chunks.",
+            "Bring a large pot of salted water to a boil; add noodles and cook until tender with a bite, 40 seconds to 3 minutes, or according to package directions; drain. Place prepared lo mein into the crockpot with chicken and toss until combined.",
+            "Serve with freshly sliced green onions."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Moo Shu Pork",
+        "category": "Chinese",
+        "ingredients": [
+            "2 tablespoons soy sauce",
+            "2 tablespoons white wine",
+            "1 teaspoon sesame oil",
+            "2 teaspoons cornstarch",
+            "1 pound pork tenderloin, cut into thin strips",
+            "1 ¾ ounces dried shiitake mushrooms",
+            "½ cup sliced green onions",
+            "3 tablespoons minced garlic",
+            "2 tablespoons peeled and minced fresh ginger",
+            "1 head napa cabbage",
+            "3 tablespoons soy sauce",
+            "3 tablespoons white wine",
+            "½ teaspoon cornstarch",
+            "½ teaspoon white sugar",
+            "¼ teaspoon ground black pepper",
+            "1 tablespoon vegetable oil, plus more if needed",
+            "1 teaspoon sesame oil",
+            "2 large eggs, beaten",
+            "2 tablespoons white wine",
+            "1 cup hoisin sauce",
+            "1 tablespoon soy sauce",
+            "1 teaspoon sesame oil",
+            "16 frozen Chinese pancakes, thawed and warmed"
+        ],
+        "num_ingredients": 23,
+        "directions": [
+            "Gather the ingredients.",
+            "Place 2 tablespoons of soy sauce, 2 tablespoons of white wine, 1 teaspoon of sesame oil, and 2 teaspoons of cornstarch in a non-reactive bowl; stir until smooth. Stir pork into marinade until thoroughly coated; refrigerate for 30 minutes to an hour.",
+            "Meanwhile, pour hot water over mushrooms in a bowl; set aside to soften for 15 to 20 minutes. Drain mushrooms; pat dry, remove any hard stem pieces, and finely chop. Combine mushrooms, green onions, garlic, and ginger in a bowl; set aside.",
+            "Remove outer leaves from napa cabbage; tear green leafy portions from the central stalks of the leaves. Slice stalks into thin 1-inch pieces. Finely chop green leafy portions, and set aside the sliced stems and chopped leaves in separate bowls.",
+            "Combine 3 tablespoons of soy sauce, 3 tablespoons of white wine, 1/2 teaspoon of cornstarch, sugar, and ground black pepper in a small bowl; set aside.",
+            "Heat vegetable oil and 1 teaspoon of sesame oil in a wok over medium-high heat. Add marinated pork; cook and stir until cooked through and edges have begun to brown, about 5 minutes. Transfer pork to a bowl.",
+            "Pour beaten eggs into the hot wok, adding more vegetable oil if necessary; cook and stir until eggs are scrambled, firm, and well-broken up, about 2 minutes. Stir in mushroom mixture; cook and stir 1 to 2 minutes. Add napa cabbage stem pieces; cook and stir until hot but still crunchy, about 1 minute. Add chopped cabbage leaves and 2 tablespoons of white wine; cook and stir until hot, about 1 minute. Add cooked pork and reserved cornstarch mixture. Stir everything together until slightly thickened and hot, about 2 minutes.",
+            "Mix hoisin sauce, 1 tablespoon of soy sauce, and 1 teaspoon of sesame oil in a small bowl until thoroughly combined.",
+            "To serve, spread about 1 tablespoon of hoisin mixture on each pancake, top with about 1/2 cup of the pork mixture, roll, and serve."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ants Climbing a Tree Glass Noodles",
+        "category": "Chinese",
+        "ingredients": [
+            "4 ounces mung bean glass noodles (",
+            "2 tablespoons vegetable oil",
+            "6 ounces ground pork",
+            "3 garlic cloves,",
+            "1 tablespoon ginger",
+            "2 tablespoons Chinese spicy fermented bean sauce",
+            "1/4 teaspoon pepper",
+            "1 teaspoon white sugar",
+            "2 teaspoons soy sauce",
+            "2 cups chicken stock",
+            "1/3 cup green onions"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Add dry glass noodles to a large bowl and cover with cold water. Gently loosen the noodles apart with your fingers, and submerge noodles completely in water. Let soak for 10 minutes. Drain well and reserve.",
+            "Meanwhile, for the sauce, add oil to a skillet set over medium-high heat. Add pork, and cook for 3 or 4 minutes, breaking up the meat into small crumbles with a spatula. Continue to cook until pork starts to brown, 1 or 2 minutes more.",
+            "Add garlic, ginger, and fermented bean sauce, and cook, stirring, for 1 minute. Add Sichuan pepper and sugar, and cook, stirring. 30 seconds more.",
+            "Add soy sauce and chicken broth; raise the heat to high and bring sauce to a boil. Add drained noodles and green onions.",
+            "Cook, stirring with tongs, until noodles are soft, but retain a slight chewiness, 2 to 3 minutes. Remove from heat; noodles will continue to soak up most of the liquid after removing from heat.",
+            "Transfer into a serving bowl and garnish with more sliced green onions."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Sweet and Sour Chicken Thighs with Pineapple",
+        "category": "Chinese",
+        "ingredients": [
+            "3/4 pound skinless, boneless chicken thighs",
+            "1 tablespoon cornstarch",
+            "1/3 cup onion chunks",
+            "1/3 green bell pepper,",
+            "1/3 red bell pepper,",
+            "1/3 cup pineapple chunks",
+            "1/3 cup ketchup",
+            "2 tablespoons rice vinegar",
+            "2 tablespoons brown sugar, or to taste",
+            "1 tablespoon low-sodium soy sauce",
+            "1 large clove garlic, minced",
+            "1/2 teaspoon ginger paste",
+            "1 green onion, sliced, or as needed (optional)"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a baking dish or spray with cooking spray.",
+            "Pat chicken thighs dry with a paper towel, cut into 1-inch chunks, and add to the dish. Sprinkle with cornstarch, and toss until chicken is coated. Stir in onions, green and red bell peppers, and pineapple.",
+            "Add ketchup, rice vinegar, brown sugar, soy sauce, garlic, and ginger paste to a small bowl, whisk until well combined, and stir into the chicken mixture.",
+            "Bake until chicken is no longer pink at the center and juices run clear, 14 to 17 minutes, stirring halfway through. An instant-read thermometer inserted near the center should read 165 degrees F (74 degrees C). If sauce is a bit thick, stir in a splash of water to thin out until you reach your desired consistency.",
+            "Garnish with green onion slices and serve."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chilled Lo Mein Noodles with Szechuan Peppercorns",
+        "category": "Chinese",
+        "ingredients": [
+            "6 ounces lo mein noodles (such as Simply Asia)",
+            "3 tablespoons peanut oil",
+            "3 tablespoons Chinese black rice vinegar or rice vinegar",
+            "1 tablespoon soy sauce",
+            "1 tablespoon sugar",
+            "1 jalapeno pepper, minced (seeded if desired)",
+            "2 cloves garlic, minced",
+            "1 teaspoon peppercorns, crushed",
+            "1/4 cup dry-roasted peanuts",
+            "2 tablespoons chopped green onions",
+            "1 tablespoon cilantro leaves"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Prepare noodles according to package directions. Drain; rinse with cold water until cool. Drain well. Use kitchen shears to cut noodles into smaller pieces.",
+            "For vinaigrette, whisk together oil, vinegar, soy sauce, sugar, jalapeño, garlic, and peppercorns in a small bowl until sugar dissolves.",
+            "In a serving bowl, toss noodles with vinaigrette until well coated. Top with peanuts, green onions, and cilantro."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan General Tso's Chicken and Broccoli",
+        "category": "Chinese",
+        "ingredients": [
+            "1 1/2 tablespoons sambal oelek",
+            "1 tablespoon rice vinegar",
+            "2 teaspoons hoisin sauce",
+            "2 teaspoons soy sauce",
+            "2 teaspoons toasted sesame oil",
+            "2 teaspoons light brown sugar",
+            "1 teaspoon minced garlic",
+            "4 cups broccoli florets",
+            "1 teaspoon olive oil",
+            "salt and freshly ground black pepper to taste",
+            "1 pound frozen fully-cooked chicken nuggets",
+            "2 cups cooked white rice, or as needed, for serving",
+            "green onions (optional)",
+            "sesame seeds (optional)"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Whisk sambal oelek, rice vinegar, hoisin sauce, soy sauce, sesame oil, brown sugar, and garlic together in a small saucepan. Heat over low heat until warm, about 5 minutes; set aside.",
+            "Place broccoli florets in a microwave safe bowl. Microwave on High for 2 minutes. Add olive oil, salt, and pepper; toss to coat.",
+            "Place nuggets on one half of a large baking sheet. Spread broccoli on the other half of the baking sheet.",
+            "Bake in the preheated oven for 20 minutes.",
+            "Place nuggets in a large bowl. Drizzle sauce over the top, and toss until evenly coated. Serve chicken over rice with roasted broccoli. Garnish with green onions and sesame seeds."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "4-Ingredient Orange Chicken",
+        "category": "Chinese",
+        "ingredients": [
+            "1 cup orange marmalade",
+            "1/2 cup Kansas City-style BBQ sauce",
+            "1/4 cup low sodium soy sauce",
+            "1 (1 pound) bag frozen fully cooked chicken nuggets",
+            "green onions",
+            "sesame seeds"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Place frozen nuggets in a single layer on a baking sheet.",
+            "Bake in the preheated oven until hot and crispy, 11 to 13 minutes, or according to package directions.",
+            "Meanwhile, whisk marmalade, BBQ sauce, and soy sauce together in a small saucepan and heat over low heat until hot, about 5 minutes.",
+            "Place nuggets in a large bowl. Drizzle sauce over the top. Toss to coat."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Din Tai Fung Cucumber Salad",
+        "category": "Chinese",
+        "ingredients": [
+            "1 (1 1/4 pound) English cucumber",
+            "1 teaspoon kosher salt",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "2 cloves garlic",
+            "1 1/2 teaspoons sugar",
+            "1 1/2 teaspoons toasted sesame oil",
+            "1 1/2 teaspoons chili oil"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Place cucumbers in a large bowl. Sprinkle with salt and let stand for 30 minutes.",
+            "Rinse cucumbers with water to remove salt, and pat dry with paper towels.",
+            "In a separate bowl whisk soy sauce, vinegar, garlic, sugar, sesame oil, and chili oil until smooth.",
+            "Add cucumber slices to the oil mixture; stir to combine. Let stand for 10 minutes. Serve immediately."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Baked Sweet And Sour Chicken",
+        "category": "Chinese",
+        "ingredients": [
+            "1/4 cup olive oil, divided",
+            "4 4(6-ounce) boneless skinless chicken thighs, cut into 1 inch cubes",
+            "1/4 teaspoon black pepper",
+            "1 3/4 teaspoons kosher salt",
+            "2 large eggs",
+            "1 cup all purpose flour",
+            "2 large multicolored bell peppers",
+            "1/2 cup ketchup",
+            "1/4 cup pineapple juice",
+            "1/4 cup honey",
+            "3 tablespoons soy sauce",
+            "1 tablespoon rice vinegar",
+            "3 cups cooked white rice"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients. Preheat oven to 475 degrees F (245 degrees C) with racks in upper and lower third positions. Grease each of 2 baking sheets with 1 tablespoon of the oil along 1 of the short sides; set aside.",
+            "Sprinkle chicken evenly with pepper and 1 1/2 teaspoons of the salt, and place in a bowl. Add eggs, and stir to coat. Place flour in a shallow bowl or baking dish. Working in batches, dredge chicken in flour, and shake off excess. Divide chicken between the prepared baking sheets, spreading in an even layer along short edges.",
+            "Divide bell peppers among baking sheets, spreading evenly along other short edges. Drizzle bell peppers evenly with remaining 2 tablespoons oil, and toss gently to coat.",
+            "Bake in the preheated oven, rotating baking sheets halfway through, until chicken is browned in spots, about 15 minutes. Remove chicken and bell peppers from the oven; use a spatula to carefully flip chicken only . Return to the oven, and continue baking at 475 degrees F (245 degrees C) until chicken is crispy and a thermometer inserted into thickest portion of chicken registers 165 degrees F (73 degrees C), about 5 minutes.",
+            "While chicken is baking, whisk together ketchup, pineapple juice, honey, soy sauce, rice vinegar, and remaining 1/4 teaspoon salt in a small saucepan. Bring to a boil over medium, whisking occasionally. Reduce to a simmer over medium-low, and cook, stirring often, until mixture is reduced to 3/4 cup and coats back of spoon, about 5 minutes. Remove from heat.",
+            "Pour 1/4 cup of the prepared sauce over chicken on the baking sheets; toss to coat evenly. Divide rice, chicken, and bell peppers evenly among bowls. Drizzle evenly with remaining 1/2 cup sauce. Serve immediately."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Panda Express Orange Chicken",
+        "category": "Chinese",
+        "ingredients": [
+            "2 cups flour",
+            "½ cup cornstarch",
+            "2 teaspoons salt",
+            "½ teaspoon white pepper",
+            "1 large egg",
+            "1 cup water",
+            "2 tablespoons canola oil, divided",
+            "2 pounds boneless skinless chicken thighs, cut into 1-inch pieces",
+            "2 cups peanut oil, or as needed, for frying",
+            "3 teaspoons sesame oil, divided",
+            "¼ teaspoon crushed red pepper",
+            "2 teaspoons minced ginger",
+            "2 teaspoons minced garlic",
+            "¼ cup brown sugar",
+            "¼ cup fresh orange juice",
+            "¼ cup white vinegar",
+            "2 tablespoons soy sauce",
+            "3 tablespoons water",
+            "2 tablespoons cornstarch",
+            "1 teaspoon orange zest",
+            "3 cups cooked rice, or as needed",
+            "sliced green onions for garnish",
+            "sesame seeds for garnish"
+        ],
+        "num_ingredients": 23,
+        "directions": [
+            "Whisk flour, ½ cup cornstarch, salt, and white pepper together in a large bowl. Add egg, water, and 1 ½ tablespoons canola oil and stir to combine (mixture will be like a sticky batter). Add chicken pieces to batter and toss well to coat. Let chicken stand in refrigerator while oil heats.",
+            "Pour peanut oil into a deep saucepan filled about 2 inches deep. Heat oil to 375 degrees C (190 degrees F).",
+            "Meanwhile, to make the sauce: Heat remaining ½ tablespoon canola oil and 2 teaspoons sesame oil in a large skillet over medium-high heat. Add crushed red pepper, ginger, and garlic; cook, stirring constantly, until fragrant, about 30 seconds. Stir in brown sugar, orange juice, vinegar, and soy sauce; bring mixture to a boil, stirring often.",
+            "Combine 3 tablespoons cold water with 2 tablespoons cornstarch in a small bowl and stir until cornstarch is dissolved. Pour mixture into saucepan and stir to combine. Bring mixture to a boil and reduce to simmer, stirring constantly until sauce thickens. Turn heat off and keep warm while chicken is cooking.",
+            "Working in batches, add coated chicken pieces carefully to the hot oil. Oil temperature will reduce when food is added. Cook chicken at 350 degrees F (175 degrees C), stirring occasionally, until golden brown and crispy, 5 to 6 minutes. Remove chicken with a slotted spoon and drain on a wire rack set over paper towels. Bring oil temperature back up to 365 to 375 degrees F (185 to 190 degrees C) and repeat process with remaining chicken.",
+            "Return sauce mixture to medium heat, add more water if necessary if sauce thickens too much. Once hot, add in cooked chicken pieces and toss well to coat. Stir in remaining 1 teaspoon sesame oil and orange zest and serve over hot cooked rice. Garnish with green onions and sesame seeds if desired."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Ginger Chicken",
+        "category": "Chinese",
+        "ingredients": [
+            "1/4 cup packed light brown sugar",
+            "3 tablespoons soy sauce",
+            "2 tablespoons wine or rice vinegar",
+            "1/8 teaspoon white pepper",
+            "1/2 cup tap water, divided",
+            "4 scallions, sliced",
+            "1 tablespoon olive oil",
+            "1 1/2 pounds boneless, skinless chicken thighs",
+            "1/2 teaspoon kosher salt",
+            "1/4 teaspoon black pepper",
+            "1 1/2 tablespoons fresh ginger",
+            "2 cloves garlic, chopped",
+            "2 teaspoons cornstarch",
+            "sesame seeds for garnish",
+            "2 cups white rice, for serving"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Gather all ingredients.",
+            "Whisk together brown sugar, soy sauce, Shaoxing wine, white pepper, and 1/2 cup of the water until combined; set aside. Thinly slice scallions, and separate white and light green parts from dark green parts; set aside.",
+            "Heat oil in a large skillet over medium-high until shimmering. Sprinkle both sides of chicken evenly with salt and black pepper. Add chicken to skillet, rounded sides down, and cook until golden brown, about 10 minutes. Flip chicken, and continue to cook until a thermometer inserted into thickest portion registers 165 degrees F (73 degrees C), about 5 minutes. Transfer to a large plate, and cover loosely with aluminum foil to keep warm.",
+            "Add ginger, garlic, and reserved white and light green scallion parts to drippings in skillet, and cook over medium-high, stirring often, until garlic and ginger are fragrant and lightly toasted, and scallions are starting to fall apart, 3 to 4 minutes.",
+            "Whisk together cornstarch and remaining 1 tablespoon water until smooth. Add cornstarch mixture and soy sauce mixture to skillet. Bring to a boil over medium-high. Reduce heat to low to maintain a simmer, and cook, stirring constantly, until sauce thickens and coats the back of a spoon, about 1 minute. Remove from heat.",
+            "Return chicken and any residual juices to skillet, tossing to coat evenly in soy sauce mixture. Garnish with sesame seeds and dark green scallion parts. Serve over rice."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Veggie Lo Mein",
+        "category": "Chinese",
+        "ingredients": [
+            "1/3 cup low-sodium soy sauce",
+            "1 1/2 tablespoons hoisin sauce",
+            "1 tablespoon toasted sesame oil",
+            "2 teaspoons brown sugar",
+            "1 teaspoon riracha, or to taste",
+            "8 ounces whole-grain spaghetti",
+            "2 tablespoons vegetable oil",
+            "8 ounces aby Bella mushrooms, sliced",
+            "2 cups snow peas, halved",
+            "1 large red bell pepper, cored and sliced",
+            "1 carrot, peeled and cut into matchsticks",
+            "1 small onion, peeled and sliced vertically",
+            "2 cloves garlic, minced"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Whisk soy sauce, hoisin sauce, sesame oil, brown sugar, and Sriracha together in a small bowl until well blended; set aside.",
+            "Bring a large pot of salted water to a boil. Add pasta, stirring occasionally; cook until nearly tender with a bite, 7 to 8 minutes, and drain well.",
+            "Meanwhile, heat vegetable oil over medium-high heat in a large skillet or wok. Add mushrooms, snow peas, red bell pepper, carrot, onion, and garlic. Cook, stirring frequently, until just tender, 4 to 6 minutes.",
+            "Add spaghetti and sauce to the skillet and toss with the veggies until well coated. Simmer for 2 minutes to allow pasta to soak up the flavor, and serve."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lazy Wonton Soup",
+        "category": "Chinese",
+        "ingredients": [
+            "2 quarts chicken stock or broth",
+            "1 bunch green onions, divided",
+            "1 garlic clove, thinly sliced",
+            "1 3-inch fresh ginger,",
+            "2 tablespoons soy sauce, plus more to taste",
+            "1 1/2 teaspoons rice vinegar",
+            "1 tablespoon brown sugar",
+            "1 teaspoon kosher salt, divided",
+            "1 pound ground pork",
+            "2 teaspoons toasted sesame oil",
+            "2 teaspoons cornstarch",
+            "3 heads baby bok choy",
+            "20 wonton wrappers",
+            "Sriracha hot sauce"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Place chicken stock in a large saucepan or Dutch oven over medium-high heat. Cut white parts of green onions into 1-inch pieces and add to broth. Add garlic clove. Thinly slice 1 inch ginger (or 1 teaspoon ground) and add to stock. Add 1 tablespoon soy sauce, vinegar, brown sugar and 1/2 teaspoon salt. Bring mixture to a boil, stirring occasionally.",
+            "Place pork in a bowl. Finely slice remaining green parts of green onions. Set aside 3 tablespoons for garnish. Add remaining onions to the bowl; grate in remaining 2-inch piece of ginger. Add remaining soy sauce, remaining salt, sesame oil, and cornstarch to the bowl; mix until well combined.",
+            "Form mixture into 1-inch balls and add to broth. Alternatively, use a small spoon to drop heaping teaspoons full of meat into broth. Reduce heat to a simmer; cook 5 minutes. Add wonton wrappers, bok choy, and additional soy sauce to taste. Cook 8 minutes, stirring occasionally.",
+            "Serve with reserved green onions and hot sauce or chili crisp if desired."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sesame Chicken with Broccoli",
+        "category": "Chinese",
+        "ingredients": [
+            "1 ½ pounds boneless skinless chicken breast, cut into 1-inch pieces",
+            "2 teaspoons cornstarch",
+            "1 teaspoon salt, or to taste",
+            "1/4 teaspoon white pepper, or to taste",
+            "1 teaspoon cooking oil",
+            "2 teaspoons fresh ginger",
+            "2 teaspoons garlic",
+            "4 tablespoons cooking oil, divided",
+            "1/3 cup soy sauce",
+            "1/3 cup hoisin sauce",
+            "1/3 cup rice vinegar",
+            "1 teaspoon sambal oelek, or to taste",
+            "2 tablespoons sesame oil",
+            "1/2 cup carrots, cut into matchsticks",
+            "1/2 cup shallots",
+            "4 cups broccoli florets",
+            "1 tablespoon cornstarch",
+            "1 tablespoon soy sauce",
+            "1 tablespoon sesame seeds, or to taste"
+        ],
+        "num_ingredients": 19,
+        "directions": [
+            "Place chicken pieces in a bowl. Sprinkle with cornstarch, salt, and white pepper. Toss chicken to coat evenly and set aside.",
+            "Heat 1 teaspoon cooking oil in a small nonstick skillet over medium heat. Add garlic and ginger and cook, stirring, until fragrant, about 1 minute.",
+            "Stir in soy sauce, hoisin sauce, rice vinegar, sambal oelek, and sesame oil. Bring to a boil and cook, stirring, about 1 minute. Remove from heat and set aside.",
+            "Heat 2 tablespoons cooking oil over medium-high heat in a large nonstick skillet or wok until very hot. Add chicken pieces carefully to the hot oil. Cook, stirring, until chicken pieces are lightly browned on all sides, 8 to 10 minutes total. The chicken pieces will cause spattering, so be sure to use a long-handled spoon or other utensil to move the chicken around.",
+            "Using a slotted spoon, remove chicken from the skillet and add the remaining 2 tablespoons cooking oil. Add carrots, shallots, and broccoli, and stir quickly and continually, 3 to 4 minutes.",
+            "Stir in prepared sauce, and cook until the vegetables are as tender as you like, 2 to 3 minutes.",
+            "Place cornstarch in a small bowl and stir in 1 tablespoon soy sauce. Keep stirring until there are no lumps. Add cornstarch slurry to the skillet and rapidly stir until well combined. Return chicken pieces and cook, stirring often, until heated through, 2 to 3 minutes.",
+            "Remove from heat, sprinkle with sesame seeds, and serve hot."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Crispy Chinese Noodles",
+        "category": "Chinese",
+        "ingredients": [
+            "1 (10 ounce) package egg roll wrappers",
+            "2 cups vegetable oil, or as needed"
+        ],
+        "num_ingredients": 2,
+        "directions": [
+            "Gather the ingredients.",
+            "Cut egg roll wrappers into 1-inch strips.",
+            "Heat a wok over medium heat until very hot. Pour oil into the hot wok and heat until shimmering. To test the heat, lower the tip of a wooden chopstick into the oil; if it bubbles vigorously, the oil is ready.",
+            "Gently place 2 to 3 strips into hot oil; cook until beginning to brown on one side, 30 seconds to 1 minute. Gently flip and cook until crisp and golden brown all over, 30 seconds to 1 minute more.",
+            "Use a slotted spoon to transfer fried strips to a paper towel-lined plate. Repeat to fry remaining strips."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Shrimp with Broccoli in Garlic Sauce",
+        "category": "Chinese",
+        "ingredients": [
+            "2 cups fresh broccoli florets",
+            "1 tablespoon water",
+            "2 tablespoons peanut oil",
+            "4 large cloves garlic, minced",
+            "1 cup low-sodium chicken broth",
+            "1 tablespoon soy sauce",
+            "1 tablespoon oyster sauce",
+            "2 teaspoons grated fresh ginger root",
+            "1 pound uncooked medium shrimp, peeled and deveined",
+            "¼ cup canned water chestnuts, drained",
+            "2 tablespoons cornstarch"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Combine broccoli and water in a glass bowl; steam in microwave oven until slightly tender, 2 to 3 minutes.",
+            "Heat peanut oil in a large skillet or wok over medium-high heat. Add garlic and cook until fragrant, about 1 minute. Reduce heat to low. Add chicken broth, soy sauce, oyster sauce, and ginger root to the garlic; bring to a boil. Add shrimp; cook and stir until the shrimp turn pink, 3 to 4 minutes.",
+            "Toss steamed broccoli and water chestnuts with shrimp mixture to coat with sauce. Stir cornstarch into mixture, 1 tablespoon at a time, until sauce thickens, about 5 minutes."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Panda Express Chow Mein",
+        "category": "Chinese",
+        "ingredients": [
+            "3 tablespoons canola oil",
+            "1 tablespoon sesame oil",
+            "1/2 white onion, finely chopped",
+            "2 stalks celery, sliced",
+            "1 tablespoon fresh ginger",
+            "3 cups coleslaw mix",
+            "5 ounces bean sprouts",
+            "7.1 ounce stir-fry noodles",
+            "1/4 cup tamari",
+            "2 tablespoons mirin"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Heat canola oil and sesame oil in a wok over high heat. Add onion, celery, and ginger; cook, stirring often, 1 minute. Add coleslaw mix and sprouts; cook, stirring constantly, 2 minutes. Add noodles, and cook, stirring constantly, 1 minute. Add tamari and mirin; cook, stirring occasionally, 2 minutes."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chicken in Black Bean Sauce",
+        "category": "Chinese",
+        "ingredients": [
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 1/2 teaspoons light soy sauce",
+            "1 ½ teaspoons white sugar",
+            "1/2 teaspoon salt",
+            "6 skinless, boneless chicken breast halves, sliced",
+            "1 cup bean sprouts"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "To make the marinade: Mix 1 tablespoon cornstarch with 1 tablespoon water in a bowl; stir in light soy sauce, sugar, and salt. Add chicken; toss to combine. Set aside to marinate for 20 minutes.",
+            "Bring water to a boil in a saucepan. Add bean sprouts; cook just until blanched, about 30 seconds; drain and set aside.",
+            "Combine 1/4 cup water, oyster sauce, and sugar together in a small bowl; set aside.",
+            "Heat vegetable oil in a skillet over high heat. Add black bean sauce and chopped garlic; cook and stir until fragrant, about 1 minute. Add onion; cook and stir until soft, 3 to 4 minutes.",
+            "Add chicken and marinade mixture; stir-fry until cooked through and no longer pink in the middle, about 4 to 5 minutes. Stir in oyster sauce mixture; cook until heated through. Cover and simmer until flavors blend, about 1 or 2 minutes. Stir in bell pepper; cover and cook until softened, 1 to 2 minutes more.",
+            "Dissolve 2 teaspoons cornstarch in 1 tablespoon water. Stir in bean sprouts and cornstarch mixture; cook until sauce is thickened, 2 to 3 minutes more."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Quick Beef Stir-Fry",
+        "category": "Chinese",
+        "ingredients": [
+            "2 tablespoons vegetable oil",
+            "1 pound beef sirloin, cut into 2-inch strips",
+            "1 ½ cups fresh broccoli florets",
+            "1 red bell pepper, cut into matchsticks",
+            "2 carrots, thinly sliced",
+            "1 green onion, chopped",
+            "1 teaspoon minced garlic",
+            "2 tablespoons soy sauce",
+            "2 tablespoons sesame seeds, toasted"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients.",
+            "Heat vegetable oil in a large wok or skillet over medium-high heat; add beef and stir-fry until browned, 3 to 4 minutes.",
+            "Move beef to the side of the wok and add broccoli, bell pepper, carrots, green onion, and garlic to the center of the wok; stir-fry vegetables for 2 minutes.",
+            "Stir beef into vegetables and season with soy sauce and sesame seeds. Continue to cook and stir until vegetables are tender, about 2 more minutes.",
+            "Serve hot and enjoy!"
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Orange Chicken",
+        "category": "Chinese",
+        "ingredients": [
+            "1 ½ cups water",
+            "⅓ cup rice vinegar",
+            "¼ cup lemon juice",
+            "2 ½ tablespoons soy sauce",
+            "2 tablespoons orange juice",
+            "1 cup packed brown sugar",
+            "2 tablespoons chopped green onion",
+            "1 tablespoon grated orange zest",
+            "½ teaspoon minced fresh ginger root",
+            "½ teaspoon minced garlic",
+            "¼ teaspoon red pepper flakes",
+            "3 tablespoons cornstarch",
+            "2 tablespoons water"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather all ingredients.",
+            "Combine water, rice vinegar, lemon juice, soy sauce, and orange juice for sauce into a saucepan over medium-high heat. Stir in brown sugar, green onion, orange zest, ginger, garlic, and pepper flakes; bring to a boil. Remove from heat, and cool for 10 to 15 minutes.",
+            "Place chicken in a resealable plastic bag. Pour in 1 cup cooled sauce. Seal the bag, and refrigerate for at least 2 hours. Reserve the remaining sauce.",
+            "Mix flour, salt, and pepper in another resealable plastic bag.",
+            "Remove chicken from the marinade and place into the bag of seasoned flour. Seal the bag and shake to coat.",
+            "Heat the olive oil in a large skillet over medium heat. Cook chicken in the hot skillet until browned on both sides.",
+            "Remove to a paper towel-lined plate and cover with aluminum foil. Wipe out the skillet.",
+            "Pour reserved sauce into the skillet and bring to a boil over medium-high heat. Mix together cornstarch and water until completely smooth. Stir into the boiling sauce.",
+            "Reduce heat to medium-low, add the chicken, and simmer, stirring occasionally, until cooked through, about 5 minutes.",
+            "Serve over rice and enjoy!"
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

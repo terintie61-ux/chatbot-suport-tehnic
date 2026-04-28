@@ -1,0 +1,681 @@
+[
+    {
+        "Main_category": "meat_based"
+    },
+    {
+        "recipe_title": "Chicken Cacciatore Pasta",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "4 (11 ounce) chicken leg quarters",
+            "1 ¾ teaspoons salt, or more to taste, divided",
+            "3 tablespoons vegetable oil",
+            "1 red bell pepper, cut into strips",
+            "1 cup sliced onion",
+            "6 cloves garlic, thinly sliced",
+            "2 tablespoons chopped fresh oregano",
+            "1 ½ teaspoons dried thyme",
+            "1 (28 ounce) can tomato puree",
+            "½ cup water",
+            "1 (15.5 ounce) can cannellini beans, drained and rinsed",
+            "2 tablespoons red wine vinegar",
+            "8 ounces dried fusilli or penne pasta"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat oven to 325 degrees F (165 degrees C).",
+            "Sprinkle chicken with 1 teaspoon salt. Heat oil in a wide, heavy, oven-safe pot over medium-high heat until hot but not smoking, about 1 minute. Add chicken, skin sides down, and cook, turning once, until browned, about 10 minutes. Transfer to a plate.",
+            "Pour off all but 2 tablespoons fat. Reduce heat to medium and cook pepper, onion, and garlic, stirring, until softened, about 5 minutes. Stir in oregano, thyme, tomato puree, water, and remaining 3/4 teaspoon salt; bring to a simmer. Return chicken to pot, return to a simmer, cover, and transfer to oven. Bake until chicken is tender, 45 to 50 minutes.",
+            "Transfer chicken to a bowl and chill, uncovered, until cool enough to handle (20 minutes). Discard skin and bones. Pull meat into coarse shreds.",
+            "Add chicken, beans, and vinegar to tomato mixture in pot and simmer until heated through, about 5 minutes.",
+            "Meanwhile, cook pasta in salted water according to package directions. Drain, reserving 1 cup pasta water. Stir pasta into chicken mixture, thinning with pasta water as needed. Season with additional salt, if desired."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Italian Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "¼ cup olive oil, divided",
+            "1 onion, diced",
+            "¼ cup all-purpose flour",
+            "½ teaspoon salt",
+            "¼ teaspoon freshly ground black pepper",
+            "8 chicken thighs",
+            "½ cup dry white wine",
+            "2 (14.5 ounce) cans diced tomatoes",
+            "2 teaspoons tomato paste",
+            "¼ teaspoon white sugar, or more to taste",
+            "salt and ground black pepper to taste",
+            "½ cup chicken broth, or more as needed",
+            "½ cup black olives, pitted",
+            "1 tablespoon chopped fresh parsley",
+            "1 tablespoon torn basil leaves"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Heat 2 tablespoons olive oil in a skillet over medium heat and cook onion, stirring often, until soft and translucent, about 5 minutes. Transfer to a pot.",
+            "Combine flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper in a large bowl. Toss chicken thighs in the flour mixture until evenly coated.",
+            "Heat remaining 2 tablespoons olive oil in the skillet over medium heat, add chicken thighs, and brown on one side, without turning, for 5 minutes. Turn and cook until browned on the other side, about 5 minutes more. Transfer browned chicken thighs to the pot.",
+            "Pour white wine into the skillet; bring to a boil. Stir to loosen all the browned bits of chicken and flavors in the skillet pour into the pot. Add diced tomatoes, tomato paste, and sugar; season with salt and pepper. Add as much chicken stock as needed to cover the chicken. Cover pot and simmer over medium heat, stirring occasionally, until chicken is no longer pink in the center, about 45 minutes.",
+            "Stir in olives, parsley, and basil. Stir to heat through."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "1 whole roasting chicken, cut in quarters",
+            "1 large onion, sliced",
+            "8 ounces fresh mushrooms, quartered",
+            "1 pinch salt",
+            "1 pinch ground black pepper",
+            "4 cloves garlic, sliced",
+            "3 sprigs rosemary",
+            "1 teaspoon dried oregano",
+            "½ teaspoon red pepper flakes, or to taste",
+            "1 cup tomato sauce",
+            "½ cup water",
+            "salt and ground black pepper to taste",
+            "2 red bell peppers, sliced",
+            "2 green bell peppers, sliced"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat olive oil in a large Dutch oven over medium-high heat; add chicken and cook until browned on the outside. Remove to a bowl to capture the juices.",
+            "Stir in onions and mushrooms; cook for 5-6 minutes until soft. Add a big pinch of salt and pepper. Stir in garlic, rosemary, red pepper flakes, oregano, tomato sauce, and water.",
+            "Place chicken pieces and any juices that have accumulated in the bowl on top of the cooked vegetables. Add more salt and pepper. Place pepper slices on top of the chicken.",
+            "Cover and cook in the preheated oven for 1 hour 15 minutes."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Slow Cooker Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "6 skinless, boneless chicken breast halves",
+            "1 (28 ounce) jar spaghetti sauce",
+            "2 green bell pepper, seeded and cubed",
+            "8 ounces fresh mushrooms, sliced",
+            "1 onion, finely diced",
+            "2 tablespoons minced garlic"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Put the chicken in the slow cooker. Top with the spaghetti sauce, green bell peppers, mushrooms, onion, and garlic.",
+            "Cover, and cook on Low for 7 to 9 hours."
+        ],
+        "healthiness_score": 82,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Boneless Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 tablespoon olive oil",
+            "4 skinless, boneless chicken breasts, cubed",
+            "4 stalks celery, chopped",
+            "1 onion, chopped",
+            "1 red bell pepper, chopped",
+            "½ green bell pepper, chopped",
+            "3 cloves garlic, crushed",
+            "1 (14.5 ounce) can diced tomatoes",
+            "1 cup tomato juice",
+            "1 (6 ounce) can tomato paste",
+            "2 tablespoons dried parsley",
+            "1 ½ teaspoons salt",
+            "1 teaspoon dried basil",
+            "½ teaspoon dried oregano",
+            "½ teaspoon dried marjoram",
+            "¼ teaspoon ground black pepper"
+        ],
+        "num_ingredients": 16,
+        "directions": [
+            "Heat oil in a large skillet over medium-high heat. Add chicken and cook until no longer pink in the middle, 5 to 7 minutes. Stir in celery, onion, bell peppers, garlic, tomatoes, tomato juice, tomato paste, parsley, salt, basil, oregano, marjoram, and black pepper. Cover and let simmer until vegetables are no longer crispy, about 10 minutes."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Cacciatore with Rice",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "3 tablespoons vegetable oil",
+            "1 ½ pounds skinless, boneless chicken breasts, cut into strips",
+            "½ cup chopped onion",
+            "2 cloves garlic, minced",
+            "1 (28 ounce) can whole peeled tomatoes",
+            "1 (8 ounce) can tomato sauce",
+            "1 cup green bell pepper strips",
+            "2 teaspoons salt",
+            "½ teaspoon dried basil",
+            "⅛ teaspoon cayenne pepper",
+            "1 ½ cups uncooked instant rice"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Heat oil in a pot over medium heat. Add chicken, onion, and garlic; cook until chicken is browned and onion and garlic are softened, 8 to 10 minutes.",
+            "Stir in tomatoes, tomato sauce, bell pepper, salt, basil, and cayenne pepper; bring to boil. Cook for 5 minutes.",
+            "Stir in rice, cover, and remove from the heat. Let stand until rice is tender, about 5 minutes. Stir before serving."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Scarlett's Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 pound skinless, boneless chicken breast halves, cubed",
+            "1 small onion, diced",
+            "½ green bell pepper, diced",
+            "2 cups sliced fresh mushrooms",
+            "1 clove garlic, crushed",
+            "1 (28 ounce) can Italian-style crushed tomatoes",
+            "2 tablespoons chopped fresh parsley",
+            "1 teaspoon salt",
+            "¼ teaspoon ground black pepper",
+            "2 teaspoons Italian seasoning",
+            "1 teaspoon dried basil",
+            "1 (8 ounce) package egg noodles",
+            "½ cup grated Parmesan cheese"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Heat the oil in a large skillet over medium heat, and cook and stir the chicken, onion, green pepper, mushrooms, and garlic until the chicken is no longer pink inside, 10 to 15 minutes. Stir in the crushed tomatoes, parsley, salt, pepper, Italian seasoning, and basil, bring the mixture to a boil, and reduce heat. Cover the skillet and simmer for 30 minutes.",
+            "While the chicken mixture is simmering, fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the egg noodles, and return to a boil. Cook the noodles uncovered, stirring occasionally, until cooked through but still firm to the bite, about 5 minutes. Drain well in a colander set in the sink.",
+            "Serve the chicken cacciatore over the hot cooked noodles. Sprinkle with Parmesan cheese before serving."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "⅓ cup chopped onion",
+            "⅓ cup chopped green bell pepper",
+            "1 clove garlic, chopped",
+            "¾ pound chicken meat, cooked and cubed",
+            "½ cup whole peeled tomatoes",
+            "½ cup green beans",
+            "¼ teaspoon dried oregano"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Sauté onion, bell pepper, and garlic in a large skillet until soft. Add chicken, then stir in tomatoes, beans, and oregano.",
+            "Reduce heat to medium-low and simmer, stirring constantly, for 8 to 10 minutes. Remove from heat and serve hot."
+        ],
+        "healthiness_score": 90,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Hunter Style Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "2 teaspoons olive oil",
+            "6 cloves garlic, sliced",
+            "2 (28 ounce) cans whole peeled plum tomatoes with juice",
+            "1 (6 ounce) can tomato paste",
+            "¾ cup red wine",
+            "1 tablespoon white sugar",
+            "1 tablespoon dried oregano",
+            "1 tablespoon dried basil",
+            "1 teaspoon salt",
+            "½ teaspoon ground black pepper",
+            "2 tablespoons olive oil, divided",
+            "1 carrot, chopped",
+            "1 stalk celery, chopped",
+            "2 green bell peppers, cut into chunks",
+            "2 onions, cut into chunks",
+            "1 pound fresh mushrooms, sliced",
+            "2 eggs",
+            "2 cups all-purpose flour",
+            "¼ cup olive oil",
+            "5 pounds skinless, boneless chicken pieces",
+            "1 ½ pounds dry linguine pasta",
+            "½ cup chopped fresh parsley",
+            "1 tablespoon freshly shredded Parmesan cheese, or to taste"
+        ],
+        "num_ingredients": 23,
+        "directions": [
+            "Heat 2 teaspoons of olive oil in a large pot over low heat, and cook and stir the garlic until tender but not browned, about 3 minutes. Pour in the tomatoes with their juice, and mash with a potato masher to leave the tomatoes in chunks. Stir in tomato paste, red wine, sugar, oregano, basil, salt, and black pepper, and mix until the tomato paste is smoothly combined into the sauce. Bring to a simmer, and cook, stirring often, while you prepare the vegetables.",
+            "Heat 1 tablespoon of olive oil in a skillet over medium heat, and cook and stir the carrot and celery until tender, 5 to 8 minutes. Stir into the sauce. In the same skillet, cook and stir the green peppers and onions until the onions are translucent, 5 to 8 more minutes; mix them to the sauce. Heat 1 more tablespoon of olive oil in the skillet, and cook and stir the mushrooms until they give up their liquid, about 10 minutes; stir the mushrooms into the sauce. Allow sauce to simmer while you cook the chicken.",
+            "Beat the eggs in a bowl. Place the flour in a separate shallow bowl. Heat 1/4 cup of olive oil in a large skillet over medium heat. Dip chicken pieces in egg, then dredge in flour. Tap off any excess flour, and brown the chicken pieces in the hot oil until browned on both sides, about 15 minutes. Set the chicken pieces aside.",
+            "Preheat oven to 325 degrees F (165 degrees C).",
+            "Spoon about 1 cup of the tomato sauce into the bottom of a large Dutch oven. Place the chicken pieces into the Dutch oven, and pour remaining sauce and vegetables over the chicken; cover.",
+            "Bake in the preheated oven until the chicken is tender and no longer pink inside, about 1 hour. If sauce begins to boil harder than a simmer, reduce oven heat to 300 degrees F (150 degrees C).",
+            "About 15 minutes before serving time, bring a large pot of lightly salted water to a boil. Stir in the linguine pasta, bring back to a boil, and cook, stirring often, until the linguine is tender but still slightly firm, 10 to 12 minutes. Drain the pasta well.",
+            "Turn the linguine out onto a large platter, and top with the chicken and sauce. Sprinkle with parsley and Parmesan cheese to serve."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Best Instant Pot Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 pound skinless, boneless chicken thighs",
+            "2 small skinless, boneless chicken breasts, halved lengthwise",
+            "1 tablespoon sea salt",
+            "1 tablespoon fresh ground black pepper",
+            "¼ tablespoon cornstarch",
+            "3 tablespoons extra-virgin olive oil, divided",
+            "3 stalks celery, chopped",
+            "1 small onion, chopped",
+            "4 cloves garlic, minced",
+            "1 (8 ounce) package sliced fresh mushrooms",
+            "1 green bell pepper, diced",
+            "1 red bell pepper, diced",
+            "2 large jarred roasted red bell peppers, chopped",
+            "¾ cup dry Cabernet Sauvignon",
+            "3 tablespoons tomato paste",
+            "2 teaspoons garlic powder",
+            "2 teaspoons onion powder",
+            "2 teaspoons chicken bouillon granules",
+            "2 teaspoons Italian seasoning",
+            "1 ½ teaspoons red pepper flakes, or to taste"
+        ],
+        "num_ingredients": 20,
+        "directions": [
+            "Dredge chicken thighs and breasts with salt, pepper, and cornstarch.",
+            "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Sauté function. Heat 1 1/2 tablespoons olive oil in the Instant Pot bowl. Add chicken and cook until browned on both sides, flipping halfway using tongs, about 10 minutes. Transfer chicken to a plate.",
+            "Heat remaining 1 1/2 tablespoons olive oil to the Instant Pot bowl. Sauté celery and onion until translucent, about 3 minutes. Add garlic; stir in mushrooms, green bell pepper, red bell pepper, and roasted red bell peppers. Sauté until fragrant, about 1 minute more.",
+            "Return chicken to the bowl. Add Cabernet Sauvignon, tomato paste, garlic powder, onion powder, bouillon, Italian seasoning, and red pepper flakes. Close and lock the lid. Select high pressure according to manufacturer's instructions; set the timer for 11 minutes. Allow 10 to 15 minutes for pressure to build.",
+            "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Homemade Chicken Cacciatore, Sicilian-Style",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 tablespoon butter",
+            "1 large onion, chopped",
+            "1 large green bell pepper, sliced thin",
+            "1 teaspoon minced garlic",
+            "2 (14.5 ounce) cans diced tomatoes, drained and juice reserved",
+            "1 cup Burgundy wine",
+            "1 ½ tablespoons Italian seasoning",
+            "1 teaspoon salt",
+            "1 teaspoon ground black pepper",
+            "½ teaspoon garlic salt",
+            "1 whole chicken, cut into pieces",
+            "2 tablespoons all-purpose flour",
+            "1 (16 ounce) package spaghetti"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Melt butter in a large stockpot over medium heat. Add onion, bell pepper, and garlic; cook until begins to soften, about 3 minutes. Add tomatoes, wine, Italian seasoning, salt, black pepper, and garlic salt; cook and stir until mixture just begins to boil.",
+            "Reduce heat to medium-low; add chicken and cook until meat is fall-off-the-bone tender, about 1 ½ hours. Remove bones and skin from chicken; return meat to the pot.",
+            "Place ¾ cup reserved canned tomato liquid in a microwave-safe bowl; microwave until just warmed. Stir in flour until thick; stir into the pot, stirring continuously, until begins to thicken. Remove from heat; set aside for about 15 minutes.",
+            "Meanwhile, bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet still firm to the bite, about 12 minutes. Drain. Serve chicken cacciatore over spaghetti."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Ellen's Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "2 tablespoons olive oil",
+            "6 boneless, skinless chicken thighs - fat trimmed",
+            "1 onion, chopped",
+            "1 (8 ounce) package sliced fresh mushrooms",
+            "2 cloves garlic, minced",
+            "1 (28 ounce) can diced tomatoes with juice",
+            "1 cup dry white wine",
+            "½ cup orange juice",
+            "2 tablespoons dried rosemary, or to taste",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Heat olive oil in a large skillet over medium heat. Cook chicken thighs in hot oil until browned, about 5 minutes per side. Remove chicken to a plate and set aside.",
+            "Cook and stir onion and mushrooms in the same skillet until mushrooms have softened, about 10 minutes. Stir in garlic and cook until fragrant, 1 to 2 more minutes.",
+            "Pour in tomatoes with juice, white wine, orange juice, rosemary, salt, and black pepper; stir until thoroughly combined.",
+            "Return chicken and any accumulated juices to the skillet. Cover the skillet and bring to a boil. Reduce heat to medium-low and simmer until chicken is tender and no longer pink on the inside, 30 to 40 minutes."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Caper Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 (4 pound) chicken, cut into pieces",
+            "salt and pepper to taste",
+            "¼ cup olive oil",
+            "2 onions, thinly sliced",
+            "½ cup fresh sliced mushrooms",
+            "1 (14.5 ounce) can stewed tomatoes",
+            "1 (10.75 ounce) can condensed cream of mushroom soup",
+            "1 cup white wine",
+            "¼ cup pitted green olives",
+            "¼ cup black olives",
+            "2 tablespoons capers",
+            "8 ounces pepperoni sausage, sliced"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "In a large skillet heat oil over medium heat. Season chicken pieces with salt and pepper to taste and brown chicken in hot oil. Remove chicken from skillet. Set aside.",
+            "In same skillet saute onions and mushrooms until translucent. Return chicken to skillet and add the tomatoes, soup and wine. When liquids start to simmer add the green olives, black olives, capers and pepperoni. Cover skillet and let simmer for 30 minutes.",
+            "Preheat oven to 350 degrees F (175 degrees C). Remove skillet cover, pour skillet mixture into a 9x13 inch baking dish and bake in preheated oven for about 15 minutes, until chicken is tender and juices run clear."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Northern Italian-Style Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 (4 pound) whole chicken, cut into 4 pieces",
+            "2 tablespoons olive oil",
+            "1 (8 ounce) package mushrooms, chopped",
+            "1 medium onion, chopped",
+            "1 stalk celery, chopped",
+            "2 cloves garlic, minced",
+            "½ cup dry white wine",
+            "1 (14 ounce) can diced tomatoes",
+            "½ cup chicken broth",
+            "¼ cup chopped fresh parsley",
+            "1 teaspoon dried oregano",
+            "1 pinch red pepper flakes",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Rinse chicken pieces and pat dry.",
+            "Heat oil in a large skillet over medium heat. Add chicken and brown, 4 to 5 minutes per side. Remove chicken to a plate.",
+            "Add mushrooms, onion, and celery to the pan drippings and sauté until soft, about 5 minutes. Add garlic and cook until fragrant, about 2 more minutes.",
+            "Return chicken to the skillet. Add white wine and cook until it has almost completely evaporated, 2 to 3 minutes. Add diced tomatoes, chicken broth, parsley, oregano, pepper flakes, salt, and pepper. Cover and simmer until chicken is no longer pink at the bone and the juices run clear, about 30 minutes."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Cacciatore with Creamy Mashed Potatoes",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "¾ pound red potatoes, cut into 1-inch chunks",
+            "1 ½ cups small fresh cauliflower florets",
+            "4 (4 ounce) boneless skinless chicken breast halves",
+            "½ cup KRAFT Lite Balsamic Vinaigrette Dressing",
+            "1 (8 ounce) package sliced fresh mushrooms",
+            "1 green bell pepper, chopped",
+            "1 yellow bell pepper, chopped",
+            "1 (14.5 ounce) can Italian-style diced tomatoes, undrained",
+            "½ cup PHILADELPHIA Chive & Onion 1/3 Less Fat than Cream Cheese",
+            "¼ cup chopped fresh basil"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Cook potatoes and cauliflower in boiling water in large saucepan 20 min. or until tender.",
+            "Meanwhile, cook chicken in large nonstick skillet sprayed with cooking spray on medium heat 3 to 4 min. on each side or until golden brown. Transfer to plate; cover to keep warm.",
+            "Add dressing, mushrooms and peppers to skillet; cook and stir 6 min. Add tomatoes; simmer 8 min. Return chicken to skillet; spoon sauce over chicken. Simmer 3 min. or until chicken is done (165 degrees F).",
+            "Drain potato mixture; return to pan. Add reduced-fat cream cheese; mash until potato mixture is fluffy. Serve topped with chicken, vegetables and basil."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Cacciatore Rice Bowl",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "Salt and ground black pepper to taste",
+            "½ cup all-purpose flour",
+            "1 ½ pounds boneless, skinless chicken thighs, cut into 1-inch pieces",
+            "olive oil",
+            "1 large red bell pepper, seeded and chopped",
+            "1 small yellow onion, chopped",
+            "2 cloves garlic, minced",
+            "¾ cup dry white wine",
+            "¾ cup chicken broth",
+            "1 (24 ounce) jar RAGÚ® Old World Style® Traditional Sauce",
+            "6 cups cooked brown rice"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Mix together a large pinch of salt and pepper with the flour in a large bowl. Add the chicken pieces and toss until evenly coated with flour mixture.",
+            "Heat olive oil in a large skillet over medium-high heat. Cook chicken for about 4 minutes, turning well so each side is evenly browned. Remove to a plate. In the same skillet, saute the pepper, onion, and garlic until the onion is soft and translucent, about 5 minutes. Add wine and chicken broth; simmer until it is reduced by half. Finally, pour in the tomato sauce and add the browned chicken pieces. Simmer for 5 minutes, or until thickened.",
+            "Divide the rice into four deep bowls and top with even amounts of the chicken cacciatore. Serve hot."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Cacciatore II",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "2 (3 pound) whole chickens, each cut into 8 pieces",
+            "salt and ground black pepper to taste",
+            "1 cup all-purpose flour",
+            "2 tablespoons olive oil",
+            "1 yellow onion, chopped",
+            "1 large green bell pepper, seeded and chopped",
+            "6 cloves garlic, minced",
+            "1 pound white button mushrooms, quartered",
+            "2 teaspoons chopped fresh oregano",
+            "1 (28 ounce) can whole peeled tomatoes in juice, coarsely chopped",
+            "2 tablespoons tomato paste",
+            "¾ cup white wine",
+            "1 ½ cups chicken stock",
+            "3 tablespoons capers, drained and rinsed",
+            "2 tablespoons coarsely chopped fresh basil"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Season the chicken pieces with salt and black pepper.",
+            "Place the flour in a shallow bowl. Press each chicken piece into the flour and tap off excess.",
+            "Heat the olive oil in a large Dutch oven over medium heat until almost smoking hot.",
+            "Pan-fry the chicken until golden brown on both sides, about 3 minutes per side. Work in batches so as to not overcrowd the pan. Set the browned chicken aside.",
+            "Stir the onion, green bell pepper, and garlic into the Dutch oven; cook, stirring occasionally, until tender, about 5 minutes.",
+            "Stir in the mushroom; cook until they release their juice, 5 to 8 more minutes.",
+            "Mix in oregano, tomatoes, tomato paste, white wine, and chicken stock; bring to a boil.",
+            "Return the chicken pieces to the sauce, cover the pan, reduce heat to medium-low, and simmer until the chicken is no longer pink inside and the juices run clear, 30 to 40 minutes.",
+            "Stir in capers and sprinkle with basil to serve."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chicken Cacciatore Delight",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "1 (3 pound) whole chicken, cut into pieces",
+            "½ cup all-purpose flour",
+            "¼ cup peanut oil",
+            "2 cups onions, cut into thin rings",
+            "½ cup chopped green bell pepper",
+            "2 cloves garlic, crushed",
+            "1 (8 ounce) package sliced fresh mushrooms",
+            "1 (14.5 ounce) can crushed tomatoes, drained",
+            "1 (8 ounce) can tomato sauce",
+            "1 teaspoon salt",
+            "¼ teaspoon dried oregano",
+            "¼ cup sherry"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Rinse and pat the chicken pieces dry with paper towels, then coat with flour in a bowl or a resealable plastic zipper bag. Heat the peanut oil in a large skillet over medium heat, and brown the chicken on all sides until golden brown, about 15 minutes. Remove the chicken, and set aside in a bowl.",
+            "Cook the onions, green bell pepper, and garlic in the oil left in the hot skillet until the onion slices are translucent, about 5 minutes; stir in mushrooms, and cook and stir until the mushrooms have given up their liquid and are almost tender, about 10 more minutes. Pour in crushed tomatoes, tomato sauce, salt, oregano, and sherry, and mix well; stir in the chicken pieces and any juices that have collected.",
+            "Simmer until the chicken meat is tender and no longer pink in the thickest part of a thigh, and the juices run clear, 30 to 40 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Spicy Slow Cooker Chicken Cacciatore with Wine",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "2 pounds skinless, boneless chicken breasts",
+            "2 ½ cups red wine",
+            "1 large onion, coarsely chopped",
+            "1 medium green bell pepper, seeded and chopped",
+            "1 medium yellow bell pepper, seeded and chopped",
+            "1 medium orange bell pepper, seeded and chopped",
+            "1 medium red bell pepper, seeded and chopped",
+            "7 tablespoons minced garlic",
+            "3 tablespoons red pepper flakes, or more to taste",
+            "2 tablespoons Italian seasoning",
+            "salt and ground black pepper to taste",
+            "2 (15 ounce) cans diced tomatoes",
+            "¾ cup white sugar, or to taste",
+            "2 (15 ounce) cans tomato sauce"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "The night before cooking, layer ingredients into a slow cooker in the following order: chicken, wine, onion, bell peppers, garlic, red pepper flakes, Italian seasoning, salt, pepper, diced tomatoes, sugar, and tomato sauce. Cover and place in the refrigerator so chicken can soak up the wine, 8 hours to overnight.",
+            "The next morning, remove from the refrigerator and cook on Low, stirring occasionally, for 6 hours. Remove chicken and shred meat with 2 forks; return meat to the cooker.",
+            "Cook on High with lid slightly off to allow juices to evaporate and sauce to condense, about 2 more hours."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "My Italian Grandfather's Chicken Cacciatore",
+        "category": "Chicken Cacciatore",
+        "ingredients": [
+            "2 tablespoons extra-virgin olive oil, or to taste",
+            "8 (8 ounce) chicken leg quarters with skin",
+            "1 large bell pepper, finely chopped",
+            "1 medium onion, finely chopped",
+            "1 stalk celery with leaves, finely chopped",
+            "1 medium carrot, finely chopped",
+            "4 cloves garlic, minced",
+            "1 (6 ounce) can tomato paste",
+            "1 (28 ounce) can crushed San Marzano tomatoes",
+            "1 cup red wine",
+            "1 tablespoon ground allspice",
+            "1 large bay leaf",
+            "⅛ teaspoon seasoning sauce (such as Maggi®)",
+            "salt and ground black pepper to taste"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C).",
+            "Heat olive oil in a Dutch oven over medium-high heat until shimmering. Add chicken and cook until well browned, 3 to 4 minutes per side. Remove to a plate.",
+            "Reduce heat to medium and add bell pepper, onion, celery, carrot, and garlic. Sauté until translucent, about 5 minutes. Add tomato paste and stir to blend into the vegetables.",
+            "Add crushed tomatoes, wine, allspice, bay leaf, seasoning sauce, salt, and pepper. Return chicken to the pan and toss to coat all pieces.",
+            "Cover the Dutch oven and place in the preheated oven. Braise until chicken is falling off the bone and the juices run clear, 1 1/2 to 2 hours. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    }
+]

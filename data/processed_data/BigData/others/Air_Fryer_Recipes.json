@@ -1,0 +1,578 @@
+[
+    {
+        "Main_category": "other"
+    },
+    {
+        "recipe_title": "Air Fryer Potato Slices with Dipping Sauce",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "3/4 cup ketchup",
+            "1/2 cup beer",
+            "1 tablespoon Worcestershire sauce",
+            "1/2 teaspoon onion powder",
+            "1/4 teaspoon cayenne",
+            "2 baking potatoes",
+            "olive oil cooking spray",
+            "1/2 teaspoon garlic powder",
+            "salt and freshly ground black pepper"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine ketchup, beer, Worcestershire sauce, onion powder, and cayenne in a small saucepan. Bring to a boil, then reduce heat, and simmer for 3 to 5 minutes. Remove from heat, and cool. Cover and store in the refrigerator until ready to use.",
+            "Preheat the air fryer to 400 degrees F (200 degrees C). Spray the basket with cooking spray or line with a disposable parchment liner.",
+            "Slice potatoes 1/4-inch thick (use a mandoline if you have one), and place in a bowl. Spray potatoes with olive oil spray, and sprinkle with garlic powder, salt and pepper. Give the potatoes a good stir.",
+            "Place potatoes in a single layer in the air fryer, and cook, shaking occasionally, until they start to crisp up a bit and turn golden brown, 14 to 17 minutes. Cooking times can vary depending on the brand and size of the fryer, and you may have to cook in batches.",
+            "Remove from the fryer, and serve with beer ketchup dipping sauce."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Gochujang Pork Belly Bites",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 pound pork belly",
+            "1/4 cup gochujang",
+            "2 tablespoons soy sauce",
+            "1 tablespoon honey,",
+            "1 teaspoon ground ginger"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Place pork belly pieces in the basket in a single layer, not touching. Air fry for 8 to 9 minutes; turn over and air fry for 6 to 7 minutes more.",
+            "Meanwhile, for sauce, stir gochujang, soy sauce, hot honey, and ginger together in a medium bowl.",
+            "Remove pork belly from air fryer basket; toss in sauce to coat. Return to the air fryer and fry until bites begin to char at the edges, 8 to 11 minutes more. (Alternately, you can use sauce only for dipping; in this case, continue to fry without removing bites, until they begin to char, 6 to 7 minutes.)"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "3-Ingredient Air Fryer Everything Bagel Chicken Strips",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 ¼ pounds chicken tenders",
+            "1 tablespoon olive oil",
+            "1/3 cup everything bagel seasoning or to taste"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather all ingredients. Preheat an air fryer to 400 degrees F (200 degrees C), or according to manufacturer's instructions.",
+            "Place tenders in a bowl. Add oil and toss to coat. Add everything seasoning and toss to coat again.",
+            "Place tenders in the air fryer basket in a single layer; cook in batches if necessary. Cook until no longer pink at the center and juices run clear, about 12 minutes. An instant read thermometer inserted near the center should read at least 165 degrees F (74 degrees C).",
+            "Transfer to a serving plate and serve with desired dipping sauce."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Everything Bagel Chicken Cutlets",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "4 chicken cutlets (about 1 pound total)",
+            "salt and freshly ground black pepper to taste",
+            "3/4 cup all-purpose flour",
+            "2 large eggs",
+            "2 tablespoons milk",
+            "3 ablespoons verything Bagel seasoning",
+            "1 1/2 cups panko breadcrumbs",
+            "olive oil cooking spray",
+            "parchment"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C), or according to manufacturer's instructions.",
+            "Pat chicken cutlets dry with paper towels; season lightly with salt and pepper. Place flour in a resealable plastic bag; set aside.",
+            "Beat eggs with milk until well blended in a shallow bowl. On a plate, stir everything bagel seasoning and panko together.",
+            "Add cutlets to the bag with flour. Seal the bag and toss until cutlets are coated.",
+            "Working with 1 cutlet at a time, shake off any extra flour, dip each cutlet into egg mixture, and shake off any excess. Press each cutlet into panko mixture, then turn and press crumbs into the other side to adhere. Place breaded cutlets on a sheet of parchment; continue until all cutlets are coated.",
+            "Generously spray each cutlet with olive oil spray on both sides, and place cutlets in the air fryer in a single layer, working in batches if needed.",
+            "Air fry for 8 to 12 minutes, turning over halfway through, if desired. Thin cutlets will take less time, and thick cutlets will take more. An instant read thermometer inserted near the center should read 165 degrees F (74 degrees C).",
+            "Meanwhile, for glaze, combine rice vinegar, water, brown sugar, Sriracha, ginger, garlic, and soy sauce in a small saucepan and bring to a boil over medium heat. Reduce heat, and simmer until barely thickened, 3 to 5 minutes.",
+            "Drizzle each cutlet with glaze and serve warm. Garnish with fresh parsley sprigs."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Honey Sriracha Salmon Bites",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 tablespoon soy sauce",
+            "1 tablespoon honey",
+            "1 tablespoon Sriracha",
+            "1 teaspoon rice vinegar",
+            "1/4 teaspoon granulated garlic"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Whisk soy sauce, honey, 1 tablespoon Sriracha, rice vinegar, and granulated garlic together in a small bowl. Set aside.",
+            "Pat salmon dry and cut into 1 1/2-inch cubes. Toss salmon in olive oil, 1/2 tablespoon Sriracha, salt, and pepper.",
+            "Spray basket of the air fryer with cooking spray. Place seasoned salmon in the basket of the air fryer, working in batches to avoid overcrowding, if necessary.",
+            "Cook in the preheated air fryer for 4 minutes. Gently turn salmon pieces and cook until salmon flakes easily with a fork, 3 to 4 more minutes. Place on a serving platter, drizzle with honey-Sriracha sauce, and garnish with green onion and sesame seeds. Serve immediately."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Corn on The Cob",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "¼ cup mayonnaise",
+            "2 teaspoons crumbled cotija cheese",
+            "1 teaspoon lime juice",
+            "¼ teaspoon chili powder",
+            "2 ears corn, shucked and halved",
+            "4 sprigs fresh cilantro, or to taste (Optional)"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Mix mayonnaise, cotija cheese, lime juice, and chili powder in a shallow dish.",
+            "Roll each piece of corn in the mayonnaise mixture until all sides are covered.",
+            "Place all 4 pieces of corn in the air fryer basket; cook in the preheated air fryer until golden, crisp, and tender, about 8 minutes. Garnish with cilantro."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Peanut Chicken",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "2 tablespoons Thai sweet chili sauce",
+            "1 tablespoon soy sauce",
+            "1 tablespoon Sriracha",
+            "1 lime, zested and juiced",
+            "1 teaspoon granulated garlic",
+            "1 tablespoon fresh ginger",
+            "1/3 cup creamy peanut butter",
+            "salt to taste",
+            "6 skinless, boneless chicken thighs",
+            "cooking spray",
+            "2 cups cooked rice, or as needed",
+            "chopped cilantro",
+            "dry-roasted peanuts"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Combine chili sauce, soy sauce, Sriracha, lime zest, lime juice, granulated garlic, minced ginger, peanut butter, and salt to taste in a large resealable plastic bag. Gently move and mash the ingredients inside the bag until well blended.",
+            "Add chicken to the bag, and squeeze out as much air as possible. Move chicken around inside the bag until each piece is coated in marinade. Marinate in the refrigerator for at least 30 minutes and up to 24 hours.",
+            "Preheat an air fryer to 350 degrees F (180 degrees C), or according to manufacturer's recommendations.",
+            "Spray the cooking surface of the air fryer with cooking spray.",
+            "Take chicken pieces from the bag, and allow the marinade to drip back into the bag. Place chicken pieces in the air fryer in a single layer and air fry for 20 to 22 minutes, turning halfway through, until an instant-read thermometer inserted near the center reads 165 degrees F (74 degrees C).",
+            "Meanwhile, add about 1/2 cup of water to the unused marinade, and mix contents; pour into a microwave-safe container. Microwave on High, until marinade comes to a boil, and cook about 1 minute longer; watch carefully to see it does not boil over.",
+            "Serve chicken over rice, with sauce on the side as a dip. Garnish with chopped cilantro, sliced scallions, julienne cucumbers and carrots, and chopped peanuts, as desired."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Crispy Onions",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1/4 cup all-purpose flour",
+            "1/2 teaspoon cayenne pepper",
+            "1/4 teaspoon salt, or to taste",
+            "1 onion",
+            "cooking spray"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat an air fryer to 375 degrees F (190 degrees C) according to manufacturer's instructions.",
+            "Combine flour, cayenne pepper, and salt in a bowl. Add onion slices and toss until well coated.",
+            "Place onions in basket and spray with avocado oil. Air fry until golden brown, 18 to 23 minutes, shaking basket every 4 to 5 minutes."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "spicy",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Hot Honey Glazed Carrots",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "nonstick cooking spray",
+            "2 tablespoons butter,",
+            "3 tablespoons hot honey, such as Mike's Hot Honey®",
+            "1 pound baby carrots"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C). Spray the basket with nonstick spray.",
+            "Combine butter and hot honey in a bowl; add carrots and toss to coat. Place carrots in the air fryer basket, allowing any excess sauce to drip off; set bowl with remaining sauce aside.",
+            "Cook in the preheated air fryer, tossing every 7 minutes, until carrots are roasted and fork-tender, about 15 to 22 minutes. Toss cooked carrots in reserved sauce."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Sauteed Onions",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 large onion",
+            "1 1/2 teaspoons olive oil",
+            "salt and freshly ground black pepper"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Place onion petals and olive oil in a bowl; season with salt and pepper and toss to coat.",
+            "Pour mixture into the basket of the air fryer. Cook 10 minutes. Shake the basket and cook 2 minutes more."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Pasta Tacos",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 (8 ounce) box manicotti pasta",
+            "1 pound ground beef",
+            "1 packet taco seasoning",
+            "4 ounces green chiles",
+            "1 10 ounce) can tomatoes with green chiles, such as RO*TEL®, drained",
+            "2 cups shredded Cheddar cheese",
+            "3 large eggs",
+            "2 tablespoons milk or half-and-half",
+            "3 cups tortilla chips",
+            "salsa, hot sauce, sour cream, and/or guacamole"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Bring a large pot of salted water to a boil. Add pasta and cook for 6 minutes. Drain and rinse under cold water. Set aside.",
+            "Heat a nonstick skillet over medium-high heat. Add beef and cook, crumbling with a spoon, until evenly browned, about 7 minutes.",
+            "Add taco seasoning, green chiles, and RO*TEL and stir, scraping up any browned bits from the bottom of the pan. Remove from heat and stir in Cheddar cheese.",
+            "Fill each pasta shell with beef mixture and freeze for at least 30 minutes or up to 1 hour.",
+            "Meanwhile, whisk together eggs and milk in a shallow dish. Place crushed tortilla chips in a second shallow dish. Lighty coat filled pasta with egg wash and coat in crushed crumbs, pressing lightly to adhere if necessary.",
+            "Preheat an air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions.",
+            "Working in 2 batches, air fry the pasta tacos for 10 to 12 minutes. Serve with desired toppings."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Copycat Cinnabon Delights Hawaiian Rolls",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "8 ounces cream cheese",
+            "1/2 cup confectioners sugar",
+            "8 tablespoons butter,",
+            "1 teaspoon vanilla extract",
+            "1 teaspoon lemon juice",
+            "1/8 teaspoon salt",
+            "12 slider rolls",
+            "3/4 cup white sugar",
+            "1 tablespoon ground cinnamon"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Combine cream cheese, confectioner's sugar, 2 tablespoons softened butter, vanilla, lemon juice and salt together in a medium bowl and mix with an electric mixer or whisk until smooth and well blended. Transfer mixture to a resealable plastic bag or piping bag.",
+            "Use a paring knife to cut a 1/2-inch slit in one side of each roll. Use a small spoon handle or finger to form a well in the center of each roll through the slit without going all the way through to the other side.",
+            "Snip the corner of the plastic bag and fill each roll with cream cheese mixture. It helps to use a small offset spatula or the end of a small spoon to work the mixture in to get an ample amount of filling inside without it oozing out the side.",
+            "Melt remaining butter in a small bowl and brush a light coating of butter on each roll.",
+            "Preheat an air fryer to 400 degrees F (200 degrees C) according to manufacturer's instructions. Stir together sugar and cinnamon in a shallow dish.",
+            "Working in batches to avoid overcrowding, air fry filled rolls until browned and toasted, about 3 minutes. Immediately coat warm rolls evenly with cinnamon sugar. Brush with more butter if necessary before dipping in cinnamon sugar to help sugar adhere."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer English Muffin Tuna Melt",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "2 English muffins",
+            "2 (5-ounce) cans tuna",
+            "3 tablespoons mayonnaise",
+            "1 tablespoon mustard",
+            "3 tablespoons celery",
+            "1 tablespoon onion",
+            "salt and freshly ground black pepper to taste",
+            "4 slices provolone cheese",
+            "4 slices Cheddar cheese"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat an air fryer to 325 degrees F (165 degrees C). Place sliced English muffins in air fryer and toast until lightly browned, 2 to 4 minutes. Remove and set aside.",
+            "Combine tuna, mayonnaise, mustard, celery, onion, salt, and pepper in a bowl and mix until combined. Divide tuna mixture into 4 equal parts, and top each muffin half with tuna. Top each with 1 slice provolone cheese and 1 slice Cheddar cheese. Air fry until cheese is melted, 5 to 8 minutes."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Lamb Chops",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1/2 cup extra virgin olive oil",
+            "1 lemon, zested and juiced",
+            "1 teaspoon kosher salt",
+            "1/2 teaspoon ground black pepper",
+            "2 cloves garlic",
+            "1 teaspoon fresh oregano",
+            "1 teaspoon fresh mint",
+            "2 teaspoons fresh rosemary",
+            "3 teaspoons fresh parsley",
+            "4 (1/2-inch-thick) lamb loin chops"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Combine olive oil, lemon zest and juice, salt, pepper, garlic, oregano, mint, rosemary, and parsley in a large resealable plastic bag. Gently squeeze contents inside the bag to mix.",
+            "Add lamb chops, squeeze out as much air as possible, reseal the bag, and marinate in the refrigerator for at least 2 hours, or up to 4 hours. Turn the bag after each hour, to marinate both sides of the chops.",
+            "When ready to cook, preheat the air fryer to 400 degrees F (200 degrees C), or according to manufacturer's instructions.",
+            "Add lamb chops to the air fryer in a single layer and air fry for 3 1/2 minutes.",
+            "Turn chops and continue to air fry an additional 3 minutes. Test for doneness with an instant read thermometer. 120 degrees F (49 degrees C) is rare, 130 degrees F (54 degrees C) is medium, and 145 degrees F (63 degrees C) is medium well. Add time in 1-minute increments to achieve desired doneness.",
+            "Tent with foil and allow to rest for 5 to 10 minutes before serving."
+        ],
+        "healthiness_score": 80,
+        "health_level": "healthy",
+        "tastes": [
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Pesto Chicken Quinoa Bowl",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "2 teaspoons pesto",
+            "1/4 teaspoon garlic powder",
+            "1 pound boneless chicken breasts",
+            "2 teaspoons olive oil",
+            "1/8 teaspoon crushed red pepper flakes",
+            "1/8 teaspoon salt",
+            "1/8 teaspoon ground black pepper",
+            "1 zucchini,",
+            "nonstick cooking spray",
+            "2 cups cooked quinoa (see Note)",
+            "10 basil leaves,",
+            "1 cup grape tomatoes,",
+            "1/4 cup feta cheese"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Mix together pesto and garlic powder in a bowl. Add chicken to bowl and stir until evenly coated.",
+            "In a separate bowl mix together olive oil, pepper flakes, salt, and black pepper. Add zucchini to the bowl and stir until evenly coated.",
+            "Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Lightly spray air fryer with nonstick spray. Place chicken on one side, and place seasoned zucchini on the other side.",
+            "Fry in the preheated air fryer until an instant-read thermometer inserted into the center of chicken reads 165 degrees F (74 degrees C), about 10 minutes.",
+            "Mix cooked quinoa and chopped basil leaves together.",
+            "In a bowl place 1 cup quinoa, ½ cup chopped tomatoes, half the chicken breasts, and half the zucchini spears. Top each bowl with half the feta cheese and serve."
+        ],
+        "healthiness_score": 88,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Honey Mustard Salmon Bites",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 pound salmon",
+            "1 teaspoon olive oil",
+            "1/2 teaspoon paprika",
+            "1/4 teaspoon salt",
+            "1/8 teaspoon black pepper",
+            "1/4 cup honey mustard"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Gather all ingredients. Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Combine salmon, oil, paprika, salt, and pepper in a small mixing bowl. Toss to combine. Place seasoned salmon in the basket of the air fryer.",
+            "Air fry for 4 minutes.",
+            "Using a basting brush, lightly brush honey mustard over salmon pieces. Stick a toothpick in each bite.",
+            "Air fry until fish flakes easily with a fork, about 4 minutes more.",
+            "Transfer to a serving plate and serve immediately."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Air Fryer Honey Mustard Salmon",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 pound salmon filet",
+            "2 teaspoons Dijon mustard",
+            "1 teaspoon honey",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Gather all ingredients. Preheat an air fryer to 400 degrees F (200 degrees C).",
+            "Stir Dijon and honey together in a small bowl; brush over salmon. Season with salt and pepper. Place salmon in a single layer in the air fryer basket.",
+            "Air fry salmon in the preheated air fryer until fish flakes easily with a fork, 7 to 9 minutes. depending on thickness.",
+            "For sauce, melt butter in a small saucepan over medium heat. Remove from heat and pour in whiskey. Return saucepan to heat and allow flame to burn off the alcohol.",
+            "Stir in cream, Dijon, and honey; bring to a gentle boil and cook until sauce thickens slightly, 1 to 2 minutes. Season with salt and pepper.",
+            "Transfer salmon to plates, and garnish with sauce and fresh thyme."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Panko Sesame Crusted Salmon Bites",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "1 pound salmon fillet",
+            "1 teaspoon kosher salt",
+            "1 teaspoon granulated garlic",
+            "1/2 cup mayonnaise",
+            "1 tablespoon toasted sesame oil",
+            "1 tablespoon soy sauce",
+            "1 1/2 teaspoons lime juice,",
+            "1/2 cup panko (Japanese-style breadcrumbs)",
+            "1/2 cup toasted sesame seeds",
+            "cooking spray",
+            "2 teaspoons chili garlic sauce",
+            "1 teaspoon honey"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Gather all ingredients.",
+            "Sprinkle salmon evenly with 1/2 teaspoon salt. Whisk together granulated garlic, 1/4 cup mayonnaise, 1 1/2 teaspoons sesame oil, 1 1/2 teaspoons soy sauce, 1 teaspoon lime juice, and remaining 1/2 teaspoon salt in a bowl. Add salmon to mayonnaise mixture and gently toss to coat.",
+            "Stir together panko, sesame seeds, and 1 teaspoon sesame oil in a shallow bowl. Working in 4 batches, dredge salmon in panko mixture, gently pressing to adhere, and transfer to a large plate or baking sheet.",
+            "Lightly coat the air fryer basket with cooking spray. Place half of salmon in basket, spaced at least 1 inch apart. Cook at 400 degrees F (200 degrees C) until browned and an instant-read thermometer inserted into the thickest part of salmon registers 125 degrees F (52 degrees C), about 5 minutes. Transfer cooked salmon to a plate, and repeat with remaining salmon.",
+            "While salmon cooks, stir together chili garlic sauce, honey, remaining 1/4 cup mayonnaise, 1 1/2 teaspoons soy sauce, 1/2 teaspoon toasted sesame oil, and 1/2 teaspoon lime juice in a small bowl. Drizzle chili garlic mixture over cooked salmon and serve with lime wedges."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Wet Wet Wings",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "2 pounds chicken wings and drummettes",
+            "1 tablespoon oil",
+            "1 1/2 teaspoons kosher salt",
+            "1/2 teaspoon pepper",
+            "1 cup Wet Wet sauce",
+            "1/2 bunchgreen onions, green parts only, sliced (optional) green onions, green parts only, sliced (optional)",
+            "1 teaspoon sesame seeds (optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Toss wings in a bowl with oil, salt, and pepper. Transfer to the air fryer basket.",
+            "Air fry the wings at 400 degrees F (200 degrees C) until cooked through and crisp, 20 to 25 minutes.",
+            "While wings cook, prepare the wet wet sauce and set aside.",
+            "Pour wet wet sauce over wings and toss to until well coated with sauce. Sprinkle with green onions and sesame seeds if desired."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Air Fried Tossed Taquitos",
+        "category": "Air Fryer Recipes",
+        "ingredients": [
+            "24 chicken taquitos",
+            "2 tablespoons butter",
+            "1 tablespoon hot sauce",
+            "1/4 cup cotija cheese",
+            "1 tablespoon chopped cilantro",
+            "1/2 cup sour cream, or as needed for dipping"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Heat an air fryer to 400 degrees F (200 degrees C). Add taquitos and cook until slightly crispy, about 8 minutes.",
+            "Meanwhile, melt butter in a large skillet over medium heat. Stir in hot sauce until well combined. Toss taquitos in butter mixture until well coated and add to a serving platter. Top with cheese and cilantro and serve with sour cream."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

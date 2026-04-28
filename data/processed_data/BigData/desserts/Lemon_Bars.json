@@ -1,0 +1,582 @@
+[
+    {
+        "Main_category": "desserts"
+    },
+    {
+        "recipe_title": "Lemon Curd-Poppy Seed Crumb Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "3/4 cup unsalted butter",
+            "1 cup light brown sugar",
+            "1 1/2 teaspoons vanilla extract",
+            "1 teaspoon salt",
+            "1/4 teaspoon almond extract",
+            "2 cups all-purpose flour",
+            "1/4 teaspoon baking powder",
+            "1 tablespoon poppy seeds"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a 9x9-inch pan with enough parchment paper to have overhang all sides.",
+            "In a large bowl, mix together melted butter, brown sugar, vanilla, salt, and almond extract until thoroughly combined. Add in flour, baking powder, and poppy seeds and mix until combined.",
+            "Measure out about 1 1/2 cups of the mixture and press evenly into the bottom of the prepared pan. Reserve remaining mixture to use as the crumb topping.",
+            "Bake in the preheated oven until crust is just beginning to turn golden brown, 15 to 18 minutes.",
+            "Meanwhile, prepare the filling. Mix lemon curd, lemon zest, flour, egg, vanilla extract, and salt together in a bowl with a whisk or electric mixer until thoroughly combined. Pour in sweetened condensed milk and mix until combined.",
+            "Remove crust from oven and allow to cool for 5 minutes. Pour filling over crust and smooth into an even layer using a spatula. Sprinkle reserved crumbs evenly over filling.",
+            "Bake until bars look set, 20 to 25 minutes. Allow bars to cool completely in the pan. Place bars into the refrigerator until chilled, at least 4 hours. Cut into 16 bars before serving."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Chef John's Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "½ cup unsalted butter at room temperature",
+            "¼ cup confectioners' sugar",
+            "¼ teaspoon vanilla extract",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Set an oven rack to the middle position and preheat the oven to 350 degrees F (175 degrees C). Lightly grease an 8x8-inch baking dish.",
+            "Make crust: Use the back of a spatula or wooden spoon to mash flour and butter in a large bowl until thoroughly combined. Mix in confectioners' sugar, vanilla, and salt until mixture resembles slightly crumbly cookie dough. Moisten your fingers with a little water and press dough into the bottom of the prepared baking dish. Use a fork to prick holes all over crust.",
+            "Bake on the middle rack in the preheated oven until edges are barely golden brown, about 22 minutes. Set aside.",
+            "Make custard: Beat together eggs and egg yolks in a medium bowl until combined. Whisk in white sugar and flour until smooth. Add lemon juice and zest; whisk for 2 minutes. Pour over warm crust.",
+            "Bake on the center rack until custard is set and the top has a thin white sugary crust, about 25 minutes. Let cool completely before cutting into bars.",
+            "Dip a knife into very hot water, then run the blade around the edges and cut into 16 squares. Dust bars with confectioners' sugar."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cranberry Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1/2 cup unsalted butter, melted",
+            "3 tablespoons sugar",
+            "1 teaspoon almond extract",
+            "1/2 teaspoon salt",
+            "1 cup all-purpose flour"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease an 8x8-inch pan or line with parchment paper on the bottom, leaving a little overhang to easily remove bars.",
+            "Stir melted butter, 3 tablespoons sugar, almond extract, and salt together in a bowl. Add flour, and mix until well incorporated. Press dough mixture into the prepared pan in an even layer.",
+            "Bake in the preheated oven until edges start to turn a light brown, 15 to 20 minutes. Remove from the oven, and set aside.",
+            "Meanwhile, combine cranberries, 1/4 cup sugar, water, and 1 1/2 tablespoons lemon zest in a small saucepan. Cook over medium heat, stirring often. Once cranberries start to pop, mash down with the back of a spoon, until cranberries break down into a smooth consistency, 9 to 12 minutes. Set aside.",
+            "Whisk eggs, 3/4 cup sugar, lemon juice, flour, and 1 tablespoon lemon zest in a bowl until well combined.",
+            "To assemble, spread the cranberry mixture evenly over the crust, and pour the lemon layer mixture over the cranberry layer.",
+            "Return to the oven and bake until filling is set, 20 to 25 minutes.",
+            "Cool completely in the pan, and run a knife around the pan edges. Cut into squares and dust with confectioners sugar right before serving. Store leftovers in an airtight container."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "The Best Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 cup butter, softened",
+            "½ cup white sugar"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Gather the ingredients.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "To make the crust: Blend 2 cups flour, softened butter, and 1/2 cup sugar in a medium bowl until well combined.",
+            "Press crust into the bottom of an ungreased 9x13-inch pan.",
+            "Bake crust in the preheated oven until firm and golden, about 15 minutes.",
+            "Meanwhile, make the filling: Whisk remaining 1 1/2 cups sugar and 1/4 cup flour in a medium bowl. Whisk in eggs, then lemon juice until smooth.",
+            "Pour filling over the baked crust.",
+            "Bake in the preheated oven for 20 minutes. Set the pan aside to cool completely; the bars will firm up as they cool.",
+            "When cooled, cut bars into uniform squares."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Cream Cheese Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "cooking spray",
+            "2 (8 ounce) packages refrigerated crescent roll dough (such as Pillsbury Recipe Creations), divided",
+            "2 lemons, zested and juiced, divided",
+            "2 (8 ounce) packages cream cheese, softened",
+            "½ cup white sugar",
+            "2 tablespoons butter, melted",
+            "3 tablespoons white sugar"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line the bottom of a 9x13-inch baking dish with aluminum foil with overhang and coat with cooking spray.",
+            "Unroll 1 crescent roll dough; press into the bottom of the prepared baking dish, stretching to the edges.",
+            "Mix lemon juice and 3/4 of the lemon zest in a large bowl until combined. Beat cream cheese and 1/2 cup sugar into juice-zest mixture with an electric mixer until smooth and creamy; spread over crescent roll dough in the baking dish.",
+            "Unroll remaining crescent roll dough and place over cream cheese mixture, stretching to the edges. Brush with melted butter. Mix 3 tablespoons sugar and remaining lemon zest together in a small bowl until evenly mixed; sprinkle over the top.",
+            "Bake in the preheated oven until the top is golden brown, about 30 minutes. Allow to cool for about 20 minutes.",
+            "Lift dessert from the baking dish using foil; transfer to a cutting board. Cut into squares, leaving the foil on. Return dessert to the baking dish and refrigerate until chilled, at least 1 hour."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Pie Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "2 ¼ cups all-purpose flour",
+            "½ cup confectioners' sugar",
+            "1 cup butter, softened",
+            "4 eggs",
+            "1 ½ cups white sugar",
+            "½ cup lemon juice",
+            "1 tablespoon lemon zest"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Mix 2 cups of flour and confectioner's sugar together. Cut in the butter or margarine. Mix well until the dough resembles pie dough consistency. Press the dough into a 9x13 inch baking pan.",
+            "Bake 15 to 20 minutes or until golden brown.",
+            "Beat together eggs, sugar, 4 tablespoons flour, lemon juice and lemon rind for at least 1 minute. Pour the mixture over the baked crust.",
+            "Bake the bars another 20 minutes, or until the lemon topping has set. Sprinkle with confectioner's sugar when cooled."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Curd Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 cup butter, softened*",
+            "1 cup sugar",
+            "2 ½ cups Pillsbury BEST® All Purpose Flour",
+            "½ teaspoon baking soda",
+            "¼ teaspoon salt",
+            "2 (10 ounce) jars Dickinson's® Lemon Curd",
+            "¾ cup flaked coconut",
+            "½ cup almonds, chopped",
+            "1 tablespoon powdered sugar"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Heat oven to 350 degrees F. Beat butter and sugar in large bowl until creamy. Add flour, baking soda and salt. Mix until mixture forms coarse crumbs. Pat 3/4 of mixture into bottom of ungreased 13 x 9-inch baking pan.",
+            "Bake 10 minutes. Remove from oven and cool slightly. Spread curd over baked layer. Add coconut and almonds to remaining crumb mixture; stir to mix. Sprinkle over curd.",
+            "Bake additional 25 minutes or until lightly brown. Remove from oven and cool slightly. Dust with powdered sugar and cut into squares."
+        ],
+        "healthiness_score": 54,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Lime Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "½ cup confectioners' sugar",
+            "½ teaspoon salt",
+            "1 cup butter",
+            "4 eggs",
+            "⅓ cup lime juice",
+            "¼ cup all-purpose flour",
+            "2 cups white sugar",
+            "2 teaspoons grated lime peel, or more to taste (Optional)",
+            "½ teaspoon baking powder",
+            "1 drop green food coloring, or as desired (Optional)",
+            "1 ½ cups confectioners' sugar",
+            "1 tablespoon lime juice",
+            "1 teaspoon grated lime peel (Optional)"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease a 12x15-inch baking dish.",
+            "Mix 2 cups flour, 1/2 cup confectioners' sugar, and salt in a bowl; cut in butter with a pastry cutter until crust mixture resembles crumbs. Pat crust evenly into bottom of the prepared baking dish.",
+            "Bake crust in the preheated oven for 10 minutes.",
+            "Whisk eggs, 1/3 cup lime juice, 1/4 cup flour, white sugar, 2 teaspoons lime peel, baking powder, and food coloring in a bowl; pour over the crust.",
+            "Return baking dish to oven; bake until filling is set, about 25 minutes. Cool thoroughly.",
+            "Whisk 1 1/2 cup confectioners' sugar, 1 tablespoon lime juice, and 1 teaspoon grated lime peel to make a smooth glaze; spread evenly over cooled lime bars. Let glaze set before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Best Lemon Squares",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "cooking spray"
+        ],
+        "num_ingredients": 1,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Coat a 9x13-inch baking dish with cooking spray.",
+            "Combine 2 cups flour, butter, and 1/2 cup confectioners' sugar in the bowl of a food processor; pulse until mixture resembles coarse crumbs. Press into the prepared baking dish.",
+            "Bake in the preheated oven until crust edges are golden brown, 18 to 22 minutes. Cool to room temperature.",
+            "Beat white sugar, eggs, 1/4 cup flour, lemon juice, baking powder, and lemon zest together in a bowl using an electric mixer until light and fluffy; pour onto the cooled crust.",
+            "Bake in the oven until custard is set, 25 to 28 minutes. Completely cool lemon squares; dust top with confectioners' sugar."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Bake Sale Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "⅔ cup confectioners' sugar",
+            "¾ cup butter or margarine, softened",
+            "3 eggs",
+            "1 ½ cups white sugar",
+            "3 tablespoons all-purpose flour",
+            "¼ cup lemon juice",
+            "⅓ cup confectioners' sugar for decoration"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13 inch baking pan.",
+            "Combine the flour, 2/3 cup confectioners' sugar, and butter. Pat dough into prepared pan.",
+            "Bake for 20 minutes in the preheated oven, until slightly golden. While the crust is baking, whisk together eggs, white sugar, flour, and lemon juice until frothy. Pour this lemon mixture over the hot crust.",
+            "Return to the preheated oven for an additional 20 to 25 minutes, or until light golden brown. Cool on a wire rack. Dust the top with confectioners' sugar. Cut into squares."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Graham Moist Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 ¾ cups graham cracker crumbs",
+            "7 tablespoons butter, softened",
+            "2 tablespoons white sugar",
+            "5 eggs",
+            "3 cups white sugar",
+            "6 tablespoons all-purpose flour",
+            "½ cup lemon juice",
+            "⅓ cup confectioners' sugar for decoration"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Combine graham cracker crumbs, softened butter or margarine, and 2 tablespoons sugar. Press mixture onto bottom of a greased 9 x 13 inch baking pan. Bake for 20 minutes.",
+            "Beat eggs, sugar, flour, and lemon juice. (If mixture is too thick, water may be added to thin it.) Pour the mixture over the hot graham cracker crust. Bake for 25 minutes, or until golden brown.",
+            "Dust the top with confectioners' sugar. After cooling, cut into squares."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Cheesecake Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 ½ cups shortbread cookie crumbs",
+            "1 cup all-purpose flour",
+            "½ cup brown sugar",
+            "½ cup cold butter"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Line a 9x13-inch baking pan with aluminum foil.",
+            "Mix shortbread crumbs, flour, and brown sugar in a medium bowl. Cut in butter using 2 knives or a pastry blender until mixture resembles coarse crumbs. Press over the bottom of the prepared pan.",
+            "Bake in the preheated oven for 15 minutes.",
+            "Meanwhile, beat cream cheese and white sugar using an electric mixer until well blended. Add eggs and flour. Mix well. Blend in lemon juice, lemon zest, and baking powder. Pour filling over the crust.",
+            "Bake in the preheated oven until center is set, 25 to 28 minutes. Let cool completely, at least 45 minutes. Refrigerate until well chilled, about 2 hours. Sprinkle with confectioners' sugar right before serving."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 (18.25 ounce) package lemon cake mix with pudding",
+            "1 egg",
+            "½ cup vegetable oil",
+            "1 (8 ounce) package cream cheese",
+            "⅓ cup white sugar",
+            "1 tablespoon lemon juice"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Pour cake mix into a large bowl. Add the egg and oil; mix until well blended. Mixture will be slightly dry. Reserve one cup for the topping, and pat the rest into an ungreased 9x13 inch pan.",
+            "Bake for 15 minutes in the preheated oven. Set aside to cool. Meanwhile, in a medium bowl, beat the cream cheese with the sugar and lemon juice until smooth. Spread the mixture evenly over the baked crust. Crumble the reserved cake mix mixture over the top.",
+            "Bake for an additional 15 minutes in the preheated oven, or until filling is set and the topping is lightly toasted. Cool before cutting into bars. Refrigerate leftovers."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "¼ cup confectioners' sugar",
+            "¼ cup butter",
+            "1 cup white sugar",
+            "2 tablespoons all-purpose flour",
+            "½ teaspoon baking powder",
+            "2 large eggs",
+            "3 tablespoons lemon juice",
+            "1 tablespoon lemon zest",
+            "⅓ cup confectioners' sugar for decoration"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Mix 1 cup flour and 1/4 cup confectioners sugar in a medium bowl. Melt butter and stir into flour mixture. Press evenly into an 8x8-inch baking dish.",
+            "Bake in the preheated oven for 20 minutes.",
+            "While crust bakes, make topping: Mix 1 cup white sugar, 2 tablespoons flour, and baking powder in a large bowl. Beat eggs and add to mixture, stirring well. Add lemon juice and zest; mix well. Pour over crust.",
+            "Bake in the preheated oven for 25 minutes. Cool slightly, then cut into squares while warm; dust with confectioners' sugar."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Luscious Lemon Snaps",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "2 ½ cups all-purpose flour",
+            "1 ½ cups white sugar",
+            "2 teaspoons baking soda",
+            "¼ teaspoon salt",
+            "2 tablespoons lemon zest",
+            "¾ cup vegetable oil",
+            "½ cup fresh lemon juice",
+            "2 teaspoons vanilla extract"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat oven to 350 degrees F ( 175 degrees C ). Grease cookie sheets.",
+            "In a medium bowl, stir together the flour, sugar, baking soda, salt, and lemon zest. Make a well in the center and fill it with the oil, lemon juice, and vanilla. Stir everything together until it forms a dough. Alternate method: Put everything into the food processor and blend until dough forms.",
+            "Drop cookie dough by teaspoonfuls, about 2 inches apart, onto the prepared cookie sheet. Bake for 10 to 12 minutes in the preheated oven. Edges should be golden brown. For a softer cookie, bake for only 7 minutes. Cool on racks, and store in an airtight container."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Bake-Sale-Worthy Lemon Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 ½ cups all-purpose flour",
+            "⅓ cup powdered sugar",
+            "¾ cup butter, softened"
+        ],
+        "num_ingredients": 3,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking pan.",
+            "Combine 1 1/2 cups flour, 1/3 cup powdered sugar, and butter in a bowl. Pat dough into the prepared pan to form a crust.",
+            "Bake crust in the preheated oven for 20 minutes. Remove from the oven and leave oven on.",
+            "Whisk white sugar, eggs, lemon juice, and 3 tablespoons flour together in a bowl and pour filling over crust.",
+            "Bake in the hot oven until set, 20 to 25 minutes.",
+            "Remove from oven and cool completely, about 30 minutes. Dust with powdered sugar and cut into 16 bars."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Tart Lemon Triangles",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "6 tablespoons unsalted butter",
+            "¼ cup confectioners' sugar",
+            "3 large eggs",
+            "1 cup white sugar",
+            "¼ cup lemon juice",
+            "1 tablespoon grated lemon zest",
+            "3 tablespoons all-purpose flour",
+            "2 tablespoons confectioners' sugar for dusting"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Process 1 cup flour, butter, and 1/4 cup confectioners' sugar in a food processor for 10 seconds, or blend with a pastry blender until a dough forms. Pat dough evenly into a 9-inch round pie plate.",
+            "Bake in the preheated oven until golden, 12 to 15 minutes.",
+            "While crust bakes, combine eggs, white sugar, lemon juice, lemon zest, and 3 tablespoons flour; mix until smooth. Pour egg mixture over hot crust.",
+            "Bake in the preheated oven until firm, 15 to 20 minutes more. Let cool completely in pie dish, about 1 to 2 hours. Sprinkle with 2 tablespoons confectioners' sugar and cut into 12 triangles."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Curd Bars with Coconut",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "1 cup unsalted butter",
+            "2 cups all-purpose flour",
+            "1 cup white sugar",
+            "½ teaspoon baking soda",
+            "1 (10 ounce) jar lemon curd",
+            "⅔ cup flaked coconut",
+            "½ cup toasted and chopped almonds"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 375 degrees F (190 degrees C).",
+            "In a large mixing bowl cream the butter. Add the flour, sugar and baking soda. Mix until the mixture forms coarse crumbs",
+            "Pat 2/3 of the mixture into the bottom of one 9x13 inch baking pan. Bake at 375 degrees F (190 degrees C) for 10 minutes. Remove and let cool slightly.",
+            "Spread the lemon curd over the baked layer. To the remaining 1/3 of crumb mixture add the coconut and the almonds. Sprinkle over the top of the lemon curd.",
+            "Lower oven temperature to 350 degrees F (175 degrees C). Bake bars for 25 minutes or until lightly browned."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Blueberry-Lemon Crumb Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 tablespoons white sugar",
+            "2 teaspoons lemon zest",
+            "1 pinch salt",
+            "½ cup butter, chilled and diced",
+            "1 egg",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C). Grease a 9x13 inch baking pan.",
+            "Start by making the crust. In a medium bowl, stir together the 2 cups flour, 2 tablespoons white sugar, lemon zest and salt. Cut in the 1/2 cup butter until the mixture resembles coarse crumbs. Beat egg and vanilla together; stir into the crumb mixture until a dough forms. Press into the bottom of the prepared pan.",
+            "Bake for 12 to 15 minutes in the preheated oven, until golden. Remove from oven and set aside to cool slightly.",
+            "Sprinkle blueberries over the crust. Combine the 1/4 cup sugar and nutmeg; sprinkle over the blueberries. Make the topping: In a medium bowl, cream together the 5 tablespoons butter and brown sugar until smooth. Mix in the flour, so that the mixture is crumbly like streusel. Sprinkle over the blueberry layer.",
+            "Bake for 20 to 25 minutes in the preheated oven, until browned. Cool and then dust with confectioners' sugar before cutting into bars."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Lemon Oatmeal Bars",
+        "category": "Lemon Bars",
+        "ingredients": [
+            "cooking spray",
+            "1 cup brown sugar",
+            "½ cup unsalted butter, softened",
+            "1 ⅓ cups all-purpose flour",
+            "1 cup rolled oats",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "1 (14 ounce) can condensed milk",
+            "¼ cup lemon juice",
+            "1 teaspoon lemon extract",
+            "1 teaspoon almond extract"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Spray an 8-inch square baking pan with cooking spray.",
+            "Mix brown sugar and butter in a large bowl until combined. Mix flour, oats, baking powder, and salt together in a separate bowl. Add to butter mixture and mix until combined. Press half of the oat mixture in the bottom of the prepared pan.",
+            "Bake in the preheated oven until golden brown, about 15 minutes.",
+            "While crust is baking, mix condensed milk, lemon juice, lemon extract, and almond extract in a small bowl.",
+            "Pour lemon mixture over the baked crust and spread evenly. Top with remaining oat mixture and gently pat into lemon mixture.",
+            "Return to the oven and bake until filling has set and top crust is golden brown, about 20 minutes.",
+            "Remove from the oven and place on a wire rack to cool completely, about 30 minutes. Place in the refrigerator until chilled, about 2 hours. Cut into 16 bars."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    }
+]

@@ -1,0 +1,620 @@
+[
+    {
+        "Main_category": "meal_time_served"
+    },
+    {
+        "recipe_title": "Carrot Apple Pancakes",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 cup grated carrot",
+            "5 tablespoons unsalted butter",
+            "1/8 teaspoon salt",
+            "1 teaspoon ginger root",
+            "1/4 teaspoon cinnamon",
+            "1 teaspoon white sugar",
+            "1 large egg",
+            "1/2 lemon, juiced",
+            "1 apple, unpeeled",
+            "1/3 cup chopped walnuts",
+            "1/2 cup self-rising flour"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Peel and grate enough carrot to fill a 1-cup measuring cup, unpacked. Melt 3 tablespoons butter in a large nonstick skillet over medium-high heat. Add grated carrots and salt, and cook, stirring, until carrot begins to lose its raw character and softens only slightly, about 2 minutes.",
+            "Transfer carrots into a bowl, and add ginger, cinnamon, white sugar, egg, and lemon juice. Stir well to combine. Grate apple into the bowl, and stir to combine.",
+            "Add self-rising flour, and stir until it disappears. Let batter rest about 5 minutes. Meanwhile, melt remaining 2 tablespoons butter in the same skillet used for carrots over medium heat.",
+            "Once the butter melts, transfer in about 1/4 cup batter per pancake, and flatten slightly with the back of the spoon. Cook pancakes until browned and cooked through, about 3 minutes per side.",
+            "Serve topped with an optional spoon of yogurt, maple syrup, and chopped walnuts if desired."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Cottage Cheese and Egg Bake",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "cooking spray",
+            "1 tablespoon unsalted butter",
+            "4 ounces sliced mushrooms",
+            "3/4 cup red bell pepper",
+            "4 green onions",
+            "1 cup fresh spinach",
+            "salt and freshly ground black pepper",
+            "6 large eggs",
+            "3/4 cup cottage cheese",
+            "3 to 5 drops tabasco, or to taste"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Spray an 8x8-inch cake pan with cooking spray, and set aside.",
+            "Heat butter in a skillet over medium heat. Add mushrooms, red bell pepper, and white parts of green onions. Cook, stirring, until vegetables are tender, but not quite done, 3 to 5 minutes.",
+            "Stir in spinach; cook until wilted. Remove from heat and set aside. Season with salt and pepper.",
+            "Break eggs into a mixing bowl and stir until yolks and whites are well combined. Stir in cottage cheese and Tabasco sauce. Stir in cooked vegetables, and pour egg and vegetable mixture into the prepared pan.",
+            "Bake in the preheated oven until mixture is set, 30 to 35 minutes, or until the mixture is set. Remove from the oven and let stand about 5 minutes.",
+            "Garnish with reserved diced green onion tops and serve warm."
+        ],
+        "healthiness_score": 76,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Berry Cottage Cheese Breakfast Bowl",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1/2 cup low-fat cottage cheese",
+            "2 large strawberries",
+            "3 raspberries",
+            "3 blackberries",
+            "1 tablespoon pistachios",
+            "1 teaspoon flaxseed",
+            "1 tablespoon honey"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Place cottage cheese into a small bowl. Arrange strawberries, raspberries, blackberries, pistachios, and flaxseed side-by-side on top. Drizzle with honey."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Maple Pancake Shot",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "2 strips bacon",
+            "1 tablespoon maple syrup",
+            "4 ounces whiskey",
+            "2 ounces butterscotch schnapps",
+            "1 cup orange juice"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Add bacon to a skillet over medium heat, and cook until nearly crisp, about 7 minutes. Pour syrup over bacon, and cook until syrup is reduced, about 30 seconds more. Remove from heat and allow to cool. Syrup will harden like candy.",
+            "Pour 1 ounce whiskey and 1/3 ounce butterscotch schapps into each of 4 shot glasses.",
+            "Pour 2 ounces orange juice into each of 4 shot glasses or small glasses. Serve each whiskey shot with a shot of orange juice as a chaser, and a piece of bacon on the side."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Chinese Eggs in Puff Pastry",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 (14-16 ounce) sheet puff pastry",
+            "7 eggs",
+            "1 tablespoon water",
+            "1/4 teaspoon salt",
+            "1/4 cup toasted sesame seeds",
+            "1/2 teaspoon five-spice powder",
+            "3/4 cup scallion",
+            "1 tablespoon light soy sauce",
+            "2 teaspoons chili oil"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper.",
+            "Lightly flour your work surface. Roll out puff pastry sheet into a 12x16-inch rectangle using a rolling pin, about ⅛ inch thin. Transfer the dough to the prepared baking sheet and fold over the edges to form a ½-inch wide crust.",
+            "Beat 1 egg with 1 tablespoon of water to make an egg wash. Brush egg wash onto the puff pastry to help the sesame seeds and scallions adhere. Use a fork to poke holes all over the middle of the puff pastry. Score the inner edge of the crust with a paring knife.",
+            "Sprinkle sesame seeds liberally over the crust. then sprinkle salt and five spice powder evenly over the center of the puff pastry. (Sprinkle from higher up to make sure it's evenly distributed.) Follow with a little over half of the scallions.",
+            "Pre-bake puff pastry in the preheated oven until puffed up and lightly browned, 20 to 22 minutes. Remove from the oven and use a spoon to make 6 indentations into the pastry evenly spaced apart. Crack an egg into each indentation.",
+            "Bake puff pastry and eggs for an additional 6 to 10 minutes, depending on how runny or firm you like your yolks. Keep in mind, they will continue to cook a bit after you take them out of the oven.",
+            "Mix soy sauce and chili oil, and drizzle evenly over the eggs. Top with the remaining scallions, cut into 6 pieces, and serve!"
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Veggie Breakfast Egg Bake",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "3 pound Yukon Gold potatoes",
+            "1 tablespoon extra-virgin olive oil",
+            "1/2 teaspoon sea salt",
+            "ground black pepper"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Gather all ingredients and preheat the oven to 425 degrees F (218 degrees C). Line a baking sheet with parchment paper.",
+            "Place potatoes on the baking sheet and toss with olive oil, salt, and several grinds of pepper. Spread out evenly on the baking sheet and roast until tender and browned, 20 to 25 minutes.",
+            "Reduce oven temperature to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with olive oil. Whisk together eggs, milk, and ¼ teaspoon salt in a large bowl. Set aside.",
+            "Meanwhile, heat olive oil in a large skillet over medium heat. Add onion and season with 1 teaspoon salt, and several grinds of pepper. Cook, stirring occasionally, until onion is soft and translucent, 5 to 8 minutes. Add bell peppers and garlic; cook, stirring occasionally, for 2 minutes. Add spinach and ½ of the green onions and toss until spinach is just wilted.",
+            "Spread out potatoes in an even layer in the prepared baking dish. Top with 1 cup Cheddar cheese, followed by the sautéed veggies. Pour egg mixture on top and sprinkle with remaining ½ cup Cheddar cheese and green onions.",
+            "Bake in the preheated oven until eggs are set, 40 to 45 minutes.",
+            "Let stand for 5 minutes before slicing and serving."
+        ],
+        "healthiness_score": 78,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Easy Pumpkin Sausage Pancakes",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "2 cups pancake mix",
+            "1 (15 ounce) can pumpkin puree",
+            "1 1/2 cups milk",
+            "2 (8 count) packages sausage patties",
+            "1 cup syrup, or as needed for serving"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Add pancake mix, pumpkin, and milk to a bowl and stir until well combined.",
+            "Heat a nonstick skillet over medium heat. Working in batches, dip each sausage patty into pancake batter, and cook in the skillet until golden, 3 to 4 minutes per side.",
+            "Serve immediately with syrup or refrigerate until ready to serve."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Sweet Potato-Orange Breakfast Tacos",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 small orange",
+            "1 tablespoon agave nectar",
+            "1 tablespoon olive oil",
+            "1/2 teaspoon salt",
+            "1/2 teaspoon smoked paprika",
+            "1/4 teaspoon ground black pepper",
+            "1/4 teaspoon ground cumin",
+            "1 pinch ground cinnamon",
+            "1 pinch cayenne pepper",
+            "1 (15 ounce) can pinto beans, drained and rinsed",
+            "1 sweet potato",
+            "1 Fresno chile or jalapeno pepper,",
+            "8 (6 inch) corn tortillas",
+            "1 avocado",
+            "crumbled cotija cheese"
+        ],
+        "num_ingredients": 15,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a 10x15-inch rimmed sheet pan with parchment paper or foil. Juice 1 orange half (about 2 tablespoons). If you like, slice the remaining half and reserve for serving.",
+            "Whisk together orange juice, agave nectar, oil, salt, paprika, black pepper, cumin, cinnamon, and cayenne in a large bowl. Add beans, sweet potato, and Fresno pepper; toss to combine. Spread on prepared sheet pan.",
+            "Roast until sweet potatoes are tender, stirring halfway through, about 30 minutes. (To make ahead, chill sweet potato mixture for up to 4 days. Reheat before using in Step 4.)",
+            "Working quickly, run each tortilla under running water to wet on all sides. Arrange tortillas evenly over sweet potato mixture. Roast, turning tortillas halfway through, until warmed through, about 3 minutes.",
+            "Spoon sweet potato mixture into tortillas. Top with avocado. Serve with reserved orange slices and cotija."
+        ],
+        "healthiness_score": 84,
+        "health_level": "healthy",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Pumpkin-Spice French Toast",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "3 large eggs",
+            "2/3 cup pumpkin spice coffee creamer",
+            "1/3 cup canned pumpkin",
+            "1/4 cup maple syrup",
+            "1/4 teaspoon salt",
+            "1 (16 ounce) loaf French bread",
+            "2 teaspoons pumpkin pie spice or ground cinnamon",
+            "pumpkin butter, pumpkin butter,"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Coat a 10x15-inch rimmed sheet pan with cooking spray or line with parchment paper.",
+            "Whisk together eggs, creamer, pumpkin, maple syrup, and salt in a bowl; pour into a shallow dish. Soak bread slices in egg mixture, turning once, until well soaked. Shingle bread slices in the prepared pan; sprinkle with pumpkin pie spice.",
+            "Bake in the preheated oven until golden brown, 25 to 30 minutes. Serve with pumpkin butter, almonds, powdered sugar, and/or additional maple syrup."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Breakfast Pizza",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "cooking spray",
+            "2 (8-ounce) packages crescent dough sheets or refrigerated crescent rolls",
+            "12 ounces bacon, quartered",
+            "1 1/2 cups hash brown potatoes, thawed",
+            "2 cups shredded Cheddar cheese, divided",
+            "12 large eggs",
+            "1/3 cup milk",
+            "1/2 teaspoon salt",
+            "1/8 teaspoon black pepper, plus more for garnish",
+            "chopped fresh chives and/or green onion, for garnish",
+            "flaky salt, for garnish",
+            "hot sauce, for serving"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Coat a 11x17-inch rimmed sheet pan with cooking spray.",
+            "Place crescent dough sheets on the prepared sheet pan. Press seams together to seal, stretching slightly if needed to fit the pan. (If using crescent roll dough, press seams of triangles together.) Pinch dough so it comes up the sides of the pan.",
+            "Evenly sprinkle Canadian bacon over the dough. Spread hash browns over Canadian bacon and sprinkle with 1 1/2 cups cheese.",
+            "Whisk together eggs, milk, table salt, and pepper in a bowl until smooth. Pour evenly over mixture in the sheet pan. Sprinkle with remaining 1/2 cup Cheddar cheese.",
+            "Bake until eggs are set and crust is lightly browned, 30 to 35 minutes. Garnish with chives, green onion, flaky salt, and/or additional pepper. Serve with hot sauce."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Bread French Toast",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 oaf banana bread",
+            "3 large eggs",
+            "1 cup milk",
+            "1/4 cup all-purpose flour",
+            "1 tablespoon cinnamon",
+            "1 tablespoon sugar",
+            "1 teaspoon vanilla bean extract",
+            "1 pinch salt",
+            "2 tablespoons unsalted butter",
+            "2 bananas",
+            "1/4 cup chopped pecans",
+            "1/4 cup syrup",
+            "1/4 cup confectioner's sugar"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Slice banana bread loaf into 3/4- to 1-inch thick slices. Whisk eggs, milk, flour, cinnamon, sugar, vanilla extract, and salt together in a bowl.",
+            "Dip each banana bread slice into egg mixture; alternately, place slices into a baking dish, pour egg mixture over the top, and let sit for 5 to 10 minutes.",
+            "Heat 1 tablespoon butter in a large skillet over medium heat. Toast 3 to 4 slices in the skillet until golden brown, 3 to 4 minutes per side; repeat with remaining butter and bread slices.",
+            "Serve immediately with fresh slices of banana, chopped pecans, syrup, and a sprinkle of confectioners sugar."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Loaf Pan Frittata",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1/4 cup olive oil, divided",
+            "10 ounces baby spinach",
+            "12 large eggs",
+            "1 1/2 teaspoons kosher salt",
+            "1/2 teaspoon ground black pepper",
+            "1 pinch cayenne pepper",
+            "1/2 cup onion",
+            "1 large red bell pepper",
+            "1 1/2 cups cooked potatoes",
+            "4 ounces mild Cheddar or fontina cheese, shredded"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Preheat the oven to 350 degrees F (180 degrees C). Grease a 9x5-inch loaf pan and line with parchment.",
+            "Add 1 tablespoon olive oil to a large skillet over medium-high heat. Add spinach and cook, stirring, until just barely wilted, 1 to 2 minutes. Place a strainer over a bowl; transfer in spinach and let cool. When cool enough to handle, squeeze out all excess water, and set aside.",
+            "Crack eggs into a bowl; whisk with salt, black pepper, and cayenne until egg whites disappear. Refrigerate until needed.",
+            "Add remaining olive oil to the same skillet and place over medium-high heat. Add shallots, red pepper, and a big pinch of salt; cook, stirring, until peppers are nearly tender, about 4 minutes. Reduce heat to medium if vegetables are browning before getting tender.",
+            "Add potatoes, season to taste with salt, and, and cook, stirring, until potatoes are heated through and vegetables are tender, a few minutes more.",
+            "Add spinach and egg mixture, and cook, stirring, until a very soft scramble is formed. Turn off the heat and stir in cheese. Pour into the prepared pan. Tap the pan on the counter a few times to settle the contents down.",
+            "Bake in the preheated oven until a bamboo skewer inserted near the center comes out clean, 20 to 25 minutes. Cooking time will vary depending on how much or which vegetables you use in the frittata.",
+            "Let frittata cool for about 10 minutes, then remove from the pan. Frittata can be served hot, warm, at room temperature, or cold."
+        ],
+        "healthiness_score": 74,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Sheet Pan Egg in a Hole with Bacon and Brussels Sprout Slaw",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "6 tablespoons butter, softened",
+            "6 slices sourdough bread",
+            "6 slices thick-cut bacon",
+            "1/3 cup mayonnaise",
+            "1 tablespoon ijon mustard",
+            "1 tablespoon maple syrup",
+            "1 tablespoon cider vinegar",
+            "1/8 teaspoon salt",
+            "1/8 teaspoon black pepper, plus more for garnish",
+            "1 (9-10-ounce) package russels sprouts",
+            "1 shallot, thinly sliced",
+            "6 large eggs",
+            "grated Parmesan cheese, for garnish"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Preheat the oven to 400 degrees F (200 degrees C). Line a 13x18-inch rimmed sheet pan with parchment paper or foil.",
+            "Spread butter on both sides of bread slices; arrange in an even layer on the prepared sheet pan. Bake for 7 minutes; turn slices and bake until lightly toasted, about 3 minutes more.",
+            "Using a 2 1/2-inch biscuit cutter or straight-sided glass, remove a hole from the center of each toast slice. Set toast slices and rounds aside.",
+            "Arrange bacon in an even layer on the same sheet pan. Bake, turning halfway through, until crisp, 15 to 20 minutes.",
+            "Meanwhile, for slaw, whisk together mayonnaise, mustard, maple syrup, vinegar, table salt, and pepper in a bowl. Add Brussels sprouts and shallot; toss to coat.",
+            "Transfer bacon to a paper towel-lined plate; let cool. Pour off excess drippings from the pan, leaving parchment or foil in place. Return toast slices to pan, reserving rounds. Crack an egg into each hole.",
+            "Bake until whites are set and yolks are desired doneness, 7 to 9 minutes.",
+            "Crumble bacon; sprinkle evenly over eggs. Top with slaw. Garnish with flaky salt, Parmesan cheese, and/or additional pepper. If you like, top with reserved toast rounds."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Gochujang Scrambled Eggs",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "2 large eggs",
+            "1 tablespoon heavy whipping cream",
+            "1 tablespoon gochujang",
+            "1/2 tablespoon butter",
+            "2 slices deli ham",
+            "salt and freshly ground black pepper to taste",
+            "sliced green onions (optional)"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Whisk eggs, heavy cream, and gochujang in a bowl. Set aside.",
+            "Melt butter in a skillet. Add egg mixture and ham,, and cook and stir until eggs are scrambled and cooked. Season with salt and pepper. Sprinkle with green onions."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Meet Zucchini Bread Pancakes: The Breakfast I'm Making All Summer Long",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "1 teaspoon baking powder",
+            "3/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1 teaspoon ground cinnamon",
+            "1/4 teaspoon ground cloves",
+            "1 pinch ground nutmeg",
+            "3/4 cup buttermilk",
+            "3 tablespoons white sugar",
+            "1 large egg",
+            "2 tablespoons butter,",
+            "1 cup zucchini",
+            "1/3 cup chopped walnuts"
+        ],
+        "num_ingredients": 13,
+        "directions": [
+            "Gather the ingredients.",
+            "Whisk flour, baking powder, baking soda, salt, cinnamon, cloves, and nutmeg together in a large bowl.",
+            "Combine buttermilk, sugar, egg, and butter in a measuring cup; whisk well. Stir in shredded zucchini, and walnuts, then add to the dry ingredients. Fold together just until no dry spots remain.",
+            "Heat a large nonstick skillet or griddle over medium heat; grease with butter.",
+            "Working in batches, scoop 1/4 cup batter per pancake into the skillet. Cook until bubbles begin to form on surface of pancakes and edges start to look dry, 2 to 3 minutes.",
+            "Flip, and cook until fluffy and slightly firm, about 2 minutes. Repeat with remaining batter, adding butter and adjusting heat as needed."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Strawberry Butter Swim Biscuits",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "2 1/2 cups all-purpose flour",
+            "1 tablespoon baking powder",
+            "1 tablespoon white sugar",
+            "3/4 teaspoon kosher salt",
+            "1/2 teaspoon baking soda",
+            "2 cups whole buttermilk",
+            "8 tablespoons unsalted butter",
+            "3/4 cup fresh strawberries",
+            "1/2 cup confectioners sugar",
+            "1 tablespoon buttermilk"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 450 degrees F (235 degrees C).",
+            "Whisk together flour, baking powder, sugar, salt, and baking soda in a large bowl; pour in 2 cups of the buttermilk and 3 tablespoons melted butter. Stir until almost fully combined but some dry streaks remain, about 30 seconds.",
+            "Gently fold in strawberries until evenly combined.",
+            "Pour remaining 5 tablespoons melted butter into an 8-inch square baking dish; swirl the dish to evenly coat bottom and sides. Transfer dough to the prepared baking dish and gently spread into an even layer; cut biscuits into 9 even squares.",
+            "Bake in the preheated oven until biscuits are golden brown, 30 to 35 minutes. Checking after 20 minutes and tent with foil if biscuits are browning too quickly.",
+            "Remove from the oven and let rest in the pan on a wire rack for 5 minutes. Meanwhile, whisk confectioner's sugar and 1 tablespoon buttermilk together in a small bowl until combined. Drizzle evenly over warm biscuits, slice, and serve while warm."
+        ],
+        "healthiness_score": 60,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Scrambled Hot Dogs and Eggs",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1/2 tablespoon butter",
+            "1 hot dog",
+            "1 large egg",
+            "1/4 teaspoon kosher salt",
+            "1/8 teaspoon pepper"
+        ],
+        "num_ingredients": 5,
+        "directions": [
+            "Melt butter in a small nonstick skillet over medium heat. Add hot dogs and cook until browned on all sides, about 2 minutes. Turn heat to down to medium-low.",
+            "Whisk eggs with salt and pepper until well blended and pour over hot dogs. Cook, stirring constantly until eggs are set. Serve immediately."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "3-Ingredient Chicken and Waffle Bites",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 10.6 ounce) jug shake and pour pancake mix, such as Bisquick Shake N Pour®",
+            "1 1/2 pounds chicken tenders,",
+            "cooking spray",
+            "3/4 cup maple syrup, or as needed for dipping"
+        ],
+        "num_ingredients": 4,
+        "directions": [
+            "Prepare chicken tenders according to package directions.",
+            "Prepare pancake mix according to instructions. Pour mixture into a bowl.",
+            "Meanwhile, heat up a waffle iron. Spray waffle iron with nonstick spray. Take 1 to 4 chicken tenders at a time, depending on the size of your waffle iron, and dip tenders halfway into pancake batter; place onto the waffle iron. Cook until golden brown.",
+            "Remove from the waffle iron to a plate; continue cooking remaining chicken.",
+            "Serve immediately with syrup for dipping."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "5-Ingredient Breakfast Hand Pies",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 sheet puff pastry",
+            "4 slices bacon, cooked, drained and crumbled",
+            "3 large eggs",
+            "1/2 cup shredded Cheddar cheese",
+            "1 tablespoon butter",
+            "1/2 teaspoon dried basil, or to taste (optional)",
+            "salt and freshly ground black pepper"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (180 degrees C). Line a baking sheet with parchment.",
+            "Roll puff pastry out onto a lightly floured work surface. Using a rolling pin or your fingers, roll or pat pastry into a square. Cut pastry vertically into 3 rectangles. Transfer to the prepared parchment.",
+            "Crack eggs into a bowl and whisk with basil, salt, and pepper. Add half the cheese and stir to combine.",
+            "Add egg mixture to a nonstick skillet over medium heat. Stir eggs until just combined and cooked through. Remove from heat.",
+            "Add a scoop of eggs on one side of each puff pastry rectangle. Top eggs with a sprinkle of cheese, then some bacon.",
+            "Carefully lift the other side of pastry rectangle and fold it over the side with filling. Use the back of a fork, press down all around the edges to seal completely. Brush each pie with melted butter. Sprinkle with remaining cheese.",
+            "Bake in the preheated oven until puffed and golden, about 15 minutes."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Italian Breakfast Strata",
+        "category": "Breakfast And Brunch",
+        "ingredients": [
+            "1 large loaf Italian or French bread",
+            "1 tablespoon olive oil",
+            "12 ounces italian sausage",
+            "1 yellow onion",
+            "1/2 teaspoon ground black pepper",
+            "1/4 teaspoon dried oregano",
+            "1/4 teaspoon dried thyme",
+            "1/8 teaspoon dried rosemary",
+            "1 pinch cayenne pepper",
+            "1 pound baby spinach",
+            "12 large eggs",
+            "2 teaspoons kosher salt",
+            "4 cups milk",
+            "8 ounces fontina or fontal cheese, shredded"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Cut bread into 1-inch cubes, and spread out in a single layer on the work surface; leave uncovered overnight to become stale.",
+            "Add olive oil to a skillet set over medium-high heat, and add sausage. Cook, while crumbling with a spatula, for a few minutes, just until the sausage starts to brown. Add onions, a large pinch of salt, black pepper, cayenne, oregano, thyme, and rosemary. Cook, stirring until the onions soften and start to turn translucent.",
+            "Transfer the mixture into a bowl, then spoon about 1 tablespoon of rendered sausage fat back into the pan; place pan back over medium-high heat.",
+            "Add spinach and cook, tossing with tongs until it's just barely wilted and bright green. Transfer into a strainer to cool. Squeeze out any excess water, and chop before using. Or, use scissors to snip into small pieces.",
+            "Whisk eggs with salt until yolks have been incorporated into the whites. Whisk in milk and set aside.",
+            "Grease a 9x13-inch casserole dish with olive oil. Cover the bottom with a single tight layer of stale bread cubes. Top evenly with about 60% of sausage mixture, layer on 60% of spinach, and then scatter over half the cheese.",
+            "Top this with another layer of bread cubes, pressing down lightly with your hands to flatten. Top bread with remaining sausage and spinach. Ladle egg and milk mixture evenly over casserole. Top with the remaining cheese.",
+            "Wrap tightly and place in the refrigerator overnight.",
+            "Preheat the oven to 350 degrees F (180 degrees C).",
+            "Bake strata in the preheated oven until top is lightly browned, and an instant read thermometer inserted into the center reaches 150 degrees F (66 degrees C), about 1 hour 15 minutes.",
+            "Let strata rest for 10 to 15 minutes before serving."
+        ],
+        "healthiness_score": 68,
+        "health_level": "moderate",
+        "tastes": [
+            "spicy",
+            "savory",
+            "umami"
+        ]
+    }
+]

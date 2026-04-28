@@ -1,0 +1,620 @@
+[
+    {
+        "Main_category": "bakery"
+    },
+    {
+        "recipe_title": "Banana Bread Brownies",
+        "category": "Banana Breads",
+        "ingredients": [
+            "1 3/4 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon kosher salt",
+            "2 ounces dark chocolate, broken into pieces",
+            "1 cup white sugar",
+            "1/2 cup unsalted butter, at room temperature",
+            "1 large egg",
+            "2 bananas, mashed (about 1 cup)",
+            "1/4 teaspoon vanilla extract",
+            "1/2 cup chopped walnuts",
+            "1/2 cup semisweet chocolate chips",
+            "12 slices banana (optional)",
+            "2 tablespoons white sugar"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Generously butter a 9x9-inch square pan. A piece of parchment paper can also be added to the bottom of the pan to prevent sticking.",
+            "Whisk flour, baking powder, baking soda, and salt together in a bowl; set aside.",
+            "Melt chocolate in a microwave-safe glass or ceramic bowl in 15-second intervals, stirring after each interval, 1 to 3 minutes.",
+            "Beat butter and sugar together in a large bowl with an electric mixer until light and fluffy. Add egg, vanilla, and mashed banana, and beat until combined. Add chocolate, and beat until mixture is well combined and smooth.",
+            "Use a spatula to mix in walnuts and chocolate chips, then use the spatula to mix in flour just until flour disappears. Transfer batter into the prepared pan and smooth top. Place banana slices on top, evenly spaced in a grid pattern.",
+            "Bake in the preheated oven until a skewer comes out almost clean but with some batter on the very tip. If you want fudgier brownies, do not overcook.",
+            "Let brownies cool in the pan. Cover, refrigerate until cold, about 1 hour, and serve chilled.",
+            "For optional banana brûlée: While brownies are cooling, cover each banana slice with a half teaspoon of sugar. Use a propane kitchen torch to melt the sugar until dark brown and bubbling. Be careful not to char the edges of the crust around the banana too much. This banana brûlée step can also be done before the brownies go into the oven."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "¼ teaspoon salt",
+            "¾ cup brown sugar",
+            "½ cup butter",
+            "2 large eggs, beaten",
+            "2 ⅓ cups mashed overripe bananas"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.",
+            "Combine flour, baking soda, and salt in a large bowl. Beat brown sugar and butter with an electric mixer in a separate large bowl until smooth. Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture until just combined.",
+            "Pour batter into the prepared loaf pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 60 minutes.",
+            "Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Banana Chocolate Chip Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "3 ripe bananas, mashed",
+            "1 tablespoon milk",
+            "1 teaspoon ground cinnamon, or to taste",
+            "1 cup white sugar",
+            "½ cup butter, softened",
+            "2 large eggs",
+            "1 cup semisweet chocolate chips"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan, preferably glass.",
+            "Mix flour, baking powder, baking soda, and salt in a bowl.",
+            "Stir bananas, milk, and cinnamon in another bowl.",
+            "Beat sugar and butter together in a third bowl with an electric mixer until light and fluffy; add eggs one at a time, beating well after each addition.",
+            "Stir banana mixture into butter mixture; mix in flour mixture until just blended. Fold in chocolate chips; pour batter into the prepared loaf pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack before slicing.",
+            "Slice and enjoy!"
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Joy's Easy Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "3 ripe bananas, mashed",
+            "1 cup white sugar",
+            "1 egg",
+            "¼ cup melted butter",
+            "1 ½ cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt"
+        ],
+        "num_ingredients": 7,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan.",
+            "Combine bananas, sugar, egg, and butter together in a bowl. Mix flour and baking soda together in a separate bowl; stir into banana mixture until batter is just mixed.",
+            "Stir in salt; pour batter into the prepared loaf pan.",
+            "Bake in the preheated oven until a toothpick inserted in the center of the bread comes out clean, about 1 hour.",
+            "Enjoy!"
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Janet's Rich Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "1 cup white sugar",
+            "½ cup butter, melted",
+            "2 eggs",
+            "1 teaspoon vanilla extract",
+            "1 ½ cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "½ cup sour cream",
+            "½ cup chopped walnuts",
+            "2 medium bananas, sliced"
+        ],
+        "num_ingredients": 10,
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+            "Stir sugar and melted butter together in a large bowl. Add eggs and vanilla; mix well. Combine flour, baking soda, and salt; stir into butter mixture until smooth.",
+            "Fold in banana slices, sour cream, and walnuts; transfer into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, about 1 hour.",
+            "Cool loaf in the pan for 10 minutes before inverting onto a wire rack to cool completely.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Extreme Banana Nut Bread 'EBNB'",
+        "category": "Banana Breads",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "2 teaspoons baking soda",
+            "1 teaspoon salt",
+            "2 cups white sugar",
+            "1 cup butter, softened",
+            "2 cups mashed overripe bananas",
+            "4 large eggs, beaten",
+            "1 cup chopped walnuts"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9x5-inch loaf pans.",
+            "Sift flour, baking soda, and salt into a large bowl.",
+            "Cream sugar and butter together in a separate bowl. Stir in bananas, eggs, and walnuts until well blended.",
+            "Pour wet ingredients into flour mixture and stir just until blended. Divide the batter evenly between the two prepared pans.",
+            "Bake in the preheated oven until a paring knife inserted into the crown of each loaf comes out clean, 60 to 70 minutes.",
+            "Remove from the oven and let loaves cool in the pans for at least 5 minutes. Turn out onto a cooling rack, and let cool completely, about 30 minutes.",
+            "Slice and serve. For more intense flavor, wrap each loaf in aluminum foil to keep in the moisture, then refrigerate for at least 2 hours before serving."
+        ],
+        "healthiness_score": 52,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Sour Cream Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "3 ¼ cups white sugar, divided",
+            "3 teaspoons ground cinnamon, divided",
+            "¾ cup butter",
+            "6 very ripe bananas, mashed",
+            "1 (16 ounce) container sour cream",
+            "3 eggs",
+            "2 teaspoons vanilla extract",
+            "4 ½ cups all-purpose flour",
+            "3 teaspoons baking soda",
+            "½ teaspoon salt",
+            "1 cup chopped walnuts (Optional)"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 300 degrees F (150 degrees C). Grease four 7x3-inch loaf pans. Mix 1/4 cup sugar and 1 teaspoon cinnamon together in a small bowl until well combined; dust the greased pans lightly with sugar mixture.",
+            "Beat remaining 3 cups sugar and butter together in a large bowl with an electric mixer until smooth.",
+            "Add mashed bananas, sour cream, eggs, vanilla, and remaining 2 teaspoons cinnamon; continue to beat until well-blended.",
+            "Add flour, baking soda, and salt; mix until just combined. Stir in walnuts and divide batter evenly into the prepared pans.",
+            "Bake in the preheated oven until a toothpick inserted in center comes out clean, about 1 hour.",
+            "Serve and enjoy!"
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "The Best Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "1 cup white sugar",
+            "½ cup margarine, softened",
+            "2 eggs",
+            "1 ½ cups mashed banana",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda"
+        ],
+        "num_ingredients": 6,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x5-inch loaf pan.",
+            "Beat sugar and margarine in a bowl until smooth. Beat in eggs, then bananas. Add flour and baking soda, stirring just until combined. Pour into the prepared pan.",
+            "Bake in the preheated oven until a toothpick in the center comes out clean, about 1 hour. Remove from the pan and let cool.",
+            "Store in the refrigerator or freeze."
+        ],
+        "healthiness_score": 62,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet"
+        ]
+    },
+    {
+        "recipe_title": "Sarah's Banana Bread Muffins",
+        "category": "Banana Breads",
+        "ingredients": [
+            "1 cup white sugar",
+            "½ cup vegetable oil",
+            "1 large egg",
+            "3 ripe bananas, mashed",
+            "¼ cup chopped walnuts",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 12-cup muffin tin or line cups with paper liners.",
+            "Mix sugar, oil, and egg in a large bowl until light and creamy. Stir in bananas and walnuts. Add flour, baking soda, and salt; stir until completely smooth. Spoon batter into the prepared muffin cups, filling each 3/4 full.",
+            "Bake in the preheated oven until tops spring back when lightly pressed, about 30 to 40 minutes."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Pumpkin Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "2 ripe bananas, mashed",
+            "1 ⅓ cups canned pumpkin puree",
+            "½ cup honey",
+            "½ cup white sugar",
+            "⅓ cup vegetable oil",
+            "2 large eggs",
+            "2 ½ cups all-purpose flour",
+            "2 teaspoons pumpkin pie spice",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon ground cinnamon",
+            "½ teaspoon salt",
+            "¾ cup raisins (Optional)",
+            "½ cup walnut pieces (Optional)"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+            "Stir together bananas, pumpkin, honey, sugar, vegetable oil, and eggs in a large bowl. Combine flour, pie spice, baking powder, baking soda, cinnamon, and salt in a separate bowl. Stir flour mixture into banana mixture until just combined. Fold in raisins and walnuts. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, about 45 minutes. Cool loaf in the pan for 10 minutes before transferring to a wire rack to cool completely."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "spicy",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Blueberry Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "½ teaspoon salt",
+            "1 cup white sugar",
+            "½ cup butter, softened",
+            "2 large eggs",
+            "2 teaspoons vanilla extract",
+            "2 ripe bananas, mashed",
+            "1 cup fresh blueberries"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease 3 mini loaf pans.",
+            "Mix flour, baking soda, and salt together in a medium bowl.",
+            "Beat sugar and butter with an electric mixer in a large bowl until light in color and fluffy.",
+            "Add eggs, one at a time, mixing well after each addition. Stir in vanilla extract; beat in mashed bananas.",
+            "Add flour mixture a little at a time, beating until just combined into a thick batter. Fold in blueberries until evenly distributed.",
+            "Pour batter into the prepared loaf pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 30 to 35 minutes. Cool in the pans for 10 minutes, then transfer loaves to cool completely on a wire rack."
+        ],
+        "healthiness_score": 64,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Almost No Fat Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "cooking spray",
+            "1 ½ cups all-purpose flour",
+            "¾ cup white sugar",
+            "1 ¼ teaspoons baking powder",
+            "½ teaspoon baking soda",
+            "½ teaspoon ground cinnamon",
+            "1 cup banana, mashed",
+            "¼ cup applesauce",
+            "2 egg whites"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease an 8x4-inch loaf pan.",
+            "Stir flour, sugar, baking powder, baking soda, and cinnamon together in a large bowl. Add banana, applesauce, and egg whites; stir just until combined. Pour batter into the prepared pan.",
+            "Bake in preheated oven until a toothpick inserted into the center comes out clean, 50 to 55 minutes. Turn out onto a wire rack and allow to cool before slicing."
+        ],
+        "healthiness_score": 66,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Brown Sugar Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "4 ripe bananas, cut into chunks",
+            "1 ¼ cups light brown sugar",
+            "½ cup butter, softened",
+            "1 jumbo egg",
+            "¼ cup whole milk",
+            "1 teaspoon cinnamon",
+            "1 teaspoon vanilla extract",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "½ teaspoon baking soda",
+            "½ teaspoon kosher salt"
+        ],
+        "num_ingredients": 11,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+            "Place bananas into a large resealable plastic bag; seal the bag and smoosh bananas with your fingers until well mashed. Set aside.",
+            "Mix together brown sugar and butter in a large bowl with an electric mixer on medium speed until light and fluffy, 1 to 2 minutes. Cut a corner from the plastic bag; squeeze mashed bananas into brown sugar mixture in the bowl. Add egg, milk, cinnamon, and vanilla; beat on medium speed until well combined. Mix in flour, baking powder, baking soda, and kosher salt on low speed just until smooth, about 1 minute. Spread into the prepared loaf pan.",
+            "Bake in the preheated oven until lightly browned on top and a toothpick inserted into the center comes out clean, about 40 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Bran Muffins",
+        "category": "Banana Breads",
+        "ingredients": [
+            "½ cup butter, softened",
+            "½ cup brown sugar",
+            "3 bananas, mashed",
+            "2 large eggs",
+            "¼ cup milk",
+            "1 teaspoon vanilla extract",
+            "1 ½ cups all-purpose flour",
+            "½ cup wheat bran",
+            "1 teaspoon baking powder",
+            "1 teaspoon baking soda",
+            "¼ teaspoon salt",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C). Grease a muffin pan or line with paper liners.",
+            "Cream together butter and brown sugar in a large bowl with an electric mixer on medium speed until fluffy. Add mashed bananas, eggs, milk, and vanilla; mix well. Stir in flour, bran, baking powder, baking soda, and salt; blend just until moistened. Stir in walnuts. Pour batter into the prepared muffin cups.",
+            "Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, 20 to 25 minutes. Cool muffins in the pan for 5 minutes, then transfer to a wire rack to cool completely."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Banana Loaf",
+        "category": "Banana Breads",
+        "ingredients": [
+            "1 cup white sugar",
+            "½ cup butter",
+            "2 large eggs",
+            "3 ripe bananas, mashed",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.",
+            "Cream sugar and butter in a large bowl with an electric mixer on medium speed until light and fluffy. Add eggs, one at a time, beating well after each addition. Mix in mashed bananas. Sift together flour, baking soda, baking powder, and salt in a separate bowl; beat into banana mixture just until combined. Fold in nuts. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, about 1 hour."
+        ],
+        "healthiness_score": 58,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Simple Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "cooking spray",
+            "2 cups all-purpose flour",
+            "1 teaspoon baking powder",
+            "½ teaspoon salt",
+            "4 ripe bananas, mashed",
+            "2 large eggs",
+            "⅔ cup white sugar",
+            "½ cup chopped walnuts"
+        ],
+        "num_ingredients": 8,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8x4-inch loaf pan and set aside.",
+            "Sift together flour, baking powder, and salt in a large bowl. Set aside.",
+            "Mash bananas in another bowl and stir in eggs and sugar.",
+            "Stir the flour mixture into the banana mixture just to combine, then fold in walnuts. Pour the batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the bread comes out clean, 55 to 65 minutes.",
+            "Remove from the oven and cool on a rack for 10 minutes, then remove from the pan and cool completely. Slice and serve."
+        ],
+        "healthiness_score": 70,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "bitter",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Cream Cheese Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "cooking spray"
+        ],
+        "num_ingredients": 1,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan with cooking spray.",
+            "Make bread: Combine melted butter, brown sugar, egg, sour cream, white sugar, and vanilla in a large bowl; whisk until smooth. Mash in bananas using a fork. Whisk in flour, baking soda, baking powder, and salt until just combined.",
+            "Make filling: Whisk together cream cheese, egg, white sugar, and flour in a medium bowl until smooth.",
+            "Pour 1/2 of the banana batter into the prepared loaf pan. Spread with cream cheese filling. Pour remaining banana batter on top.",
+            "Bake in the preheated oven until top is firm and bounces back when gently pressed, about 50 minutes. Cool in the pan for about 5 minutes."
+        ],
+        "healthiness_score": 50,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Grandma's Homemade Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "1 ½ cups white sugar",
+            "½ cup butter, softened",
+            "3 bananas, mashed",
+            "2 large eggs",
+            "2 cups all-purpose flour",
+            "⅓ cup sour milk",
+            "1 teaspoon vanilla extract",
+            "½ teaspoon baking soda",
+            "¼ teaspoon salt"
+        ],
+        "num_ingredients": 9,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease an 8x4-inch loaf pan.",
+            "Combine sugar, butter, bananas, and eggs in a large mixing bowl. Add in flour, milk, vanilla, baking soda, and salt; beat well. Pour batter into the prepared pan.",
+            "Bake in the preheated oven until a toothpick inserted into the center of the loaf comes out clean, about 60 minutes."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory",
+            "umami"
+        ]
+    },
+    {
+        "recipe_title": "Spiced Banana Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "2 cups flour",
+            "1 ½ teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "4 very ripe bananas",
+            "1 cup sugar",
+            "2 large eggs",
+            "1 teaspoon cinnamon",
+            "½ teaspoon salt",
+            "½ teaspoon nutmeg",
+            "¼ teaspoon ground cloves",
+            "½ cup melted butter",
+            "1 teaspoon vanilla extract"
+        ],
+        "num_ingredients": 12,
+        "directions": [
+            "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 8x3-inch loaf pans.",
+            "Whisk together flour, baking powder, and baking soda; set aside.",
+            "Mash bananas, sugar, eggs, cinnamon, salt, nutmeg, and cloves together in a large bowl with a fork until well combined. Stir in melted butter and vanilla, then fold in flour mixture until a batter forms and no dry lumps remain. Pour into the prepared loaf pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes.",
+            "Cool in the pan for 10 minutes, then remove from the pan, and allow to cool completely on a wire rack."
+        ],
+        "healthiness_score": 56,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "savory"
+        ]
+    },
+    {
+        "recipe_title": "Banana Zucchini Bread",
+        "category": "Banana Breads",
+        "ingredients": [
+            "3 large eggs",
+            "1 cup white sugar",
+            "1 cup grated zucchini",
+            "¾ cup vegetable oil",
+            "2 ripe bananas, mashed",
+            "⅔ cup packed brown sugar",
+            "2 teaspoons vanilla extract",
+            "3 ½ cups all-purpose flour",
+            "1 tablespoon ground cinnamon",
+            "1 ½ teaspoons baking powder",
+            "1 teaspoon baking soda",
+            "1 teaspoon salt",
+            "½ cup dried cranberries (Optional)",
+            "½ cup chopped walnuts (Optional)"
+        ],
+        "num_ingredients": 14,
+        "directions": [
+            "Preheat the oven to 325 degrees F (165 degrees C). Grease and flour two 8x4-inch bread loaf pans.",
+            "Beat eggs in a large bowl with an electric mixer until light yellow and frothy. Add white sugar, zucchini, oil, bananas, brown sugar, and vanilla; beat until well combined. Stir in flour, cinnamon, baking powder, baking soda, and salt. Fold in cranberries and nuts if using. Divide batter evenly between the prepared loaf pans.",
+            "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 45 to 50 minutes. Allow to cool in the loaf pans on a wire rack before removing and serving."
+        ],
+        "healthiness_score": 72,
+        "health_level": "moderate",
+        "tastes": [
+            "sweet",
+            "sour",
+            "bitter",
+            "savory"
+        ]
+    }
+]
